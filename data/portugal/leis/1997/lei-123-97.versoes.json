@@ -1,0 +1,196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:687460:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-11-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b16fa3f675f355b9",
+    "1fbcb63e1e1d080d",
+    "1af7d86cde762489",
+    "4b696908249825a8",
+    "fdf18deff7b6c2f0",
+    "0ebecd00bcd313a4",
+    "a3348d0d547bbe0b",
+    "d39467790b4129e1",
+    "e034da77a9f48349",
+    "478b724eed0068ca",
+    "f3cd7614230dffbe",
+    "68bab10525cd6e25",
+    "188de76bfe4218e8",
+    "1f2fa1974cfa9e1c",
+    "7d59eda5b334a55c"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "b16fa3f675f355b9",
+    "1fbcb63e1e1d080d",
+    "8b2e297439c73da2",
+    "4b696908249825a8",
+    "fdf18deff7b6c2f0",
+    "0ebecd00bcd313a4",
+    "a3348d0d547bbe0b",
+    "d39467790b4129e1",
+    "e034da77a9f48349",
+    "478b724eed0068ca",
+    "f3cd7614230dffbe",
+    "68bab10525cd6e25",
+    "188de76bfe4218e8",
+    "1f2fa1974cfa9e1c",
+    "7d59eda5b334a55c"
+   ]
+  }
+ ],
+ "fragments": {
+  "b16fa3f675f355b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Novembro\n\nEstabelece as bases do interprofissionalismo agro-alimentar\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "1fbcb63e1e1d080d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - As organizações interprofissionais, adiante designadas por OI, são constituídas por estruturas representativas da produção, transformação ou comercialização de produtos agro-alimentares, especializadas por produto ou grupo de produtos agro-alimentares afins, e ainda por representantes dos consumidores, de acordo com a legislação a publicar.\n\n2 - Por cada produto ou grupo de produtos só poderá ser reconhecida uma organização interprofissional, sem prejuízo do disposto no n.º 3 do presente artigo.\n\n3 - Para efeitos do presente diploma, os produtos agro-alimentares reconhecidos com denominações de origem, com indicações geográficas de proveniência, com denominações e indicações de qualidade ou obtidos por processos específicos de produção e destinados a mercados igualmente específicos serão considerados como produtos ou sectores distintos de outros de igual ou idêntica natureza.\n\n4 - A presente lei não se aplica aos produtos ou grupos de produtos agro-alimentares que, dadas as suas características, já se encontrem regulados e organizados ao abrigo de legislação específica."
+  },
+  "1af7d86cde762489": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nÀs OI de âmbito nacional que forem reconhecidas nos termos da presente lei e legislação complementar é atribuído o estatuto de pessoa colectiva de direito privado e utilidade pública."
+  },
+  "4b696908249825a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\n1 - São objectivos das IO:\n\na) Contribuir para um melhor conhecimento e transparência dos mercados, designadamente mediante a produção de informação estatística e análise de tendências, e contribuir para o estabelecimento das relações contratuais entre os agentes económicos;\n\nb) Promover programas de investigação e de desenvolvimento em articulação com as entidades públicas responsáveis pela investigação, com vista a obter novas utilizações e melhores adaptações às necessidades dos mercados;\n\nc) Desenvolver acções de promoção dos produtos agro-alimentares nos mercados interno e externo, designadamente com a produção de informação técnica vocacionada para aumentar a confiança dos consumidores e conquistar novos mercados;\n\nd) Contribuir para assegurar o controlo de qualidade ao nível da produção, da transformação e do acondicionamento do produto final;\n\ne) Incentivar a realização dos controlos sanitários e de qualidade;\n\nf) Contribuir para a defesa do ambiente, através da implantação de soluções que conjuguem ópticas de sustentabilidade económica e ambiental;\n\ng) Desenvolver acções tendentes a garantir um equilíbrio adequado da oferta e da procura no sector respectivo;\n\nh) Contribuir para a certificação do produto final.\n\n2 - Para efeitos da alínea a) do número anterior, as OI têm o dever de cooperação com o Observatório dos Mercados Agrícolas e das Importações Agro-Alimentares, criado pela [Lei n.º 11/97](https://diariodarepublica.pt/dr/detalhe/lei/11-1997-398174), de 21 de Maio.\n\n3 - A Administração Pública, através dos ministérios competentes, tem o dever de colaborar com as OI na prossecução dos objectivos destas."
+  },
+  "fdf18deff7b6c2f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reconhecimento\n\n1 - O Ministério da Agricultura, do Desenvolvimento Rural e das Pescas reconhecerá, para efeitos do presente diploma, e inscreverá no registo previsto no artigo 5.º do presente diploma as OI que requeiram e preencham os seguintes requisitos:\n\na) Não terem fins lucrativos;\n\nb) Apresentarem, para o sector ou produto respectivo, um nível de representação mínima;\n\nc) Prossigam as acções previstas no artigo 3.º;\n\nd) Incluam nos seus estatutos disposições que visem assegurar:\n\ni) A entrada nas OI de toda e qualquer organização de âmbito nacional ou de âmbito regional ou local quando estiver em causa um produto específico, com uma representatividade a definir, por fileira agro-alimentar e para cada estádio dessa fileira, por decreto-lei do Governo;\n\nii) A participação paritária nos órgãos de gestão de cada um dos ramos profissionais representados.\n\n2 - Sempre que deixar de ser observado algum dos requisitos previstos no número anterior, o reconhecimento será revogado."
+  },
+  "0ebecd00bcd313a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo\n\n1 - É criado o registo das OI no Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n2 - Estão sujeitos a registo os acordos aprovados nos termos do artigo 7.º, n.º 2."
+  },
+  "a3348d0d547bbe0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatórios\n\nPara efeitos de acompanhamento, as OI entregarão anualmente ao Ministério da Agricultura, do Desenvolvimento Rural e das Pescas o seu relatório e contas e ainda o plano anual de actividades."
+  },
+  "d39467790b4129e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acordos\n\n1 - As OI podem promover a celebração de acordos entre as estruturas que as integram que prossigam os objectivos enunciados no artigo 3.º\n\n2 - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode, a requerimento das OI, aprovar os acordos que revistam a forma de contratos tipo ou acções comuns, sempre que incidam sobre a qualidade dos produtos, sua normalização e acondicionamento, protecção do meio ambiente, divulgação sobre produções e mercados e ainda sobre acções de promoção e valorização do respectivo produto ou sector.\n\n3 - Os acordos aprovados serão publicados na 2.ª série do Diário da República, podendo haver lugar a reclamação para o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas dentro do prazo de 20 dias a contar da data da publicação.\n\n4 - Os acordos serão extensíveis, total ou parcialmente, ao conjunto dos operadores económicos do sector ou produto respectivo, nos termos de portaria a publicar pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "e034da77a9f48349": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Financiamento\n\n1 - A constituição e o funcionamento das OI serão incentivados nos termos da legislação aplicável.\n\n2 - As OI reconhecidas nos termos da presente lei poderão beneficiar de ajudas, benefícios fiscais ou subvenções públicas legalmente estabelecidos para o apoio ao associativismo, funcionamento e modernização das associações e para a realização dos objectivos para que foram constituídas.\n\n3 - Sempre que estiverem em vigor normas de extensão de acordos celebrados por OI, podem estas aplicar taxas aos agentes económicos do sector do produto respectivo proporcionais aos custos dos serviços prestados no âmbito das acções comuns previstas nos acordos aprovados objecto de extensão.\n\n4 - Caberá às OI estabelecerem o regime de quotização a aplicar aos seus associados."
+  },
+  "478b724eed0068ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fiscalização\n\nCompete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA) e às direcções regionais de agricultura (DRA) a fiscalização da execução dos acordos aprovados nos termos deste diploma."
+  },
+  "f3cd7614230dffbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coimas\n\nAs infracções aos acordos aprovados nos termos deste diploma constituem contra-ordenações, puníveis de acordo com o previsto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de Setembro."
+  },
+  "68bab10525cd6e25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Processo\n\n1 - Ao processo contra-ordenacional é aplicável, com as devidas adaptações, o [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de Setembro.\n\n2 - A entidade que levantar o auto de notícia remeterá o mesmo à DRA da área em que foi praticada a infracção, para instrução do competente processo.\n\n3 - Cabe à DGFCQA a aplicação de coimas e de eventuais sanções acessórias."
+  },
+  "188de76bfe4218e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Afectação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Afectação das coimas\n\nA afectação do produto das coimas cobradas em aplicação do artigo anterior far-se-á da seguinte forma:\n\na) 10% para a entidade que levantar o auto;\n\nb) 10% para a entidade que instruir o processo;\n\nc) 20% para a entidade que aplicar as coimas;\n\nd) 60% para os cofres do Estado."
+  },
+  "1f2fa1974cfa9e1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Audição de entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Audição de entidades\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas ouvirá o Conselho Nacional de Agricultura, do Desenvolvimento Rural e das Pescas para efeitos de aprovação dos acordos referidos no artigo 7.º"
+  },
+  "7d59eda5b334a55c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Norma regulamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma regulamentar\n\nSem prejuízo da entrada em vigor das normas da presente lei que possam ser directamente aplicáveis, o Governo procederá à regulamentação necessária à sua boa execução no prazo de 90 dias a contar da entrada em vigor do presente diploma.\n\nAprovada em 31 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 24 de Outubro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 30 de Outubro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "8b2e297439c73da2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), publicado em 2021-06-14."
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), publicado em 2021-06-14."
+  }
+ }
+}

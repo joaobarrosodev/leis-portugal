@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-01-01'
+version_history:
+  file: decreto-lei-186-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-09-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/186/2006/09/12/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:53:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 83-C/2013. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2006/decreto-lei-186-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -224,9 +239,11 @@ c) Comprovar o cumprimento das obrigações contratuais, designadamente através
 
 1 - Os apoios financeiros previstos no presente decreto-lei constituem encargo de cada organismo competente em razão da matéria, designadamente o Instituto Português do Sangue, o Instituto da Droga e da Toxicodependência e as administrações regionais de saúde.
 
-2 - No caso dos apoios atribuídos pelo Alto Comissariado da Saúde e pela Direcção-Geral da Saúde, compete ao Instituto de Gestão Informática e Financeira da Saúde assegurar o respectivo pagamento, sendo os correspondentes encargos inscritos no orçamento do Serviço Nacional de Saúde.
+2 - No caso dos apoios atribuídos pela Direção-Geral da Saúde compete a esta assegurar o respetivo pagamento, sendo os correspondentes encargos inscritos no seu orçamento, assim como os protocolos existentes, cuja responsabilidade financeira é transferida para aquela entidade.
 
-3 - Os encargos com apoios financeiros que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento dos orçamentos dos organismos referidos no n.º 1 e, nos casos previstos no número anterior, no orçamento do Serviço Nacional de Saúde.
+3 - Os encargos com apoios financeiros que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento dos orçamentos dos organismos referidos nos números anteriores.
+
+> Alterado pelo/a Artigo 165.º do/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
 
 ###### Artigo 9.º — Montante dos apoios
 

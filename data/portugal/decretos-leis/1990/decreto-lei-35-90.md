@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-12-29'
+version_history:
+  file: decreto-lei-35-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-01-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-12-29'
+    amending: pt:dre:666882:por
+    amending_title: Decreto-Lei n.º 138-C/2010
+    changes:
+    - Revoga Artigo 25.º
+    - Revoga Artigo 28.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:03:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 138-C/2010. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-35-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -364,7 +380,9 @@ A modalidade «isenção de propinas» aplica-se aos alunos do ensino secundári
 
 ###### Artigo 25.º — Ensino particular e cooperativo
 
-O cálculo dos encargos decorrentes da aplicação do presente diploma ao ensino particular e cooperativo e a assumir por conta das dotações do Estado será feito com base nos custos relativos ao ensino oficial.
+(Revogado.)
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28.
 
 ###### Artigo 26.º — Financiamento
 
@@ -386,7 +404,9 @@ d) Os fundos provenientes da CEE ou de outras organizações internacionais no �
 
 ###### Artigo 28.º — Disposição transitória
 
-A aplicação do disposto no presente diploma ao ensino particular e cooperativo far-se-á de modo gradual, de acordo com os meios financeiros disponíveis e com base no disposto no Estatuto do Ensino Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
+(Revogado.)
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28.
 
 ###### Artigo 29.º — Norma revogatória
 

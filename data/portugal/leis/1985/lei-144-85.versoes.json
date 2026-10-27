@@ -1,0 +1,120 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:546431:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a40c907413ec3d68",
+    "a5c9213d4e3ed641",
+    "e158c3608d8847b5",
+    "4b3e4d9481581a12",
+    "b6962e0b4e10c319"
+   ]
+  },
+  {
+   "date": "2005-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485267:por",
+     "title": "Lei n.º 52-A/2005",
+     "published": "2005-10-10",
+     "dre_path": "/dr/detalhe/lei/52-a-2005-485267"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "a40c907413ec3d68",
+    "e0f673b1860ec435",
+    "dfcf74ed2b056863",
+    "a70b935e0695fe8c",
+    "3b35eb3db9051799"
+   ]
+  }
+ ],
+ "fragments": {
+  "a40c907413ec3d68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Estatuto dos Deputados ao Parlamento Europeu\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:\n\nEstatuto dos Deputados ao Parlamento Europeu"
+  },
+  "a5c9213d4e3ed641": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\n1 - O Estatuto dos Deputados ao Parlamento Europeu designados por Portugal é regulado pelas disposições comunitárias vigentes e, na medida em que não contrarie aquelas e em que seja compatível com a natureza do Parlamento Europeu, pela [Lei n.º 3/85](https://diariodarepublica.pt/dr/detalhe/lei/3-1985-326893), de 13 de Março, com as necessárias adaptações, designadamente pelas disposições dos artigos 12.º, 13.º, n.os 3, 4 e 5, 14.º, 15.º, n.os 1, 2, 3 e 7, 16.º, 17.º, 18.º e 19.º\n\n2 - Aplicam-se aos deputados ao Parlamento Europeu as disposições da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, designadamente os seus artigos 2.º, n.os 2 e 3, 16.º, n.º 1, 19.º, n.º 1, e 20.º\n\n3 - O tempo de exercício do mandato de deputado ao Parlamento Europeu será considerado como tempo de exercício do mandato de deputado à Assembleia da República para efeito da aplicação dos artigos 24.º e seguintes e 31.º da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, desde que o deputado não tenha adquirido direito a qualquer tipo de subvenção equivalente a conceder pelo Parlamento Europeu.\n\n4 - Os deputados ao Parlamento Europeu são considerados titulares de cargos políticos para os efeitos do disposto na [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril."
+  },
+  "e158c3608d8847b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\nO exercício de funções como deputado ao Parlamento Europeu suspende automaticamente o mandato de deputado à Assembleia da República, processando-se a substituição de acordo com o disposto no artigo 9.º da [Lei n.º 3/85](https://diariodarepublica.pt/dr/detalhe/lei/3-1985-326893), de 13 de Março."
+  },
+  "4b3e4d9481581a12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\nOs encargos resultantes da aplicação das disposições legais portuguesas referidas no presente diploma são satisfeitos pelo orçamento da Assembleia da República."
+  },
+  "b6962e0b4e10c319": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\nA presente lei entra em vigor no dia 1 de Janeiro de 1986.\n\nAprovada em 11 de Dezembro de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 21 de Dezembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 26 de Dezembro de 1985.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "e0f673b1860ec435": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2005-10-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), publicado em 2005-10-10."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O Estatuto dos Deputados ao Parlamento Europeu designados por Portugal é regulado pelas disposições comunitárias vigentes e, na medida em que não contrarie aquelas e em que seja compatível com a natureza do Parlamento Europeu, pela [Lei n.º 3/85](https://diariodarepublica.pt/dr/detalhe/lei/3-1985-326893), de 13 de Março, com as necessárias adaptações, designadamente pelas disposições dos artigos 12.º, 13.º, n.os 3, 4 e 5, 14.º, 15.º, n.os 1, 2, 3 e 7, 16.º, 17.º, 18.º e 19.º\n\n2 - Aplicam-se aos deputados ao Parlamento Europeu as disposições da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, designadamente os seus artigos 2.º, n.os 2 e 3, 16.º, n.º 1, 19.º, n.º 1, e 20.º\n\n3 - (Revogado.)\n\n4 - Os deputados ao Parlamento Europeu são considerados titulares de cargos políticos para os efeitos do disposto na [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), publicado em 2005-10-10."
+  },
+  "dfcf74ed2b056863": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO exercício de funções como deputado ao Parlamento Europeu suspende automaticamente o mandato de deputado à Assembleia da República, processando-se a substituição de acordo com o disposto no artigo 9.º da [Lei n.º 3/85](https://diariodarepublica.pt/dr/detalhe/lei/3-1985-326893), de 13 de Março."
+  },
+  "a70b935e0695fe8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs encargos resultantes da aplicação das disposições legais portuguesas referidas no presente diploma são satisfeitos pelo orçamento da Assembleia da República."
+  },
+  "3b35eb3db9051799": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente lei entra em vigor no dia 1 de Janeiro de 1986.\n\nAprovada em 11 de Dezembro de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 21 de Dezembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 26 de Dezembro de 1985.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -1,10 +1,10 @@
 # Consolidação: texto em vigor dos diplomas alterados
 
-Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obter o texto em vigor dos diplomas que o DRE dá como alterados mas não consolida, aplicando as alterações publicadas. Nada aqui altera `data/`; a aplicação ao acervo vem depois da verificação às cegas e de um merge.
+Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obter o texto em vigor dos diplomas que o DRE dá como alterados mas não consolida, aplicando as alterações publicadas. Só `acervo.py` altera `data/`, e só com os consolidados verificados às cegas (ver "Aplicação ao acervo").
 
 ## Resultado em resumo
 
-Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 24 têm todos os artigos `certo` e 3 têm uma dúvida por decidir. 72 ficam para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor.
+Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 24 têm todos os artigos `certo` e 3 tinham uma dúvida; uma resolveu-se, e **25 estão no acervo** desde 2026-10-27. 72 ficam para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor.
 
 | Estado | 1.ª corrida | Com o parser da fase 3 | Depois da verificação às cegas | O que quer dizer |
 | --- | --: | --: | --: | --- |
@@ -55,10 +55,23 @@ Revisão à mão de cada `errado`, `dúvida` e nota por diploma:
 - **Decreto-Lei n.º 96/87 e Decreto-Lei n.º 163-A/2000: erro real, que o verificador não apanhou.** São as revogações "na parte em que contrariem" do DL 16/2013, que já tinham saído dos aplicados. O verificador deu `certo` a todos os artigos: lê a revogação ao pé da letra, como as regras liam. As regras da verificação passam a dizer que uma revogação condicional não se aplica (regra 3).
 - **Decreto Legislativo Regional n.º 13/98/A, artigo 17.º: fica por decidir.** Nenhuma instrução altera o artigo, e o consolidado mantém o original. Mas a republicação em anexo ao diploma que altera, "com as alterações ora introduzidas", tem outra redação ("regime jurídico" em vez de "diploma"). As regras seguem as instruções. Uma republicação que difere das instruções num artigo não alterado é uma decisão a tomar: conta a republicação, ou só as instruções?
 - **Lei n.º 10/2012, artigo 3.º: fica por decidir.** O artigo 45.º da Lei n.º 26/2016, que dá a nova redação, foi depois alterado pela Lei n.º 68/2021. O texto do registo da 26/2016 no acervo já é o consolidado. A redação aplicada pode, por isso, ser a de 2021 e não a de 2016, e a nota de alteração só nomeia a 26/2016.
-- **Decreto-Lei n.º 513-M/79, artigo 19.º: fica por decidir.** A revogação produz efeitos "com a entrada em vigor do Código" (dos Regimes Contributivos), que foi adiada por leis posteriores. O texto está certo. O que fica por modelar é a data (é trabalho da fase 3).
+- **Decreto-Lei n.º 513-M/79, artigo 19.º: decidido, entra no acervo.** A revogação produz efeitos "com a entrada em vigor do Código" (dos Regimes Contributivos), que foi adiada por leis posteriores. O texto está certo e a data resolve-se: a Lei n.º 110/2009 e o Código entraram em vigor a 2011-01-01 (artigo 6.º, na redação da Lei n.º 119/2009), que é a `entry_into_force` do registo dela. O verificador notou ainda que o artigo 5.º da Lei n.º 110/2009 foi alterado pelas Leis n.os 55-A/2010 e 64-B/2011: essas alterações só acrescentaram alíneas no fim, e a alínea a), que revoga o artigo 19.º, está igual no texto consolidado.
 - Nas outras 22 notas por diploma, nada em falta. Na 2.ª ronda, o verificador confirmou a normalização dos títulos nos 8 diplomas.
 
-**Ficam 24 diplomas com todos os artigos `certo` (16 da 1.ª ronda, 7 da 2.ª e o DL 94/91 da 3.ª).** Há 3 com uma dúvida por decidir.
+**Ficam 24 diplomas com todos os artigos `certo` (16 da 1.ª ronda, 7 da 2.ª e o DL 94/91 da 3.ª).** Com o DL 513-M/79, são 25 os que entraram no acervo (ver "Aplicação ao acervo"). As outras 2 dúvidas ficam de fora até se decidirem.
+
+## Aplicação ao acervo
+
+Em 2026-10-27, `acervo.py` gravou em `data/` os 25 consolidados verificados. Cada registo fica como os consolidados do DRE:
+
+- o corpo é o texto em vigor, com as notas "> Alterado pelo/a …" nos artigos alterados;
+- `version.kind: consolidated`, com o rótulo "Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas", e `consolidation_date` é a data em que a alteração entrou em vigor (a `entry_into_force` do diploma que altera; sem ela, a data de publicação);
+- `<registo>.versoes.json` tem duas versões, a original (na data de publicação) e a alterada, por isso `leis-portugal version-at` dá o texto em qualquer data. Os fragmentos são os blocos entre títulos, sem `fragment_id` nem `type` do DRE, e o histórico diz `consolidated_by: leis-portugal`;
+- `provenance.notes` diz que diploma deu as alterações e aponta para este README e para o `.alteracoes.json`.
+
+Antes de gravar, o script confirma que o consolidado é o mesmo que foi verificado às cegas na última ronda em que o diploma esteve, e que o original em `data/` é o que a verificação recebeu. Se uma das duas falhar, o registo fica como estava. Correr outra vez não muda nada. Uma nova recolha do DRE não substitui o consolidado, porque o texto publicado tem menos precedência; quando o DRE publicar a sua própria versão consolidada, essa substitui a nossa.
+
+Os Decretos-Leis n.os 96/87 e 163-A/2000 tinham todos os artigos `certo` na 1.ª ronda, mas não entram: saíram dos aplicados por regra por causa da revogação condicional.
 
 Por tipo de erro: a verificação às cegas apanhou os 2 erros de **posição e âmbito** (artigos no sítio errado, texto apagado fora do artigo). Não apanhou o erro de **leitura jurídica** (a revogação condicional), em que o verificador faz a mesma leitura literal que as regras. Esse tipo de erro só a revisão à mão o apanhou.
 
@@ -148,6 +161,7 @@ A amostra de 50 diplomas (`consolidar.py --amostra 50 --semente 1`) serviu para 
 | `consolidar.py` | Corre tudo e escreve os resultados |
 | `llm.py` | Pedidos ao LLM para os pendentes: `--estimar` sem chave, `--executar` com chave, `--sessao` e `--importar` para o fazer numa sessão do Claude |
 | `cegas.py` | Entrada da verificação às cegas (`--ronda 1` ou `--ronda 2`) |
+| `acervo.py` | Aplicação ao acervo dos consolidados verificados às cegas (`--dry-run` só mostra) |
 | `medir.py` | Números do piloto (`medicao.json`) |
 | `selecao.jsonl` | Os 671, com o diploma que altera, os rótulos do DRE e os artigos que mencionam o original |
 | `resultados.jsonl` | Estado e motivo por diploma |
@@ -219,9 +233,9 @@ A sessão escreve uma linha por diploma, `{"id", "artigos": [{"chave", "epigrafe
 
 - **Data de entrada em vigor:** o consolidado é o texto depois da alteração, tal como foi publicada. As alterações com entrada em vigor diferida ou com efeitos retroativos não estão modeladas (é trabalho da fase 3).
 - **Grafia:** o texto novo vem do diploma que altera e o resto do original, por isso o mesmo artigo pode ter grafias diferentes ("actividade" e "atividade"), como nas consolidações oficiais.
-- **Notas e ligações:** os parágrafos retificados perdem as ligações Markdown. O cabeçalho YAML dos consolidados é próprio do piloto (`consolidacao.estado: por verificar às cegas`); o formato final para `data/` decide-se no merge.
+- **Notas e ligações:** os parágrafos retificados perdem as ligações Markdown. O cabeçalho YAML de `piloto/*.md` é próprio do piloto; o formato em `data/` está em "Aplicação ao acervo".
 - **O que é preciso para o resto:**
-  1. decidir as 3 dúvidas da verificação às cegas (republicação que difere das instruções, alterador alterado depois, revogação com data diferida);
+  1. decidir as 2 dúvidas que ficam (republicação que difere das instruções, alterador alterado depois);
   2. os 77 pendentes, numa sessão do Claude a partir de `llm/entrada-sessao.jsonl` ou com uma chave da API (`llm.py --executar`, cerca de 4,6 $);
   3. uma regra para a redação nova sem aspas (34 instruções);
   4. decidir o que fazer com os 500 sem alteração textual e os 17 revogados (vigência e relações, fase 3).

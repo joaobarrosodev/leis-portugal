@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-27'
+version_history:
+  file: decreto-lei-105-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-27'
+    amending: pt:dre:516973:por
+    amending_title: Decreto-Lei n.º 329-B/2000
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/105/1996/07/31/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:43:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 329-B/2000. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-105-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,9 +181,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 1 - Pelo presente diploma é criado o Regime de Apoio à Recuperação Habitacional em Áreas Urbanas Antigas, abreviadamente designado por REHABITA.
 
-2 - O REHABITA é exclusivamente aplicável aos núcleos urbanos históricos declarados áreas críticas de recuperação e reconversão urbanística, nos termos do artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, que possuam planos de urbanização, planos de pormenor ou regulamentos urbanísticos aprovados.
+2 - O REHABITA é exclusivamente aplicável aos núcleos urbanos históricos declarados áreas críticas de recuperação e reconversão urbanística, nos termos do artigo 41.º do Decreto-Lei n.º 794/76, de 5 de Novembro, que possuam planos de urbanização, planos de pormenor ou regulamentos urbanísticos aprovados e aos centros urbanos antigos reconhecidos nos termos dos n.os 2 e 3 do artigo 1.º do Decreto-Lei n.º 426/89, de 6 de Dezembro, diploma que aprovou as Medidas Cautelares de Segurança contra Riscos de Incêndio em Centros Urbanos Antigos.
 
 3 - O Regime visa apoiar a execução de obras de conservação, de beneficiação ou de reconstrução de edifícios habitacionais e as acções de realojamento provisório ou definitivo daí decorrentes, no âmbito de uma operação municipal de reabilitação urbana.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 329-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), publicado em 2000-12-22.
 
 ###### Artigo 2.º — Concretização
 
@@ -181,15 +199,17 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 3.º — Comparticipações e financiamentos
 
-1 - Quando sejam integradas no REHABITA, as obras comparticipáveis ao abrigo do RECRIA, nos termos do [Decreto-Lei n.º 197/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1992-231141), de 22 de Setembro, têm uma percentagem de comparticipação adicional, a fundo perdido, de 10%, a suportar pelo IGAPHE e pelo município na proporção estabelecida para o RECRIA.
+1 - Quando sejam integradas no REHABITA as obras comparticipáveis ao abrigo do RECRIA e sejam para efeitos de realojamentos provisórios, elaboração de projectos ou fiscalização, têm uma percentagem de comparticipação adicional, a fundo perdido, até ao montante de 10%, a suportar pelo IGAPHE e pelo município na proporção estabelecida pelo RECRIA.
 
-2 - A comparticipação adicional prevista no número anterior não está sujeita aos limites máximos previstos no [Decreto-Lei n.º 197/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1992-231141), de 22 de Setembro.
+2 - A comparticipação adicional referida no número anterior apenas pode ser deferida se constar da previsão da respectiva candidatura e o pagamento só pode ser autorizado contra a emissão do respectivo recibo.
 
-3 - A comparticipação adicional a que se refere o n.º 1 é acumulável com a comparticipação adicional a que se refere o n.º 5 do artigo 5.º do [Decreto-Lei n.º 197/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1992-231141), de 22 de Setembro.
+3 - Quando as obras visem a sua adequação ao disposto no regime sobre as Medidas Cautelares de Segurança contra Riscos de Incêndio em Centros Urbanos Antigos, constante do referido Decreto-Lei n.º 426/89, o limite previsto no n.º 4 do artigo 6.º do RECRIA é aumentado de 10%.
 
-4 - A câmara municipal, quando se substitua aos senhorios ou proprietários na realização das obras, nos termos legais, poderá recorrer a empréstimos, ao abrigo do disposto no n.º 3 do artigo 4.º do [Decreto-Lei n.º 197/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1992-231141), de 22 de Setembro, introduzido pelo artigo 1.º do [Decreto-Lei n.º 104/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1996-406889), para financiar a parte do valor das obras não comparticipada, tendo em consideração o disposto no n.º 1 do presente artigo.
+4 - A câmara municipal, quando se substitua aos senhorios ou proprietários na realização de obras nos termos legais, poderá recorrer a empréstimos, nos mesmos termos previstos no Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados, para financiar a parte do valor das obras não comparticipadas, tendo em consideração o disposto no n.º 1 do presente artigo.
 
-5 - A matéria respeitante à instrução e apresentação dos pedidos de comparticipação e financiamento, bem como a respectiva concretização, rege-se pelo disposto nos artigos 6.º a 8.º do [Decreto-Lei n.º 197/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1992-231141), de 22 de Setembro.
+5 - A matéria respeitante à instrução e apresentação dos pedidos de comparticipação e financiamento, bem como à da respectiva concretização e actualização de rendas, rege-se para este efeito pelo disposto no Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 329-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), publicado em 2000-12-22.
 
 ###### Artigo 4.º — Obras de reconstrução
 

@@ -1,0 +1,300 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:430016:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-12-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c67f6c8c28d9d31",
+    "7fa0948981f73dd1",
+    "55b95e6946bc9946"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490249:por",
+     "title": "Lei n.º 110/2009",
+     "published": "2009-09-16",
+     "dre_path": "/dr/detalhe/lei/110-2009-490249"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "7c67f6c8c28d9d31",
+    "05314932b9d6d2bf",
+    "d12326c9655e8fa5",
+    "2cdfec34202bd0a3",
+    "9ad11f19b510b4b1",
+    "dcddc69d3c075e80",
+    "a0ffe10698b4bf78",
+    "721d8c126f58898c",
+    "01d27ca5af0df7b1",
+    "81fc4f7e65719ebf",
+    "ebf66b752feda028",
+    "73ed834eccb023b4",
+    "8c6965d3b4ca5653",
+    "6e7e2360aeb90857",
+    "71775271850fba5d",
+    "df5ba2f922e1808a",
+    "c57a75823b8831ae",
+    "f36ae0bed18c397e",
+    "b8d597914e511bcc",
+    "5d061f164cfdb2dd",
+    "1505741d1e4af06d",
+    "61acdbc456a8e7aa",
+    "98da4af27a8138fc",
+    "42154758b233a64f",
+    "cb3e55520feddae0",
+    "37f0b000eb94fbe1",
+    "70ce103085922033"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c67f6c8c28d9d31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Dezembro\n\nA situação dos estratos mais desfavorecidos da população portuguesa tem constituído motivo de preocupação do V Governo, desde o início da sua vigência. E ao anunciar o propósito de promover a melhoria daquela situação, o Governo não ignorava tratar-se de imperativo de difícil concretização.\n\nNa verdade, um progresso apreciável e duradouro na área social será resultado de medidas de fundo que requerem estudos complexos e morosos e cujos efeitos só se colhem a prazo. Algumas dessas medidas puderam já ser tornadas e outras encontram-se em vias de ultimação. Por outro lado, não pode esquecer-se que a conjuntura económica e financeira do País constitui poderoso obstáculo à introdução imediata de melhorias sociais amplas e generalizadas.\n\nTodavia, importa atenuar, dentro do possível e desde já, algumas situações que sobressaem de entre as mais graves.\n\nÉ este o objectivo do presente decreto-lei que procede ao aumento das pensões mínimas de velhice, invalidez e sobrevivência, bem como da pensão social.\n\nA viabilidade prática das medidas referidas impõe que a cobertura financeira dos encargos resultantes seja parcialmente conseguida através de um aumento moderado das contribuições para a segurança social.\n\nEsse aumento tem de considerar-se sobejamente justificado pelo alcance social dos benefícios em causa.\n\nCom efeito, as pessoas abrangidas pelos novos benefícios, em número que ultrapassa os dois milhões, pertencem, quase exclusivamente, aos estratos mais desfavorecidos da população.\n\nPelo que respeita à segurança social, acresce que a orientação seguida, quer na definição do conjunto de melhorias, quer nas opções respeitantes às contribuições, aponta para a progressiva unificação de esquemas diversos e desarticulados entre si, reduzindo, assim, as dificuldades da sua gestão técnica e administrativa e facilitando, do mesmo passo, a análise comparativa daqueles esquemas - tudo factores que se situam na linha de concretização do sistema unificado de segurança social consignado na Constituição.\n\nTendo sido ouvidas as Regiões Autónomas dos Açores e da Madeira foi entendido que este decreto-lei teria aplicação nacional, muito embora no que se refere à Região Autónoma da Madeira a sua execução deva depender da publicação de decreto regional regulamentador que proceda à adequação do presente diploma às medidas de protecção social já em vigor na Região.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "7fa0948981f73dd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Pensões\n\nArtigo 1.º - 1 - São elevados para 1800$00 os quantitativos mensais das pensões de invalidez e velhice a que se referem os n.os 2, 3, 5 e 6 do artigo 2.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917), de 1 de Abril.\n\n2 - O n.º 2 do artigo 4.º do decreto referido no número anterior passa a ter a seguinte redacção:\n\n2 - O quantitativo mensal da pensão de sobrevivência será igual a 1800$00 para o cônjuge ou ex-cônjuge sobrevivo e, para os restantes titulares com direito, será determinado nas seguintes percentagens da pensão que o beneficiário recebia ou a que teria direito se se tivesse invalidado ou reformado na data do falecimento:\n\na) 20%, 30% ou 40%, para os filhos ou adoptados plenamente, consoante forem um, dois ou mais de dois, se houver cônjuge ou ex-cônjuge com direito a pensão e o dobro destas percentagens no caso contrário;\n\nb) 30%, 50%, 70% ou 80%, para as pessoas referidas na alínea c) do número anterior, consoante forem uma, duas, três ou mais de três.\n\n3 - As pensões em curso à data da publicação deste diploma são revistas nos termos dos números anteriores.\n\n4 - É elevado para 1800$00 o quantitativo mensal das pensões de sobrevivência atribuídas ao abrigo do disposto no n.º 5 do artigo 4.º do diploma referido no n.º 1.\n\nArt. 2.º Os quantitativos mensais das pensões regulamentares de invalidez, velhice e sobrevivência concedidas pela Caixa Nacional de Pensões e pelas caixas de previdência com entidades patronais contribuintes serão actualizados ou melhorados nas condições fixadas no presente diploma.\n\nArt. 3.º Com ressalva do n.º 2 do artigo 4.º, da alínea a) do artigo 5.º e dos artigos 6.º e 9.º, é aumentado para 3600$00 o quantitativo mínimo das pensões de invalidez e velhice.\n\nArt. 4.º - 1 - São actualizadas, nos termos dos números seguintes, as pensões de invalidez e de velhice iniciadas antes de 1 de Janeiro de 1979, tomando-se por base as pensões regulamentares em vigor naquela data.\n\n2 - As pensões regulamentares de quantitativo igual a 2250$00 são elevadas para 3100$00.\n\n3 - As pensões regulamentares de quantitativos iguais a 2750$00 são fixadas em 3600$00.\n\nArt. 5.º As pensões de invalidez e de velhice iniciadas a partir de 1 de Janeiro de 1979 serão fixadas nos valores que resultam de somar ao respectivo quantitativo estatutário as seguintes importâncias:\n\na) A necessária para atingir 3100$00, para as de quantitativo estatutário não superior a 500$00;\n\nb) 500$00 ou a necessária para atingir um mínimo de 3600$00, para as de quantitativo estatutário superior a 500$00.\n\nArt. 6.º - 1 - Quando o beneficiário tenha direito a pensão de invalidez ou de velhice por mais do que um regime de previdência de inscrição obrigatória, incluindo o da Caixa Geral de Aposentações, o dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países, ou pensão por incapacidade permanente resultante de acidente de trabalho ou doença profissional, a importância a somar ao respectivo quantitativo estatutário para obter a pensão regulamentar será determinada por aplicação dos artigos 4.º e 5.º, considerando, porém, como valor da pensão estatutária o que resultar da adição ao quantitativo estatutário do regime geral da Caixa Nacional de Pensões do total das restantes pensões atrás referidas, excluídas apenas as prestações complementares, designadamente o complemento por cônjuge a cargo e o suplemento aos grandes inválidos.\n\n2 - Se, porém, a pensão regulamentar assim obtida for superior à que corresponderia exclusivamente à pensão estatutária da Caixa Nacional de Pensões, prevalece esta última pensão regulamentar.\n\nArt. 7.º - 1 - Nenhuma pensão de sobrevivência poderá ter valor inferior ao que resulta da aplicação da respectiva percentagem regulamentar à pensão mínima de invalidez ou de velhice, estabelecida no artigo 3.º\n\n2 - Ressalvam-se, no entanto, as excepções previstas na alínea a) do artigo 5.º e nos artigos 6.º, 8.º e 9.\n\nArt. 8.º Para a aplicação do n.º 1 do artigo precedente, considerar-se-á a pensão total quando o pensionista receba pensão de sobrevivência de mais do que um regime de previdência de inscrição obrigatória, incluindo o do Montepio dos Servidores do Estado, e dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países ou pensão resultante de acidente de trabalho ou doença profissional.\n\nArt. 9.º As pensões reduzidas, quer por força do disposto nos artigos 27.º e 189.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, quer por aplicação de convenções internacionais, englobarão também uma actualização ou melhoria, conforme o caso, que se obtém reduzindo os respectivos valores correspondentes à pensão estatutária total, na mesma proporção em que o for esta.\n\nArt. 10.º Excluem-se das disposições constantes dos artigos anteriores:\n\na) A Caixa de Previdência dos Empregados do ex-Banco de Angola;\n\nb) Os grupos de beneficiários a que não sejam aplicáveis os regimes gerais de pensões previstos para a Caixa Nacional de Pensões, salvo no que respeita ao artigo 3.º, aos artigos 7.º e 8.º e ainda ao artigo 6.º, mas, quanto a este, apenas no que se refere à pensão mínima, os quais são extensivos aos beneficiários da Caixa de Previdência e Abono de Família dos Ferroviários sujeitos aos regulamentos anteriores a 1 de Julho de 1955 e aos da Caixa de Previdência e Abono de Família dos Serviços de Transportes Colectivos do Porto admitidos anteriormente a 1 de Novembro de 1955."
+  },
+  "55b95e6946bc9946": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Contribuições e quotizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Contribuições e quotizações\n\nArt. 11.º São fixadas em 8% e 20,5% das retribuições as taxas de contribuições a que se referem o artigo 1.º do [Decreto-Lei n.º 29/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1977-138162), de 20 de Janeiro,\n\ne o artigo 2.º do [Decreto-Lei n.º 180-C/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-c-1978-434603), de 15 de Julho.\n\nArt. 12.º - 1 - A quotização mensal a que se refere o artigo 6.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917), de 1 de Abril, é elevada para 150$00 ou, para trabalhadores menores de 18 anos, 120$00.\n\n2 - As quotizações a que se referem o número anterior e o artigo 7.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917) serão entregues nas caixas distritais, directamente ou por intermédio das Casas do Povo, para depósito à ordem do Instituto de Gestão Financeira da Segurança Social.\n\n3 - Nas caixas distritais serão contabilizadas as contas correntes de quotizações dos beneficiários e contribuintes a que se referem os números anteriores, bem como todas as despesas inerentes ao regime especial de previdência dos trabalhadores rurais.\n\nArt. 13.º O artigo 7.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, passa a ter a seguinte redacção:\n\nArt. 7.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - As disposições constantes do presente artigo não são aplicáveis às entidades contribuintes que exploram a terra e que, por força da legislação vigente, se encontram abrangidas, relativamente à totalidade dos seus trabalhadores, pelo regime geral.\n\nArt. 14.º É elevada para 7$00 a contribuição a que se refere o n.º 1 da base XXVI do despacho ministerial de 30 de Agosto de 1969.\n\nArt. 15.º - 1 - A tabela anexa ao despacho de 21 de Abril de 1971 (extensão do regime especial de abono de família aos arrendatários cultivadores directos) é substituída pela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29601/00080011.pdf)\n\n2 - São alteradas, em conformidade com a tabela anterior, as disposições constantes dos n.os 2 e 3 do despacho referido no número precedente.\n\nArt. 16.º A tabela inserta no n.º 2 do artigo 9.º da [Portaria n.º 115/77](https://diariodarepublica.pt/dr/detalhe/portaria/115-1977-140288), de 9 de Março, é substituída pela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29601/00080011.pdf)\n\nArt. 17.º São fixadas, respectivamente, em 3,5% e 8% as contribuições a que se refere o n.º 5 da [Portaria n.º 291/74](https://diariodarepublica.pt/dr/detalhe/portaria/291-1974-411333), de 23 de Abril.\n\nArt. 18.º As quotizações mensais dos trabalhadores que exerçam actividade profissional por conta própria, com exclusão dos beneficiários a que se refere a [Portaria n.º 234/74](https://diariodarepublica.pt/dr/detalhe/portaria/234-1974-412216), de 7 de Março, e que, encontrando-se abrangidos pelo regime geral de previdência, não estão, porém, incluídos no âmbito da [Portaria n.º 115/77](https://diariodarepublica.pt/dr/detalhe/portaria/115-1977-140288), de 9 de Março, são fixadas nos valores a seguir indicados:\n\na) 110$00, para os vendedores de jornais, engraxadores, vendedores ambulantes de lotaria, pregoeiros de leilões e guarda-nocturnos;\n\nb) 150$00, para os distribuidores ou vendedores ambulantes de leite.\n\nArt. 19.º - 1 - Para efeitos de reembolso de contribuições, em relação às modalidades em que o mesmo está previsto, considerar-se-ão as seguintes taxas:\n\nInvalidez e velhice - 12%;\n\nSobrevivência - 2,7%;\n\nSubsídio por morte - 0,3%.\n\n2 - Para efeitos de contribuição voluntária do pagamento de contribuições relativamente ao conjunto de modalidades de invalidez e velhice, sobrevivência e subsídio por morte, a contribuição passa a ser de 15,5% do salário base escolhido pelo beneficiário, incluída a parcela para a administração (0,5% daquele salário).\n\nArt. 20.º No prazo de oito dias, a contar da data da publicação do presente diploma, serão fixadas, por despacho do Ministro da Coordenação Social e dos Assuntos Sociais, as normas de execução do disposto nos n.os 2 e 3 do artigo 12.º do presente diploma.\n\nArt. 21.º O presente decreto-lei aplica-se a todo o território nacional, ficando a sua execução na Região Autónoma da Madeira dependente de regulamentação por decreto regional.\n\nArt. 22.º Os valores das pensões e das contribuições ou quotizações fixados neste decreto-lei poderão ser alterados por portaria conjunta dos Ministros das Finanças e da Coordenação Social e dos Assuntos Sociais.\n\nArt. 23.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho do Ministro da Coordenação Social e dos Assuntos Sociais.\n\nArt. 24.º O presente diploma produz efeitos a partir de 1 de Dezembro de 1979, salvo no que respeita aos artigos 12.º, 14.º e 15.º, que produzem efeitos a partir de 1 de Janeiro de 1980.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.\n\nPromulgado em 20 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "05314932b9d6d2bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Pensões"
+  },
+  "d12326c9655e8fa5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - São elevados para 1800$00 os quantitativos mensais das pensões de invalidez e velhice a que se referem os n.os 2, 3, 5 e 6 do artigo 2.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917), de 1 de Abril.\n\n2 - O n.º 2 do artigo 4.º do decreto referido no número anterior passa a ter a seguinte redacção:\n\n2 - O quantitativo mensal da pensão de sobrevivência será igual a 1800$00 para o cônjuge ou ex-cônjuge sobrevivo e, para os restantes titulares com direito, será determinado nas seguintes percentagens da pensão que o beneficiário recebia ou a que teria direito se se tivesse invalidado ou reformado na data do falecimento:\n\na) 20%, 30% ou 40%, para os filhos ou adoptados plenamente, consoante forem um, dois ou mais de dois, se houver cônjuge ou ex-cônjuge com direito a pensão e o dobro destas percentagens no caso contrário;\n\nb) 30%, 50%, 70% ou 80%, para as pessoas referidas na alínea c) do número anterior, consoante forem uma, duas, três ou mais de três.\n\n3 - As pensões em curso à data da publicação deste diploma são revistas nos termos dos números anteriores.\n\n4 - É elevado para 1800$00 o quantitativo mensal das pensões de sobrevivência atribuídas ao abrigo do disposto no n.º 5 do artigo 4.º do diploma referido no n.º 1."
+  },
+  "2cdfec34202bd0a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs quantitativos mensais das pensões regulamentares de invalidez, velhice e sobrevivência concedidas pela Caixa Nacional de Pensões e pelas caixas de previdência com entidades patronais contribuintes serão actualizados ou melhorados nas condições fixadas no presente diploma."
+  },
+  "9ad11f19b510b4b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCom ressalva do n.º 2 do artigo 4.º, da alínea a) do artigo 5.º e dos artigos 6.º e 9.º, é aumentado para 3600$00 o quantitativo mínimo das pensões de invalidez e velhice."
+  },
+  "dcddc69d3c075e80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - São actualizadas, nos termos dos números seguintes, as pensões de invalidez e de velhice iniciadas antes de 1 de Janeiro de 1979, tomando-se por base as pensões regulamentares em vigor naquela data.\n\n2 - As pensões regulamentares de quantitativo igual a 2250$00 são elevadas para 3100$00.\n\n3 - As pensões regulamentares de quantitativos iguais a 2750$00 são fixadas em 3600$00."
+  },
+  "a0ffe10698b4bf78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs pensões de invalidez e de velhice iniciadas a partir de 1 de Janeiro de 1979 serão fixadas nos valores que resultam de somar ao respectivo quantitativo estatutário as seguintes importâncias:\n\na) A necessária para atingir 3100$00, para as de quantitativo estatutário não superior a 500$00;\n\nb) 500$00 ou a necessária para atingir um mínimo de 3600$00, para as de quantitativo estatutário superior a 500$00."
+  },
+  "721d8c126f58898c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Quando o beneficiário tenha direito a pensão de invalidez ou de velhice por mais do que um regime de previdência de inscrição obrigatória, incluindo o da Caixa Geral de Aposentações, o dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países, ou pensão por incapacidade permanente resultante de acidente de trabalho ou doença profissional, a importância a somar ao respectivo quantitativo estatutário para obter a pensão regulamentar será determinada por aplicação dos artigos 4.º e 5.º, considerando, porém, como valor da pensão estatutária o que resultar da adição ao quantitativo estatutário do regime geral da Caixa Nacional de Pensões do total das restantes pensões atrás referidas, excluídas apenas as prestações complementares, designadamente o complemento por cônjuge a cargo e o suplemento aos grandes inválidos.\n\n2 - Se, porém, a pensão regulamentar assim obtida for superior à que corresponderia exclusivamente à pensão estatutária da Caixa Nacional de Pensões, prevalece esta última pensão regulamentar."
+  },
+  "01d27ca5af0df7b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Nenhuma pensão de sobrevivência poderá ter valor inferior ao que resulta da aplicação da respectiva percentagem regulamentar à pensão mínima de invalidez ou de velhice, estabelecida no artigo 3.º\n\n2 - Ressalvam-se, no entanto, as excepções previstas na alínea a) do artigo 5.º e nos artigos 6.º, 8.º e 9."
+  },
+  "81fc4f7e65719ebf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara a aplicação do n.º 1 do artigo precedente, considerar-se-á a pensão total quando o pensionista receba pensão de sobrevivência de mais do que um regime de previdência de inscrição obrigatória, incluindo o do Montepio dos Servidores do Estado, e dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países ou pensão resultante de acidente de trabalho ou doença profissional."
+  },
+  "ebf66b752feda028": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs pensões reduzidas, quer por força do disposto nos artigos 27.º e 189.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, quer por aplicação de convenções internacionais, englobarão também uma actualização ou melhoria, conforme o caso, que se obtém reduzindo os respectivos valores correspondentes à pensão estatutária total, na mesma proporção em que o for esta."
+  },
+  "73ed834eccb023b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nExcluem-se das disposições constantes dos artigos anteriores:\n\na) A Caixa de Previdência dos Empregados do ex-Banco de Angola;\n\nb) Os grupos de beneficiários a que não sejam aplicáveis os regimes gerais de pensões previstos para a Caixa Nacional de Pensões, salvo no que respeita ao artigo 3.º, aos artigos 7.º e 8.º e ainda ao artigo 6.º, mas, quanto a este, apenas no que se refere à pensão mínima, os quais são extensivos aos beneficiários da Caixa de Previdência e Abono de Família dos Ferroviários sujeitos aos regulamentos anteriores a 1 de Julho de 1955 e aos da Caixa de Previdência e Abono de Família dos Serviços de Transportes Colectivos do Porto admitidos anteriormente a 1 de Novembro de 1955."
+  },
+  "8c6965d3b4ca5653": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Contribuições e quotizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Contribuições e quotizações"
+  },
+  "6e7e2360aeb90857": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSão fixadas em 8% e 20,5% das retribuições as taxas de contribuições a que se referem o artigo 1.º do [Decreto-Lei n.º 29/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1977-138162), de 20 de Janeiro,\n\ne o artigo 2.º do [Decreto-Lei n.º 180-C/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-c-1978-434603), de 15 de Julho."
+  },
+  "71775271850fba5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - A quotização mensal a que se refere o artigo 6.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917), de 1 de Abril, é elevada para 150$00 ou, para trabalhadores menores de 18 anos, 120$00.\n\n2 - As quotizações a que se referem o número anterior e o artigo 7.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917) serão entregues nas caixas distritais, directamente ou por intermédio das Casas do Povo, para depósito à ordem do Instituto de Gestão Financeira da Segurança Social.\n\n3 - Nas caixas distritais serão contabilizadas as contas correntes de quotizações dos beneficiários e contribuintes a que se referem os números anteriores, bem como todas as despesas inerentes ao regime especial de previdência dos trabalhadores rurais."
+  },
+  "df5ba2f922e1808a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO artigo 7.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, passa a ter a seguinte redacção:\n\nArt. 7.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - As disposições constantes do presente artigo não são aplicáveis às entidades contribuintes que exploram a terra e que, por força da legislação vigente, se encontram abrangidas, relativamente à totalidade dos seus trabalhadores, pelo regime geral."
+  },
+  "c57a75823b8831ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nÉ elevada para 7$00 a contribuição a que se refere o n.º 1 da base XXVI do despacho ministerial de 30 de Agosto de 1969."
+  },
+  "f36ae0bed18c397e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - A tabela anexa ao despacho de 21 de Abril de 1971 (extensão do regime especial de abono de família aos arrendatários cultivadores directos) é substituída pela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29601/00080011.pdf)\n\n2 - São alteradas, em conformidade com a tabela anterior, as disposições constantes dos n.os 2 e 3 do despacho referido no número precedente."
+  },
+  "b8d597914e511bcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA tabela inserta no n.º 2 do artigo 9.º da [Portaria n.º 115/77](https://diariodarepublica.pt/dr/detalhe/portaria/115-1977-140288), de 9 de Março, é substituída pela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29601/00080011.pdf)"
+  },
+  "5d061f164cfdb2dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nSão fixadas, respectivamente, em 3,5% e 8% as contribuições a que se refere o n.º 5 da [Portaria n.º 291/74](https://diariodarepublica.pt/dr/detalhe/portaria/291-1974-411333), de 23 de Abril."
+  },
+  "1505741d1e4af06d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs quotizações mensais dos trabalhadores que exerçam actividade profissional por conta própria, com exclusão dos beneficiários a que se refere a [Portaria n.º 234/74](https://diariodarepublica.pt/dr/detalhe/portaria/234-1974-412216), de 7 de Março, e que, encontrando-se abrangidos pelo regime geral de previdência, não estão, porém, incluídos no âmbito da [Portaria n.º 115/77](https://diariodarepublica.pt/dr/detalhe/portaria/115-1977-140288), de 9 de Março, são fixadas nos valores a seguir indicados:\n\na) 110$00, para os vendedores de jornais, engraxadores, vendedores ambulantes de lotaria, pregoeiros de leilões e guarda-nocturnos;\n\nb) 150$00, para os distribuidores ou vendedores ambulantes de leite."
+  },
+  "61acdbc456a8e7aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+   ],
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+  },
+  "98da4af27a8138fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nNo prazo de oito dias, a contar da data da publicação do presente diploma, serão fixadas, por despacho do Ministro da Coordenação Social e dos Assuntos Sociais, as normas de execução do disposto nos n.os 2 e 3 do artigo 12.º do presente diploma."
+  },
+  "42154758b233a64f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO presente decreto-lei aplica-se a todo o território nacional, ficando a sua execução na Região Autónoma da Madeira dependente de regulamentação por decreto regional."
+  },
+  "cb3e55520feddae0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs valores das pensões e das contribuições ou quotizações fixados neste decreto-lei poderão ser alterados por portaria conjunta dos Ministros das Finanças e da Coordenação Social e dos Assuntos Sociais."
+  },
+  "37f0b000eb94fbe1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nAs dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho do Ministro da Coordenação Social e dos Assuntos Sociais."
+  },
+  "70ce103085922033": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO presente diploma produz efeitos a partir de 1 de Dezembro de 1979, salvo no que respeita aos artigos 12.º, 14.º e 15.º, que produzem efeitos a partir de 1 de Janeiro de 1980.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.\n\nPromulgado em 20 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

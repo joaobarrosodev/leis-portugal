@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-12-29'
+version_history:
+  file: decreto-lei-161-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-29'
+    amending: pt:dre:661357:por
+    amending_title: Decreto-Lei n.º 569/99
+    changes:
+    - Altera Artigo 22.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/161/1999/05/12/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:06:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 569/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-161-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -371,6 +386,10 @@ Os serviços e organismos devem utilizar prioritariamente para a cobertura das s
 2 - Os funcionários diplomáticos colocados nos serviços externos poderão ser chamados a integrar estruturas de projecto, durante todo o período em que vigorar o mandato da referida estrutura de projecto, não podendo em caso algum ultrapassar 31 de Dezembro do ano de 2000.
 
 3 - As despesas a satisfazer por conta das dotações inscritas no capítulo 04 do orçamento da despesa do Ministério dos Negócios Estrangeiros ficam isentas das formalidades legais exigíveis.
+
+4 - A realização das despesas com a aquisição dos bens e serviços necessários à organização e realização da presidência portuguesa da União Europeia por parte dos outros ministérios fica igualmente dispensada do cumprimento das formalidades legais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 569/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/569-1999-661357), publicado em 1999-12-24.
 
 ###### Artigo 23.º — Despesas no âmbito da política de cooperação
 

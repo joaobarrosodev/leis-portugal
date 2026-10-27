@@ -89,6 +89,7 @@ A fase 2 é a que mais aumenta a fiabilidade; o detalhe de cada fase segue abaix
    - Usar as republicações onde existem (100 diplomas; 56 ficam com o texto atual completo). São uma fonte auxiliar, não a principal.
    - Consolidar os 2.139 diplomas em vigor alterados com 10 ou mais citações: aplicar as alterações com ajuda de um LLM, a começar pelos que têm uma só alteração, verificar artigo a artigo e rever à mão os mais importantes.
    - Nos restantes, avisar sempre "texto original; alterado por X e Y" e juntar os artigos que alteram, ou não responder.
+   - Piloto (2026-10-27, [`consolidacao/`](consolidacao/README.md)) nos 671 com uma só alteração: em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto; 25 consolidados por regra e verificados às cegas já estão no acervo; 77 ficam para o LLM.
 3. **Fase 3: estrutura, vigência e datas**
    - Identificadores e partição por artigo em todos os diplomas com texto.
    - Datas de entrada em vigor a partir das cláusulas "entra em vigor…".

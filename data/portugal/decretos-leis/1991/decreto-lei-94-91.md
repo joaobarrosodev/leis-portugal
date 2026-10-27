@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-09-18'
+version_history:
+  file: decreto-lei-94-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-02-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-09-18'
+    amending: pt:dre:480522:por
+    amending_title: Decreto-Lei n.º 206/2004
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/94/1991/02/26/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:15:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 206/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-94-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,43 +147,27 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Articulação institucional
 
-Para efeitos de leccionação de disciplinas constantes dos planos de estudos em vigor nas faculdades de medicina e de ciências médicas, os Ministros da Educação e da Saúde podem, por portaria conjunta, considerar articulados os referidos estabelecimentos de ensino com instituições hospitalares ou outros estabelecimentos de saúde.
+(Revogado.)
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19.
 
 ###### Artigo 2.º — Comissão mista permanente
 
-1 - A coordenação das actividades das faculdades de medicina ou de ciências médicas e das instituições hospitalares ou outros estabelecimentos de saúde é assegurada por uma comissão mista permanente.
+(Revogado.)
 
-2 - Integram a comissão mista permanente:
-
-a) O director da instituição hospitalar ou o presidente do órgão de gestão da administração regional de saúde;
-
-b) O presidente do conselho directivo do estabelecimento de ensino;
-
-c) O director clínico da instituição hospitalar ou um adjunto deste, no caso de o director assumir também as funções referidas na alínea a), ou um elemento a designar pela administração regional de saúde;
-
-d) O presidente do conselho científico do estabelecimento de ensino.
-
-3 - Os membros da comissão mista permanente escolherão, entre si, o respectivo presidente.
-
-4 - O presidente da comissão mista permanente possui voto de qualidade.
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19.
 
 ###### Artigo 3.º — Competência da comissão mista permanente
 
-Compete à comissão mista permanente, designadamente:
+(Revogado.)
 
-a) Deliberar sobre todas as matérias pertinentes ao regime de articulação institucional;
-
-b) Definir a correspondência entre novas áreas ou disciplinas com os serviços hospitalares já existentes e, bem assim, entre os novos serviços hospitalares e as áreas ou disciplinas hoje existentes;
-
-c) Submeter ao conselho científico do estabelecimento de ensino propostas de alterações curriculares que se repercutam significativamente na actividade das instituições hospitalares ou centros de saúde;
-
-d) Sugerir a atribuição de verbas de investimento para actividades assistenciais, de educação e de investigação científica e apreciar os respectivos planos;
-
-e) Pronunciar-se sobre quaisquer matérias do interesse dos estabelecimentos e instituições articulados.
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19.
 
 ###### Artigo 4.º — Departamentos ou serviços abrangidos
 
-Os departamentos ou serviços das instituições hospitalares ou outros estabelecimentos de saúde onde podem ser realizadas actividades para efeitos de leccionação de disciplinas constantes dos planos de estudo em vigor nas faculdades de medicina e de ciências médicas são indicados por despacho conjunto dos Ministros da Educação e da Saúde.
+(Revogado.)
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19.
 
 ###### Artigo 5.º — Pessoal médico docente
 
@@ -184,7 +187,9 @@ Os equipamentos científicos, áudio-visuais, de informática e de secretariado 
 
 ###### Artigo 8.º — Remissões
 
-Em relação aos estabelecimentos e instituições abrangidos por este regime de articulação institucional, as remissões constantes da legislação vigente para o disposto no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 25 de Setembro, consideram-se feitas para o presente diploma.
+(Revogado.)
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro - Arlindo Gomes de Carvalho.
 

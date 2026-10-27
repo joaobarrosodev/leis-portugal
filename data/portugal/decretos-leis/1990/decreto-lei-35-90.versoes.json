@@ -1,0 +1,407 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:335264:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3fdec4bb20c357ce",
+    "e82e298be73417b9",
+    "e7e9b4062c09c493",
+    "d200e0985e57b1b9",
+    "022dfe68ff1a79c2",
+    "d1599981565ca5bc",
+    "364d23ee3dff7d15",
+    "c7263d013283fde0",
+    "cd11730f81704cde",
+    "8299d7e7e4503d04",
+    "af13ba1f60a73af0",
+    "6813212b57a2c5f8",
+    "80df7616de3ea3a1",
+    "05cc9426beae7131",
+    "f66778b55c1db97a",
+    "0f5b267a82de01fa",
+    "c8e33999a9450115",
+    "7985a8f5891dd3e2",
+    "a50d6ea2b10f4342",
+    "d18a4267acc4192d",
+    "6534e64136f59365",
+    "b1cbd5e9c4d532b4",
+    "b88ef3fd8c3ac69d",
+    "b6a4ce603642d625",
+    "ebc2c725d8f0fae4",
+    "f68c5cdb08106500",
+    "29f6c47130cbc25e",
+    "0d0724ddbdaf1850",
+    "6bad5de2d291ea5a",
+    "641a236ffb9df609",
+    "b85a79e9a2263b3c",
+    "1dbc498ad2a6082c",
+    "d729daa59f3e6a06",
+    "9f0de540309b34a1",
+    "eca02d579a526660"
+   ]
+  },
+  {
+   "date": "2010-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:666882:por",
+     "title": "Decreto-Lei n.º 138-C/2010",
+     "published": "2010-12-28",
+     "dre_path": "/dr/detalhe/decreto-lei/138-c-2010-666882"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 28.º"
+   ],
+   "fragments": [
+    "3fdec4bb20c357ce",
+    "e82e298be73417b9",
+    "e7e9b4062c09c493",
+    "d200e0985e57b1b9",
+    "022dfe68ff1a79c2",
+    "d1599981565ca5bc",
+    "364d23ee3dff7d15",
+    "c7263d013283fde0",
+    "cd11730f81704cde",
+    "8299d7e7e4503d04",
+    "af13ba1f60a73af0",
+    "6813212b57a2c5f8",
+    "80df7616de3ea3a1",
+    "05cc9426beae7131",
+    "f66778b55c1db97a",
+    "0f5b267a82de01fa",
+    "c8e33999a9450115",
+    "7985a8f5891dd3e2",
+    "a50d6ea2b10f4342",
+    "d18a4267acc4192d",
+    "6534e64136f59365",
+    "b1cbd5e9c4d532b4",
+    "b88ef3fd8c3ac69d",
+    "b6a4ce603642d625",
+    "ebc2c725d8f0fae4",
+    "f68c5cdb08106500",
+    "29f6c47130cbc25e",
+    "0d0724ddbdaf1850",
+    "6bad5de2d291ea5a",
+    "641a236ffb9df609",
+    "acaaafe96776f4d7",
+    "1dbc498ad2a6082c",
+    "d729daa59f3e6a06",
+    "bdc78d2affcce0bb",
+    "eca02d579a526660"
+   ]
+  }
+ ],
+ "fragments": {
+  "3fdec4bb20c357ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Janeiro\n\nA gratuitidade da escolaridade obrigatória e os apoios e complementos educativos previstos na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro (Lei de Bases do Sistema Educativo), são aspectos que, embora distintos, se encontram intimamente relacionados. A relevância dos pontos comuns justifica, e até recomenda, que os dois domínios sejam regulamentados em diploma único, sem prejuízo das matérias específicas da escolaridade obrigatória.\n\nA definição do princípio da gratuitidade da escolaridade obrigatória, agora alargada a um período de nove anos, pressupõe o objectivo de tornar efectiva a universalidade do ensino básico, garantindo a todas as crianças o acesso à escola, a obtenção das qualificações mínimas que as habilitem ou a prosseguir os estudos ou a enveredar pela actividade profissional e, em consequência, as condições indispensáveis não só à concretização daquele objectivo como também à prossecução de um efectivo sucesso escolar.\n\nCom efeito, os grandes esforços desenvolvidos até agora na área da educação e no âmbito da acção social escolar não têm sido suficientes para fazer inverter os casos de insucesso escolar que são ainda uma manifesta causa de injustiça social e de quebra do princípio de igualdade de oportunidades. Facto preocupante é, também, o baixo índice de escolarização das crianças com necessidades educativas específicas, devidas a deficiências físicas e mentais, a quem importa garantir as condições educativas adequadas às suas características e o seu pleno acesso à educação, em todo o período compreendido pela escolaridade obrigatória.\n\nUrge, portanto, enveredar pela consagração legislativa de alguns dos vectores de cuja concretização depende a promoção do sucesso educativo nos próximos anos.\n\nAssim, alarga-se aos estabelecimentos dependentes de instituições públicas, privadas ou cooperativas de educação especial o princípio da gratuitidade consagrada para o ensino básico e, por outro lado, reforça-se em todo o sistema o apoio social e escolar aos alunos e às famílias e o apoio médico e alimentar, de modo a promover as condições físicas e ambientais mais favoráveis ao pleno desenvolvimento dos educandos.\n\nNo que respeita aos apoios sócio-educativos, sao de salientar os que respeitam:\n\nÀ alimentação, com distribuição diária de leite e atribuição de refeições subsidiadas ou gratuitas;\n\nAo alojamento, através da manutenção e desenvolvimento da rede nacional de residências para estudantes e de outras modalidades;\n\nAos apoios económicos, tais como a atribuição de livros e material escolar, a concessão de bolsas de estudo, de isenção de propinas e de empréstimos para prosseguimento de estudos;\n\nAos transportes escolares, destinados a assegurar o cumprimento da escolaridade obrigatória e a possibilitar a continuação dos estudos;\n\nAo seguro escolar, destinado a garantir cobertura financeira na assistência a alunos sinistrados.\n\nNo que se refere ao apoio de saúde escolar, serão desenvolvidas acções de prevenção e educação para a saúde. Para permitir uma maior adaptabilidade do conteúdo dos benefícios concedidos às condições sócio-económicas dos destinatários e aos meios financeiros disponíveis, remete-se para portaria do Ministro da Educação a regulamentação do conteúdo das acções previstas.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "e82e298be73417b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Princípios gerais"
+  },
+  "e7e9b4062c09c493": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito da aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito da aplicação\n\nO presente diploma aplica-se aos alunos que frequentam o ensino não superior em estabelecimentos de ensino oficial, particular ou cooperativo."
+  },
+  "d200e0985e57b1b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Cumprimento da escolaridade obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cumprimento da escolaridade obrigatória\n\n1 - A frequência do ensino básico, com a duração de nove anos, é obrigatória para todas as crianças em idade escolar, nos termos do disposto no artigo 6.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro (Lei de Bases do Sistema Educativo).\n\n2 - Os alunos com necessidades educativas específicas, resultantes de deficiências físicas ou mentais, estão sujeitos ao cumprimento da escolaridade obrigatória, não podendo ser isentos da sua frequência.\n\n3 - A frequência a que se refere o número anterior processa-se em estabelecimentos regulares de ensino ou em instituições específicas de educação especial, quando comprovadamente o exijam o tipo e o grau de deficiência do aluno."
+  },
+  "022dfe68ff1a79c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Gratuitidade da escolaridade obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gratuitidade da escolaridade obrigatória\n\n1 - Durante o período da escolaridade obrigatória o ensino é gratuito.\n\n2 - A gratuitidade da escolaridade obrigatória consiste na isenção total de propinas, taxas e emolumentos relacionados com a matrícula, a frequência escolar e a certificação de aproveitamento.\n\n3 - Além do disposto no número anterior, a gratuitidade abrange ainda o seguro escolar e a faculdade de dispor, nos termos do presente diploma, de apoios complementares que favoreçam a igualdade de oportunidades no acesso e sucesso escolares.\n\n4 - O disposto nos números anteriores não prejudica a eventual existência de taxas ou outro modo de participação nos custos, decorrentes de acções de natureza extracurricular ou de ocupação de tempos livres, bem como de actividades extraordinárias, promovidas pelos estabelecimentos de ensino e organizadas por estes isoladamente ou em colaboração com associações de pais e encarregados de educação ou quaisquer outras entidades."
+  },
+  "d1599981565ca5bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Apoios e complementos educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoios e complementos educativos\n\nOs apoios e complementos educativos exercem-se nos domínios da orientação e psicologia educacional, da acção social escolar e da saúde escolar."
+  },
+  "364d23ee3dff7d15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Apoios e complementos educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Apoios e complementos educativos"
+  },
+  "c7263d013283fde0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Apoios e complementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoios e complementos\n\n1 - Os apoios e complementos educativos incluem modalidades de aplicação geral e modalidades de aplicação restrita.\n\n2 - São modalidades de aplicação geral as que são susceptíveis de abranger todos os alunos, designadamente os apoios alimentares, os transportes escolares e os esquemas de alojamento.\n\n3 - São modalidades de aplicação restrita as que se destinam, em exclusivo, aos alunos de mais baixos recursos sócio-económicos, designadamente a cedência de livros e material escolar e os auxílios económicos directos.\n\n4 - Sem prejuízo do seu carácter geral, a gestão das modalidades a que se refere o n.º 2 orienta-se por critérios de compensação a favor dos alunos mais carenciados."
+  },
+  "cd11730f81704cde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Prioridade por níveis de educação e ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prioridade por níveis de educação e ensino\n\n1 - A aplicação das diversas modalidades de apoios e complementos educativos aos diferentes níveis de ensino deve ter em conta a especificidade da acção educativa própria, os grupos etários envolvidos e a organização da rede nacional respectiva.\n\n2 - Sem prejuízo do disposto no número anterior, a política de apoios e complementos educativos, designadamente na afectação de recursos, deve atribuir prioridade ao ensino básico e às modalidades de educação especial."
+  },
+  "8299d7e7e4503d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Níveis de comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Níveis de comparticipação\n\n1 - O acesso aos apoios e complementos educativos é gratuito ou comparticipado, consoante a situação sócio-económica dos alunos.\n\n2 - Os níveis de comparticipação são anualmente definidos tendo em consideração os factores pertinentes, designadamente o rendimento familiar, a composição da família, encargos especiais da família por doença, deficiência ou outro motivo atendível, sujeitos a critérios de equidade e de justiça social."
+  },
+  "af13ba1f60a73af0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Referenciais de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Referenciais de aplicação\n\nPara efeitos de definição do universo populacional abrangido pelas modalidades de aplicação restrita, em cada ano escolar são fixadas tabelas indicativas com base em referenciais sócio-económicos."
+  },
+  "6813212b57a2c5f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Orientação e psicologia educacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Orientação e psicologia educacional"
+  },
+  "80df7616de3ea3a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apoio psicológico e orientação escolar e profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio psicológico e orientação escolar e profissional\n\n1 - O apoio psicológico e a orientação escolar e profissional traduzem-se num conjunto de acções diversificadas, que visam o acompanhamento do aluno, individual ou em grupo, ao longo do processo educativo, bem como o apoio psico-pedagógico às actividades educativas e ao desenvolvimento do sistema de relações da comunidade escolar.\n\n2 - O apoio referido no número anterior é prestado por serviços especializados."
+  },
+  "05cc9426beae7131": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Modalidades de acção social escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Modalidades de acção social escolar"
+  },
+  "f66778b55c1db97a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Apoios alimentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apoios alimentares\n\nO apoio a prestar em matéria de alimentação abrange:\n\na) A distribuição diária e gratuita de leite;\n\nb) A atribuição de refeições subsidiadas ou gratuitas;\n\nc) A promoção de acções no âmbito da educação e higiene alimentar."
+  },
+  "0f5b267a82de01fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Programa de leite escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Programa de leite escolar\n\n1 - O programa de leite escolar tem finalidades educativas e de saúde.\n\n2 - Os alunos do ensino básico recebem o leite escolar, diária e gratuitamente, ao longo de todo o ano lectivo.\n\n3 - Serão assegurados todos os cuidados necessários em matéria de higiene, conservação e garantia das boas condições em que o leite é distribuído.\n\n4 - Promover-se-á o consumo de leite e seus derivados junto dos alunos do ensino secundário, mediante a sua venda não lucrativa nos respectivos estabelecimentos escolares.\n\n5 - No caso da população referida no n.º 2 deste artigo, poderão ser associados ao leite escolar outros alimentos nutritivos, tendo em conta, designadamente, as necessidades alimentares dos alunos."
+  },
+  "c8e33999a9450115": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Refeitórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Refeitórios\n\n1 - Os estabelecimentos de ensino devem dispor de refeitórios escolares.\n\n2 - Nos casos em que o número de alunos não justifique a sua existência, o refeitório pode ser substituído pela utilização de refeitórios de estabelecimentos vizinhos ou outras formas de prestação de serviço.\n\n3 - Os refeitórios fornecerão o almoço e, quando funcionem por cursos nocturnos e o número de alunos o justifique, também o jantar.\n\n4 - As refeições são fornecidas sem fins lucrativos, não prejudicando o esquema de auxílios económicos previsto no presente diploma."
+  },
+  "7985a8f5891dd3e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Bufetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Bufetes\n\n1 - Para além dos refeitórios, os estabelecimento de ensino podem dispor de um serviço de bufete.\n\n2 - Nos casos em que os estabelecimentos não disponham de refeitório e os respectivos alunos não possam frequentar um refeitório localizado a distância razoável, o bufete terá uma função supletiva daquele, para o que será convenientemente apetrechado e dotado dos meios necessários."
+  },
+  "a50d6ea2b10f4342": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Educação e higiene alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Educação e higiene alimentar\n\n1 - As refeições devem contribuir para a melhoria dos níveis alimentar e de saúde dos alunos, considerados os hábitos alimentares das regiões.\n\n2 - As actividades escolares devem fomentar, com a participação activa dos alunos, uma alimentação saudável.\n\n3 - Os refeitórios e bufetes referidos nos artigos 12.º e 13.º do presente diploma são objecto de inspecções sanitárias periódicas, pelo menos uma vez por ano, da responsabilidade da autoridade sanitária da área, a fim de garantir o seu funcionamento em boas condições de higiene e de salubridade."
+  },
+  "d18a4267acc4192d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Transportes escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transportes escolares\n\n1 - Aos alunos dos ensinos básico e secundário que residam em localidades que não disponham de estabelecimentos escolares acessíveis a pé, em termos de distância ou de tempo, nem de transportes públicos colectivos utilizáveis será facultado um esquema adequado de transportes escolares.\n\n2 - Será assegurado o transporte escolar dentro da área de residência aos alunos com dificuldades de locomoção ou que necessitem de se deslocar para frequência de modalidades de educação especial.\n\n3 - A utilização do esquema de transportes escolares será gratuita para os alunos do ensino básico e comparticipada para os do ensino secundário.\n\n4 - A organização e controlo do funcionamento dos transportes escolares é da competência dos municípios de residência dos alunos, nos termos do [Decreto-Lei n.º 299/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1984-373662), de 5 de Setembro."
+  },
+  "6534e64136f59365": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alojamento\n\n1 - Com vista a garantir o cumprimento da escolaridade obrigatória e o acesso à escola por parte de alunos forçados a separarem-se da família durante o período de frequência da escola será organizado um esquema de apoio ao alojamento.\n\n2 - O apoio ao alojamento pode abranger as seguintes modalidades:\n\na) Rede oficial de residências para estudantes;\n\nb) Colocações familiares;\n\nc) Acordos de cooperação com entidades privadas.\n\n3 - No apoio ao alojamento é atribuída primeira prioridade aos alunos com fracos recursos económicos que frequentem o ensino básico ou estruturas de educação especial.\n\n4 - Em qualquer das modalidades referidas no n.º 2, o custo suportado pelo aluno é comparticipado, sem prejuízo do esquema de apoios económicos previsto neste diploma."
+  },
+  "b1cbd5e9c4d532b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Prevenção e seguro escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prevenção e seguro escolar\n\n1 - Nos estabelecimentos de ensino existirá um programa de prevenção de acidentes e seguro escolar.\n\n2 - O programa referido no número anterior consiste em acções educativas no campo da segurança e prevenção de acidentes nas actividades escolares e num esquema de seguro que garanta a cobertura financeira da assistência a prestar aos sinistrados, complementarmente aos apoios assegurados pelo sistema nacional de saúde."
+  },
+  "b88ef3fd8c3ac69d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Cedência de livros e material escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cedência de livros e material escolar\n\n1 - Os livros e material escolar são atribuídos em espécie.\n\n2 - Aos alunos com necessidades educativas especiais são atribuídas as ajudas técnicas, os livros e o material escolar adequados, de acordo com a avaliação dos serviços competentes."
+  },
+  "b6a4ce603642d625": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Auxílios económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Auxílios económicos\n\n1 - Os auxílios económicos directos são formas de apoio sócio-educativo destinados a alunos de mais fracos recursos, visando contribuir para que possam fazer face aos encargos directa ou indirectamente relacionados com as actividades escolares e circum-escolares.\n\n2 - Os auxílios económicos directos abrangem as seguintes modalidades:\n\na) Isenção de propinas;\n\nb) Bolsa de estudo;\n\nc) Empréstimo."
+  },
+  "ebc2c725d8f0fae4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Isenção de propinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Isenção de propinas\n\nA modalidade «isenção de propinas» aplica-se aos alunos do ensino secundário que, nos termos do disposto no artigo 8.º, se situem no respectivo referencial sócio-económico."
+  },
+  "f68c5cdb08106500": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Bolsa de estudo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Bolsa de estudo\n\n1 - A modalidade «bolsa de estudo» tem carácter mensal durante o período do ano lectivo e aplica-se aos alunos do ensino secundário que, nos termos do disposto no artigo 8.º, se situem no respectivo referencial sócio-económico.\n\n2 - A fixação do montante das bolsas de estudo é estabelecida por despacho do Ministro da Educação, tendo em atenção o nível de ensino a que respeita, a condição sócio-económica do aluno e os encargos que visa satisfazer."
+  },
+  "29f6c47130cbc25e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Empréstimo\n\n1 - A modalidade «empréstimo» destina-se a alunos do ensino secundário nas suas diferenciadas formas, bem como dos cursos organizados nos termos do artigo 19.º da Lei de Bases do Sistema Educativo, e visa proporcionar os meios necessários à respectiva frequência.\n\n2 - A modalidade «empréstimo» tem carácter supletivo ou complementar das restantes modalidades.\n\n3 - Os empréstimos serão concedidos por instituições de crédito que venham a criar esquemas adequados aos estudantes.\n\n4 - O empréstimo a conceder a estudantes menores será contratado entre os legais representantes destes e as instituições de crédito.\n\n5 - Deverão ser celebrados protocolos de cooperação entre os serviços especializados do Ministério da Educação e as instituições de crédito interessadas tendo em vista a comunicação de elementos estatísticos e a prestação de quaisquer outros apoios técnicos adequados à realização do objecto do presente artigo."
+  },
+  "0d0724ddbdaf1850": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Serviços de acção social escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Serviços de acção social escolar\n\n1 - A acção social escolar desenvolve-se no âmbito da educação escolar e visa assegurar as condições que permitam, com sucesso, o efectivo cumprimento da escolaridade obrigatória e a frequência da escola após o ensino básico.\n\n2 - Os serviços de acção social escolar exercem a sua actividade nos estabelecimentos de ensino públicos."
+  },
+  "6bad5de2d291ea5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Apoio da saúde escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Apoio da saúde escolar\n\n1 - Com vista à promoção da saúde de todos os alunos em idade escolar, será desenvolvido um conjunto de acções tendo por objectivos a educação para a saúde, a prevenção primária e secundária da doença e a adequação do processo educacional a eventuais dificuldades ou deficiências resultantes de afecções agudas ou crónicas de qualquer foro, no quadro do ensino geral ou especial.\n\n2 - As acções referidas no número anterior são desenvolvidas, nos termos do disposto no artigo 28.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, por serviços especializados dos centros de saúde, articulados com outros serviços dependentes do Ministério da Saúde, bem como pelos Serviços de Medicina Pedagógica do Ministério da Educação e por estruturas educacionais adequadas."
+  },
+  "641a236ffb9df609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias"
+  },
+  "b85a79e9a2263b3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Ensino particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ensino particular e cooperativo\n\nO cálculo dos encargos decorrentes da aplicação do presente diploma ao ensino particular e cooperativo e a assumir por conta das dotações do Estado será feito com base nos custos relativos ao ensino oficial."
+  },
+  "1dbc498ad2a6082c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Financiamento\n\nConstituem fontes de financiamento do conjunto de acções previstas no presente diploma:\n\na) As verbas inscritas no Orçamento do Estado;\n\nb) As receitas próprias do Instituto de Apoio Sócio-Educativo;\n\nc) As receitas próprias dos municípios;\n\nd) Os fundos provenientes da CEE ou de outras organizações internacionais no âmbito de programas específicos de apoio a alunos carenciados."
+  },
+  "d729daa59f3e6a06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regulamentação\n\n1 - As normas de execução destinadas a concretizar a gratuitidade da escolaridade obrigatória serão aprovadas por portaria do Ministro da Educação.\n\n2 - Quando das acções de concretização previstas no número anterior resultar aumento de encargos, a portaria de aprovação deverá também ser assinada pelo Ministro das Finanças."
+  },
+  "9f0de540309b34a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Disposição transitória\n\nA aplicação do disposto no presente diploma ao ensino particular e cooperativo far-se-á de modo gradual, de acordo com os meios financeiros disponíveis e com base no disposto no Estatuto do Ensino Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro."
+  },
+  "eca02d579a526660": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nÉ revogado o artigo 6.º do [Decreto-Lei n.º 301/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1984-373429), de 7 de Setembro, na redacção dada pelo artigo 2.º do [Decreto-Lei n.º 243/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1987-419059), de 15 de Junho.\n\nVisto e aprovado em Conselho de Ministros de 16 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Manuel Nunes Liberato - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nPromulgado em 12 de Janeiro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Janeiro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "acaaafe96776f4d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Ensino particular e cooperativo",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28."
+   ],
+   "markdown": "###### Artigo 25.º — Ensino particular e cooperativo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28."
+  },
+  "bdc78d2affcce0bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Disposição transitória",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28."
+   ],
+   "markdown": "###### Artigo 28.º — Disposição transitória\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28."
+  }
+ }
+}

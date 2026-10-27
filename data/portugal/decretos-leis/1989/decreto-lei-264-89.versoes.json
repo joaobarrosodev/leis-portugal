@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:619282:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "32110d645995859b"
+   ]
+  },
+  {
+   "date": "1996-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:188491:por",
+     "title": "Decreto-Lei n.º 237/96",
+     "published": "1996-12-13",
+     "dre_path": "/dr/detalhe/decreto-lei/237-1996-188491"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "221a176677a47298",
+    "753368712ebab951",
+    "4f3f8985a8907eaa",
+    "e975c99e633248f9",
+    "d1cf5acfbdfcba87"
+   ]
+  }
+ ],
+ "fragments": {
+  "32110d645995859b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Agosto\n\nAté 1980, o pessoal civil dos serviços departamentais das forças armadas, não obstante a sua inserção no aparelho militar, era regido pela legislação geral da função pública, excepto no aspecto disciplinar.\n\nO [Decreto-Lei n.º 33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, dotou esse pessoal de um estatuto próprio, composto por normas semelhantes à da legislação geral da função pública, excepto quanto a deveres e obrigações, porque aproximados aos dos militares.\n\nEssa excepção, consagrada no diploma atrás referido, que previa uma relação especial de poder, a seu respeito, no âmbito das forças armadas, foi declarada inconstitucional pelo [Acórdão n.º 15/88](https://diariodarepublica.pt/dr/detalhe/acordao/15-1988-282710) do Tribunal Constitucional, na senda do [Acórdão n.º 31/84](https://diariodarepublica.pt/dr/detalhe/acordao/31-1984-654943) do mesmo Tribunal.\n\nAs normas do [Decreto-Lei n.º 33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, respeitantes ao estatuto jurídico-laboral do pessoal civil dos serviços departamentais das forças armadas, revogadas pelo [Decreto-Lei n.º 380/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1982-375800), de 15 de Setembro, foram repristinadas, nos termos do artigo 282.º da Constituição, por declaração de inconstitucionalidade do artigo 1.º do referido diploma, pelo [Acórdão n.º 451/87](https://diariodarepublica.pt/dr/detalhe/acordao/451-1987-497854) do Tribunal Constitucional.\n\nPor outro lado, o Estatuto Disciplinar deste pessoal, aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro, que substituiu o [Decreto-Lei n.º 434-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-a-1982-243349), de 29 de Outubro, suscita um problema idêntico ao colocado pela revisão do Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas.\n\nDecorrido o período de transição que obrigava à publicação de diplomas paralelos para os funcionários e agentes da Administração dependentes, respectivamente, do Governo e das forças armadas, pretende o presente diploma determinar a integração deste pessoal no regime geral da função pública.\n\nIsto sem prejuízo de, em virtude da especial natureza e importância das funções cometidas a alguns funcionários destes serviços, se poder adoptar a seu respeito providência legislativa autónoma.\n\nFicam também salvaguardadas as competências e os poderes conferidos aos chefes de estado-maior pelo artigo 59.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro.\n\nForam ouvidas as comissões de trabalhadores, nos termos da alínea d) do artigo 55.º da Constituição.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - Aos funcionários e agentes civis dos serviços departamentais das forças armadas é aplicável o regime respeitante aos funcionários e agentes da administração central.\n\n2 - As referências feitas na legislação mencionada no número anterior, em matéria de competências, ao ministro ou membro do Governo responsável pelo respectivo departamento e ao director-geral são entendidas como feitas, respectivamente, aos chefes de estado-maior e aos oficiais generais que na estrutura das forças armadas desempenham cargos de comando, direcção ou chefia correspondentes a director-geral.\n\n3 - O disposto no número anterior não prejudica os poderes de superintendência do Ministro da Defesa Nacional nem aqueles que lhe são exclusivamente cometidos pela [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro.\n\nArt. 2.º Os serviços departamentais das forças armadas são as unidades, os organismos e os serviços das forças armadas, com ou sem personalidade jurídica, que não sejam estabelecimentos fabris.\n\nArt. 3.º - 1 - É revogada toda a legislação e regulamentação em contrário ao disposto no presente diploma, designadamente os Decretos-Leis n.os [33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, na parte que aprovou o Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas, e [434-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-a-1982-243349), de 29 de Outubro, que aprovou o Regulamento Disciplinar do mesmo Pessoal.\n\n2 - Mantém-se transitoriamente em vigor o actual regime de classificação de serviço aplicável a este pessoal até à sua revisão, nos termos da lei geral.\n\nArt. 5.º A execução do presente diploma respeitará os direitos adquiridos, bem como os actos constitutivos praticados ao abrigo das normas revogadas pelo artigo anterior.\n\nVisto e aprovado em Conselho de Ministros de 15 de Junho de 1989. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 28 de Julho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Agosto de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "221a176677a47298": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Agosto\n\nAté 1980, o pessoal civil dos serviços departamentais das forças armadas, não obstante a sua inserção no aparelho militar, era regido pela legislação geral da função pública, excepto no aspecto disciplinar.\n\nO [Decreto-Lei n.º 33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, dotou esse pessoal de um estatuto próprio, composto por normas semelhantes à da legislação geral da função pública, excepto quanto a deveres e obrigações, porque aproximados aos dos militares.\n\nEssa excepção, consagrada no diploma atrás referido, que previa uma relação especial de poder, a seu respeito, no âmbito das forças armadas, foi declarada inconstitucional pelo [Acórdão n.º 15/88](https://diariodarepublica.pt/dr/detalhe/acordao/15-1988-282710) do Tribunal Constitucional, na senda do [Acórdão n.º 31/84](https://diariodarepublica.pt/dr/detalhe/acordao/31-1984-654943) do mesmo Tribunal.\n\nAs normas do [Decreto-Lei n.º 33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, respeitantes ao estatuto jurídico-laboral do pessoal civil dos serviços departamentais das forças armadas, revogadas pelo [Decreto-Lei n.º 380/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1982-375800), de 15 de Setembro, foram repristinadas, nos termos do artigo 282.º da Constituição, por declaração de inconstitucionalidade do artigo 1.º do referido diploma, pelo [Acórdão n.º 451/87](https://diariodarepublica.pt/dr/detalhe/acordao/451-1987-497854) do Tribunal Constitucional.\n\nPor outro lado, o Estatuto Disciplinar deste pessoal, aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro, que substituiu o [Decreto-Lei n.º 434-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-a-1982-243349), de 29 de Outubro, suscita um problema idêntico ao colocado pela revisão do Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas.\n\nDecorrido o período de transição que obrigava à publicação de diplomas paralelos para os funcionários e agentes da Administração dependentes, respectivamente, do Governo e das forças armadas, pretende o presente diploma determinar a integração deste pessoal no regime geral da função pública.\n\nIsto sem prejuízo de, em virtude da especial natureza e importância das funções cometidas a alguns funcionários destes serviços, se poder adoptar a seu respeito providência legislativa autónoma.\n\nFicam também salvaguardadas as competências e os poderes conferidos aos chefes de estado-maior pelo artigo 59.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro.\n\nForam ouvidas as comissões de trabalhadores, nos termos da alínea d) do artigo 55.º da Constituição.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "753368712ebab951": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Aos funcionários e agentes civis dos serviços departamentais das forças armadas é aplicável o regime respeitante aos funcionários e agentes da administração central.\n\n2 - As referências feitas na legislação mencionada no número anterior, em matéria de competências, ao ministro ou membro do Governo responsável pelo respectivo departamento e ao director-geral são entendidas como feitas, respectivamente, aos chefes de estado-maior e aos oficiais generais que na estrutura das forças armadas desempenham cargos de comando, direcção ou chefia correspondentes a director-geral.\n\n3 - O disposto no número anterior não prejudica os poderes de superintendência do Ministro da Defesa Nacional nem aqueles que lhe são exclusivamente cometidos pela [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro."
+  },
+  "4f3f8985a8907eaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs serviços departamentais das forças armadas são as unidades, os organismos e os serviços das forças armadas, com ou sem personalidade jurídica, que não sejam estabelecimentos fabris."
+  },
+  "e975c99e633248f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1996-12-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 237/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1996-188491), publicado em 1996-12-13."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - É revogada toda a legislação e regulamentação em contrário ao disposto no presente diploma, designadamente os Decretos-Leis n.os [33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, na parte que aprovou o Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas, e [434-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-a-1982-243349), de 29 de Outubro, que aprovou o Regulamento Disciplinar do mesmo Pessoal.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 237/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1996-188491), publicado em 1996-12-13."
+  },
+  "d1cf5acfbdfcba87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA execução do presente diploma respeitará os direitos adquiridos, bem como os actos constitutivos praticados ao abrigo das normas revogadas pelo artigo anterior.\n\nVisto e aprovado em Conselho de Ministros de 15 de Junho de 1989. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 28 de Julho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Agosto de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

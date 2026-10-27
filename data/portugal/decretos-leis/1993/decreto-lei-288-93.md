@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-07-21'
+version_history:
+  file: decreto-lei-288-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-21'
+    amending: pt:dre:456492:por
+    amending_title: Decreto-Lei n.º 116/2008
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/288/1993/08/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:25:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 116/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-288-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,11 +207,13 @@ b) Isenção temporária do pagamento da prestação pessoal de renda.
 
 2 - O preço de venda do fogo pode ser objecto de uma dedução em função do pagamento integral ou do pagamento de uma entrada inicial, de acordo com tabela a aprovar por portaria conjunta dos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.
 
-3 - O preço de venda dos fogos devolutos vendidos ao abrigo do n.º 11 do artigo 8.º é fixado nos mesmos termos e condições dos fogos arrendados.
+3 - A alienação de fogos sujeitos ao ónus do Decreto-Lei n.º 608/73, de 14 de Novembro, e o ónus da renda económica cessam automaticamente decorridos cinco anos após a realização do contrato de aquisição do imóvel.
 
 4 - O preço de venda de fogos do IGAPHE, cuja construção foi comparticipada pela Fundação Calouste Gulbenkian, pode ser objecto de uma redução de 50%, não havendo neste caso direito à dedução prevista no n.º 2.
 
 5 - O preço de venda do fogo é arredondado para o milhar de escudos superior e mantém-se inalterável pelo prazo de um ano a contar da data de aceitação da proposta de venda, findo o qual pode ser actualizado.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.
 
 ###### Artigo 5.º — [...]
 

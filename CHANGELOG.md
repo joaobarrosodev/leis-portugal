@@ -6,6 +6,12 @@ O esquema dos registos é [`schemas/legal_document.schema.json`](schemas/legal_d
 
 ## 2026-10-27
 
+### Texto em vigor consolidado pelo leis-portugal (novo)
+- 25 diplomas que o DRE dá como alterados mas não consolida passam a ter o texto em vigor, com as alterações publicadas aplicadas por regra e verificadas às cegas artigo a artigo (piloto da fase 2, [`consolidacao/README.md`](consolidacao/README.md)).
+- Ficam como os consolidados do DRE: `version.kind: consolidated`, `consolidation_date` (a data em que a alteração entrou em vigor), notas "> Alterado pelo/a …" nos artigos alterados e `<registo>.versoes.json` com a versão original e a alterada (`leis-portugal version-at` funciona).
+- Distinguem-se pelo rótulo `version.label` ("Versão consolidada pelo leis-portugal, sem valor oficial: …"), por `source.consolidated_url: null` e, no histórico, por `consolidated_by: leis-portugal` e fragmentos sem `fragment_id` nem `type`. Quem só quiser texto oficial deve filtrar pelo rótulo.
+- Uma nova recolha do texto publicado não os substitui; uma versão consolidada do DRE substitui.
+
 ### Artigos, entrada em vigor e vigência (novo)
 - `leis-portugal structure` lê os registos portugueses e regionais, escreve em `reports/` um relatório de cobertura (`estrutura.md`, `estrutura.json`) e as propostas de vigência com as provas (`vigencia-proposta.jsonl`), e grava nos registos a entrada em vigor e a vigência provada. `--dry-run` só mede, sem alterar registos.
 - **Entrada em vigor nos registos:** `entry_into_force` (data, regra em texto, método, artigo, produção de efeitos e fim de vigência) quando há cláusula ou se aplica a regra supletiva; `entry_into_force_dates` recebe a data quando estava vazio. Em 2026-10-27: 87.382 registos.
