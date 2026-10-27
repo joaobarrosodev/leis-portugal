@@ -6,8 +6,10 @@ Ordem dos candidatos (`nivel`, do mais forte para o mais fraco):
 2. BM25 dentro dos diplomas ou códigos citados na pergunta;
 1. BM25 em todo o acervo.
 
-Dentro de cada nível, o reranker (se houver: cross-encoder ou embeddings, ver `rag.modelos`)
-reordena os primeiros candidatos. Só entram pedaços cujo texto
+Com reranker (cross-encoder ou embeddings, ver `rag.modelos`), os níveis 3 e 2 juntam-se e o
+reranker reordena-os: a referência exata entra como candidata, não passa à frente, porque muitas
+perguntas citam um artigo só como contexto ("a coima das contraordenações do n.º 1 do artigo 24.º"
+está no 25.º). Sem reranker, a ordem é a dos níveis. Só entram pedaços cujo texto
 estava em vigor na data da pergunta (`desde <= data < ate`). Um código republicado
 (`texto_em_vigor_em`, p. ex. o Código do IRS do DL 442-A/88) é trocado pelo mesmo artigo
 no consolidado que tem o texto atual (a Lei n.º 82-E/2014).
@@ -257,7 +259,7 @@ class Pesquisa:
             for r, s in zip(topo, self.reranker.pontuar(pergunta, [f"{r.rotulo}\n{r.texto}" for r in topo]), strict=True):
                 r.reranker = s
             resultados = topo
-            resultados.sort(key=lambda r: (-r.nivel, -(r.reranker if r.reranker is not None else -1e9)))
+            resultados.sort(key=lambda r: (-min(r.nivel, 2), -(r.reranker if r.reranker is not None else -1e9)))
         else:
             resultados.sort(key=lambda r: (-r.nivel, -r.pontuacao))
 
