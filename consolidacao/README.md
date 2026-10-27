@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## Resultado em resumo
 
-Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 23 têm todos os artigos `certo`, 1 está numa 3.ª ronda e 3 têm uma dúvida por decidir. 72 ficam para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor.
+Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 24 têm todos os artigos `certo` e 3 têm uma dúvida por decidir. 72 ficam para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor.
 
 | Estado | 1.ª corrida | Com o parser da fase 3 | Depois da verificação às cegas | O que quer dizer |
 | --- | --: | --: | --: | --- |
@@ -46,18 +46,19 @@ O verificador foi a Claude Sonnet 5.5, numa sessão à parte, com as regras da s
 | --- | --: | --: | --: | --: | --: |
 | 1.ª (`saida-piloto.jsonl`) | 22 | 532 | 512 | 7 | 13 |
 | 2.ª (`saida-piloto-2.jsonl`) | 8 | 197 | 196 | 0 | 1 |
+| 3.ª (`saida-piloto-3.jsonl`) | 1 | 8 | 8 | 0 | 0 |
 
 Revisão à mão de cada `errado`, `dúvida` e nota por diploma:
 
 - **Lei Orgânica n.º 4/2004: erro real, apanhado pelo verificador.** Os 7 `errado` e 11 das `dúvida` são deste diploma. A Lei Orgânica n.º 4/2014 adita artigos à Lei n.º 30/84, "alterada pelas Leis n.os 4/95, …, e pela Lei Orgânica n.º 4/2004". A regra só tirava a primeira menção da lista "alterada pelas …", por isso o "e pela Lei Orgânica n.º 4/2004" no fim contava como o diploma alterado. Os 7 artigos aditados à Lei 30/84 foram parar ao corpo da 4/2004. Agora toda a lista conta como diplomas que deram redação a outro (`_INICIO_CADEIA` e `_CADEIA` em `alteracoes.py`). A 4/2004 passou a "sem alteração textual", que é o certo: a LO 4/2014 altera a Lei 30/84 e não a lei que a republicou. A mesma correção tirou a Lei n.º 3/2010 dos pendentes: era só mencionada em "o Decreto-Lei n.º 32/2003, alterado pelo … e pela Lei n.º 3/2010", que é revogado.
-- **Decreto-Lei n.º 94/91: erro real, apanhado pelo verificador.** As fórmulas finais ("Visto e aprovado…", "Promulgado…", as assinaturas) estavam no bloco do último artigo e desapareceram quando o artigo 8.º foi revogado. Agora ficam quando um artigo é reescrito (`_formulas_finais` em `aplicar.py`, com a mesma deteção de assinaturas do parser da fase 3). O consolidado mudou, por isso vai a uma 3.ª ronda (`entrada-piloto-3.jsonl`).
+- **Decreto-Lei n.º 94/91: erro real, apanhado pelo verificador.** As fórmulas finais ("Visto e aprovado…", "Promulgado…", as assinaturas) estavam no bloco do último artigo e desapareceram quando o artigo 8.º foi revogado. Agora ficam quando um artigo é reescrito (`_formulas_finais` em `aplicar.py`, com a mesma deteção de assinaturas do parser da fase 3). O consolidado mudou e foi a uma 3.ª ronda (`entrada-piloto-3.jsonl`), com os 8 artigos `certo` e as fórmulas finais preservadas.
 - **Decreto-Lei n.º 96/87 e Decreto-Lei n.º 163-A/2000: erro real, que o verificador não apanhou.** São as revogações "na parte em que contrariem" do DL 16/2013, que já tinham saído dos aplicados. O verificador deu `certo` a todos os artigos: lê a revogação ao pé da letra, como as regras liam. As regras da verificação passam a dizer que uma revogação condicional não se aplica (regra 3).
 - **Decreto Legislativo Regional n.º 13/98/A, artigo 17.º: fica por decidir.** Nenhuma instrução altera o artigo, e o consolidado mantém o original. Mas a republicação em anexo ao diploma que altera, "com as alterações ora introduzidas", tem outra redação ("regime jurídico" em vez de "diploma"). As regras seguem as instruções. Uma republicação que difere das instruções num artigo não alterado é uma decisão a tomar: conta a republicação, ou só as instruções?
 - **Lei n.º 10/2012, artigo 3.º: fica por decidir.** O artigo 45.º da Lei n.º 26/2016, que dá a nova redação, foi depois alterado pela Lei n.º 68/2021. O texto do registo da 26/2016 no acervo já é o consolidado. A redação aplicada pode, por isso, ser a de 2021 e não a de 2016, e a nota de alteração só nomeia a 26/2016.
 - **Decreto-Lei n.º 513-M/79, artigo 19.º: fica por decidir.** A revogação produz efeitos "com a entrada em vigor do Código" (dos Regimes Contributivos), que foi adiada por leis posteriores. O texto está certo. O que fica por modelar é a data (é trabalho da fase 3).
 - Nas outras 22 notas por diploma, nada em falta. Na 2.ª ronda, o verificador confirmou a normalização dos títulos nos 8 diplomas.
 
-**Ficam 23 diplomas com todos os artigos `certo` (16 da 1.ª ronda e 7 da 2.ª).** O DL 94/91 está na 3.ª ronda, e há 3 com uma dúvida por decidir.
+**Ficam 24 diplomas com todos os artigos `certo` (16 da 1.ª ronda, 7 da 2.ª e o DL 94/91 da 3.ª).** Há 3 com uma dúvida por decidir.
 
 Por tipo de erro: a verificação às cegas apanhou os 2 erros de **posição e âmbito** (artigos no sítio errado, texto apagado fora do artigo). Não apanhou o erro de **leitura jurídica** (a revogação condicional), em que o verificador faz a mesma leitura literal que as regras. Esse tipo de erro só a revisão à mão o apanhou.
 
@@ -220,7 +221,7 @@ A sessão escreve uma linha por diploma, `{"id", "artigos": [{"chave", "epigrafe
 - **Grafia:** o texto novo vem do diploma que altera e o resto do original, por isso o mesmo artigo pode ter grafias diferentes ("actividade" e "atividade"), como nas consolidações oficiais.
 - **Notas e ligações:** os parágrafos retificados perdem as ligações Markdown. O cabeçalho YAML dos consolidados é próprio do piloto (`consolidacao.estado: por verificar às cegas`); o formato final para `data/` decide-se no merge.
 - **O que é preciso para o resto:**
-  1. a 3.ª ronda da verificação às cegas (DL 94/91) e decidir as 3 dúvidas (republicação que difere das instruções, alterador alterado depois, revogação com data diferida);
+  1. decidir as 3 dúvidas da verificação às cegas (republicação que difere das instruções, alterador alterado depois, revogação com data diferida);
   2. os 77 pendentes, numa sessão do Claude a partir de `llm/entrada-sessao.jsonl` ou com uma chave da API (`llm.py --executar`, cerca de 4,6 $);
   3. uma regra para a redação nova sem aspas (34 instruções);
   4. decidir o que fazer com os 500 sem alteração textual e os 17 revogados (vigência e relações, fase 3).
