@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1882 - 1883
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/10600/0188201883.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-08-30'
+entry_into_force:
+  date: '2010-08-30'
+  rule: no prazo de 90 dias a contar da data da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

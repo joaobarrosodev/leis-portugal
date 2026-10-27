@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1846 - 1847
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/20500/18461847.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-09-21'
+entry_into_force:
+  date: '1978-09-21'
+  rule: quinze dias após a sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 3834 - 3837
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/26500/38343837.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias depois de as Partes Contratantes se terem informado reciprocamente de estarem satisfeitas as exigências requeridas,
+    para esse efeito, pelas legislações de cada país
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

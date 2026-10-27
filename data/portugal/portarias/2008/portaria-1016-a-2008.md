@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 6258-(2) a 6258-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/09/17301/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-09-15'
+entry_into_force:
+  date: '2008-09-15'
+  rule: no dia 15 de Setembro de 2008
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

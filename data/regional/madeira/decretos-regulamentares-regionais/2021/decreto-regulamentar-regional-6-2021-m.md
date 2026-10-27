@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 99 - 103
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11400/0009900103.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-16'
+entry_into_force:
+  date: '2021-06-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

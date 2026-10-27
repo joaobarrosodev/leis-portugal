@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 50221 - 50222
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/197000000/5022150222.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-10-12'
+entry_into_force:
+  date: '2010-10-12'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:117228381:por#art-5'
+    detail: b) O [Regulamento da CMVM n.º 5/2010], de 11 outubro, sobre o dever de divulgação de posições económicas longas
+      relativas a ações.
 notes: []
 language: por
 version:

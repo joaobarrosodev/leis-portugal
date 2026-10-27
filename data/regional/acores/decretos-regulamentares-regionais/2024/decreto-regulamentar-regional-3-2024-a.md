@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/07200/0000300016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-04-12'
+entry_into_force:
+  date: '2024-04-12'
+  rule: no dia seguinte da sua publicação
+  method: clausula
+  article: art-33
+  effects_date: '2024-03-04'
+  effects_rule: a 4 de março de 2024, considerando-se ratificados todos os atos praticados pelos membros do Governo Regional
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

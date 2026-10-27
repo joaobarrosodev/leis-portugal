@@ -24,6 +24,16 @@ publication:
   pages: 1434 - 1434
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/15200/14341434.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e terá duração indeterminada, podendo ser denunciado por qualquer das Partes contratantes
+    mediante aviso prévio de seis meses
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 2642 - 2643
   pdf_url: https://files.diariodarepublica.pt/1s/2014/05/08600/0264202643.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

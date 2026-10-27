@@ -24,6 +24,16 @@ publication:
   pages: 230 - 231
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01300/02300231.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que as duas Partes Contratantes se hajam notificado reciprocamente do cumprimento das respectivas formalidades
+    constitucionais
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

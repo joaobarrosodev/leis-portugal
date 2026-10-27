@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6739 - 6739
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/227a00/67396739.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-11-26'
+entry_into_force:
+  date: '2005-11-26'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2004-01-01'
+  effects_rule: reportados a 1 de Janeiro de 2004
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

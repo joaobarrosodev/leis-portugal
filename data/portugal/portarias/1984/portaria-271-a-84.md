@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1428-(1) a 1428-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/10001/00010002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-05-15'
+entry_into_force:
+  date: '1984-05-15'
+  rule: no dia 15 de Maio de 1984
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

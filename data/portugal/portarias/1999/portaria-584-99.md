@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 4969 - 4969
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/178b00/49694969.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-08-03'
+entry_into_force:
+  date: '1999-08-03'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: n-8
+  effects_date: '1998-09-01'
+  effects_rule: desde 1 de Setembro de 1998
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

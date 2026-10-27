@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 25 - 26
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/10700/0002500026.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-03'
+entry_into_force:
+  date: '2022-06-03'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2022-01-01'
+  effects_rule: desde 1 de janeiro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2798-(85) a 2798-(115)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29906/00850115.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-12-31'
+entry_into_force:
+  date: '1978-12-31'
+  rule: no dia imediato ao da sua publicação, salvo quanto ao disposto nos artigos 83.º e 84.º, que
+  method: clausula
+  article: art-163
+  effects_date: '1978-08-01'
+  effects_rule: a partir de 1 de Agosto de 1978
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

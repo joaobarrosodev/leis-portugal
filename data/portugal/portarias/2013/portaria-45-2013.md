@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 662 - 664
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/02400/0066200664.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-05'
+entry_into_force:
+  date: '2013-02-05'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo da eficácia dos contratos celebrados ao abrigo do Regulamento do
+    SIPAC, aprovado pela Portaria n.º 318/2011, de 30 de dezembro
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

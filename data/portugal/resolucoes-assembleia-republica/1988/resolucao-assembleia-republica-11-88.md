@@ -23,6 +23,16 @@ publication:
   pages: 2140 - 2152
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11800/21402152.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia a partir da data do depósito do 20.º instrumento de ratificação ou de adesão junto do Secretário-Geral
+    da Organização das Nações Unidas
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

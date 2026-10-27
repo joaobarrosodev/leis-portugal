@@ -24,6 +24,16 @@ publication:
   pages: 4158 - 4164
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/152a00/41584164.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que as Partes Contratantes se notificarem mutuamente, pelos canais diplomáticos, de que em
+    cada uma delas foram cumpridas as formalidades jurídicas necessárias para a sua entrad
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

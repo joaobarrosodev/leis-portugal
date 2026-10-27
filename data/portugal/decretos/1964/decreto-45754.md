@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 758 - 765
   pdf_url: https://files.diariodarepublica.pt/1s/1964/06/13300/07580765.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1964-06-20'
+entry_into_force:
+  date: '1964-06-20'
+  rule: quinze dias após a data da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

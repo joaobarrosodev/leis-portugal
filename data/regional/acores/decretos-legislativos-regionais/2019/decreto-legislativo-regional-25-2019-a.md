@@ -23,6 +23,15 @@ publication:
   pages: 9 - 13
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/22000/0000900013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 23 de dezembro do corrente ano
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

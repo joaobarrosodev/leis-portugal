@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3962-(2) a 3962-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/14701/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-01'
+entry_into_force:
+  date: '2012-08-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante o período de vigência da Resolução do Conselho de Ministros n.º 51-A/2012, de 14 de junho
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

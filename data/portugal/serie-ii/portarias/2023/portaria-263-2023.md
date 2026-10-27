@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 106 - 107
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/111000000/0010600107.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-10'
+entry_into_force:
+  date: '2023-06-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

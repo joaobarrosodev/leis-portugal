@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1485 - 1498
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04900/0148501498.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-11'
+entry_into_force:
+  date: '2008-03-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-67
+  effects_date: '2008-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2008
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

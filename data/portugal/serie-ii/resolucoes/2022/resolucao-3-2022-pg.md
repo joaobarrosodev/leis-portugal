@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 276 - 295
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/070000000/0027600295.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-02'
+entry_into_force:
+  date: '2022-05-02'
+  rule: no dia 02 de maio de 2022
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

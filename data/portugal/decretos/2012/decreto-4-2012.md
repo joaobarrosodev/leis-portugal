@@ -24,6 +24,16 @@ publication:
   pages: 1108 - 1111
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05200/0110801111.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'trinta (30) dias após a data de recepção da última notificação, por escrito e por via diplomática, declarando que
+    foram cumpridos todos os procedimentos internos de ambas as Partes necessários para o '
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

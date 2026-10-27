@@ -24,6 +24,15 @@ publication:
   pages: 18 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14500/0001800020.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a entrada em vigor da lei do Orçamento do Estado posterior à sua aprovação e
+  method: clausula
+  article: art-3
+  effects_date: '2022-01-01'
+  effects_rule: desde 1 de janeiro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

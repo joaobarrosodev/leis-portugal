@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2043 - 2043
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28900/20432043.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-12-16'
+entry_into_force:
+  date: '1975-12-16'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

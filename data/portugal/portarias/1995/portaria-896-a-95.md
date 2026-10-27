@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4542-(2) a 4542-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/162b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-07-01'
+entry_into_force:
+  date: '1995-07-01'
+  rule: a partir de 1 de Julho de 1995
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

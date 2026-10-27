@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4430 - 4432
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/286b00/44304432.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-11-30'
+entry_into_force:
+  date: '1996-11-30'
+  rule: em 30 de Novembro de 1996
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

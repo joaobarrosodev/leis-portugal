@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15246 - 15246
   pdf_url: https://files.diariodarepublica.pt/2s/2004/10/244000000/1524615246.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-10-01'
+entry_into_force:
+  date: '2004-10-01'
+  rule: no dia 1 de Outubro de 2004
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

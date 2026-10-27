@@ -24,6 +24,15 @@ publication:
   pages: 2166 - 2207
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13400/0216602207.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início da vigência do Decreto-Lei n.º 192/2015, de 11 de setembro
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

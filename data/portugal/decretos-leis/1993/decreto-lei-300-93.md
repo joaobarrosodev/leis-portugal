@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4592 - 4593
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/204a00/45924593.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-09-01'
+entry_into_force:
+  date: '1993-09-01'
+  rule: no 1.º dia do mês imediato ao da sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

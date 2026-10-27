@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 21356 - 21361
   pdf_url: https://files.diariodarepublica.pt/2s/2017/09/186000000/2135621361.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-09-27'
+entry_into_force:
+  date: '2017-09-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:182605236:por'
+    detail: Revogado, a partir de 28.04.2022, o presente regulamento, pelo(a) Regulamento n.º 404/2022 - Diário da República
+      n.º 81/2022, Série II de 2022-04-27
 notes: []
 language: por
 version:

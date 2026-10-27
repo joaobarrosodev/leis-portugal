@@ -23,6 +23,15 @@ publication:
   pages: 2874 - 2875
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/25900/28742875.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Outubro
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

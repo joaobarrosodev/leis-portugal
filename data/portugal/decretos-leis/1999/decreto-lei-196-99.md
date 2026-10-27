@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3168 - 3171
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/132a00/31683171.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-07-08'
+entry_into_force:
+  date: '1999-07-08'
+  rule: no prazo de 30 dias após a data da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3740 - 3740
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25600/37403740.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-12-01'
+entry_into_force:
+  date: '1980-12-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação, com excepção do fixado no artigo 6.º, que
+  method: clausula
+  article: art-13
+  effects_date: '1978-06-01'
+  effects_rule: a partir de 1 de Junho de 1978, inclusive
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

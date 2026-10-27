@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8714-(3) a 8714-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/24401/0000300004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-12-19'
+entry_into_force:
+  date: '2009-12-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

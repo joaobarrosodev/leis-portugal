@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6214 - 6214
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/233b00/62146214.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-09-19'
+entry_into_force:
+  date: '1995-09-19'
+  rule: a partir de 19 de Setembro de 1995
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3644-(6) a 3644-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10501/00060007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-06-01'
+entry_into_force:
+  date: '2007-06-01'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

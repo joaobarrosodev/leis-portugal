@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3219 - 3221
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/162a00/32193221.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-10-01'
+entry_into_force:
+  date: '2000-10-01'
+  rule: no 1.º dia do 3.º mês seguinte ao da data da sua publicação, aplicando-se, a partir daquele momento, a todos os contratos
+    de seguro que venham a ser celebrados, bem como, na data das respectivas renov
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2137 - 2147
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13300/0213702147.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-07-14'
+entry_into_force:
+  date: '2016-07-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7388-(11) a 7388-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298b03/00110012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-12-30'
+entry_into_force:
+  date: '1994-12-30'
+  rule: em 30 de Dezembro de 1994
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

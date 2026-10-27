@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4586 - 4592
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16000/0458604592.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-21'
+entry_into_force:
+  date: '2012-08-21'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: a partir da data de entrada em vigor da Portaria n.º 139/2012, de 14 de maio
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

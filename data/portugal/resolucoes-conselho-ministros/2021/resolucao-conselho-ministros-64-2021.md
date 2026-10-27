@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10 - 11
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10400/0001000011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-02'
+entry_into_force:
+  date: '2021-06-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2021-05-20'
+  effects_rule: a 20 de maio de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

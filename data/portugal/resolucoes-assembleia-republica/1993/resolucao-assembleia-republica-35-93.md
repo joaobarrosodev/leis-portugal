@@ -25,6 +25,16 @@ publication:
   pages: 6538 - 6628
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/276a00/65386628.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data em que os cinco Estados signatários do Acordo e a República Portuguesa
+    tenham manifestado o seu consentimento em ficarem vinculados pelo presente Protoco
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

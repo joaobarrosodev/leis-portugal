@@ -23,6 +23,16 @@ publication:
   pages: 1422 - 1426
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/21600/14221426.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas seguintes condições entre os Governos que tenham depositado até 18 de Junho de 1975 os seus instrumentos de ratificação,
+    aceitação, aprovação, conclusão ou adesão, ou feito declarações de aplicaçã
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

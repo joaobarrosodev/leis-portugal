@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5554 - 5557
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/174b00/55545557.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-08-04'
+entry_into_force:
+  date: '2002-08-04'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

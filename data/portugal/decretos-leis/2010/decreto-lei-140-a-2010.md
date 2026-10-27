@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6084-(8) a 6084-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25202/0000800016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-31'
+entry_into_force:
+  date: '2010-12-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: '2010-12-31'
+  effects_rule: a 31 de Dezembro de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

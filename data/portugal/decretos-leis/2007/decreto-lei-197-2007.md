@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3166 - 3230
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-16'
+entry_into_force:
+  date: '2007-05-16'
+  rule: no dia seguinte ao da sua publicação, à excepção da lista B em anexo ao presente decreto-lei, que
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

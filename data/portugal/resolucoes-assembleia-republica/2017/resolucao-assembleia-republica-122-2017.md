@@ -24,6 +24,16 @@ publication:
   pages: 3099 - 3103
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11700/0309903103.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação, por escrito e por via diplomática, de que foram cumpridos todos os requisitos de direito
+    interno das Partes necessários para o efeito
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

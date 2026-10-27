@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5689 - 5689
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15800/0568905689.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-08-23'
+entry_into_force:
+  date: '2008-08-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2008-10-04'
+  effects_rule: a partir do dia 4 de Outubro de 2008
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

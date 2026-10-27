@@ -24,6 +24,15 @@ publication:
   pages: 1388 - 1390
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/13900/13881390.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação de aprovação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

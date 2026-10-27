@@ -24,6 +24,15 @@ publication:
   pages: 2407 - 2428
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses depois da troca dos instrumentos de ratificação e permanecerá em vigor indefinidamente
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

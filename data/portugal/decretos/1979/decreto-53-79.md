@@ -24,6 +24,16 @@ publication:
   pages: 1320 - 1322
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/13500/13201322.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: noventa dias após a troca de notas diplomáticas, nas quais as Partes Contratantes comunicarão o cumprimento das disposições
+    constitucionais relativas à sua aprovação
+  method: clausula
+  article: art-xv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

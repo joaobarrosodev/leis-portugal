@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3815 - 3817
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/171a00/38153817.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-07-27'
+entry_into_force:
+  date: '1997-07-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4258 - 4261
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22000/42584261.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-10-01'
+entry_into_force:
+  date: '1989-10-01'
+  rule: no dia 1 de Outubro de 1989
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

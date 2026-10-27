@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2946-(2) a 2946-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/153b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-07-06'
+entry_into_force:
+  date: '2000-07-06'
+  rule: em 6 de Julho de 2000
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

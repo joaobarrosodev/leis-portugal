@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6013 - 6014
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21700/0601306014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-11'
+entry_into_force:
+  date: '2017-11-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2017-10-17'
+  effects_rule: desde 17 de outubro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

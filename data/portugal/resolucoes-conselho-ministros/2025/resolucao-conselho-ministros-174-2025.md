@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2025/11/21700/0001100015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-11-11'
+entry_into_force:
+  date: '2025-11-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

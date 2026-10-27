@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1422 - 1423
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/06200/0142201423.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-03-29'
+entry_into_force:
+  date: '2018-03-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

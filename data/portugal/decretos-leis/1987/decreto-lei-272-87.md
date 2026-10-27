@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2602 - 2606
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15000/26022606.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-10-01'
+entry_into_force:
+  date: '1987-10-01'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11 - 13
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09800/0001100013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-21'
+entry_into_force:
+  date: '2022-05-21'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: '2023-12-31'
+  end_rule: até 31 de dezembro de 2023
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2000/06/134000000/0992409928.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:885207603:por#art-23'
+    detail: 3 - É revogada a [Deliberação n.º 680/2000], de 9 de junho, a Instrução de Segurança n.º 3955, de 16 de abril
+      de 2018 e a Instrução de Segurança n.º 536, de 28 de dezembro de 2023.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14 - 22
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/01400/0001400022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-22'
+entry_into_force:
+  date: '2020-01-22'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto no n.º 1 do artigo 22.º
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

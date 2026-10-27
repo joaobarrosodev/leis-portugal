@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4595 - 4601
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/152a00/45954601.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-08'
+entry_into_force:
+  date: '2005-09-08'
+  rule: no 30.º dia posterior ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 74-(30) a 74-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25104/0003000032.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-31'
+entry_into_force:
+  date: '2022-12-31'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: entre o dia 2 de janeiro de 2023 e o dia 5 de fevereiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:180398388:por#art-5'
+    detail: '[Artigo 3.º, Portaria n.º 312-F/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30]
+      mantém em vigor o art. 4.º da Portaria n.º 160-B/2022, de 17 de junho, o qual mantém em vigor o presente artigo, a partir
+      de 02.01.2023 e com efeitos até 05.02.2023.'
 notes: []
 language: por
 version:

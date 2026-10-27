@@ -24,6 +24,15 @@ publication:
   pages: 5582 - 5585
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/249a00/55825585.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando todas as Partes no Tratado do Atlântico Norte notificarem o Governo dos Estados Unidos da América da sua aceitação
+  method: clausula
+  article: art-ii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

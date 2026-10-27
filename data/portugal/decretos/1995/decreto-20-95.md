@@ -23,6 +23,15 @@ publication:
   pages: 4326 - 4340
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/156a00/43264340.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'um mês após as duas condições seguintes terem sido satisfeitas:'
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

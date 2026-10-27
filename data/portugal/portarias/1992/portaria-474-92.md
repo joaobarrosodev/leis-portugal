@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2738 - 2740
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/130b00/27382740.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-06-06'
+entry_into_force:
+  date: '1992-06-06'
+  rule: no dia imediato ao da sua publicação, sendo aplicável exclusivamente aos alunos que frequentam cursos cujos planos
+    de estudos sejam os aprovados pelo Despacho n.º 18/90, de 4 de Julho, e pela Portaria
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

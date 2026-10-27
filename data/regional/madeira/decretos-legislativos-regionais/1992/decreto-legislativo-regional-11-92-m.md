@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1876 - 1876
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/093a00/18761876.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-04-22'
+entry_into_force:
+  date: '1992-04-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 24-(2) a 24-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09301/0000200002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 16 de maio e
+  method: clausula
+  article: art-unico
+  effects_date: '2022-05-22'
+  effects_rule: até dia 22 de maio de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

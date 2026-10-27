@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3639 - 3645
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13400/0363903645.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-11'
+entry_into_force:
+  date: '2012-08-11'
+  rule: 30 dias após a sua publicação, só sendo aplicável aos procedimentos de formação de contratos públicos iniciados a
+    partir dessa data e à execução dos contratos que revistam a natureza de contrato admin
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

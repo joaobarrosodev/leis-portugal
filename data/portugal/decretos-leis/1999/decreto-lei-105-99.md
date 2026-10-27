@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1795 - 1795
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/076a00/17951795.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-04-01'
+entry_into_force:
+  date: '1999-04-01'
+  rule: no dia imediato ao da sua publicação e o termo da respectiva vigência é fixado no 60.º dia a contar da cessação de
+    processo de greve
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

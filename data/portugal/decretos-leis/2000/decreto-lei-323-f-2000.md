@@ -23,7 +23,17 @@ publication:
   supplement: 5º Suplemento
   pages: 7408-(60) a 7408-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/292a05/00600064.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-12-21'
+entry_into_force:
+  date: '2000-12-21'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

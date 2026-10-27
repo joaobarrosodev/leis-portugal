@@ -24,6 +24,16 @@ publication:
   pages: 1990-(1) a 1990-(109)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: seis meses depois da data em que cinco dos Estados mencionados no parágrafo 1 do artigo 52.º a tenham assinado sem
+    reserva de ratificação, de aceitação ou de aprovação ou tenham depositado o seu instr
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

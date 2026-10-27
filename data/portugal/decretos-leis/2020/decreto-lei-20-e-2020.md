@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6-(4) a 6-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/09201/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-05-13'
+entry_into_force:
+  date: '2020-05-13'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até ao dia 31 de dezembro de 2020
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

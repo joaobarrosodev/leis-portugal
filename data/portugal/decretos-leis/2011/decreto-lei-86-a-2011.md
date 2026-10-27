@@ -22,7 +22,18 @@ publication:
   supplement: 1º Suplemento
   pages: 3996-(2) a 3996-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/07/13201/0000200007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-17'
+entry_into_force:
+  date: '2011-07-17'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2011-06-21'
+  effects_rule: reportados a 21 de Junho de 2011, considerando-se ratificados ou confirmados todos os actos que tenham sido
+    praticados desde aquela data e cuja regularidade dependa da conformidade com o disposto no p
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 31500 - 31501
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/151000000/3150031501.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-08-06'
+entry_into_force:
+  date: '2009-08-06'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23700/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-08'
+entry_into_force:
+  date: '2020-12-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2020-06-16'
+  effects_rule: a 16 de junho de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

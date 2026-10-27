@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3904-(53) a 3904-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27002/00530053.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-12-01'
+entry_into_force:
+  date: '1985-12-01'
+  rule: em 1 de Dezembro de 1985, podendo a sua aplicação ser escalonada a partir daquela data, se razões técnicas o impuserem
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

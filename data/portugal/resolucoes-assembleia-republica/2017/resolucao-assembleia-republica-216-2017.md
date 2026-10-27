@@ -24,6 +24,16 @@ publication:
   pages: 5029 - 5035
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16300/0502905035.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data do depósito do vigésimo segundo instrumento de ratificação, de aceitação,
+    de aprovação ou de adesão, junto do Depositário
+  method: clausula
+  article: art-xviii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

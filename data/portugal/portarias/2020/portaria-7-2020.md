@@ -23,6 +23,15 @@ publication:
   pages: 4 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/01100/0000400014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da respetiva publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 2796 - 2799
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/24200/27962799.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do terceiro mês seguinte àquele em cujo decurso tiver sido depositado o último instrumento de ratificação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2772 - 2773
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/129b00/27722773.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-06-06'
+entry_into_force:
+  date: '1997-06-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '1998-01-01'
+  effects_rule: a partir de 1 de Janeiro de 1998
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

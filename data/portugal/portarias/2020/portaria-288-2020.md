@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24300/0000800009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-01'
+entry_into_force:
+  date: '2021-01-01'
+  rule: a 1 de janeiro de 2021
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: desde a data da sua entrada em vigor e até 31 de dezembro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

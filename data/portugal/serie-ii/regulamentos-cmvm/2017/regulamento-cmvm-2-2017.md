@@ -23,7 +23,17 @@ publication:
   supplement: 2º Suplemento
   pages: 5988-(6) a 5988-(19)
   pdf_url: https://files.diariodarepublica.pt/2s/2017/03/064000002/0000600019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-01'
+entry_into_force:
+  date: '2017-05-01'
+  rule: a 1 de maio de 2017
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

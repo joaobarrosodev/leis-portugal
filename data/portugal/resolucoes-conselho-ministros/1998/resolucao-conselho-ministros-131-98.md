@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6166 - 6166
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/262b00/61666166.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-11-13'
+entry_into_force:
+  date: '1998-11-13'
+  rule: no dia imediato ao da sua publicação, sendo os seus efeitos reportados à data da aprovação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

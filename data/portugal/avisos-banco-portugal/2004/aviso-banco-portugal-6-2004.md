@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7411 - 7411
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/304b00/74117411.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-30'
+entry_into_force:
+  date: '2005-06-30'
+  rule: em 30 de Junho de 2005
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

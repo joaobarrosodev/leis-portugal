@@ -24,6 +24,16 @@ publication:
   pages: 4147 - 4158
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/152a00/41474158.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após o cumprimento dos requisitos constitucionais por cada uma das Partes Contratantes, cumprimento esse que deverá
+    ser notificado à outra Parte Contratante através dos canais diplomáticos
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

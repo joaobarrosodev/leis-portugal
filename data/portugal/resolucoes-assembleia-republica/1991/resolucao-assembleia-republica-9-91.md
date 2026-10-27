@@ -23,6 +23,16 @@ publication:
   pages: 996 - 1033
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/049a00/09961033.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título definitivo em 23 de Outubro de 1987, ou em qualquer data posterior, se nessa data governos que totalizem
+    pelo menos 80% das exportações líquidas indicadas no anexo A do presente Acordo e gove
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

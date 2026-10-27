@@ -23,6 +23,15 @@ publication:
   pages: 291 - 299
   pdf_url: https://files.diariodarepublica.pt/1s/1969/03/06500/02910299.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ':'
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

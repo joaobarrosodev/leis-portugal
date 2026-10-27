@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2068-(2) a 2068-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a01/00020061.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-04-26'
+entry_into_force:
+  date: '1993-04-26'
+  rule: à data da publicação, integrando o Orçamento por ele aprovado a parte do Orçamento que tenha sido executada nos termos
+    do artigo 15.º da Lei n.º 28/92, de 1 de Setembro (Lei de Enquadramento do Orçame
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5753 - 5755
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21800/0575305755.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-11-12'
+entry_into_force:
+  date: '2014-11-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

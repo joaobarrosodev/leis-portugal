@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4992-(2) a 4992-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/225a01/00020005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-09-30'
+entry_into_force:
+  date: '1998-09-30'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

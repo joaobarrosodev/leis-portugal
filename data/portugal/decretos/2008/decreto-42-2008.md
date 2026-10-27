@@ -24,6 +24,15 @@ publication:
   pages: 7233 - 7244
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19700/0723307244.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a recepção da última das notificações referidas no n.º 1 do presente artigo
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

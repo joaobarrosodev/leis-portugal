@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3111 - 3112
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/144b00/31113112.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-06-25'
+entry_into_force:
+  date: '1997-06-25'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

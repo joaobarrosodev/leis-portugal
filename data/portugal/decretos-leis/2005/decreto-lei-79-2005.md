@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2979 - 2986
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/074a00/29792986.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-04-20'
+entry_into_force:
+  date: '2005-04-20'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2005-03-12'
+  effects_rule: a partir de 12 de Março de 2005, considerando-se ratificados todos os actos que tenham sido entretanto praticados
+    e cuja regularidade dependa da sua conformidade com a presente lei
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

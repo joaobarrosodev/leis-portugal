@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2592-(2) a 2592-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-14'
+entry_into_force:
+  date: '2010-07-14'
+  rule: no dia seguinte à sua publicação e as alterações aplicam-se às candidaturas apresentadas a partir de 1 de Julho de
+    2010, excepto a alteração ao disposto na alínea c) do n.º 1 do artigo 14.º, que se ap
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

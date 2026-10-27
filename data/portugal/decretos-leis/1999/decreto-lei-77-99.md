@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1434 - 1441
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/063a00/14341441.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-06-16'
+entry_into_force:
+  date: '1999-06-16'
+  rule: três meses após a sua publicação
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

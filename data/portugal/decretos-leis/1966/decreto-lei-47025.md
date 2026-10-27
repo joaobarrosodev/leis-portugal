@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 801 - 803
   pdf_url: https://files.diariodarepublica.pt/1s/1966/05/12300/08010803.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-01-01'
+entry_into_force:
+  date: '1966-01-01'
+  rule: em 1 de Janeiro de 1966 entre os Governos que se tornem Partes do presente Protocolo naquela data, desde que estes
+    Governos detenham, em 31 de Dezembro de 1965, 60 por cento das vozes dos países impor
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

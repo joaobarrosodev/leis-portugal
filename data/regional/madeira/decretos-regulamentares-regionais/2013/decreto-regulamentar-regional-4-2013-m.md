@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 917 - 919
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03200/0091700919.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-15'
+entry_into_force:
+  date: '2013-02-15'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: com o início de vigência do diploma que proceder à extinção da RAMEDM
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

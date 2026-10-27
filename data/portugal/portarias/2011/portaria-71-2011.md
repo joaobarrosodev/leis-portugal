@@ -26,6 +26,15 @@ publication:
   pages: 715 - 716
   pdf_url: https://files.diariodarepublica.pt/1s/2011/02/02900/0071500716.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no seguinte à da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

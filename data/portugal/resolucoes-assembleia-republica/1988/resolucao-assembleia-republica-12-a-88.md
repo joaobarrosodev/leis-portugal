@@ -23,6 +23,16 @@ publication:
   pages: 2266-(2) a 2266-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12201/00020031.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que tenham sido depositados pelo menos cinco instrumentos de ratificação, aceitação ou aprovação, em nome
+    dos Estados signatários da categoria um, e em que tenham sido depositados pelo menos
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

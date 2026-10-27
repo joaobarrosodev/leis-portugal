@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1844 - 1846
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16900/18441846.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-07-25'
+entry_into_force:
+  date: '1980-07-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '1979-01-01'
+  effects_rule: desde 1 de Janeiro de 1979, à excepção do disposto no artigo anterior
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

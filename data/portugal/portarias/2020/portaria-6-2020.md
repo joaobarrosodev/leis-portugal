@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 23 - 24
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/00900/0002300024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-15'
+entry_into_force:
+  date: '2020-01-15'
+  rule: no dia seguinte ao da sua publicação, sendo os efeitos das alterações por ela introduzidas reportados à data da entrada
+    em vigor da Portaria n.º 57/2016, de 28 de março
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

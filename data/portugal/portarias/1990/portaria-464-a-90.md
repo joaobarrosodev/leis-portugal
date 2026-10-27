@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2610-(2) a 2610-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14001/00020006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-06-30'
+entry_into_force:
+  date: '1990-06-30'
+  rule: 10 dias após a sua publicação no Diário da República
+  method: clausula
+  article: n-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 223-(2) a 223-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/02001/0000200005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 31 de janeiro de 2021
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

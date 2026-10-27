@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3433 - 3434
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/137b00/34333434.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-06-20'
+entry_into_force:
+  date: '1999-06-20'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1999-05-15'
+  effects_rule: desde 15 de Maio de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

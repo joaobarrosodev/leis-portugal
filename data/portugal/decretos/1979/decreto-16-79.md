@@ -24,6 +24,15 @@ publication:
   pages: 234 - 260
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/03800/02340260.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do terceiro mês subsequente ao mês em que os instrumentos de ratificação forem trocados
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

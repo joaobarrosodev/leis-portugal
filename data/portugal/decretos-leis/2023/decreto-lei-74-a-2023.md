@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 35-(2) a 35-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16601/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-29'
+entry_into_force:
+  date: '2023-08-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2023-09-01'
+  effects_rule: a 1 de setembro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

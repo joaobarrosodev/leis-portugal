@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2329 - 2330
   pdf_url: https://files.diariodarepublica.pt/1s/1967/12/29200/23292330.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1968-01-01'
+entry_into_force:
+  date: '1968-01-01'
+  rule: no dia 1 de Janeiro de 1968, ficando revogada toda a legislação relativa à matéria nela abrangida, com ressalva da
+    legislação especial a que se faça expressa referência
+  method: clausula
+  article: art-215
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

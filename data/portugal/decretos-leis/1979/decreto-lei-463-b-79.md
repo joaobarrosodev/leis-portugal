@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3086-(6) a 3086-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/27702/00060006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-11-30'
+entry_into_force:
+  date: '1979-11-30'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 756-(2) a 756-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/06801/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-03-24'
+entry_into_force:
+  date: '1981-03-24'
+  rule: no dia imediato ao da sua publicação, excepto quanto ao arroz que se encontra nos armazenistas, retalhistas ou equiparados,
+    que manterá os preços de venda ao público devidamente impressos nas respecti
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

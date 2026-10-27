@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 9056-(2) a 9056-(767)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/24701/0000200767.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-23'
+entry_into_force:
+  date: '2008-01-23'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

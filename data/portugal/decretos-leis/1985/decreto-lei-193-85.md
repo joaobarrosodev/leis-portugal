@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1668 - 1669
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14200/16681669.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-06-25'
+entry_into_force:
+  date: '1985-06-25'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '1985-05-01'
+  effects_rule: desde 1 de Maio de 1985
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

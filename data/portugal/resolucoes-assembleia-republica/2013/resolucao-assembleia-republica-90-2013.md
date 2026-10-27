@@ -24,6 +24,15 @@ publication:
   pages: 3848 - 3852
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a conclusão das formalidades legais, por parte de cada um dos Estados membros
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

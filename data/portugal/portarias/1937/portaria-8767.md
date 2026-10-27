@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1937/08/17900/07870787.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:235320:por#n-17'
+    detail: 17.º Fica revogada a [Portaria n.º 8767], de 3 de Agosto de 1937.
 notes: []
 language: por
 version:

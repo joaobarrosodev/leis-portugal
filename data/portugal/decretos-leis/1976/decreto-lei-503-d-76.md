@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1448-(29) a 1448-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/15104/00290030.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-06-30'
+entry_into_force:
+  date: '1976-06-30'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

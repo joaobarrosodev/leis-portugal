@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5858-(6) a 5858-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17002/0000600009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-03'
+entry_into_force:
+  date: '2009-09-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

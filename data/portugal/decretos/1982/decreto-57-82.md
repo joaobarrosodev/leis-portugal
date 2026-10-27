@@ -23,6 +23,15 @@ publication:
   pages: 1316 - 1319
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11400/13161319.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de assinatura e manter-se-á válido por um período de 1 ano a partir dessa data
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

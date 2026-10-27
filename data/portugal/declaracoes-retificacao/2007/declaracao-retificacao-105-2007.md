@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 8234 - 8346
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21600/0823408346.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-09-15'
+entry_into_force:
+  date: '2007-09-15'
+  rule: no dia 15 de Setembro de 2007
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

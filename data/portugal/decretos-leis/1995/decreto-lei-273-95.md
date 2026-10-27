@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6547 - 6550
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/245a00/65476550.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-11-22'
+entry_into_force:
+  date: '1995-11-22'
+  rule: 30 dias após a data da sua publicação, sem prejuízo dos números seguintes
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

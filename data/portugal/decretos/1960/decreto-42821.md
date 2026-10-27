@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 81 - 175
   pdf_url: https://files.diariodarepublica.pt/1s/1960/01/02000/00810175.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1960-01-01'
+entry_into_force:
+  date: '1960-01-01'
+  rule: no dia 1 de Janeiro de 1960, realizando-se a estatística postal no mesmo ano de harmonia com os novos preceitos estabelecidos
+  method: clausula
+  article: art-153
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

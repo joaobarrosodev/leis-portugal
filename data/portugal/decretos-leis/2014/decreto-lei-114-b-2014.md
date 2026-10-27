@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4054-(2) a 4054-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/14801/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-08-05'
+entry_into_force:
+  date: '2014-08-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

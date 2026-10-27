@@ -24,6 +24,15 @@ publication:
   pages: 6 - 11
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20900/0000600011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: seis meses após a data da sua entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

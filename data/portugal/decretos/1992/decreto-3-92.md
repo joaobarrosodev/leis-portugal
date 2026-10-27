@@ -24,6 +24,15 @@ publication:
   pages: 340 - 433
   pdf_url: https://files.diariodarepublica.pt/1s/1992/01/017a00/03400433.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à notificação da realização dos procedimentos pelas Partes Contratantes
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: em relação a períodos anteriores à sua data de entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1112 - 1134
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18400/11121134.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês a seguir à data da sua ratificação, aceitação ou aprovação por dois terços, pelo menos,
+    dos Estados signatários, incluindo o Estado em cujo território está situada a sed
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4038 - 4039
   pdf_url: https://files.diariodarepublica.pt/1s/2011/07/13800/0403804039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-25'
+entry_into_force:
+  date: '2011-07-25'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2011-07-01'
+  effects_rule: a partir do dia 1 de Julho de 2011
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

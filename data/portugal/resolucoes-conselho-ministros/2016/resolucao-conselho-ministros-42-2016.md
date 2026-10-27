@@ -23,6 +23,15 @@ publication:
   pages: 2754 - 2760
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15800/0275402760.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da sua aprovação
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

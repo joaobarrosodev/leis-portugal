@@ -24,6 +24,16 @@ publication:
   pages: 2327 - 2348
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/091a00/23272348.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia após a data em que tenha sido depositado o 50.º instrumento de ratificação, aceitação, aprovação ou adesão
+    pelos Estados ou pelas organizações regionais de integração económica que sejam P
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

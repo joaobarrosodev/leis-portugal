@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 5650 - 5655
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19700/0565005655.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-11'
+entry_into_force:
+  date: '2017-11-11'
+  rule: 30 dias após a sua publicação e só se aplica à liquidação de taxas nos processos iniciados após essa data, excetuando
+    os casos previstos na tabela i do artigo 2.º referentes ao Catálogo Nacional de Va
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

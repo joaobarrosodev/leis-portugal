@@ -26,7 +26,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1945/12/29100/13591359.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:632760:por#art-3'
+    detail: 3. É revogada a [Portaria n.º 11228], de 31 de Dezembro de 1945.
 notes: []
 language: por
 version:

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1937 - 1939
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/17500/19371939.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-08-01'
+entry_into_force:
+  date: '1980-08-01'
+  rule: no dia seguinte ao da sua publicação e considera-se já aplicável ao concurso de professores efectivos dos ensinos
+    preparatório e secundário relativo ao ano escolar de 1980/1981
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 6006 - 6029
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17300/0600606029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início da vigência do Decreto-Lei n.º 158/2009, de 13 de Julho
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

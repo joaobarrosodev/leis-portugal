@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5231 - 5231
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/224b00/52315231.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-10-02'
+entry_into_force:
+  date: '2000-10-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2000-07-16'
+  effects_rule: a partir do dia 16 de Julho de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

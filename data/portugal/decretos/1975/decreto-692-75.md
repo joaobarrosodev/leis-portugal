@@ -23,6 +23,16 @@ publication:
   pages: 1999 - 2002
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28600/19992002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca dos instrumentos de ratificação e terá a duração de três anos, renováveis por períodos iguais e sucessivos,
+    se não for denunciado por qualquer das Partes
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

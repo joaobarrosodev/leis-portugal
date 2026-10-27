@@ -24,6 +24,15 @@ publication:
   pages: 2626 - 2629
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/14700/26262629.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 90 dias sobre a data da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

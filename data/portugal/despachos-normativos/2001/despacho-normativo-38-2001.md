@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6414 - 6418
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/235b00/64146418.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-10-11'
+entry_into_force:
+  date: '2001-10-11'
+  rule: no dia seguinte à data da sua publicação e
+  method: clausula
+  article: n-6
+  effects_date: '2001-09-01'
+  effects_rule: a partir do dia 1 de Setembro de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

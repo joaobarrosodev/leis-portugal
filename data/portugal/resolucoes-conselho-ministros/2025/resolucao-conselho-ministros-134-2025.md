@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 13 - 17
   pdf_url: https://files.diariodarepublica.pt/1s/2025/09/17300/0001300017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-09-10'
+entry_into_force:
+  date: '2025-09-10'
+  rule: no dia seguinte ao da sua publicação, com exceção da alteração dos pontos 6.3.3 e 6.3.4 do Plano Nacional de Implementação
+    de Uma Garantia Jovem (PNI-GJ), que
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: 90 dias após a data de entrada em vigor da presente resolução
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

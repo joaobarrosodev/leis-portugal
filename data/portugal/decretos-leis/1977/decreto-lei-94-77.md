@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 526-(1) a 526-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/06201/00010002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-03-16'
+entry_into_force:
+  date: '1977-03-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

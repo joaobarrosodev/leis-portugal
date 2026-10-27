@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1664 - 1664
   pdf_url: https://files.diariodarepublica.pt/1s/1965/12/28300/16641664.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-04-01'
+entry_into_force:
+  date: '1966-04-01'
+  rule: no dia 1 de Abril de 1966, considerando-se revogados, a partir dessa data, o Decreto-Lei n.º 39793, e o Decreto n.º
+    39794, ambos de 28 de Agosto de 1954
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1268 - 1269
   pdf_url: https://files.diariodarepublica.pt/1s/1956/08/16300/12681269.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1956-10-01'
+entry_into_force:
+  date: '1956-10-01'
+  rule: em 1 de Outubro de 1956, mas as novas taxas de exploração, calculadas segundo o disposto no artigo 1.º, só terão aplicação
+    a partir do ano de 1957
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

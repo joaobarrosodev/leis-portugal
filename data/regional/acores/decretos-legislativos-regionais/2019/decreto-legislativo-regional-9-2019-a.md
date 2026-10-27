@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2368 - 2376
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/08900/0236802376.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-10'
+entry_into_force:
+  date: '2019-05-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-34
+  effects_date: '2019-05-09'
+  effects_rule: na data de publicação do decreto regulamentar regional a que se refere o artigo anterior
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

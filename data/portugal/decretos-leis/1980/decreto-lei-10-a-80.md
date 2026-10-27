@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 172-(1) a 172-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/04101/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-02-18'
+entry_into_force:
+  date: '1980-02-18'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

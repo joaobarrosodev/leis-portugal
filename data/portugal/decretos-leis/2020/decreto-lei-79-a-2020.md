@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 18-(2) a 18-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/19201/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-06'
+entry_into_force:
+  date: '2020-10-06'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: '2022-03-31'
+  end_rule: até 31 de março de 2022, sem prejuízo da possibilidade de prorrogação após consulta dos parceiros sociais
 end_of_validity_date: null
 legal_status: repealed
 notes: []

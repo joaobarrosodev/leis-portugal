@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1770 - 1770
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/06100/0177001770.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-28'
+entry_into_force:
+  date: '2008-03-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: '2007-11-04'
+  effects_rule: desde 4 de Novembro de 2007
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

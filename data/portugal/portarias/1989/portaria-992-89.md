@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5033 - 5035
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26400/50335035.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-11-16'
+entry_into_force:
+  date: '1989-11-16'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

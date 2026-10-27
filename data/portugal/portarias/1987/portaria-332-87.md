@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1631 - 1632
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09400/16311632.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-04-28'
+entry_into_force:
+  date: '1987-04-28'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1987-05-01'
+  effects_rule: a partir do dia 1 do mês seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

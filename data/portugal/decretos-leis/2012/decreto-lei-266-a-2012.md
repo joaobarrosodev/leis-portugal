@@ -22,7 +22,17 @@ publication:
   supplement: 2º Suplemento
   pages: 7424-(243) a 7424-(245)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25202/0024300245.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-01'
+entry_into_force:
+  date: '2013-01-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

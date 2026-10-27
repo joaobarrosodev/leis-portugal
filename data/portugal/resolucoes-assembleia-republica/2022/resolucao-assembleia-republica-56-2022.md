@@ -24,6 +24,15 @@ publication:
   pages: 3 - 33
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/15900/0000300033.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias consecutivos após a data em que o depositário receber o segundo instrumento de ratificação, aprovação ou aceitação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

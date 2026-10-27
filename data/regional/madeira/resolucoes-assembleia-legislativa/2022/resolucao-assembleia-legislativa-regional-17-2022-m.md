@@ -24,6 +24,15 @@ publication:
   pages: 15 - 18
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/12900/0001500018.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o início de vigência da lei do Orçamento do Estado posterior à sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2022-07-06'
+  effects_rule: desde a data da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

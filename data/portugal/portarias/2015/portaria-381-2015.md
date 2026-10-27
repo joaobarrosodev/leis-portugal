@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 9210 - 9216
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20800/0921009216.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-24'
+entry_into_force:
+  date: '2015-10-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

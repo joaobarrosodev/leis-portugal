@@ -25,6 +25,15 @@ publication:
   pages: 3207-3262
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/08/29/221049177.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a 1 de setembro próximo, coincidindo com o início do ano escolar 2023/2024
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

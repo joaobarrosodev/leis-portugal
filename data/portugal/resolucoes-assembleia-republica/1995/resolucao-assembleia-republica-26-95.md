@@ -24,6 +24,16 @@ publication:
   pages: 3056 - 3072
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após cumprimento por cada Parte Contratante dos respectivos requisitos constitucionais, na data da última das notas
+    diplomáticas trocadas para o efeito
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1151-1160
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/04/14/161386531.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-15'
+entry_into_force:
+  date: '2021-04-15'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: a 15 março 2021, abrangendo todos os estabelecimentos de ensino e equipamentos sociais integrados nos n.ºs
+    2 e 3
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

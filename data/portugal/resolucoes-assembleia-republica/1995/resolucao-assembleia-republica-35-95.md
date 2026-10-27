@@ -24,6 +24,15 @@ publication:
   pages: 4896 - 4897
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/176a00/48964897.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente a esses Estados
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

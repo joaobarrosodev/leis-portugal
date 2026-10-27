@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3810-(1) a 3810-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29501/00010005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-12-29'
+entry_into_force:
+  date: '1986-12-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1986-08-11'
+  effects_rule: a partir de 11 de Agosto de 1986 sempre que da sua aplicação resulta uma redução da taxa dos direitos de importação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

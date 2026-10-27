@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2556 - 2557
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/11600/0255602557.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-20'
+entry_into_force:
+  date: '2018-06-20'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: '2019-01-01'
+  effects_rule: a 1 de janeiro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 1516-(2) a 1516-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/03601/0000200007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-02-21'
+entry_into_force:
+  date: '2014-02-21'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: '2014-01-01'
+  effects_rule: a partir de 1 de janeiro de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

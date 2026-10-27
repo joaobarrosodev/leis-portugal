@@ -24,6 +24,15 @@ publication:
   pages: 44 - 44
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/242000000/0004400044.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua assinatura
+  method: clausula
+  article: n-5
+  effects_date: '2022-12-22'
+  effects_rule: reportados a 22 de dezembro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

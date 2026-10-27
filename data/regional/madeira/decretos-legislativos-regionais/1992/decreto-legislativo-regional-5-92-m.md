@@ -24,6 +24,15 @@ publication:
   pages: 1386 - 1387
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/067a00/13861387.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data da entrada em vigor do Decreto-Lei n.º 411/91, de 17 de Outubro
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

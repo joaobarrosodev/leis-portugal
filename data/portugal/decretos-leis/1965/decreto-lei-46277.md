@@ -25,6 +25,16 @@ publication:
   pages: 442 - 442
   pdf_url: https://files.diariodarepublica.pt/1s/1965/04/08300/04420442.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'com a portaria que aprove os modelos a que se refere o artigo 6.º, ficando revogados a partir dessa data o Decreto
+    com força de lei n.º 19255, de 17 de Janeiro de 1931, e o Decreto n.º 20272, de 3 de '
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

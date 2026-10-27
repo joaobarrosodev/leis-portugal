@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3550 - 3556
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10700/0355003556.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-13'
+entry_into_force:
+  date: '2015-06-13'
+  rule: 10 dias após a sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4524 - 4531
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/162a00/45244531.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ambas as Partes Contratantes tiverem notificado uma à outra, por escrito, do cumprimento dos respectivos
+    procedimentos legais internos e permanecerá em vigor por um período de 15 anos
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

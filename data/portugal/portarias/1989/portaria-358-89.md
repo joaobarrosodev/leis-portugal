@@ -23,6 +23,15 @@ publication:
   pages: 2015 - 2016
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/11500/20152016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do Regulamento Geral de Pilotagem de Portos e Barras
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

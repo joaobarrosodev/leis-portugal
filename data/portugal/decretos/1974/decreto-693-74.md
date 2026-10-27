@@ -25,6 +25,15 @@ publication:
   pages: 1506 - 1506
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/28300/15061506.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

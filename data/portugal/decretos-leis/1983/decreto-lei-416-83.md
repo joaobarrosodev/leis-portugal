@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3875 - 3875
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/27100/38753875.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-01-01'
+entry_into_force:
+  date: '1984-01-01'
+  rule: no dia 1 de Janeiro de 1984
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

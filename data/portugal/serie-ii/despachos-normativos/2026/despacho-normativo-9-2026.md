@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 46 - 50
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/150000000/0004600050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-06'
+entry_into_force:
+  date: '2026-08-06'
+  rule: no dia seguinte ao da sua publicação e cessa a sua vigência após se esgotar o orçamento definido no artigo 2.º do
+    Regulamento anexo ao presente despacho normativo
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 1380-(2) a 1380-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04501/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-05'
+entry_into_force:
+  date: '2008-03-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: '2008-03-05'
+  effects_rule: desde 5 de Março de 2008
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

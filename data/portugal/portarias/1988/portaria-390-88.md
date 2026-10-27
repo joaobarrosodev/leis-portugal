@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2506 - 2507
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/13900/25062507.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-06-23'
+entry_into_force:
+  date: '1988-06-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1988-07-03'
+  effects_rule: quinze dias após a sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

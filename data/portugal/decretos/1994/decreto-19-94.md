@@ -24,6 +24,16 @@ publication:
   pages: 3620 - 3623
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/155a00/36203623.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas para o efeito pela ordem jurídica de cada uma
+    das Partes Contratantes
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

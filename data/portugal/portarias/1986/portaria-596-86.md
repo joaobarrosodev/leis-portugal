@@ -23,6 +23,16 @@ publication:
   pages: 3047 - 3050
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23500/30473050.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de assinado pelas entidades outorgantes e de homologado pelos Ministros do Trabalho e Segurança Social e da
+    Agricultura, Pescas e Alimentação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

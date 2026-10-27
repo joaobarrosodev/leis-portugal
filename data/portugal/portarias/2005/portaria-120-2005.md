@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 747 - 753
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/021b00/07470753.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-02-01'
+entry_into_force:
+  date: '2005-02-01'
+  rule: no dia imediatamente a seguir ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

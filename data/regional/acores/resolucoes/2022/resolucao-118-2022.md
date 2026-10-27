@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2765-2798
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/07/28/186771227.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-29'
+entry_into_force:
+  date: '2022-07-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

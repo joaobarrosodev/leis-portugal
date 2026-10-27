@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1559 - 1564
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/139a00/15591564.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-06-23'
+entry_into_force:
+  date: '1996-06-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

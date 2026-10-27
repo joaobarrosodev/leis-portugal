@@ -23,6 +23,16 @@ publication:
   pages: 386 - 399
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/019a00/03860399.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao decurso de um período de três meses após a data em que três Estados membros do
+    Conselho da Europa tenham manifestado o seu consentimento a vincular-se pela Convenção
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

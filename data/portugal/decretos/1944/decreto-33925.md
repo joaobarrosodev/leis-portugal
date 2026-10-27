@@ -26,7 +26,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1944/09/19700/09020904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:183232:por#art-unico'
+    detail: É revogado o [Decreto n.º 33925], de 5 de Setembro de 1944.
 notes: []
 language: por
 version:

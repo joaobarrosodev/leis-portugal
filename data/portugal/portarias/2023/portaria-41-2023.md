@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 8 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02700/0000800009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-08'
+entry_into_force:
+  date: '2023-02-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: a partir da vigência da Portaria n.º 22-A/2023, de 9 de janeiro, das Secretarias Regionais das Finanças e
+    de Agricultura e Desenvolvimento Rural da Região Autónoma da Madeira
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

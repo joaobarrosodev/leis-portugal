@@ -24,6 +24,15 @@ publication:
   pages: 308 - 309
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03500/03080309.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da nomeação dos administradores por parte do Estado, nos termos do artigo 3.º do Decreto-Lei n.º 40833
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

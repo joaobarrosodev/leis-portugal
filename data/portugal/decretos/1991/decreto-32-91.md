@@ -23,6 +23,15 @@ publication:
   pages: 2344 - 2348
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/096a00/23442348.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última das referidas comunicações e permanecerá em vigor por 10 anos
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

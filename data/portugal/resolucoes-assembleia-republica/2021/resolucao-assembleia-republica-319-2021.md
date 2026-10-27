@@ -24,6 +24,15 @@ publication:
   pages: 33 - 79
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/24000/0003300079.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que tiverem sido depositados os instrumentos de ratificação, aprovação ou aceitação por todos os signatários
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

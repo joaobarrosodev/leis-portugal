@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3478-(8) a 3478-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30002/00080008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-01-01'
+entry_into_force:
+  date: '1980-01-01'
+  rule: 'em 1 de Janeiro de 1980 para todos os novos avales que sejam concedidos pelo Estado a partir dessa data e para os
+    anteriormente concedidos relativamente aos quais se verifique:'
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

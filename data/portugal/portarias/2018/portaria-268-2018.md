@@ -24,6 +24,15 @@ publication:
   pages: 4832 - 4836
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/18300/0483204836.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da respetiva publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2019-01-01'
+  effects_rule: a 1 de janeiro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

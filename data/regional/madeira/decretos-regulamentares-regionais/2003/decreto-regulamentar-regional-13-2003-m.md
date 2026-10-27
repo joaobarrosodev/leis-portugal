@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2876 - 2877
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/101b00/28762877.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-05-03'
+entry_into_force:
+  date: '2003-05-03'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2002-01-01'
+  effects_rule: reportados a 1 de Janeiro de 2002
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

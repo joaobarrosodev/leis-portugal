@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5543 - 5543
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/231a00/55435543.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-10-31'
+entry_into_force:
+  date: '1993-10-31'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-317
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

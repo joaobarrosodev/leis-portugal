@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 6005 - 6008
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/248a00/60056008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-12-01'
+entry_into_force:
+  date: '1993-12-01'
+  rule: 'no dia 1 do segundo mês seguinte ao da sua publicação, excepto o disposto no artigo anterior no que respeita à revogação
+    dos Decretos-Leis n.os 309/86 e 343/86, respectivamente de 23 de Setembro e de '
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

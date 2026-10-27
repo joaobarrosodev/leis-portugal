@@ -24,6 +24,16 @@ publication:
   pages: 4543 - 4544
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23900/45434544.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que cada uma das Partes comunicar à outra terem sido cumpridos os respectivos preceitos constitucionais
+    e poderá ser denunciado por qualquer das Partes mediante correpondência por via diplo
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

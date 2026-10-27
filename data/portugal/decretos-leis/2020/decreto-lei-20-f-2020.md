@@ -22,7 +22,18 @@ publication:
   supplement: 1º Suplemento
   pages: 6-(6) a 6-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/09201/0000600008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-05-13'
+entry_into_force:
+  date: '2020-05-13'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: '2021-09-30'
+  end_rule: até 30 de setembro de 2021, sem prejuízo do período de produção dos efeitos contratuais que decorram da aplicação
+    do disposto nos artigos 2.º e 3.º
 end_of_validity_date: null
 legal_status: repealed
 notes: []

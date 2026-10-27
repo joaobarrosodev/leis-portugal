@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1794 - 1795
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07000/0179401795.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-04-11'
+entry_into_force:
+  date: '2015-04-11'
+  rule: no dia seguinte à sua publicação, sem prejuízo do disposto no artigo anterior
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

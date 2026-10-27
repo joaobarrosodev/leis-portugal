@@ -23,6 +23,15 @@ publication:
   pages: 1060-(13) a 1060-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09001/00130016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente a cada produto ou grupo de produtos, em simultâneo com a respectiva portaria regulamentadora
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

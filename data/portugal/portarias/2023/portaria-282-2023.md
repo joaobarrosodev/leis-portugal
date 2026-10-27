@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 7
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17900/0000200007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-15'
+entry_into_force:
+  date: '2023-09-15'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-18
+  effects_date: '2024-12-31'
+  effects_rule: até 31 de dezembro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

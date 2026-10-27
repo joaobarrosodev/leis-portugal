@@ -23,7 +23,17 @@ publication:
   supplement: 2º Suplemento
   pages: 86-(2) a 86-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07202/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-14'
+entry_into_force:
+  date: '2020-04-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: '2020-03-13'
+  effects_rule: a 13 de março de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

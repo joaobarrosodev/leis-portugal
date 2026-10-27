@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5 - 26
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/08100/0000500026.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-25'
+entry_into_force:
+  date: '2020-04-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: 'a partir do ano letivo de:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

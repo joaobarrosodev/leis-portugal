@@ -23,6 +23,15 @@ publication:
   pages: 8370 - 8387
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da campanha de comercialização de 2000-2001
+  method: clausula
+  article: n-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

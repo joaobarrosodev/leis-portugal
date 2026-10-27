@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1345 - 1346
   pdf_url: https://files.diariodarepublica.pt/1s/1961/10/24900/13451346.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1961-11-01'
+entry_into_force:
+  date: '1961-11-01'
+  rule: no dia 1 de Novembro de 1961 e revoga o artigo 26.º do Decreto-Lei n.º 41995, de 5 de Dezembro de 1958
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

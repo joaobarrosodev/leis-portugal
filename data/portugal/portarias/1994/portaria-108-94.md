@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 735 - 736
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/040b00/07350736.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-02-18'
+entry_into_force:
+  date: '1994-02-18'
+  rule: no dia seguinte ao da sua publicação, ficando sem efeito o disposto na Portaria n.º 332/93, de 20 de Março
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

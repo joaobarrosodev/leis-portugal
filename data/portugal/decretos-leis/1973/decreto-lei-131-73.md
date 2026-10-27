@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 479 - 480
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/07300/04790480.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-04-26'
+entry_into_force:
+  date: '1973-04-26'
+  rule: trinta dias após a sua publicação no Diário do Governo, podendo, porém, ser publicada antes dessa data, embora para
+    produzir efeitos a partir dela, a distribuição do pessoal referida no n.º 1 do artig
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

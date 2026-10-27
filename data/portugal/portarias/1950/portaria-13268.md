@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1950/08/16300/05680568.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:146758:por#texto'
+    detail: Esta portaria revoga a [Portaria n.º 13268], de 23 de Agosto de 1950.
 notes: []
 language: por
 version:

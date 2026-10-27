@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3537 - 3537
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19400/35373537.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-08-24'
+entry_into_force:
+  date: '1989-08-24'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

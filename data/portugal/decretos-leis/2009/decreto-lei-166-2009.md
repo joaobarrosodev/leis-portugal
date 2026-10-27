@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 4959 - 4961
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/14700/0495904961.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-01'
+entry_into_force:
+  date: '2010-01-01'
+  rule: a 1 de Janeiro de 2010
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

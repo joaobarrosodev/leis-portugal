@@ -25,6 +25,15 @@ publication:
   pages: 3678 - 3678
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/175b00/36783678.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5228 - 5231
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/155a00/52285231.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-07-13'
+entry_into_force:
+  date: '2002-07-13'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: por um período de três anos e manter-se-á em vigor por sucessivos períodos de três anos, salvo se uma das
+    Partes comunicar por escrito, pelo menos com seis meses de antecedência, a sua intenção de o d
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

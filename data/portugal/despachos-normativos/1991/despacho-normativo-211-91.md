@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5041 - 5043
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/221b00/50415043.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-08-01'
+entry_into_force:
+  date: '1991-08-01'
+  rule: no dia 1 de Agosto de 1991, podendo os operadores aplicá-lo à medida que as suas condições técnicas o permitam
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

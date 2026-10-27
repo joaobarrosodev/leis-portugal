@@ -24,6 +24,16 @@ publication:
   pages: 2798-(14) a 2798-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29902/00140024.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao daquele em que os dois Governos se notifiquem de que se encontram preenchidas as
+    condições previstas nas respectivas ordens internas
+  method: clausula
+  article: art-20-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

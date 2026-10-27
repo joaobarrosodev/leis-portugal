@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2643-2648
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/09/04/886820519.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-09-05'
+entry_into_force:
+  date: '2024-09-05'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-13
+  effects_date: '2023-12-01'
+  effects_rule: a partir do dia 1 de dezembro de 2023, pelo que no período de candidaturas que decorrerá no ano de 2024 serão
+    elegíveis ao apoio em apreço as aquisições efetuadas desde o referido início de produção d
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

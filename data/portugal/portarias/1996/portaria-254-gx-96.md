@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1970-(136) a 1970-(137)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/162b05/01360137.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-10-15'
+entry_into_force:
+  date: '1995-10-15'
+  rule: a partir de 15 de Outubro de 1995
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

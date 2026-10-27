@@ -23,6 +23,15 @@ publication:
   pages: 135 - 136
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0013500136.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua assinatura e
+  method: clausula
+  article: art-4
+  effects_date: '2023-01-01'
+  effects_rule: a 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

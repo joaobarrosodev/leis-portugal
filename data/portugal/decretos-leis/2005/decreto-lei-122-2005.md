@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 4439 - 4445
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/145a00/44394445.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-12-01'
+entry_into_force:
+  date: '2005-12-01'
+  rule: no dia 1 de Dezembro de 2005, com excepção dos n.os 3 e 4 do novo artigo 9.º-A do Decreto-Lei n.º 142/2000, de 15
+    de Julho, que
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

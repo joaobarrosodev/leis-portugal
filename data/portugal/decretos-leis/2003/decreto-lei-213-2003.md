@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 6054 - 6057
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/216a00/60546057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-19'
+entry_into_force:
+  date: '2003-09-19'
+  rule: no dia seguinte ao da sua publicação, sendo proibida, a partir de 17 de Julho de 2004, a comercialização dos produtos
+    não conformes com as suas disposições
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

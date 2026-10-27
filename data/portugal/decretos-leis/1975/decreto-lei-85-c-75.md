@@ -23,6 +23,16 @@ publication:
   pages: 306-(3) a 306-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/04802/00030016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos quinze dias sobre a sua publicação, cessando a partir desse momento, relativamente à imprensa, a competência
+    da comissão ad hoc, criada pelo Decreto-Lei n.º 281/74, de 25 de Junho
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

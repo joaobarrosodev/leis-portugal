@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2918 - 2921
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/29182921.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-01'
+entry_into_force:
+  date: '2007-05-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

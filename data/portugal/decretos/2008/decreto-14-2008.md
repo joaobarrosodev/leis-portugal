@@ -24,6 +24,16 @@ publication:
   pages: 3329 - 3335
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/10900/0332903335.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de recepção da última notificação, por escrito, e por via diplomática, do cumprimento dos procedimentos
+    internos das Partes necessários para o efeito
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

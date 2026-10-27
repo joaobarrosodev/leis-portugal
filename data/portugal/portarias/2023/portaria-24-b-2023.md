@@ -22,9 +22,29 @@ publication:
   supplement: null
   pages: 31-(3) a 31-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-14'
+entry_into_force:
+  date: '2023-01-14'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2023-01-01'
+  effects_rule: a partir de 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:229857700:por#art-29'
+    detail: São revogadas as Portarias n.os [24-B/2023], de 9 de janeiro, e [172/2023], de 23 de junho.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:229857700:por'
+    detail: Revogada ,com efeitos a partir de 01.01.2024, pelo(a) Portaria n.º 424/2023 - Diário da República n.º 237/2023,
+      Série I de 2023-12-11 nos termos do art. 29.º desta
 notes: []
 language: por
 version:

@@ -24,6 +24,16 @@ publication:
   pages: 15 - 38
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00700/0001500038.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da receção da última notificação, através da troca de notas diplomáticas, de que foram cumpridos
+    os requisitos legais internos necessários, em conformidade com a legislação e proce
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

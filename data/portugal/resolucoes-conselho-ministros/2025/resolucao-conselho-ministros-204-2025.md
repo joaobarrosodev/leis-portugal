@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 90 - 91
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24700/0009000091.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-12-29'
+entry_into_force:
+  date: '2025-12-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2025-12-19'
+  effects_rule: a 19 de dezembro de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

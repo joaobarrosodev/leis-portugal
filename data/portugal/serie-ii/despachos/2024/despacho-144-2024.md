@@ -23,6 +23,15 @@ publication:
   pages: 317 - 321
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/006000000/0031700321.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2024/2025
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

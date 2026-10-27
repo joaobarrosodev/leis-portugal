@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2770-(1) a 2770-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/10/25101/00010002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-11-01'
+entry_into_force:
+  date: '1979-11-01'
+  rule: no dia 1 de Novembro de 1979
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

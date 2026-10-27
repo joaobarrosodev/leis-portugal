@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22 - 30
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22700/0002200030.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-14'
+entry_into_force:
+  date: '2025-01-14'
+  rule: no dia 14 de janeiro de 2025
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

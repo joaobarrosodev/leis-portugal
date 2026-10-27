@@ -23,6 +23,15 @@ publication:
   pages: 1074 - 1089
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no que respeita a esses territórios na mesma data em que entre em vigor para o Estado que apresentou a declaração
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 2680 - 3081
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte àquele em que for efetuado o depósito do último instrumento de ratificação
+    ou de aprovação
+  method: clausula
+  article: art-431
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

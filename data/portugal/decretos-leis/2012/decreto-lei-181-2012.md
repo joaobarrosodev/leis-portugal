@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4105 - 4110
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/15100/0410504110.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-02'
+entry_into_force:
+  date: '2013-02-02'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

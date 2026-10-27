@@ -24,6 +24,16 @@ publication:
   pages: 1138 - 1139
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09900/11381139.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente a cada produto ou grupo de produtos constantes do anexo I, no dia 1 do mês seguinte à primeira publicação
+    no Diário da República do aviso a que se refere o n.º 3.º
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

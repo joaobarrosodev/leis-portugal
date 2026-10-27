@@ -24,6 +24,16 @@ publication:
   pages: 5241 - 5243
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/27700/52415243.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após as Partes Contratantes se notificarem uma à outra quanto a terem sido cumpridos os requisitos constitucionais
+    necessários à sua entrada em vigor
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

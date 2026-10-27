@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1670-(211) a 1670-(212)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30315/02110212.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-01-01'
+entry_into_force:
+  date: '1975-01-01'
+  rule: no dia 1 de Janeiro de 1975
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

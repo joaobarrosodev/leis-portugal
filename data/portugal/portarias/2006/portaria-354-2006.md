@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2756 - 2757
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/072b00/27562757.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-05-11'
+entry_into_force:
+  date: '2006-05-11'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

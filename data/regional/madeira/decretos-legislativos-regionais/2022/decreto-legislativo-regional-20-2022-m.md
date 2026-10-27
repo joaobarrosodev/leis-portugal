@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3 - 12
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/15400/0000300012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-09-01'
+entry_into_force:
+  date: '2022-09-01'
+  rule: 'no 1.º dia do mês seguinte ao da publicação da sua regulamentação a efetuar por portaria conjunta dos membros do
+    Governo Regional com a tutela das finanças e da habitação, a qual deve ser aprovada no '
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

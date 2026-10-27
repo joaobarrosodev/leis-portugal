@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 193 - 198
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21900/0019300198.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-13'
+entry_into_force:
+  date: '2024-11-13'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto no artigo anterior
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

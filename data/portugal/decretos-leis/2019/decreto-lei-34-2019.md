@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1542 - 1543
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/04800/0154201543.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-03-13'
+entry_into_force:
+  date: '2019-03-13'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: à data dos Despachos n.os 639/2004 e 201/2005, publicados no Diário da República, 2.ª série, de 29 de outubro
+    de 2004, e de 8 de março de 2005, respetivamente
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

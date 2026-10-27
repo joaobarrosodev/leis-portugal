@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3514 - 3515
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/19300/0351403515.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-08'
+entry_into_force:
+  date: '2016-10-08'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: '2017-01-01'
+  effects_rule: a 1 de janeiro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

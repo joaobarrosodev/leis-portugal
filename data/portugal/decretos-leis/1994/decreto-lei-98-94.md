@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1828 - 1829
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/090a00/18281829.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-06-01'
+entry_into_force:
+  date: '1994-06-01'
+  rule: no dia 1 de Junho de 1994
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

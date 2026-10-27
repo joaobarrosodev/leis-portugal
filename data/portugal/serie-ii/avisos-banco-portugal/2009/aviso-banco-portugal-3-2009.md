@@ -25,9 +25,26 @@ publication:
   supplement: null
   pages: 29747 - 29748
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/143000000/2974729748.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-07-27'
+entry_into_force:
+  date: '2009-07-27'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:212246765:por#art-2'
+    detail: É revogado o [Aviso do Banco de Portugal n.º 3/2009], publicado no Diário da República n.º 143/2009, Série II,
+      de 27 de julho de 2009.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3403 - 3422
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15600/0340303422.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-08-13'
+entry_into_force:
+  date: '2010-08-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

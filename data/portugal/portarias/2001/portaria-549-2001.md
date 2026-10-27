@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3234 - 3243
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/126b00/32343243.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-06-01'
+entry_into_force:
+  date: '2001-06-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: '2001-06-11'
+  effects_rule: a partir de 11 de Junho de 2001, independentemente da data da respectiva publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5146-(582) a 5146-(590)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30108/05820590.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-01-29'
+entry_into_force:
+  date: '1989-01-29'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

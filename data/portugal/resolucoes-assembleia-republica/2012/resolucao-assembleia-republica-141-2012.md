@@ -25,6 +25,15 @@ publication:
   pages: 6950 - 6958
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/23900/0695006958.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'na mais tardia das seguintes datas:'
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

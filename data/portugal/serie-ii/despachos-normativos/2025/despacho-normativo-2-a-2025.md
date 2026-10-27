@@ -23,9 +23,27 @@ publication:
   supplement: null
   pages: 4 - 76
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/043000002/0000400076.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-04'
+entry_into_force:
+  date: '2025-03-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1144685820:por#art-1'
+    detail: O presente despacho normativo procede à primeira alteração ao [Despacho Normativo n.º 3/2026], de 23 de fevereiro,
+      que aprova o Regulamento das Provas de Avaliação Externa e das Provas de Equivalência à Frequência dos Ensinos Básico
+      e Secundário para os anos letivos de 2025-2026 a 2027-2028, e revog
 notes: []
 language: por
 version:

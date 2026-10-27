@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1268 - 1273
   pdf_url: https://files.diariodarepublica.pt/1s/1966/07/16400/12681273.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1967-01-01'
+entry_into_force:
+  date: '1967-01-01'
+  rule: no dia 1 de Janeiro de 1967, sem prejuízo de, entretanto, se poderem realizar, através do Instituto de Medicina Tropical
+    ou do Instituto Superior de Higiene do Dr
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6350 - 6357
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/21300/0635006357.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-11-06'
+entry_into_force:
+  date: '2012-11-06'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 305 - 307
   pdf_url: https://files.diariodarepublica.pt/1s/1963/03/07500/03050307.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1963-04-01'
+entry_into_force:
+  date: '1963-04-01'
+  rule: no dia 1 de Abril de 1963, considerando-se extintas, a partir dessa data, as Secretarias da Presidência da República
+    e da Assembleia Nacional
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7 - 17
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/13700/0000700017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-01'
+entry_into_force:
+  date: '2026-08-01'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: na data em que tem lugar o início do regime de instalação da Universidade Técnica do Porto, com exceção do
+    previsto nos n.os3 a 5 do artigo 8.º, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

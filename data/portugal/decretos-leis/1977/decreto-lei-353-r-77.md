@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2080-(23) a 2080-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19902/00230023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-08-30'
+entry_into_force:
+  date: '1977-08-30'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

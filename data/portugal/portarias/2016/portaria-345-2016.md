@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5152 - 5157
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/25000/0515205157.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-01'
+entry_into_force:
+  date: '2017-01-01'
+  rule: no dia 1 de janeiro de 2017
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

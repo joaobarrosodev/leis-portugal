@@ -23,6 +23,15 @@ publication:
   pages: 1535 - 1537
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15100/15351537.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir desta data
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

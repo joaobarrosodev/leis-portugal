@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 7313 - 7317
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/249a00/73137317.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-01-01'
+entry_into_force:
+  date: '2006-01-01'
+  rule: em 1 de Janeiro de 2006
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

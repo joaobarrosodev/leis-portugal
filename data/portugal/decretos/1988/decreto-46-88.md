@@ -24,6 +24,15 @@ publication:
   pages: 4964 - 4966
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28900/49644966.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da sua assinatura, podendo ser denunciado a todo o momento com um pré-aviso de seis meses
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

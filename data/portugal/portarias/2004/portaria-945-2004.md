@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4785 - 4786
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/176b00/47854786.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-07-29'
+entry_into_force:
+  date: '2004-07-29'
+  rule: no dia imediatamente a seguir à sua publicação no Diário da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

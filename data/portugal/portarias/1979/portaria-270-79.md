@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1274 - 1276
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/13000/12741276.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-08-05'
+entry_into_force:
+  date: '1979-08-05'
+  rule: sessenta dias após a data da sua publicação, devendo ser aplicados os valores nela fixados a todos os ramais, chegadas
+    ou entradas que sejam pagos posteriormente àquela data
+  method: clausula
+  article: n-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

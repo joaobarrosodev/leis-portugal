@@ -23,6 +23,16 @@ publication:
   pages: 1620 - 1624
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16900/16201624.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título definitivo em 1 de Janeiro de 1979 ou em qualquer data no decurso dos doze meses seguintes entre os Governos
+    que o tiverem assinado e, no caso em que as suas normas constitucionais ou institu
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 1965 - 1968
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21600/19651968.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da sua assinatura pelos representantes devidamente autorizados da Organização e do Governo
+  method: clausula
+  article: art-vi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

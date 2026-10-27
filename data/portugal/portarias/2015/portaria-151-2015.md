@@ -26,6 +26,15 @@ publication:
   pages: 3118 - 3135
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10100/0311803135.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 56/2015, de 27 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

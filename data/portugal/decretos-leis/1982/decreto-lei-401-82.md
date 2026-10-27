@@ -23,6 +23,15 @@ publication:
   pages: 3006-(64) a 3006-(66)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22101/00640066.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o Código Penal
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

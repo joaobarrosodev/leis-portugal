@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3078 - 3138
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/12200/0307803138.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-29'
+entry_into_force:
+  date: '2019-06-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-211
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Lei do Orçamento do Estado, salvo se disposto em contrário nos artigos antecedentes,
+    e até à entrada em vigor do decreto-lei de execução orçamental para 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

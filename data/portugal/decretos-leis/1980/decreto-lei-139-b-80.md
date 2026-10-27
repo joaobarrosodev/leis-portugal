@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1092-(2) a 1092-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11601/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-05-21'
+entry_into_force:
+  date: '1980-05-21'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: desde a entrada em vigor da Lei n.º 26/79, de 7 de Agosto, até à integração na Inspecção-Geral do Ensino dos
+    inspectores referidos no artigo anterior, nos termos do Decreto-Lei n.º 540/79
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

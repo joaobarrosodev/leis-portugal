@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5957 - 5959
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17200/0595705959.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-01'
+entry_into_force:
+  date: '2009-11-01'
+  rule: no dia 1 de Novembro de 2009
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

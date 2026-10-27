@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1673 - 1678
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06400/0167301678.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-03-31'
+entry_into_force:
+  date: '2017-03-31'
+  rule: no dia seguinte ao da sua publicação, devendo as CFT-ARS estar constituídas e a funcionar de acordo com a presente
+    Portaria nos 60 dias seguintes
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

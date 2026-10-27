@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 1940-1941
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/05/11/133486511.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-05-12'
+entry_into_force:
+  date: '2020-05-12'
+  rule: no dia seguinte da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2020-03-17'
+  effects_rule: a 17 de março de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

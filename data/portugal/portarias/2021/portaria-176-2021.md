@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 36 - 38
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16200/0003600038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-21'
+entry_into_force:
+  date: '2021-08-21'
+  rule: no dia seguinte ao da sua publicação, sendo que as alterações dela decorrentes se aplicam às operações que ainda não
+    estejam concluídas
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

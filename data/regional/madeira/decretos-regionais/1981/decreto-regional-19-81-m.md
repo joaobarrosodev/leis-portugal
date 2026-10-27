@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2623 - 2630
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/22600/26232630.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-10-02'
+entry_into_force:
+  date: '1981-10-02'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-31
+  effects_date: '1981-01-01'
+  effects_rule: desde 1 de Janeiro de 1981
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

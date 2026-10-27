@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 963 - 963
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/12400/09630963.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-05-31'
+entry_into_force:
+  date: '1978-05-31'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: '1979-02-18'
+  end_rule: até 18 de Fevereiro de 1979
 end_of_validity_date: null
 legal_status: in_force
 notes: []

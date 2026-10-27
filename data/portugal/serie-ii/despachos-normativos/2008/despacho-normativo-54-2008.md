@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 42603 - 42613
   pdf_url: https://files.diariodarepublica.pt/2s/2008/10/203000000/4260342613.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-10-25'
+entry_into_force:
+  date: '2008-10-25'
+  rule: cinco dias após a sua publicação em Diário da República
+  method: clausula
+  article: art-88
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 4000 - 4007
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/22400/40004007.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'provisoriamente assim que os Estados representando, na sua totalidade, pelo menos 60% do comércio de cobre, conforme
+    indicado em anexo, tiverem notificado ao depositário a sua aceitação provisória ou '
+  method: clausula
+  article: n-22
+  effects_date: null
+  effects_rule: na data que o Grupo fixar
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

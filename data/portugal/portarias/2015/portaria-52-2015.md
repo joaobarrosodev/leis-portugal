@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1202 - 1204
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/04000/0120201204.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-02-27'
+entry_into_force:
+  date: '2015-02-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

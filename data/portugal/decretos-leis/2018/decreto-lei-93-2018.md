@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5270 - 5285
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/21800/0527005285.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-01'
+entry_into_force:
+  date: '2019-01-01'
+  rule: no dia 1 de janeiro de 2019, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

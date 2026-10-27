@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2460 - 2467
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/08200/0246002467.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-05-28'
+entry_into_force:
+  date: '2009-05-28'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

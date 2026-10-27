@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 11 - 12
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00100/0001100012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-03'
+entry_into_force:
+  date: '2009-01-03'
+  rule: no dia seguinte à da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: '2008-12-31'
+  effects_rule: desde o dia 31 de Dezembro de 2008
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

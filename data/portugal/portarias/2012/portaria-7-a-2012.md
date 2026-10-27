@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 26-(2) a 26-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/00201/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-01-04'
+entry_into_force:
+  date: '2012-01-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2012-01-01'
+  effects_rule: a partir de 1 de janeiro de 2012
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

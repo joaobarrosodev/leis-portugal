@@ -23,6 +23,16 @@ publication:
   pages: 6424 - 6442
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data da recepção pelo Governo da Dinamarca das assinaturas ou, se necessário,
+    dos instrumentos de ratificação, aceitação ou aprovação de Partes Contratantes s
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

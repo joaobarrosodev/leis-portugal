@@ -24,6 +24,16 @@ publication:
   pages: 17 - 22
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20600/0001700022.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de três meses após a data em que oito Estados membros do Conselho
+    da Europa tenham manifestado o seu consentimento em ficarem vinculados pelo Pro
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

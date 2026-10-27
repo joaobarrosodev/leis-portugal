@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 321 - 327
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05000/03210327.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-03-02'
+entry_into_force:
+  date: '1977-03-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5 - 13
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00500/0000500013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-07'
+entry_into_force:
+  date: '2023-01-07'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-21
+  effects_date: '2024-12-31'
+  effects_rule: até 31 de dezembro de 2024, sem prejuízo da sua eventual prorrogação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

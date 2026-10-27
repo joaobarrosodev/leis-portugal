@@ -24,6 +24,16 @@ publication:
   pages: 3318-(7) a 3318-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: sessenta dias após dois dos países mencionados no parágrafo 1 do artigo 6.º o terem assinado sem reserva de ratificação
+    ou terem depositado o seu instrumento de ratificação ou adesão
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

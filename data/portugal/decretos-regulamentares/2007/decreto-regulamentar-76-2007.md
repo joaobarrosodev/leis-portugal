@@ -24,6 +24,15 @@ publication:
   pages: 4499 - 4543
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13600/0449904543.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

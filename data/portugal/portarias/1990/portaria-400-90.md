@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2372 - 2372
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/12200/23722372.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-06-02'
+entry_into_force:
+  date: '1990-06-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1990-01-01'
+  effects_rule: a partir de 1 de Janeiro de 1990
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

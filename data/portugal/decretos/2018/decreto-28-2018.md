@@ -24,6 +24,16 @@ publication:
   pages: 5797 - 5804
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24000/0579705804.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia seguinte à data da receção da última notificação por escrito e pela via diplomática, relativa ao
+    cumprimento dos procedimentos internos requeridos pelos respetivos ordenamentos jurídi
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

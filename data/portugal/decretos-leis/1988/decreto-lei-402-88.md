@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4489 - 4490
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/25900/44894490.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-11-10'
+entry_into_force:
+  date: '1988-11-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: no tocante às revalorizações nele estabelecidas, desde de 1 Janeiro de 1988
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

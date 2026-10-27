@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 21
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03500/0000200021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-18'
+entry_into_force:
+  date: '2023-02-18'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: a partir do ano escolar 2023-2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

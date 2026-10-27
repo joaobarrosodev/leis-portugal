@@ -23,6 +23,16 @@ publication:
   pages: 2151 - 2162
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/20100/21512162.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o diploma que o regulamentar, considerando-se revogados, a partir dessa data, o Decreto-Lei n.º 478/72, de 28
+    de Novembro, e o Decreto n.º 363/73, de 18 de Julho
+  method: clausula
+  article: art-99
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

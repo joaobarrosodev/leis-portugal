@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: '808'
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/02/28/207987291.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-01'
+entry_into_force:
+  date: '2023-03-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-8
+  effects_date: '2023-03-01'
+  effects_rule: no primeiro dia do mês seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

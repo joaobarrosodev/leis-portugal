@@ -23,6 +23,16 @@ publication:
   pages: 3643 - 3655
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11000/0364303655.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: a partir da data do início da admissão de apostas pelo departamento de jogos da Santa Casa da Misericórdia
+    de Lisboa
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

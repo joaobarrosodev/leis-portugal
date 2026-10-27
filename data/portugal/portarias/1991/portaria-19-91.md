@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 136 - 138
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/008b00/01360138.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-01-10'
+entry_into_force:
+  date: '1991-01-10'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4143 - 4147
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15200/0414304147.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'trinta (30) dias após a data de receção da última notificação entre as Partes, por escrito e por via diplomática,
+    de que foram cumpridos os requisitos de Direito interno das Partes necessários para o '
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

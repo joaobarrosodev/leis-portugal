@@ -24,6 +24,15 @@ publication:
   pages: 3036 - 3041
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/079a00/30363041.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia a partir da data em que haja sido depositado o segundo instrumento de ratificação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

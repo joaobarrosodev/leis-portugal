@@ -25,6 +25,15 @@ publication:
   pages: 2098 - 2110
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/08100/0209802110.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para cada Membro doze meses após a data do registo da sua ratificação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

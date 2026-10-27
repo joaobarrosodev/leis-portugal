@@ -24,6 +24,16 @@ publication:
   pages: 720 - 722
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/037a00/07200722.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após as Partes Contratantes se notificarem uma à outra quanto a terem sido cumpridos os requisitos constitucionais
+    necessários à sua entrada em vigor
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

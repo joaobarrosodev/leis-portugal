@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3121 - 3124
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/133a00/31213124.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-06-13'
+entry_into_force:
+  date: '1991-06-13'
+  rule: no dia imediato ao da sua publicação, à excepção das alterações e aditamentos introduzidos pelo artigo 1.º, que
+  method: clausula
+  article: art-3
+  effects_date: '1989-10-01'
+  effects_rule: desde 1 de Outubro de 1989, e das regras de descongelamento fixadas no artigo 2.º, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

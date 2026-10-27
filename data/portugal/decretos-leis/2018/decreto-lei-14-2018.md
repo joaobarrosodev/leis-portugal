@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1098 - 1101
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/04200/0109801101.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-05-01'
+entry_into_force:
+  date: '2018-05-01'
+  rule: em 1 de maio de 2018
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

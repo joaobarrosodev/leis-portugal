@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3990-(6) a 3990-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22602/00060011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-10-01'
+entry_into_force:
+  date: '1988-10-01'
+  rule: no dia 1 de Outubro de 1988
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

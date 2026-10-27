@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 6253 - 6253
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/21000/0625306253.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-10-31'
+entry_into_force:
+  date: '2012-10-31'
+  rule: no dia seguinte ao da sua publicação e é aplicável aos projetos aprovados no âmbito dos concursos n.os 1, 2 e 3 do
+    ano de 2012
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

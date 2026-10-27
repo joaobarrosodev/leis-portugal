@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2339 - 2339
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/012000000/0233902339.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-18'
+entry_into_force:
+  date: '2013-01-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

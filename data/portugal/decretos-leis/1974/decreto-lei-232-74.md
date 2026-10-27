@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 677 - 678
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/12800/06770678.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-05-01'
+entry_into_force:
+  date: '1974-05-01'
+  rule: desde 1 de Maio de 1974
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 6326 - 6335
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do terceiro mês seguinte ao depósito do instrumento de ratificação do Estado signatário que proceda
+    a essa formalidade em último lugar
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

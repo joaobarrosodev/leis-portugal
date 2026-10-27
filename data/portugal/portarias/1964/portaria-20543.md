@@ -23,6 +23,15 @@ publication:
   pages: 600 - 602
   pdf_url: https://files.diariodarepublica.pt/1s/1964/04/10200/06000602.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 1 de Maio próximo
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

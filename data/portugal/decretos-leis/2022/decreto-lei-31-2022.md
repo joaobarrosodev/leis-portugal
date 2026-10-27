@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5 - 32
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/08800/0000500032.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-01'
+entry_into_force:
+  date: '2022-07-01'
+  rule: no dia 1 de julho de 2022, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

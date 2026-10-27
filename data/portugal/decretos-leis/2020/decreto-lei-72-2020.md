@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/18500/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-23'
+entry_into_force:
+  date: '2020-09-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: '2020-08-17'
+  effects_rule: a 17 de agosto de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

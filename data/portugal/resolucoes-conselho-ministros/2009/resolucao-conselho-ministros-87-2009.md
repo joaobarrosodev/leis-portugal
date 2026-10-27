@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6700 - 6707
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/18200/0670006707.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-19'
+entry_into_force:
+  date: '2009-09-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: após a aprovação, pelo órgão autárquico legalmente competente, da mutação dominial subjectiva prevista no
+    n.º 1
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

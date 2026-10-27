@@ -24,6 +24,16 @@ publication:
   pages: 814 - 815
   pdf_url: https://files.diariodarepublica.pt/1s/2011/02/03200/0081400815.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: aquando do início da vigência das disposições sobre a matéria da redução remuneratória prevista no Orçamento de Estado
+    para 2011
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

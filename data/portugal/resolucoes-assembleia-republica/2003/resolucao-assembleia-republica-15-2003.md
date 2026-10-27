@@ -24,6 +24,16 @@ publication:
   pages: 1487 - 1489
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/053a00/14871489.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após recepção da notificação da República Portuguesa indicando que todos os procedimentos internos necessários à entrada
+    em vigor do Acordo foram concluídos
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/07/146000000/0004300043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:853818566:por#n-5'
+    detail: 5 - Determinar que a presente portaria revoga a [Portaria n.º 400/2023], publicada no Diário da República, 2.ª
+      série, n.º 146, de 28 de julho de 2023.
 notes: []
 language: por
 version:

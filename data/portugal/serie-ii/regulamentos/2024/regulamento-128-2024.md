@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 790 - 793
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/019000000/0079000793.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-27'
+entry_into_force:
+  date: '2024-01-27'
+  rule: no dia seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: art-14
+  effects_date: '2023-01-01'
+  effects_rule: desde o dia 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

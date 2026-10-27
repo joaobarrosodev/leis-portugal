@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5429 - 5442
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/228b00/54295442.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-09-29'
+entry_into_force:
+  date: '1993-09-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

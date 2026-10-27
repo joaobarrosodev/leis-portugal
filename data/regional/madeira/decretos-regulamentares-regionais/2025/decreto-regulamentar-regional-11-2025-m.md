@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 108 - 123
   pdf_url: https://files.diariodarepublica.pt/1s/2025/08/16100/0010800123.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-23'
+entry_into_force:
+  date: '2025-08-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: '2025-01-01'
+  effects_rule: desde 1 de janeiro de 2025, mantendo a sua vigência até à entrada em vigor do decreto regulamentar de execução
+    orçamental para 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

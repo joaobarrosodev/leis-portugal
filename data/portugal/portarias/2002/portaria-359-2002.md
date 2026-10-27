@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3159 - 3159
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/080b00/31593159.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-31'
+entry_into_force:
+  date: '2002-03-31'
+  rule: no dia 31 de Março de 2002, aplicando-se a taxa EURIBOR, nas operações em curso, a partir do primeiro período de contagem
+    de juros subsequente à data em que a taxa LISBOR deixe de ser divulgada, salvo
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

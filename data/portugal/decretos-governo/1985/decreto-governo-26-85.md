@@ -25,6 +25,16 @@ publication:
   pages: 2223 - 2232
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/17000/22232232.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 3 meses após a data do depósito, do terceiro instrumento de ratificação, aceitação ou adesão, mas unicamente para
+    os Estados que tiverem depositado os respectivos instrumentos de ratificação, aceitaçã
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 98 - 105
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/16000/0009800105.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: a partir da candidatura à matrícula e inscrição no ensino superior do ano letivo de 2020-2021, inclusive
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

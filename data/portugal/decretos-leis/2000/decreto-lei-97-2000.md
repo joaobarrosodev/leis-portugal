@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2414 - 2421
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/121a00/24142421.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-11-21'
+entry_into_force:
+  date: '2000-11-21'
+  rule: 180 dias após a sua publicação, sendo apenas aplicável aos procedimentos iniciados a partir dessa data
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

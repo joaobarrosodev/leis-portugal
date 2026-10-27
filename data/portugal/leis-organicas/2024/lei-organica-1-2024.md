@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 19
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04600/0000200019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-04-01'
+entry_into_force:
+  date: '2024-04-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-9-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

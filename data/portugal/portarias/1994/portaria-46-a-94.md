@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 208-(2) a 208-(79)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/013b01/00020079.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-02-16'
+entry_into_force:
+  date: '1994-02-16'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-5-a
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

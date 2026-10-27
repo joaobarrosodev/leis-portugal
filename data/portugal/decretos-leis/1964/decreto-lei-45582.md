@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 368 - 368
   pdf_url: https://files.diariodarepublica.pt/1s/1964/02/05100/03680368.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1964-03-01'
+entry_into_force:
+  date: '1964-03-01'
+  rule: no dia 1 de Março de 1964
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

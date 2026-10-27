@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2004 - 2013
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/075b00/20042013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-03-30'
+entry_into_force:
+  date: '2004-03-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

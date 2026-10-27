@@ -23,6 +23,16 @@ publication:
   pages: 1245 - 1246
   pdf_url: https://files.diariodarepublica.pt/1s/1971/08/20400/12451246.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data da sua aplicação, à excepção do disposto quanto a produção e utilização de sêmolas e de farinhas
+    destinadas a massas alimentícias, em que o prazo será de sessenta dias
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

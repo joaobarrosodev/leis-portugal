@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5289 - 5290
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/27800/52895290.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-12-04'
+entry_into_force:
+  date: '1989-12-04'
+  rule: no dia da sua publicação no Diário da República
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

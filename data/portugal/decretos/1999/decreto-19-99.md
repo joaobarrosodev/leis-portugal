@@ -26,6 +26,16 @@ publication:
   pages: 3448 - 3449
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/138a00/34483449.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: provisoriamente, na data da sua assinatura e, definitivamente, após a notificação ao depositário do cumprimento das
+    formalidades constitucionais por todos os Estados membros
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

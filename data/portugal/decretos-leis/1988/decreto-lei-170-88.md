@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2039 - 2039
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11200/20392039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-05-15'
+entry_into_force:
+  date: '1988-05-15'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

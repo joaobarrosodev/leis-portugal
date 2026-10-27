@@ -24,6 +24,16 @@ publication:
   pages: 2437 - 2439
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/118a00/24372439.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data em que as Partes tenham procedido à notificação mútua das formalidades referidas
+    no primeiro parágrafo
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

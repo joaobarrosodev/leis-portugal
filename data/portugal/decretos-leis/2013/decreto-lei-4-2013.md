@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 161 - 164
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00800/0016100164.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-26'
+entry_into_force:
+  date: '2013-01-26'
+  rule: no 15.º dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: até à data de entrada em vigor das novas regras do processo civil
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

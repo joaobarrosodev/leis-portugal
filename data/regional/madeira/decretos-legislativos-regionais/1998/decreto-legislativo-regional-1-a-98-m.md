@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 528-(4) a 528-(66)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/033a02/00040066.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-02-09'
+entry_into_force:
+  date: '1998-02-09'
+  rule: na data da sua publicação, integrando o orçamento por ele aprovado a parte do orçamento que tenha sido executado nos
+    termos do artigo 15.º da Lei n.º 28/92, de 1 de Setembro (Lei de Enquadramento do O
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

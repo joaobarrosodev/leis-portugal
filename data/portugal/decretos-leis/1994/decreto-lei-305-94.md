@@ -24,6 +24,15 @@ publication:
   pages: 7281 - 7283
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/291a00/72817283.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em simultâneo com a portaria a que se refere aquele artigo
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 1185 - 1186
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/04700/0118501186.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 60 dias seguintes ao dia da sua publicação
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

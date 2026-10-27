@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3936-(2) a 3936-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-07-15'
+entry_into_force:
+  date: '2007-07-15'
+  rule: no dia 15 de Julho de 2007
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

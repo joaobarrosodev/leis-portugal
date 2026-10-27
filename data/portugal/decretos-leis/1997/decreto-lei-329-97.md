@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6388 - 6389
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/275a00/63886389.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-11-28'
+entry_into_force:
+  date: '1997-11-28'
+  rule: no dia imediato à sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

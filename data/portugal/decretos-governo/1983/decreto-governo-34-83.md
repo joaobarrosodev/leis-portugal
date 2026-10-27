@@ -23,6 +23,16 @@ publication:
   pages: 1685 - 1696
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do trigésimo dia a contar da data do depósito da quinta notificação e produzirá desde então efeitos entre
+    os 5 Estados que tenham cumprido esta formalidade
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1755 - 1756
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/06200/0175501756.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-01'
+entry_into_force:
+  date: '2019-07-01'
+  rule: no dia 1 de julho de 2019
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

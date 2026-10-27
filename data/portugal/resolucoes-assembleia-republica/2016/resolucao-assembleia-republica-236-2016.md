@@ -25,6 +25,16 @@ publication:
   pages: 4499 - 4597
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23500/0449904597.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte àquele no decurso do qual a Parte Costa do Marfim e a Parte CE tenham notificado reciprocamente
+    da conclusão das formalidades necessárias para esse efeito
+  method: clausula
+  article: art-75
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

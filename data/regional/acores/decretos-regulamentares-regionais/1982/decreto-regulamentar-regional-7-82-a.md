@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 485 - 486
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/05200/04850486.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-01-01'
+entry_into_force:
+  date: '1982-01-01'
+  rule: no dia 1 de Janeiro de 1982
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

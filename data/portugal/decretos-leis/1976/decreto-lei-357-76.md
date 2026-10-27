@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1076 - 1076
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11300/10761076.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-07-01'
+entry_into_force:
+  date: '1976-07-01'
+  rule: no dia 1 de Julho de 1976 quanto aos prémios das lotarias da Santa Casa da Misericórdia de Lisboa respeitantes a extracções
+    realizadas a partir da mesma data
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

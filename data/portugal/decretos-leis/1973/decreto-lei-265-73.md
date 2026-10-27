@@ -23,6 +23,15 @@ publication:
   pages: 897 - 901
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/12600/08970901.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o seu regulamento, em 1 de Junho de 1973
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

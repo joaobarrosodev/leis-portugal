@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1758-(3) a 1758-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13802/00030004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-06-18'
+entry_into_force:
+  date: '1982-06-18'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

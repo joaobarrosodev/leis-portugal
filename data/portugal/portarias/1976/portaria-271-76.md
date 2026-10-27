@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 938 - 938
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/10100/09380938.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-04-29'
+entry_into_force:
+  date: '1976-04-29'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

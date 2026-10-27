@@ -24,6 +24,15 @@ publication:
   pages: 425 - 426
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/02900/04250426.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com a portaria referida no artigo 2.º, a qual deverá ser publicada no prazo de 90 dias
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

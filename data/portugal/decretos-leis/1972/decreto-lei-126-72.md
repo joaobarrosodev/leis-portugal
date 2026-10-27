@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 481 - 484
   pdf_url: https://files.diariodarepublica.pt/1s/1972/04/09500/04810484.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-04-22'
+entry_into_force:
+  date: '1972-04-22'
+  rule: no dia 22 de Abril de 1972
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6963 - 6966
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-10-16'
+entry_into_force:
+  date: '1999-10-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: '1999-06-01'
+  effects_rule: a partir de 1 de Junho de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

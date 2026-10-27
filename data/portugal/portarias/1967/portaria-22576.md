@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 281 - 281
   pdf_url: https://files.diariodarepublica.pt/1s/1967/03/06400/02810281.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1967-03-31'
+entry_into_force:
+  date: '1967-03-31'
+  rule: no dia 31 de Março de 1967
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

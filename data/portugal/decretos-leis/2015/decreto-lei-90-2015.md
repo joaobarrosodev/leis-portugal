@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3198 - 3253
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10400/0319803253.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-07-01'
+entry_into_force:
+  date: '2015-07-01'
+  rule: no primeiro dia do segundo mês seguinte ao da sua publicação, com exceção do n.º 2 do artigo 153.º do Estatuto, que
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

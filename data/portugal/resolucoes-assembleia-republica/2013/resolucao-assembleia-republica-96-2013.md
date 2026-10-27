@@ -25,6 +25,16 @@ publication:
   pages: 4037 - 4038
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/13200/0403704038.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data em que forem trocadas as notas diplomáticas indicando a conclusão das formalidades legais
+    internas de cada Estado Contratante, necessárias à entrada em vigor do presente Protoc
+  method: clausula
+  article: art-ii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2314 - 2314
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/23900/23142314.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-10-13'
+entry_into_force:
+  date: '1976-10-13'
+  rule: no dia seguinte ao da sua publicação, produzindo, porém, efeitos desde a entrada em vigor da Portaria n.º 434/74,
+    de 10 de Julho
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

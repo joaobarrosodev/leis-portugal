@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7012-(13) a 7012-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24901/0001300013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-12-30'
+entry_into_force:
+  date: '2017-12-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2018-01-01'
+  effects_rule: a partir de 1 de janeiro de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

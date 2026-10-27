@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 60-(3) a 60-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/12701/0000300004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-04'
+entry_into_force:
+  date: '2023-07-04'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: entre os dias 4 e 31 de julho de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

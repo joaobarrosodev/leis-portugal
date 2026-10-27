@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5009 - 5020
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/16000/0500905020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-26'
+entry_into_force:
+  date: '2013-08-26'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2013-07-02'
+  effects_rule: a partir de 2 de julho de 2013, 24 de julho de 2013 e 26 de julho de 2013, relativamente a cada um dos membros
+    do Governo nomeados nestas datas, considerando-se ratificados todos os atos que tenham si
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

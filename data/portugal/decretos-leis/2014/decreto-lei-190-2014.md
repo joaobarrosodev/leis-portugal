@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6428 - 6429
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/25100/0642806429.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-29'
+entry_into_force:
+  date: '2015-01-29'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5210 - 5211
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/23200/0521005211.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-12-06'
+entry_into_force:
+  date: '2011-12-06'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

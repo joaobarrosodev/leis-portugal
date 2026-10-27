@@ -24,6 +24,16 @@ publication:
   pages: 4 - 19
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02900/0000400019.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que o último dos quatro Estados Partes - França, Alemanha, Luxemburgo e Reino Unido - tenha
+    depositado o seu instrumento de ratificação, aprovação ou adesão
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 3078 - 3079
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/143a00/30783079.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos gerais, sem prejuízo da comercialização, até ao esgotamento, das existências dos produtos não conformes
+    com o disposto no artigo anterior que tenham sido colocados no mercado ou rotulados a
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

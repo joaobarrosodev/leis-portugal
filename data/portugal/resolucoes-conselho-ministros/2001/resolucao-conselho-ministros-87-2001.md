@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4520 - 4520
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/170b00/45204520.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-25'
+entry_into_force:
+  date: '2001-07-25'
+  rule: no dia imediato ao da sua publicação, reportando os seus efeitos à data de aprovação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

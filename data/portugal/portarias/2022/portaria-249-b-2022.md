@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 119-(3) a 119-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/19002/0000300003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-03'
+entry_into_force:
+  date: '2022-10-03'
+  rule: no dia 3 de outubro de 2022 e
+  method: clausula
+  article: art-unico
+  effects_date: '2022-12-31'
+  effects_rule: até dia 31 de dezembro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

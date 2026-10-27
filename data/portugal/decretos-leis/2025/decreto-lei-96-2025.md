@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 6
   pdf_url: https://files.diariodarepublica.pt/1s/2025/08/16000/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-22'
+entry_into_force:
+  date: '2025-08-22'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

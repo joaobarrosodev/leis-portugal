@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03900/0000900010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-26'
+entry_into_force:
+  date: '2021-02-26'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: reportados à data de entrada em vigor do Decreto Regulamentar Regional n.º 41/2020/M, de 9 de outubro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

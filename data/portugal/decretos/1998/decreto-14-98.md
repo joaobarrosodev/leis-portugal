@@ -24,6 +24,16 @@ publication:
   pages: 2486 - 2488
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/122a00/24862488.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após a troca de notas pela qual as Partes se derem conhecimento recíproco de que foram cumpridos os requisitos
+    necessários previstos na sua ordem interna e logo que esteja concluída a listagem
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

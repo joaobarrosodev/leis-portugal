@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 108-(3) a 108-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01602/00030005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-01-20'
+entry_into_force:
+  date: '1976-01-20'
+  rule: na data da publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

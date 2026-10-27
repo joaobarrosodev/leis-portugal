@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1426-(2) a 1426-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/21601/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-11-01'
+entry_into_force:
+  date: '1975-11-01'
+  rule: no dia 1 de Novembro de 1975 e aplicar-se-á aos territórios ultramarinos ainda sob administração portuguesa, independentemente
+    de publicação no respectivo Boletim Oficial
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

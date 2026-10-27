@@ -26,6 +26,16 @@ publication:
   pages: 610 - 612
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/032a00/06100612.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data da notificação pelas Partes Contratantes do cumprimento das formalidades a que
+    se refere o artigo 3.º
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

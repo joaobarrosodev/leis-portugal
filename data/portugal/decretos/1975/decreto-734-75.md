@@ -23,6 +23,16 @@ publication:
   pages: 2122 - 2133
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29500/21222133.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do terceiro mês do calendário após o depósito do terceiro instrumento de ratificação, de aceitação
+    ou de aprovação previsto no parágrafo segundo do artigo 41.º Depois, a Convenção
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 905 - 907
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/051a00/09050907.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-03-01'
+entry_into_force:
+  date: '1997-03-01'
+  rule: com a publicação das duas portarias a que se referem os artigos 6.º e 14.º, os quais
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

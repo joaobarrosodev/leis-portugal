@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5818-(8) a 5818-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20801/0000800009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-10-30'
+entry_into_force:
+  date: '2017-10-30'
+  rule: no dia 30 de outubro de 2017
+  method: clausula
+  article: n-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

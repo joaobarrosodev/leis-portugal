@@ -23,6 +23,15 @@ publication:
   pages: 2478 - 2479
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21900/24782479.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Setembro e revoga o Despacho Normativo n.º 180/79
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

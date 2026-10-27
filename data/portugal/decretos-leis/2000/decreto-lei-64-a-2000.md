@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1708-(2) a 1708-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/095a01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-01'
+entry_into_force:
+  date: '2000-05-01'
+  rule: em 1 de Maio de 2000
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

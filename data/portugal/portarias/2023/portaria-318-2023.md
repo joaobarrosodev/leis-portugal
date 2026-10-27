@@ -24,6 +24,15 @@ publication:
   pages: 2 - 18
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20600/0000200018.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do despacho referido no artigo 2.º do Decreto-Lei n.º 291/99, de 3 de agosto
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

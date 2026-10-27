@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 72-(43) a 72-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-02-01'
+entry_into_force:
+  date: '1985-02-01'
+  rule: em 1 de Fevereiro de 1985
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

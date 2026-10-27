@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 216 - 249
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/078000000/0021600249.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-16'
+entry_into_force:
+  date: '2024-10-16'
+  rule: 180 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

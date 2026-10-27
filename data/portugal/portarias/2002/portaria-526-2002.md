@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4278 - 4279
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/102b00/42784279.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-14'
+entry_into_force:
+  date: '2001-07-14'
+  rule: a partir do dia 14 de Julho de 2001
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 234 - 252
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/018a00/02340252.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-02-21'
+entry_into_force:
+  date: '1993-02-21'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-76
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 30 - 64
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/19300/0003000064.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2018/2019
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: 'a partir do ano letivo de:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

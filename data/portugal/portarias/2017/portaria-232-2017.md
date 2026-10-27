@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4234 - 4256
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14400/0423404256.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-28'
+entry_into_force:
+  date: '2017-07-28'
+  rule: em 28 de julho de 2017
+  method: clausula
+  article: art-13
+  effects_date: '2017-08-04'
+  effects_rule: 'em 4 de agosto de 2017 as alterações promovidas pela presente portaria, ao:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

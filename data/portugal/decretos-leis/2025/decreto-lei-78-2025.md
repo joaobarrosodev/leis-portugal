@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6 - 19
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09000/0000600019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-13'
+entry_into_force:
+  date: '2025-05-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: '2025-09-01'
+  effects_rule: a partir do dia 1 de setembro de 2025, salvo o disposto no n.º 1 do artigo 9.º, o qual
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

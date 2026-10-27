@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3914 - 3915
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21400/0391403915.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-01'
+entry_into_force:
+  date: '2016-12-01'
+  rule: no dia 1 de dezembro de 2016
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

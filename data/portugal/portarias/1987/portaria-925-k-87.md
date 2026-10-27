@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4228-(16) a 4228-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/27902/00160018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-04-01'
+entry_into_force:
+  date: '1988-04-01'
+  rule: no dia 1 de Abril de 1988
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

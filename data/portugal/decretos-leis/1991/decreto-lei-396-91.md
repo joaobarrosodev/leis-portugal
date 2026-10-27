@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5367 - 5370
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/238a00/53675370.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-01-14'
+entry_into_force:
+  date: '1992-01-14'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

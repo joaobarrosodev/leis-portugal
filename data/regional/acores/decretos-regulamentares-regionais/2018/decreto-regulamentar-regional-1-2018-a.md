@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 223 - 235
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-01'
+entry_into_force:
+  date: '2018-01-01'
+  rule: a 1 de janeiro de 2018
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

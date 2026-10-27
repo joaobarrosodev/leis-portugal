@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1954/08/17000/08190820.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:115730624:por'
+    detail: Revogada pelo(a) Portaria n.º 216/2018 - Diário da República n.º 138/2018, Série I de 2018-07-19
 notes: []
 language: por
 version:

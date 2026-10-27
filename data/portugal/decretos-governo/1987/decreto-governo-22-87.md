@@ -24,6 +24,16 @@ publication:
   pages: 2416 - 2418
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14300/24162418.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após a troca de notas pela qual as Partes contratantes se derem conhecimento recíproco de que foram cumpridos
+    os requisitos necessários previstos na sua legislação interna
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

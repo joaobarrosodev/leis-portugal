@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6065 - 6070
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15900/0606506070.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-09-16'
+entry_into_force:
+  date: '2015-09-16'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

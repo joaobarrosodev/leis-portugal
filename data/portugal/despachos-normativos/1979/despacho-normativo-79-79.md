@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 594-(14) a 594-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08501/00140014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-05-15'
+entry_into_force:
+  date: '1979-05-15'
+  rule: no dia 15 de Maio de 1979
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

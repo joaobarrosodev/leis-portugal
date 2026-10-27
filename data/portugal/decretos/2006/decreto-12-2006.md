@@ -24,6 +24,16 @@ publication:
   pages: 1954 - 1964
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/054b00/19541964.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 12 meses após a data em que, pelo menos, 15 Estados tenham procedido à sua assinatura sem reservas quanto à ratificação,
+    aceitação ou aprovação ou tenham depositado os instrumentos necessários de rati
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

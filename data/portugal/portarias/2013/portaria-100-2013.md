@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1273 - 1273
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/04600/0127301273.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-03-11'
+entry_into_force:
+  date: '2013-03-11'
+  rule: em 11 de março de 2013
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 96 - 96
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00300/0009600096.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-05'
+entry_into_force:
+  date: '2018-01-05'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: a partir da data de entrada em vigor da Lei do Orçamento do Estado para 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

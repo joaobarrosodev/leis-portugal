@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 4
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/16600/0000300004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-09-01'
+entry_into_force:
+  date: '2026-09-01'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2026-10-01'
+  effects_rule: no dia 1 de outubro de 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

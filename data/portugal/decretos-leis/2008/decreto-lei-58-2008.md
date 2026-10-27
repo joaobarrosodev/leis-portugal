@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1754 - 1762
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/06000/0175401762.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-04-25'
+entry_into_force:
+  date: '2008-04-25'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

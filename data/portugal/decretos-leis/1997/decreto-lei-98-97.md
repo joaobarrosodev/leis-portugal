@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1876 - 1889
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-04-27'
+entry_into_force:
+  date: '1997-04-27'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

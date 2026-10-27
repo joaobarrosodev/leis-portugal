@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7218 - 7218
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/250b00/72187218.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-10-27'
+entry_into_force:
+  date: '1999-10-27'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '1999-10-06'
+  effects_rule: desde 6 de Outubro de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

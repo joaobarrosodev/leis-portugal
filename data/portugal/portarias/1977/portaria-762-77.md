@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2986 - 2987
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/29000/29862987.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-02-17'
+entry_into_force:
+  date: '1978-02-17'
+  rule: em 17 de Fevereiro de 1978, podendo, no entanto, ser concedidas licenças de importação, a partir de 1 de Dezembro
+    de 1977, por conta dos contingentes base fixados na lista anexa
+  method: clausula
+  article: n-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -28,6 +28,16 @@ publication:
   pages: 1506 - 1524
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/066a00/15061524.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte ao do depósito do último instrumento de ratificação, aprovação ou aceitação, sob reserva
+    de estarem preenchidas as condições previstas nas alíneas b), c), d) e e) do n.º
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

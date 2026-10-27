@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1061 - 1062
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/044b00/10611062.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-03-23'
+entry_into_force:
+  date: '1995-03-23'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

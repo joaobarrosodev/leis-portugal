@@ -25,6 +25,15 @@ publication:
   pages: 1962 - 1963
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11100/0196201963.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

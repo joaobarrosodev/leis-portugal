@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3750 - 3750
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25800/37503750.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-11-08'
+entry_into_force:
+  date: '1982-11-08'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

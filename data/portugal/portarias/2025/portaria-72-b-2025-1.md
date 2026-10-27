@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 224
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/04202/0000200224.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-01'
+entry_into_force:
+  date: '2025-03-01'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2025-01-01'
+  effects_rule: a 1 de janeiro de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

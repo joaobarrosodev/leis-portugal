@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14 - 56
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00400/0001400056.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-08'
+entry_into_force:
+  date: '2025-01-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-127
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

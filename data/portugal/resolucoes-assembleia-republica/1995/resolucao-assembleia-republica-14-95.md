@@ -23,6 +23,16 @@ publication:
   pages: 1424 - 1457
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título definitivo em 1 de Outubro de 1993 ou em qualquer data posterior, se, nessa data, governos que representem
+    pelo menos cinco países exportadores que detenham pelo menos 80% das exportações tot
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

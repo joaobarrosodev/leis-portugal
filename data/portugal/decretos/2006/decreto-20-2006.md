@@ -24,6 +24,15 @@ publication:
   pages: 5576 - 5593
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15000/55765593.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia a contar da data de depósito do 16.º instrumento de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

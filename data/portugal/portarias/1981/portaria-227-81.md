@@ -23,6 +23,15 @@ publication:
   pages: 575 - 575
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05200/05750575.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir de 16 de Fevereiro do corrente ano
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

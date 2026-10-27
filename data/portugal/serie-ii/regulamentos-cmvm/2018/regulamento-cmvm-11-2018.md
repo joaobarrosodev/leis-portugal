@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 35092-(7) a 35092-(8)
   pdf_url: https://files.diariodarepublica.pt/2s/2018/12/251000001/0000700008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-01'
+entry_into_force:
+  date: '2019-01-01'
+  rule: no dia 1 de janeiro de 2019, aplicando-se a todas as posições que estejam sujeitas ao dever de reporte a partir dessa
+    data, inclusive
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

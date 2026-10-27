@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 581 - 586
   pdf_url: https://files.diariodarepublica.pt/1s/1969/05/12600/05810586.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-07-01'
+entry_into_force:
+  date: '1969-07-01'
+  rule: no dia 1 de Julho de 1969, ficando extinto, a partir dessa data, o Serviço de Construção de Casas Económicas, instituído
+    junto da Direcção-Geral dos Edifícios e Monumentos Nacionais pelo Decreto-Lei n
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

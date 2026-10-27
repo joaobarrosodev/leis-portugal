@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 43-(2) a 43-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20901/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-01'
+entry_into_force:
+  date: '2020-11-01'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2020-10-28'
+  effects_rule: no dia seguinte ao da sua publicação, sem prejuízo da produção de efeitos do disposto no artigo 5.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

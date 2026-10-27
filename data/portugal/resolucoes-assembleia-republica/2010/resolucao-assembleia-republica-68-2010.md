@@ -24,6 +24,16 @@ publication:
   pages: 2563 - 2567
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13400/0256302567.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos
+    de direito interno de ambas as Partes necessários para o efeito
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

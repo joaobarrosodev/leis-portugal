@@ -23,6 +23,15 @@ publication:
   pages: 768-(9) a 768-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início da vigência da Lei n.º 20/78
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1121 - 1123
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/068b00/11211123.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-03-22'
+entry_into_force:
+  date: '2000-03-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

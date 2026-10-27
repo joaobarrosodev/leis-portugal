@@ -27,6 +27,16 @@ publication:
   pages: 7652 - 7653
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/20100/0765207653.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data de recepção pelo Comité, em conformidade com o n.º 2.º do artigo 20.º do Acordo, da última notificação
+    sobre o cumprimento dos procedimentos necessários à sua entrada em vigor, de aco
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

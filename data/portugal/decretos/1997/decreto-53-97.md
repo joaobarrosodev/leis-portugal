@@ -24,6 +24,15 @@ publication:
   pages: 5386 - 5387
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/228a00/53865387.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de cumpridas as formalidades exigidas pela ordem jurídica interna de ambos os países
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

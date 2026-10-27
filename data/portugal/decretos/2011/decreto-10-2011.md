@@ -25,6 +25,16 @@ publication:
   pages: 2487 - 2492
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/08400/0248702492.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após o último Estado membro signatário ter declarado que cumpriu todos os procedimentos internos necessários
+    para a sua adopção
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

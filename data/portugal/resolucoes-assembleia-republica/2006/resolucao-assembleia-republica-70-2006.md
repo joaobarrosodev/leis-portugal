@@ -24,6 +24,16 @@ publication:
   pages: 8492 - 8498
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/24200/84928498.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias a contar da data da notificação referida no n.º 2 pelo Estado, membro da União Europeia à data de aprovação
+    pelo Conselho do acto que estabelece o presente Protocolo, que tenha procedido a ess
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

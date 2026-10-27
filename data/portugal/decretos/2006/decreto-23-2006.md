@@ -24,6 +24,15 @@ publication:
   pages: 7118 - 7143
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia após a data de depósito do 16.º instrumento de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

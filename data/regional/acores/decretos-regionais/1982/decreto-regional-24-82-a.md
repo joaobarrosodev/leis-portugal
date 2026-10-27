@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2609 - 2610
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/20400/26092610.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-09-03'
+entry_into_force:
+  date: '1982-09-03'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-13-o
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

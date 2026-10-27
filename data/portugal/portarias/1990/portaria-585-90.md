@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3085 - 3085
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/17000/30853085.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-09-01'
+entry_into_force:
+  date: '1990-09-01'
+  rule: em 1 de Setembro de 1990
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

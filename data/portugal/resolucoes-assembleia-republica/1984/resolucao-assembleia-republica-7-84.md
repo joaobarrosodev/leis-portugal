@@ -24,6 +24,16 @@ publication:
   pages: 686 - 705
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/05100/06860705.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do dia em que o Secretário-Geral da Organização das Nações Unidas tenha recebido os instrumentos de ratificação
+    ou de adesão de 10 Estados
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 134 - 138
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00500/0013400138.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após as duas Partes se terem mutuamente notificado, por via diplomática, do cumprimento dos requisitos de
+    Direito Interno das Partes necessários para o efeito
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

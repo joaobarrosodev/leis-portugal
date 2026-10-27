@@ -24,6 +24,16 @@ publication:
   pages: 3180 - 3216
   pdf_url: https://files.diariodarepublica.pt/1s/2014/06/11600/0318003216.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia após a data de depósito dos instrumentos de ratificação, aceitação, aprovação ou adesão de todos
+    os Estados que são Partes Consultivas do Tratado para a Antártida à data em que este P
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

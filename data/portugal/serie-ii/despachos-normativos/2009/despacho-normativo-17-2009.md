@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17306 - 17329
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-05-01'
+entry_into_force:
+  date: '2009-05-01'
+  rule: no dia imediato à publicação, salvo no que depender da entrada em funcionamento dos novos órgãos
+  method: clausula
+  article: art-111
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

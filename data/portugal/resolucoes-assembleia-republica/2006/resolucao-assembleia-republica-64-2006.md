@@ -24,6 +24,16 @@ publication:
   pages: 8236 - 8262
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/23400/82368262.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na última das datas em que os Governos respectivos notifiquem, reciprocamente, por escrito, o cumprimento das formalidades
+    constitucionalmente exigidas nos Estados respectivos
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

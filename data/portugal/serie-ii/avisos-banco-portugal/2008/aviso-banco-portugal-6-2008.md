@@ -23,6 +23,15 @@ publication:
   pages: 42500 - 42503
   pdf_url: https://files.diariodarepublica.pt/2s/2008/10/202000000/4250042503.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 31-12-92
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

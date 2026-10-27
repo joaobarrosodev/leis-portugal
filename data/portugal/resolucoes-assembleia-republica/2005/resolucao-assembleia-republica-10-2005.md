@@ -24,6 +24,16 @@ publication:
   pages: 2122 - 2162
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/050a00/21222162.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses depois de 40 Partes Contratantes o terem assinado sem reserva de ratificação ou terem depositado o seu
+    instrumento de ratificação ou de adesão
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

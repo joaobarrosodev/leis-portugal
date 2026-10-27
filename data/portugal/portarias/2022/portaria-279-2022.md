@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22200/0000500008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-18'
+entry_into_force:
+  date: '2022-11-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto-Lei n.º 13/2018, de 26 de fevereiro, na sua redação atual
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

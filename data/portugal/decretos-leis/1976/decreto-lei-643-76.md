@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1813 - 1815
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17700/18131815.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-07-30'
+entry_into_force:
+  date: '1976-07-30'
+  rule: na data da sua publicação, mas o disposto nos artigos 1.º e 7.º é também aplicável às habitações já adquiridas ao
+    abrigo da resolução do Conselho de Ministros ali mencionada
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

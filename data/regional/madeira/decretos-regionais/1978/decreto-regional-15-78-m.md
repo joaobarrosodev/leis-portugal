@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 501 - 502
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/05800/05010502.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-03-11'
+entry_into_force:
+  date: '1978-03-11'
+  rule: no dia seguinte ao da publicação da lei da Assembleia da República sobre a assistência do Estado ao Governo Regional
+    da Madeira na defesa das ilhas Selvagens como reserva natural
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

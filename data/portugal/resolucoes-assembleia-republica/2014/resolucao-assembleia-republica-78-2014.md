@@ -24,6 +24,16 @@ publication:
   pages: 4528 - 4541
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de receção da última notificação, por escrito, através da qual as Partes se informam mutuamente
+    por via diplomática, do cumprimento dos respetivos requisitos de Direito interno nec
+  method: clausula
+  article: art-xxii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

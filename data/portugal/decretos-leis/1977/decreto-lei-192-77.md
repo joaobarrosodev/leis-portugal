@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1036 - 1036
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11100/10361036.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-05-13'
+entry_into_force:
+  date: '1977-05-13'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

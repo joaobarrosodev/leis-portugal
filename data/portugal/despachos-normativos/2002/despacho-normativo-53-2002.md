@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 7530 - 7530
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/279b00/75307530.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-12-04'
+entry_into_force:
+  date: '2002-12-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

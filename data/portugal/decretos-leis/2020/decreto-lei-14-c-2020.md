@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 11-(7) a 11-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06901/0000700010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-08'
+entry_into_force:
+  date: '2020-04-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: '2023-12-31'
+  end_rule: até 31 de dezembro de 2023
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

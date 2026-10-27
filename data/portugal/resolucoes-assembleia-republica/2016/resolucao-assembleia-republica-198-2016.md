@@ -24,6 +24,16 @@ publication:
   pages: 3486 - 3513
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/19300/0348603513.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando os instrumentos de ratificação, aceitação ou aprovação tenham sido depositados por pelo menos 10 signatários
+    cujas subscrições iniciais, conforme estabelecido no anexo A do presente Acordo, com
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

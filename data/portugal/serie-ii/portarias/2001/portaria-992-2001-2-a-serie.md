@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9171 - 9172
   pdf_url: https://files.diariodarepublica.pt/2s/2001/05/125000000/0917109172.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-31'
+entry_into_force:
+  date: '2001-05-31'
+  rule: no dia seguinte ao da publicação no Diário da República da portaria que o homologa
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

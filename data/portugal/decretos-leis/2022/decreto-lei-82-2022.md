@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 109 - 132
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23400/0010900132.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-07'
+entry_into_force:
+  date: '2022-12-07'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-40
+  effects_date: '2025-06-28'
+  effects_rule: a partir de 28 de junho de 2025 relativamente aos produtos colocados no mercado e aos serviços prestados aos
+    consumidores a partir desta data, sem prejuízo do disposto no número seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

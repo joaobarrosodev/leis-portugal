@@ -24,6 +24,16 @@ publication:
   pages: 39-(2) a 39-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03001/0000200016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das 00:00 horas do dia 15 de fevereiro de 2021, cessando às 23:59 horas do dia 1 de março de 2021, sem prejuízo
+    de eventuais prorrogações do estado de emergência
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 1544-(1) a 1544-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/10001/00010023.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do Protocolo no que respeita ao EUROCONTROL, aos Estados membros de EUROCONTROL e aos
+    Estados que tenham depositado os seus instrumentos de ratificação numa data anterior
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

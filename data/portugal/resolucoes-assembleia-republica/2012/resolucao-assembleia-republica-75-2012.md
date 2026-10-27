@@ -24,6 +24,16 @@ publication:
   pages: 2786 - 2806
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/10300/0278602806.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao termo de um período de três meses a contar da data em que cinco signatários, incluindo,
+    pelo menos, três Estados membros do Conselho da Europa, tenham expresso o seu cons
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

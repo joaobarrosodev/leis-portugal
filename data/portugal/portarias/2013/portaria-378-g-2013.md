@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7056-(369) a 7056-(370)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25303/0036900370.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-01'
+entry_into_force:
+  date: '2014-01-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2014-01-01'
+  effects_rule: a partir de 1 de janeiro de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

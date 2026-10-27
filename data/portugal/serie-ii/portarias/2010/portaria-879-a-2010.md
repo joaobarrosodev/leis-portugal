@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 58226-(4) a 58226-(5)
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/231000002/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-01'
+entry_into_force:
+  date: '2010-12-01'
+  rule: no dia 1 de Dezembro de 2010
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

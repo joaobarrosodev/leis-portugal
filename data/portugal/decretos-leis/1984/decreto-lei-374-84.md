@@ -24,6 +24,15 @@ publication:
   pages: 3614 - 3620
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Estatuto dos Tribunais Administrativos e Fiscais, em 1 de Janeiro de 1985
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1381 - 1382
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11700/13811382.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-05-23'
+entry_into_force:
+  date: '1985-05-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

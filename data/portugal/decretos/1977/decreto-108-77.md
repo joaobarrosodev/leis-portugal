@@ -23,6 +23,16 @@ publication:
   pages: 2030 - 2031
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19300/20302031.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e terá a duração fixada para o Acordo de Cooperação Científica e Técnica, do qual faz parte
+    integrante
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 13638 - 13638
   pdf_url: https://files.diariodarepublica.pt/2s/2005/09/182000000/1363813638.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

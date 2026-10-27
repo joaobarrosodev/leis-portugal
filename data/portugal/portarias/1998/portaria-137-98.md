@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 844 - 845
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/053b00/08440845.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-03-04'
+entry_into_force:
+  date: '1998-03-04'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2064-(7) a 2064-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29003/00070007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-12-17'
+entry_into_force:
+  date: '1975-12-17'
+  rule: na data da publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

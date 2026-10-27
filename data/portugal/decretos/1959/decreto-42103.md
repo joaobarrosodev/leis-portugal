@@ -25,7 +25,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/01/01300/00470048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:512225:por#art-7'
+    detail: Fica revogado o [Decreto n.º 42103].
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:512225:por'
+    detail: Revogado pelo(a) Decreto n.º 46669 - Diário do Governo n.º 268/1965, Série I de 1965-11-25
 notes: []
 language: por
 version:

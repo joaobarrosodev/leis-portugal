@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3936-(5) a 3936-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/29901/00050006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-01-01'
+entry_into_force:
+  date: '1985-01-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

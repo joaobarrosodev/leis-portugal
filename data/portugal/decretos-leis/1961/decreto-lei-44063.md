@@ -23,6 +23,15 @@ publication:
   pages: 1497 - 1504
   pdf_url: https://files.diariodarepublica.pt/1s/1961/11/27600/14971504.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no de 1 de Janeiro de 1962
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

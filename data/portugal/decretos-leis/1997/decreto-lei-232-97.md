@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4594 - 4638
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-11-02'
+entry_into_force:
+  date: '1997-11-02'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

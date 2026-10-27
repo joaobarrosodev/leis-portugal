@@ -25,6 +25,16 @@ publication:
   pages: 2936 - 2938
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/075a00/29362938.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação, pela qual uma Parte informa a outra de que se encontram concluídas as necessárias formalidades
+    internas
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

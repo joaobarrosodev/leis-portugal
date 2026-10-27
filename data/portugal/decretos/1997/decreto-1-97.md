@@ -23,6 +23,16 @@ publication:
   pages: 18 - 25
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/002a00/00180025.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao do depósito de todos os instrumentos de ratificação pelos Estados membros, bem como
+    dos actos de notificação da celebração pelas Comunidades Europeias
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

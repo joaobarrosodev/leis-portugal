@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 9 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03200/0000900010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-15'
+entry_into_force:
+  date: '2025-02-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2025-02-14'
+  effects_rule: à data da publicação da Portaria n.º 185/2024/1, de 14 de agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

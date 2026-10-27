@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 136 - 150
   pdf_url: https://files.diariodarepublica.pt/1s/1972/02/03000/01360150.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-04-01'
+entry_into_force:
+  date: '1972-04-01'
+  rule: em 1 de Abril de 1972
+  method: clausula
+  article: art-97
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

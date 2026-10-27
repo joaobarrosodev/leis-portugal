@@ -23,6 +23,15 @@ publication:
   pages: 58 - 58
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/10900/0005800058.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

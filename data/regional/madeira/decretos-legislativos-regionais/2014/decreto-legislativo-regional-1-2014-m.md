@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2236 - 2237
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/06100/0223602237.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-03-28'
+entry_into_force:
+  date: '2014-03-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto Legislativo Regional n.º 22/2007/M, de 7 de dezembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

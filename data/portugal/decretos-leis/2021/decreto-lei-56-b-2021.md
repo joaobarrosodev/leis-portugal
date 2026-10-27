@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 258-(2) a 258-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13001/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-12'
+entry_into_force:
+  date: '2021-07-12'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2021-07-01'
+  effects_rule: a 1 de julho de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6222-(2) a 6222-(1049)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-21'
+entry_into_force:
+  date: '2015-08-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 940 - 940
   pdf_url: https://files.diariodarepublica.pt/1s/1972/07/17200/09400940.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-07-01'
+entry_into_force:
+  date: '1972-07-01'
+  rule: no dia 1 de Julho de 1972 e os encargos resultantes serão satisfeitos pelas disponibilidades das verbas destinadas
+    a pessoal dos quadros da Guarda Nacional Republicana e da Polícia de Segurança Públic
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

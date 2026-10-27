@@ -24,6 +24,15 @@ publication:
   pages: 5147 - 5154
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/16300/0514705154.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia de entrada em vigor da Lei n.º 23/2013, de 5 de março
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

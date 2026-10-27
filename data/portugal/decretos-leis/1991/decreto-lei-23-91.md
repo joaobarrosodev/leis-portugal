@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 152 - 160
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/009a00/01520160.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-01-12'
+entry_into_force:
+  date: '1991-01-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: no que respeita à nova estrutura salarial, desde 1 de Outubro de 1989
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

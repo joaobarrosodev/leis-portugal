@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17-(2) a 17-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16501/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-27'
+entry_into_force:
+  date: '2022-08-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

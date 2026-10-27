@@ -24,6 +24,15 @@ publication:
   pages: 10 - 59
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da sua aprovação
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

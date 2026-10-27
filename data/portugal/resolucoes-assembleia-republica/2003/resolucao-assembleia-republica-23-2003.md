@@ -24,6 +24,16 @@ publication:
   pages: 2082 - 2104
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/077a00/20822104.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a recepção da última notificação por escrito das Partes sobre o cumprimento das formalidades internas
+    necessárias para a sua entrada em vigor
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

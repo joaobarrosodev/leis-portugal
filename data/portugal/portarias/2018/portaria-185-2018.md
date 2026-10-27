@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2632 - 2633
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/12100/0263202633.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-01'
+entry_into_force:
+  date: '2018-10-01'
+  rule: no dia 1 de outubro de 2018
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

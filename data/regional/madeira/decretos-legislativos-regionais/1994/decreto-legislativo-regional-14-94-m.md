@@ -24,6 +24,15 @@ publication:
   pages: 2934 - 2936
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/128a00/29342936.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

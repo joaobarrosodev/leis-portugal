@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 75 - 93
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13400/0007500093.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-09-11'
+entry_into_force:
+  date: '2021-09-11'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

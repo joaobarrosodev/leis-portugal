@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 3740-(1) a 3740-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28201/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-12-07'
+entry_into_force:
+  date: '1984-12-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

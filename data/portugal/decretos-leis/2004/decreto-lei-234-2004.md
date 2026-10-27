@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 7112 - 7116
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/292a00/71127116.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-01-14'
+entry_into_force:
+  date: '2005-01-14'
+  rule: 30 dias a contar da data da sua publicação e não se aplica aos procedimentos iniciados em data anterior à da sua entrada
+    em vigor
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

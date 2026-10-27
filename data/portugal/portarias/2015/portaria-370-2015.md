@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 9115 - 9116
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20500/0911509116.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-21'
+entry_into_force:
+  date: '2015-10-21'
+  rule: no dia seguinte ao da sua publicação, aplicando-se à entrega da IES/DA que vier a ocorrer a partir de 2016, após a
+    publicação da portaria dos membros do Governo responsáveis pelas áreas das finanças e
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

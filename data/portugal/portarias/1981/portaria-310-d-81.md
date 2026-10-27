@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 812-(7) a 812-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/07502/00070008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-04-01'
+entry_into_force:
+  date: '1981-04-01'
+  rule: no dia 1 de Abril de 1981
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

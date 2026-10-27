@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6160 - 6164
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16100/0616006164.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-20'
+entry_into_force:
+  date: '2015-08-20'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto no artigo 18.º, e no número seguinte
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

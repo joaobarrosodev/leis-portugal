@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2172 - 2173
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/06000/0217202173.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-03-31'
+entry_into_force:
+  date: '2014-03-31'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2014-03-26'
+  effects_rule: a partir da data da sua publicação, caducando automaticamente decorridos três anos
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

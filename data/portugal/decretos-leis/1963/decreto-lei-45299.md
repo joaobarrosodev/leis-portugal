@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1612 - 1613
   pdf_url: https://files.diariodarepublica.pt/1s/1963/10/23700/16121613.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1964-04-01'
+entry_into_force:
+  date: '1964-04-01'
+  rule: no dia 1 de Abril de 1964 para os automóveis pesados e no dia 1 de Outubro de 1964 para os automóveis ligeiros
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

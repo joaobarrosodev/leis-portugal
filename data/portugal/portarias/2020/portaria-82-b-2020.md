@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 463-(2) a 463-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/06401/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-01'
+entry_into_force:
+  date: '2020-04-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: '2020-03-18'
+  effects_rule: a 18 de março de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 11 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/04800/0001100014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-11'
+entry_into_force:
+  date: '2021-03-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: '2021-12-31'
+  effects_rule: até 31 de dezembro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

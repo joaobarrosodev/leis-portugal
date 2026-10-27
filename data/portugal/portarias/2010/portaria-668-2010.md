@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3341 - 3349
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15500/0334103349.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-08-12'
+entry_into_force:
+  date: '2010-08-12'
+  rule: no dia seguinte ao da sua publicação, ficando revogados nos termos das alíneas m) e aaa) do artigo 23.º e do n.º 2
+    do artigo 24.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, o Decreto-Lei n.º 10/92,
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

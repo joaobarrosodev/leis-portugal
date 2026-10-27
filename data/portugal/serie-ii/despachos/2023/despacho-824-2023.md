@@ -23,6 +23,15 @@ publication:
   pages: 100 - 109
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/012000000/0010000109.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo 2022/2023
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

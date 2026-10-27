@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1185 - 1189
   pdf_url: https://files.diariodarepublica.pt/1s/1961/09/21100/11851189.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1961-09-01'
+entry_into_force:
+  date: '1961-09-01'
+  rule: no dia 1 de Setembro de 1961
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

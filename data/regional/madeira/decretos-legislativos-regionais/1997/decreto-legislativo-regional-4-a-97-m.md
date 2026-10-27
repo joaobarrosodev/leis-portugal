@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1790-(2) a 1790-(59)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/093a01/00020059.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-04-21'
+entry_into_force:
+  date: '1997-04-21'
+  rule: na data da sua publicação, integrando o Orçamento por ele aprovado a parte do orçamento que tenha sido executada nos
+    termos do artigo 15.º da Lei n.º 28/92, de 1 de Setembro (Lei de Enquadramento do O
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

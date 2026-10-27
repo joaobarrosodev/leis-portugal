@@ -24,6 +24,16 @@ publication:
   pages: 8619 - 8634
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/22500/0861908634.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data na qual a República Portuguesa e o Reino de Espanha se notifiquem, por escrito e por via diplomática,
+    de que concluíram os seus requisitos constitucionais necessários para a manife
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

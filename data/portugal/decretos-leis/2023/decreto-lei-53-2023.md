@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 6 - 29
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/12900/0000600029.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-06'
+entry_into_force:
+  date: '2023-07-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: '2023-05-01'
+  effects_rule: desde 1 de maio de 2023 e aplica-se às situações jurídicas prestacionais em curso, sem prejuízo do disposto
+    no número seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

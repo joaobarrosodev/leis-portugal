@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1919/05/10501/1426I1426OO.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:536382:por#art-8'
+    detail: É revogado o [Decreto n.º 5847-C], de 31 de Março de 1919.
 notes: []
 language: por
 version:

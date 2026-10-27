@@ -24,6 +24,16 @@ publication:
   pages: 35 - 71
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22600/0003500071.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data de receção da última notificação escrita, por via diplomática, através da qual
+    as Partes tenham notificado mutuamente ter concluído os procedimentos para a entrad
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 6077 - 6079
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/253a00/60776079.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna em cada um dos
+    países e será válido por um período de três anos, automaticamente prorrogável, podendo
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

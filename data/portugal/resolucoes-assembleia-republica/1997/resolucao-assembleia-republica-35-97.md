@@ -26,6 +26,16 @@ publication:
   pages: 2610 - 2613
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/124a00/26102613.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte ao do depósito dos instrumentos de ratificação, aprovação ou aceitação pelos Estados
+    para os quais a Convenção de 1990 tenha entrado em vigor e pela República da Áustria
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

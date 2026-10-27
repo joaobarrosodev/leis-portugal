@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1006 - 1006
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/05500/10061006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-03-08'
+entry_into_force:
+  date: '1989-03-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: no tocante às alterações dos quadros de pessoal nele estabelecidas, desde 14 de Dezembro de 1987, data do
+    início da vigência da Portaria n.º 929/87, de 9 de Dezembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

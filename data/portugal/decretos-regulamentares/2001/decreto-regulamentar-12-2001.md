@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3872 - 3875
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/148b00/38723875.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-01'
+entry_into_force:
+  date: '2001-07-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

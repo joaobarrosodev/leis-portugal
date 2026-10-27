@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9008 - 9010
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/051000000/0900809010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-10'
+entry_into_force:
+  date: '2016-03-10'
+  rule: no dia 10 de março de 2016
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

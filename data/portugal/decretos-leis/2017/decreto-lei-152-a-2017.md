@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6584-(2) a 6584-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23601/0000200012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-10'
+entry_into_force:
+  date: '2018-01-10'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 10-(4) a 10-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05801/0000400010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-24'
+entry_into_force:
+  date: '2020-03-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: desde o dia 20 de março e até à data de cessação das medidas de prevenção, contenção, mitigação e tratamento
+    da infeção epidemiológica do SARS-Cov2 e da doença COVID-19, conforme determinada pela auto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

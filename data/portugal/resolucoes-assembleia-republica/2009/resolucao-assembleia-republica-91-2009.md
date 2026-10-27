@@ -24,6 +24,16 @@ publication:
   pages: 6415 - 6421
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17900/0641506421.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao termo de um período de três meses após a data em que cinco Estados tenham manifestado
+    o seu consentimento em ficarem vinculados pelo presente Protocolo, em conformidade c
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

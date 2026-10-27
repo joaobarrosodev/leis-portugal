@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 45 - 48
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16600/0004500048.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-27'
+entry_into_force:
+  date: '2021-08-27'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: reportados à data de entrada em vigor do Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

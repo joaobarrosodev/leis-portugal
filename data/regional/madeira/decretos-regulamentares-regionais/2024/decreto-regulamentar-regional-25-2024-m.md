@@ -22,9 +22,29 @@ publication:
   supplement: null
   pages: 21 - 25
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19900/0002100025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-15'
+entry_into_force:
+  date: '2024-10-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1074104068:por#art-9'
+    detail: É revogado o [Decreto Regulamentar Regional n.º 25/2024/M], de 14 de outubro.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1074104068:por'
+    detail: Revogado, a partir de 20 de março de 2026, pelo(a) Decreto Regulamentar Regional n.º 8/2026/M - Diário da República
+      n.º 55/2026, Série I de 2026-03-19 nos termos do artigo 9.º deste
 notes: []
 language: por
 version:

@@ -24,6 +24,16 @@ publication:
   pages: 3912 - 3928
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/13800/0391203928.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da assinatura relativamente aos Estados que tenham ratificado ou aderido à Convenção e onde esta esteja em
+    vigor
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

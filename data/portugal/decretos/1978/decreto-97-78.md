@@ -23,6 +23,16 @@ publication:
   pages: 1905 - 1910
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21100/19051910.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da última das notificações que se façam as Partes Contratantes de terem cumprido as formalidades
+    legais internas exigidas para tal fim
+  method: clausula
+  article: art-xviii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

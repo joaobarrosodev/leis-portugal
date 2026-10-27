@@ -24,6 +24,15 @@ publication:
   pages: 779 - 789
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/055a00/07790789.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: definitivamente no 1.º dia do 2.º mês a seguir à data da troca dos instrumentos de ratificação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

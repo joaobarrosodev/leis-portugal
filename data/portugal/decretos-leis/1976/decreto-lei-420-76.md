@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1210 - 1210
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12500/12101210.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-05-28'
+entry_into_force:
+  date: '1976-05-28'
+  rule: na data da publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

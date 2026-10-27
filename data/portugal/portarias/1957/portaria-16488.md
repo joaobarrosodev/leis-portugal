@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1957/11/27100/12561256.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:313229:por#n-7'
+    detail: Esta portaria revoga a [Portaria n.º 16488], de 29 de Novembro de 1957.
 notes: []
 language: por
 version:

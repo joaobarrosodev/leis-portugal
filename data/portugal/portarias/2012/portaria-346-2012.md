@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6225 - 6226
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20900/0622506226.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-10-30'
+entry_into_force:
+  date: '2012-10-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '2012-07-17'
+  effects_rule: desde o dia 17 de julho de 2012
+  end_date: null
+  end_rule: pelo prazo de um ano, contado desde o dia 17 de julho de 2012
 end_of_validity_date: null
 legal_status: in_force
 notes: []

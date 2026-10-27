@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3297 - 3300
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/23400/32973300.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-10-19'
+entry_into_force:
+  date: '1982-10-19'
+  rule: 10 dias após a sua publicação no Diário da República
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

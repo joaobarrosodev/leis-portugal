@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 497 - 499
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/07600/04970499.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-06-15'
+entry_into_force:
+  date: '1973-06-15'
+  rule: no dia 15 de Junho de 1973, com excepção do artigo 12.º, que entrará imediatamente
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

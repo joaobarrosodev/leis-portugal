@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 29304-(2) a 29304-(10)
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/199000001/0000200010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-13'
+entry_into_force:
+  date: '2015-10-13'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

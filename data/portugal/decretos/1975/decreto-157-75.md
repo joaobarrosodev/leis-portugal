@@ -23,6 +23,16 @@ publication:
   pages: 458 - 466
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07200/04580466.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'três meses depois de cinco dos Estados mencionados no parágrafo 1 do artigo 17.º da presente Convenção a terem assinado
+    sem reserva de ratificação ou terem depositado o seu instrumento de ratificação '
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

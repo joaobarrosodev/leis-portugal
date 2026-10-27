@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1717 - 1718
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/06200/0171701718.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-03-31'
+entry_into_force:
+  date: '2015-03-31'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: '2015-01-01'
+  effects_rule: desde 1 de janeiro de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

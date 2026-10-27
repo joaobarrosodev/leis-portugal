@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06700/0000300009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-01'
+entry_into_force:
+  date: '2025-05-01'
+  rule: no dia 1 de maio de 2025
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: 'a partir da extinção do mandato da equipa de instalação do Arquivo Nacional do Som, nos termos do n.º 11
+    da Resolução do Conselho de Ministros n.º 36/2019, de 18 de fevereiro, na sua redação atual:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

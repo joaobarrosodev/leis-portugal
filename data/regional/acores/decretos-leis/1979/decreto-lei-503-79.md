@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3320 - 3321
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29500/33203321.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-09-01'
+entry_into_force:
+  date: '1979-09-01'
+  rule: no dia 1 de Setembro de 1979
+  method: clausula
+  article: art-22
+  effects_date: '1979-08-25'
+  effects_rule: desde 25 de Agosto de 1979
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

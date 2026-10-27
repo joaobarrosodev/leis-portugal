@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 778 - 778
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03000/0077800778.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-13'
+entry_into_force:
+  date: '2013-02-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2013-01-01'
+  effects_rule: a 1 de janeiro de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

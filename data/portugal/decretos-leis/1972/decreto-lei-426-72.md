@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1576-(4) a 1576-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/10/25401/00040008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-01-01'
+entry_into_force:
+  date: '1973-01-01'
+  rule: em 1 de Janeiro de 1973
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

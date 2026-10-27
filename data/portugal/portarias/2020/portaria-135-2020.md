@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 214
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/10700/0000200214.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-01'
+entry_into_force:
+  date: '2020-08-01'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

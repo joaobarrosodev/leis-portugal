@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3516 - 3517
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/233a00/35163517.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-11-07'
+entry_into_force:
+  date: '1996-11-07'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

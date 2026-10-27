@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1348 - 1353
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/072a00/13481353.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-04-01'
+entry_into_force:
+  date: '1997-04-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

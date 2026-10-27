@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2933 - 2934
   pdf_url: https://files.diariodarepublica.pt/1s/1984/09/22300/29332934.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-09-26'
+entry_into_force:
+  date: '1984-09-26'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

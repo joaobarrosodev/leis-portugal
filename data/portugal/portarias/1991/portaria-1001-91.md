@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5102 - 5103
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/227b00/51025103.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-10-03'
+entry_into_force:
+  date: '1991-10-03'
+  rule: no dia imediato ao da sua publicação, retroagindo os seus efeitos à data de 23 de Julho de 1991, sem prejuízo da aplicação
+    do regime transitório fixado na alínea c) do n.º 1 do artigo 6.º do Decreto-L
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

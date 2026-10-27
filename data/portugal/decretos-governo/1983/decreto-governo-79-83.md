@@ -23,6 +23,16 @@ publication:
   pages: 3604-(1) a 3604-(196)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: doze meses depois da data em que se tenham tornado partes desta Convenção, de acordo com o artigo IX, pelo menos,
+    vinte e cinco Estados cujas frotas mercantes representem, no total, pelo menos, 50% da
+  method: clausula
+  article: art-x
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

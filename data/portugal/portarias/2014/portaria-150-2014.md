@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4024 - 4027
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/14500/0402404027.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-08-29'
+entry_into_force:
+  date: '2014-08-29'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 15 - 28
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/08500/0001500028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-04'
+entry_into_force:
+  date: '2021-05-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: '2021-01-01'
+  effects_rule: desde 1 de janeiro de 2021, salvo se disposto em contrário nos artigos antecedentes, e até à entrada em vigor
+    do decreto regulamentar de execução orçamental para 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

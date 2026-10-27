@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 330-(10) a 330-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/016b02/00100011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-01-19'
+entry_into_force:
+  date: '1995-01-19'
+  rule: na data da sua publicação e é aplicável aos filmes nacionais ou equiparáveis, estreados comercialmente a partir de
+    1 de Janeiro de 1995
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

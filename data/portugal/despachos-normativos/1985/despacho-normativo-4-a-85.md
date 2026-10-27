@@ -25,6 +25,16 @@ publication:
   pages: 72-(2) a 72-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01001/00020003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no continente no dia imediato ao da sua publicação e nas Regiões Autónomas dos Açores e da Madeira nos 30 dias após
+    a mesma data
+  method: clausula
+  article: n-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

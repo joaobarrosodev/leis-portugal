@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 148 - 150
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/118000000/0014800150.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-30'
+entry_into_force:
+  date: '2021-06-30'
+  rule: no dia 30 de junho de 2021
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

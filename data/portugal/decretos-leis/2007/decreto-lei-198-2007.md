@@ -27,7 +27,18 @@ publication:
   supplement: null
   pages: 3254 - 3325
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-17'
+entry_into_force:
+  date: '2007-05-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: desde a entrada em vigor do Regulamento Relativo à Compatibilidade Electromagnética dos Automóveis, aprovado
+    pelo Decreto-Lei n.º 237/2006, de 14 de Dezembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

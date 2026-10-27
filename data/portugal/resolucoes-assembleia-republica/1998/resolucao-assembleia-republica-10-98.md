@@ -25,6 +25,15 @@ publication:
   pages: 1193 - 1195
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/066a00/11931195.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após a data da última notificação do cumprimento das formalidades exigidas por cada uma das Partes
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

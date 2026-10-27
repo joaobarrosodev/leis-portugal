@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 194 - 197
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17200/0019400197.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-14'
+entry_into_force:
+  date: '2019-09-14'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: após a data de entrada em vigor do despacho a que se refere o artigo 2.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

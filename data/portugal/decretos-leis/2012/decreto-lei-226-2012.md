@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5929 - 5930
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20200/0592905930.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-16'
+entry_into_force:
+  date: '2013-01-16'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

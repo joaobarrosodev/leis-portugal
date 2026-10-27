@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2202 - 2205
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/116a00/22022205.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-07-18'
+entry_into_force:
+  date: '2000-07-18'
+  rule: 60 dias após a data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05700/0000400008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-21'
+entry_into_force:
+  date: '2020-03-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2020-05-01'
+  effects_rule: a partir de 1 de maio de 2020, devendo as instruções agora aprovadas ser utilizadas no preenchimento da declaração
+    modelo 30 a entregar nesse mês e seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

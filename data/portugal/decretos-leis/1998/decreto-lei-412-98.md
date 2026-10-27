@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7257 - 7264
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/300a00/72577264.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-12-31'
+entry_into_force:
+  date: '1998-12-31'
+  rule: no dia seguinte ao da sua publicação, produzindo todos os efeitos remuneratórios à data de 1 de Julho de 1998
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

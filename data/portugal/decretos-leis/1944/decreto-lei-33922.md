@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1944/09/19700/08880900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:222392:por#art-19'
+    detail: Fica revogada a legislação em contrário, nomeadamente o Decreto com força de lei n.º 12757, de 2 de Dezembro de
+      1926, o [Decreto n.º 16728], de 13 de Abril de 1929, o [Decreto-Lei n.º 33922], de 5 de Setembro de 1944, a [Lei n.º
+      2035], de 30 de Julho de 1949, e os artigos 5.º, n.º 4, alínea c), e 8.
 notes: []
 language: por
 version:

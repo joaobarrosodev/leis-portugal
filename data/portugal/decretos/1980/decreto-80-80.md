@@ -23,6 +23,16 @@ publication:
   pages: 2643 - 2645
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21200/26432645.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e manter-se-á válido por um ano, e será automaticamente prorrogado por períodos de um ano,
+    a menos que seja denunciado, por escrito, por qualquer das Partes Contratantes, med
+  method: clausula
+  article: art-ix
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

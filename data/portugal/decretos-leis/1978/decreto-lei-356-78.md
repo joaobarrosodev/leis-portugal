@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2489 - 2490
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27200/24892490.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-11-26'
+entry_into_force:
+  date: '1978-11-26'
+  rule: no dia imediato ao da sua publicação e revoga o Decreto-Lei n.º 363/76, de 14 de Maio
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

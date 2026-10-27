@@ -24,6 +24,15 @@ publication:
   pages: 3114 - 3119
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/145a00/31143119.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia a partir da data em que for depositado o 7.º instrumento de ratificação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5206 - 5226
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/262a00/52065226.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-03-01'
+entry_into_force:
+  date: '1993-03-01'
+  rule: no dia 1 de Março de 1993, excepto o capítulo VIII e os artigos 101.º e 104.º, que
+  method: clausula
+  article: art-144
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

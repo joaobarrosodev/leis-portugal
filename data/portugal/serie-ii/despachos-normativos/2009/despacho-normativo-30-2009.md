@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 34473 - 34479
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-08-26'
+entry_into_force:
+  date: '2009-08-26'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

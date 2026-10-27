@@ -24,6 +24,16 @@ publication:
   pages: 892 - 910
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/02300/08920910.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: entre cada Estado que seja Parte na presente Convenção e uma organização especializada quando se tiver tornado aplicável
+    a essa organização nos termos do disposto na secção 37 e o Estado que seja Part
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

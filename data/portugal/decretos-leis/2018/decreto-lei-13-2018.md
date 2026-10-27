@@ -24,6 +24,15 @@ publication:
   pages: 1077 - 1085
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/04000/0107701085.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação, sem prejuízo do disposto no artigo 43.º
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

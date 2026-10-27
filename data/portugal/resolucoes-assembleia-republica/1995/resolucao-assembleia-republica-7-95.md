@@ -24,6 +24,17 @@ publication:
   pages: 732 - 741
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/032a00/07320741.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: '30 dias após a sua assinatura por seis Estados, não sendo tal assinatura sujeita a ratificação, aceitação ou aprovação,
+    ou 30 dias após a data de depósito dos respectivos instrumentos de ratificação, '
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: relativamente aos Estados que o assinaram sem que a sua assinatura tenha sido sujeita a ratificação, aceitação
+    ou aprovação ou relativamente aos Estados que tenham depositado os respectivos instrument
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

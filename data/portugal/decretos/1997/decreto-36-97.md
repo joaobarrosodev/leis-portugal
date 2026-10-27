@@ -24,6 +24,16 @@ publication:
   pages: 3632 - 3635
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/164a00/36323635.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que ambas as Partes Contratantes tiverem notificado uma à outra, por escrito, do cumprimento
+    dos respectivos procedimentos constitucionais internos
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

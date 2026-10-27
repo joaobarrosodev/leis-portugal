@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2524-(1) a 2524-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/25901/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-11-06'
+entry_into_force:
+  date: '1976-11-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

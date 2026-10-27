@@ -25,6 +25,16 @@ publication:
   pages: 769 - 779
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/05600/07690779.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca dos respectivos instrumentos de ratificação e manter-se-á válido até que uma das partes manifeste
+    à outra a intenção de o denunciar
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 439 - 443
   pdf_url: https://files.diariodarepublica.pt/1s/1969/04/09800/04390443.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a data em que três Estados membros do Conselho, em conformidade com as disposições do artigo 8.º, tenham
+    assinado o Acordo sem reserva de ratificação, ou tenham depositado os respectivos i
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

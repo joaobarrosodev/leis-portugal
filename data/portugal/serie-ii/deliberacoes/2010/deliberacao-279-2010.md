@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5179 - 5198
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/022000000/0517905198.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-02-02'
+entry_into_force:
+  date: '2010-02-02'
+  rule: na data da sua publicação no Diário da República, após aprovação nos termos do disposto na legislação em vigor
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 34 - 46
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24900/0003400046.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-29'
+entry_into_force:
+  date: '2022-12-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: na data de produção de efeitos do Decreto-Lei n.º 38/2022, de 30 de maio
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

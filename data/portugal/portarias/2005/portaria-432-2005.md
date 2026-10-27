@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3024 - 3024
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/076b00/30243024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-04-24'
+entry_into_force:
+  date: '2005-04-24'
+  rule: no 5.º dia após a sua publicação no Diário da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

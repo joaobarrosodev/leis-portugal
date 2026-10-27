@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1636 - 1637
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09700/16361637.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-05-02'
+entry_into_force:
+  date: '1988-05-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1987-01-01'
+  effects_rule: desde 1 de Janeiro de 1987
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 6891 - 6891
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/260b00/68916891.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a entrada em vigor do Decreto-Lei n.º 248/95, de 21 de Setembro
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

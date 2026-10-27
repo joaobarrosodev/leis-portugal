@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 44 - 44
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/00800/00440044.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-02-10'
+entry_into_force:
+  date: '1983-02-10'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

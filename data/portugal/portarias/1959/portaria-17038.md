@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/02/03600/01960197.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:514006:por#n-11'
+    detail: 11.º Fica revogada a [Portaria n.º 17038], de 12 de Fevereiro de 1959.
 notes: []
 language: por
 version:

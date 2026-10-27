@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3 - 30
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19700/0000300030.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-11-01'
+entry_into_force:
+  date: '2023-11-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: na data de entrada em vigor da Lei do Orçamento do Estado para 2024, sem prejuízo do disposto no artigo 16.º,
+    que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

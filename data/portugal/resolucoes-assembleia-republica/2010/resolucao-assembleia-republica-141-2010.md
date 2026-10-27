@@ -23,6 +23,15 @@ publication:
   pages: 5973 - 5989
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25100/0597305989.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 6.º mês seguinte ao do depósito do 30.º instrumento de ratificação, aprovação, aceitação ou adesão
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

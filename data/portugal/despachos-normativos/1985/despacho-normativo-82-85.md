@@ -24,6 +24,15 @@ publication:
   pages: 2788 - 2790
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/19700/27882790.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início da quinzena imediata à sua publicação
+  method: clausula
+  article: n-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

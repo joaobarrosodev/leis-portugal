@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3907 - 3911
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/256b00/39073911.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-11-05'
+entry_into_force:
+  date: '1996-11-05'
+  rule: na data da sua publicação no Diário da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1024 - 1026
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/043a00/10241026.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês a seguir à data na qual todos os Estados referidos no artigo VI deste Protocolo tenham depositado
+    os seus instrumentos de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-ix
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

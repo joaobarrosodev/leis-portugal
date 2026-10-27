@@ -24,6 +24,16 @@ publication:
   pages: 7 - 48
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15300/0000700048.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos do disposto no n.º 6 do presente artigo, no primeiro dia do mês seguinte ao termo de um período de doze
+    meses após a data de depósito do décimo instrumento de ratificação, aceitação, aprova
+  method: clausula
+  article: art-99
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

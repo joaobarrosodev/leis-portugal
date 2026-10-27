@@ -24,6 +24,15 @@ publication:
   pages: 1522 - 1524
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/22700/15221524.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca das respectivas notificações
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3195 - 3196
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/126a00/31953196.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-06-01'
+entry_into_force:
+  date: '2001-06-01'
+  rule: no dia imediato ao da sua publicação, sem prejuízo de serem revistas as pensões já fixadas, mediante requerimento
+    dos interessados, desde que tenham sido aposentados com fundamento em incapacidade res
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

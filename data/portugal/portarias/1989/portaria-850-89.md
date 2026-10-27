@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4306 - 4306
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22400/43064306.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-09-01'
+entry_into_force:
+  date: '1989-09-01'
+  rule: a partir de 1 de Setembro de 1989
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2082 - 2082
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/20400/20822082.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-08-31'
+entry_into_force:
+  date: '1976-08-31'
+  rule: na data da publicação dos mapas de pessoal dos Centros agora criados
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

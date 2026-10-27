@@ -25,6 +25,16 @@ publication:
   pages: 3281 - 3282
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/09800/0328103282.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'na data da entrada em vigor da portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da
+    Administração Pública, da administração local e da educação, que proceda à revisão do '
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

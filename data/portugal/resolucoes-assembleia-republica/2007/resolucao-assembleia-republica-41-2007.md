@@ -24,6 +24,16 @@ publication:
   pages: 5810 - 5811
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16500/0581005811.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos
+    de direito das Partes necessários para o efeito
+  method: clausula
+  article: art-2
+  effects_date: '2007-01-01'
+  effects_rule: a partir do dia 1 de Janeiro de 2007
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

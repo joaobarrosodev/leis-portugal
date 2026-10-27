@@ -23,6 +23,15 @@ publication:
   pages: 26469 - 26474
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/162000000/2646926474.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2013/2014
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

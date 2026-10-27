@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4958 - 4959
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/247b00/49584959.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-10-31'
+entry_into_force:
+  date: '1992-10-31'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1992-11-01'
+  effects_rule: a partir do dia 1 do mês seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

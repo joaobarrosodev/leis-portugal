@@ -23,6 +23,15 @@ publication:
   pages: 5230 - 5231
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/232a00/52305231.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo de 1991-1992, inclusive
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

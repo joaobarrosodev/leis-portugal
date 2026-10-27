@@ -24,6 +24,15 @@ publication:
   pages: '2634'
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2006/11/30/31359428.rtf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na Região Autónoma dos Açores às zero horas do dia 1 de
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

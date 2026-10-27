@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4583 - 4586
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/203a00/45834586.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-09-08'
+entry_into_force:
+  date: '1997-09-08'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: quando todos os Estados membros tiverem notificado o Secretariado-Geral do Conselho do cumprimento das formalidades
+    internas necessárias à aplicação da presente decisão
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

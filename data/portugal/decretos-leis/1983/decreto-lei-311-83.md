@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2395 - 2396
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/14900/23952396.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-01-01'
+entry_into_force:
+  date: '1984-01-01'
+  rule: no dia 1 de Janeiro de 1984, mas os serviços elaborarão até 15 de Novembro do ano corrente o seu orçamento de despesas
+    para o ano seguinte e remetê-lo-ão ao Gabinete de Gestão Financeira do Ministério
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

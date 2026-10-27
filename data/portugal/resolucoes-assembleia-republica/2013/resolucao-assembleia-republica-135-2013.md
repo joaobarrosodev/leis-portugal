@@ -24,6 +24,16 @@ publication:
   pages: 5729 - 5752
   pdf_url: https://files.diariodarepublica.pt/1s/2013/09/17700/0572905752.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de um mês a contar da data da última nota diplomática trocada entre as Partes confirmando a conclusão de
+    todos os procedimentos necessários
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

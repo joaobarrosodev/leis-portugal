@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2162 - 2167
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/095a00/21622167.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-04-24'
+entry_into_force:
+  date: '1999-04-24'
+  rule: 'no dia seguinte ao da sua publicação, ficando ressalvados todos os regimes já celebrados ou que venham a ser celebrados
+    na sequência de aviso já lançado, sem prejuízo de aplicação àqueles regimes das '
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

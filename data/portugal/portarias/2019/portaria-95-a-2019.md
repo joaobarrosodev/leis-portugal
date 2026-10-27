@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1788-(2) a 1788-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/06301/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-03'
+entry_into_force:
+  date: '2019-04-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 337-C/2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

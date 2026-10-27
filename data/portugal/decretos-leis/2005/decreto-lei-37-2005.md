@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1208 - 1209
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/034a00/12081209.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-04-01'
+entry_into_force:
+  date: '2005-04-01'
+  rule: no dia 1 de Abril de 2005
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

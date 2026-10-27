@@ -24,6 +24,15 @@ publication:
   pages: 3240 - 3242
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/09700/0324003242.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

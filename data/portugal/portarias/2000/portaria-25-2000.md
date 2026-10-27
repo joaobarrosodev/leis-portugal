@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 331 - 335
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/021b00/03310335.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-01-27'
+entry_into_force:
+  date: '2000-01-27'
+  rule: no dia imediatamente a seguir ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

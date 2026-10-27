@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1314-(5) a 1314-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16102/00050006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-08-14'
+entry_into_force:
+  date: '1978-08-14'
+  rule: trinta dias após a sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

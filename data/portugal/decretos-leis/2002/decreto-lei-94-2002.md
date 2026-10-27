@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3567 - 3568
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/086a00/35673568.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-04-13'
+entry_into_force:
+  date: '2002-04-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

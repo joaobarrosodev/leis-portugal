@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 53-(2) a 53-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15701/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-14'
+entry_into_force:
+  date: '2020-08-14'
+  rule: a 14 de agosto de 2020
+  method: clausula
+  article: art-3
+  effects_date: '2020-08-14'
+  effects_rule: a 14 de agosto de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

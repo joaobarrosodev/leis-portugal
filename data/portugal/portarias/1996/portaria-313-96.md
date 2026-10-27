@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2152 - 2155
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/174b00/21522155.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-07-30'
+entry_into_force:
+  date: '1996-07-30'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

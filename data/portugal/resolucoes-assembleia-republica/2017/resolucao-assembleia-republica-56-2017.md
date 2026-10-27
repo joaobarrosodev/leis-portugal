@@ -24,6 +24,16 @@ publication:
   pages: 1680 - 1683
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06500/0168001683.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data da notificação recíproca, por via diplomática, do cumprimento dos respectivos procedimentos
+    legais internos de cada uma das Partes
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

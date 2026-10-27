@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4104 - 4105
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/171a00/41044105.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-07-27'
+entry_into_force:
+  date: '1994-07-27'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

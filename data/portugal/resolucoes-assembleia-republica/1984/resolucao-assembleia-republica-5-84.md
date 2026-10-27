@@ -23,6 +23,15 @@ publication:
   pages: 517 - 521
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/04000/05170521.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia seguinte à data do depósito do segundo instrumento de ratificação previsto no artigo anterior
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

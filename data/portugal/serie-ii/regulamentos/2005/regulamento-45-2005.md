@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8626 - 8627
   pdf_url: https://files.diariodarepublica.pt/2s/2005/06/109000000/0862608627.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-22'
+entry_into_force:
+  date: '2005-06-22'
+  rule: 15 dias após a sua publicação e terá imediata aplicação aos pedidos de expedição de correspondência em curso
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

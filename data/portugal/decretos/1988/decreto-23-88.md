@@ -23,6 +23,15 @@ publication:
   pages: 3598 - 3614
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/20200/35983614.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia a contar da data do depósito do 20.º instrumento de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03100/0001900020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-16'
+entry_into_force:
+  date: '2021-02-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2021-01-01'
+  effects_rule: a partir de 1 de janeiro de 2021 e aplica-se também aos processos pendentes de decisão
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

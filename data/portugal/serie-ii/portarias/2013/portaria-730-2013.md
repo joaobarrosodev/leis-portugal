@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 32528 - 32528
   pdf_url: https://files.diariodarepublica.pt/2s/2013/11/213000000/3252832528.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-11-05'
+entry_into_force:
+  date: '2013-11-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

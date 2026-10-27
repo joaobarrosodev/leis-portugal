@@ -23,6 +23,15 @@ publication:
   pages: 3173 - 3176
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/138a00/31733176.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que as Partes Contratantes se notificarem da conclusão dos respectivos processamentos internos
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

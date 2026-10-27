@@ -23,6 +23,16 @@ publication:
   pages: 1820 - 1829
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/086a00/18201829.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um prazo de seis meses após a data em que quatro Estados membros do Conselho
+    da Europa tiverem expressado o seu consentimento em ficarem vinculados pela Con
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

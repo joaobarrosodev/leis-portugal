@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 4675 - 4676
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/203b00/46754676.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-09-05'
+entry_into_force:
+  date: '1991-09-05'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-9
+  effects_date: '1991-06-01'
+  effects_rule: a partir de 1 de Junho de 1991 para os cereais sobre os quais incide a taxa de co-responsabilidade nos termos
+    da legislação comunitária, à excepção do milho e do sorgo, para os quais se aplicará a par
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

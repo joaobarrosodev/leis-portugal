@@ -23,6 +23,16 @@ publication:
   pages: 197 - 222
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01200/01970222.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 24 meses após a data em que, pelo menos, 25 governos de Estados cujas frotas de comércio representem no total, pelo
+    menos, 65% da tonelagem de arqueação bruta da frota de comércio mundial tenham assin
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

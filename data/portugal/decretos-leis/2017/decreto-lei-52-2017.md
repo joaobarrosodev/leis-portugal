@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2567 - 2568
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/10200/0256702568.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-27'
+entry_into_force:
+  date: '2017-05-27'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

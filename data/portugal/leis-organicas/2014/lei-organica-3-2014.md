@@ -23,6 +23,15 @@ publication:
   pages: 4078 - 4079
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15000/0407804079.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor da Lei Orgânica n.º 2/2014, de 6 de agosto (que aprova o regime do segredo de Estado)
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

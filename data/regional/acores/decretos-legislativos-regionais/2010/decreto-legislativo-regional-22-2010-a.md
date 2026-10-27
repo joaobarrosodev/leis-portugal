@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2396 - 2408
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/12500/0239602408.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-01'
+entry_into_force:
+  date: '2010-07-01'
+  rule: no dia imediato ao da sua publicação, aplicando-se às candidaturas pendentes que se encontrem em fase instrutória
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

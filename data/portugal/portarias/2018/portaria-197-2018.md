@@ -26,6 +26,15 @@ publication:
   pages: 2945 - 2957
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12900/0294502957.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4326-(122) a 4326-(122)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30108/01220122.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-12-31'
+entry_into_force:
+  date: '1982-12-31'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

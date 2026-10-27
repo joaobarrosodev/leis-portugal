@@ -24,6 +24,16 @@ publication:
   pages: 1975 - 1977
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/099a00/19751977.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca de notas pelas quais cada uma das Partes Contratantes informe a outra Parte Contratante de que se
+    encontram confirmadas as disposições legais relevantes e será renovado automaticament
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

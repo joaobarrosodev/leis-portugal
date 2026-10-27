@@ -24,6 +24,15 @@ publication:
   pages: 4105 - 4121
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/171a00/41054121.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia que segue o depósito do 16.º instrumento de ratificação, de aceitação, de aprovação ou de adesão
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

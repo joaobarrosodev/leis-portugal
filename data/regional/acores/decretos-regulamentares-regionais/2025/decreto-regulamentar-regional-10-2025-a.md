@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 18 - 24
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03900/0001800024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-26'
+entry_into_force:
+  date: '2025-02-26'
+  rule: no dia seguinte ao da publicação do decreto legislativo regional que aprova o orçamento da Região Autónoma dos Açores
+    para o ano de 2026
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

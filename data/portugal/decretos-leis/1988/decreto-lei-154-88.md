@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1740 - 1742
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09900/17401742.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-05-01'
+entry_into_force:
+  date: '1988-05-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação e é aplicável às situações em que o facto determinante da protecção
+    ocorra após a início da sua vigência
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

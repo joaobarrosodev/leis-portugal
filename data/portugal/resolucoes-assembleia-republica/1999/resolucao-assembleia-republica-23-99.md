@@ -24,6 +24,15 @@ publication:
   pages: 1694 - 1696
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/072a00/16941696.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias a partir da data da publicação no Diário da República do aviso de troca dos instrumentos de ratificação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

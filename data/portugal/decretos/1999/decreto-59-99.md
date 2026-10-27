@@ -24,6 +24,15 @@ publication:
   pages: 8979 - 8995
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/292a00/89798995.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia a contar da data do depósito do 16.º instrumento de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

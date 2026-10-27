@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5962 - 5963
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/217b00/59625963.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-10-01'
+entry_into_force:
+  date: '2001-10-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação, sem prejuízo do disposto no artigo 19.º do Decreto-Lei n.º 112/2001,
+    de 6 de Abril
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

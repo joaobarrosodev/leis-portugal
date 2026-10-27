@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1898-(2) a 1898-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10401/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-05-06'
+entry_into_force:
+  date: '1988-05-06'
+  rule: em 6 de Maio de 1988
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

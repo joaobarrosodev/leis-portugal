@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1466 - 1467
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15400/14661467.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-07-03'
+entry_into_force:
+  date: '1976-07-03'
+  rule: na data da publicação sem prejuízo do disposto no n.º 2
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

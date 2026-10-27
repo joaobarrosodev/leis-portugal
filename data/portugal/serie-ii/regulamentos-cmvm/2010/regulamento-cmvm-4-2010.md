@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 37052 - 37054
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/131000000/3705237054.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-23'
+entry_into_force:
+  date: '2010-07-23'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:3547800:por#art-unico'
+    detail: É revogado o [Regulamento da CMVM n.º 4/2010], de 8 de julho, com efeitos a partir de 1 de novembro de 2012.
 notes: []
 language: por
 version:

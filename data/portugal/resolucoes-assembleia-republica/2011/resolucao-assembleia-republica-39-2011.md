@@ -25,6 +25,16 @@ publication:
   pages: 1467 - 1475
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a data da notificação por ambas as Partes de que foram cumpridos os respectivos requisitos relativos à entrada
+    em vigor do presente Acordo
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: ':'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

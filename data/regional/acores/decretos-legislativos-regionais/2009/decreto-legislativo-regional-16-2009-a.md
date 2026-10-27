@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 7596 - 7631
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-10-14'
+entry_into_force:
+  date: '2009-10-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-112
+  effects_date: null
+  effects_rule: quanto à certificação energética dos edifícios novos a 1 de Janeiro de 2010 e quanto aos edifícios existentes
+    a 1 de Julho de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

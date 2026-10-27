@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1332 - 1333
   pdf_url: https://files.diariodarepublica.pt/1s/1973/07/17500/13321333.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-08-01'
+entry_into_force:
+  date: '1973-08-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação no Diário do Governo
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

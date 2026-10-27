@@ -24,6 +24,16 @@ publication:
   pages: 1303 - 1326
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/076a00/13031326.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao período de um mês após cinco Estados, incluindo pelo menos três Estados membros do Conselho
+    da Europa e ou da região Europa da UNESCO, terem manifestado o seu consentimen
+  method: clausula
+  article: art-vii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

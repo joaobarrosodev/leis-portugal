@@ -24,6 +24,16 @@ publication:
   pages: 47 - 51
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/01300/00470051.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no continente, trinta dias após a sua publicação no Diário do Governo, e nas ilhas adjacentes, noventa dias após a
+    mesma data
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

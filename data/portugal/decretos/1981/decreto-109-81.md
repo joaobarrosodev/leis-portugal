@@ -23,6 +23,16 @@ publication:
   pages: 2170 - 2172
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19100/21702172.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da troca de notas confirmando a sua aprovação pelos governos dos dois países e ficará em vigor por
+    um período de dois anos, sendo renovável automaticamente por iguais períodos de temp
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

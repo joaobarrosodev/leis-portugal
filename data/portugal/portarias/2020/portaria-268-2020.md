@@ -25,6 +25,15 @@ publication:
   pages: 14 - 21
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22500/0001400021.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

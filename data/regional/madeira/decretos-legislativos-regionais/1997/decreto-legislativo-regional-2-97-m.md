@@ -23,6 +23,15 @@ publication:
   pages: 1147 - 1151
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/061a00/11471151.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data da entrada em vigor da Lei do Orçamento do Estado para 1997
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

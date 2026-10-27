@@ -24,6 +24,15 @@ publication:
   pages: 422 - 424
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/06100/04220424.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Junho
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

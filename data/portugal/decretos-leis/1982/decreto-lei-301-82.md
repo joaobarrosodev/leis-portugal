@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2258 - 2260
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/17400/22582260.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-10-28'
+entry_into_force:
+  date: '1982-10-28'
+  rule: 90 dias após a sua publicação, sendo revogados os Decretos-Leis n.os 35983 e 36474, de 23 de Novembro de 1946 e de
+    19 de Agosto de 1947, respectivamente
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

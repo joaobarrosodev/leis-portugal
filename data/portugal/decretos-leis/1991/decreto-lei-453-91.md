@@ -23,6 +23,16 @@ publication:
   pages: 6529 - 6531
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/285a00/65296531.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o diploma que outorgar a concessão da exploração dos aeroportos da Região Autónoma da Madeira
+    à ANAM, S
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

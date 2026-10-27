@@ -24,6 +24,15 @@ publication:
   pages: 23 - 25
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14400/0002300025.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a entrada em vigor da lei do Orçamento do Estado posterior à sua aprovação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

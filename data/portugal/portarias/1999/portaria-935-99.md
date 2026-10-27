@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 7010 - 7011
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/245b00/70107011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-10-21'
+entry_into_force:
+  date: '1999-10-21'
+  rule: no dia seguinte ao da sua publicação e aplica-se aos filmes estreados comercialmente entre 1 de Janeiro e 31 de Dezembro
+    de 1998
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

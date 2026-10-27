@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 654-(2) a 654-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/04101/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-01'
+entry_into_force:
+  date: '2016-03-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11 - 56
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03200/0001100056.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-15'
+entry_into_force:
+  date: '2023-02-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

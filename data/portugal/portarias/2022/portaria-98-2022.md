@@ -23,6 +23,15 @@ publication:
   pages: 2 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/2022/02/03500/0000200020.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

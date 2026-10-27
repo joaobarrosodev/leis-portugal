@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2048-(20) a 2048-(62)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09903/00200062.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-01-01'
+entry_into_force:
+  date: '1990-01-01'
+  rule: no dia 1 de Janeiro de 1990, devendo os serviços proceder às correcções necessárias na execução já verificada
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

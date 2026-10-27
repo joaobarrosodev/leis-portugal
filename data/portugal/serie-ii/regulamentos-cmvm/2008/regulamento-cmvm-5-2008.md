@@ -23,9 +23,30 @@ publication:
   supplement: null
   pages: 42200 - 42209
   pdf_url: https://files.diariodarepublica.pt/2s/2008/10/200000000/4220042209.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-10-15'
+entry_into_force:
+  date: '2008-10-15'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: partially_repealed
+    provenance: 'norma revogatória: pt:dre:117228381:por#art-5'
+    detail: a) Os n.os 1 e 2 do artigo 2.º, os artigos 2.º-A e 2.º-B, a alínea a) do n.º 1 do artigo 9.º, os n.os 1,2, 3,
+      6, 7 e 8 do artigo 14.º do [Regulamento da CMVM n.º 5/2008], alterado pelo [Regulamento n.º 5/2010]
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:212246766:por'
+    detail: Revogado, a partir de 27 de abril de 2023, pelo(a) Regulamento da CMVM n.º 1/2023 - Diário da República n.º 81/2023,
+      Série II de 2023-04-26
 notes: []
 language: por
 version:

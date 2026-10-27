@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1970-(25) a 1970-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/162b01/00250025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-06-01'
+entry_into_force:
+  date: '1996-06-01'
+  rule: em 1 de Junho de 1996
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

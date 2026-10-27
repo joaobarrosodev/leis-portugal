@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3594 - 3597
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24900/35943597.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-11-03'
+entry_into_force:
+  date: '1985-11-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1985-11-01'
+  effects_rule: a partir do primeiro dia do mês seguinte à data da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

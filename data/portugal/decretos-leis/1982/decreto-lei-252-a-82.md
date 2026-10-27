@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 1866-(1) a 1866-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14601/00010032.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-07-01'
+entry_into_force:
+  date: '1982-07-01'
+  rule: no dia 1 de Julho de 1982
+  method: clausula
+  article: art-159
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

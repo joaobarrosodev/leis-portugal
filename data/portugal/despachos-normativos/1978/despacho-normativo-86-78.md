@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 612 - 612
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/07500/06120612.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-04-01'
+entry_into_force:
+  date: '1978-04-01'
+  rule: em 1 de Abril de 1978
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

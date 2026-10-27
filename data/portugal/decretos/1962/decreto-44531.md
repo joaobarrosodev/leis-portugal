@@ -24,6 +24,15 @@ publication:
   pages: 1132 - 1149
   pdf_url: https://files.diariodarepublica.pt/1s/1962/08/19100/11321149.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias depois de publicado no Diário do Governo
+  method: clausula
+  article: art-193
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

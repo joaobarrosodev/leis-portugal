@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1931/06/14500/12441244.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:569502:por#art-3'
+    detail: É revogado o [Decreto n.º 19940], de 18 de Junho de 1931.
 notes: []
 language: por
 version:

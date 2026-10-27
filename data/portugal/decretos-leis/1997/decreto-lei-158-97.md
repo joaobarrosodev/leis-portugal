@@ -24,6 +24,15 @@ publication:
   pages: 3070 - 3078
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/143a00/30703078.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do 6.º mês posterior à data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

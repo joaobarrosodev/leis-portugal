@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 143 - 143
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/041000000/0014300143.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-02-28'
+entry_into_force:
+  date: '2024-02-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: '2024-01-24'
+  effects_rule: a 24 de janeiro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

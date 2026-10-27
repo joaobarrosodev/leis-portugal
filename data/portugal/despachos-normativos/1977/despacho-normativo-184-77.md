@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2284 - 2284
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21700/22842284.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-09-20'
+entry_into_force:
+  date: '1977-09-20'
+  rule: no dia seguinte ao da data da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

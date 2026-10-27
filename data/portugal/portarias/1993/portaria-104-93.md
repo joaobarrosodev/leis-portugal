@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 388 - 388
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/023b00/03880388.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-01-29'
+entry_into_force:
+  date: '1993-01-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

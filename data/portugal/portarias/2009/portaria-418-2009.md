@@ -25,6 +25,15 @@ publication:
   pages: 2270 - 2275
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07400/0227002275.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da entrada em vigor do Decreto-Lei n.º 21/2009, de 19 de Janeiro
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

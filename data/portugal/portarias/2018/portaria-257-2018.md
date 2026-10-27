@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4712 - 4714
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17400/0471204714.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-01'
+entry_into_force:
+  date: '2018-10-01'
+  rule: no primeiro dia do mês seguinte à sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '2018-03-01'
+  effects_rule: a 1 de março de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

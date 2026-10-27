@@ -24,6 +24,16 @@ publication:
   pages: 587 - 588
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/036a00/05870588.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois da notificação recíproca da sua aprovação, segundo os trâmites previstos pela legislação vigente em cada um
+    dos Estados
+  method: clausula
+  article: art-ix
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

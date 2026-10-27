@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/19800/0000800009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-17'
+entry_into_force:
+  date: '2020-10-17'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: à data da entrada em vigor da LOE 2020 na redação conferida pela Lei n.º 27-A/2020, de 24 de julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

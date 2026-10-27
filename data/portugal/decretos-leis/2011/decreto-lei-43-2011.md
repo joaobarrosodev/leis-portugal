@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1643 - 1662
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05900/0164301662.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-20'
+entry_into_force:
+  date: '2011-07-20'
+  rule: no dia 20 de Julho de 2011
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

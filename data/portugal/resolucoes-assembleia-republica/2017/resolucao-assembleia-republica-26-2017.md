@@ -24,6 +24,16 @@ publication:
   pages: 886 - 890
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03500/0088600890.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando cada uma das Partes no Tratado do Atlântico Norte notificar o Governo dos Estados Unidos da América da sua
+    aceitação
+  method: clausula
+  article: art-ii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

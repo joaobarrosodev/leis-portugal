@@ -24,6 +24,16 @@ publication:
   pages: 3520 - 3545
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/142a00/35203545.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título definitivo em 1 de Fevereiro de 1995, ou em data posterior caso 12 governos de países produtores que detenham
+    pelo menos 55% do total dos votos atribuídos nos termos do anexo A do presente Ac
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

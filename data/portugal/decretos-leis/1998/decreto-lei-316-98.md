@@ -24,6 +24,15 @@ publication:
   pages: 5464 - 5465
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/242a00/54645465.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do início de vigência do Decreto-Lei n.º 315/98, de 20 de Outubro (alterações ao CPEREF)
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

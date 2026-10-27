@@ -23,6 +23,16 @@ publication:
   pages: 3 - 28
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01000/0000300028.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data em que os instrumentos de ratificação, aceitação ou aprovação tenham sido depositados pela
+    Austrália, República da África do Sul, Reino Unido da Grã Bretanha e Irlanda do Norte
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

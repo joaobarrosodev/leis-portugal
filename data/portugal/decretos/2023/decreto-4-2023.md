@@ -24,6 +24,15 @@ publication:
   pages: 4 - 68
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: '24 meses após a data em que estejam reunidas as seguintes condições:'
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

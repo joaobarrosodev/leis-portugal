@@ -23,9 +23,27 @@ publication:
   supplement: null
   pages: 152 - 153
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/051000000/0015200153.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-03-15'
+entry_into_force:
+  date: '2022-03-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:201446410:por#n-5'
+    detail: 5 - Ficam revogadas as [Portarias n.os 370/2022], de 2 de março, publicada no Diário da República, 2.ª série,
+      n.º 51, de 14 de março de 2022, e [527-A/2022], de 20 de maio, publicada no Diário da República, 2.ª série, n.º 101,
+      de 25 de maio de 2022.
 notes: []
 language: por
 version:

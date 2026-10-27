@@ -24,6 +24,15 @@ publication:
   pages: 352-(12) a 352-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/016b03/00120012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na Região Autónoma da Madeira no dia 21 de Janeiro de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

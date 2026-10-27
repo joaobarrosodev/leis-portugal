@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2081 - 2081
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16200/20812081.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-05-01'
+entry_into_force:
+  date: '1984-05-01'
+  rule: no dia 1 de Maio de 1984
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

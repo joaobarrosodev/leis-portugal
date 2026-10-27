@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 656 - 659
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/04200/0065600659.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-01'
+entry_into_force:
+  date: '2016-04-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 932 - 941
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/044a00/09320941.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após o da respectiva publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

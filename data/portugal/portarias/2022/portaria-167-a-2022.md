@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 32-(9) a 32-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/12501/0000900009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-01'
+entry_into_force:
+  date: '2022-07-01'
+  rule: no dia 1 de julho de 2022
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

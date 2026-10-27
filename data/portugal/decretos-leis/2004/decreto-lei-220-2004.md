@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 6513 - 6549
   pdf_url: https://files.diariodarepublica.pt/1s/2004/11/259a00/65136549.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-11-09'
+entry_into_force:
+  date: '2004-11-09'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: nos termos previstos no artigo 2.º do Decreto-Lei n.º 215/2004, de 25 de Agosto, no que respeita aos dispositivos
+    para visão indirecta, e nos termos previstos no artigo 2.º do Decreto-Lei n.º 186/2004
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

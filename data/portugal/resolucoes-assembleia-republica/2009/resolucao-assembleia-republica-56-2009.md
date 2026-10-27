@@ -23,6 +23,15 @@ publication:
   pages: 4906 - 4929
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/14600/0490604929.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data do depósito do 20.º instrumento de ratificação ou adesão
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

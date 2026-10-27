@@ -24,6 +24,15 @@ publication:
   pages: 1813 - 1844
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/07300/0181301844.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de recepção da última das referidas notificações
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

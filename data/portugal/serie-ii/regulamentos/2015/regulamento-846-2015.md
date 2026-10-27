@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 36379 - 36384
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/245000000/3637936384.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-17'
+entry_into_force:
+  date: '2015-12-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:126959058:por#art-20'
+    detail: O presente regulamento revoga o [Regulamento n.º 846/2015], publicado no Diário da República, 2.ª série, n.º 245,
+      de 16 de dezembro de 2015.
 notes: []
 language: por
 version:

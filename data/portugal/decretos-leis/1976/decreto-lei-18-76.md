@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 38 - 39
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01100/00380039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-01-14'
+entry_into_force:
+  date: '1976-01-14'
+  rule: na data da publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

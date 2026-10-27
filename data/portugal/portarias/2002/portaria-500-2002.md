@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4095 - 4096
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/098b00/40954096.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-02'
+entry_into_force:
+  date: '2002-05-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2002-04-12'
+  effects_rule: a partir de 12 de Abril de 2002
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

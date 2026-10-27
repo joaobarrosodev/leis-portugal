@@ -24,6 +24,15 @@ publication:
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2026/10/19301/0000200003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

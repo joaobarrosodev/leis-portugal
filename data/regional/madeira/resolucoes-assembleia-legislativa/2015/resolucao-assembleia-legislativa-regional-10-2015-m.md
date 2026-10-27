@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 9512 - 9513
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/22200/0951209513.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-12'
+entry_into_force:
+  date: '2015-11-12'
+  rule: com a publicação do Orçamento do Estado posterior à aprovação do presente diploma
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

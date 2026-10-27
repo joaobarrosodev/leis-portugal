@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2095 - 2095
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29200/20952095.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-12-19'
+entry_into_force:
+  date: '1975-12-19'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '1975-10-01'
+  effects_rule: a partir de 1 de Outubro de 1975
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

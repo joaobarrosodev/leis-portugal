@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1524-(1) a 1524-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/14201/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-06-23'
+entry_into_force:
+  date: '1977-06-23'
+  rule: no dia seguinte ao da data da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

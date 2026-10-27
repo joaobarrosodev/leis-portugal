@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24000/0000800010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-12'
+entry_into_force:
+  date: '2020-12-12'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: '2021-02-28'
+  end_rule: até 28 de fevereiro de 2021
 end_of_validity_date: null
 legal_status: in_force
 notes: []

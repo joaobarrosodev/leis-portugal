@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/06100/0000800015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-01'
+entry_into_force:
+  date: '2021-04-01'
+  rule: no 1.º dia do mês seguinte à data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

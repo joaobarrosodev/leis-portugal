@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2628 - 2632
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/114b00/26282632.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-05-17'
+entry_into_force:
+  date: '1994-05-17'
+  rule: na data da sua publicação, sem prejuízo da comercialização e utilização, até 1 de Julho de 1994, das películas de
+    celulose regenerada que satisfaçam à Directiva n.º 92/15/CEE, de 11 de Março de 1992
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2149 - 2149
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/06900/0214902149.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-05-03'
+entry_into_force:
+  date: '2009-05-03'
+  rule: no dia 3 de Maio de 2009
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: pelo período de um ano
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

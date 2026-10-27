@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4955 - 4956
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/186b00/49554956.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-08-18'
+entry_into_force:
+  date: '2003-08-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2003-07-10'
+  effects_rule: desde 10 de Julho de 2003
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

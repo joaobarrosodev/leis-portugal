@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3025 - 3027
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/144a00/30253027.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-08-24'
+entry_into_force:
+  date: '1992-08-24'
+  rule: 60 dias após a data da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

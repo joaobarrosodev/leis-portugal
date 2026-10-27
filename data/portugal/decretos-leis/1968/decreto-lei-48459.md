@@ -24,6 +24,16 @@ publication:
   pages: 933 - 937
   pdf_url: https://files.diariodarepublica.pt/1s/1968/06/15200/09330937.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no mesmo dia que a Convenção, ou trinta dias depois da data do depósito do segundo instrumento de ratificação ou de
+    adesão, mas nunca antes da entrada em vigor da Convenção
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

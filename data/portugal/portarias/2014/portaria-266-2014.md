@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6133 - 6134
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/24300/0613306134.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-12-18'
+entry_into_force:
+  date: '2014-12-18'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2014-01-01'
+  effects_rule: desde 1 de janeiro de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

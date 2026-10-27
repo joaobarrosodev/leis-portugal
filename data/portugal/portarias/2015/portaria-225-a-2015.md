@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 5178-(2) a 5178-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14701/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-09-01'
+entry_into_force:
+  date: '2015-09-01'
+  rule: no dia 1 de setembro de 2015
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

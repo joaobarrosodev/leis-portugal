@@ -23,6 +23,15 @@ publication:
   pages: 2 - 4
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/18200/0000200004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação pela Comissão Permanente
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 32314 - 32316
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/208000000/3231432316.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-29'
+entry_into_force:
+  date: '2016-10-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: '2020-12-31'
+  end_rule: até 31 de dezembro de 2020
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2792 - 2796
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/09600/0279202796.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-01'
+entry_into_force:
+  date: '2011-07-01'
+  rule: em 1 de Julho de 2011, com excepção do artigo 10.º que
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

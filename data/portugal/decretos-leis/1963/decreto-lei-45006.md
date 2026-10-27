@@ -23,6 +23,16 @@ publication:
   pages: 455 - 469
   pdf_url: https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Julho do ano corrente e só se aplica aos processos instaurados a partir da mesma data, continuando os
+    processos pendentes a correr seus termos nos tribunais em que se encontrem
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

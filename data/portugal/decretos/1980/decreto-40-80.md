@@ -23,6 +23,15 @@ publication:
   pages: 1470 - 1474
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14500/14701474.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia a contar da data do depósito da segunda notificação e, desde logo
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: entre os Estados que hajam cumprido esta formalidade
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

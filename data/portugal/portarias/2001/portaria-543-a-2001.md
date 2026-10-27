@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3192-(2) a 3192-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/125b01/00020020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-01-01'
+entry_into_force:
+  date: '2001-01-01'
+  rule: desde 1 de Janeiro de 2001
+  method: clausula
+  article: n-2
+  effects_date: '2001-01-01'
+  effects_rule: desde 1 de Janeiro de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

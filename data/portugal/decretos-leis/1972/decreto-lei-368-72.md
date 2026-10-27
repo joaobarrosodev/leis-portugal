@@ -23,6 +23,15 @@ publication:
   pages: 1411 - 1424
   pdf_url: https://files.diariodarepublica.pt/1s/1972/09/22900/14111424.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Outubro próximo
+  method: clausula
+  article: art-111
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

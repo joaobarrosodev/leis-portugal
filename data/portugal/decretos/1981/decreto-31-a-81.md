@@ -24,6 +24,16 @@ publication:
   pages: 472-(1) a 472-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/04301/00010011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'em data a ser mutuamente acordada por troca de notas após completados os procedimentos internos de ambos os Governos
+    e manter-se-á por um período de cinco anos, a menos que venha a ser prorrogado por '
+  method: clausula
+  article: art-xvi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

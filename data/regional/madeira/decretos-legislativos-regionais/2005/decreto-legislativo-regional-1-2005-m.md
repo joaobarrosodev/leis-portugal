@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1298 - 1377
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/035a00/12981377.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-02-19'
+entry_into_force:
+  date: '2005-02-19'
+  rule: no dia seguinte à data da sua publicação, integrando o orçamento por ele aprovado a parte do orçamento que tenha sido
+    executada nos termos do artigo 15.º da Lei n.º 28/92, de 1 de Setembro
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

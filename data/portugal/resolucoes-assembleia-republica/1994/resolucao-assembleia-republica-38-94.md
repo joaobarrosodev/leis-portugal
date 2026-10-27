@@ -24,6 +24,15 @@ publication:
   pages: 3738 - 3740
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/160a00/37383740.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para qualquer Estado que a ele venha a aderir 90 dias após a data do depósito do respectivo instrumento de adesão
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

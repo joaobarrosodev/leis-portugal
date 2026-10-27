@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3280 - 3290
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/152a00/32803290.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-07-01'
+entry_into_force:
+  date: '1997-07-01'
+  rule: no dia 1 de Julho de 1997
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 80 - 80
   pdf_url: https://files.diariodarepublica.pt/1s/1961/01/02000/00800080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1961-02-01'
+entry_into_force:
+  date: '1961-02-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

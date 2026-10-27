@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4227 - 4232
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/12400/0422704232.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-07-07'
+entry_into_force:
+  date: '2009-07-07'
+  rule: sete dias após a data da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

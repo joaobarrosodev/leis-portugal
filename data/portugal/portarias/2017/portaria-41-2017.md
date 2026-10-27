@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 527 - 533
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/02000/0052700533.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-28'
+entry_into_force:
+  date: '2017-01-28'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: a partir do ano de 2017, nos termos da Lei n.º 42/2016 de 28 de dezembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

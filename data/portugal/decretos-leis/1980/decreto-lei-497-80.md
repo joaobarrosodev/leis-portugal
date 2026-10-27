@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3481 - 3485
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24300/34813485.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-10-21'
+entry_into_force:
+  date: '1980-10-21'
+  rule: no dia seguinte ao da sua publicação, efectuando-se a sua execução de harmonia com a orientação que vier a ser definida
+    por despacho do Ministro da Agricultura e Pescas
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

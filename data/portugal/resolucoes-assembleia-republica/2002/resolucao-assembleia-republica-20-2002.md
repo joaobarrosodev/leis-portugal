@@ -24,6 +24,16 @@ publication:
   pages: 2698 - 2708
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/068a00/26982708.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que ambas as Partes Contratantes tiverem notificado uma à outra, por escrito, do cumprimento
+    dos respectivos procedimentos constitucionais internos, requeridos para o efeito
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

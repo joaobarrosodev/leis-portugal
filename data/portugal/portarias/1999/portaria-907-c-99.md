@@ -24,6 +24,15 @@ publication:
   pages: 6908-(4) a 6908-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/239b02/00040004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 0 horas do dia 14 de Outubro de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

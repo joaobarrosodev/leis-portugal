@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5142 - 5144
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/256b00/51425144.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-01-04'
+entry_into_force:
+  date: '1993-01-04'
+  rule: 60 dias após a data da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

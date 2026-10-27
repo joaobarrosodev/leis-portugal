@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1312 - 1312
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/125b00/13121312.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-05-29'
+entry_into_force:
+  date: '1996-05-29'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

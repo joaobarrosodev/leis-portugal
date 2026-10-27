@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1887 - 1888
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/094b00/18871888.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-04-22'
+entry_into_force:
+  date: '1992-04-22'
+  rule: na data da sua publicação, produzindo, porém, efeitos remuneratórios a partir de 1 de Outubro de 1989
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

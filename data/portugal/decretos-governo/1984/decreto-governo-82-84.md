@@ -24,6 +24,15 @@ publication:
   pages: 3730 - 3733
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28200/37303733.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e manter-se-á válido por um período de 3 anos
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

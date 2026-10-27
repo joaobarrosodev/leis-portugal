@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 430-(2) a 430-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/090000002/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-11'
+entry_into_force:
+  date: '2022-05-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-2
+  effects_date: '2022-03-30'
+  effects_rule: desde 30 de março de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

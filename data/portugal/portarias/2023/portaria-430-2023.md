@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 109 - 115
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23800/0010900115.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-13'
+entry_into_force:
+  date: '2023-12-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: '2024-01-01'
+  effects_rule: a partir do dia 1 de janeiro de 2024 e abrange os cheques-dentista já emitidos, mas ainda não utilizados àquela
+    data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

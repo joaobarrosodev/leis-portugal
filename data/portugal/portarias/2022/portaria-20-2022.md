@@ -24,8 +24,24 @@ publication:
   pages: 77 - 86
   pdf_url: https://files.diariodarepublica.pt/1s/2022/01/00300/0007700086.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:208087578:por#n-5'
+    detail: 5 - A presente portaria revoga a [Portaria n.º 20/2022], de 21 de dezembro de 2021, publicada no Diário da República,
+      2.ª série, n.º 4, de 6 de janeiro de 2022.
 notes: []
 language: por
 version:

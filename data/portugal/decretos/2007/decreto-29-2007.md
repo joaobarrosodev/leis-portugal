@@ -25,6 +25,15 @@ publication:
   pages: 8676 - 8683
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/22900/0867608683.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao da notificação, por ambas as Partes, da conclusão dos procedimentos internos necessários
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

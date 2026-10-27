@@ -24,6 +24,16 @@ publication:
   pages: 1742 - 1745
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/16000/17421745.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da segunda das notas pelas quais as Partes se informam acerca da sua aprovação, de acordo com
+    os seus procedimentos constitucionais
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

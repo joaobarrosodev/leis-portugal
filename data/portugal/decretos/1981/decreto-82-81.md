@@ -24,6 +24,16 @@ publication:
   pages: 1543 - 1544
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/14800/15431544.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: provisoriamente na data da sua assinatura e definitivamente na data da troca de notas, confirmando a sua aprovação,
+    em conformidade com os requisitos constitucionais de ambos os países, e terá duração
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

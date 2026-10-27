@@ -24,6 +24,15 @@ publication:
   pages: 1051 - 1056
   pdf_url: https://files.diariodarepublica.pt/1s/1968/07/17200/10511056.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no sexagésimo dia após o depósito do terceiro instrumento de ratificação previsto pelo artigo 19.º, alínea II
+  method: clausula
+  article: art-20-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

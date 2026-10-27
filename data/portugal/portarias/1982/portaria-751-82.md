@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2282 - 2282
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/17600/22822282.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-08-03'
+entry_into_force:
+  date: '1982-08-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

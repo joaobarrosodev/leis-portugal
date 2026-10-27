@@ -25,6 +25,15 @@ publication:
   pages: 2954-(2) a 2954-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/05/09901/0000200022.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil subsequente ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

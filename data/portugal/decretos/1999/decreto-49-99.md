@@ -25,6 +25,15 @@ publication:
   pages: 7916 - 7943
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: '12 meses após a data em que se encontrem reunidas as seguintes condições:'
+  method: clausula
+  article: art-v
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

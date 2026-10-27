@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4621 - 4623
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14200/0462104623.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-25'
+entry_into_force:
+  date: '2008-07-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-19
+  effects_date: '2009-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

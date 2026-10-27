@@ -24,6 +24,16 @@ publication:
   pages: 7352 - 7363
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19900/0735207363.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a recepção da última comunicação, por via diplomática, dos Estados Contratantes, de que foram cumpridos
+    todos os formalismos constitucionais ou legais exigíveis para cada um dos Estados p
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

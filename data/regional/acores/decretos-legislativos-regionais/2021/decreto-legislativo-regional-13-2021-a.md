@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4 - 6
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/08600/0000400006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-05'
+entry_into_force:
+  date: '2021-05-05'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Orçamento da Região Autónoma dos Açores para o ano de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

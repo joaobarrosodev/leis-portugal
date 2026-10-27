@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 160 - 164
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/011a00/01600164.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-02-13'
+entry_into_force:
+  date: '1997-02-13'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

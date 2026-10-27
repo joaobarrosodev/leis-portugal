@@ -24,6 +24,15 @@ publication:
   pages: 6083 - 6083
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/256b00/60836083.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

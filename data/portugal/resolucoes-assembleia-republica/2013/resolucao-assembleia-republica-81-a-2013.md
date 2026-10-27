@@ -26,6 +26,16 @@ publication:
   pages: 3376-(2) a 3376-(1280)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à data em que as Partes procederem à notificação recíproca da conclusão das formalidades
+    necessárias para o efeito
+  method: clausula
+  article: art-243
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

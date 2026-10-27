@@ -24,6 +24,16 @@ publication:
   pages: 388 - 390
   pdf_url: https://files.diariodarepublica.pt/1s/1964/03/05500/03880390.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em relação a todos os Governos partes da Convenção no dia em que os instrumentos de ratificação tenham sido depositados
+    ou os instrumentos escritos de adesão tenham sido recebidos pelo Governo dos Est
+  method: clausula
+  article: art-iv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

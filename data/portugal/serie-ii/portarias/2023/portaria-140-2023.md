@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 87 - 88
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/058000000/0008700088.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-23'
+entry_into_force:
+  date: '2023-03-23'
+  rule: no dia seguinte à sua publicação, ratificando-se os atos praticados no âmbito do procedimento a que respeita a presente
+    portaria, nos termos do artigo 164.º do CPA
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

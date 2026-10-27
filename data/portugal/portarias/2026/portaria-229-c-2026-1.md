@@ -23,9 +23,25 @@ publication:
   supplement: null
   pages: 4 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/09903/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-23'
+entry_into_force:
+  date: '2026-05-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: '2026-09-30'
+  end_rule: até 30 de setembro de 2026
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: art-3'
+    detail: até 30 de setembro de 2026
 notes: []
 language: por
 version:

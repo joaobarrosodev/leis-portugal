@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7184 - 7207
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/301a00/71847207.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-01-01'
+entry_into_force:
+  date: '1994-01-01'
+  rule: a 1 de Janeiro de 1994
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

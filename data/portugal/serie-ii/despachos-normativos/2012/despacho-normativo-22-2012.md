@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 34807 - 34822
   pdf_url: https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-10-23'
+entry_into_force:
+  date: '2012-10-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República, nos termos do artigo 124.º dos Estatutos da Universidade
+    de Trás-os-Montes e Alto Douro
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

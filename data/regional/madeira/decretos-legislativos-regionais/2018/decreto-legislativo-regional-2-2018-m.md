@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 242 - 343
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00600/0024200343.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-10'
+entry_into_force:
+  date: '2018-01-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-77
+  effects_date: '2018-01-01'
+  effects_rule: desde 1 de janeiro de 2018, sem prejuízo do disposto no n.º 6 do artigo 49.º, n.º 5 do artigo 52.º, e n.º
+    2 do artigo 62.º do presente diploma
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

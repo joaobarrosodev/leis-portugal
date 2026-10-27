@@ -23,6 +23,15 @@ publication:
   pages: 2053 - 2058
   pdf_url: https://files.diariodarepublica.pt/1s/1960/09/22200/20532058.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias após ter sido comunicada a sua aprovação pelo Ministro das Corporações e Previdência Social à Corporação
+  method: clausula
+  article: art-70
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 8338 - 8342
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/291a00/83388342.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à recepção da última das notificações previstas no segundo parágrafo
+  method: clausula
+  article: art-10
+  effects_date: '2002-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2002, com excepção do n.º 3 do artigo 2.º e do artigo 4.º, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

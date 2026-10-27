@@ -25,6 +25,16 @@ publication:
   pages: 3 - 164
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/11400/0000300164.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data em que a União Europeia e os seus Estados-Membros e pelo menos dois
+    terços dos Membros da OEACP tiverem concluído os respetivos procedimentos internos pa
+  method: clausula
+  article: art-98
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

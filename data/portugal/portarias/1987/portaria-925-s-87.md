@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4228-(24) a 4228-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/27902/00240025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-12-05'
+entry_into_force:
+  date: '1987-12-05'
+  rule: no dia seguinte ao da sua publicação e nas regiões autónomas 30 dias após a mesma data
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

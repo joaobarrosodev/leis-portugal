@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1634 - 1654
   pdf_url: https://files.diariodarepublica.pt/1s/2016/05/09900/0163401654.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-05-24'
+entry_into_force:
+  date: '2016-05-24'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: à data de entrada em vigor da Portaria n.º 60-C/2015, de 2 de março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1304 - 1308
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-03-05'
+entry_into_force:
+  date: '2015-03-05'
+  rule: no dia seguinte ao da sua publicação e reporta os seus efeitos a 1 de janeiro de 2015, sem prejuízo da referência
+    ao posto de cabo-mor apenas produzir efeitos com a entrada em vigor do novo Estatuto d
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

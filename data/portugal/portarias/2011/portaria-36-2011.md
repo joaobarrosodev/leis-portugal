@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 285 - 286
   pdf_url: https://files.diariodarepublica.pt/1s/2011/01/00900/0028500286.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-01-14'
+entry_into_force:
+  date: '2011-01-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2010-10-01'
+  effects_rule: a partir de 1 de Outubro de 2010, nos termos do artigo 6.º da Portaria n.º 782/2009, de 23 de Julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

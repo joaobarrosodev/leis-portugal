@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5474-(2) a 5474-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14601/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-08-01'
+entry_into_force:
+  date: '2006-08-01'
+  rule: a partir de 1 de Agosto de 2006
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

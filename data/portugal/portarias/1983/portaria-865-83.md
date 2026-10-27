@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3083 - 3084
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/20000/30833084.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-09-01'
+entry_into_force:
+  date: '1983-09-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação e revoga a Portaria n.º 198/80, de 24 de Abril
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

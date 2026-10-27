@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6646 - 6648
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/22200/0664606648.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-11-17'
+entry_into_force:
+  date: '2012-11-17'
+  rule: no dia seguinte ao da publicação da portaria prevista no artigo anterior
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

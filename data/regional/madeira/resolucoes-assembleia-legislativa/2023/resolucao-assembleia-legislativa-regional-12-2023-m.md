@@ -23,6 +23,15 @@ publication:
   pages: 15 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10000/0001500016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início da produção de efeitos da lei que aprove o Orçamento do Estado do ano subsequente ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

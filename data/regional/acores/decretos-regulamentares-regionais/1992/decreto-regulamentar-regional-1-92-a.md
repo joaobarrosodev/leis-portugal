@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 176 - 177
   pdf_url: https://files.diariodarepublica.pt/1s/1992/01/010b00/01760177.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-01-14'
+entry_into_force:
+  date: '1992-01-14'
+  rule: no dia seguinte ao da sua publicação, produzindo, porém, efeitos remuneratórios a partir de 1 de Outubro de 1989
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

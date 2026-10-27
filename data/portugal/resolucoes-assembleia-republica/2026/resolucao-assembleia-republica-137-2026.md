@@ -25,6 +25,16 @@ publication:
   pages: 67 - 68
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/10700/0006700068.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após o depósito do instrumento de aceitação, aprovação, ratificação ou adesão, representando dois terços mais
+    um dos membros da Organização
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

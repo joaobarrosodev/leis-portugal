@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 32-(4) a 32-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/06201/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-31'
+entry_into_force:
+  date: '2021-03-31'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: '2021-04-01'
+  effects_rule: a 1 de abril de 2021
+  end_date: '2023-12-31'
+  end_rule: até 31 de dezembro de 2023
 end_of_validity_date: null
 legal_status: in_force
 notes: []

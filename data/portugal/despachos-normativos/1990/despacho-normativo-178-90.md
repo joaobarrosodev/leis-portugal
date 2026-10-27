@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5226 - 5240
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29700/52265240.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-01-06'
+entry_into_force:
+  date: '1991-01-06'
+  rule: no prazo de 10 dias a contar da data da sua publicação no Diário da República
+  method: clausula
+  article: art-117
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

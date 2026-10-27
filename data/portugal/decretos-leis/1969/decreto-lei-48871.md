@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 166 - 195
   pdf_url: https://files.diariodarepublica.pt/1s/1969/02/04200/01660195.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-06-01'
+entry_into_force:
+  date: '1969-06-01'
+  rule: no dia 1 de Junho de 1969 e só será aplicável às obras postas a concurso posteriormente a esta data
+  method: clausula
+  article: art-226
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

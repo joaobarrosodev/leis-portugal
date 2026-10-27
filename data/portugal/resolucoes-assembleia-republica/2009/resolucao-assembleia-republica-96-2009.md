@@ -23,6 +23,15 @@ publication:
   pages: 8384 - 8391
   pdf_url: https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para esses Estados e para os Estados que tenham depositado instrumentos de adesão
+  method: clausula
+  article: art-xiii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

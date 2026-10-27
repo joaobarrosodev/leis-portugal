@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 7256 - 7257
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/271b00/72567257.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-10-15'
+entry_into_force:
+  date: '1995-10-15'
+  rule: a partir de 15 de Outubro de 1995
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

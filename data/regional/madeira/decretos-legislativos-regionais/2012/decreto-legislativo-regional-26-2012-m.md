@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5064 - 5067
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/17000/0506405067.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-09-04'
+entry_into_force:
+  date: '2012-09-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

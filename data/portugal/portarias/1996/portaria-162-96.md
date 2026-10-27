@@ -23,6 +23,15 @@ publication:
   pages: 1176 - 1177
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/115b00/11761177.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

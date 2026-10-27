@@ -24,6 +24,15 @@ publication:
   pages: 1010 - 1011
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/09800/10101011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês seguinte àquele em que for publicado
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

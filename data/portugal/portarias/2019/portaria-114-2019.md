@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2140 - 2144
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07400/0214002144.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-16'
+entry_into_force:
+  date: '2019-04-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

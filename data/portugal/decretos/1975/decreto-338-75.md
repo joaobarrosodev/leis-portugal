@@ -23,6 +23,15 @@ publication:
   pages: 920-(2) a 920-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/15001/00020010.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em conformidade com as disposições do artigo 35.º
+  method: clausula
+  article: art-37-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

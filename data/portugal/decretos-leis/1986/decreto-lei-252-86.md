@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2169 - 2171
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19400/21692171.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-09-24'
+entry_into_force:
+  date: '1986-09-24'
+  rule: 30 dias após a data da sua publicação e vigorará apenas no território do continente
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

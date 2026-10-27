@@ -25,6 +25,15 @@ publication:
   pages: 687 - 688
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/01600/0068700688.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do Decreto-Lei n.º 371/2007, de 6 de Setembro
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

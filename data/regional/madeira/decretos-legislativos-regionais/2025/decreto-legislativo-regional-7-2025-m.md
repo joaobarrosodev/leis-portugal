@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 217 - 232
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/23400/0021700232.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-12-05'
+entry_into_force:
+  date: '2025-12-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: 'relativamente a todos os procedimentos após a entrada em vigor da portaria prevista nos n.os1 e 4 do artigo
+    4.º, na alínea d) do n.º 1 do artigo 5.º, no n.º 5 do artigo 7.º, no n.º 8 do artigo 10.º e '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

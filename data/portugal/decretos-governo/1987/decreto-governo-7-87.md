@@ -25,6 +25,16 @@ publication:
   pages: 428 - 438
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da troca das notas confirmando que as disposições constitucionais foram cumpridas para ambas as
+    Partes Contratantes
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

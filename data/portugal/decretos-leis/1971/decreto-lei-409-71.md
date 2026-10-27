@@ -23,6 +23,15 @@ publication:
   pages: 1393 - 1402
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22800/13931402.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no território do continente e ilhas adjacentes, no prazo de noventa dias, a contar da data da sua publicação
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

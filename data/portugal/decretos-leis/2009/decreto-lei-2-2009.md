@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 26 - 105
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00200/0002600105.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-06'
+entry_into_force:
+  date: '2009-01-06'
+  rule: no dia seguinte ao da sua publicação, com excepção dos artigos 122.º-D e 122.º-E, do n.º 2 do artigo 131.º-C, e dos
+    artigos 131.º-D a 131.º-F, que
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

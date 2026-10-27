@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 14 - 21
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00100/0001400021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-03'
+entry_into_force:
+  date: '2013-01-03'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto Legislativo Regional nº 24/2012/M, de 30 de agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

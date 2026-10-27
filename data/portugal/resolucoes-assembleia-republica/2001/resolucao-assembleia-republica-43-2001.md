@@ -25,6 +25,15 @@ publication:
   pages: 3771 - 3787
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/145a00/37713787.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: entre esses Governos, sendo a data de entrada em vigor a data da recepção da última das notas acima referidas
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4883 - 4883
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/13400/48834883.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-07-14'
+entry_into_force:
+  date: '2006-07-14'
+  rule: no dia imediato ao da sua publicação, sem prejuízo do estabelecido no n.º 3.º, que vigora com a publicação da portaria
+    a que se refere o n.º 5 do artigo 2.º do Decreto-Lei n.º 234/2005, de 30 de Dezem
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

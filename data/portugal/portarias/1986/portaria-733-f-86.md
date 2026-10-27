@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3658-(6) a 3658-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/27901/00060007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-12-14'
+entry_into_force:
+  date: '1986-12-14'
+  rule: dez dias após a sua publicação no Diário da República
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 2377 - 2379
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20400/23772379.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: provisoriamente na data da sua assinatura e definitivamente na data da troca de notas confirmando a sua aprovação
+    em conformidade com os requisitos constitucionais de ambos os países e manter-se-á vig
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

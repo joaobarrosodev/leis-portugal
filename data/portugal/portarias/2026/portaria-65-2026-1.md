@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 22 - 23
   pdf_url: https://files.diariodarepublica.pt/1s/2026/02/02800/0002200023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-02-11'
+entry_into_force:
+  date: '2026-02-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da produção de efeitos da Portaria n.º 304/2024/1, de 27 de novembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

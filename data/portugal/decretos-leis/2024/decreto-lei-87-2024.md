@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 15 - 31
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21600/0001500031.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-10'
+entry_into_force:
+  date: '2024-11-10'
+  rule: no terceiro dia posterior ao da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: 'na data em que produzam efeitos as disposições do diploma a que se refere o n.º 1 do artigo 230.º-A do Código
+    de Processo Civil, na redação conferida pelo presente decreto-lei:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

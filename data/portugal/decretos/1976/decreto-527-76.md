@@ -24,6 +24,15 @@ publication:
   pages: 1483 - 1484
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15600/14831484.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do dia da troca dos instrumentos de ratificação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

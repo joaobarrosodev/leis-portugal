@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3625 - 3627
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/161a00/36253627.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-11-13'
+entry_into_force:
+  date: '1991-11-13'
+  rule: 120 dias após a sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

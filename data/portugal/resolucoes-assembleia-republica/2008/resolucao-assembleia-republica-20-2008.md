@@ -26,6 +26,15 @@ publication:
   pages: 3027 - 3041
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/10400/0302703041.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à última notificação dos instrumentos de ratificação ou de aprovação
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

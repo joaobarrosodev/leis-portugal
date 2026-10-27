@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 342-(9) a 342-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05002/00090010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-03-01'
+entry_into_force:
+  date: '1977-03-01'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

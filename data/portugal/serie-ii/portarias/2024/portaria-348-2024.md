@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/041000000/0009600097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:920848008:por#n-4'
+    detail: 4 - Determinar que a presente portaria revoga a [Portaria n.º 348/2024], publicada no Diário da República, 2.ª
+      série, n.º 41, de 27 de fevereiro de 2024.
 notes: []
 language: por
 version:

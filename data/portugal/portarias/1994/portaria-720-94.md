@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4621 - 4625
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-08-12'
+entry_into_force:
+  date: '1994-08-12'
+  rule: no dia imediato ao da sua publicação e os seus efeitos retroagem a 1 de Julho de 1993
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

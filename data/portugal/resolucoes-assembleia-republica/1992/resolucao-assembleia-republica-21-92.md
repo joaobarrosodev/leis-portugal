@@ -23,6 +23,16 @@ publication:
   pages: 3124 - 3146
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/150a00/31243146.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'a título definitivo em 1 de Janeiro de 1991 ou em qualquer data posterior se, naquela data, três governos que totalizem
+    pelo menos 85% das exportações líquidas indicadas no anexo A do presente Acordo '
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

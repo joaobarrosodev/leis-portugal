@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 1714-(2) a 1714-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/06101/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-03-29'
+entry_into_force:
+  date: '2015-03-29'
+  rule: a 29 de março de 2015
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 4793 - 4795
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13400/0479304795.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

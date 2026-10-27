@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5826 - 5833
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/262a00/58265833.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-07-01'
+entry_into_force:
+  date: '1992-07-01'
+  rule: no dia 1 de Julho de 1992
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

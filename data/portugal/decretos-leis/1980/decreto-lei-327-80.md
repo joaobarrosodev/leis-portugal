@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2375 - 2377
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19600/23752377.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-08-26'
+entry_into_force:
+  date: '1980-08-26'
+  rule: na data da sua publicação e revoga o Decreto-Lei n.º 488/70, de 21 de Outubro
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

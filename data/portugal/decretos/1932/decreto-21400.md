@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1932/06/14600/12861289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:683450:por#art-2'
+    detail: É revogado o [Decreto n.º 21400], de 8 de Junho de 1932.
 notes: []
 language: por
 version:

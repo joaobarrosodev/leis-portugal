@@ -23,6 +23,15 @@ publication:
   pages: 102 - 104
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01600/01020104.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que as Partes notificarem uma à outra a conclusão do necessário processo legislativo
+  method: clausula
+  article: art-v
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

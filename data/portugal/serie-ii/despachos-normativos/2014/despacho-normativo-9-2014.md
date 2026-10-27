@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 19646 - 19653
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/146000000/1964619653.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-08-01'
+entry_into_force:
+  date: '2014-08-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

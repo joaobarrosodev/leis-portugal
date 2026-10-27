@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3716 - 3719
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/147a00/37163719.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-12-01'
+entry_into_force:
+  date: '2003-12-01'
+  rule: no dia 1 de Dezembro de 2003
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

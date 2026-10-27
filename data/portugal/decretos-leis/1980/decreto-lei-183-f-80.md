@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1364-(56) a 1364-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13202/00560061.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-06-10'
+entry_into_force:
+  date: '1980-06-10'
+  rule: no dia imediato ao da sua publicação e as suas disposições, salvo as do artigo 2.º, aplicam-se aos impostos respeitantes
+    aos rendimentos dos anos de 1979 e seguintes e às obrigações com eles relaciona
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

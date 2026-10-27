@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3443 - 3444
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/151b00/34433444.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-08-03'
+entry_into_force:
+  date: '1991-08-03'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

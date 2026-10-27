@@ -25,6 +25,16 @@ publication:
   pages: 3078 - 3115
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/159a00/30783115.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data em que tiverem sido trocadas notas diplomáticas indicando a conclusão dos procedimentos legais
+    internos requeridos em cada Estado Contratante para a entrada em vigor da Convenç
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

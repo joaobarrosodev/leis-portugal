@@ -23,6 +23,15 @@ publication:
   pages: 3414-(127) a 3414-(178)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do início da vigência da Lei n.º 40/81, de 31 de Dezembro
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

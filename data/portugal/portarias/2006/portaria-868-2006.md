@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6278 - 6282
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-08-30'
+entry_into_force:
+  date: '2006-08-30'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

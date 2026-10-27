@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1054 - 1054
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13300/10541054.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-06-01'
+entry_into_force:
+  date: '1978-06-01'
+  rule: no dia 1 de Junho de 1978
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

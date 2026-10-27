@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 5111 - 5112
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/20800/0511105112.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-30'
+entry_into_force:
+  date: '2018-10-30'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2018-08-01'
+  effects_rule: a 1 de agosto de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

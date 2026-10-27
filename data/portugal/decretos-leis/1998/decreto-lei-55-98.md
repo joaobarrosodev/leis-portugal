@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1084 - 1092
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/063a00/10841092.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-03-21'
+entry_into_force:
+  date: '1998-03-21'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1997-11-25'
+  effects_rule: desde 25 de Novembro de 1997
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

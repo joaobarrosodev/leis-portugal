@@ -23,6 +23,15 @@ publication:
   pages: 166 - 169
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/01000/0016600169.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia, do mês seguinte, ao da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

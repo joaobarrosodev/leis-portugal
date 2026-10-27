@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 910 - 910
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05700/0091000910.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-03-24'
+entry_into_force:
+  date: '2010-03-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

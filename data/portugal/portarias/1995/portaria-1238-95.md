@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6338 - 6341
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/236b00/63386341.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-10-13'
+entry_into_force:
+  date: '1995-10-13'
+  rule: no dia seguinte ao da sua publicação, com excepção do disposto nos n.os 21.º a 24.º, cuja entrada em vigor apenas
+    se verificará a 1 de Abril de 1996
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

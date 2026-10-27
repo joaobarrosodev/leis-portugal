@@ -23,6 +23,15 @@ publication:
   pages: 570 - 574
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08100/05700574.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a regionalização da Junta Nacional do Vinho
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

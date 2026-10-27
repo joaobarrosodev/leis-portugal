@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1951/05/08500/03010302.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:514233:por#art-4'
+    detail: 'Art. 6.º É revogado o [Decreto n.º 38233], de 2 de Maio de 1951. O corpo do artigo 4.º do [Decreto n.º 36690],
+      de 23 de Dezembro de 1947, passa a ter a seguinte redacção:'
 notes: []
 language: por
 version:

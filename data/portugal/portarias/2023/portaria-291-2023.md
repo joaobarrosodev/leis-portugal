@@ -26,6 +26,15 @@ publication:
   pages: 4 - 4
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18900/0000400004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 54-F/2023, de 27 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

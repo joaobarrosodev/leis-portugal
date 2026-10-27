@@ -25,6 +25,16 @@ publication:
   pages: 1638-1659
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/05/14/163342522.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das 00:00 horas do dia 16 de maio de 2021, cessando às 23:59 horas do dia 21 de maio de 2021, sem prejuízo
+    das eventuais renovações necessárias
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

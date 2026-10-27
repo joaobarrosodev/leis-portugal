@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6515 - 6516
   pdf_url: https://files.diariodarepublica.pt/1s/2006/09/17000/65156516.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-09-05'
+entry_into_force:
+  date: '2006-09-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

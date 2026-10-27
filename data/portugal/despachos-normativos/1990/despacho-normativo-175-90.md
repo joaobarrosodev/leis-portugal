@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5153 - 5153
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29000/51535153.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-12-19'
+entry_into_force:
+  date: '1990-12-19'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

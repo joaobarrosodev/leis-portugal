@@ -24,6 +24,16 @@ publication:
   pages: 265 - 274
   pdf_url: https://files.diariodarepublica.pt/1s/1998/01/020a00/02650274.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que ambas as Partes Contratantes tiverem notificado uma à outra, por escrito, o cumprimento
+    dos respectivos procedimentos legais internos
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

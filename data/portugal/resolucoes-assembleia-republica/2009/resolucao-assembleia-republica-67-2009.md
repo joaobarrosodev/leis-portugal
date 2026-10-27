@@ -25,6 +25,16 @@ publication:
   pages: 5076 - 5080
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15000/0507605080.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos oito Estados membros a que diz respeito, 90 dias a contar da notificação a que se refere o n.º 2, pelo Estado,
+    membro da União Europeia à data da aprovação pelo Conselho do Acto que estabelece o p
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

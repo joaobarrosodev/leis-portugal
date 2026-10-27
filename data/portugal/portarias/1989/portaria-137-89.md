@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 821 - 824
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04600/08210824.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-02-24'
+entry_into_force:
+  date: '1989-02-24'
+  rule: à data da sua publicação, reportando-se os seus efeitos à data do início da vigência da Convenção Bilateral CECA
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

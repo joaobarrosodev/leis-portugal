@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1915 - 1917
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/083a00/19151917.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-06-01'
+entry_into_force:
+  date: '1991-06-01'
+  rule: no dia 1 do segundo mês subsequente ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

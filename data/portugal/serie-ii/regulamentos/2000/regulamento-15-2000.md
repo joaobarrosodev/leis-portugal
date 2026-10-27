@@ -23,6 +23,16 @@ publication:
   pages: 11677 - 11677
   pdf_url: https://files.diariodarepublica.pt/2s/2000/07/160000000/1167711677.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua divulgação às empresas de seguros, aplicando-se desde já à informação estatística a enviar relativamente
+    ao final do segundo trimestre de 2000
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

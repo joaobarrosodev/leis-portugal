@@ -24,6 +24,16 @@ publication:
   pages: 2120 - 2122
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/086a00/21202122.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a data do depósito dos instrumentos de ratificação, aceitação ou aprovação por todos os Estados que,
+    à data da abertura à assinatura, sejam membros das Comunidades Europeias
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

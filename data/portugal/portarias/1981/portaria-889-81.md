@@ -24,6 +24,15 @@ publication:
   pages: 2658 - 2658
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/22900/26582658.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos legais, sendo assegurado o complemento das remunerações mínimas desde 1 de Outubro de 1980
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

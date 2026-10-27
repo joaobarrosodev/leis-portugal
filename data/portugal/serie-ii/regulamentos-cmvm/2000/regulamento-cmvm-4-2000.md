@@ -23,6 +23,16 @@ publication:
   pages: 3175 - 3176
   pdf_url: https://files.diariodarepublica.pt/2s/2000/02/039000000/0317503176.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia posterior ao da sua publicação no Diário da República dispondo as entidades gestoras de um período de três
+    meses, a contar da data de entrada em vigor, para adoptarem o procedimento estabelecid
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

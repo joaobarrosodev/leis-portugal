@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4621 - 4621
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/185b00/46214621.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-08-16'
+entry_into_force:
+  date: '1994-08-16'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1993-06-15'
+  effects_rule: desde 15 de Junho de 1993
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

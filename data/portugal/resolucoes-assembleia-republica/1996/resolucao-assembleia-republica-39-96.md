@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4276 - 4280
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-11-27'
+entry_into_force:
+  date: '1996-11-27'
+  rule: no dia da sua publicação no Diário da Assembleia da República, produzindo as transições nela previstas efeitos a partir
+    do dia 1 de Junho de 1996
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

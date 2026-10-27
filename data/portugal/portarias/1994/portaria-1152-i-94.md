@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7492-(4) a 7492-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/300b02/00040005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-01-03'
+entry_into_force:
+  date: '1995-01-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1995-01-01'
+  effects_rule: a partir do dia 1 de Janeiro de 1995
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

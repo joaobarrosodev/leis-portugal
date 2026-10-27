@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1496-(2) a 1496-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/064b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-03-18'
+entry_into_force:
+  date: '1999-03-18'
+  rule: em 18 de Março de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

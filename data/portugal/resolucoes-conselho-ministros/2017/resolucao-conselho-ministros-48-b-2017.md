@@ -23,6 +23,15 @@ publication:
   pages: 1692-(4) a 1692-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06501/0000400004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da sua aprovação e
+  method: clausula
+  article: n-3
+  effects_date: '2017-03-31'
+  effects_rule: a partir de 31 de março de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

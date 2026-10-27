@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2025/06/11900/0001300014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-06-29'
+entry_into_force:
+  date: '2025-06-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2025-12-24'
+  effects_rule: seis meses após a data da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

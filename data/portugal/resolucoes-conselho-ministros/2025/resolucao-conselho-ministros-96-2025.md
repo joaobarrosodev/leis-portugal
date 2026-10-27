@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 14 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/08400/0001400015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-03'
+entry_into_force:
+  date: '2025-05-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

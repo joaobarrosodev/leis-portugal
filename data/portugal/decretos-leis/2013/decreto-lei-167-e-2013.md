@@ -23,7 +23,17 @@ publication:
   supplement: 3º Suplemento
   pages: 7056-(364) a 7056-(369)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25303/0036400369.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-01'
+entry_into_force:
+  date: '2014-01-01'
+  rule: no dia 1 de janeiro de 2014
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

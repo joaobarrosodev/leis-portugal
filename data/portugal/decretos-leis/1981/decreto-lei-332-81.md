@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3185 - 3185
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/28000/31853185.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-12-06'
+entry_into_force:
+  date: '1981-12-06'
+  rule: no dia seguinte ao da sua publicação e o disposto no artigo 2.º
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

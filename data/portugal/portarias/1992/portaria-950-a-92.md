@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4594-(2) a 4594-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/09/226b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-10-01'
+entry_into_force:
+  date: '1992-10-01'
+  rule: em 1 de Outubro de 1992
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

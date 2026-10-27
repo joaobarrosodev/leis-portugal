@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2440 - 2446
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/09600/0244002446.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-17'
+entry_into_force:
+  date: '2017-06-17'
+  rule: 30 dias após a data da sua publicação e só se aplica aos procedimentos que se iniciem a partir dessa data
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

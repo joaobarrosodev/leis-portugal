@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 935 - 937
   pdf_url: https://files.diariodarepublica.pt/1s/1971/06/14600/09350937.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1971-07-01'
+entry_into_force:
+  date: '1971-07-01'
+  rule: no dia 1 de Julho de 1971, podendo, porém, ser publicada antes daquela data, mas para produzir efeitos a partir da
+    mesma, a lista a que se refere o artigo 4.º
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

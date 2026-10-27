@@ -24,6 +24,16 @@ publication:
   pages: 15 - 29
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/19000/0001500029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no trigésimo (30) dia seguinte à data da receção da última notificação, por escrito e pela via diplomática, relativa
+    ao cumprimento dos procedimentos internos requeridos pelos respetivos ordenamentos '
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

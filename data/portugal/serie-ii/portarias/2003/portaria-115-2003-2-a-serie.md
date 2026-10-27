@@ -23,6 +23,15 @@ publication:
   pages: 1014 - 1015
   pdf_url: https://files.diariodarepublica.pt/2s/2003/01/018000000/0101401015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua homologação por portaria ministerial
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

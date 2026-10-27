@@ -23,6 +23,16 @@ publication:
   pages: 3579 - 3585
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/20100/35793585.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após cinco dos Estados mencionados no parágrafo 1 do artigo 15.º da presente Convenção a terem assinado
+    sem reserva de ratificação ou terem depositado o seu instrumento de ratificação ou de
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

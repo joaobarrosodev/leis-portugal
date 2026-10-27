@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 643 - 645
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02200/0064300645.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-02-03'
+entry_into_force:
+  date: '2015-02-03'
+  rule: no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices
+    de seguro contratadas durante o ano de 2014, ao abrigo do Regulamento do Seguro d
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

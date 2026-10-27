@@ -25,6 +25,16 @@ publication:
   pages: 6 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07200/0000600009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da receção da última das notificações escritas, por via diplomática, de que estão cumpridos, por cada uma
+    das Partes, os seus respetivos procedimentos internos necessários para a entrada em vi
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

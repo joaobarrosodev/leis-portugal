@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6373 - 6385
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/21400/0637306385.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-12-05'
+entry_into_force:
+  date: '2013-12-05'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 1950-(1) a 1950-(105)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à notificação prevista na alínea 3
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

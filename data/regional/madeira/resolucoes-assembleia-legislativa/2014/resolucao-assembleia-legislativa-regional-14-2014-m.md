@@ -23,6 +23,15 @@ publication:
   pages: 6056 - 6057
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/23800/0605606057.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

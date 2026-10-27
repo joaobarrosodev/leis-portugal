@@ -24,6 +24,16 @@ publication:
   pages: 2927 - 2928
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/148a00/29272928.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação, por escrito, por via diplomática, em que uma das Partes Contratantes informa a outra
+    da perfeição das formalidades exigidas pela respectiva ordem jurídico-constitucional
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1827 - 1828
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/08600/0182701828.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-05-05'
+entry_into_force:
+  date: '2018-05-05'
+  rule: no dia seguinte ao da sua publicação e os seus efeitos retroagem à data da entrada em vigor da Portaria n.º 52/2016,
+    de 24 de março
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

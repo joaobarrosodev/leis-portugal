@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1752-(1) a 1752-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14601/00010008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-07-01'
+entry_into_force:
+  date: '1985-07-01'
+  rule: em 1 de Julho de 1985
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

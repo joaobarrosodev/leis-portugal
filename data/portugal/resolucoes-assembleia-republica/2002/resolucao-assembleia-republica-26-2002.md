@@ -24,6 +24,15 @@ publication:
   pages: 3247 - 3255
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/081a00/32473255.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia a partir da data em que for depositado o sétimo instrumento de ratificação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

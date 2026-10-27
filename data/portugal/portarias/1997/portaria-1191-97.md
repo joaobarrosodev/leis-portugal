@@ -23,6 +23,15 @@ publication:
   pages: 6321 - 6323
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/270b00/63216323.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês a seguir à sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 2496 - 2496
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22000/24962496.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 30 de Setembro do corrente ano
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

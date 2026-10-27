@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6033 - 6073
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/268b00/60336073.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-11-22'
+entry_into_force:
+  date: '1991-11-22'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

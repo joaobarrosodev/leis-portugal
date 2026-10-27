@@ -25,6 +25,15 @@ publication:
   pages: 6466 - 6467
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/21600/0646606467.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Orçamento da Região Autónoma da Madeira, subsequente à sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

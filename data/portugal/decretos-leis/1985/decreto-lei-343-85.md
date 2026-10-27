@@ -23,6 +23,15 @@ publication:
   pages: 2736 - 2736
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/19200/27362736.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o Código do Imposto sobre o Valor Acrescentado
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

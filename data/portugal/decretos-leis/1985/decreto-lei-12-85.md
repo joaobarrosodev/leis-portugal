@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 73 - 76
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01100/00730076.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-07-13'
+entry_into_force:
+  date: '1985-07-13'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

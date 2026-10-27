@@ -24,6 +24,16 @@ publication:
   pages: 2401 - 2404
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/10900/0240102404.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a receção, por escrito e por via diplomática, da última notificação do cumprimento de todos os requisitos
+    do Direito Interno de ambas as Partes exigidos para o efeito
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1951/01/00200/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:627215:por#texto'
+    detail: 8. O disposto nesta portaria é aplicável aos educandos da Obra Social da Fragata D. Fernando, pelo que fica revogada
+      a [Portaria n.º 13408], de 3 de Janeiro de 1951.
 notes: []
 language: por
 version:

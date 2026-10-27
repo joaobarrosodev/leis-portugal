@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 818 - 820
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/02400/0081800820.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-03-01'
+entry_into_force:
+  date: '2018-03-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação, sem prejuízo do disposto no n.º 5 do artigo 3.º do presente
+    decreto-lei
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

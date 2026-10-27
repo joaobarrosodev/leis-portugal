@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1998 - 1998
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/29400/19981998.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-01-01'
+entry_into_force:
+  date: '1973-01-01'
+  rule: no dia 1 de Janeiro de 1973 e os encargos dele resultantes serão satisfeitos pelas disponibilidades das verbas de
+    vencimentos destinados ao corpo de guardas ou, quando insuficientes, por dotação adequ
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

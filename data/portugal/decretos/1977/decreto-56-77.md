@@ -23,6 +23,16 @@ publication:
   pages: 839 - 840
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08800/08390840.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da assinatura deste Protocolo e terá a duração indeterminada, podendo ser denunciado por qualquer das Partes
+    contratantes, mediante aviso prévio de seis meses
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

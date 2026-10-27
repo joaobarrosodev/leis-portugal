@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1026 - 1026
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/08700/10261026.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-04-16'
+entry_into_force:
+  date: '1985-04-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

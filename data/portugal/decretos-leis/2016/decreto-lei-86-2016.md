@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4799 - 4832
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24700/0479904832.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-01'
+entry_into_force:
+  date: '2017-01-01'
+  rule: em 1 de janeiro de 2017
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

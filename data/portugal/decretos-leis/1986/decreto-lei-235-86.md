@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2036 - 2074
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/18800/20362074.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-10-17'
+entry_into_force:
+  date: '1986-10-17'
+  rule: 60 dias após a data da sua publicação e só será aplicável às obras postas a concurso posteriormente a essa data, sem
+    prejuízo de aplicação às empreitadas em curso das disposições do capítulo VII, sobr
+  method: clausula
+  article: art-236
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 976 - 978
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10200/09760978.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a troca de instrumentos de ratificação, segundo as determinações constitucionais em vigor nos dois países
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

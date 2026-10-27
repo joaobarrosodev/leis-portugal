@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1788 - 1789
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/16500/17881789.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-07-21'
+entry_into_force:
+  date: '1986-07-21'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 7505 - 7505
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/250b00/75057505.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-12-30'
+entry_into_force:
+  date: '2005-12-30'
+  rule: em 30 de Dezembro de 2005
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

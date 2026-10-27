@@ -23,6 +23,15 @@ publication:
   pages: 5284 - 5319
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/194b00/52845319.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um ano após a data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

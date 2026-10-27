@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1747 - 1749
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14600/17471749.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-07-28'
+entry_into_force:
+  date: '1985-07-28'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

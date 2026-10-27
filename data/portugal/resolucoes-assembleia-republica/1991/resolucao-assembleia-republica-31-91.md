@@ -23,6 +23,15 @@ publication:
   pages: 5256 - 5262
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/233a00/52565262.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia a seguir à data de depósito do segundo instrumento de ratificação ou de adesão
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

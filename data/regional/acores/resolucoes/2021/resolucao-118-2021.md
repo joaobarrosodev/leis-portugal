@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1700-1705
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/05/18/163561204.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-19'
+entry_into_force:
+  date: '2021-05-19'
+  rule: no dia seguinte ao da sua publicação, suspendendo-se a sua aplicação em caso de declaração de Estado de Emergência,
+    por Decreto do Presidente da República, nos termos constitucionalmente estabelecidos
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

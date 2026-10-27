@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1881 - 1881
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18500/18811881.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-08-12'
+entry_into_force:
+  date: '1979-08-12'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '1979-07-01'
+  effects_rule: a partir de 1 de Julho de 1979
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 865 - 866
   pdf_url: https://files.diariodarepublica.pt/1s/1965/06/13600/08650866.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-01-01'
+entry_into_force:
+  date: '1966-01-01'
+  rule: no dia 1 de Janeiro de 1966
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

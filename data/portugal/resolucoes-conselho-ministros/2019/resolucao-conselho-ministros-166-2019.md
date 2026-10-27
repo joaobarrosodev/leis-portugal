@@ -25,6 +25,15 @@ publication:
   pages: 50 - 51
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/18700/0005000051.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da sua aprovação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

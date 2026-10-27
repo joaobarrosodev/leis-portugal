@@ -24,6 +24,16 @@ publication:
   pages: 1391 - 1401
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13200/13911401.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data em que as Partes Contratantes tiverem comunicado uma à outra, por via diplomática, que o ratificaram
+    ou aprovaram de harmonia com as suas formalidades constitucionais
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

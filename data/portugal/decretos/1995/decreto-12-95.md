@@ -24,6 +24,16 @@ publication:
   pages: 2928 - 2938
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/114a00/29282938.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após as duas Partes Contratantes se terem notificado reciprocamente por escrito que estão cumpridas as condições
+    necessárias no seu país, para a entrada em vigor deste Acordo
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3372 - 3374
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23800/33723374.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-11-01'
+entry_into_force:
+  date: '1980-11-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

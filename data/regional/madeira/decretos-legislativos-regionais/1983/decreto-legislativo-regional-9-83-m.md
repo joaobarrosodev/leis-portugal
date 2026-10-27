@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2773 - 2775
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/17000/27732775.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-07-27'
+entry_into_force:
+  date: '1983-07-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

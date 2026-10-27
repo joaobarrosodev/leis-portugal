@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/136000000/0004700050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:214118798:por#n-1'
+    detail: É revogada a [Deliberação n.º 797/2022], de 15 de julho, da Comissão Nacional de Acesso ao Ensino Superior.
 notes: []
 language: por
 version:

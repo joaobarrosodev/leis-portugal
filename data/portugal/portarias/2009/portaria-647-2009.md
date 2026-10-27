@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3633 - 3634
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11100/0363303634.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-14'
+entry_into_force:
+  date: '2009-09-14'
+  rule: no dia 14 de Setembro de 2009
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

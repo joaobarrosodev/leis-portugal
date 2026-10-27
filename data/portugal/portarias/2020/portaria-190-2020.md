@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 54 - 55
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15300/0005400055.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-08'
+entry_into_force:
+  date: '2020-08-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: no que se refere ao previsto no n.º 6 do artigo 2.º, a partir de 1 de janeiro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

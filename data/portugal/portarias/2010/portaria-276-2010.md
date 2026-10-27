@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1729 - 1732
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/09700/0172901732.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-20'
+entry_into_force:
+  date: '2010-05-20'
+  rule: no dia seguinte ao da sua publicação, ficando revogados, nos termos das alíneas uu) e ccc) do artigo 23.º e do n.º
+    2 do artigo 24.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, a Portaria n.º 623/98,
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

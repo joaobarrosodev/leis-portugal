@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4260-(68) a 4260-(72)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30104/00680072.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-12-31'
+entry_into_force:
+  date: '1985-12-31'
+  rule: em 31 de Dezembro de 1985
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

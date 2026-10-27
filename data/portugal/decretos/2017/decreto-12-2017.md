@@ -25,6 +25,16 @@ publication:
   pages: 1846 - 1851
   pdf_url: https://files.diariodarepublica.pt/1s/2017/04/07200/0184601851.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data da recepção da última notificação, por via diplomática, informando que foram cumpridos os
+    requisitos de direito interno das Partes necessários para o efeito
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

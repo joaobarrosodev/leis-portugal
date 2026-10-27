@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 493 - 495
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07500/04930495.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-04-01'
+entry_into_force:
+  date: '1975-04-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação no Diário do Governo
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

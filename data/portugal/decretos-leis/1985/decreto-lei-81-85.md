@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 806 - 816
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/07300/08060816.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-05-01'
+entry_into_force:
+  date: '1985-05-01'
+  rule: no dia 1 de Maio de 1985
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

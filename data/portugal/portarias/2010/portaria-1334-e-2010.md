@@ -25,7 +25,17 @@ publication:
   supplement: 2º Suplemento
   pages: 6122-(330) a 6122-(333)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25302/0033000333.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-01-05'
+entry_into_force:
+  date: '2011-01-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2011-01-30'
+  effects_rule: 30 dias após a data da sua publicação e aplica-se aos procedimentos que se iniciem a partir dessa data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

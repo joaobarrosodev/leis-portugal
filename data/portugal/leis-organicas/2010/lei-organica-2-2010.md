@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2064 - 2067
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11500/0206402067.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-06-17'
+entry_into_force:
+  date: '2010-06-17'
+  rule: no dia seguinte ao da sua publicação e retroage os seus efeitos ao dia 20 de Fevereiro de 2010
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: '2013-12-31'
+  end_rule: até 31 de Dezembro de 2013
 end_of_validity_date: null
 legal_status: in_force
 notes: []

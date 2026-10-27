@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 6844-(2) a 6844-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/288a01/00020017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-12-30'
+entry_into_force:
+  date: '1998-12-30'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

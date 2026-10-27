@@ -24,6 +24,16 @@ publication:
   pages: 816 - 824
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03400/0081600824.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data da notificação por ambas as Partes de que foram cumpridos os respectivos requisitos relativos
+    à entrada em vigor do presente Acordo
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: ':'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

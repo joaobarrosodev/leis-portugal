@@ -24,6 +24,16 @@ publication:
   pages: 6456-(2) a 6456-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/214a01/00020035.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia seguinte à data do depósito do 40.º instrumento de ratificação, aceitação, aprovação, confirmação formal
+    ou adesão junto do depositário
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

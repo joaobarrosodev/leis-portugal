@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1653 - 1654
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/15200/16531654.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-01-26'
+entry_into_force:
+  date: '1978-01-26'
+  rule: a partir de 26 de Janeiro de 1978
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

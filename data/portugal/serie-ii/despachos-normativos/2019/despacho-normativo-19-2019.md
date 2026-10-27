@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 19492 - 19493
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/132000000/1949219493.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-15'
+entry_into_force:
+  date: '2019-07-15'
+  rule: no dia 15 de julho de 2019
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

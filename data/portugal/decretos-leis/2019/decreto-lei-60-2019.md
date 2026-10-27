@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2418 - 2418
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/09100/0241802418.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-01'
+entry_into_force:
+  date: '2019-07-01'
+  rule: a 1 de julho de 2019
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: quanto às operações realizadas a partir da data prevista no número anterior, derrogando-se, para este efeito,
+    o disposto no n.º 3 do artigo 7.º e no n.º 9 do artigo 18.º do Código do IVA
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

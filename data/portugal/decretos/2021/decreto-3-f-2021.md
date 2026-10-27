@@ -23,6 +23,15 @@ publication:
   pages: 36-(2) a 36-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/04003/0000200002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 2 de março de 2021
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

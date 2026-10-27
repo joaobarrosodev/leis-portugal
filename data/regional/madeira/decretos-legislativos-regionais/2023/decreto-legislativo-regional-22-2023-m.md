@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30 - 36
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11900/0003000036.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-22'
+entry_into_force:
+  date: '2023-06-22'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: a partir da data de entrada em vigor da regulamentação necessária à sua execução
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

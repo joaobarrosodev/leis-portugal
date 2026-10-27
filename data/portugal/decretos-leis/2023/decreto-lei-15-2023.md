@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 31 - 33
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04000/0003100033.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-25'
+entry_into_force:
+  date: '2023-02-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2023-02-01'
+  effects_rule: desde 1 de fevereiro de 2023, com exceção das alterações introduzidas pelo presente decreto-lei aos artigos
+    2.º, 3.º e 5.º do Decreto-Lei n.º 50-A/2022, de 25 de julho, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

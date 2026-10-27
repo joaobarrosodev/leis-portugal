@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1696 - 1697
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/150a00/16961697.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-07-02'
+entry_into_force:
+  date: '1996-07-02'
+  rule: no dia seguinte ao da sua publicação, aplicando-se, porém, aos concursos para colocação de professores que já se encontrem
+    abertos àquela data
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

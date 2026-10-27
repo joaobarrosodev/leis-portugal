@@ -24,6 +24,15 @@ publication:
   pages: 10494 - 10498
   pdf_url: https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia útil posterior à publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

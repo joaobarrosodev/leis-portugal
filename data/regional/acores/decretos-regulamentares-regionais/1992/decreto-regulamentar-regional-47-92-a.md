@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5474 - 5485
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/275b00/54745485.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-11-28'
+entry_into_force:
+  date: '1992-11-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 458 - 460
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/01300/0045800460.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-19'
+entry_into_force:
+  date: '2017-01-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2017-01-01'
+  effects_rule: desde 1 de janeiro de 2017, devendo as instruções agora aprovadas ser utilizadas no preenchimento da Declaração
+    Mensal de Remunerações - AT relativa a rendimentos pagos ou colocados à disposição a par
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

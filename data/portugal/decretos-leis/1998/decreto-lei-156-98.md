@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2593 - 2599
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/131a00/25932599.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-06-07'
+entry_into_force:
+  date: '1998-06-07'
+  rule: 'no dia seguinte ao da sua publicação, sem prejuízo da comercialização dos produtos que sejam lançados no mercado
+    até 28 de Outubro de 1998 e que tenham sido produzidos e rotulados em conformidade com '
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

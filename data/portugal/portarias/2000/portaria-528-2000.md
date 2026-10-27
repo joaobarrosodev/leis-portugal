@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3666 - 3668
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/173b00/36663668.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-08-27'
+entry_into_force:
+  date: '2000-08-27'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

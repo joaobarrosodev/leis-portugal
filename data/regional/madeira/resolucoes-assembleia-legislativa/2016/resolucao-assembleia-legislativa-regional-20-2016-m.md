@@ -25,6 +25,15 @@ publication:
   pages: 1495 - 1497
   pdf_url: https://files.diariodarepublica.pt/1s/2016/05/08700/0149501497.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à entrada em vigor do Orçamento do Estado posterior à sua aprovação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

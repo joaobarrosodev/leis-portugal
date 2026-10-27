@@ -24,6 +24,16 @@ publication:
   pages: 3772 - 3801
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/12200/0377203801.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de receção da última notificação, por escrito e por via diplomática, informando que foram cumpridos
+    os requisitos de direito interno dos Estados Contratantes necessários para o efe
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

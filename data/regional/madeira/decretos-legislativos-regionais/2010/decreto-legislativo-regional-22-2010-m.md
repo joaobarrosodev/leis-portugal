@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3646 - 3654
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16200/0364603654.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-08-21'
+entry_into_force:
+  date: '2010-08-21'
+  rule: no 1.º dia após a sua publicação, sem prejuízo do disposto no artigo 32.º
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

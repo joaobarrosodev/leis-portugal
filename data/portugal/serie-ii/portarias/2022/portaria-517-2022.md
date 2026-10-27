@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/096000000/0006300063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:216305802:por#n-5'
+    detail: 5 - A presente portaria revoga a [Portaria n.º 517/2022], publicada no Diário da República, 2.ª série, n.º 96,
+      de 18 de maio de 2022 e a [Portaria n.º 745/2022], publicada no Diário da República, 2.ª série, n.º 214, de 7 de novembro
+      de 2022.
 notes: []
 language: por
 version:

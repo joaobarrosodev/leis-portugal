@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1808 - 1810
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/16700/18081810.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-08-02'
+entry_into_force:
+  date: '1986-08-02'
+  rule: dez dias após a sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 8214-(2) a 8214-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/269b01/00020005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o Decreto-Lei n.º 462/99, de 5 de Novembro
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

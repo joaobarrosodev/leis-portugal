@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5 - 12
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/06300/0000500012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-30'
+entry_into_force:
+  date: '2020-03-30'
+  rule: à data da publicação das portarias regulamentares referidas no artigo 19.º
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

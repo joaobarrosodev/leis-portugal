@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 651 - 653
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02900/0065100653.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-03-01'
+entry_into_force:
+  date: '2012-03-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação, salvo no que depender da aprovação das alterações aos estatutos do
+    IST, a cumprir no prazo de 60 dias, com vista à plena conformação da transferência d
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

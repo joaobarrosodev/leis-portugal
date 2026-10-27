@@ -23,6 +23,15 @@ publication:
   pages: 1968-(4) a 1968-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/29801/00040009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em todo o continente e ilhas adjacentes no dia 1 de Janeiro de 1971
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

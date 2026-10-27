@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6368 - 6383
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/237b00/63686383.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-10-14'
+entry_into_force:
+  date: '1995-10-14'
+  rule: no dia seguinte ao da data da sua publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

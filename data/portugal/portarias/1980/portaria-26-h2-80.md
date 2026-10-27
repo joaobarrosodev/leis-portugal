@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 26-(107) a 26-(107)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00706/01070107.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-01-10'
+entry_into_force:
+  date: '1980-01-10'
+  rule: no dia seguinte ao da sua publicação, excepto quanto aos leites em pó instantâneos que se encontrem nos armazenistas,
+    retalhistas ou equiparados, que manterão os preços de venda ao público devidamente
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

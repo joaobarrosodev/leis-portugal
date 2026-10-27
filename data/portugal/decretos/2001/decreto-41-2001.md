@@ -24,6 +24,16 @@ publication:
   pages: 6154 - 6161
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/226a00/61546161.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de entrega da última notificação através da qual as Partes Contratantes se hajam notificado reciprocamente,
+    por escrito, do cumprimento dos procedimentos constitucionais, necessári
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

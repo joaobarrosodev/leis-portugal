@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 933 - 934
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/12000/09330934.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-05-27'
+entry_into_force:
+  date: '1978-05-27'
+  rule: no dia seguinte ao da sua publicação, com excepção do disposto no n.º 6.º relativamente à obrigatoriedade de indicação
+    nas embalagens da designação de
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

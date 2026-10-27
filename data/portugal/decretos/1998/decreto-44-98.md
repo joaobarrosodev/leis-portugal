@@ -24,6 +24,16 @@ publication:
   pages: 6455 - 6457
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/272a00/64556457.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação escrita, devendo as Partes Contratantes ser informadas, por via diplomática, dos respectivos
+    procedimentos internos necessários para esse efeito
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

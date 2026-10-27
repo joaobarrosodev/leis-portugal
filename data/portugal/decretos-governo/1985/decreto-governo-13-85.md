@@ -24,6 +24,16 @@ publication:
   pages: 1631 - 1656
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14000/16311656.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'para os Estados que o tenham ratificado, aceite ou aprovado ou que a ele tenham aderido 90 dias após a data em que
+    estejam cumpridas as seguintes condições:'
+  method: clausula
+  article: art-vi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

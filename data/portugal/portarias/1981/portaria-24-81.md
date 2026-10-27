@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 68 - 68
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/00900/00680068.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-01-27'
+entry_into_force:
+  date: '1981-01-27'
+  rule: quinze dias após a data da sua publicação
+  method: clausula
+  article: n-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

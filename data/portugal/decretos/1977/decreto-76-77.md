@@ -23,6 +23,15 @@ publication:
   pages: 1199 - 1200
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11900/11991200.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ao mesmo tempo que o Acordo de Cooperação nos Domínios Económico, Técnico e Científico
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

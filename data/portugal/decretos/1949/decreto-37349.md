@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1949/03/06000/01800189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:410892:por#n-14'
+    detail: 14.º Com a publicação da presente portaria é revogado o [Decreto n.º 37349], de 24 de Março de 1949, por força
+      do disposto no artigo 247.º do R. G. C.
 notes: []
 language: por
 version:

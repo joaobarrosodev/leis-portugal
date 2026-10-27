@@ -24,6 +24,15 @@ publication:
   pages: 13 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/08400/0001300014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da respetiva assinatura
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

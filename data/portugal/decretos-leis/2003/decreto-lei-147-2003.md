@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3928 - 3934
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/158a00/39283934.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-09'
+entry_into_force:
+  date: '2003-09-09'
+  rule: 60 dias após a data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

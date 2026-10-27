@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 19
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10700/0000200019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-03'
+entry_into_force:
+  date: '2023-06-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: na data da entrada em vigor do decreto-lei que aprova a orgânica da AIMA, I
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

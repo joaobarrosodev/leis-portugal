@@ -25,7 +25,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1955/08/19200/07740774.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:329015:por#n-6'
+    detail: 6.º É revogada a [Portaria n.º 15524], de 30 de Agosto de 1955.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:329015:por'
+    detail: Revogada pelo(a) Portaria n.º 602/78 - Diário da República n.º 226/1978, Série I de 1978-09-30
 notes: []
 language: por
 version:

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1301 - 1307
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/05300/0130101307.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-03-16'
+entry_into_force:
+  date: '2018-03-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: '2018-01-01'
+  effects_rule: reportados a 1 de janeiro de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

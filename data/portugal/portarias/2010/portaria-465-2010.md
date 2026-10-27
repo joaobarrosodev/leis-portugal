@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2459 - 2459
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/12700/0245902459.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-03'
+entry_into_force:
+  date: '2010-07-03'
+  rule: no dia seguinte ao da sua publicação e os seus efeitos retroagem à data de entrada em vigor da Portaria n.º 402/2010,
+    de 28 de Junho
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

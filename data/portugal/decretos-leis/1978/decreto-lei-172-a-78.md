@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1270-(3) a 1270-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15401/00030004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-07-08'
+entry_into_force:
+  date: '1978-07-08'
+  rule: no dia imediato ao da sua publicação, salvo no que respeita às alterações aos artigos 8.º, alínea e) do n.º 1.º, 11.º,
+    n.º 1.º, 28.º, 29.º e 85.º do mesmo Código, que se aplicam aos rendimentos e às t
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

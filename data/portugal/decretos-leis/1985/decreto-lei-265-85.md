@@ -25,6 +25,15 @@ publication:
   pages: 2043 - 2043
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16100/20432043.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de entrada em vigor da Lei do Orçamento do Estado para 1986
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

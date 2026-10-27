@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 931 - 933
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/049a00/09310933.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-04-29'
+entry_into_force:
+  date: '1994-04-29'
+  rule: 60 dias após a data da sua publicação, não se aplicando aos concursos e procedimentos iniciados em data anterior à
+    da sua vigência
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

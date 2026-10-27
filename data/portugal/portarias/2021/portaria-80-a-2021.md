@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 19-(2) a 19-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/06701/0000200012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-08'
+entry_into_force:
+  date: '2021-04-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: '2021-02-15'
+  effects_rule: a 15 de fevereiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

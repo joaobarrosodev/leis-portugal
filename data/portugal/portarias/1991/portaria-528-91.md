@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3126 - 3131
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/133b00/31263131.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-06-12'
+entry_into_force:
+  date: '1991-06-12'
+  rule: na data da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

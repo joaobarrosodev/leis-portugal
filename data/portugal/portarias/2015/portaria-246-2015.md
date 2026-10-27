@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5933 - 5936
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15800/0593305936.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-11'
+entry_into_force:
+  date: '2016-01-11'
+  rule: 150 dias após a sua publicação, exceto o disposto no artigo anterior, que
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

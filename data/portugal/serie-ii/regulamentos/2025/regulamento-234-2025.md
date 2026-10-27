@@ -23,6 +23,16 @@ publication:
   pages: 548 - 552
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/030000000/0054800552.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação em Assembleia de Freguesia de Santa Cruz, sem prejuízo da sua publicação no Diário
+    da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

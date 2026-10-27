@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 138 - 140
   pdf_url: https://files.diariodarepublica.pt/1s/1970/01/02300/01380140.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1970-02-01'
+entry_into_force:
+  date: '1970-02-01'
+  rule: no dia 1 de Fevereiro de 1970
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

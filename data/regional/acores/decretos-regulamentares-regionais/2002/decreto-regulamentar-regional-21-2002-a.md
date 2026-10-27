@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5509 - 5515
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/171b00/55095515.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-07-27'
+entry_into_force:
+  date: '2002-07-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: no que respeita ao abono do suplemento de função inspectiva, a partir de 1 de Julho de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

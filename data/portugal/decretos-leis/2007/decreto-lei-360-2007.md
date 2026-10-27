@@ -26,6 +26,15 @@ publication:
   pages: 7972 - 7974
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21100/0797207974.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 5210-(2) a 5210-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/188b01/00020002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 0 horas do dia 16 de Agosto de 2001
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

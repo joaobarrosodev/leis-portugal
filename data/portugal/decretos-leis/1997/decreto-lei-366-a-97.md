@@ -23,7 +23,17 @@ publication:
   supplement: 3º Suplemento
   pages: 6732-(498) a 6732-(503)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/293a03/04980503.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-12-21'
+entry_into_force:
+  date: '1997-12-21'
+  rule: no dia imediato ao da sua publicação, salvo o disposto nos artigos 8.º, 11.º, 12.º e 14.º, que
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 228-(5) a 228-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02402/00050024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-01-29'
+entry_into_force:
+  date: '1976-01-29'
+  rule: na data da publicação
+  method: clausula
+  article: art-160
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

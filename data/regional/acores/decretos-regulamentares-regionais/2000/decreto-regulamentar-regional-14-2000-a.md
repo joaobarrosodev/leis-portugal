@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2328 - 2333
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/119b00/23282333.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-06-22'
+entry_into_force:
+  date: '2000-06-22'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

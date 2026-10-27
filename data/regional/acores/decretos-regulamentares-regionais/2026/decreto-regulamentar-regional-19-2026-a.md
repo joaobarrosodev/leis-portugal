@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 40 - 57
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/16000/0004000057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-20'
+entry_into_force:
+  date: '2026-08-20'
+  rule: no dia seguinte ao da sua publicação e aplica-se às candidaturas a projetos culturais que se realizem em 2027 e anos
+    seguintes
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

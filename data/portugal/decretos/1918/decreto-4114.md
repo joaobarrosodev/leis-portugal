@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1918/04/08300/04210433.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:57531377:por'
+    detail: Revogada, a partir de 25.11.2014, o presente diploma, pelo(a) Decreto-Lei n.º 143/2014 - Diário da República n.º
+      186/2014, Série I de 2014-09-26
 notes: []
 language: por
 version:

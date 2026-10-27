@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8292-(17) a 8292-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/300b03/00170018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-01-29'
+entry_into_force:
+  date: '1996-01-29'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: n-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

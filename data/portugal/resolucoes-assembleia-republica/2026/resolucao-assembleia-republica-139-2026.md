@@ -25,6 +25,16 @@ publication:
   pages: 73 - 76
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/10700/0007300076.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta (30) dias após a receção da última notificação, por escrito e por via diplomática, do cumprimento dos requisitos
+    necessários para tal efeito previstos no Direito Interno das Partes
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1502 - 1504
   pdf_url: https://files.diariodarepublica.pt/1s/2016/05/08800/0150201504.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-05-07'
+entry_into_force:
+  date: '2016-05-07'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-12
+  effects_date: '2016-04-01'
+  effects_rule: a 1 de abril de 2016
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

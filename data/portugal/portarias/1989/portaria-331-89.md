@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1850 - 1850
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10600/18501850.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-01-01'
+entry_into_force:
+  date: '1989-01-01'
+  rule: em 1 de Janeiro de 1989
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6633 - 6635
   pdf_url: https://files.diariodarepublica.pt/1s/2002/09/225b00/66336635.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-11-27'
+entry_into_force:
+  date: '2002-11-27'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

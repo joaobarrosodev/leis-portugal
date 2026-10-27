@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4420 - 4423
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29800/44204423.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-01-01'
+entry_into_force:
+  date: '1988-01-01'
+  rule: em 1 de Janeiro de 1988 e revoga a Portaria n.º 633/84, de 24 de Agosto
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7524-(2) a 7524-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/300a01/00020004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-12-31'
+entry_into_force:
+  date: '2000-12-31'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: a partir de 2 de Janeiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

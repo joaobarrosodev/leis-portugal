@@ -24,6 +24,16 @@ publication:
   pages: 4 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/23700/0000400014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à data em que três Estados-Membros tenham depositado na sede da CPLP, junto ao seu
+    Secretariado Executivo, os respetivos instrumentos de ratificação, aceitação ou aprov
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

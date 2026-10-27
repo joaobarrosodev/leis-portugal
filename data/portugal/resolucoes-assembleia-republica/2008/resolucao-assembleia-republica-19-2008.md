@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2703 - 2811
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-01'
+entry_into_force:
+  date: '2009-01-01'
+  rule: 'no dia 1 de Janeiro de 2009, se tiverem sido depositados todos os instrumentos de ratificação ou, na falta desse
+    depósito, no primeiro dia do mês seguinte ao do depósito do instrumento de ratificação '
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

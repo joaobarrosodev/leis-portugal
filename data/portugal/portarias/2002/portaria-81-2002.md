@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 509 - 520
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/020b00/05090520.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-02-01'
+entry_into_force:
+  date: '2002-02-01'
+  rule: oito dias após a sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

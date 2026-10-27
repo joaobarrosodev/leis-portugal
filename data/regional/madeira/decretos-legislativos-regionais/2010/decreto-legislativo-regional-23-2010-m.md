@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 5418 - 5419
   pdf_url: https://files.diariodarepublica.pt/1s/2010/11/23200/0541805419.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-01'
+entry_into_force:
+  date: '2010-12-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7820 - 7854
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/21800/0782007854.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-02-08'
+entry_into_force:
+  date: '2009-02-08'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-82
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1499 - 1503
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04900/0149901503.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-05-09'
+entry_into_force:
+  date: '2008-05-09'
+  rule: 60 dias após a data da sua publicação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2787 - 2787
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21600/27872787.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-10-01'
+entry_into_force:
+  date: '1980-10-01'
+  rule: em 1 de Outubro de 1980
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

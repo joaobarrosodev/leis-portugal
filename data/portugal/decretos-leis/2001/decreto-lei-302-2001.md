@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7503 - 7505
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/272a00/75037505.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-12-23'
+entry_into_force:
+  date: '2001-12-23'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 223 - 224
   pdf_url: https://files.diariodarepublica.pt/1s/1962/03/05500/02230224.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos estabelecidos no artigo 17.º do Decreto-Lei n.º 43181, de 23 de Setembro de 1960
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

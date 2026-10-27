@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 21 - 29
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14500/0002100029.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-28'
+entry_into_force:
+  date: '2020-07-28'
+  rule: na data da publicação da portaria referida no artigo anterior e
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: '2030-12-31'
+  end_rule: até 31 de dezembro de 2030, sem prejuízo da continuação da sua aplicação a propostas que sejam apresentadas na
+    IHM, EPERAM, até ao final da sua vigência
 end_of_validity_date: null
 legal_status: in_force
 notes:

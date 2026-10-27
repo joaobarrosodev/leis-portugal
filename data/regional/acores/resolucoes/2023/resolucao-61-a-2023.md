@@ -26,6 +26,15 @@ publication:
   pages: '1480'
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/04/14/211844887.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das 00:00 do dia 15 de abril de 2023
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

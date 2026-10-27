@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 631 - 631
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/030b00/06310631.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-06-01'
+entry_into_force:
+  date: '1997-06-01'
+  rule: no dia 1 de Junho de 1997
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

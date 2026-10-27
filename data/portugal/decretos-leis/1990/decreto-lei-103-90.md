@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1430 - 1440
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06800/14301440.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-03-23'
+entry_into_force:
+  date: '1990-03-23'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

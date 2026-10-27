@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 468 - 468
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/019b00/04680468.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-03-01'
+entry_into_force:
+  date: '2004-03-01'
+  rule: no dia 1 de Março de 2004
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1958/03/06400/01870188.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:469840:por#n-7'
+    detail: 7.º Fica revogada a [Portaria n.º 16649], de 27 de Março de 1958.
 notes: []
 language: por
 version:

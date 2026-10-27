@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4398 - 4399
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29500/43984399.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-12-25'
+entry_into_force:
+  date: '1987-12-25'
+  rule: no dia imediato ao da sua publicação e caducará logo que entre em vigor regulamentação comunitária sobre a matéria
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

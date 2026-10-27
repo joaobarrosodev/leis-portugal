@@ -24,6 +24,16 @@ publication:
   pages: 4 - 244
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/10400/0000400244.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data em que as Partes se tiverem notificado reciprocamente da conclusão
+    das respetivas formalidades internas para o efeito
+  method: clausula
+  article: art-318
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

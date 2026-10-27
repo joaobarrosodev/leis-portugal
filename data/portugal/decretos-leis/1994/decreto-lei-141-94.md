@@ -23,6 +23,16 @@ publication:
   pages: 2746 - 2747
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/119a00/27462747.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas circunscrições administrativas dos municípios de Cascais e Oeiras, sucessivamente, nas datas de publicação das
+    resoluções do Conselho de Ministros que ratifiquem os respectivos planos directores m
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

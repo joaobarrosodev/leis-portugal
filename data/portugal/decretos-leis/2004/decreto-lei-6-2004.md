@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 62 - 67
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/004a00/00620067.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-02-01'
+entry_into_force:
+  date: '2004-02-01'
+  rule: no dia 1 de Fevereiro de 2004 e só será aplicável às obras postas a concurso a partir dessa data, sem prejuízo de
+    aplicação às obras em curso das disposições previstas no n.º 2 do artigo 14.º e nos ar
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

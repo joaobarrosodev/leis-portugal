@@ -25,6 +25,16 @@ publication:
   pages: 6929 - 6937
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17200/0692906937.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a notificação pela República Portuguesa, em conformidade com o n.º 2 do artigo 19.º do Acordo, ao Comité Misto
+    de Readmissão, 10 dias após a data de receção da última notificação mencionada no n.
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

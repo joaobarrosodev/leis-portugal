@@ -24,6 +24,16 @@ publication:
   pages: 6388 - 6391
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/262a00/63886391.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da troca de notas, através da qual uma Parte Contratante informa a outra de que se encontram concluídas
+    as necessárias formalidades internas
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

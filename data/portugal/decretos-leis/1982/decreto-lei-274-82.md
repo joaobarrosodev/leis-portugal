@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2102 - 2110
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16000/21022110.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-08-13'
+entry_into_force:
+  date: '1982-08-13'
+  rule: no prazo de 30 dias a contar da data da sua publicação
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

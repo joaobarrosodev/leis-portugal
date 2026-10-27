@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 160 - 161
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00800/0016000161.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-12'
+entry_into_force:
+  date: '2013-01-12'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2012-09-01'
+  effects_rule: desde 1 de setembro de 2012
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

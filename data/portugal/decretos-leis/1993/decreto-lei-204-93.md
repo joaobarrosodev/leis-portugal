@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2996 - 3007
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-07-03'
+entry_into_force:
+  date: '1993-07-03'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

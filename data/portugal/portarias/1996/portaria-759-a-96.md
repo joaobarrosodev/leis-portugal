@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4672-(2) a 4672-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/298b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-12-27'
+entry_into_force:
+  date: '1996-12-27'
+  rule: no dia 27 de Dezembro de 1996
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

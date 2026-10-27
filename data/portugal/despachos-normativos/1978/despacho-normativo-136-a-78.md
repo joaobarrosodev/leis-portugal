@@ -23,6 +23,15 @@ publication:
   pages: 1078-(11) a 1078-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13801/00110011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o Decreto-Lei n.º 149-A/78, de 19 de Junho
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

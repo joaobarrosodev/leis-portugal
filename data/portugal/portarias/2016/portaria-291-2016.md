@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4050 - 4051
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22000/0405004051.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-11-17'
+entry_into_force:
+  date: '2016-11-17'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2011-12-31'
+  effects_rule: a partir de 31 de dezembro de 2011
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

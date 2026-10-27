@@ -23,7 +23,19 @@ publication:
   supplement: null
   pages: 1723 - 1726
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/072a00/17231726.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-01-01'
+entry_into_force:
+  date: '1986-01-01'
+  rule: 'com efeitos a partir de 1 de Janeiro de 1986, logo que as Partes Contratantes se tenham reciprocamente notificado
+    de que se acham cumpridos os pressupostos exigidos pela respectiva ordem interna para '
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo período de um ano, o qual pode ser renovado por iguais períodos, desde que não seja denunciada, por escrito,
+    por uma das Partes Contratantes, pelo menos três meses antes do termo do respectivo pe
 end_of_validity_date: null
 legal_status: in_force
 notes: []

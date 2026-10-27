@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2330-(4) a 2330-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12501/00040005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-05-31'
+entry_into_force:
+  date: '1988-05-31'
+  rule: no dia 31 de Maio de 1988
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

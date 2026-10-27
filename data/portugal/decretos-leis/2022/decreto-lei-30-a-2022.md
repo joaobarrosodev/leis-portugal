@@ -23,7 +23,17 @@ publication:
   supplement: 2º Suplemento
   pages: 8-(2) a 8-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07502/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-19'
+entry_into_force:
+  date: '2022-04-19'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: '2026-12-31'
+  end_rule: até 31 de dezembro de 2026
 end_of_validity_date: null
 legal_status: in_force
 notes: []

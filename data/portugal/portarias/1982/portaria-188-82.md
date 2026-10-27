@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 334 - 334
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/03700/03340334.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-02-13'
+entry_into_force:
+  date: '1982-02-13'
+  rule: a partir da data da publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 4563 - 4569
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/177a00/45634569.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data em que duas Partes na Convenção tenham cumprido os requisitos do parágrafo 2) do artigo XVII
+  method: clausula
+  article: art-xviii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5588-(2) a 5588-(45)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/19401/0000200045.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-10-09'
+entry_into_force:
+  date: '2012-10-09'
+  rule: no dia seguinte ao da sua publicação, com exceção do disposto no número seguinte
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

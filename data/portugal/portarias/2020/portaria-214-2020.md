@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 38 - 43
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/17400/0003800043.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-07'
+entry_into_force:
+  date: '2020-10-07'
+  rule: trinta dias após a sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

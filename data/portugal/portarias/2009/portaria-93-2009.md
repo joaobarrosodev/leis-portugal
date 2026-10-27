@@ -23,6 +23,15 @@ publication:
   pages: 579 - 591
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/01900/0057900591.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para as apostas registadas a partir de 28 de Fevereiro de 2009
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: para as apostas registadas a partir de 28 de Fevereiro de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

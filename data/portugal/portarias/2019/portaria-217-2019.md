@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3444 - 3447
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/13000/0344403447.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-11'
+entry_into_force:
+  date: '2019-07-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: relativamente a todos os concursos e convites que não tenham concluído o prazo de submissão de candidaturas
+    à data da entrada em vigor da presente Portaria, salvo o disposto no número seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

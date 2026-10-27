@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3608 - 3615
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11100/0360803615.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-06-10'
+entry_into_force:
+  date: '2009-06-10'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo da sua aplicação aos processos de licenciamento em curso, ao abrigo
+    dos artigos 76.º e 82.º do Decreto-Lei n.º 214/2008, de 10 de Novembro
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

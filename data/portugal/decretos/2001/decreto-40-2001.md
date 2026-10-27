@@ -26,6 +26,16 @@ publication:
   pages: 6143 - 6154
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/226a00/61436154.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 12 meses após a data em que 10 Estados, entre os quais 4 dispondo cada um de navios-tanques com uma capacidade não
+    inferior a um milhão de arqueação bruta, tiverem depositado um instrumento de ratific
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

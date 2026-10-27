@@ -24,6 +24,15 @@ publication:
   pages: 6 - 7
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/06600/0000600007.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2022-04-01'
+  effects_rule: a 1 de abril de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4606 - 4613
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/172a00/46064613.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-07-28'
+entry_into_force:
+  date: '2004-07-28'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2004-05-24'
+  effects_rule: desde 24 de Maio de 2004
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 75 - 84
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00700/0007500084.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-15'
+entry_into_force:
+  date: '2024-01-15'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2024-01-01'
+  effects_rule: a 1 de janeiro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

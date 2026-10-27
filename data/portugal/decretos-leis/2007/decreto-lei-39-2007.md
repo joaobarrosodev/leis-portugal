@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1268 - 1270
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03600/12681270.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-02-21'
+entry_into_force:
+  date: '2007-02-21'
+  rule: no dia seguinte ao da sua publicação, salvo o disposto no artigo 41.º da Lei n.º 5/98, de 31 de Janeiro, na redacção
+    dada pelo presente decreto-lei, que só
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 608 - 643
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-04-17'
+entry_into_force:
+  date: '1979-04-17'
+  rule: no dia imediato ao da sua publicação, salvo quanto a vencimentos, a participação no prémio de cobrança e a contagem
+    de antiguidade nas novas categorias e cargos, que produzirá, respectivamente, efeito
+  method: clausula
+  article: art-160
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 79-(14) a 79-(34)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/24702/0001400034.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-12-24'
+entry_into_force:
+  date: '2021-12-24'
+  rule: no dia seguinte ao da sua publicação, com exceção das alterações introduzidas nos artigos 13.º-B e C, as quais
+  method: clausula
+  article: art-4
+  effects_date: '2021-12-24'
+  effects_rule: no dia seguinte ao da sua publicação, com exceção das alterações introduzidas nos artigos 13.º-B e C, as quais
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

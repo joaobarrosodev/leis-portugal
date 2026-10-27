@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 21 - 22
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/21000/0002100022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-29'
+entry_into_force:
+  date: '2021-10-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: à data da produção de efeitos do Decreto-Lei n.º 54-A/2021, de 25 de junho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

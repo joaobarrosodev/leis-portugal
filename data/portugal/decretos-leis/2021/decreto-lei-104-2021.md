@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2 - 21
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/230a00/0000200021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-11-28'
+entry_into_force:
+  date: '2021-11-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: '2021-12-01'
+  effects_rule: a 1 de dezembro de 2021, exceto o disposto no artigo 4.º, na parte relativa à alteração ao artigo 13.º-E do
+    Decreto-Lei n.º 10-A/2020, de 13 de março, na redação introduzida pelo presente decreto-lei,
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -26,6 +26,15 @@ publication:
   pages: 1628-(2) a 1628-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11601/00020005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 16 de Maio
+  method: clausula
+  article: n-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

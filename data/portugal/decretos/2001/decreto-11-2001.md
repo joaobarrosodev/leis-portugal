@@ -24,6 +24,16 @@ publication:
   pages: 856 - 862
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/040a00/08560862.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a data da notificação, por escrito, através da qual as Partes Contratantes informam a outra da perfeição
+    das necessárias formalidades constitucionais para o presente Acordo entrar em vigo
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

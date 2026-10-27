@@ -22,9 +22,29 @@ publication:
   supplement: null
   pages: 722 - 723
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/01900/0072200723.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-27'
+entry_into_force:
+  date: '2018-01-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1172560828:por#art-5'
+    detail: É revogada a [Portaria n.º 36/2018], de 26 de janeiro, e revogado o [Despacho n.º 5635-A/2014], de 28 de abril.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1172560828:por'
+    detail: Revogada, a partir de 20 de dezembro de 2026, a presente portaria, pelo(a) Portaria n.º 433-B/2026/1 - Diário
+      da República n.º 183/2026, Suplemento, Série I de 2026-09-21, nos termos do seu artigo 5.º
 notes: []
 language: por
 version:

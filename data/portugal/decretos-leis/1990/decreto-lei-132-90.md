@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1922-(5) a 1922-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09201/00050006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-05-20'
+entry_into_force:
+  date: '1990-05-20'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

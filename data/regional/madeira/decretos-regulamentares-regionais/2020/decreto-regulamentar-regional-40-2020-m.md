@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 76 - 80
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15600/0007600080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-13'
+entry_into_force:
+  date: '2020-08-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

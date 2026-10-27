@@ -25,6 +25,15 @@ publication:
   pages: 120 - 120
   pdf_url: https://files.diariodarepublica.pt/1s/1972/01/02500/01200120.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em cada província ultramarina, na data da publicação do respectivo regulamento no Boletim Oficial
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

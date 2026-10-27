@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22602 - 22608
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/097000000/2260222608.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-01'
+entry_into_force:
+  date: '2008-07-01'
+  rule: em 1 de Julho de 2008
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

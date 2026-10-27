@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 16 - 17
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00300/0001600017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-07'
+entry_into_force:
+  date: '2021-01-07'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2020-12-31'
+  effects_rule: a 31 de dezembro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

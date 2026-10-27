@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 311 - 312
   pdf_url: https://files.diariodarepublica.pt/2s/2001/01/007000000/0031100312.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-01-10'
+entry_into_force:
+  date: '2001-01-10'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

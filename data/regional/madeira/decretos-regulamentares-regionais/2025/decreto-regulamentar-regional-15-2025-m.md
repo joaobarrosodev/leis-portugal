@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 12 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/18900/0001200015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-02'
+entry_into_force:
+  date: '2025-10-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2025-09-15'
+  effects_rule: reportados a 15 de setembro de 2025, considerando-se ratificados ou confirmados todos os atos que tenham sido
+    praticados desde aquela data em conformidade com o disposto no presente diploma
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

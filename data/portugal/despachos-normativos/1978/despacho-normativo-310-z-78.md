@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2526-(8) a 2526-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27502/00080009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-12-01'
+entry_into_force:
+  date: '1978-12-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

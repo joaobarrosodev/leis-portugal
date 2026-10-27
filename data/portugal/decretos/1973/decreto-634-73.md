@@ -23,6 +23,16 @@ publication:
   pages: 2313 - 2336
   pdf_url: https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no que respeita às relações entre as Partes que o tenham assinado sem reserva do cumprimento de processos constitucionais
+    ou de outros processos internos, na data da sua assinatura
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

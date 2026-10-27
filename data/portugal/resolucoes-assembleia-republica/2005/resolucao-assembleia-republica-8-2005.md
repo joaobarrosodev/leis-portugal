@@ -25,6 +25,16 @@ publication:
   pages: 1094 - 1100
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de depósito dos instrumentos de ratificação, aceitação ou aprovação, por parte de dois Estados
+    signatários
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

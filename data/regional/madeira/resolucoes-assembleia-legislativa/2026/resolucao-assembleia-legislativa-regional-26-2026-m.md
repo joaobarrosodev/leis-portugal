@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 64 - 66
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14600/0006400066.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-31'
+entry_into_force:
+  date: '2026-07-31'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: a partir de 1 de janeiro do ano orçamental subsequente à sua aprovação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

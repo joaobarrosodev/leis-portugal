@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4555 - 4556
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/25600/45554556.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-05-05'
+entry_into_force:
+  date: '1991-05-05'
+  rule: 180 dias após a data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

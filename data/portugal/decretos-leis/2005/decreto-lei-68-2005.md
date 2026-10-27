@@ -24,6 +24,15 @@ publication:
   pages: 2267 - 2271
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/052a00/22672271.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

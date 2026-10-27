@@ -23,6 +23,16 @@ publication:
   pages: 3444 - 3446
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/168a00/34443446.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'depois de aprovado pelas instâncias competentes de cada um dos países, e será automaticamente prorrogado por idênticos
+    períodos de quatro anos se nenhuma das Partes o denunciar por escrito seis meses '
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

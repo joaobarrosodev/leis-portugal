@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 5970-(2) a 5970-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25001/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-29'
+entry_into_force:
+  date: '2010-12-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

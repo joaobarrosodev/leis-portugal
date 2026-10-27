@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3153 - 3154
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/14900/0315303154.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-08-08'
+entry_into_force:
+  date: '2010-08-08'
+  rule: no 5.º dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

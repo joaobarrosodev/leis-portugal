@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6149 - 6153
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/261a00/61496153.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-12-11'
+entry_into_force:
+  date: '1997-12-11'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

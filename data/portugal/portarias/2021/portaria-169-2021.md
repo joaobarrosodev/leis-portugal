@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15100/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-06'
+entry_into_force:
+  date: '2021-08-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: de 1 de janeiro a 31 de dezembro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

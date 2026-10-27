@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4790 - 4791
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17900/0479004791.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-22'
+entry_into_force:
+  date: '2018-09-22'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

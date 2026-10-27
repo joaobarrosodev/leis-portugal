@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6131 - 6131
   pdf_url: https://files.diariodarepublica.pt/1s/2005/10/203a00/61316131.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-10-22'
+entry_into_force:
+  date: '2005-10-22'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto Legislativo Regional n.º 1/2004/A, de 21 de Janeiro, com salvaguarda
+    dos efeitos jurídicos produzidos pelos regulamentos entretanto publicados
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

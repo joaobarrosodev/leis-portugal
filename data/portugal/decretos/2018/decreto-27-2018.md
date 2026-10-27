@@ -24,6 +24,16 @@ publication:
   pages: 5794 - 5797
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24000/0579405797.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta (30) dias após a data de receção da última notificação escrita, pelo qual as Partes informam a outra, por via
+    diplomática, sobre a conclusão de todos os procedimentos internos para a sua entrad
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

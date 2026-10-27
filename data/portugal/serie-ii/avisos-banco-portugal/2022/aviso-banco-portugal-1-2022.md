@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 91 - 152
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/109000000/0009100152.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-05'
+entry_into_force:
+  date: '2022-08-05'
+  rule: no prazo de 60 dias após a data da sua publicação
+  method: clausula
+  article: art-89
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

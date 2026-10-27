@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8 - 11
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/01700/0000800011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-27'
+entry_into_force:
+  date: '2020-01-27'
+  rule: no dia 27 de janeiro de 2020
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5949 - 5952
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20400/0594905952.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-10-23'
+entry_into_force:
+  date: '2012-10-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: '2012-10-15'
+  effects_rule: a partir de 15 de outubro de 2012
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

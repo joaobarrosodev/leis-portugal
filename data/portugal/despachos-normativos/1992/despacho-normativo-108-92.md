@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3099 - 3100
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/149b00/30993100.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-07-01'
+entry_into_force:
+  date: '1992-07-01'
+  rule: a partir da data da sua publicação, sendo aplicável aos processos de candidatura em fase de instrução técnica, bem
+    como aos processos em apreciação pela Direcção-Geral do Desenvolvimento Regional (DGD
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

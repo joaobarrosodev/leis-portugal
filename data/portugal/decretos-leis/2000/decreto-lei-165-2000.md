@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3772 - 3773
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/180a00/37723773.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-08-06'
+entry_into_force:
+  date: '2000-08-06'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: '2000-01-01'
+  effects_rule: desde o dia 1 de Janeiro de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

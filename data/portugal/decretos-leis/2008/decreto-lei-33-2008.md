@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 1215 - 1221
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-01'
+entry_into_force:
+  date: '2008-03-01'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2008-02-15'
+  effects_rule: desde 15 de Fevereiro de 2008
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

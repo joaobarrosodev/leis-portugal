@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2787 - 2788
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/10500/0278702788.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-05'
+entry_into_force:
+  date: '2019-06-05'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

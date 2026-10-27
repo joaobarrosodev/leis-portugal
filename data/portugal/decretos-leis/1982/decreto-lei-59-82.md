@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 431 - 432
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/04800/04310432.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-03-01'
+entry_into_force:
+  date: '1982-03-01'
+  rule: a partir do dia 1 do mês seguinte ao da sua publicação, considerando-se prorrogado, em conformidade, o prazo de revisão
+    constante do n.º 4 do artigo 6.º do Decreto-Lei n.º 251-A/78, de 24 de Agosto
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

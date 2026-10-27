@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/18301/0000200014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-09-22'
+entry_into_force:
+  date: '2026-09-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

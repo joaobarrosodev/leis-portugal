@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 828 - 832
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/02000/08280832.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-02-28'
+entry_into_force:
+  date: '2007-02-28'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3512-3516
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/09/19/221827792.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-20'
+entry_into_force:
+  date: '2023-09-20'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: à data do início do ano letivo 2023/2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

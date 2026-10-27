@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2762-(2) a 2762-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/08901/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-05-09'
+entry_into_force:
+  date: '2009-05-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

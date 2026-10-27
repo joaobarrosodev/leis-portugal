@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 10 - 25
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/17600/0001000025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-09-12'
+entry_into_force:
+  date: '2024-09-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: '2024-01-01'
+  effects_rule: desde 1 de janeiro de 2024, mantendo a sua vigência até à entrada em vigor do decreto regulamentar de execução
+    orçamental para 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

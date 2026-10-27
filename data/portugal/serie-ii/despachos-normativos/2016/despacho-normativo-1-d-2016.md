@@ -22,9 +22,34 @@ publication:
   supplement: null
   pages: 7948-(8) a 7948-(25)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/045000003/0000800025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-05'
+entry_into_force:
+  date: '2016-03-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2015/2016 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1042059372:por#n-3'
+    detail: 3 - É revogado o [Despacho Normativo n.º 1-D/2016], de 4 de março, na sua redação atual.
+  - status: unclear
+    provenance: 'DRE repealed_by: pt:dre:106436777:por'
+    detail: Revogado, a partir de 11.02.2017 e com efeitos a partir do ano letivo de 2016/2017, o Regulamento das Provas e
+      dos Exames do Ensino Secundário aprovado pelo presente Despacho Normativo, pelo(a) Despacho Normativo n.º 1-A/2017 -
+      Diário da República n.º 30/2017, 1º Suplemento, Série II de 2017-02-10
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1042059372:por'
+    detail: Revogado, a partir de 11 de fevereiro de 2026, pelo(a) Despacho Normativo n.º 1/2026 - Diário da República n.º
+      28/2026, Série II de 2026-02-10 nos termos do n.º 3 deste
 notes: []
 language: por
 version:

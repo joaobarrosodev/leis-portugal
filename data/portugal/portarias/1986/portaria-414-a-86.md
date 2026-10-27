@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1874-(17) a 1874-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/17302/00170018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-07-15'
+entry_into_force:
+  date: '1986-07-15'
+  rule: em 15 de Julho de 1986
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

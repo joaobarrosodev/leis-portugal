@@ -23,6 +23,15 @@ publication:
   pages: 1873 - 1896
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data indicada pela portaria que o mandar aprovar
+  method: clausula
+  article: art-172
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

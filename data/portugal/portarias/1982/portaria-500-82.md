@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1254 - 1254
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11000/12541254.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-05-16'
+entry_into_force:
+  date: '1982-05-16'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

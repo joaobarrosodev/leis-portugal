@@ -23,6 +23,15 @@ publication:
   pages: 3558 - 3559
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/27300/35583559.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a Lei n.º 30/86, de 27 de Agosto
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 524 - 526
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/06200/05240526.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em data que será notificada por ambas as Partes Contratantes quando os respectivos Governos tiverem cumprido as formalidades
+    legais necessárias a tal fim
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

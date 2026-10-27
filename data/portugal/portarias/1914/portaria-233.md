@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1914/09/17500/08880888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:479235:por#art-44'
+    detail: São revogados o [Decreto n.º 2637], de 21 de Setembro de 1916, e a [Portaria n.º 233], de 28 de Junho de 1917.
 notes: []
 language: por
 version:

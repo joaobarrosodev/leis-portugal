@@ -23,6 +23,15 @@ publication:
   pages: 4752-(2) a 4752-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/11/21101/0000200005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

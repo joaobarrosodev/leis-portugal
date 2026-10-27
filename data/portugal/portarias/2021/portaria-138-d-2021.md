@@ -22,7 +22,17 @@ publication:
   supplement: 3º Suplemento
   pages: 67-(2) a 67-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12503/0000200012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-01'
+entry_into_force:
+  date: '2021-07-01'
+  rule: no dia 1 de julho de 2021
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

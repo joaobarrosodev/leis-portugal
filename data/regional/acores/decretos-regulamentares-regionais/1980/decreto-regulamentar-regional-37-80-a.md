@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2332 - 2332
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19400/23322332.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-08-23'
+entry_into_force:
+  date: '1980-08-23'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

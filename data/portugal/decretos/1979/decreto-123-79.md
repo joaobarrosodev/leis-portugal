@@ -24,6 +24,16 @@ publication:
   pages: 2893 - 2896
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26200/28932896.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: provisoriamente na data da sua assinatura e definitivamente na data da troca de notas confirmativas da sua aprovação,
+    em conformidade com os requisitos constitucionais de ambos os países e manter-se-á
+  method: clausula
+  article: art-xxi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

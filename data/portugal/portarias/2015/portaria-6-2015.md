@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 247 - 250
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/00600/0024700250.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-10'
+entry_into_force:
+  date: '2015-01-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

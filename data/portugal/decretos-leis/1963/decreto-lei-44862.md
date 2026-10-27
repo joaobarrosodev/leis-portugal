@@ -24,6 +24,15 @@ publication:
   pages: 53 - 57
   pdf_url: https://files.diariodarepublica.pt/1s/1963/01/01900/00530057.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para cada Membro, doze meses após a data em que tenha sido registada a sua ratificação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

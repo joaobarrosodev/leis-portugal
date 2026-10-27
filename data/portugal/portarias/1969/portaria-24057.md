@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 494 - 494
   pdf_url: https://files.diariodarepublica.pt/1s/1969/05/10500/04940494.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-08-01'
+entry_into_force:
+  date: '1969-08-01'
+  rule: noventa dias após a sua publicação no Diário do Governo
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

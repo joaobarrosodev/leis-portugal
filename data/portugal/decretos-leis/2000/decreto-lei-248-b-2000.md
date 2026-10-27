@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5682-(2) a 5682-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/236a01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-10-13'
+entry_into_force:
+  date: '2000-10-13'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '2000-10-01'
+  effects_rule: desde o dia 1 de Outubro de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

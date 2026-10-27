@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1692 - 1693
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/05800/0169201693.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-03-23'
+entry_into_force:
+  date: '2019-03-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

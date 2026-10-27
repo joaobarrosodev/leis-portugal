@@ -24,6 +24,16 @@ publication:
   pages: 10 - 17
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15100/0001000017.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias (30) após a data da receção da nota, na qual a Parte Portuguesa notifique a Parte Panamiana, através de
+    via diplomática que já foram cumpridos os seus requisitos internos para tal efeito
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

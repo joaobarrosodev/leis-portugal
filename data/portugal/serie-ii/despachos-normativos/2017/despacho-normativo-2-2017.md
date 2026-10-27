@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9003 - 9012
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/091000000/0900309012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-16'
+entry_into_force:
+  date: '2017-05-16'
+  rule: cinco dias após a sua publicação no Diário da República, desde que o Conselho de Curadores esteja constituído
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

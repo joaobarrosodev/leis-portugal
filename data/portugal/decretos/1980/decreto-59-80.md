@@ -24,6 +24,16 @@ publication:
   pages: 1974 - 1979
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/17600/19741979.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a data em que cinco Estados membros do Conselho se tornem Partes no Acordo, em conformidade com as disposições
+    do artigo 7.º
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

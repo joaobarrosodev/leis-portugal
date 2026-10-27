@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3161 - 3167
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/137a00/31613167.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-06-19'
+entry_into_force:
+  date: '1991-06-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

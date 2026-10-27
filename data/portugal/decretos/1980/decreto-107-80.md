@@ -24,6 +24,15 @@ publication:
   pages: 3418 - 3421
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24000/34183421.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após troca pelas Partes dos respectivos instrumentos da ratificação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

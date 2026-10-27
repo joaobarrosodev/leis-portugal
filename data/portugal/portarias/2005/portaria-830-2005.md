@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5588 - 5588
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/179b00/55885588.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-17'
+entry_into_force:
+  date: '2005-09-17'
+  rule: no dia seguinte ao da sua publicação, sendo apenas aplicável a processos apresentados no INR em data posterior à da
+    entrada em vigor da mesma
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

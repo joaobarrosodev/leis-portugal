@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2096-(2) a 2096-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07301/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-13'
+entry_into_force:
+  date: '2019-04-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

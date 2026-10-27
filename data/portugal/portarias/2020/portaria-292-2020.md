@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 23 - 113
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24500/0002300113.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-16'
+entry_into_force:
+  date: '2021-02-16'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

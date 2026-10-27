@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/10/24400/13551356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:282285:por#art-3'
+    detail: Fica revogado o [Decreto n.º 42610], de 23 de Outubro de 1959.
 notes: []
 language: por
 version:

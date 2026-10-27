@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1675 - 1675
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/050b00/16751675.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-05'
+entry_into_force:
+  date: '2002-03-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2001-08-14'
+  effects_rule: a partir do dia 14 de Agosto de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

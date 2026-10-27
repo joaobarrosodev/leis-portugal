@@ -23,6 +23,15 @@ publication:
   pages: 760 - 765
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/07700/07600765.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 3 meses após a data do depósito do instrumento de ratificação ou de aceitação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

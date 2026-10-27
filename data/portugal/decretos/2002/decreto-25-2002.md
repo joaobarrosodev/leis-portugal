@@ -24,6 +24,16 @@ publication:
   pages: 5908 - 5911
   pdf_url: https://files.diariodarepublica.pt/1s/2002/08/192a00/59085911.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da última notificação pelas Partes, por escrito, cumpridos os respectivos procedimentos legais
+    internos exigidos
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

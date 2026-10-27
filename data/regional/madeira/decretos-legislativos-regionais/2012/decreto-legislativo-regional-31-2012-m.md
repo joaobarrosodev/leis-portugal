@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 6621 - 6622
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/22100/0662106622.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-11-15'
+entry_into_force:
+  date: '2012-11-15'
+  rule: após a publicação da portaria conjunta dos membros do Governo Regional com a tutela da habitação e das finanças que
+    o regulamentará
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

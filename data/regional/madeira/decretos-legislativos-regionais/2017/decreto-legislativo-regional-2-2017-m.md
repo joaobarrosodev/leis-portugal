@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 453 - 454
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/01200/0045300454.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-18'
+entry_into_force:
+  date: '2017-01-18'
+  rule: no dia seguinte ao da sua publicação, sendo que o disposto no n.º 2 do artigo 3.º do Decreto Legislativo Regional
+    n.º 1/2011/M, de 10 de janeiro, com a redação dada pelo presente diploma
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: 90 dias após a entrada em vigor do presente decreto legislativo regional
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

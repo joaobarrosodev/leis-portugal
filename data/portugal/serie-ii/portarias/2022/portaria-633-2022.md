@@ -25,9 +25,25 @@ publication:
   supplement: null
   pages: 62 - 63
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/156000000/0006200063.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-13'
+entry_into_force:
+  date: '2022-08-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:213628055:por'
+    detail: Revogada pela Portaria n.º 242/2023 - Diário da República n.º 103/2023, Série II de 2023-05-29
 notes: []
 language: por
 version:

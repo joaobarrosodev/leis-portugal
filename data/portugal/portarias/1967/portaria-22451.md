@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 75 - 76
   pdf_url: https://files.diariodarepublica.pt/1s/1967/01/01100/00750076.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1967-01-13'
+entry_into_force:
+  date: '1967-01-13'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

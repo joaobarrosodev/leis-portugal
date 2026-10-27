@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5407 - 5409
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/165b00/54075409.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-07-20'
+entry_into_force:
+  date: '2002-07-20'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: '2000-07-01'
+  effects_rule: reportados a 1 de Julho de 2000, por força do artigo 3.º do Decreto Legislativo Regional n.º 2/2002/M, de
+    1 de Março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

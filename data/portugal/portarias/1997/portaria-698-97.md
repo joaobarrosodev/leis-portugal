@@ -25,6 +25,16 @@ publication:
   pages: 4280 - 4282
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/190b00/42804282.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da homologação, sendo renovável por iguais períodos, excepto se alguma das partes o denunciar com a antecedência
+    mínima de 90 dias
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

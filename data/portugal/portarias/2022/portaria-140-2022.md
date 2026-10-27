@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/08300/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-30'
+entry_into_force:
+  date: '2022-04-30'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: desde a entrada em vigor do Decreto-Lei n.º 30-B/2022, de 18 de abril
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

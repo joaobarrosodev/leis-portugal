@@ -24,6 +24,15 @@ publication:
   pages: 16 - 53
   pdf_url: https://files.diariodarepublica.pt/1s/2026/03/05000/0001600053.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte ao da receção da última notificação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

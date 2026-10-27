@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1034 - 1034
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/19200/10341034.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-09-01'
+entry_into_force:
+  date: '1969-09-01'
+  rule: em 1 de Setembro de 1969
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

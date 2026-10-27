@@ -26,6 +26,15 @@ publication:
   pages: 49 - 50
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/029000000/0004900050.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua assinatura
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

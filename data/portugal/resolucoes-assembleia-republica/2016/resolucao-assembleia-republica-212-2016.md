@@ -24,6 +24,16 @@ publication:
   pages: 3870 - 3877
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a receção pelo Depositário das notificações, de três Partes no presente Acordo, de que foram cumpridas as formalidades
+    exigidas pela respetiva legislação nacional relativamente ao presente Acordo
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

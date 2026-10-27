@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21800/0000300020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-11'
+entry_into_force:
+  date: '2023-05-11'
+  rule: seis meses após a sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

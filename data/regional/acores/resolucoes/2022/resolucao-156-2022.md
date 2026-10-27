@@ -27,6 +27,15 @@ publication:
   pages: 3748-3752
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/09/16/201115536.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à data sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

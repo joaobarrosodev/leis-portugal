@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24800/0000300005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-28'
+entry_into_force:
+  date: '2023-12-28'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: '2025-12-31'
+  end_rule: até 31 de dezembro de 2025
 end_of_validity_date: null
 legal_status: in_force
 notes: []

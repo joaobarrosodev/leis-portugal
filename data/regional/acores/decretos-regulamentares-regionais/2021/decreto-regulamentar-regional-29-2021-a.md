@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 34 - 38
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/22700/0003400038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-01-01'
+entry_into_force:
+  date: '2022-01-01'
+  rule: no dia 1 de janeiro de 2022 e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: '2022-12-31'
+  end_rule: até 31 de dezembro de 2022, sem prejuízo da respetiva prorrogação, nos termos do disposto no artigo 13.º do Decreto
+    Legislativo Regional n.º 22/2021/A, de 14 de julho
 end_of_validity_date: null
 legal_status: in_force
 notes: []

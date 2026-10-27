@@ -23,6 +23,16 @@ publication:
   pages: 1509 - 1545
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'quando tiverem sido depositados os instrumentos de ratificação ou aceitação de, pelo menos, 15 signatários (incluindo
+    no mínimo 10 países regionais), cujas subscrições iniciais, constantes do anexo A '
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

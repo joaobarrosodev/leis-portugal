@@ -24,6 +24,16 @@ publication:
   pages: 3924 - 3924
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27200/39243924.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26
+    de Dezembro
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

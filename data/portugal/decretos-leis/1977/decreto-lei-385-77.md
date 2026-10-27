@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2241 - 2241
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21200/22412241.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-09-13'
+entry_into_force:
+  date: '1977-09-13'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

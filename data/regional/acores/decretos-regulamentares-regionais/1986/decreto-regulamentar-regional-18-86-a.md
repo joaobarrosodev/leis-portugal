@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1380 - 1382
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13200/13801382.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-07-11'
+entry_into_force:
+  date: '1986-07-11'
+  rule: no prazo de 30 dias a contar da data da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

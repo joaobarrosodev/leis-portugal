@@ -22,9 +22,33 @@ publication:
   supplement: null
   pages: 2409 - 2412
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/14000/0240902412.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-07-23'
+entry_into_force:
+  date: '2016-07-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:896791628:por#art-20'
+    detail: Pelo presente diploma é revogado o [Decreto Regulamentar Regional n.º 18/2016/M], de 22 de julho.
+  - status: partially_repealed
+    provenance: 'DRE repealed_by: pt:dre:136053638:por'
+    detail: Revogados a al. j) do art. 3.º, a al. b) do art. 5.º e o art. 9.º pelo(a) Decreto Regulamentar Regional n.º 38/2020/M
+      - Diário da República n.º 117/2020, Série I de 2020-06-18
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:896791628:por'
+    detail: Revogado, a partir de 16 de novembro de 2024, pelo(a) Decreto Regulamentar Regional n.º 33/2024/M - Diário da
+      República n.º 222/2024, Série I de 2024-11-15 nos termos do artigo 20.º deste
 notes: []
 language: por
 version:

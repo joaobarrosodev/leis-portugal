@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 92 - 93
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01200/00920093.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-01-01'
+entry_into_force:
+  date: '1978-01-01'
+  rule: em 1 de Janeiro de 1978
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

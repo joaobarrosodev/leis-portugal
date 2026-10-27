@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7406 - 7411
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/275a00/74067411.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-06-29'
+entry_into_force:
+  date: '1996-06-29'
+  rule: a 29 de Junho de 1996, salvo o disposto nos números seguintes
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

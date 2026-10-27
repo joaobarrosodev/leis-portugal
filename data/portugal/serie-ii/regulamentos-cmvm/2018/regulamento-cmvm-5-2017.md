@@ -23,6 +23,16 @@ publication:
   pages: 641 - 642
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/004000000/0064100642.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que entre em vigor o Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio
+    de 2014
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

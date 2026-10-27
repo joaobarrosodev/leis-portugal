@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2922 - 2926
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/115a00/29222926.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-23'
+entry_into_force:
+  date: '2001-05-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir do 1.º dia útil do mês seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

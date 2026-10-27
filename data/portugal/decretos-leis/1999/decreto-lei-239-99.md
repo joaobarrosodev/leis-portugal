@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 3858 - 3878
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-06-26'
+entry_into_force:
+  date: '1999-06-26'
+  rule: no dia imediato à sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

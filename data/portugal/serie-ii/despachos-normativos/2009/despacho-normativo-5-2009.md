@@ -23,6 +23,15 @@ publication:
   pages: 4786 - 4796
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/022000000/0478604796.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 dias úteis após a sua publicação
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

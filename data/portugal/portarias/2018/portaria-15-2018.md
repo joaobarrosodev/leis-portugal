@@ -26,6 +26,15 @@ publication:
   pages: 368 - 368
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00800/0036800368.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2018-01-08'
+  effects_rule: a 08 de janeiro de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

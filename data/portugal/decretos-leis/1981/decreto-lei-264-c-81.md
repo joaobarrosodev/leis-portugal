@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2350-(11) a 2350-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-10-03'
+entry_into_force:
+  date: '1981-10-03'
+  rule: trinta dias após a data da sua publicação, excepto o seu capítulo VI, cuja vigência se iniciará no oitavo dia posterior
+    à da mesma publicação
+  method: clausula
+  article: art-74
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

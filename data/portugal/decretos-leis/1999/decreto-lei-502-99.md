@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8233 - 8237
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/270a00/82338237.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-12-19'
+entry_into_force:
+  date: '1999-12-19'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

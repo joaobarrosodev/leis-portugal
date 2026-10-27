@@ -24,6 +24,16 @@ publication:
   pages: 2386-(2) a 2386-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/093a01/00020010.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última notificação de que foram cumpridos os requisitos de direito interno de ambas as Partes
+    necessários para o efeito
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

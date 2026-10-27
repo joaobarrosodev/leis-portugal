@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3907 - 3923
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/118b00/39073923.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-07-22'
+entry_into_force:
+  date: '2005-07-22'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

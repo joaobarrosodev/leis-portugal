@@ -23,6 +23,15 @@ publication:
   pages: 3419 - 3422
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11100/0341903422.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias contados a partir da data da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

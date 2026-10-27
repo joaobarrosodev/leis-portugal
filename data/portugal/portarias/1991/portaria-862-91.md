@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4306-(2) a 4306-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/190b02/00020022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-01-01'
+entry_into_force:
+  date: '1992-01-01'
+  rule: em 1 de Janeiro de 1992
+  method: clausula
+  article: n-2
+  effects_date: '1991-07-01'
+  effects_rule: desde 1 de Julho de 1991, com excepção do anexo III, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

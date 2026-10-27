@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1743 - 1754
   pdf_url: https://files.diariodarepublica.pt/1s/1972/11/27500/17431754.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-01-01'
+entry_into_force:
+  date: '1973-01-01'
+  rule: no dia 1 de Janeiro de 1973, podendo, todavia, ser publicada antes dessa data, mas para produzir efeitos a partir
+    da mesma, a lista a que se refere o artigo 5.º
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

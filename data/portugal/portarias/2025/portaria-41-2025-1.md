@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 25 - 27
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03300/0002500027.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-18'
+entry_into_force:
+  date: '2025-02-18'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: relativamente aos períodos que tenham início em ou após 1 de janeiro de 2024, com exceção dos que terminem
+    antes da data da sua entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

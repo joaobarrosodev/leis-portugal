@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1202 - 1209
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/038a00/12021209.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-01'
+entry_into_force:
+  date: '2002-03-01'
+  rule: no prazo de 15 dias a contar da respectiva publicação
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7820 - 7820
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/288a00/78207820.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-12-18'
+entry_into_force:
+  date: '2002-12-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2002-11-01'
+  effects_rule: a 1 de Novembro de 2002
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

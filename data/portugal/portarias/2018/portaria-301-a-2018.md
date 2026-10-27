@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 5392-(2) a 5392-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/22601/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-01'
+entry_into_force:
+  date: '2019-01-01'
+  rule: no dia 1 de janeiro de 2019
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes:

@@ -24,6 +24,15 @@ publication:
   pages: 130 - 130
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00800/01300130.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia de execução do Orçamento para 1987
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

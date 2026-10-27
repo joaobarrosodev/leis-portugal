@@ -24,6 +24,16 @@ publication:
   pages: 308 - 324
   pdf_url: https://files.diariodarepublica.pt/1s/1965/03/06500/03080324.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia depois de cinco dos países mencionados no parágrafo 1 do artigo 42 terem depositado os seus instrumentos
+    de ratificação ou adesão
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

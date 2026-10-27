@@ -24,6 +24,17 @@ publication:
   pages: 1926 - 1929
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/073a00/19261929.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da última notificação pelas Partes, por escrito, cumpridos os respectivos procedimentos legais
+    internos exigidos para a sua entrada em vigor
+  method: clausula
+  article: art-vii
+  effects_date: null
+  effects_rule: 'por um período de cinco anos e manter-se-á em vigor por sucessivos períodos de cinco anos, salvo se uma das
+    Partes Contratantes comunicar por escrito, pelo menos com seis meses de antecedência, a sua '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

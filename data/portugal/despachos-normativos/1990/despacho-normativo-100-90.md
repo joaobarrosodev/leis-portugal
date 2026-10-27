@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3637 - 3642
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/20700/36373642.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-09-07'
+entry_into_force:
+  date: '1990-09-07'
+  rule: na data da sua publicação no Diário da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

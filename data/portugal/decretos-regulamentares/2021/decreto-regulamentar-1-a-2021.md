@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20-(4) a 20-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03601/0000400007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-23'
+entry_into_force:
+  date: '2021-02-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-12
+  effects_date: '2021-01-01'
+  effects_rule: desde 1 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

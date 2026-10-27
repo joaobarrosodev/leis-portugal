@@ -26,7 +26,18 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/02/18/907763852.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-19'
+entry_into_force:
+  date: '2025-02-19'
+  rule: no dia seguinte ao da sua publicação, e
+  method: clausula
+  article: art-15
+  effects_date: '2025-01-01'
+  effects_rule: a 1 de janeiro de 2025, sendo elegíveis todas as edificações, reparações ou adaptações efetuadas que cumpram
+    com os requisitos constantes na presente portaria
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

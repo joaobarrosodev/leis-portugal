@@ -24,6 +24,15 @@ publication:
   pages: 4008 - 4009
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/187b00/40084009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do ano lectivo de 1998-1999
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

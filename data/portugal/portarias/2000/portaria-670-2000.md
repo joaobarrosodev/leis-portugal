@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4409 - 4410
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/199b00/44094410.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-09-03'
+entry_into_force:
+  date: '2000-09-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2000-07-14'
+  effects_rule: a partir do dia 14 de Julho de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

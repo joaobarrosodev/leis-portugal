@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 152 - 156
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/014000000/0015200156.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-20'
+entry_into_force:
+  date: '2023-01-20'
+  rule: no dia seguinte ao da sua publicação no Diário da República, e a sua duração é determinada pela duração do projeto
+    Impulso UA, sem prejuízo de eventuais prorrogações
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

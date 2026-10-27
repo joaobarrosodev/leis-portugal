@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4268-(3) a 4268-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/08/15501/0000300004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-08-13'
+entry_into_force:
+  date: '2011-08-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '2011-07-17'
+  effects_rule: desde o dia 17 de Julho de 2011
+  end_date: null
+  end_rule: pelo prazo de um ano, contado desde o dia 17 de Julho de 2011
 end_of_validity_date: null
 legal_status: in_force
 notes: []

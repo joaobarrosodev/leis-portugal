@@ -24,6 +24,15 @@ publication:
   pages: 1708 - 1712
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08100/17081712.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ambas as partes se tenham comunicado haverem sido cumpridas as formalidades internas para a sua aprovação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

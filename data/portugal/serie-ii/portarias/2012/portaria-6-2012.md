@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1779 - 1779
   pdf_url: https://files.diariodarepublica.pt/2s/2012/01/013000000/0177901779.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-01-19'
+entry_into_force:
+  date: '2012-01-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: '2011-07-01'
+  effects_rule: desde 1 de Julho de 2011
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

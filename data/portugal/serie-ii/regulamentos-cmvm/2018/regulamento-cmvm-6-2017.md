@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 642 - 643
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/004000000/0064200643.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-03'
+entry_into_force:
+  date: '2018-01-03'
+  rule: no dia 3 de janeiro de 2018
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

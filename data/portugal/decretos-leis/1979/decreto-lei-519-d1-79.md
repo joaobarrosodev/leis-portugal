@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3446-(56) a 3446-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29903/00560080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-12-30'
+entry_into_force:
+  date: '1979-12-30'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-136
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 969 - 977
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07000/09690977.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorrido 1 ano sobre a data da sua publicação, exceptuando os casos de recipientes com rotulagem pirogravada, para
+    os quais o referido prazo será de 2 anos e meio
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

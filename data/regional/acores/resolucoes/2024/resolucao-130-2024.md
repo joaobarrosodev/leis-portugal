@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2699-2711
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/09/16/887804461.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-09-17'
+entry_into_force:
+  date: '2024-09-17'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-6
+  effects_date: '2024-01-01'
+  effects_rule: a 01 de janeiro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

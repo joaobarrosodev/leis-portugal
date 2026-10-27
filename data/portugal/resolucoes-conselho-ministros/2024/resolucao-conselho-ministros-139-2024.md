@@ -23,9 +23,27 @@ publication:
   supplement: null
   pages: 271 - 272
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20100/0027100272.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-21'
+entry_into_force:
+  date: '2024-10-21'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: no dia seguinte ao da sua aprovação e
+  end_date: '2024-12-31'
+  end_rule: até 31 de dezembro de 2024, sem prejuízo da sua aplicação relativamente aos efeitos que perdurem para além desta
+    data, nomeadamente até à realização integral do dever de restituição por parte dos bene
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: texto'
+    detail: até 31 de dezembro de 2024, sem prejuízo da sua aplicação relativamente aos efeitos que perdurem para além desta
+      data, nomeadamente até à realização integral do dever de restituição por parte dos bene
 notes: []
 language: por
 version:

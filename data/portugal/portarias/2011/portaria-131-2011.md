@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1981 - 1982
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/06600/0198101982.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-05-02'
+entry_into_force:
+  date: '2011-05-02'
+  rule: no dia 2 de Maio de 2011
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

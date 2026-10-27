@@ -22,7 +22,17 @@ publication:
   supplement: 2º Suplemento
   pages: 22-(2) a 22-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22902/0000200011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-25'
+entry_into_force:
+  date: '2020-11-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

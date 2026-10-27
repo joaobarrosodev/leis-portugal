@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 74 - 74
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/178000000/0007400074.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-09-15'
+entry_into_force:
+  date: '2022-09-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

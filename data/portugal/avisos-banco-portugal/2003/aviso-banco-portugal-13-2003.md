@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 8432 - 8433
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/289b00/84328433.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-01-20'
+entry_into_force:
+  date: '2004-01-20'
+  rule: em 20 de Janeiro de 2004
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

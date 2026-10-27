@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5921 - 5921
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/295b00/59215921.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-12-28'
+entry_into_force:
+  date: '1992-12-28'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1992-07-24'
+  effects_rule: a partir de 24 de Julho de 1992
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

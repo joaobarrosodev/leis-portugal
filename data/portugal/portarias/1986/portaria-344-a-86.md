@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1614-(1) a 1614-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/15201/00010002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-07-15'
+entry_into_force:
+  date: '1986-07-15'
+  rule: no dia 15 de Julho de 1986
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

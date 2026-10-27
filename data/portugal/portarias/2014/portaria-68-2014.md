@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1853 - 1854
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05100/0185301854.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-04-12'
+entry_into_force:
+  date: '2014-04-12'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

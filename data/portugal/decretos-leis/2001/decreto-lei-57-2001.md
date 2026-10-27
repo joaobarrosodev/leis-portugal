@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 913 - 913
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/042a00/09130913.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-02-20'
+entry_into_force:
+  date: '2001-02-20'
+  rule: no dia imediato ao da sua publicação e reporta os seus efeitos à data de entrada em vigor do Decreto-Lei n.º 197/2000,
+    de 24 de Agosto
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

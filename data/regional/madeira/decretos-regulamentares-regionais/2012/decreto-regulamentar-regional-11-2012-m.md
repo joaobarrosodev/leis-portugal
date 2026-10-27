@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3146 - 3149
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/12000/0314603149.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-06-23'
+entry_into_force:
+  date: '2012-06-23'
+  rule: no dia seguinte ao da sua publicação, salvo no que respeita à transferência de competências, direitos e obrigações,
+    pessoal, património e responsabilidade de que era titular o Instituto do Desporto da
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

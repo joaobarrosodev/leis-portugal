@@ -25,6 +25,17 @@ publication:
   pages: 2638 - 2640
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/069a00/26382640.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao da última notificação do cumprimento das formalidades exigidas para o efeito pela ordem
+    jurídica de cada uma das Partes
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: na data em que o Regulamento e o Regulamento de Execução entrarem em vigor nas relações entre Portugal e a
+    Noruega
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

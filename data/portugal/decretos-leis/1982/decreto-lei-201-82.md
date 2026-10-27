@@ -23,6 +23,15 @@ publication:
   pages: 1353 - 1357
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11500/13531357.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao decurso do prazo de 30 dias sobre a data da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

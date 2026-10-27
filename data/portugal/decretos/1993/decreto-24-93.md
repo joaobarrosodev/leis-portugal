@@ -24,6 +24,15 @@ publication:
   pages: 3787 - 3788
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/159a00/37873788.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca de notas diplomáticas, em conformidade com os procedimentos constitucionais de cada Parte
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

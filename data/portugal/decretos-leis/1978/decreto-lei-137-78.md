@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1054-(39) a 1054-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13302/00390041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-06-13'
+entry_into_force:
+  date: '1978-06-13'
+  rule: no dia imediato ao da sua publicação, salvo o disposto nos números seguintes
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 49 - 53
   pdf_url: https://files.diariodarepublica.pt/1s/2022/02/02300/0004900053.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-02-03'
+entry_into_force:
+  date: '2022-02-03'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Orçamento da Região Autónoma dos Açores para o ano de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

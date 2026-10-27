@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2666 - 2667
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/28900/26662667.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-01-02'
+entry_into_force:
+  date: '1979-01-02'
+  rule: quinze dias após a data da sua publicação
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

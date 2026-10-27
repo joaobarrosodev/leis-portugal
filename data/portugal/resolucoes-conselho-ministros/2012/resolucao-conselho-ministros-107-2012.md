@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 7124 - 7129
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-12-20'
+entry_into_force:
+  date: '2012-12-20'
+  rule: em 20 de dezembro de 2012
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

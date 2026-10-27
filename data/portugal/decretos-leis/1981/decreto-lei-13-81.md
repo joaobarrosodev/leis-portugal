@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 233 - 234
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02200/02330234.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-01-28'
+entry_into_force:
+  date: '1981-01-28'
+  rule: no dia seguinte ao da sua publicação, e os artigos 3.º e 5.º
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: desde a entrada em vigor do Decreto-Lei n.º 191-C/79
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

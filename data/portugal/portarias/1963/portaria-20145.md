@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1694 - 1694
   pdf_url: https://files.diariodarepublica.pt/1s/1963/11/25800/16941694.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1964-01-01'
+entry_into_force:
+  date: '1964-01-01'
+  rule: em 1 de Janeiro de 1964, sem prejuízo da prestação da conta de gerência de 1963 do conselho administrativo extinto
+    ao Tribunal de Contas, devendo o saldo que vier a ser apurado nessa conta transitar p
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

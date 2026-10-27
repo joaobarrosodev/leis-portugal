@@ -25,6 +25,15 @@ publication:
   pages: 704 - 705
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/04600/0070400705.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

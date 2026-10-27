@@ -24,6 +24,16 @@ publication:
   pages: 4700 - 4702
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/178a00/47004702.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que vier a ser recebida a última das notas através das quais cada uma das Partes comunica à outra que se
+    encontram cumpridas as formalidades constitucionais exigidas para o efeito
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

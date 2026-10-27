@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6540 - 6540
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/21900/0654006540.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-11-18'
+entry_into_force:
+  date: '2012-11-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2012-10-26'
+  effects_rule: a partir de 26 de outubro de 2012, considerando-se ratificados todos os atos que tenham sido entretanto praticados
+    e cuja regularidade dependa da sua conformidade com o presente decreto-lei
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

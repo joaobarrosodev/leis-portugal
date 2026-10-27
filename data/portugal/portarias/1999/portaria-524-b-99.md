@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4504-(10) a 4504-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/168b02/00100010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-07-22'
+entry_into_force:
+  date: '1999-07-22'
+  rule: em 22 de Julho de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

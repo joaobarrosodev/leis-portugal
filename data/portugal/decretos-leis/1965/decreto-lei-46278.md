@@ -23,6 +23,15 @@ publication:
   pages: 443 - 456
   pdf_url: https://files.diariodarepublica.pt/1s/1965/04/08400/04430456.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia primeiro do mês seguinte àquele em cujo decurso os instrumentos de ratificação tiverem sido trocados
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

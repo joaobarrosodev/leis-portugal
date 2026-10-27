@@ -24,6 +24,15 @@ publication:
   pages: 1537 - 1537
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11000/15371537.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o decreto-lei a que se reporta
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

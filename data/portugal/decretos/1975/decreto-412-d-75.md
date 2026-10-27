@@ -23,6 +23,15 @@ publication:
   pages: 1102-(6) a 1102-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18103/00060006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

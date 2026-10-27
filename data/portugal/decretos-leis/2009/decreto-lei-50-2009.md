@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1359 - 1360
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/04100/0135901360.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-02-28'
+entry_into_force:
+  date: '2009-02-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

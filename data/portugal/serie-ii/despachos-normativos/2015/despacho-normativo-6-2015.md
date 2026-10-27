@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4583 - 4590
   pdf_url: https://files.diariodarepublica.pt/2s/2015/02/036000000/0458304590.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-02-21'
+entry_into_force:
+  date: '2015-02-21'
+  rule: no dia seguinte ao da sua publicação e aplica-se a partir de 1 de janeiro de 2015
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

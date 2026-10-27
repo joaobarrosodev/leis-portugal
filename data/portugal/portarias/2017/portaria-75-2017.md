@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1047 - 1049
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03800/0104701049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-04-23'
+entry_into_force:
+  date: '2017-04-23'
+  rule: no prazo de 60 dias a contar da data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

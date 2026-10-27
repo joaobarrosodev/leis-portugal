@@ -23,6 +23,15 @@ publication:
   pages: 1894-(3) a 1894-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18501/00030004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o Decreto-Lei n.º 285-A/79
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

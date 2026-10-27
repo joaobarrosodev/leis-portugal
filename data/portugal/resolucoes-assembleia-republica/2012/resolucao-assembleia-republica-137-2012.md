@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6562 - 6615
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-07-01'
+entry_into_force:
+  date: '2013-07-01'
+  rule: em 1 de Julho de 2013, desde que todos os instrumentos de ratificação tenham sido depositados antes dessa data
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

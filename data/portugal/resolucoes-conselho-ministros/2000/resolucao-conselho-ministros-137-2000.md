@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5732 - 5732
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/238b00/57325732.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-10-15'
+entry_into_force:
+  date: '2000-10-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

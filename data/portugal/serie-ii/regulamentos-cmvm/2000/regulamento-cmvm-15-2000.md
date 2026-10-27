@@ -23,6 +23,16 @@ publication:
   pages: 58 - 61
   pdf_url: https://files.diariodarepublica.pt/2s/2000/02/045000001/0005800061.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente a cada um dos sistemas de liquidação actualmente em funcionamento, com o registo na CMVM das regras
+    operacionais por que se regem esses sistemas, nos termos do n.º 3 do artigo 6.º do Dec
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 3633 - 3634
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/20300/36333634.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês a seguir à data na qual a última das Partes Contratantes referidas no artigo IV deste
+    Protocolo tiver depositado o seu instrumento de ratificação, aceitação, aprovação o
+  method: clausula
+  article: art-vi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

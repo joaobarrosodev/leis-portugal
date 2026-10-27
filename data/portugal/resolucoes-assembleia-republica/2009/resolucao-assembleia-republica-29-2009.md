@@ -24,6 +24,16 @@ publication:
   pages: 2287 - 2311
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07500/0228702311.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da segunda das duas notificações pela qual um dos Estados Contratantes informa o outro Estado
+    Contratante do cumprimento dos procedimentos internos
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

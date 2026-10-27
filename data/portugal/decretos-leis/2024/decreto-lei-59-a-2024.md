@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18804/0000200016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-09-28'
+entry_into_force:
+  date: '2024-09-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-38
+  effects_date: '2024-09-15'
+  effects_rule: a partir do dia 15 de setembro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

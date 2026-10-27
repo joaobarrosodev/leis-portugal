@@ -24,6 +24,16 @@ publication:
   pages: 1478 - 1507
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/046a00/14781507.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia subsequente à última das datas das comunicações feitas, por escrito, pelos respectivos Governos relativamente
+    ao cumprimento das formalidades exigidas constitucionalmente pelos respectivos Esta
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

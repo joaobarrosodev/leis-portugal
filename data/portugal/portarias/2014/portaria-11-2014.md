@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 394 - 394
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/01300/0039400394.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-21'
+entry_into_force:
+  date: '2014-01-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2013-11-01'
+  effects_rule: a 1 de novembro de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

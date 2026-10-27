@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 1242-1248
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/04/15/161430926.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-16'
+entry_into_force:
+  date: '2021-04-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

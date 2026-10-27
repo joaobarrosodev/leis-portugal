@@ -24,6 +24,15 @@ publication:
   pages: 9562 - 9562
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/22600/0956209562.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a Lei do Orçamento de Estado posterior à sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

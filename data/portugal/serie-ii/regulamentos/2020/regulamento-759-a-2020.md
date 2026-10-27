@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 436-(2) a 436-(10)
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/177000001/0000200010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-11'
+entry_into_force:
+  date: '2020-09-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:187212674:por#art-17'
+    detail: É revogado o [Regulamento n.º 759-A/2020], de 10 de setembro, Regulamento de Comunicado de Vindima na Região Demarcada
+      do Douro, publicado no Diário da República, 2.ª série, n.º 177, de 10 de setembro de 2020.
 notes: []
 language: por
 version:

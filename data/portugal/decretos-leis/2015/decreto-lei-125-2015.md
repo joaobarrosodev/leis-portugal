@@ -25,6 +25,15 @@ publication:
   pages: 4670 - 4676
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13000/0467004676.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao termo do ano letivo 2014/2015
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

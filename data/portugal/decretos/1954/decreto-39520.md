@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1954/01/01900/00370038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:194048:por#art-4'
+    detail: Fica revogado o [Decreto n.º 39520], de 28 de Janeiro de 1954.
 notes: []
 language: por
 version:

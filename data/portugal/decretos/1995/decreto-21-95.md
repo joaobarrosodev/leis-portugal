@@ -24,6 +24,16 @@ publication:
   pages: 4519 - 4521
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/162a00/45194521.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades internas necessárias para o efeito de cada uma das Partes
+    e será válido por três anos
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

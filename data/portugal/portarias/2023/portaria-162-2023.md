@@ -23,6 +23,15 @@ publication:
   pages: 10 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11400/0001000014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

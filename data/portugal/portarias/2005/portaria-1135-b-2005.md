@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 6266-(2) a 6266-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/10/209b01/00020005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-11-01'
+entry_into_force:
+  date: '2005-11-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: '2005-10-31'
+  effects_rule: a partir do dia 31 de Outubro de 2005
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 568 - 569
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02400/0056800569.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-01'
+entry_into_force:
+  date: '2013-01-01'
+  rule: em 1 de Janeiro de 2013, se tiverem sido recebidas todas as notificações a que se refere o primeiro parágrafo ou,
+    na falta dessa recepção, no 1.º dia do mês seguinte ao da recepção da última das notif
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

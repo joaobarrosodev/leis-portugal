@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3025 - 3025
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23400/30253025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-10-10'
+entry_into_force:
+  date: '1986-10-10'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

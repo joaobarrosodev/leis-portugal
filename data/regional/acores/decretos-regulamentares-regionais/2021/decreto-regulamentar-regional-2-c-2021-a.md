@@ -24,6 +24,16 @@ publication:
   pages: 26-(5) a 26-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/06301/0000500017.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das 00:00 horas do dia 1 de abril de 2021, cessando às 23:59 horas do dia 15 de abril de 2021, sem prejuízo
+    de eventuais prorrogações do estado de emergência
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

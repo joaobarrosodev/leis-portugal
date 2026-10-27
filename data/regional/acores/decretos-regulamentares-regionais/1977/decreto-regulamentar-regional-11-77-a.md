@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 857 - 858
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08900/08570858.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-04-16'
+entry_into_force:
+  date: '1977-04-16'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

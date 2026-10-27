@@ -23,6 +23,16 @@ publication:
   pages: 1090-(2) a 1090-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/06001/00020010.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'em todo o território nacional no dia da entrada em vigor do Decreto-Lei n.º 64-A/89, de 27 de Fevereiro (regime jurídico
+    da cessação do contrato individual de trabalho e da celebração e caducidade do '
+  method: clausula
+  article: art-64
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

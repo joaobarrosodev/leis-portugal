@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5648-(2) a 5648-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/23901/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-14'
+entry_into_force:
+  date: '2010-12-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: '2010-12-13'
+  effects_rule: a 13 de Dezembro de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

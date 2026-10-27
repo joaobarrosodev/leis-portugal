@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5391 - 5416
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14600/53915416.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-01-27'
+entry_into_force:
+  date: '2007-01-27'
+  rule: 180 dias após a sua publicação, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-107
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

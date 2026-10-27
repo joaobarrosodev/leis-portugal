@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 81 - 115
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/159000000/0008100115.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-18'
+entry_into_force:
+  date: '2021-08-18'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

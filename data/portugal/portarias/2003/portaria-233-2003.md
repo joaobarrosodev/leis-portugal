@@ -24,6 +24,15 @@ publication:
   pages: 1827 - 1828
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/064b00/18271828.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de 18 de Março de 2003, aplicando-se a todos os requerimentos de injunção apresentados após a mesma
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3035 - 3045
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/09400/0303503045.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-06-14'
+entry_into_force:
+  date: '2009-06-14'
+  rule: 30 dias a contar da data da sua publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

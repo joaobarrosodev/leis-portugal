@@ -24,6 +24,16 @@ publication:
   pages: 1784 - 1793
   pdf_url: https://files.diariodarepublica.pt/1s/1967/10/23500/17841793.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses depois da data do depósito dos instrumentos de ratificação por dois Estados, sendo, pelo menos, um desses
+    um
+  method: clausula
+  article: art-xxiv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

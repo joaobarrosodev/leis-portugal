@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 24-(2) a 24-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/21901/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-11-12'
+entry_into_force:
+  date: '2021-11-12'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Regulamento do Programa APOIAR, aprovado em Anexo à Portaria n.º 271-A/2020,
+    de 24 de novembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

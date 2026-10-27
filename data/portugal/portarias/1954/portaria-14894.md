@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1954/05/11000/05660567.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:272468:por#n-2'
+    detail: 2.º Ficam revogados o n.º 8.º da [Portaria n.º 13637], de 9 de Agosto de 1951, e a [Portaria n.º 14894], de 20
+      de Maio de 1954.
 notes: []
 language: por
 version:

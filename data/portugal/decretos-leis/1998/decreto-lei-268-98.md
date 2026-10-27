@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4452 - 4457
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/198a00/44524457.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-09-27'
+entry_into_force:
+  date: '1998-09-27'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

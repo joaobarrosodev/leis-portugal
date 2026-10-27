@@ -22,7 +22,17 @@ publication:
   supplement: 3º Suplemento
   pages: 6546-(426) a 6546-(428)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/25203/0042600428.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-01'
+entry_into_force:
+  date: '2015-01-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: '2015-01-30'
+  effects_rule: 30 dias após a sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

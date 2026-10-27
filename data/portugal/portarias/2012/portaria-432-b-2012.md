@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7424-(304) a 7424-(307)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25204/0030400307.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-01'
+entry_into_force:
+  date: '2013-01-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante o período de vigência da Resolução do Conselho de Ministros n.º 54/2011, de 16 de dezembro, retificada
+    pela Declaração de Retificação n.º 35/2011, de 21 de dezembro
 end_of_validity_date: null
 legal_status: in_force
 notes: []

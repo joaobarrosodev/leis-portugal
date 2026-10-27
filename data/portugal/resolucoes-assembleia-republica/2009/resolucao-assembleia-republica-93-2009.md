@@ -24,6 +24,16 @@ publication:
   pages: 7312 - 7333
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao do depósito do último instrumento de ratificação ou aprovação por uma das presentes Partes Contratantes
+    ou por uma nova Parte Contratante, desde que os seguintes acordos e protocolo
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 3374 - 3390
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/130a00/33743390.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando as Partes Contratantes se notificarem mutuamente, por troca de notas diplomáticas, de que foram cumpridas as
+    respectivas formalidades constitucionais
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

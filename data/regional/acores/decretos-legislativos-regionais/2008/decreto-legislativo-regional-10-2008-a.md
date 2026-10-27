@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2529 - 2613
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/09100/0252902613.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-05-13'
+entry_into_force:
+  date: '2008-05-13'
+  rule: no dia seguinte ao da sua publicação e as alterações ao Decreto Legislativo Regional n.º 20/2007/A, de 23 de Agosto,
+    constantes dos artigos 8.º e 10.º reportam os seus efeitos à data de 23 de Agosto d
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: a partir do 5.º dia após a publicação do presente diploma
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

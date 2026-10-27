@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/05/11900/06060606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:514250:por#art-5'
+    detail: É revogado o [Decreto n.º 42279], de 25 de Maio de 1959.
 notes: []
 language: por
 version:

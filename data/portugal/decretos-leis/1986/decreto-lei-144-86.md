@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1413 - 1413
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13500/14131413.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-06-16'
+entry_into_force:
+  date: '1986-06-16'
+  rule: no dia da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

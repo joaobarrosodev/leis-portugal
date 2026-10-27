@@ -24,6 +24,16 @@ publication:
   pages: 2953 - 2956
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/09500/0295302956.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: se possível, em 30 de junho de 2013, desde que tenham sido depositados todos os instrumentos de ratificação ou, na
+    falta desse depósito, no 1.º dia do mês seguinte ao do depósito do instrumento de rat
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

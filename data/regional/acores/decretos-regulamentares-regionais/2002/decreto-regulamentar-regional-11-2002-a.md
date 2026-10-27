@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4184 - 4185
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/101b00/41844185.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-03'
+entry_into_force:
+  date: '2002-05-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

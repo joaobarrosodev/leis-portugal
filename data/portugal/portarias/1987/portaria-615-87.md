@@ -25,6 +25,15 @@ publication:
   pages: 2832 - 2835
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16200/28322835.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de assinado pelas entidades outorgantes e homologado pelo Ministro do Trabalho e Segurança Social
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

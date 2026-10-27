@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 633 - 635
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02800/0063300635.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-02-13'
+entry_into_force:
+  date: '2012-02-13'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2011-02-01'
+  effects_rule: a 1 de fevereiro de 2011
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

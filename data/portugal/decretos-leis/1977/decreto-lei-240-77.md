@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1412 - 1412
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13300/14121412.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-06-08'
+entry_into_force:
+  date: '1977-06-08'
+  rule: no dia da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

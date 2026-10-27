@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 28 - 41
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/22200/0002800041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-11-17'
+entry_into_force:
+  date: '2021-11-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

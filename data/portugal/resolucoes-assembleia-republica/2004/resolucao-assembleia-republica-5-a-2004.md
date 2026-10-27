@@ -33,7 +33,17 @@ publication:
   supplement: null
   pages: 322-(0002) a 322-(2328)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-05-01'
+entry_into_force:
+  date: '2004-05-01'
+  rule: em 1 de Maio de 2004, desde que todos os instrumentos de ratificação tenham sido depositados antes dessa data
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

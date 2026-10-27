@@ -25,6 +25,16 @@ publication:
   pages: 2228 - 2231
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/091a00/22282231.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à notificação pelas Partes Contratantes do cumprimento dos procedimentos necessários
+    para o efeito
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: em relação a períodos anteriores à sua data de entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

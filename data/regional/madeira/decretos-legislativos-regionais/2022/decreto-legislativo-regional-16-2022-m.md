@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 19 - 30
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14600/0001900030.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-30'
+entry_into_force:
+  date: '2022-07-30'
+  rule: no dia seguinte ao da sua publicação e retroage efeitos à data da entrada em vigor do Decreto Legislativo Regional
+    n.º 32/2017/M, de 15 de setembro
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

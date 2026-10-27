@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 71-(2) a 71-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22701/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-11-28'
+entry_into_force:
+  date: '2023-11-28'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: nas partes relativas aos membros do Governo a que digam respeito, a partir da data da respetiva nomeação,
+    considerando-se ratificados todos os atos entretanto praticados e cuja regularidade dependa da
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

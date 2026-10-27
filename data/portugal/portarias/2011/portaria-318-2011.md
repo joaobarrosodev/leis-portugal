@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5518 - 5532
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/25000/0551805532.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-01-01'
+entry_into_force:
+  date: '2012-01-01'
+  rule: a 1 de Janeiro de 2012 e cessa os seus efeitos em 31 de Dezembro de 2013, sem prejuízo da eficácia dos contratos celebrados
+    ao abrigo do Regulamento ora aprovado
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

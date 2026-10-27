@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1957/01/01800/00570057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:491877:por#n-10'
+    detail: 10.º É revogada a [Portaria n.º 16138], de 22 de Janeiro de 1957.
 notes: []
 language: por
 version:

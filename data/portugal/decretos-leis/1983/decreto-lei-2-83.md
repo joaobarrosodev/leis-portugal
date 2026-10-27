@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 33 - 35
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/00600/00330035.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-02-07'
+entry_into_force:
+  date: '1983-02-07'
+  rule: 30 dias após a data da sua publicação, salvo quanto ao n.º 2 do artigo 9.º, que só
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

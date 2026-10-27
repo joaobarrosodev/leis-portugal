@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3033 - 3034
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/09900/0303303034.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-05-24'
+entry_into_force:
+  date: '2013-05-24'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da produção de efeitos do Despacho n.º 1371-A/2013, de 22 de janeiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

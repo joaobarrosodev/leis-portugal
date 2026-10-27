@@ -22,7 +22,18 @@ publication:
   supplement: 1º Suplemento
   pages: 2064-(2) a 2064-(57)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/098a01/00020057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-04-28'
+entry_into_force:
+  date: '1994-04-28'
+  rule: à data da publicação, integrando o Orçamento por ele aprovado a parte do Orçamento que tenha sido executada nos termos
+    do artigo 15.º da Lei n.º 28/92, de 1 de Setembro (Lei de Enquadramento do Orçame
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

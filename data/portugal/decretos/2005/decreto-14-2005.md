@@ -24,6 +24,16 @@ publication:
   pages: 4408 - 4419
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias a contar da data de recepção da última notificação, por via diplomática, respeitante ao cumprimento, pelas
+    Partes Contratantes, dos procedimentos internos exigíveis
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

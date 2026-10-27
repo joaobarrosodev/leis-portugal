@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3811 - 3812
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15000/0381103812.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-08-07'
+entry_into_force:
+  date: '2018-08-07'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2018-05-01'
+  effects_rule: desde 1 de maio de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

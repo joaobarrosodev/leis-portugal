@@ -24,6 +24,15 @@ publication:
   pages: 4161 - 4163
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29200/41614163.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do terceiro mês a seguir ao do depósito do segundo instrumento de ratificação, aceitação ou aprovação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

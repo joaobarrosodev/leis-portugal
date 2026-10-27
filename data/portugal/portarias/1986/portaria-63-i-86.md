@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 516-(18) a 516-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05001/00180018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-03-01'
+entry_into_force:
+  date: '1986-03-01'
+  rule: no dia 1 de Março de 1986
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 681 - 682
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/022a00/06810682.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-01-26'
+entry_into_force:
+  date: '2002-01-26'
+  rule: na data da publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

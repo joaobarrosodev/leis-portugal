@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3341 - 3344
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/10900/0334103344.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-06'
+entry_into_force:
+  date: '2008-07-06'
+  rule: no 30.º dia posterior ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

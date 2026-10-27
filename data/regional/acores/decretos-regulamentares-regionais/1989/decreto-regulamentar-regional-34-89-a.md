@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4651 - 4652
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24300/46514652.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-10-21'
+entry_into_force:
+  date: '1989-10-21'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

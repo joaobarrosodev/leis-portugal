@@ -24,6 +24,16 @@ publication:
   pages: 6353 - 6360
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/213a00/63536360.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data de recepção da última notificação, por escrito e por via diplomática, de que
+    foram cumpridos os requisitos de direito interno de ambos os Estados Contratantes nec
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo período de um ano e é tacitamente renovada todos os anos por igual período
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1249 - 1252
   pdf_url: https://files.diariodarepublica.pt/1s/1967/06/13900/12491252.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1967-01-01'
+entry_into_force:
+  date: '1967-01-01'
+  rule: 'em 1 de Janeiro de 1967 entre os Governos que nessa data se tenham tornado partes, desde que estes, segundo o Acordo
+    de 31 de Dezembro de 1966, atinjam 60 por cento de votos dos países importadores e '
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

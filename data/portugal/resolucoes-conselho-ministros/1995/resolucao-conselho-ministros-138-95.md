@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6976 - 6988
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/264b00/69766988.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-11-15'
+entry_into_force:
+  date: '1995-11-15'
+  rule: na data da sua publicação no Diário da República, após ratificação nos termos do disposto na legislação em vigor
+  method: clausula
+  article: art-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

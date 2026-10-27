@@ -23,6 +23,16 @@ publication:
   pages: 6011 - 6016
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/300a00/60116016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de recepção da segunda das notas pelas quais as Partes Contratantes se comunicarem reciprocamente
+    a sua aprovação em concordância com os preceitos constitucionais de ambos os paíse
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

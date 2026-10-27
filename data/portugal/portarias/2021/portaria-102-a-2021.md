@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 59-(2) a 59-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09401/0000200011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-15'
+entry_into_force:
+  date: '2021-05-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

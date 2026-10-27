@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3049 - 3049
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/10800/0304903049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-06-04'
+entry_into_force:
+  date: '2011-06-04'
+  rule: no dia seguinte ao da sua publicação e é apenas aplicável aos contratos de destilação celebrados na campanha vitivinícola
+    2010-2011
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

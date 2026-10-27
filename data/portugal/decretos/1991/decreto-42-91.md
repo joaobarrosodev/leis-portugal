@@ -24,6 +24,15 @@ publication:
   pages: 3471 - 3472
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/152a00/34713472.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última comunicação do cumprimento das formalidades exigidas pelo ordenamento jurídico de cada uma das partes
+  method: clausula
+  article: art-v
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4260-(47) a 4260-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30103/00470051.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-12-31'
+entry_into_force:
+  date: '1985-12-31'
+  rule: a 31 de Dezembro de 1985
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

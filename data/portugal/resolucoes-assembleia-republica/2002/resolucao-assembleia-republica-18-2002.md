@@ -23,6 +23,16 @@ publication:
   pages: 1930 - 1935
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/057a00/19301935.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando as Partes se tiverem mutuamente notificado do cumprimento das formalidades de aprovação exigidas pelos respectivos
+    direitos internos
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

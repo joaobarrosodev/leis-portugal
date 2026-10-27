@@ -29,7 +29,17 @@ publication:
   supplement: null
   pages: 9134 - 9144
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20500/0913409144.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-21'
+entry_into_force:
+  date: '2015-10-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: 'a partir da data de entrada em vigor da:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -26,7 +26,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1958/07/15200/06350636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:688987:por#art-12'
+    detail: 1. Fica revogada a [Portaria n.º 16768], de 15 de Julho de 1958.
 notes: []
 language: por
 version:

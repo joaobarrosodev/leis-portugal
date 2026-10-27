@@ -23,6 +23,16 @@ publication:
   pages: 1739 - 1741
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08200/17391741.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca dos documentos de ratificação e será válido até à sua denúncia por qualquer uma das altas Partes
+    Contratantes
+  method: clausula
+  article: art-x
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

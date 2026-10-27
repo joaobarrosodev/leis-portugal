@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 99 - 102
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00800/00990102.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-07-01'
+entry_into_force:
+  date: '1983-07-01'
+  rule: 'em 1 de Julho de 1983 se, a 30 de Junho de 1983, governos representando países exportadores detendo pelo menos 60%
+    dos votos constantes do anexo A e governos representando países importadores detendo '
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

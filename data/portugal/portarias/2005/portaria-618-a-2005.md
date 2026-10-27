@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4382-(2) a 4382-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/143b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-15'
+entry_into_force:
+  date: '2005-09-15'
+  rule: no dia 15 de Setembro de 2005, sem prejuízo do disposto no n.º 8.º, que
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

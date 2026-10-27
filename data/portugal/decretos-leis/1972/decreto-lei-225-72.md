@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 860 - 869
   pdf_url: https://files.diariodarepublica.pt/1s/1972/07/15400/08600869.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-08-01'
+entry_into_force:
+  date: '1972-08-01'
+  rule: no dia 1 de Agosto de 1972
+  method: clausula
+  article: art-81
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 778 - 779
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/033a00/07780779.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última das notificações do cumprimento das formalidades exigidas para esse efeito pela ordem
+    jurídica interna de cada uma das Partes
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

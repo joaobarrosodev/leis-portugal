@@ -23,6 +23,15 @@ publication:
   pages: 2066 - 2068
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a00/20662068.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para cada uma das modalidades na época desportiva de 1993-1994
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

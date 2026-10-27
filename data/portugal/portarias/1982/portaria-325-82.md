@@ -24,6 +24,15 @@ publication:
   pages: 667 - 668
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/07100/06670668.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o diploma que proceder à aprovação do quadro do pessoal da Comissão Regional de Turismo do Algarve
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

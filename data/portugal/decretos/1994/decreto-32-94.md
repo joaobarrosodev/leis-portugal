@@ -24,6 +24,16 @@ publication:
   pages: 6606 - 6634
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a data em que os governos de oito Estados tenham depositado um instrumento de ratificação, aceitação,
+    aprovação ou adesão, na condição de que uma ou mais linhas da rede de transporte comb
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

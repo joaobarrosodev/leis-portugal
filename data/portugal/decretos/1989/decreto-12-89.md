@@ -24,6 +24,15 @@ publication:
   pages: 1585 - 1588
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/08600/15851588.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do momento em que por ambas as Partes estejam cumpridas as formalidades constitucionais
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

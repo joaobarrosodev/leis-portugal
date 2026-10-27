@@ -24,7 +24,17 @@ publication:
   supplement: 2º Suplemento
   pages: 16-(2) a 16-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20702/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-24'
+entry_into_force:
+  date: '2020-10-24'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: desde a data de produção de efeitos da Lei n.º 27-A/2020, de 24 de julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

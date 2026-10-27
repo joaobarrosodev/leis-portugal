@@ -23,6 +23,15 @@ publication:
   pages: 11 - 31
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24300/0001100031.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

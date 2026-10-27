@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 68 - 70
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09100/0006800070.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-12'
+entry_into_force:
+  date: '2023-05-12'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: no início da vigência do protocolo a que se refere o artigo 6.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

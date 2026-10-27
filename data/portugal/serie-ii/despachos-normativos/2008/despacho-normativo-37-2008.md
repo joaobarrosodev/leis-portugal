@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 35638 - 35638
   pdf_url: https://files.diariodarepublica.pt/2s/2008/08/154000000/3563835638.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-08-12'
+entry_into_force:
+  date: '2008-08-12'
+  rule: no dia seguinte à data da sua publicação e é aplicável aos procedimentos de atribuição de equivalência iniciados a
+    partir do ano escolar de 2008-2009
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

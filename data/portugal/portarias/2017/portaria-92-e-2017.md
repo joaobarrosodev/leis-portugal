@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 1192-(2) a 1192-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/04501/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-04-01'
+entry_into_force:
+  date: '2017-04-01'
+  rule: a partir de 1 de abril de 2017, com exceção do disposto no número seguinte
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

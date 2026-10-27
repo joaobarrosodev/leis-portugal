@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/042000000/0003900039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:917839487:por#n-5'
+    detail: 5 - Determinar que a presente portaria revoga a [Portaria n.º 363/2024], de 28 de fevereiro de 2024.
 notes: []
 language: por
 version:

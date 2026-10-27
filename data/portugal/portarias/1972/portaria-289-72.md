@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 679 - 680
   pdf_url: https://files.diariodarepublica.pt/1s/1972/05/12100/06790680.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-06-22'
+entry_into_force:
+  date: '1972-06-22'
+  rule: trinta dias após a data da sua publicação e revoga a Portaria n.º 22957, de 12 de Outubro de 1967, bem como os despachos
+    proferidos nos termos do seu n.º 5.º
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

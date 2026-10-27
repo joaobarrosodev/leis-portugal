@@ -24,6 +24,16 @@ publication:
   pages: 8226 - 8235
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última notificação pelas partes a informar que foram cumpridas as formalidades requeridas pelos
+    termos de referência de cada Grupo e os requisitos necessários para o efeito prev
+  method: clausula
+  article: art-24
+  effects_date: '2006-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2006
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

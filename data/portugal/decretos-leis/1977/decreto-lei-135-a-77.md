@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 694-(1) a 694-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08001/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-04-06'
+entry_into_force:
+  date: '1977-04-06'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

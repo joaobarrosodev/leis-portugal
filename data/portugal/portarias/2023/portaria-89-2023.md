@@ -23,6 +23,15 @@ publication:
   pages: 17 - 17
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06100/0001700017.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e
+  method: clausula
+  article: art-2
+  effects_date: '2023-04-01'
+  effects_rule: a 1 de abril de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1930 - 1931
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/11000/19301931.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-05-14'
+entry_into_force:
+  date: '1989-05-14'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: '1989-04-01'
+  effects_rule: a partir do dia 1 de Abril de 1989
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

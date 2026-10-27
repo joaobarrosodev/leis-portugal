@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2544 - 2545
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/118a00/25442545.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-05-22'
+entry_into_force:
+  date: '1997-05-22'
+  rule: na data da sua publicação e aplica-se aos processos em causa, com as devidas adaptações
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

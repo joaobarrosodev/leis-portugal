@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6516 - 6519
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23300/0651606519.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-12-06'
+entry_into_force:
+  date: '2017-12-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: 90 dias após a sua entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

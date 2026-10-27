@@ -24,6 +24,15 @@ publication:
   pages: 975 - 977
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/09200/09750977.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da troca dos instrumentos de ratificação, tendo a validade de um ano
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

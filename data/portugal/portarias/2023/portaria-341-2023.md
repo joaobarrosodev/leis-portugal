@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21700/0000600014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-11-10'
+entry_into_force:
+  date: '2023-11-10'
+  rule: no dia seguinte ao da sua publicação e cessa a sua vigência após se esgotar o orçamento definido no artigo 2.º do
+    regulamento anexo à presente portaria
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

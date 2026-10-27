@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 128 - 129
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00400/0012800129.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-10'
+entry_into_force:
+  date: '2018-01-10'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

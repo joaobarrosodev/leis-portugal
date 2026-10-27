@@ -23,6 +23,16 @@ publication:
   pages: 1936 - 1940
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12200/19361940.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 1 ano após a sua publicação, exceptuando o disposto no artigo 3.º deste decreto-lei e nos artigos 13.º e 14.º do Regulamento,
+    que
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

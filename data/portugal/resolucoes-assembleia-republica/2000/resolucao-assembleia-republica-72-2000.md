@@ -25,6 +25,16 @@ publication:
   pages: 6342 - 6380
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/262a00/63426380.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no 1.º dia do 2.º mês seguinte à última notificação do depósito dos instrumentos de ratificação ou de aprovação de
+    todos os seguintes sete acordos:'
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

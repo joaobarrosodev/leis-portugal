@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 78 - 78
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/212000000/0007800078.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-11-03'
+entry_into_force:
+  date: '2023-11-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: '2022-10-01'
+  effects_rule: reportados a 1 de outubro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

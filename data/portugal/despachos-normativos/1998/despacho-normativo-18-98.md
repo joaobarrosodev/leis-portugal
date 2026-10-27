@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1169 - 1170
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/065b00/11691170.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-03-19'
+entry_into_force:
+  date: '1998-03-19'
+  rule: no dia seguinte ao da publicação no Diário da República do anúncio referido no n.º 2
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

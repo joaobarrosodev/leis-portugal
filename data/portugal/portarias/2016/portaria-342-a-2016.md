@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5142-(4) a 5142-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24902/0000400004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-01'
+entry_into_force:
+  date: '2017-01-01'
+  rule: a 1 de janeiro de 2017
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

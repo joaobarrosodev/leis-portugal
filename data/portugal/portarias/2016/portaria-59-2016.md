@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1076 - 1084
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/06200/0107601084.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-04'
+entry_into_force:
+  date: '2016-04-04'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2016-03-31'
+  effects_rule: no dia seguinte ao da respetiva publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

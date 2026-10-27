@@ -24,6 +24,16 @@ publication:
   pages: 4196 - 4198
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22700/0419604198.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de três meses após a data em que todas as Altas Partes Contratantes
+    na Convenção tenham manifestado o seu consentimento em ficarem vinculadas pel
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

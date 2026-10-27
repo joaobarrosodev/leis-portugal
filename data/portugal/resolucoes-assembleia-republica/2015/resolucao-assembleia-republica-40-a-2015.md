@@ -24,6 +24,16 @@ publication:
   pages: 2036-(2) a 2036-(423)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07801/0000200423.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte àquele em que for efetuado o depósito do último instrumento de ratificação
+    ou de aprovação
+  method: clausula
+  article: art-464
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

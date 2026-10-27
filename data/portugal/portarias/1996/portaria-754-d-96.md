@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4594-(8) a 4594-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/296b03/00080009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-12-24'
+entry_into_force:
+  date: '1996-12-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

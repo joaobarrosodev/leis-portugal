@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5944 - 5946
   pdf_url: https://files.diariodarepublica.pt/1s/2005/10/192b00/59445946.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-10-07'
+entry_into_force:
+  date: '2005-10-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

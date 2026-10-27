@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 21 - 22
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00100/0002100022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-03'
+entry_into_force:
+  date: '2025-01-03'
+  rule: no dia seguinte ao da sua publicação, e aplica-se às candidaturas no âmbito do Concurso n.º 1/2025 e seguintes
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

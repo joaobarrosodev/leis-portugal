@@ -24,6 +24,16 @@ publication:
   pages: 2332 - 2333
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/095a00/23322333.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que for recebida a última notificação de que foram cumpridas todas as formalidades exigidas para tal efeito
+    pela ordem jurídica interna de cada uma das Partes Contratantes, sendo automatica
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

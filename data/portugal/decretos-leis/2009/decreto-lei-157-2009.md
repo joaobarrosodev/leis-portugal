@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4369 - 4370
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13200/0436904370.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-07-11'
+entry_into_force:
+  date: '2009-07-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto-Lei n.º 213/2007, de 29 de Maio, mantendo-se as comissões de serviço
+    em curso até ao final do respectivo prazo, nos termos do n.º 9 do artigo 29.º da Lei n.º 64-A
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

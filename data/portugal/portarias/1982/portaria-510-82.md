@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1373 - 1373
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11600/13731373.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-05-23'
+entry_into_force:
+  date: '1982-05-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-2
+  effects_date: '1982-01-01'
+  effects_rule: desde 1 de Janeiro de 1982
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

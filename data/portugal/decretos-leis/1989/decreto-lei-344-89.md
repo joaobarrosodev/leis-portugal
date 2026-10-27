@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4426 - 4431
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23400/44264431.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-01-09'
+entry_into_force:
+  date: '1990-01-09'
+  rule: 90 dias após a publicação
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

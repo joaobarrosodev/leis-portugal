@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1997 - 1997
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/17600/19971997.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-08-18'
+entry_into_force:
+  date: '1981-08-18'
+  rule: quinze dias após a data da sua publicação
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

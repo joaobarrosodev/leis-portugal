@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4539 - 4541
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23900/45394541.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-01-15'
+entry_into_force:
+  date: '1990-01-15'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-50-a
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

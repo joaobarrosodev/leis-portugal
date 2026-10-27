@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4025 - 4031
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/189b00/40254031.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-08-23'
+entry_into_force:
+  date: '1992-08-23'
+  rule: cinco dias após a sua publicação, salvo o que especialmente neles se disponha
+  method: clausula
+  article: art-63
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

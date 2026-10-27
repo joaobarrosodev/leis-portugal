@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5166-(107) a 5166-(108)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/187b02/01070108.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-08-15'
+entry_into_force:
+  date: '2004-08-15'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2004-08-25'
+  effects_rule: a partir do dia 25 de Agosto de 2004
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

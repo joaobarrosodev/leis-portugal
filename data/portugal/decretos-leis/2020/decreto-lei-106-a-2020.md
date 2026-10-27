@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 168-(6) a 168-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/25203/0000600013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-31'
+entry_into_force:
+  date: '2020-12-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

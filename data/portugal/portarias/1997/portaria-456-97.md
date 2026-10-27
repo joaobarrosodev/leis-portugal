@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3405 - 3405
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/158b00/34053405.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-09-01'
+entry_into_force:
+  date: '1997-09-01'
+  rule: no dia 1 do 2.º mês seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

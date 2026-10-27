@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 296-(2) a 296-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/014b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-01-18'
+entry_into_force:
+  date: '1997-01-18'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 8943 - 8945
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20100/0894308945.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do início de vigência do Decreto-Lei n.º 201/2015, de 17 de setembro, que aprova o modelo de contabilidade
+    dos serviços de registo do Instituto dos Registos e do Notariado, I
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

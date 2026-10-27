@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 637 - 637
   pdf_url: https://files.diariodarepublica.pt/1s/1969/06/13200/06370637.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-07-01'
+entry_into_force:
+  date: '1969-07-01'
+  rule: a partir do dia 1 do mês seguinte ao da data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

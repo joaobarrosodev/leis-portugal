@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 892 - 893
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10900/08920893.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-06-01'
+entry_into_force:
+  date: '1979-06-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

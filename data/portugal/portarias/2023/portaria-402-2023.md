@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 10 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23300/0001000014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-05'
+entry_into_force:
+  date: '2023-12-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: '2024-04-02'
+  effects_rule: 120 dias após a data da sua publicação, com exceção do disposto no n.º 4 do artigo 7.º, no artigo 10.º e no
+    n.º 1 do artigo 12.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

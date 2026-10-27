@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3196 - 3202
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/24500/31963202.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-11-22'
+entry_into_force:
+  date: '1986-11-22'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

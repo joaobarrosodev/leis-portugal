@@ -25,6 +25,15 @@ publication:
   pages: 22 - 23
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22900/0002200023.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Orçamento do Estado do próximo ano
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

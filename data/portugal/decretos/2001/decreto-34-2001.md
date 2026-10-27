@@ -24,6 +24,17 @@ publication:
   pages: 5878 - 5881
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/214a00/58785881.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação da sua aprovação pelas competentes instituições de ambos os países e vigorará por um
+    período de cinco anos, considerando-se tacitamente renovado por iguais períodos, a me
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: sobre os direitos e obrigações das Partes derivados da participação em acordos ou tratados internacionais
+    de que possam vir a ser Parte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

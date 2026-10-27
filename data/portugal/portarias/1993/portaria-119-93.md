@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 434 - 438
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/027b00/04340438.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-02-08'
+entry_into_force:
+  date: '1993-02-08'
+  rule: em 8 de Fevereiro de 1993
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

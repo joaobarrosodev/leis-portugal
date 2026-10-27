@@ -23,6 +23,15 @@ publication:
   pages: 12 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09900/0001200015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia após o da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

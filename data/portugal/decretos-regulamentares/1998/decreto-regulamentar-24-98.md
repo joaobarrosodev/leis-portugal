@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5662 - 5664
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/251b00/56625664.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-01-28'
+entry_into_force:
+  date: '1999-01-28'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

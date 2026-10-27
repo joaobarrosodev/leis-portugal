@@ -24,6 +24,15 @@ publication:
   pages: 2161 - 2168
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07500/0216102168.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do depósito do quinto instrumento de ratificação
+  method: clausula
+  article: art-xxiv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

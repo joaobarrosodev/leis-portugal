@@ -24,6 +24,15 @@ publication:
   pages: 4306-(22) a 4306-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/190b02/00220023.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos legais e
+  method: clausula
+  article: n-10
+  effects_date: '1991-07-01'
+  effects_rule: desde 1 de Julho de 1991
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

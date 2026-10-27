@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2 - 7
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20100/0000200007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-19'
+entry_into_force:
+  date: '2022-10-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: '2022-09-01'
+  effects_rule: a 1 de setembro de 2022, com exceção da alteração introduzida no n.º 25 da Resolução do Conselho de Ministros
+    n.º 46-B/2021, de 4 de maio, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

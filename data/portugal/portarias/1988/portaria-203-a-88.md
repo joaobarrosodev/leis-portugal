@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1318-(2) a 1318-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/07501/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-04-01'
+entry_into_force:
+  date: '1988-04-01'
+  rule: no dia 1 de Abril de 1988
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 1764 - 1770
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/060b00/17641770.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato ao da sua publicitação e
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até à sua revisão ou suspensão nos termos legais
 end_of_validity_date: null
 legal_status: in_force
 notes: []

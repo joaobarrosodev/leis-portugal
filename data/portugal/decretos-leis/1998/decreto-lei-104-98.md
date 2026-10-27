@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1739 - 1757
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/093a00/17391757.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-04-22'
+entry_into_force:
+  date: '1998-04-22'
+  rule: no dia imediato ao da sua publicação, com excepção dos artigos 5.º e 6.º, que
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: a partir da data de tomada de posse do bastonário da Ordem dos Enfermeiros
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

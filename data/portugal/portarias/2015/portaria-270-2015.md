@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6780 - 6788
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17100/0678006788.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-09-07'
+entry_into_force:
+  date: '2015-09-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: com a entrada em vigor da revisão do Plano Diretor Municipal de Lamego
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

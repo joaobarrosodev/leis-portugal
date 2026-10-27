@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2339 - 2343
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/113a00/23392343.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-01-01'
+entry_into_force:
+  date: '1999-01-01'
+  rule: no dia 1 de Janeiro de 1999, com excepção dos artigos 2.º e 3.º, que
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

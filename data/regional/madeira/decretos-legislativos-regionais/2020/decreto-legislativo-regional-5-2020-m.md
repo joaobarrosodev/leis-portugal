@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 8 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07900/0000800009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-23'
+entry_into_force:
+  date: '2020-04-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2018-01-01'
+  effects_rule: reportados a 1 de janeiro de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

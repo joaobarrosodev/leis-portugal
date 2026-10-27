@@ -24,6 +24,16 @@ publication:
   pages: 3280 - 3302
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/18300/0328003302.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia após a data da receção da última das notificações, a efetuar por escrito e por via diplomática, a
+    confirmar o cumprimento das formalidades internas necessárias para a sua entrada em v
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

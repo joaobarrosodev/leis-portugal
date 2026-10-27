@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5109 - 5109
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/15200/0510905109.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-07-16'
+entry_into_force:
+  date: '2007-07-16'
+  rule: a partir do dia 16 de Julho de 2007
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

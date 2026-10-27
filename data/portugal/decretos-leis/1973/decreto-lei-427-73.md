@@ -23,6 +23,16 @@ publication:
   pages: 1488 - 1495
   pdf_url: https://files.diariodarepublica.pt/1s/1973/08/19900/14881495.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o respectivo regulamento, em 1 de Setembro de 1973, podendo, porém, ser publicada antes daquela data, mas para
+    produzir efeitos a partir da mesma, a lista a que se refere o n.º 1 do artigo 50.º
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

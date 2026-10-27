@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3379 - 3381
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/160b00/33793381.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-07-14'
+entry_into_force:
+  date: '1998-07-14'
+  rule: na data da sua publicação retroagindo os seus efeitos a 5 de Março de 1998
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

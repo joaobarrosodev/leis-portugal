@@ -29,6 +29,16 @@ publication:
   pages: 3385 - 3402
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/11600/0338503402.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da realização das eleições gerais para os órgãos das autarquias locais imediatamente subsequentes
+    à sua publicação."
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

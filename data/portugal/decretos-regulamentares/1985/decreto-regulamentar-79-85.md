@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4010 - 4013
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/27700/40104013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-12-03'
+entry_into_force:
+  date: '1985-12-03'
+  rule: no dia seguinte ao da sua publicação e aplica-se exclusivamente aos contratos regidos pelo Decreto-Lei n.º 236/85,
+    de 5 de Julho
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 5122 - 5137
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/183a00/51225137.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando as Partes Contratantes se notificarem, mutuamente, por troca de notas diplomáticas, de que foram cumpridos
+    os respectivos requisitos constitucionais
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

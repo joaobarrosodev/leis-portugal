@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1651 - 1652
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17000/16511652.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-07-22'
+entry_into_force:
+  date: '1976-07-22'
+  rule: na data da sua publicação e aplica-se aos contratos de desenvolvimento celebrados até à data da sua entrada em vigor
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

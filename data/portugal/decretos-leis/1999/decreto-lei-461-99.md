@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7710 - 7711
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/77107711.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-11-05'
+entry_into_force:
+  date: '1999-11-05'
+  rule: na data da publicação da portaria a que se refere o citado preceito
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

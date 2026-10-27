@@ -27,7 +27,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1958/04/08800/02760276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:291607:por#art-43'
+    detail: '[Decreto-Lei n.º 24949], de 10 de Janeiro de 1935, [Decreto-Lei n.º 26695], de 16 de Junho de 1936, [Decreto-Lei
+      n.º 26890], de 14 de Agosto de 1936, [Decreto n.º 27148], de 30 de Outubro de 1936, [Decreto-Lei n.º 27286], de 24 de
+      Novembro de 1936, [Decreto-Lei n.º 28009], de 3 de Setembro de 1937, '
 notes: []
 language: por
 version:

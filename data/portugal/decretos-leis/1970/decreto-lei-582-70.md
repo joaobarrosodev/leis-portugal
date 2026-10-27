@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1768 - 1772
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/27300/17681772.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1971-01-01'
+entry_into_force:
+  date: '1971-01-01'
+  rule: no dia 1 de Janeiro de 1971
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

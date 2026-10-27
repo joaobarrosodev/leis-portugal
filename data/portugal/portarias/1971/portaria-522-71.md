@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1405 - 1406
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22800/14051406.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-01-01'
+entry_into_force:
+  date: '1972-01-01'
+  rule: em 1 de Janeiro de 1972
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

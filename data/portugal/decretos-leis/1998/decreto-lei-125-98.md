@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2176 - 2176
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/109a00/21762176.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-05-13'
+entry_into_force:
+  date: '1998-05-13'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

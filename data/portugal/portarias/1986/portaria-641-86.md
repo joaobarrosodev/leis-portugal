@@ -23,6 +23,15 @@ publication:
   pages: 3244 - 3247
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/25000/32443247.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de assinado pelas entidades outorgantes e de homologado pelo Ministro do Trabalho e Segurança Social
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -26,6 +26,15 @@ publication:
   pages: 68 - 74
   pdf_url: https://files.diariodarepublica.pt/1s/2026/01/01700/0006800074.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação, sem prejuízo de produzir efeitos ao dia 7 de janeiro de 2026
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

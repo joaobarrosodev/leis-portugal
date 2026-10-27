@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 848 - 849
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/047a00/08480849.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-03-01'
+entry_into_force:
+  date: '1997-03-01'
+  rule: a partir do dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

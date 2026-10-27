@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2391 - 2392
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20600/23912392.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-09-09'
+entry_into_force:
+  date: '1981-09-09'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

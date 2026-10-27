@@ -24,6 +24,16 @@ publication:
   pages: 1958 - 1972
   pdf_url: https://files.diariodarepublica.pt/1s/2013/04/06600/0195801972.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que ambas as Partes se tiverem mutuamente notificado, por via diplomática, de que foram cumpridos
+    os respetivos requisitos de direito interno necessários para o efeito
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

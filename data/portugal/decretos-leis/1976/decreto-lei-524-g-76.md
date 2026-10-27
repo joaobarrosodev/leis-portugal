@@ -23,6 +23,16 @@ publication:
   pages: 1476-(14) a 1476-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15503/00140015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca de instrumentos de ratificação e terá a duração de um ano, sendo tacitamente prorrogado por iguais
+    e sucessivos períodos se não for denunciado por qualquer das Partes contratantes, me
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3082 - 3088
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/130a00/30823088.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-07-07'
+entry_into_force:
+  date: '1991-07-07'
+  rule: 30 dias após a data da sua publicação, salvo o disposto no artigo 6.º-A, por ele aditado ao Decreto-Lei n.º 214/88,
+    de 17 de Junho, que apenas
+  method: clausula
+  article: art-37-a
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

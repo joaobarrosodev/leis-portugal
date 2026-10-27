@@ -23,6 +23,15 @@ publication:
   pages: 2052 - 2053
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19400/20522053.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ao mesmo tempo que o Decreto-Lei n.º 318/79
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

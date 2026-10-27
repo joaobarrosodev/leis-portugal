@@ -24,6 +24,16 @@ publication:
   pages: 1610 - 1612
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05800/0161001612.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da segunda notificação, por escrito e por via diplomática, de que foram cumpridos todos os requisitos
+    de direito interno das Partes necessários para o efeito
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

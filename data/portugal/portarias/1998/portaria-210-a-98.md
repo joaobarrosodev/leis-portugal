@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1432-(2) a 1432-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/077b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-04-02'
+entry_into_force:
+  date: '1998-04-02'
+  rule: em 2 de Abril de 1998
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

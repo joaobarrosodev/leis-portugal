@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 76 - 77
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/004a00/00760077.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-01-06'
+entry_into_force:
+  date: '1991-01-06'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

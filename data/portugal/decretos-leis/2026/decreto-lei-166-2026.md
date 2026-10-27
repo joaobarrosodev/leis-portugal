@@ -24,6 +24,15 @@ publication:
   pages: 11 - 41
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/15600/0001100041.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-63
+  effects_date: '2026-12-31'
+  effects_rule: a 31 de dezembro de 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

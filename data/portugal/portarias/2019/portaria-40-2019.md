@@ -24,9 +24,29 @@ publication:
   supplement: null
   pages: 663 - 664
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/02000/0066300664.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-30'
+entry_into_force:
+  date: '2019-01-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:935257200:por#art-4'
+    detail: b) A [Portaria n.º 40/2019], de 29 de janeiro.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:935257200:por'
+    detail: Revogada, a partir de 20 de setembro de 2025, pelo(a) Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025,
+      Série I de 2025-09-15 nos termos do artigo 3.º e alínea b) do artigo 4.º deste
 notes: []
 language: por
 version:

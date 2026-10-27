@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2730-(2) a 2730-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15501/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-08-13'
+entry_into_force:
+  date: '2016-08-13'
+  rule: no dia seguinte ao da sua publicação, com exceção das alterações aos artigos 4.º e 6.º da Portaria n.º 278/2012, de
+    14 de setembro, as quais
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

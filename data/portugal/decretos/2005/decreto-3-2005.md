@@ -24,6 +24,16 @@ publication:
   pages: 1014 - 1017
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/031a00/10141017.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data da última notificação em que uma das Partes informa a outra do cumprimento das formalidades
+    exigidas pela respectiva ordem jurídica interna
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

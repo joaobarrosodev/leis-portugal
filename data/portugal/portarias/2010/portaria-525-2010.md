@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2690 - 2691
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13800/0269002691.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-24'
+entry_into_force:
+  date: '2010-07-24'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2010-07-20'
+  effects_rule: a partir do dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

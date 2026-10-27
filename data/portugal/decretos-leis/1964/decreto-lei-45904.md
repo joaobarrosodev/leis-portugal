@@ -24,6 +24,15 @@ publication:
   pages: 1083 - 1090
   pdf_url: https://files.diariodarepublica.pt/1s/1964/09/20900/10831090.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: entre estes Estados no nonagésimo dia a contar do depósito do duodécimo instrumento de ratificação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

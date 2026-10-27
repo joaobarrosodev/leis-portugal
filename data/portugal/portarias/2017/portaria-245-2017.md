@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4442 - 4448
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/14800/0444204448.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-09-01'
+entry_into_force:
+  date: '2017-09-01'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

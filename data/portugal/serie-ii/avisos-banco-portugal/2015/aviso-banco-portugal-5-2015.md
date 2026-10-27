@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 38184-(2) a 38184-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/254000001/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-31'
+entry_into_force:
+  date: '2015-12-31'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: com referência a 1 de janeiro de 2016
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

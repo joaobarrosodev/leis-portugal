@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03400/0000500008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-19'
+entry_into_force:
+  date: '2021-04-19'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

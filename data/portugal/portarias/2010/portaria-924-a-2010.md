@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4122-(2) a 4122-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18201/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-10-01'
+entry_into_force:
+  date: '2010-10-01'
+  rule: no dia 1 de Outubro de 2010
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

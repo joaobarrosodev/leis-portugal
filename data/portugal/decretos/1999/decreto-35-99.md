@@ -24,6 +24,15 @@ publication:
   pages: 6259 - 6259
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/212a00/62596259.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da comunicação do cumprimento das formalidades constitucionais pelas duas Partes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

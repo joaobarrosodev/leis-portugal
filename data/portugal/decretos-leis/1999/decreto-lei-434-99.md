@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7306 - 7306
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/253a00/73067306.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-10-30'
+entry_into_force:
+  date: '1999-10-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: '1999-09-13'
+  effects_rule: desde 13 de Setembro de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

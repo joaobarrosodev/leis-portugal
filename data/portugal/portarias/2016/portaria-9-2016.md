@@ -24,6 +24,15 @@ publication:
   pages: 310 - 311
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/02000/0031000311.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

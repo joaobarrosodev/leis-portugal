@@ -25,9 +25,30 @@ publication:
   supplement: null
   pages: 11013 - 11022
   pdf_url: https://files.diariodarepublica.pt/2s/2007/04/082000000/1101311022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-04-27'
+entry_into_force:
+  date: '2007-04-27'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: partially_repealed
+    provenance: 'norma revogatória: pt:dre:3478912:por#art-10'
+    detail: a) O Quadro 2 do ponto 1 do Anexo III, o Quadro 2 do ponto 10 do n.º 5 do Anexo IV e os pontos 12 e 14 do n.º
+      5 do Anexo IV do [Aviso do Banco de Portugal n.º 7/2007]
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:74425670:por'
+    detail: Revogado a partir de 30.06.2016 pelo(a) Aviso do Banco de Portugal n.º 5/2016 - Diário da República n.º 92/2016,
+      Série II de 2016-05-12
 notes: []
 language: por
 version:

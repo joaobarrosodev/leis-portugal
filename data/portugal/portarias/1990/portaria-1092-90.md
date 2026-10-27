@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4489 - 4489
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/25200/44894489.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-03-01'
+entry_into_force:
+  date: '1991-03-01'
+  rule: em 1 de Março de 1991
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

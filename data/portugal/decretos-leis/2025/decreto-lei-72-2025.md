@@ -24,6 +24,15 @@ publication:
   pages: 5 - 7
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/08600/0000500007.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

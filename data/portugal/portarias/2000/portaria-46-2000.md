@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 452 - 452
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/028b00/04520452.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-02-04'
+entry_into_force:
+  date: '2000-02-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

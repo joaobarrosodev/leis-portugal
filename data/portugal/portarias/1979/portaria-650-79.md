@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3139 - 3139
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28100/31393139.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-01-01'
+entry_into_force:
+  date: '1980-01-01'
+  rule: no dia 1 de Janeiro de 1980 e são revogadas, a partir dessa data, as Portarias n.os 622/75, de 29 de Outubro, e 221/79,
+    de 8 de Maio
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

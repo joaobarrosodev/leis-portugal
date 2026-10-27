@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1941/07/17100/06550655.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:398776:por#art-62'
+    detail: 2. Da província de Angola ficam revogados a [Portaria n.º 9843], de 24 de Julho de 1957, o Diploma Legislativo
+      n.º 2875, de 26 de Dezembro de 1957, o [Decreto n.º 43565], de 27 de Março de 1961, o Diploma Legislativo Ministerial
+      n.º 68, de 25 de Outubro de 1961, os Diplomas Legislativos n.os 3437, d
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13651 - 13655
   pdf_url: https://files.diariodarepublica.pt/2s/2000/08/190000000/1365113655.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-09-01'
+entry_into_force:
+  date: '2000-09-01'
+  rule: a partir do dia 1 do mês seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

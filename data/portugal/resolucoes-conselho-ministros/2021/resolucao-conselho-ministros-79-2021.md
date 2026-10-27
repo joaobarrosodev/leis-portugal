@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12200/0001600016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-30'
+entry_into_force:
+  date: '2021-06-30'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2020-07-01'
+  effects_rule: desde o dia 1 de julho de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

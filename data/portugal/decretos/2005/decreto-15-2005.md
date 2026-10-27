@@ -24,6 +24,16 @@ publication:
   pages: 5304 - 5317
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da última notificação, por escrito e por via diplomática, de que foram cumpridos todos os requisitos
+    de direito interno de ambas as Partes necessários para o efeito
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

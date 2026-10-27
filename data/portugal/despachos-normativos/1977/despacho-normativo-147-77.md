@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1520 - 1520
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/14200/15201520.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-06-23'
+entry_into_force:
+  date: '1977-06-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

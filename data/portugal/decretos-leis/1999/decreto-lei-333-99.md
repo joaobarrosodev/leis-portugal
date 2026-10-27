@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5550 - 5557
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/194a00/55505557.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-08-21'
+entry_into_force:
+  date: '1999-08-21'
+  rule: no dia seguinte ao da sua publicação, excepto no que respeita à autonomia administrativa, que vigora a partir do início
+    do ano económico seguinte
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

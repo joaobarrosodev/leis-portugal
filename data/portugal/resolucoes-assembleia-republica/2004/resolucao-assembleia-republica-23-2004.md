@@ -25,6 +25,15 @@ publication:
   pages: 960 - 993
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/046a00/09600993.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do ano seguinte ao depósito do 31.º instrumento de aceitação, de aprovação, de ratificação ou de adesão
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

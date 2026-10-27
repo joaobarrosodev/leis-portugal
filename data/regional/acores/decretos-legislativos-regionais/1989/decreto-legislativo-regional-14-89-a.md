@@ -23,6 +23,16 @@ publication:
   pages: 3207 - 3209
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18300/32073209.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com as portarias que aprovem modelos do cartão individual de identificação e das medalhas, diplomas e distintivos,
+    a que se referem os artigos 5.º e 18.º, respectivamente
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

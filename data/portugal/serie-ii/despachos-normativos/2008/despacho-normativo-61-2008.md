@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 49234 - 49248
   pdf_url: https://files.diariodarepublica.pt/2s/2008/12/236000000/4923449248.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-12-10'
+entry_into_force:
+  date: '2008-12-10'
+  rule: cinco dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-126
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

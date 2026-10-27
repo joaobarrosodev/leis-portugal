@@ -25,6 +25,15 @@ publication:
   pages: 4367 - 4369
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13000/43674369.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte à data da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

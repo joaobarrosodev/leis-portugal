@@ -23,6 +23,15 @@ publication:
   pages: 1197 - 1199
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11900/11971199.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da troca dos instrumentos de ratificação
+  method: clausula
+  article: art-viii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 5369 - 5371
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/169a00/53695371.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data da recepção da segunda notificação, por escrito e por via diplomática, de que foram cumpridos
+    os requisitos de direito interno das Partes necessários para o efeito
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

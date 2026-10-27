@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2382 - 2393
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/086b00/23822393.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-04-12'
+entry_into_force:
+  date: '2003-04-12'
+  rule: no dia seguinte ao da sua publicação, excepto quanto aos efeitos cuja produção esteja dependente de prévia autorização
+    comunitária
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

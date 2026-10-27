@@ -24,6 +24,15 @@ publication:
   pages: 1550 - 1551
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/080a00/15501551.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que cada uma das Partes informe a outra de que foram cumpridas as respectivas formalidades internas
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

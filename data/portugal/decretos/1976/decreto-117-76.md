@@ -23,6 +23,16 @@ publication:
   pages: 283 - 296
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03300/02830296.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando vinte e um Estados, dos quais sete deverão possuir cada um uma tonelagem global de navios de pelo menos 1 milhão
+    de toneladas de arqueação bruta, a ela tenham aderido, conforme as disposições d
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

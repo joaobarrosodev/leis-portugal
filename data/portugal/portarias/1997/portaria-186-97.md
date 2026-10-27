@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1248 - 1249
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/065b00/12481249.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-01-01'
+entry_into_force:
+  date: '1997-01-01'
+  rule: no dia 1 de Janeiro de 1997
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

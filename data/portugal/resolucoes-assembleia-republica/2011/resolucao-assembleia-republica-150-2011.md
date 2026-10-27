@@ -24,6 +24,15 @@ publication:
   pages: 5264 - 5273
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/23700/0526405273.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'na última das datas seguintes:'
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

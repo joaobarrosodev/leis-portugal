@@ -22,9 +22,28 @@ publication:
   supplement: null
   pages: 54 - 56
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13600/0005400056.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-15'
+entry_into_force:
+  date: '2023-07-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1034985556:por'
+    detail: Revogada, a partir de 05 de fevereiro de 2026, e determinado que a UNG-MFEEE 2021-2028 sucede nas competências,
+      nos direitos e nas obrigações da Unidade Nacional de Gestão do Mecanismo Financeiro do Espaço Económico Europeu 2014-2021,
+      pelo(a) Resolução do Conselho de Ministros n.º 19/2026 - Diário da República n.º 24/2026, Série I de 2026-02-04, nos
+      termos do seu n.º 15
 notes: []
 language: por
 version:

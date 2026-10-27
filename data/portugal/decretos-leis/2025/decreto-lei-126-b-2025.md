@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/23501/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-12-06'
+entry_into_force:
+  date: '2025-12-06'
+  rule: no dia seguinte ao da sua publicação e aplica-se às demonstrações financeiras relativas a exercícios com início em,
+    ou após, 1 de janeiro de 2026
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

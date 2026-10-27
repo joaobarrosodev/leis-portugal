@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 565 - 565
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/05000/05650565.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-03-01'
+entry_into_force:
+  date: '1981-03-01'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-1
+  effects_date: '1980-10-01'
+  effects_rule: a partir de 1 de Outubro de 1980
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

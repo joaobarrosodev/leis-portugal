@@ -24,6 +24,15 @@ publication:
   pages: 7274 - 7279
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/265a00/72747279.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a notificação referida no n.º 2 pelo último Estado-Membro que proceder a essa formalidade
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

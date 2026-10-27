@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 6240 - 6254
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/275a00/62406254.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-03-28'
+entry_into_force:
+  date: '1992-03-28'
+  rule: 120 dias após a sua publicação, com excepção do disposto no n.º 2 do artigo 9.º, no n.º 3 do artigo 10.º, no n.º 2
+    do artigo 20.º, no n.º 4 do artigo 29.º e no n.º 3 do artigo 33.º
+  method: clausula
+  article: art-73
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes:

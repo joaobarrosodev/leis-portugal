@@ -24,6 +24,16 @@ publication:
   pages: 3176 - 3178
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/138a00/31763178.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última notificação do cumprimento das formalidades exigidas, para o efeito, pela ordem jurídica
+    interna de cada uma das Partes, e será válido pelo período de um ano, automaticam
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

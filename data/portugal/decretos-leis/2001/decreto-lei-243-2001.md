@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5754 - 5765
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-12-25'
+entry_into_force:
+  date: '2003-12-25'
+  rule: no dia 25 de Dezembro de 2003, salvaguardado o disposto nas notas 2, 4 e 10 da parte B) do anexo I
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

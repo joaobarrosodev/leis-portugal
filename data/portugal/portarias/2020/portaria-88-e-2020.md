@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 35-(27) a 35-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06803/0002700028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-07'
+entry_into_force:
+  date: '2020-04-07'
+  rule: no dia seguinte ao da sua publicação, aplicando-se aos programas operacionais em execução no ano de 2020
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

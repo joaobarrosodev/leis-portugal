@@ -23,6 +23,15 @@ publication:
   pages: 498-(6) a 498-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07503/00060012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Abril
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

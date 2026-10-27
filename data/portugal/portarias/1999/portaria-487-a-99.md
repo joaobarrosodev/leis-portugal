@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4234-(2) a 4234-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/156b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-07-08'
+entry_into_force:
+  date: '1999-07-08'
+  rule: em 8 de Julho de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

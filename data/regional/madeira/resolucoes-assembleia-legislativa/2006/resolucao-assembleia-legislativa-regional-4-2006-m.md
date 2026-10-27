@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2326 - 2327
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/063b00/23262327.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-03-29'
+entry_into_force:
+  date: '2006-03-29'
+  rule: com a publicação da lei do Orçamento do Estado posterior à sua aprovação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

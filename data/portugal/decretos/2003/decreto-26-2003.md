@@ -24,6 +24,16 @@ publication:
   pages: 3139 - 3142
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da segunda das notas pelas quais as Partes Contratantes se informem reciprocamente de terem posto
+    em prática os requisitos necessários à entrada em vigor do Acordo
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

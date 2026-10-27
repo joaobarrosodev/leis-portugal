@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5264 - 5264
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/221b00/52645264.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-09-24'
+entry_into_force:
+  date: '1997-09-24'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

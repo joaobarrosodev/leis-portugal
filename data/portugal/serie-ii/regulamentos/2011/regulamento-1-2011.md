@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 106 - 119
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/001000000/0010600119.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-01-04'
+entry_into_force:
+  date: '2011-01-04'
+  rule: no dia a seguir à sua publicação na 2.ª série do Diário da República e revoga qualquer outro que não esteja conforme
+    às normas e princípios nele contidos
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

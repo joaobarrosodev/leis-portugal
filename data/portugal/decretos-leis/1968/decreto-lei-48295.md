@@ -23,6 +23,16 @@ publication:
   pages: 403 - 415
   pdf_url: https://files.diariodarepublica.pt/1s/1968/03/07400/04030415.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia que se seguir à data do depósito, perante o secretário-geral das Nações Unidas, do vigésimo segundo
+    instrumento de ratificação ou adesão
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

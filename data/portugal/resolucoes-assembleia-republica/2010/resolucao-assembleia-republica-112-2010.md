@@ -24,6 +24,15 @@ publication:
   pages: 4775 - 4779
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20700/0477504779.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para cada Estado membro 12 meses após a data em que tiver sido registada a sua ratificação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

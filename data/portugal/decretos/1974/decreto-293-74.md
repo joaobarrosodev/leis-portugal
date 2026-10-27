@@ -24,6 +24,16 @@ publication:
   pages: 757 - 762
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/14900/07570762.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que cada Governo tiver recebido do outro Governo notificação por escrito de que cumpriu todos os requisitos
+    legais e constitucionais para a entrada em vigor deste Acordo e permanecerá em vi
+  method: clausula
+  article: art-xv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

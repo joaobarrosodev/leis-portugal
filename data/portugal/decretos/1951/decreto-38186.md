@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1951/02/03900/01700172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:445900:por#art-11'
+    detail: É revogado o [Decreto n.º 38186], de 28 de Fevereiro de 1951.
 notes: []
 language: por
 version:

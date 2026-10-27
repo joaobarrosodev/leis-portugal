@@ -24,6 +24,16 @@ publication:
   pages: 1479 - 1481
   pdf_url: https://files.diariodarepublica.pt/1s/1969/10/25600/14791481.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o novo regulamento da Caixa, a publicar pelo Governo da província, em conformidade com as disposições neste diploma
+    prescritas
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

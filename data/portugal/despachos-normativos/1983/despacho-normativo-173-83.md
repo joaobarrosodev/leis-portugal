@@ -23,6 +23,15 @@ publication:
   pages: 3000-(13) a 3000-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/19401/00130015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no próximo dia 1 de Setembro
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

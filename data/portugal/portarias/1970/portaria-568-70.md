@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1698 - 1698
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/26200/16981698.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1970-11-21'
+entry_into_force:
+  date: '1970-11-21'
+  rule: no dia 21 de Novembro de 1970
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

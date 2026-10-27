@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4205 - 4205
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18600/0420504205.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-09-24'
+entry_into_force:
+  date: '2010-09-24'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2989 - 2991
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26900/29892991.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-11-21'
+entry_into_force:
+  date: '1979-11-21'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

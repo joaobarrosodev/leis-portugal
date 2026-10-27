@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1998 - 2002
   pdf_url: https://files.diariodarepublica.pt/1s/1969/12/30401/19982002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1970-01-01'
+entry_into_force:
+  date: '1970-01-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

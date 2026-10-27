@@ -24,6 +24,16 @@ publication:
   pages: 7210 - 7212
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/262a00/72107212.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da última notificação por escrito e por via diplomática, em que uma das Partes informa a outra
+    do cumprimento das formalidades exigidas pela ordem jurídico-constitucional interna
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

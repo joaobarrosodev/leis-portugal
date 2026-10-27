@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19346 - 19347
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/095000000/1934619347.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-05-19'
+entry_into_force:
+  date: '2009-05-19'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

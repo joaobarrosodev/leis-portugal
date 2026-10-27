@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3631 - 3632
   pdf_url: https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-09-24'
+entry_into_force:
+  date: '1987-09-24'
+  rule: no dia seguinte ao da sua publicação e nas regiões autónomas 30 dias após a mesma data
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

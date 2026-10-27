@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5290 - 5301
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/207b00/52905301.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-09-07'
+entry_into_force:
+  date: '1994-09-07'
+  rule: à data da sua publicação no Diário da República e vigorará por um prazo mínimo de 10 anos, sem prejuízo da sua revisão,
+    nos termos da legislação aplicável
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

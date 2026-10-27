@@ -23,6 +23,16 @@ publication:
   pages: 1588 - 1590
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/08600/15881590.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: '30 dias após a data de recepção da segunda das Notas pelas quais as duas Partes se informarem reciprocamente quanto
+    à sua aprovação em concordância com os processos constitucionais de ambos os países '
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

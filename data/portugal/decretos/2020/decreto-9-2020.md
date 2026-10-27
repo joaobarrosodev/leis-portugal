@@ -23,6 +23,15 @@ publication:
   pages: 2 - 31
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/227a00/0000200031.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 24 de novembro de 2020
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

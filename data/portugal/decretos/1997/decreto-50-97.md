@@ -24,6 +24,16 @@ publication:
   pages: 4980 - 4986
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/214a00/49804986.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando as Partes Contratantes se notificarem mutuamente, por troca de notas diplomáticas, de que foram cumpridos os
+    respectivos requisitos constitucionais
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

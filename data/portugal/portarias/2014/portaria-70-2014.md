@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1998 - 2003
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05300/0199802003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-03-22'
+entry_into_force:
+  date: '2014-03-22'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: com a entrada em vigor da revisão do Plano Diretor Municipal de Ílhavo
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

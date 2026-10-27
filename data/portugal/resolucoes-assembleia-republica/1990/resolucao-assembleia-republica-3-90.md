@@ -23,6 +23,16 @@ publication:
   pages: 406 - 413
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/02500/04060413.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de três meses após a data em que sete Estados membros do Conselho
+    da Europa tenham expresso o seu consentimento a ficarem vinculados à Convenção,
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

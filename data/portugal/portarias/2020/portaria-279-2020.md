@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23700/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-08'
+entry_into_force:
+  date: '2020-12-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2020-08-06'
+  effects_rule: a 6 de agosto de 2020, data de entrada em vigor da Portaria n.º 183/2020, de 5 de agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

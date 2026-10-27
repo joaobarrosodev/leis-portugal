@@ -24,6 +24,15 @@ publication:
   pages: 958-963
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/03/09/180308175.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das 00:00 do dia 11 de março de 2022
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

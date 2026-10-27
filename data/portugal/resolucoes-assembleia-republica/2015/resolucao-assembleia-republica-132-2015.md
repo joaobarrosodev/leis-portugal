@@ -24,6 +24,15 @@ publication:
   pages: 8617 - 8622
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19600/0861708622.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à receção da última das notificações referidas no segundo parágrafo
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

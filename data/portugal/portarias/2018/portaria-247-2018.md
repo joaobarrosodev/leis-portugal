@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4430 - 4443
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17000/0443004443.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-05'
+entry_into_force:
+  date: '2018-09-05'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 969 - 974
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/037b00/09690974.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-02-14'
+entry_into_force:
+  date: '2003-02-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2000-07-01'
+  effects_rule: reportados a 1 de Julho de 2000 em relação à transição para a nova carreira criada, bem como ao abono do suplemento
+    de função inspectiva
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

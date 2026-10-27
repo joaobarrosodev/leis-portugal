@@ -24,6 +24,16 @@ publication:
   pages: 5075 - 5076
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15000/0507505076.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica de cada uma das Partes
+    e será válido por um período de três anos, prorrogável por períodos iguais e sucessivo
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

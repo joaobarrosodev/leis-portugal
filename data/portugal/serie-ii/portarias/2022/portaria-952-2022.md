@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 119 - 120
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/249000000/0011900120.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-29'
+entry_into_force:
+  date: '2022-12-29'
+  rule: no dia seguinte da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:216405097:por#art-4'
+    detail: É revogada a [Portaria n.º 952/2022], publicada na 2.ª série do Diário da República, n.º 249, de 28 de dezembro
+      de 2022.
 notes: []
 language: por
 version:

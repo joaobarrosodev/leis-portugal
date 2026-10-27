@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 201-204
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/03/28/858167903.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-03-28'
+entry_into_force:
+  date: '2024-03-28'
+  rule: à data da respetiva publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

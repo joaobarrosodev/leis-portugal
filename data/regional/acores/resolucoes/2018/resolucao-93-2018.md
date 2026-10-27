@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2367-2367
   pdf_url: null
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-08-09'
+entry_into_force:
+  date: '2018-08-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

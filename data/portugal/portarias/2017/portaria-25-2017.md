@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 413 - 419
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/01000/0041300419.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-14'
+entry_into_force:
+  date: '2017-01-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-18
+  effects_date: '2017-01-01'
+  effects_rule: a 1 de janeiro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

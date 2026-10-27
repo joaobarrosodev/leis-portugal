@@ -24,6 +24,16 @@ publication:
   pages: 6910 - 6915
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/252a00/69106915.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ambas as Partes Contratantes tiverem notificado uma à outra, por escrito, do cumprimento dos respectivos
+    procedimentos constitucionais internos
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

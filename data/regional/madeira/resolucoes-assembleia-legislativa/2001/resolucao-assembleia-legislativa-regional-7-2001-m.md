@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1271 - 1271
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/057b00/12711271.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-09-04'
+entry_into_force:
+  date: '2001-09-04'
+  rule: 180 dias após a sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: a partir do ano económico subsequente
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

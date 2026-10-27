@@ -24,6 +24,15 @@ publication:
   pages: 1315 - 1338
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/047a00/13151338.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia após a data do depósito do 16.º instrumento de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

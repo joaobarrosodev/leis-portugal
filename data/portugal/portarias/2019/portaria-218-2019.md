@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3450 - 3451
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/13100/0345003451.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-12'
+entry_into_force:
+  date: '2019-07-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2018-01-25'
+  effects_rule: desde 25 de janeiro de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

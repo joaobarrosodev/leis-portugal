@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 8 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06900/0000800010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-08'
+entry_into_force:
+  date: '2020-04-08'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2020-03-20'
+  effects_rule: desde 20 de março de 2020
+  end_date: null
+  end_rule: até terminar o estado de emergência
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

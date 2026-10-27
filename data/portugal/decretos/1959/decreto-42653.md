@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/11/26600/14751475.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:500884:por#art-3'
+    detail: Como consequência do disposto nos artigos anteriores considera-se revogado o [Decreto n.º 42653], de 18 de Novembro
+      de 1959.
 notes: []
 language: por
 version:

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2148 - 2156
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19400/21482156.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-10-24'
+entry_into_force:
+  date: '1986-10-24'
+  rule: 60 dias após a sua publicação e aplica-se aos estabelecimentos individuais de responsabilidade limitada que se constituam
+    e tenham a sede principal e efectiva em Portugal
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

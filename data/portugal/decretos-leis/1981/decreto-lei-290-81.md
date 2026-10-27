@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2727 - 2731
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23600/27272731.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-10-15'
+entry_into_force:
+  date: '1981-10-15'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-29
+  effects_date: '1981-09-04'
+  effects_rule: a partir de 4 de Setembro de 1981
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

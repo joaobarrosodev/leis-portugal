@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1946/02/02500/00800080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:140857:por#art-5'
+    detail: Fica revogado o [Decreto n.º 35486], de 4 de Fevereiro de 1946.
 notes: []
 language: por
 version:

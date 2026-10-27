@@ -25,6 +25,16 @@ publication:
   pages: 4067 - 4069
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11600/0406704069.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a aprovação da Lei do Orçamento do Estado para o ano de 2010, reportando-se os seus efeitos à data da entrada
+    em vigor do Decreto-Lei n.º 66/2008, de 9 de Abril
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

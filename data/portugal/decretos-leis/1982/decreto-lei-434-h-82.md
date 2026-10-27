@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3598-(38) a 3598-(38)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25102/00380038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-10-29'
+entry_into_force:
+  date: '1982-10-29'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

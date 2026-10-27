@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 53866 - 53882
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/210000000/5386653882.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-10-29'
+entry_into_force:
+  date: '2010-10-29'
+  rule: no dia a seguir à sua publicação na 2.ª série do Diário da República e revoga qualquer outro que não esteja conforme
+    às normas e princípios nele contidos
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

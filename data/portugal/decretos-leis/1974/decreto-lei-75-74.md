@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 296-(8) a 296-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/02/05001/00080020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-06-28'
+entry_into_force:
+  date: '1974-06-28'
+  rule: cento e vinte dias após a data da sua publicação
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

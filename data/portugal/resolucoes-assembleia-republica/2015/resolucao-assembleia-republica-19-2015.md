@@ -24,6 +24,16 @@ publication:
   pages: 987 - 990
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/03600/0098700990.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de um mês após a data em que três Partes no Acordo Geral tenham
+    manifestado o seu consentimento em ficarem vinculadas pelo Protocolo, em conformi
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

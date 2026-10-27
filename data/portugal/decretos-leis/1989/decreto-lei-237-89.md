@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2934-(2) a 2934-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/17001/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-07-31'
+entry_into_force:
+  date: '1989-07-31'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir da data da entrada em vigor da Lei n.º 18/89, de 20 de Julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

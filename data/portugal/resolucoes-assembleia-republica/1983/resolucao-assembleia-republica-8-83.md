@@ -23,6 +23,16 @@ publication:
   pages: 3224 - 3259
   pdf_url: https://files.diariodarepublica.pt/1s/1983/09/21100/32243259.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após o depósito de instrumentos de ratificação ou de adesão de 12 Governos signatários, cujas subscrições iniciais,
+    como determinado no anexo A deste Acordo, no seu conjunto, atinjam uma percentagem n
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

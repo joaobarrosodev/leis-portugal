@@ -23,6 +23,15 @@ publication:
   pages: 1496-(1) a 1496-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14701/00010013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no próximo dia 30 de Junho
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

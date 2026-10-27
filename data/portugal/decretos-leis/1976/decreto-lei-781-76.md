@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2460 - 2460
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/25300/24602460.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-10-29'
+entry_into_force:
+  date: '1976-10-29'
+  rule: no dia seguinte ao da data da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

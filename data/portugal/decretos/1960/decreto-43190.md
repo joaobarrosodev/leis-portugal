@@ -23,6 +23,15 @@ publication:
   pages: 2041 - 2046
   pdf_url: https://files.diariodarepublica.pt/1s/1960/09/22200/20412046.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultâneamente com o Decreto-Lei n.º 43181, desta data
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

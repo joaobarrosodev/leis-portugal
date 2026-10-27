@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1953/11/24300/13581358.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:300175:por#n-2'
+    detail: 2.º Fica revogada a [Portaria n.º 14597], de 3 de Novembro de 1953.
 notes: []
 language: por
 version:

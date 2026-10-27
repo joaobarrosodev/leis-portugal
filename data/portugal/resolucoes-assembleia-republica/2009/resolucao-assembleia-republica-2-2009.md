@@ -25,6 +25,15 @@ publication:
   pages: 763 - 784
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/02200/0076300784.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após a data de depósito da terceira notificação referida no n.º 2 do presente artigo
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1476-(15) a 1476-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15503/00150019.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e durará até à materialização dos actos de transferência do departamento do Banco Nacional
+    Ultramarino em Cabo Verde
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

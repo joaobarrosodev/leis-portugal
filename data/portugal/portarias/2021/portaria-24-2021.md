@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 210 - 210
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/02000/0021000210.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-27'
+entry_into_force:
+  date: '2021-02-27'
+  rule: no dia 27 de fevereiro de 2021
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: pelo período de um ano
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

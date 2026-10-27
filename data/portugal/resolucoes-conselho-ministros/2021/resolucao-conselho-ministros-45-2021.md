@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 13 - 17
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/08200/0001300017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-29'
+entry_into_force:
+  date: '2021-04-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

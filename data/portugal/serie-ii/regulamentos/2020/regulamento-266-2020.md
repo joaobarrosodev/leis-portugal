@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 138 - 155
   pdf_url: https://files.diariodarepublica.pt/2s/2020/03/057000000/0013800155.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-21'
+entry_into_force:
+  date: '2020-03-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

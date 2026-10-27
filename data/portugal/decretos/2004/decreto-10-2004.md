@@ -25,6 +25,16 @@ publication:
   pages: 2670 - 2672
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/101a00/26702672.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de recepção da última das notificações, por via diplomática, de que se encontram preenchidos os
+    respectivos requisitos constitucionais e legais para a sua entrada em vigor
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

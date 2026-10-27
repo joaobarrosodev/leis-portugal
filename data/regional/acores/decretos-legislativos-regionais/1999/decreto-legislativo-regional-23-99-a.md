@@ -23,6 +23,15 @@ publication:
   pages: 4936 - 4938
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/177a00/49364938.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia posterior à sua publicação e
+  method: clausula
+  article: art-16
+  effects_date: '2000-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

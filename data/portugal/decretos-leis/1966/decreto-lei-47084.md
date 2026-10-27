@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1221 - 1225
   pdf_url: https://files.diariodarepublica.pt/1s/1966/07/15800/12211225.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-07-01'
+entry_into_force:
+  date: '1966-07-01'
+  rule: em 1 de Julho de 1966
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 1860 - 1863
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10300/18601863.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após estarem publicadas a lista a que se refere o artigo 2.º e a tabela a que se refere o artigo 3.º
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 796 - 797
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/03500/0079600797.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-03-01'
+entry_into_force:
+  date: '2012-03-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

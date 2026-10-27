@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 169 - 175
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/011000000/0016900175.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-01'
+entry_into_force:
+  date: '2020-01-01'
+  rule: no dia 1 de janeiro de 2020, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 1641 - 1642
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/15500/16411642.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia um do terceiro mês seguinte ao da data da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1944 - 1946
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/27900/19441946.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-12-03'
+entry_into_force:
+  date: '1975-12-03'
+  rule: na data da publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

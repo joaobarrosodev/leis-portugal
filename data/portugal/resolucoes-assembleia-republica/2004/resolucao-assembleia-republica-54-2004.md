@@ -25,6 +25,16 @@ publication:
   pages: 4491 - 4501
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/170a00/44914501.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que as Partes tenham procedido à notificação recíproca por escrito de que se encontram preenchidos
+    os respectivos requisitos para a sua entrada em vigor
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

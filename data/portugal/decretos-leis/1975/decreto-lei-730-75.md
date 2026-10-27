@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2119 - 2119
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29500/21192119.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-12-23'
+entry_into_force:
+  date: '1975-12-23'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

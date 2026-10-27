@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 5524 - 5626
   pdf_url: https://files.diariodarepublica.pt/1s/2013/09/17100/0552405626.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-09-06'
+entry_into_force:
+  date: '2013-09-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: '2013-08-04'
+  effects_rule: a partir de 4 de agosto de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

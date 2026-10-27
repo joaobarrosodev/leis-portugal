@@ -24,6 +24,15 @@ publication:
   pages: 6 - 23
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0000600023.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no nonagésimo dia após a data de depósito do trigésimo instrumento de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

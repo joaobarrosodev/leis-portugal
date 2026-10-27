@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7663 - 7664
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/76637664.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-11-06'
+entry_into_force:
+  date: '1999-11-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '1999-09-01'
+  effects_rule: a 1 de Setembro de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

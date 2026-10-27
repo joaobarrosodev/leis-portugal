@@ -23,6 +23,15 @@ publication:
   pages: 9-(2) a 9-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/21102/0000200002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 1 de novembro de 2021
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

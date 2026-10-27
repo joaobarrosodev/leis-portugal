@@ -24,6 +24,15 @@ publication:
   pages: 7272-(2) a 7272-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/251b01/00020003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na Região Autónoma da Madeira em 28 de Outubro de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

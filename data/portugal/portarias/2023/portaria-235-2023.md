@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 26 - 28
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14500/0002600028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-01'
+entry_into_force:
+  date: '2023-08-01'
+  rule: no dia 1 de agosto de 2023
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

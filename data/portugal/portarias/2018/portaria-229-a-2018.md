@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 4100-(2) a 4100-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15601/0000200022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-08-15'
+entry_into_force:
+  date: '2018-08-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: 'a partir do ano letivo de:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

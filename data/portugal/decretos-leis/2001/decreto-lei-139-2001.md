@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2351 - 2355
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/096a00/23512355.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-24'
+entry_into_force:
+  date: '2001-05-24'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

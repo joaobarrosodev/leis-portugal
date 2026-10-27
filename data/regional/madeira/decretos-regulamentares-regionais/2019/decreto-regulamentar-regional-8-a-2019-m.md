@@ -23,7 +23,18 @@ publication:
   supplement: 1º Suplemento
   pages: 12-(2) a 12-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/22201/0000200010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-11-20'
+entry_into_force:
+  date: '2019-11-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: '2019-10-15'
+  effects_rule: reportados a 15 de outubro de 2019, data da nomeação dos novos membros do Governo, considerando-se ratificados
+    ou confirmados todos os atos que tenham sido praticados desde aquela data e cuja regulari
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

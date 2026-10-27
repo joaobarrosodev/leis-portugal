@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2026/03/10/1070470149.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-03-11'
+entry_into_force:
+  date: '2026-03-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2026-03-01'
+  effects_rule: a partir de 1 de março de 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

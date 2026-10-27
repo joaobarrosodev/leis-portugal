@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/04400/0000600008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-05'
+entry_into_force:
+  date: '2021-03-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Regulamento (UE) n.º 2017/2393, do Parlamento Europeu e do Conselho, de 13 de
+    dezembro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1957/12/29600/15041504.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:274643:por#texto'
+    detail: VII) Fica revogada a [Portaria n.º 16534], de 30 de Dezembro de 1957.
 notes: []
 language: por
 version:

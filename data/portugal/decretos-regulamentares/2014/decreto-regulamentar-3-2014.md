@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3758 - 3758
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/13000/0375803758.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-07-10'
+entry_into_force:
+  date: '2014-07-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: desde a data da entrada em vigor do Decreto Regulamentar n.º 1/2014, de 10 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

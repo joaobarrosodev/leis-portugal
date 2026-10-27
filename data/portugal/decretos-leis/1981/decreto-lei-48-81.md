@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 707 - 707
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/06300/07070707.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-03-18'
+entry_into_force:
+  date: '1981-03-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

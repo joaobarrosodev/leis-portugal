@@ -26,6 +26,15 @@ publication:
   pages: 14 - 40
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07100/0001400040.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após o dia da sua publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

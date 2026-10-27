@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1937/05/11200/04810483.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:291606:por#art-42'
+    detail: '[Decreto n.º 27702], de 15 de Maio de 1937, Decreto n.º 29877, de 2 de Setembro de 1939, [Decreto n.º 48000],
+      de 21 de Outubro de 1967, e [Decreto n.º 289/70], de 24 de Junho.'
 notes: []
 language: por
 version:

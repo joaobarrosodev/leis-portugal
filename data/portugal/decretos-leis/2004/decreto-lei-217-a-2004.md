@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6246-(2) a 6246-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/10/237a01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-10-09'
+entry_into_force:
+  date: '2004-10-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '2004-10-01'
+  effects_rule: a partir do dia 1 de Outubro de 2004 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

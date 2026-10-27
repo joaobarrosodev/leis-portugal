@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4784-(2) a 4784-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/06/127b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-05'
+entry_into_force:
+  date: '2002-06-05'
+  rule: em 5 de Junho de 2002, sendo na mesma data revogada a Portaria n.º 322-A/2002, de 26 de Março
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 71 - 71
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/060000000/0007100071.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-03-26'
+entry_into_force:
+  date: '2022-03-26'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:223257105:por#n-5'
+    detail: 5 - Fica revogada a [Portaria n.º 391/2022], de 16 de março, publicada no Diário da República, 2.ª série, n.º
+      60, de 25 de março de 2022.
 notes: []
 language: por
 version:

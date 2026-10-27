@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 33499 - 33503
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-08-31'
+entry_into_force:
+  date: '2011-08-31'
+  rule: no prazo de 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

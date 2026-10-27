@@ -24,6 +24,15 @@ publication:
   pages: 4668 - 4672
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/167a00/46684672.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a recepção da última das comunicações
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante 15 anos
 end_of_validity_date: null
 legal_status: in_force
 notes: []

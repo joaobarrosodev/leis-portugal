@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1930/12/29800/25112511.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:380929:por#art-24'
+    detail: b) [Portaria n.º 6991], de 23 de Dezembro de 1930
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:380929:por'
+    detail: Revogada, a partir de 01.01.1985, pelo(a) Decreto-Lei n.º 288/84 - Diário da República n.º 196/1984, Série I de
+      1984-08-24
 notes: []
 language: por
 version:

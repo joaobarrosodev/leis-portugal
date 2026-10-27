@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 36 - 50
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/14800/0003600050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-02'
+entry_into_force:
+  date: '2023-08-02'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: à data da publicitação do primeiro aviso para apresentação de candidaturas, a que se refere o artigo 16.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

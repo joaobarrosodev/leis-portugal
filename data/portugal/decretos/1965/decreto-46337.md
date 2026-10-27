@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 675 - 684
   pdf_url: https://files.diariodarepublica.pt/1s/1965/05/10900/06750684.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1965-05-19'
+entry_into_force:
+  date: '1965-05-19'
+  rule: em 19 de Maio de 1965 e substitui o aprovado pelo Decreto n.º 46194, de 18 de Fevereiro de 1965
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 943 - 944
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/06800/09430944.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-03-22'
+entry_into_force:
+  date: '1984-03-22'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

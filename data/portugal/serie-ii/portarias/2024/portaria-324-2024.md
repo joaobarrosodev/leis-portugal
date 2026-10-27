@@ -24,6 +24,15 @@ publication:
   pages: 64 - 64
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/036000000/0006400064.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua assinatura
+  method: clausula
+  article: n-5
+  effects_date: '2022-11-17'
+  effects_rule: reportados a 17 de novembro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

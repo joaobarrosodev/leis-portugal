@@ -23,6 +23,16 @@ publication:
   pages: 397 - 403
   pdf_url: https://files.diariodarepublica.pt/1s/1966/03/06700/03970403.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias depois de cinco dos países mencionados no parágrafo 1 do artigo 6.º a terem assinado sem reserva de ratificação
+    ou terem depositado os respectivos instrumentos de ratificação ou adesão
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

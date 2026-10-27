@@ -24,6 +24,15 @@ publication:
   pages: 6-(2) a 6-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11301/0000200006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 horas do dia 15 de junho de 2020
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

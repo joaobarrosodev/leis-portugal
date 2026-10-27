@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 151 - 166
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/207000000/0015100166.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-25'
+entry_into_force:
+  date: '2024-10-25'
+  rule: no dia seguinte ao da sua publicação no Diário da República, revogando o RegulRegulamento n.º 951/202213 de outubro
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

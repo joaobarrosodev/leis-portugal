@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2749 - 2749
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/068b00/27492749.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-22'
+entry_into_force:
+  date: '2002-03-22'
+  rule: no dia seguinte ao da sua publicação e aplica-se aos filmes estreados comercialmente entre 1 de Janeiro e 31 de Dezembro
+    de 2001
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

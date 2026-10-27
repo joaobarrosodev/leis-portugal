@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 9461 - 9469
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/21900/0946109469.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-10'
+entry_into_force:
+  date: '2015-11-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: relativamente aos grupos operacionais do sector florestal após publicação da decisão de aprovação pela Comissão
+    Europeia no Jornal Oficial das Comunidades Europeias e sua divulgação no portal do Portu
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

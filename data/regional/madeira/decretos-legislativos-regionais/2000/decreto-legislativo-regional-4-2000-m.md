@@ -24,6 +24,15 @@ publication:
   pages: 415 - 429
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano escolar de 2000-2001
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 738-(1) a 738-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/14301/00010001.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte àquele em que for publicada nos Boletins Oficiais
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

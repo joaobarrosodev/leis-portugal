@@ -24,6 +24,16 @@ publication:
   pages: 6665 - 6673
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24400/0666506673.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de três meses após a data em que cinco Estados, incluindo,
+    pelo menos, quatro Estados-Membros do Conselho da Europa, tenham manifestado o seu con
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

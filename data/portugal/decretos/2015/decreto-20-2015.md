@@ -26,6 +26,15 @@ publication:
   pages: 9163 - 9170
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20600/0916309170.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no nonagésimo dia após a data em que todas as Partes tenham depositado o seu instrumento de ratificação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

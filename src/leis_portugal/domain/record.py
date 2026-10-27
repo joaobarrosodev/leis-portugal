@@ -236,8 +236,12 @@ class LegalRecord:
     publication_date: str | None = None
     publication: Publication | None = None
     entry_into_force_dates: list[str] = field(default_factory=list)
+    # Entrada em vigor lida no texto (`leis-portugal structure`): data, regra, método…
+    entry_into_force: dict[str, Any] | None = None
     end_of_validity_date: str | None = None
     legal_status: str = "unknown"
+    # Proveniência de `legal_status` quando não vem do DRE, com as provas.
+    legal_status_basis: dict[str, Any] | None = None
     notes: list[str] = field(default_factory=list)
     language: str = "por"
     version: Version = field(default_factory=Version)
@@ -254,10 +258,12 @@ class LegalRecord:
         "schema_version", "id", "title", "short_title", "summary", "jurisdiction", "territory",
         "document_type", "document_type_label", "issuing_authority", "proposing_entity",
         "official_number", "official_date", "publication_date", "publication",
-        "entry_into_force_dates", "end_of_validity_date", "legal_status", "notes", "language",
+        "entry_into_force_dates", "entry_into_force", "end_of_validity_date", "legal_status", "legal_status_basis", "notes", "language",
         "version", "version_history", "identifiers", "source", "integrity", "provenance", "reuse",
         "subjects", "relationships", "article_structure", "derived_material", "validation",
     )
+    # Campos que só se gravam quando existem (os registos sem eles ficam como estão).
+    _OMIT_WHEN_NONE = frozenset({"version_history", "entry_into_force", "legal_status_basis"})
     _BLOCKS = {
         "publication": Publication, "version": Version, "identifiers": Identifiers, "source": Source,
         "integrity": Integrity, "provenance": Provenance, "reuse": Reuse,
@@ -288,7 +294,7 @@ class LegalRecord:
         result: dict[str, Any] = {}
         for name in self._ORDER:
             value = getattr(self, name)
-            if name == "version_history" and value is None:
+            if name in self._OMIT_WHEN_NONE and value is None:
                 continue
             if name == "relationships":
                 value = [item.to_dict() for item in value]

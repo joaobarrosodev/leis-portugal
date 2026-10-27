@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21300/0000500010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-02'
+entry_into_force:
+  date: '2020-11-02'
+  rule: no dia 2 de novembro de 2020
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1954/02/02200/00440044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:226614:por#n-11'
+    detail: Fica revogada a [Portaria n.º 14733], de 1 de Fevereiro de 1954.
 notes: []
 language: por
 version:

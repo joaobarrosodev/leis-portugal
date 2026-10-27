@@ -23,6 +23,15 @@ publication:
   pages: 13-(5) a 13-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05503/0000500007.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Decreto do Presidente da República
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: nos mesmos termos
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

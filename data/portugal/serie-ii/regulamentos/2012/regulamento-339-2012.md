@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 27629 - 27631
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/152000000/2762927631.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-08'
+entry_into_force:
+  date: '2012-08-08'
+  rule: no dia seguinte ao da sua publicação, aplicando-se imediatamente a todos os cursos que venham a ser aprovados a partir
+    dessa data
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

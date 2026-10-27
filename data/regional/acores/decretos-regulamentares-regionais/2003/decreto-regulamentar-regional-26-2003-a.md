@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5256 - 5257
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/191b00/52565257.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-08-21'
+entry_into_force:
+  date: '2003-08-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2003-02-16'
+  effects_rule: a partir de 16 de Fevereiro de 2003
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

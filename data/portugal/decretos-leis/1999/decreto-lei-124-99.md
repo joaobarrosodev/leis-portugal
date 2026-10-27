@@ -23,6 +23,15 @@ publication:
   pages: 2064 - 2078
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/092a00/20642078.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês seguinte àquele em que for publicado
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes:

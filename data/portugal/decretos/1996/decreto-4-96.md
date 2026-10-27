@@ -24,6 +24,15 @@ publication:
   pages: 877 - 879
   pdf_url: https://files.diariodarepublica.pt/1s/1996/04/091a00/08770879.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e manter-se-á válido por um período de três anos
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2543 - 2545
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/10100/0254302545.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-26'
+entry_into_force:
+  date: '2017-05-26'
+  rule: no dia seguinte ao da sua publicação exceto no que se refere à instalação de equipamentos de dissuasão acústicos previstos
+    no artigo 5.º que se aplica a partir de 1 de janeiro de 2018
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

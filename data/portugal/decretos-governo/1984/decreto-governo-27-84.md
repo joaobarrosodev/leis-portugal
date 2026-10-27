@@ -23,6 +23,15 @@ publication:
   pages: 1679 - 1681
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12000/16791681.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da entrega do último instrumento de ratificação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

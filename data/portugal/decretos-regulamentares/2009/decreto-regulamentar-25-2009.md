@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6270 - 6285
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17800/0627006285.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-01'
+entry_into_force:
+  date: '2010-01-01'
+  rule: em 1 de Janeiro de 2010, aplicando-se, para efeitos de IRC e de IRS, relativamente aos períodos de tributação que
+    se iniciem em, ou após, 1 de Janeiro de 2010
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

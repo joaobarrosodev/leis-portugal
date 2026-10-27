@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 109 - 110
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/012000000/0010900110.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-10'
+entry_into_force:
+  date: '2024-01-10'
+  rule: a 10 de janeiro de 2024
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 71 - 74
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/10500/0007100074.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-06-02'
+entry_into_force:
+  date: '2026-06-02'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: com a entrada em vigor do Orçamento do Estado subsequente à data da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

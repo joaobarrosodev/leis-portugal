@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2400 - 2403
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/107b00/24002403.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-06-07'
+entry_into_force:
+  date: '1999-06-07'
+  rule: 30 dias após a sua publicação, aplicando-se a todas as situações constituídas após essa data
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

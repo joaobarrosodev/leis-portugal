@@ -24,6 +24,16 @@ publication:
   pages: 6110 - 6114
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/260a00/61106114.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da última comunicação pela qual uma das Partes notifique por via diplomática a outra Parte terem sido cumpridos
+    os trâmites de aprovação internos correspondentes
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

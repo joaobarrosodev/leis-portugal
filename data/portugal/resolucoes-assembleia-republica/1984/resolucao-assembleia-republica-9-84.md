@@ -23,6 +23,16 @@ publication:
   pages: 751 - 768
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/05600/07510768.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando pelo menos 80 Estados que tenham depositado instrumento de ratificação, de aceitação ou de aprovação tiverem
+    notificado o depositário de que, após consultas mútuas, se puseram de acordo sobre a
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

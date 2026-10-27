@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2055 - 2061
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/18200/20552061.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-06-30'
+entry_into_force:
+  date: '1981-06-30'
+  rule: no dia 30 de Junho de 1981
+  method: clausula
+  article: art-102
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2967 - 2967
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/124b00/29672967.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-05-31'
+entry_into_force:
+  date: '1991-05-31'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

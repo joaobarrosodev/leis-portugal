@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1904 - 1904
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/06200/0190401904.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-03-29'
+entry_into_force:
+  date: '2013-03-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: à data de entrada em vigor da Portaria n.º 74/2013, de 15 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

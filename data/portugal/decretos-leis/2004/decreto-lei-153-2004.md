@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3959 - 3961
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/152a00/39593961.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-07-01'
+entry_into_force:
+  date: '2004-07-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 951 - 951
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/08000/09510951.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-04-06'
+entry_into_force:
+  date: '1985-04-06'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

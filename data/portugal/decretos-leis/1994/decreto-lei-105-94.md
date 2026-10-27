@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1971 - 1972
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/095a00/19711972.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-07-01'
+entry_into_force:
+  date: '1994-07-01'
+  rule: no 1.º dia do 3.º mês seguinte ao da data da sua publicação, aplicando-se, a partir daquele momento, a todos os contratos
+    que venham a ser celebrados, bem como aos contratos já celebrados, na data dos
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

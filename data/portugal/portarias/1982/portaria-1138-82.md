@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4062 - 4062
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/28400/40624062.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-12-10'
+entry_into_force:
+  date: '1982-12-10'
+  rule: a partir da data da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

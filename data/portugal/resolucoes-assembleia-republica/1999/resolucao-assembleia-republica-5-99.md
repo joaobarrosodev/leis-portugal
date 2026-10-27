@@ -24,6 +24,15 @@ publication:
   pages: 512 - 547
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/023a00/05120547.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 6.º mês após a data de depósito do 40.º instrumento de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

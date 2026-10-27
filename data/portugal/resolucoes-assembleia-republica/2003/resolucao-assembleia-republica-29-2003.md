@@ -24,6 +24,16 @@ publication:
   pages: 2656 - 2658
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/096a00/26562658.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da última notificação por escrito relativa ao cumprimento pelas Partes das formalidades da ordem
+    jurídica interna necessárias à sua entrada em vigor
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

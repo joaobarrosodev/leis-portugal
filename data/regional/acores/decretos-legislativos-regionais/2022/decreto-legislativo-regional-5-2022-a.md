@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18 - 27
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/04500/0001800027.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-03-05'
+entry_into_force:
+  date: '2022-03-05'
+  rule: 'no dia seguinte ao da sua publicação, sem prejuízo da sua concretização gradual, nos termos seguintes:'
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

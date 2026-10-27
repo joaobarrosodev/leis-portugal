@@ -25,6 +25,16 @@ publication:
   pages: 2632 - 2633
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/114b00/26322633.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nesta data e
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: relativamente ao curso a que se refere o n.º 1.º, desde o ano lectivo de 1992-1993, data do seu início, até
+    ao ano lectivo de 1993-1994 inclusive, data do seu termo
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

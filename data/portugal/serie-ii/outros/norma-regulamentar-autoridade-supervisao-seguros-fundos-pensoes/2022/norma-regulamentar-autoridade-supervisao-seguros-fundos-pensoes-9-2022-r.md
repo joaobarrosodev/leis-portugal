@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 156 - 221
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/228000000/0015600221.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-01'
+entry_into_force:
+  date: '2023-01-01'
+  rule: a 1 de janeiro de 2023
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

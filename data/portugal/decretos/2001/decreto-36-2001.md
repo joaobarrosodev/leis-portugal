@@ -24,6 +24,15 @@ publication:
   pages: 5885 - 5889
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/214a00/58855889.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da última notificação, pelos canais diplomáticos, relativa à observância das formalidades legais
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 86-(2) a 86-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/23001/0000200019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-11-29'
+entry_into_force:
+  date: '2023-11-29'
+  rule: no dia seguinte ao da sua publicação e retroage os seus efeitos a 1 de janeiro de 2023, com exceção do número seguinte
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

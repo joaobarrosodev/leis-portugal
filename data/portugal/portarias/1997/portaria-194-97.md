@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1310 - 1311
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/068b00/13101311.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-03-30'
+entry_into_force:
+  date: '1997-03-30'
+  rule: em 30 de Março de 1997
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []
