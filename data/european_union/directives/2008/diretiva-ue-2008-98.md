@@ -614,6 +614,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919
   date: '2006-04-28'
 - type: transposed_by
+  target: pt:dre:114538726:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:114627305:por
   label: null
   source: null
@@ -635,6 +639,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:540016:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:66762671:por
   label: null
   source: null
 - type: transposed_by

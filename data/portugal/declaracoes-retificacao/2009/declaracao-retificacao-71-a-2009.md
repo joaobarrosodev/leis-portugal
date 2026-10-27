@@ -77,10 +77,6 @@ subjects:
 - Região do Oeste e VALE do TEJO
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre
-- type: cites
   target: pt:dre:1823500:por
   label: null
   source: null
@@ -99,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:665513:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre
 - type: corrects
   target: pt:numero:resolucao-conselho-ministros:64-A/2009
   label: "Rectifica a alínea c) do n.º 7, a alínea a) do n.º 18, o n.º 19 e a secção II do anexo II (identificação a negrito\

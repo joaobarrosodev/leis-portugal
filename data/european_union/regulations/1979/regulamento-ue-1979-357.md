@@ -153,6 +153,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/a632dbc3-6596-4766-92f6-f218e567e602
   date: '1962-07-20'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:11957E148
   label: null

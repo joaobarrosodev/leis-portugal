@@ -112,10 +112,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-2006-676641
   date: '2006-01-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/189/2003/12/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/189/2003/12/16/p/dre
-- type: cites
   target: pt:dre:217518:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/77/2004/03/31/p/dre
@@ -138,7 +134,7 @@ relationships:
 - type: cites
   target: pt:dre:430629:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/189/2003/12/16/p/dre
 - type: cites
   target: pt:dre:441146:por
   label: null

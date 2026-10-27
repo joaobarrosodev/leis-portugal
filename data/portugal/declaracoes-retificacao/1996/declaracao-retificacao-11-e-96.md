@@ -72,10 +72,6 @@ subjects:
 - Política de Solos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/1996/06/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/1996/06/05/p/dre
-- type: cites
   target: pt:dre:155001:por
   label: null
   source: null
@@ -167,6 +163,10 @@ relationships:
   target: pt:dre:427162:por
   label: null
   source: null
+- type: cites
+  target: pt:dre:437438:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/81/1996/06/05/p/dre
 - type: cites
   target: pt:dre:475542:por
   label: null

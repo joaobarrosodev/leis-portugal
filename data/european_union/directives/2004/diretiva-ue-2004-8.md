@@ -129,6 +129,10 @@ relationships:
   target: pt:dre:67123272:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:74748829:por
+  label: null
+  source: null
 - type: cites
   target: celex:12002E005
   label: null
@@ -248,6 +252,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:552018:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:75530570:por
   label: null
   source: null
 article_structure:

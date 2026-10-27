@@ -75,14 +75,6 @@ subjects:
 - Regime das contra Ordenações
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/2/1995/06/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/2/1995/06/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/265/2001/07/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/265/2001/07/16/p/dre
-- type: cites
   target: pt:dre:122728683:por
   label: null
   source: http://data.dre.pt/eli/lei/45/2019/06/27/p/dre
@@ -90,6 +82,14 @@ relationships:
   target: pt:dre:226051:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/329-a/1995/12/12/p/dre
+- type: cites
+  target: pt:dre:395970:por
+  label: null
+  source: http://data.dre.pt/eli/ac/265/2001/07/16/p/dre
+- type: cites
+  target: pt:dre:518794:por
+  label: null
+  source: http://data.dre.pt/eli/ac/2/1995/06/12/p/dre
 - type: cites
   target: pt:dre:563986:por
   label: null

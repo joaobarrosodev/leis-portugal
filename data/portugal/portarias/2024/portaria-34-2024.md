@@ -76,33 +76,21 @@ subjects:
 - Trabalhador por Conta de Outrem
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/318/2017/10/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/318/2017/10/25/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/386/2019/10/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/386/2019/10/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/9/2019/01/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/9/2019/01/10/p/dre
-- type: cites
   target: pt:dre:107495701:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
 - type: cites
   target: pt:dre:114100327:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/318/2017/10/25/p/dre
 - type: cites
   target: pt:dre:117663342:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/9/2019/01/10/p/dre
 - type: cites
   target: pt:dre:125633671:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/386/2019/10/24/p/dre
 - type: cites
   target: pt:dre:185330735:por
   label: null

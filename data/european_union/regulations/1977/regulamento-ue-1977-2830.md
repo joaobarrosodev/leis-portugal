@@ -123,6 +123,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/c79bd1f3-102a-4989-b7ca-19d346a09f71
   date: '1975-06-12'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

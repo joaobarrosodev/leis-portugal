@@ -88,6 +88,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/3b5c28b5-feed-4fba-88f4-10cde51173f5
   date: '1971-08-04'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: repealed_by
   target: celex:31991R0147
   label: null

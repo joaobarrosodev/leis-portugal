@@ -80,10 +80,6 @@ relationships:
   source: null
   date: '2014-01-09'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/118/2021/12/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/118/2021/12/16/p/dre
-- type: cites
   target: pt:dre:106542300:por
   label: null
   source: http://data.dre.pt/eli/lei/6/2017/03/02/p/dre
@@ -94,7 +90,7 @@ relationships:
 - type: cites
   target: pt:dre:175983733:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/118/2021/12/16/p/dre
 - type: cites
   target: pt:dre:25676932:por
   label: null

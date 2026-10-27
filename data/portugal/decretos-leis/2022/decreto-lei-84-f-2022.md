@@ -111,10 +111,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-e-2023-229857716
   date: '2023-12-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/109-a/2021/12/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/109-a/2021/12/07/p/dre
-- type: cites
   target: pt:dre:130473160:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10-b/2020/03/20/p/dre
@@ -122,6 +118,10 @@ relationships:
   target: pt:dre:155938993:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10/2021/02/01/p/dre
+- type: cites
+  target: pt:dre:175595603:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/109-a/2021/12/07/p/dre
 - type: cites
   target: pt:dre:185224662:por
   label: null

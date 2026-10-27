@@ -141,10 +141,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2015/1017/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
   target: pt:dre:123610180:por
   label: null
   source: http://data.dre.pt/eli/lei/52/2019/07/31/p/dre
@@ -168,6 +164,10 @@ relationships:
   target: pt:dre:520259:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:58509397:por
   label: null

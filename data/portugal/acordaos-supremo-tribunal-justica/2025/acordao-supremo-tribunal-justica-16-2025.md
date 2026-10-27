@@ -89,10 +89,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2017/2096/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/2/1994/05/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/2/1994/05/07/p/dre
-- type: cites
   target: pt:dre:114337042:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/152-d/2017/12/11/p/dre
@@ -119,7 +115,7 @@ relationships:
 - type: cites
   target: pt:dre:256436:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/2/1994/05/07/p/dre
 - type: cites
   target: pt:dre:278029:por
   label: null

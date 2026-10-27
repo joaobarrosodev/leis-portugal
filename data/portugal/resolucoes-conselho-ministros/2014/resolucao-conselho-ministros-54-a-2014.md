@@ -93,17 +93,13 @@ subjects:
 - Venda Directa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/62-b/2013/10/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/62-b/2013/10/11/p/dre
-- type: cites
   target: pt:dre:240432:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/62-a/2013/10/11/p/dre
 - type: cites
   target: pt:dre:240433:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/62-b/2013/10/11/p/dre
 - type: cites
   target: pt:dre:300603:por
   label: null

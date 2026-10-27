@@ -86,10 +86,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/53-2010-333798
   date: '2010-08-02'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
-- type: cites
   target: pt:dre:234316:por
   label: null
   source: null
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:369413:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
 - type: cites
   target: pt:dre:393381:por
   label: null

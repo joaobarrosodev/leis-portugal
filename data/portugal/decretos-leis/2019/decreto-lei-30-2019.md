@@ -113,10 +113,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2014/24/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
-- type: cites
   target: pt:dre:114311303:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/150/2017/12/06/p/dre
@@ -148,6 +144,10 @@ relationships:
   target: pt:dre:655682:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: pt:dre:75239710:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
 article_structure:
   article_count: 30
   section_count: 13

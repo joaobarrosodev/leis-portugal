@@ -108,57 +108,33 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2023/1619/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/108/2022/03/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/108/2022/03/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/15-a/2021/01/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/15-a/2021/01/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/220/2019/07/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/220/2019/07/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/265-a/2021/11/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/265-a/2021/11/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/274-a/2020/12/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/274-a/2020/12/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/279/2019/08/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/279/2019/08/28/p/dre
-- type: cites
   target: pt:dre:114099655:por
   label: null
   source: http://data.dre.pt/eli/port/323/2017/10/26/p/dre
 - type: cites
   target: pt:dre:123183041:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/220/2019/07/16/p/dre
 - type: cites
   target: pt:dre:124256713:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/279/2019/08/28/p/dre
 - type: cites
   target: pt:dre:150109609:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/274-a/2020/12/02/p/dre
 - type: cites
   target: pt:dre:154200876:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/15-a/2021/01/14/p/dre
 - type: cites
   target: pt:dre:174825423:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/265-a/2021/11/24/p/dre
 - type: cites
   target: pt:dre:180122112:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/108/2022/03/08/p/dre
 - type: cites
   target: pt:dre:207942904:por
   label: null

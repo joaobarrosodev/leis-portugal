@@ -79,10 +79,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regulamento/119-2018-114703554
   date: '2018-02-16'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/79/1995/08/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/79/1995/08/22/p/dre
-- type: cites
   target: pt:dre:164053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre
@@ -137,7 +133,7 @@ relationships:
 - type: cites
   target: pt:dre:431804:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/79/1995/08/22/p/dre
 - type: cites
   target: pt:dre:475542:por
   label: null

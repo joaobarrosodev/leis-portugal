@@ -84,13 +84,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-e-2010-510861
   date: '2010-05-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/67-a/1999/07/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/67-a/1999/07/06/p/dre
-- type: cites
   target: pt:dre:240979:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/67-a/1999/07/06/p/dre
 - type: cites
   target: pt:dre:574110:por
   label: null

@@ -88,10 +88,6 @@ subjects:
 - Sistema Nacional de Intervenção Precoce na Infância
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/232/2015/08/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/232/2015/08/06/p/dre
-- type: cites
   target: pt:dre:114796179:por
   label: null
   source: http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
@@ -118,7 +114,7 @@ relationships:
 - type: cites
   target: pt:dre:69956141:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/232/2015/08/06/p/dre
 article_structure:
   article_count: 17
   section_count: 0

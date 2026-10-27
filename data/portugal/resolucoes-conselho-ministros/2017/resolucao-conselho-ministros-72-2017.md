@@ -78,10 +78,6 @@ subjects:
 - RIO Tâmega
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2015/04/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/2015/04/28/p/dre
-- type: cites
   target: pt:dre:106804082:por
   label: null
   source: null
@@ -117,6 +113,10 @@ relationships:
   target: pt:dre:639155:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/232/2007/06/15/p/dre
+- type: cites
+  target: pt:dre:67098323:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2015/04/28/p/dre
 - type: cites
   target: pt:dre:67212743:por
   label: null

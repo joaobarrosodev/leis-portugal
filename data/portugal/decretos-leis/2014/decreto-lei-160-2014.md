@@ -96,7 +96,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943
   date: '2015-05-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
+  target: pt:dre:543034:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 article_structure:

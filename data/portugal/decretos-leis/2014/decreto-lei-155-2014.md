@@ -102,10 +102,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2017-108052025
   date: '2017-08-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
   target: pt:dre:448953:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
@@ -121,6 +117,10 @@ relationships:
   target: pt:dre:520259:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:544415:por
   label: null

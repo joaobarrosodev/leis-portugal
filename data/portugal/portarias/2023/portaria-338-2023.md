@@ -75,10 +75,6 @@ subjects:
 - Transacção Intracomunitária
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/157/2021/07/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/157/2021/07/22/p/dre
-- type: cites
   target: pt:dre:142487105:por
   label: null
   source: http://data.dre.pt/eli/port/215/2020/09/10/p/dre
@@ -89,7 +85,7 @@ relationships:
 - type: cites
   target: pt:dre:168043797:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/157/2021/07/22/p/dre
 - type: cites
   target: pt:dre:185224662:por
   label: null

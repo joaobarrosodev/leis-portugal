@@ -76,10 +76,6 @@ subjects:
 - Quioto
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/129/1994/03/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/129/1994/03/23/p/dre
-- type: cites
   target: pt:dre:224623:por
   label: null
   source: http://data.dre.pt/eli/dec/14/2003/04/04/p/dre
@@ -90,7 +86,7 @@ relationships:
 - type: cites
   target: pt:dre:283316:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/129/1994/03/23/p/dre
 - type: cites
   target: pt:dre:300578:por
   label: null

@@ -124,14 +124,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/207-2020-141259625
   date: '2020-08-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/149-a/2014/07/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/149-a/2014/07/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/84/2015/03/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
-- type: cites
   target: pt:dre:179028:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/178/2012/08/03/p/dre
@@ -140,6 +132,10 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
 - type: cites
+  target: pt:dre:55021051:por
+  label: null
+  source: http://data.dre.pt/eli/port/149-a/2014/07/24/p/dre
+- type: cites
   target: pt:dre:66325237:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
@@ -147,6 +143,10 @@ relationships:
   target: pt:dre:66443115:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/26/2015/02/06/p/dre
+- type: cites
+  target: pt:dre:66818377:por
+  label: null
+  source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
 article_structure:
   article_count: 22
   section_count: 0

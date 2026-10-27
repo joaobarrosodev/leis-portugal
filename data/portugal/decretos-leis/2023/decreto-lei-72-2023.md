@@ -156,10 +156,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/679/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
-- type: cites
   target: pt:dre:108010874:por
   label: null
   source: http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
@@ -187,6 +183,10 @@ relationships:
   target: pt:dre:638772:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/224/2007/05/31/p/dre
+- type: cites
+  target: pt:dre:660365:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
 - type: cites
   target: pt:dre:66071363:por
   label: null

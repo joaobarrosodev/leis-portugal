@@ -200,11 +200,35 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114515398:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114944613:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114952498:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1162354869:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:118010891:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:122074197:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:123328900:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:123328902:por
   label: null
   source: null
 - type: cited_by

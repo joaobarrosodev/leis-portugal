@@ -102,7 +102,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2015-69977689
   date: '2015-08-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/193/1997/11/03/p/dre
+  target: pt:dre:675022:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/193/1997/11/03/p/dre
 article_structure:

@@ -75,10 +75,6 @@ subjects:
 - Sociedade Anónima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/48/1996/04/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/48/1996/04/19/p/dre
-- type: cites
   target: pt:dre:222211:por
   label: null
   source: null
@@ -89,7 +85,7 @@ relationships:
 - type: cites
   target: pt:dre:572594:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/48/1996/04/19/p/dre
 article_structure:
   article_count: 0
   section_count: 0

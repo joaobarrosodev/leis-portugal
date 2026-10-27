@@ -80,13 +80,9 @@ subjects:
 - Serviço Nacional de Saúde
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
-- type: cites
   target: pt:dre:175923961:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
 - type: cites
   target: pt:dre:181364880:por
   label: null

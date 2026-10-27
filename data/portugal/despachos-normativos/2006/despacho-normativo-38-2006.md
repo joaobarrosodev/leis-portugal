@@ -105,10 +105,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/41-a-2007-1932758
   date: '2007-12-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
-- type: cites
   target: pt:dre:210844:por
   label: null
   source: null
@@ -167,7 +163,7 @@ relationships:
 - type: cites
   target: pt:dre:633530:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
 - type: repealed_by
   target: pt:dre:1116545:por
   label: Revogado, com excepção da utilização do tipo de acto previsto na alínea m) do n.º 1 do artigo 7.º do Regulamento

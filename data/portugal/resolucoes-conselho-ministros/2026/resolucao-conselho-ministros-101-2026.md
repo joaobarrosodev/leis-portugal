@@ -73,21 +73,13 @@ subjects:
 - Sistema de Gestão Integrada de Fogos Rurais
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/24/2021/03/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/24/2021/03/22/p/dre
-- type: cites
   target: pt:dre:106380301:por
   label: null
   source: null
 - type: cites
   target: pt:dre:114109966:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites
   target: pt:dre:114969817:por
   label: null
@@ -103,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:159841266:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/24/2021/03/22/p/dre
 - type: cites
   target: pt:dre:161518656:por
   label: null

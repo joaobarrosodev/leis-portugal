@@ -105,6 +105,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/dbde855b-0d5d-4dff-9e53-0a09bb263744
   date: '1970-06-15'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

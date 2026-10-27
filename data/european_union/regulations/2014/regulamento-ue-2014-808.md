@@ -113,6 +113,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/c973adc4-6c03-11e3-9afb-01aa75ed71a1
   date: '2013-12-23'
+- type: cited_by
+  target: pt:dre:106401323:por
+  label: null
+  source: null
 - type: cites
   target: celex:32013R1303
   label: null

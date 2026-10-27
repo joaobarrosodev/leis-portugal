@@ -95,17 +95,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2019/944/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
-- type: cites
   target: pt:dre:150570704:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/101-d/2020/12/07/p/dre
 - type: cites
   target: pt:dre:174614573:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
 - type: cites
   target: pt:dre:494543:por
   label: null

@@ -79,17 +79,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/9/1991/03/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/9/1991/03/21/p/dre
-- type: cites
   target: pt:dre:421388:por
   label: null
   source: null
 - type: cites
   target: pt:dre:471281:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/9/1991/03/21/p/dre
 - type: repealed_by
   target: pt:dre:231117:por
   label: "Revogada pelo DEC LEI.49/2003.2003.03.25.MAI DR.IS-A [71]\0\0"

@@ -78,17 +78,13 @@ subjects:
 - Turismo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/53/2007/04/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/53/2007/04/04/p/dre
-- type: cites
   target: pt:dre:456221:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/108/2008/06/26/p/dre
 - type: cites
   target: pt:dre:520229:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/53/2007/04/04/p/dre
 - type: cites
   target: pt:dre:620928:por
   label: null

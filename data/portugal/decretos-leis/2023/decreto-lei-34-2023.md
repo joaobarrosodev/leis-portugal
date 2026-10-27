@@ -87,10 +87,6 @@ subjects:
 - Vogal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
-- type: cites
   target: pt:dre:115147960:por
   label: null
   source: null
@@ -117,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:259967:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
 - type: cites
   target: pt:dre:477358:por
   label: null

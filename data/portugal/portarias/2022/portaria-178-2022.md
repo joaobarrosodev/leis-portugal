@@ -84,45 +84,21 @@ subjects:
 - TIC
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/138/2016/05/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/138/2016/05/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/161/2021/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/161/2021/07/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/284-a/2016/11/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/284-a/2016/11/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/4/2021/01/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/4/2021/01/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/417/2015/12/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/417/2015/12/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/85/2020/04/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/85/2020/04/03/p/dre
-- type: cites
   target: pt:dre:125781753:por
   label: null
   source: http://data.dre.pt/eli/port/390/2019/10/29/p/dre
 - type: cites
   target: pt:dre:131058332:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/85/2020/04/03/p/dre
 - type: cites
   target: pt:dre:152810684:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/4/2021/01/04/p/dre
 - type: cites
   target: pt:dre:168296689:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/161/2021/07/26/p/dre
 - type: cites
   target: pt:dre:183757887:por
   label: null
@@ -142,15 +118,15 @@ relationships:
 - type: cites
   target: pt:dre:72812702:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/417/2015/12/04/p/dre
 - type: cites
   target: pt:dre:74443078:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/138/2016/05/13/p/dre
 - type: cites
   target: pt:dre:75660778:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/284-a/2016/11/04/p/dre
 article_structure:
   article_count: 3
   section_count: 0

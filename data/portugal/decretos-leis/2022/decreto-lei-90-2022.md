@@ -90,10 +90,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/38-2026-1153917999
   date: '2026-08-02'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/109/2021/12/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/109/2021/12/07/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/1998/376/oj
   label: null
   source: http://data.europa.eu/eli/reco/1998/376/oj
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:175506672:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/109/2021/12/07/p/dre
 - type: cites
   target: pt:dre:179802560:por
   label: null

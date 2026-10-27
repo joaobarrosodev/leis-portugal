@@ -94,10 +94,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2019-121260111
   date: '2019-03-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/230/2015/08/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/230/2015/08/05/p/dre
-- type: cites
   target: pt:dre:145591:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/118/2011/12/15/p/dre
@@ -172,7 +168,7 @@ relationships:
 - type: cites
   target: pt:dre:69951098:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/230/2015/08/05/p/dre
 - type: cites
   target: pt:dre:70055496:por
   label: null

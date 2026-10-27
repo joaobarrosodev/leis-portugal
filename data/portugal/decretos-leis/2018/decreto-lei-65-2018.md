@@ -97,13 +97,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2021-161518656
   date: '2021-04-16'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
-- type: cites
   target: pt:dre:105283924:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
 - type: cites
   target: pt:dre:150335:por
   label: null

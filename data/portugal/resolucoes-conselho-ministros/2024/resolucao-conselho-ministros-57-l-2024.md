@@ -83,25 +83,17 @@ subjects:
 - Seia
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/14/2022/01/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/14/2022/01/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/35-a/2022/01/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/35-a/2022/01/14/p/dre
-- type: cites
   target: pt:dre:165721068:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
 - type: cites
   target: pt:dre:177583957:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/14/2022/01/13/p/dre
 - type: cites
   target: pt:dre:177687478:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/35-a/2022/01/14/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

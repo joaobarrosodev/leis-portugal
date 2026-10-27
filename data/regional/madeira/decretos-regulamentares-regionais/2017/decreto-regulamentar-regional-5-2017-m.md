@@ -77,14 +77,6 @@ subjects:
 - Subdirector Regional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/117/2016/04/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/117/2016/04/29/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/87/2016/04/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/87/2016/04/14/p/dre
-- type: cites
   target: pt:dre:174815:por
   label: null
   source: null
@@ -147,11 +139,11 @@ relationships:
 - type: cites
   target: pt:dre:74145470:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/87/2016/04/14/p/dre
 - type: cites
   target: pt:dre:74306011:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/117/2016/04/29/p/dre
 article_structure:
   article_count: 18
   section_count: 3

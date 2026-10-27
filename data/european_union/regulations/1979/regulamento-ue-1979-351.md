@@ -143,6 +143,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/c908ef22-1fb5-49ee-bb41-ab65eb608bad
   date: '1979-03-05'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: corrected_by
   target: celex:31979R0351R(01)
   label: null

@@ -72,21 +72,13 @@ subjects:
 - Proteção do Ambiente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/114/2018/08/31/p/dre
+  target: pt:dre:116272163:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114/2018/08/31/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/63/2019/04/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/63/2019/04/01/p/dre
-- type: cites
-  target: pt:dre:116272163:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:121748969:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/63/2019/04/01/p/dre
 - type: cites
   target: pt:dre:195800:por
   label: null

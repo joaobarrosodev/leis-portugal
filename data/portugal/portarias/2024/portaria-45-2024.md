@@ -88,25 +88,17 @@ relationships:
   source: null
   date: '2017-03-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/111/2018/04/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/111/2018/04/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/92-f/2017/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/92-f/2017/03/03/p/dre
-- type: cites
   target: pt:dre:106555617:por
   label: null
   source: http://data.dre.pt/eli/port/92-e/2017/03/03/p/dre
 - type: cites
   target: pt:dre:106555618:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/92-f/2017/03/03/p/dre
 - type: cites
   target: pt:dre:115182509:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/111/2018/04/26/p/dre
 - type: cites
   target: pt:dre:67356991:por
   label: null

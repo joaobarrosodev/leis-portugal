@@ -82,17 +82,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45-a/1995/05/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45-a/1995/05/08/p/dre
-- type: cites
   target: pt:dre:230567:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/68/1995/04/11/p/dre
 - type: cites
   target: pt:dre:292746:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/45-a/1995/05/08/p/dre
 - type: cites
   target: pt:dre:332183:por
   label: null

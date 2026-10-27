@@ -127,10 +127,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7652-2012-963075
   date: '2012-06-01'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/25/2006/03/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/25/2006/03/10/p/dre
-- type: cites
   target: pt:dre:197511:por
   label: null
   source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
@@ -161,7 +157,7 @@ relationships:
 - type: cites
   target: pt:dre:667084:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/25/2006/03/10/p/dre
 - type: corrected_by
   target: pt:dre:627836:por
   label: "Rectificada pela DECL-RECT.113/2007.18.12.2007.PCM, DR.IS [243] de 18.12.2007\0\0"

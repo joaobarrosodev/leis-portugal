@@ -86,14 +86,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2013-499526
   date: '2013-09-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/27/2006/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/27/2006/03/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/63/2006/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/63/2006/03/03/p/dre
-- type: cites
   target: pt:dre:1608549:por
   label: null
   source: null
@@ -148,11 +140,11 @@ relationships:
 - type: cites
   target: pt:dre:693063:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/63/2006/03/03/p/dre
 - type: cites
   target: pt:dre:693064:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/27/2006/03/03/p/dre
 - type: cites
   target: pt:dre:861762:por
   label: null

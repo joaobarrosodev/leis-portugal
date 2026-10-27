@@ -101,7 +101,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/36-2020-143853828
   date: '2020-09-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/43/2019/01/31/p/dre
+  target: pt:dre:118885999:por
   label: null
   source: http://data.dre.pt/eli/port/43/2019/01/31/p/dre
 - type: cites

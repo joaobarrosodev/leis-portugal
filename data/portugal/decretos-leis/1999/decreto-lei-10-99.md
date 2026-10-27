@@ -75,17 +75,13 @@ subjects:
 - Privatização
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-- type: cites
   target: pt:dre:332183:por
   label: null
   source: null
 - type: cites
   target: pt:dre:469202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
 - type: cites
   target: pt:dre:521237:por
   label: null

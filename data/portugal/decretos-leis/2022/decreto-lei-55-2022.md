@@ -81,17 +81,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2017/2177/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/24/2022/03/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/24/2022/03/04/p/dre
-- type: cites
   target: pt:dre:122124254:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/2019/04/17/p/dre
 - type: cites
   target: pt:dre:179993083:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/24/2022/03/04/p/dre
 - type: cites
   target: pt:dre:223011:por
   label: null

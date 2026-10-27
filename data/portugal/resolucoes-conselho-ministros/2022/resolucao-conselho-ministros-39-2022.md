@@ -75,10 +75,6 @@ subjects:
 - Parcerias Saúde
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/151/2021/11/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/151/2021/11/05/p/dre
-- type: cites
   target: pt:dre:132431978:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/33/2020/04/24/p/dre
@@ -89,7 +85,7 @@ relationships:
 - type: cites
   target: pt:dre:173909859:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/151/2021/11/05/p/dre
 - type: cites
   target: pt:dre:174197083:por
   label: null

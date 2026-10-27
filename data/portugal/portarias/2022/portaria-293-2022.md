@@ -88,14 +88,6 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/122-a/2021/06/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/122-a/2021/06/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/331-a/2021/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/331-a/2021/12/31/p/dre
-- type: cites
   target: pt:dre:106844789:por
   label: null
   source: null
@@ -130,11 +122,11 @@ relationships:
 - type: cites
   target: pt:dre:164955365:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/122-a/2021/06/14/p/dre
 - type: cites
   target: pt:dre:176907549:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/331-a/2021/12/31/p/dre
 - type: cites
   target: pt:dre:179028:por
   label: null

@@ -72,17 +72,13 @@ subjects:
 - Privatização
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/17-a/1991/05/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/17-a/1991/05/28/p/dre
-- type: cites
   target: pt:dre:283918:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/182/1991/05/14/p/dre
 - type: cites
   target: pt:dre:616837:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/17-a/1991/05/28/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -81,17 +81,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9560-2011-2315016
   date: '2011-04-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/193/1996/12/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/193/1996/12/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/99/1994/10/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/99/1994/10/06/p/dre
-- type: cites
   target: pt:dre:197507:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/193/1996/12/16/p/dre
 - type: cites
   target: pt:dre:228186:por
   label: null
@@ -103,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:620278:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/99/1994/10/06/p/dre
 article_structure:
   article_count: 0
   section_count: 0

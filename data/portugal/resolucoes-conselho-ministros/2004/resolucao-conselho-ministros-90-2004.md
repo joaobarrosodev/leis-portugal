@@ -81,10 +81,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/edital/822-2015-70170153
   date: '2015-09-02'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/176/1995/12/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/176/1995/12/20/p/dre
-- type: cites
   target: pt:dre:429407:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
@@ -99,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:644083:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/176/1995/12/20/p/dre
 - type: repealed_by
   target: pt:dre:572666:por
   label: "Revogadas no atinente ao aglomerado urbano de Santo Aleixo as disposições do Plano Director Municipal de Monforte\

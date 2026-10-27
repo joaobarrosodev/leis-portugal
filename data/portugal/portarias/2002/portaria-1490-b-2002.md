@@ -73,13 +73,9 @@ subjects:
 - Infarmed
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
-- type: cites
   target: pt:dre:423657:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
 - type: cites
   target: pt:dre:478253:por
   label: null

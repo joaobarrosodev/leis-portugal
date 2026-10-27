@@ -84,13 +84,9 @@ subjects:
 - Sociedade Portugal 2001
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/22/1999/03/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/22/1999/03/24/p/dre
-- type: cites
   target: pt:dre:141661:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/22/1999/03/24/p/dre
 - type: cites
   target: pt:dre:270978:por
   label: null

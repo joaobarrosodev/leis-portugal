@@ -360,6 +360,10 @@ relationships:
   target: pt:dre:70427490:por
   label: null
   source: null
+- type: transposed_by
+  target: pt:dre:70907843:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 33

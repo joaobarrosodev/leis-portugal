@@ -136,10 +136,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/lei/55-2025-916177977
   date: '2025-04-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/5/1996/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/5/1996/01/18/p/dre
-- type: cites
   target: pt:dre:142112:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/195/1997/07/31/p/dre
@@ -155,6 +151,10 @@ relationships:
   target: pt:dre:485381:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/81-a/1996/06/21/p/dre
+- type: cites
+  target: pt:dre:592077:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/5/1996/01/18/p/dre
 - type: cites
   target: pt:dre:659563:por
   label: null

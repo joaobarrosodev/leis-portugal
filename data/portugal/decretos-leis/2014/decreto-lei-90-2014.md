@@ -96,10 +96,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/2288-2015-66655654
   date: '2015-03-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/2009/09/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/2009/09/07/p/dre
-- type: cites
   target: pt:dre:143320:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/156/2005/09/15/p/dre
@@ -134,7 +130,7 @@ relationships:
 - type: cites
   target: pt:dre:489226:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/81/2009/09/07/p/dre
 - type: cites
   target: pt:dre:540627:por
   label: null

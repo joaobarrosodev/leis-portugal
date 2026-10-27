@@ -77,21 +77,13 @@ subjects:
 - Vigilância Electrónica
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1/2001/01/06/p/dre
+  target: pt:dre:238800:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1/2001/01/06/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/144/2004/10/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/144/2004/10/28/p/dre
-- type: cites
-  target: pt:dre:238800:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:566009:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/144/2004/10/28/p/dre
 - type: cites
   target: pt:dre:620934:por
   label: null

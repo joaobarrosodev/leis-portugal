@@ -88,10 +88,6 @@ subjects:
 - Quadro de Pessoal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
-- type: cites
   target: pt:dre:173688:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
@@ -99,6 +95,10 @@ relationships:
   target: pt:dre:193663:por
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:476760:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
 - type: cites
   target: pt:dre:522841:por
   label: null

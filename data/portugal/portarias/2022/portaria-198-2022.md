@@ -109,25 +109,21 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/75-2023-208441013
   date: '2023-03-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/199/2021/09/21/p/dre
+  target: pt:dre:105263936:por
   label: null
-  source: http://data.dre.pt/eli/port/199/2021/09/21/p/dre
+  source: http://data.dre.pt/eli/port/296/2016/11/28/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/218-d/2019/07/15/p/dre
+  target: pt:dre:123183032:por
   label: null
   source: http://data.dre.pt/eli/port/218-d/2019/07/15/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/232/2015/08/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/232/2015/08/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/271/2020/11/24/p/dre
+  target: pt:dre:149220157:por
   label: null
   source: http://data.dre.pt/eli/port/271/2020/11/24/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/296/2016/11/28/p/dre
+  target: pt:dre:171672325:por
   label: null
-  source: http://data.dre.pt/eli/port/296/2016/11/28/p/dre
+  source: http://data.dre.pt/eli/port/199/2021/09/21/p/dre
 - type: cites
   target: pt:dre:176907536:por
   label: null
@@ -144,6 +140,10 @@ relationships:
   target: pt:dre:67666075:por
   label: null
   source: http://data.dre.pt/eli/port/196-a/2015/07/01/p/dre
+- type: cites
+  target: pt:dre:69956141:por
+  label: null
+  source: http://data.dre.pt/eli/port/232/2015/08/06/p/dre
 article_structure:
   article_count: 15
   section_count: 1

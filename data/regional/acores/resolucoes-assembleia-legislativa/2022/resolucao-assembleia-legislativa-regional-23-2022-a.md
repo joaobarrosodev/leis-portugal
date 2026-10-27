@@ -72,13 +72,9 @@ subjects:
 - Prorrogação de Prazo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolalraa/58/2021/11/19/a/dre
-  label: null
-  source: http://data.dre.pt/eli/resolalraa/58/2021/11/19/a/dre
-- type: cites
   target: pt:dre:174634478:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolalraa/58/2021/11/19/a/dre
 article_structure:
   article_count: 0
   section_count: 0

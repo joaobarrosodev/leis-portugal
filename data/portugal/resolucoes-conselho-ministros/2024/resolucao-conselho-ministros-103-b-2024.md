@@ -80,13 +80,9 @@ subjects:
 - Ministro da Educação Ciência e Inovação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/140/2018/05/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/140/2018/05/16/p/dre
-- type: cites
   target: pt:dre:115304968:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/140/2018/05/16/p/dre
 - type: cites
   target: pt:dre:165036155:por
   label: null

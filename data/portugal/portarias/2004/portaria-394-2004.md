@@ -95,13 +95,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-2005-534445
   date: '2005-05-02'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-- type: cites
   target: pt:dre:197496:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
 - type: cites
   target: pt:dre:303264:por
   label: null

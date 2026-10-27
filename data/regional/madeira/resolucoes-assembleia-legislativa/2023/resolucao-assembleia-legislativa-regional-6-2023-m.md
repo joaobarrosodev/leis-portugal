@@ -88,10 +88,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2019/944/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/281/2021/12/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/281/2021/12/03/p/dre
-- type: cites
   target: pt:dre:119847709:por
   label: null
   source: http://data.dre.pt/eli/port/65/2019/02/19/p/dre
@@ -106,7 +102,7 @@ relationships:
 - type: cites
   target: pt:dre:175336202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/281/2021/12/03/p/dre
 - type: cites
   target: pt:dre:205557192:por
   label: null

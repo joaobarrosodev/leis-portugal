@@ -74,17 +74,17 @@ subjects:
 - Instituto Público
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/184/2019/12/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/184/2019/12/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/37/2021/04/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/37/2021/04/06/p/dre
-- type: cites
   target: pt:dre:123610180:por
   label: null
   source: http://data.dre.pt/eli/lei/52/2019/07/31/p/dre
+- type: cites
+  target: pt:dre:126813915:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/184/2019/12/03/p/dre
+- type: cites
+  target: pt:dre:160893669:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/37/2021/04/06/p/dre
 - type: cites
   target: pt:dre:175659840:por
   label: null

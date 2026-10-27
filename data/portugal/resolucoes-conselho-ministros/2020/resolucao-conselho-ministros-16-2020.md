@@ -127,21 +127,13 @@ subjects:
 - Trabalhador
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+  target: pt:dre:107684448:por
   label: null
   source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/57/2018/05/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/57/2018/05/08/p/dre
-- type: cites
-  target: pt:dre:107684448:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:115235758:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/57/2018/05/08/p/dre
 - type: cites
   target: pt:dre:121665680:por
   label: null

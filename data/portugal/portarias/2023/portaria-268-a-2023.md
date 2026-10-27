@@ -80,25 +80,13 @@ subjects:
 - Taxa Aeroportuária
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/236/2014/11/17/
-  label: null
-  source: http://data.dre.pt/eli/port/236/2014/11/17/
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/284/2017/09/26/p/dre
+  target: pt:dre:108207728:por
   label: null
   source: http://data.dre.pt/eli/port/284/2017/09/26/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/92/2022/02/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/92/2022/02/09/p/dre
-- type: cites
-  target: pt:dre:108207728:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:178859291:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/92/2022/02/09/p/dre
 - type: cites
   target: pt:dre:190615:por
   label: null
@@ -134,7 +122,7 @@ relationships:
 - type: cites
   target: pt:dre:58900562:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/236/2014/11/17/
 article_structure:
   article_count: 5
   section_count: 0

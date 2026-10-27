@@ -111,17 +111,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2019/317/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/328-b/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/328-b/2021/12/30/p/dre
-- type: cites
   target: pt:dre:144454620:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/2020/10/06/p/dre
 - type: cites
   target: pt:dre:176800364:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/328-b/2021/12/30/p/dre
 - type: cites
   target: pt:dre:183159328:por
   label: null

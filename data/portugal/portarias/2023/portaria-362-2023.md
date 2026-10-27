@@ -76,13 +76,9 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/221/2020/09/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/221/2020/09/21/p/dre
-- type: cites
   target: pt:dre:143189706:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/221/2020/09/21/p/dre
 - type: cites
   target: pt:dre:174244808:por
   label: null

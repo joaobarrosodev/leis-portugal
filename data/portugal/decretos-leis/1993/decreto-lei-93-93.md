@@ -87,10 +87,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1995-575728
   date: '1995-09-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/1991/05/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/1991/05/15/p/dre
-- type: cites
   target: pt:dre:218931:por
   label: null
   source: null
@@ -137,7 +133,7 @@ relationships:
 - type: cites
   target: pt:dre:641424:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/16/1991/05/15/p/dre
 article_structure:
   article_count: 0
   section_count: 16

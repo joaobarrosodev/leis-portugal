@@ -77,17 +77,13 @@ subjects:
 - VALE do AVE
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/8/1991/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/8/1991/03/16/p/dre
-- type: cites
   target: pt:dre:228837:por
   label: null
   source: null
 - type: cites
   target: pt:dre:476086:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/8/1991/03/16/p/dre
 - type: cites
   target: pt:dre:632907:por
   label: null

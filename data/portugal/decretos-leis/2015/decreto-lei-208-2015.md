@@ -79,10 +79,6 @@ subjects:
 - Serviço Nacional de Saúde
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/18/2015/04/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/18/2015/04/07/p/dre
-- type: cites
   target: pt:dre:174557:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2012/08/27/p/dre
@@ -118,6 +114,10 @@ relationships:
   target: pt:dre:66016527:por
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:66902772:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2015/04/07/p/dre
 article_structure:
   article_count: 10
   section_count: 0

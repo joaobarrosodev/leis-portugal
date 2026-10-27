@@ -121,10 +121,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2002-432175
   date: '2002-10-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/110/1996/07/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/110/1996/07/25/p/dre
-- type: cites
   target: pt:dre:138777:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
@@ -159,7 +155,7 @@ relationships:
 - type: cites
   target: pt:dre:408484:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/110/1996/07/25/p/dre
 - type: cites
   target: pt:dre:424688:por
   label: null

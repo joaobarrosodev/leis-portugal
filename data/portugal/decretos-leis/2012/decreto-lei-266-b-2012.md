@@ -86,14 +86,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59-b/2012/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59-b/2012/10/12/p/dre
-- type: cites
   target: pt:dre:152704:por
   label: null
   source: null
@@ -132,11 +124,11 @@ relationships:
 - type: cites
   target: pt:dre:406279:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
 - type: cites
   target: pt:dre:406280:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/59-b/2012/10/12/p/dre
 - type: cites
   target: pt:dre:456492:por
   label: null

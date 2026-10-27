@@ -82,13 +82,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107-a/1994/10/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107-a/1994/10/28/p/dre
-- type: cites
   target: pt:dre:216538:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/107-a/1994/10/28/p/dre
 - type: cites
   target: pt:dre:258157:por
   label: null

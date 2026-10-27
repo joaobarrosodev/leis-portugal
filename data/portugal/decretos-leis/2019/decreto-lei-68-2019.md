@@ -174,13 +174,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805
   date: '2023-05-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/57/2018/05/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/57/2018/05/08/p/dre
-- type: cites
   target: pt:dre:115211109:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
+- type: cites
+  target: pt:dre:115235758:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/57/2018/05/08/p/dre
 - type: cites
   target: pt:dre:117503936:por
   label: null

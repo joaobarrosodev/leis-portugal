@@ -303,6 +303,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:122253266:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:170880299:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:214100367:por
   label: null
   source: null

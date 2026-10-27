@@ -79,17 +79,13 @@ subjects:
 - Vistoria
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/330/2021/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/330/2021/12/31/p/dre
-- type: cites
   target: pt:dre:134505606:por
   label: null
   source: http://data.dre.pt/eli/port/126/2020/05/26/p/dre
 - type: cites
   target: pt:dre:176907499:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/330/2021/12/31/p/dre
 - type: cites
   target: pt:dre:191539:por
   label: null

@@ -129,10 +129,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2013/2/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/110/2013/11/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/110/2013/11/11/p/dre
-- type: cites
   target: pt:dre:186751:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/407/1998/12/21/p/dre
@@ -167,7 +163,7 @@ relationships:
 - type: cites
   target: pt:dre:504566:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/110/2013/11/11/p/dre
 - type: cites
   target: pt:dre:540016:por
   label: null

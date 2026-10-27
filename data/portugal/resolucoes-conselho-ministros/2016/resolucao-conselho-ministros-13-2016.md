@@ -87,7 +87,7 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2015/04/02/p/dre
+  target: pt:dre:66902696:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2015/04/02/p/dre
 article_structure:

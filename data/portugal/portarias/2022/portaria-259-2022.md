@@ -102,17 +102,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/312-2025-935004240
   date: '2025-09-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/156/2021/07/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/156/2021/07/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/44/2020/02/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/44/2020/02/17/p/dre
-- type: cites
   target: pt:dre:107495701:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:129208060:por
+  label: null
+  source: http://data.dre.pt/eli/port/44/2020/02/17/p/dre
+- type: cites
+  target: pt:dre:167839728:por
+  label: null
+  source: http://data.dre.pt/eli/port/156/2021/07/20/p/dre
 - type: cites
   target: pt:dre:191563:por
   label: null

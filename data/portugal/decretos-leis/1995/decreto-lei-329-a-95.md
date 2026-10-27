@@ -148,13 +148,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/lei/59-1998-448110
   date: '1998-08-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/451/1995/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/451/1995/08/03/p/dre
-- type: cites
   target: pt:dre:434627:por
   label: null
   source: http://data.dre.pt/eli/lei/33/1995/08/18/p/dre
+- type: cites
+  target: pt:dre:480959:por
+  label: null
+  source: http://data.dre.pt/eli/ac/451/1995/08/03/p/dre
 - type: cites
   target: pt:dre:648136:por
   label: null

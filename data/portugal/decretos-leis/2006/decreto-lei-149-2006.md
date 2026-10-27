@@ -71,21 +71,13 @@ subjects:
 - Prédio Militar
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/22/2004/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/22/2004/03/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/79/2006/06/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/79/2006/06/26/p/dre
-- type: cites
   target: pt:dre:304330:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/335/1991/09/07/p/dre
 - type: cites
   target: pt:dre:360119:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/79/2006/06/26/p/dre
 - type: cites
   target: pt:dre:510801:por
   label: null
@@ -93,7 +85,7 @@ relationships:
 - type: cites
   target: pt:dre:551655:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/22/2004/03/03/p/dre
 article_structure:
   article_count: 1
   section_count: 0

@@ -78,10 +78,6 @@ subjects:
 - Veículo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/159/2015/06/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/159/2015/06/01/p/dre
-- type: cites
   target: pt:dre:196219:por
   label: null
   source: http://data.dre.pt/eli/lei/1/1999/01/13/p/dre
@@ -120,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:67356987:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/159/2015/06/01/p/dre
 article_structure:
   article_count: 0
   section_count: 0

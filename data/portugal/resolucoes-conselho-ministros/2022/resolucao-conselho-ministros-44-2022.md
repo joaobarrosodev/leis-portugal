@@ -105,13 +105,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2009/1069/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/170/2021/12/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/170/2021/12/13/p/dre
-- type: cites
   target: pt:dre:106647823:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/33/2017/03/23/p/dre
+- type: cites
+  target: pt:dre:175780029:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/170/2021/12/13/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

@@ -75,17 +75,13 @@ subjects:
 - Sistema Nacional de Exploração e Gestão de Informação Cadastral
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
-- type: cites
   target: pt:dre:638772:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/224/2007/05/31/p/dre
 - type: cites
   target: pt:dre:660365:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
 article_structure:
   article_count: 3
   section_count: 0

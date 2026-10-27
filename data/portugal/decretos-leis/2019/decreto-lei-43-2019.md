@@ -151,13 +151,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2025-913947257
   date: '2025-04-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-- type: cites
   target: pt:dre:105727475:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/8/2017/01/09/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites
   target: pt:dre:115226936:por
   label: null

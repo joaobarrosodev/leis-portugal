@@ -180,18 +180,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/333-2025-938398658
   date: '2025-10-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/15/2017/04/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/15/2017/04/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/70/2019/02/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/70/2019/02/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/95/2019/03/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/95/2019/03/29/p/dre
-- type: cites
   target: pt:dre:105770337:por
   label: null
   source: http://data.dre.pt/eli/port/34/2017/01/18/p/dre
@@ -200,9 +188,21 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/131/2017/04/07/p/dre
 - type: cites
+  target: pt:dre:106938485:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/15/2017/04/27/p/dre
+- type: cites
+  target: pt:dre:120310625:por
+  label: null
+  source: http://data.dre.pt/eli/port/70/2019/02/27/p/dre
+- type: cites
   target: pt:dre:121665680:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/2019/03/28/p/dre
+- type: cites
+  target: pt:dre:121735775:por
+  label: null
+  source: http://data.dre.pt/eli/port/95/2019/03/29/p/dre
 - type: cites
   target: pt:dre:146061:por
   label: null

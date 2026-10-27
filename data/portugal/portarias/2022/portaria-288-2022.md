@@ -80,21 +80,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/275/2021/11/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/275/2021/11/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/296/2020/12/22/p/dre
+  target: pt:dre:151865083:por
   label: null
   source: http://data.dre.pt/eli/port/296/2020/12/22/p/dre
 - type: cites
-  target: pt:dre:151865083:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:175129346:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/275/2021/11/30/p/dre
 - type: cites
   target: pt:dre:185224662:por
   label: null

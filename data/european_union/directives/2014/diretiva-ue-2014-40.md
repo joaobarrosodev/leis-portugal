@@ -160,6 +160,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/6b390c35-d623-4785-86a0-1fb492a32cab
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:119847708:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:73650546:por
   label: null
   source: null
@@ -308,11 +312,19 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:116747966:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:636938:por
   label: null
   source: null
 - type: transposed_by
   target: pt:dre:70114078:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:74431082:por
   label: null
   source: null
 - type: transposed_by

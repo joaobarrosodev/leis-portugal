@@ -132,10 +132,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2019/627/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/279/2015/09/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/279/2015/09/14/p/dre
-- type: cites
   target: eli:http://data.europa.eu/e
   label: null
   source: http://data.europa.eu/e
@@ -170,7 +166,7 @@ relationships:
 - type: cites
   target: pt:dre:70280718:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/279/2015/09/14/p/dre
 - type: corrected_by
   target: pt:dre:1171923317:por
   label: Retificada a alínea e) do n.º 2 do artigo 6.º pelo(a) Declaração de Retificação n.º 35-A/2026/1 - Diário da República

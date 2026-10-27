@@ -77,17 +77,13 @@ subjects:
 - Vogal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/280/2016/10/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/280/2016/10/26/p/dre
-- type: cites
   target: pt:dre:175659840:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/109-e/2021/12/09/p/dre
 - type: cites
   target: pt:dre:75606252:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/280/2016/10/26/p/dre
 - type: cites
   target: pt:dre:916268331:por
   label: null

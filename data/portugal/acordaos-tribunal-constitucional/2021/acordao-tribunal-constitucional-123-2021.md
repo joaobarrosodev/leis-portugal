@@ -76,10 +76,6 @@ subjects:
 - Tribunal Constitucional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/285/1992/08/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/285/1992/08/17/p/dre
-- type: cites
   target: pt:dre:115226940:por
   label: null
   source: http://data.dre.pt/eli/actconst/225/2018/05/07/p/dre
@@ -91,6 +87,10 @@ relationships:
   target: pt:dre:174841:por
   label: null
   source: http://data.dre.pt/eli/lei/52/2012/09/05/p/dre
+- type: cites
+  target: pt:dre:282150:por
+  label: null
+  source: http://data.dre.pt/eli/ac/285/1992/08/17/p/dre
 - type: cites
   target: pt:dre:484131:por
   label: null

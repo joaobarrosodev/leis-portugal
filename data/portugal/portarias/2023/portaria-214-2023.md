@@ -83,14 +83,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2013/1303/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/37/2020/02/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/37/2020/02/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/48/2020/02/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/48/2020/02/24/p/dre
-- type: cites
   target: pt:dre:116895169:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
@@ -101,11 +93,11 @@ relationships:
 - type: cites
   target: pt:dre:128792816:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/37/2020/02/04/p/dre
 - type: cites
   target: pt:dre:129529698:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/48/2020/02/24/p/dre
 - type: cites
   target: pt:dre:130779511:por
   label: null

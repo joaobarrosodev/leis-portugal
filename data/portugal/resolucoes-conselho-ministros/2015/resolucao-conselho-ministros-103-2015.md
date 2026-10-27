@@ -84,14 +84,6 @@ subjects:
 - Subsídio
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2015/09/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2015/09/09/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/83/2015/10/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/83/2015/10/01/p/dre
-- type: cites
   target: pt:dre:504756:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
@@ -99,6 +91,14 @@ relationships:
   target: pt:dre:69905674:por
   label: null
   source: http://data.dre.pt/eli/port/224-a/2015/07/29/p/dre
+- type: cites
+  target: pt:dre:70237678:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2015/09/09/p/dre
+- type: cites
+  target: pt:dre:70409971:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/83/2015/10/01/p/dre
 article_structure:
   article_count: 0
   section_count: 0

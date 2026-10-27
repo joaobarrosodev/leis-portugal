@@ -90,13 +90,9 @@ subjects:
 - Tutela Administrativa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/260/1998/03/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/260/1998/03/31/p/dre
-- type: cites
   target: pt:dre:208448:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/260/1998/03/31/p/dre
 article_structure:
   article_count: 0
   section_count: 0

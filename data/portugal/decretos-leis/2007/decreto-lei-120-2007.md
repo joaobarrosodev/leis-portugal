@@ -93,10 +93,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2012-543919
   date: '2012-01-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-- type: cites
   target: pt:dre:175158:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/2003/01/13/p/dre
@@ -107,7 +103,7 @@ relationships:
 - type: cites
   target: pt:dre:464205:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
 - type: cites
   target: pt:dre:545648:por
   label: null

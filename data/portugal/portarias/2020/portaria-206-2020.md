@@ -158,13 +158,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891
   date: '2024-09-23'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+  target: pt:dre:107684448:por
   label: null
   source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/84/2015
-  label: null
-  source: http://data.dre.pt/eli/port/84/2015
 - type: cites
   target: pt:dre:114796179:por
   label: null
@@ -197,6 +193,10 @@ relationships:
   target: pt:dre:66443115:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/26/2015/02/06/p/dre
+- type: cites
+  target: pt:dre:66818377:por
+  label: null
+  source: http://data.dre.pt/eli/port/84/2015
 article_structure:
   article_count: 27
   section_count: 0

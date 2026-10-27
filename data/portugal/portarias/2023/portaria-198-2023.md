@@ -113,7 +113,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2019/1241/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/75/2019/03/11/p/dre
+  target: pt:dre:120709775:por
   label: null
   source: http://data.dre.pt/eli/port/75/2019/03/11/p/dre
 - type: cites

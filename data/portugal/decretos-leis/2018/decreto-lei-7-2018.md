@@ -92,17 +92,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-- type: cites
   target: pt:dre:105583345:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/84/2016/12/21/p/dre
 - type: cites
   target: pt:dre:114109966:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites
   target: pt:dre:345291:por
   label: null

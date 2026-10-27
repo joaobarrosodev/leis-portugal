@@ -104,10 +104,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
-- type: cites
   target: pt:dre:158446:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/51/1999/02/20/p/dre
@@ -198,7 +194,7 @@ relationships:
 - type: cites
   target: pt:dre:553594:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
 - type: cites
   target: pt:dre:642062:por
   label: null

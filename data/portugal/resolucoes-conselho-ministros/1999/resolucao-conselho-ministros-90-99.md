@@ -83,17 +83,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/103-2000-339419
   date: '2000-07-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/94/1998/07/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/94/1998/07/14/p/dre
-- type: cites
   target: pt:dre:145648:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/21/1999/03/19/p/dre
 - type: cites
   target: pt:dre:423888:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/94/1998/07/14/p/dre
 article_structure:
   article_count: 0
   section_count: 0

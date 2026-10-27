@@ -106,6 +106,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/642d4e82-d159-4095-a416-2ac37d5b28c1
   date: '1973-09-07'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: repealed_by
   target: celex:31997R0196
   label: null

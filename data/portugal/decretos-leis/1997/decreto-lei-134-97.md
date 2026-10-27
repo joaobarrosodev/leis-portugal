@@ -107,17 +107,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
   date: '2016-12-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/563/1996/05/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/563/1996/05/16/p/dre
-- type: cites
   target: pt:dre:422660:por
   label: null
   source: null
 - type: cites
   target: pt:dre:468674:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/563/1996/05/16/p/dre
 - type: cites
   target: pt:dre:500908:por
   label: null

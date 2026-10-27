@@ -97,13 +97,13 @@ subjects:
 - Circula PT
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-- type: cites
   target: pt:dre:117008017:por
   label: null
   source: http://data.dre.pt/eli/port/298/2018/11/19/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites
   target: pt:dre:137618093:por
   label: null

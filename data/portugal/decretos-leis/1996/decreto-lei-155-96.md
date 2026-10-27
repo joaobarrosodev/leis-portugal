@@ -81,21 +81,13 @@ subjects:
 - Sistema de Incentivos Regionais
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/140-a/1995/11/17/p/dre
+  target: pt:dre:194844:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/140-a/1995/11/17/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/67/1994/08/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/67/1994/08/11/p/dre
-- type: cites
-  target: pt:dre:194844:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:222617:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/67/1994/08/11/p/dre
 - type: cites
   target: pt:dre:231770:por
   label: null

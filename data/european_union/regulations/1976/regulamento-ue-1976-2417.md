@@ -90,6 +90,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/0071a764-4705-4581-b29f-38e04016cc5a
   date: '1976-07-30'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31975L0106
   label: null

@@ -185,6 +185,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/90e40be6-5a57-4a9e-8e27-ee4a5cd9c948
   date: '1970-04-28'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:11957E009
   label: null

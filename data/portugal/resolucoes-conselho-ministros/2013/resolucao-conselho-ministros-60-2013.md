@@ -78,13 +78,9 @@ subjects:
 - Sociedade Anónima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/101/2012/12/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/101/2012/12/07/p/dre
-- type: cites
   target: pt:dre:190640:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/101/2012/12/07/p/dre
 - type: cites
   target: pt:dre:192587:por
   label: null

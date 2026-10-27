@@ -83,17 +83,13 @@ relationships:
   source: null
   date: '1999-01-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10/2001/01/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10/2001/01/30/p/dre
-- type: cites
   target: pt:dre:169226:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/6/1999/02/08/p/dre
 - type: cites
   target: pt:dre:315148:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/10/2001/01/30/p/dre
 article_structure:
   article_count: 0
   section_count: 0

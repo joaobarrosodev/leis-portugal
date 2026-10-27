@@ -100,10 +100,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2011-287820
   date: '2011-05-16'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
-- type: cites
   target: pt:dre:239857:por
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
@@ -114,7 +110,7 @@ relationships:
 - type: cites
   target: pt:dre:660365:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
 article_structure:
   article_count: 54
   section_count: 14

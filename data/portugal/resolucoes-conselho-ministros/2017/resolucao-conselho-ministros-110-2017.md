@@ -88,10 +88,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/508/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/117/2016/04/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/117/2016/04/29/p/dre
-- type: cites
   target: pt:dre:226244:por
   label: null
   source: http://data.dre.pt/eli/port/229-b/2008/03/06/p/dre
@@ -114,7 +110,7 @@ relationships:
 - type: cites
   target: pt:dre:74306011:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/117/2016/04/29/p/dre
 article_structure:
   article_count: 0
   section_count: 2

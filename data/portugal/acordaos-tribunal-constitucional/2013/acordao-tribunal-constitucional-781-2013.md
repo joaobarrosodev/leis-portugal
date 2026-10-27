@@ -75,17 +75,13 @@ subjects:
 - Tribunal Arbitral do Desporto
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/52/1992/03/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/52/1992/03/14/p/dre
-- type: cites
   target: pt:dre:174785:por
   label: null
   source: http://data.dre.pt/eli/lei/38/2012/08/28/p/dre
 - type: cites
   target: pt:dre:175977:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/52/1992/03/14/p/dre
 - type: cites
   target: pt:dre:243744:por
   label: null

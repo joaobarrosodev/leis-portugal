@@ -95,21 +95,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/175-2008-439872
   date: '2008-11-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/168-a/2008/11/14/p/dre
+  target: pt:dre:165238:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/168-a/2008/11/14/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/55/2008/03/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/55/2008/03/26/p/dre
-- type: cites
-  target: pt:dre:165238:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:246503:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/55/2008/03/26/p/dre
 - type: cites
   target: pt:dre:511828:por
   label: null

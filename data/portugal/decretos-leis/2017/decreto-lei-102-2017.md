@@ -126,10 +126,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2013/11/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/365/2015/10/16/p/
-  label: null
-  source: http://data.dre.pt/eli/port/365/2015/10/16/p/
-- type: cites
   target: pt:dre:174777:por
   label: null
   source: http://data.dre.pt/eli/lei/39/2012/08/28/p/dre
@@ -168,7 +164,7 @@ relationships:
 - type: cites
   target: pt:dre:70716380:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/365/2015/10/16/p/
 article_structure:
   article_count: 12
   section_count: 0

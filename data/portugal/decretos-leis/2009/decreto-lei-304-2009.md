@@ -91,10 +91,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2011-280268
   date: '2011-02-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
-- type: cites
   target: pt:dre:169001:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/1999/02/05/p/dre
@@ -105,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:247255:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
 - type: cites
   target: pt:dre:288074:por
   label: null

@@ -73,10 +73,6 @@ subjects:
 - Sanção Penal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/144/2004/10/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/144/2004/10/28/p/dre
-- type: cites
   target: pt:dre:241229:por
   label: null
   source: http://data.dre.pt/eli/lei/45/1996/09/03/p/dre
@@ -107,7 +103,7 @@ relationships:
 - type: cites
   target: pt:dre:566009:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/144/2004/10/28/p/dre
 - type: cites
   target: pt:dre:585178:por
   label: null

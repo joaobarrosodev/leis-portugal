@@ -87,7 +87,7 @@ subjects:
 - Taxa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/42/2020/02/14/p/dre
+  target: pt:dre:129208006:por
   label: null
   source: http://data.dre.pt/eli/port/42/2020/02/14/p/dre
 - type: cites

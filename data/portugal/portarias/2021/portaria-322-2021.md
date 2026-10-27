@@ -149,7 +149,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902
   date: '2025-01-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/148-a/2018/05/22/p/dre
+  target: pt:dre:115375942:por
   label: null
   source: http://data.dre.pt/eli/port/148-a/2018/05/22/p/dre
 - type: cites

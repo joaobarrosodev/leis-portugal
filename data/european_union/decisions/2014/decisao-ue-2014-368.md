@@ -86,6 +86,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/97ebdf59-5b83-4403-a0ad-d0d31b1045c0
   date: '2000-05-08'
+- type: cited_by
+  target: pt:dre:67040491:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0

@@ -111,10 +111,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2007/60/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/71/2012/11/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/71/2012/11/30/p/dre
-- type: cites
   target: pt:dre:124256708:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/124/2019/08/28/p/dre
@@ -122,6 +118,10 @@ relationships:
   target: pt:dre:175805:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
+- type: cites
+  target: pt:dre:190630:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/71/2012/11/30/p/dre
 - type: cites
   target: pt:dre:453518:por
   label: null

@@ -155,17 +155,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/129-2022-181159482
   date: '2022-03-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/164-a/2021/07/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/164-a/2021/07/29/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/182/2021/08/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/182/2021/08/31/p/dre
-- type: cites
   target: pt:dre:166158054:por
   label: null
   source: http://data.dre.pt/eli/port/138-b/2021/06/30/p/dre
+- type: cites
+  target: pt:dre:168561714:por
+  label: null
+  source: http://data.dre.pt/eli/port/164-a/2021/07/29/p/dre
+- type: cites
+  target: pt:dre:170514956:por
+  label: null
+  source: http://data.dre.pt/eli/port/182/2021/08/31/p/dre
 - type: cites
   target: pt:dre:488301:por
   label: null

@@ -87,17 +87,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9293-2017-108000334
   date: '2017-08-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/61/2003/04/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/61/2003/04/22/p/dre
-- type: cites
   target: pt:dre:173920:por
   label: null
   source: http://data.dre.pt/eli/port/251/1995/03/30/p/dre
 - type: cites
   target: pt:dre:239775:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/61/2003/04/22/p/dre
 - type: cites
   target: pt:dre:254186:por
   label: null

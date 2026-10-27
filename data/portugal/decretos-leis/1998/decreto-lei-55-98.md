@@ -160,10 +160,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
   date: '1999-11-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/195/1997/11/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/195/1997/11/05/p/dre
-- type: cites
   target: pt:dre:292481:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
@@ -190,7 +186,7 @@ relationships:
 - type: cites
   target: pt:dre:684620:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/195/1997/11/05/p/dre
 - type: corrected_by
   target: pt:dre:276176:por
   label: "Rectificado o nº 7 do art. 6º, pela DECL-RECT.7-C/98.1998.03.31.PCM DR.IS-A [76]3ºSupl\0\0"

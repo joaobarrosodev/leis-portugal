@@ -79,13 +79,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9945-2016-75105575
   date: '2016-08-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/60/2003/04/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/60/2003/04/22/p/dre
-- type: cites
   target: pt:dre:239670:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/60/2003/04/22/p/dre
 - type: cites
   target: pt:dre:333172:por
   label: null

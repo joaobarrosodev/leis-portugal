@@ -77,10 +77,6 @@ subjects:
 - Segurança Social
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/273/2021/11/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/273/2021/11/29/p/dre
-- type: cites
   target: pt:dre:124457188:por
   label: null
   source: http://data.dre.pt/eli/port/290/2019/09/05/p/dre
@@ -91,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:175043512:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/273/2021/11/29/p/dre
 - type: cites
   target: pt:dre:206056781:por
   label: null

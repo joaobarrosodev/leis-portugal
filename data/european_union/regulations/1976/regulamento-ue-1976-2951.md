@@ -86,6 +86,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/0071a764-4705-4581-b29f-38e04016cc5a
   date: '1976-07-30'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0

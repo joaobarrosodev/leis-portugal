@@ -101,6 +101,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/cdb6252f-7a7c-495c-a13c-e92df112c0da
   date: '1965-05-24'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:682379:por
   label: null
   source: null

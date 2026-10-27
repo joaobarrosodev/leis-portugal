@@ -103,11 +103,11 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2019/1157/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/164/2017/05/18/p/dre
+  target: pt:dre:107030010:por
   label: null
   source: http://data.dre.pt/eli/port/164/2017/05/18/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/225/2020/09/29/p/dre
+  target: pt:dre:144010962:por
   label: null
   source: http://data.dre.pt/eli/port/225/2020/09/29/p/dre
 - type: cites

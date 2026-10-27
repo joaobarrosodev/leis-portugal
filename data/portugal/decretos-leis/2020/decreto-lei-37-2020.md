@@ -134,10 +134,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286
   date: '2022-09-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/64/2020/03/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/64/2020/03/10/p/dre
-- type: cites
   target: pt:dre:124256710:por
   label: null
   source: http://data.dre.pt/eli/port/276/2019/08/28/p/dre
@@ -145,6 +141,10 @@ relationships:
   target: pt:dre:127957590:por
   label: null
   source: http://data.dre.pt/eli/port/2/2020/01/10/p/dre
+- type: cites
+  target: pt:dre:130070741:por
+  label: null
+  source: http://data.dre.pt/eli/port/64/2020/03/10/p/dre
 - type: cites
   target: pt:dre:130893436:por
   label: null

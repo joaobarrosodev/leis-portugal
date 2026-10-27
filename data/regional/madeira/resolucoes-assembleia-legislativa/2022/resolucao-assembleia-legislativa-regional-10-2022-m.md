@@ -95,7 +95,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2022-185158754
   date: '2022-06-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
+  target: pt:dre:175595604:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
 - type: cites

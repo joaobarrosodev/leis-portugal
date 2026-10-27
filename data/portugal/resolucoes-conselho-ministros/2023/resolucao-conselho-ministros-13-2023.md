@@ -122,10 +122,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2018/2002/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-- type: cites
   target: pt:dre:108086621:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/111-b/2017/08/31/p/dre
@@ -133,6 +129,10 @@ relationships:
   target: pt:dre:114337039:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/190-a/2017/12/11/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites
   target: pt:dre:137618093:por
   label: null

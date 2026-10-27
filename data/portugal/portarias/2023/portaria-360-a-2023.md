@@ -75,13 +75,9 @@ subjects:
 - Sistema Judicial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/170/2017/05/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/170/2017/05/25/p/dre
-- type: cites
   target: pt:dre:107078025:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/170/2017/05/25/p/dre
 - type: cites
   target: pt:dre:107684449:por
   label: null

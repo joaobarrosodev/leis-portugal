@@ -82,10 +82,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2024/1028/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/704/2004/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/704/2004/12/30/p/dre
-- type: cites
   target: pt:dre:116152179:por
   label: null
   source: http://data.dre.pt/eli/lei/62/2018/08/22/p/dre
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:349757:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/704/2004/12/30/p/dre
 - type: cites
   target: pt:dre:375254:por
   label: null

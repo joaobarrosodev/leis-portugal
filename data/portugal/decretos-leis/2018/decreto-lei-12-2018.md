@@ -127,17 +127,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2021-164955304
   date: '2021-06-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
   target: pt:dre:107669077:por
   label: null
   source: http://data.dre.pt/eli/lei/49-a/2017/07/10/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites
   target: pt:dre:114425586:por
   label: null
@@ -150,6 +146,10 @@ relationships:
   target: pt:dre:259425:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/41/2013/03/21/p/dre
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:544577:por
   label: null

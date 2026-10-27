@@ -292,6 +292,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/ba111d52-2e34-45aa-a03f-a7f9ec18f320
   date: '1957-03-25'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:11957E018
   label: null

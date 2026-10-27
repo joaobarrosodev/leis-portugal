@@ -79,18 +79,6 @@ subjects:
 - Projeto de Investimento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1/2004/01/05/p/dr
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/1/2004/01/05/p/dr
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/80/2004/06/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/80/2004/06/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/99/2003/08/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/99/2003/08/07/p/dre
-- type: cites
   target: pt:dre:143332:por
   label: null
   source: null
@@ -101,11 +89,11 @@ relationships:
 - type: cites
   target: pt:dre:240829:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/1/2004/01/05/p/dr
 - type: cites
   target: pt:dre:271256:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/80/2004/06/24/p/dre
 - type: cites
   target: pt:dre:303274:por
   label: null
@@ -125,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:645763:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/99/2003/08/07/p/dre
 - type: cites
   target: pt:dre:667137:por
   label: null

@@ -86,10 +86,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2005-564831
   date: '2005-03-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/232/2003/06/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/232/2003/06/17/p/dre
-- type: cites
   target: pt:dre:186123:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/2003/02/27/p/dre
@@ -120,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:684202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/232/2003/06/17/p/dre
 - type: repealed_by
   target: pt:dre:468639:por
   label: "Revogado o DLR 17/2003/M de 22-Jul, com a redacção constante deste diploma, pelo DLR.15-A/2006/M.10.04.2006.AL-RAM,\

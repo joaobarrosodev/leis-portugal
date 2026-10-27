@@ -84,14 +84,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2017/1185/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/368/2015/10/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/368/2015/10/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
-- type: cites
   target: pt:dre:115777790:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/101/2018/07/26/p/dre
@@ -102,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:259967:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
 - type: cites
   target: pt:dre:513863:por
   label: null
@@ -114,7 +106,7 @@ relationships:
 - type: cites
   target: pt:dre:70737914:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/368/2015/10/19/p/dre
 - type: repeals
   target: pt:numero:resolucao-conselho-ministros:101/2018
   label: Revoga, a partir de 9 de janeiro de 2026, a Resolução do Conselho de Ministros n.º 101/2018, de 26 de julho, Diário

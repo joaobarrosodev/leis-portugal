@@ -77,10 +77,6 @@ subjects:
 - Processo Penal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/2/1994/05/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/2/1994/05/07/p/dre
-- type: cites
   target: pt:dre:158581:por
   label: null
   source: null
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:256436:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/2/1994/05/07/p/dre
 - type: cites
   target: pt:dre:316935:por
   label: null

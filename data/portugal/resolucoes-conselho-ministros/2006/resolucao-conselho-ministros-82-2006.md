@@ -84,13 +84,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/35-2011-671582
   date: '2011-08-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/121/1997/07/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/121/1997/07/24/p/dre
-- type: cites
   target: pt:dre:148981:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/121/1997/07/24/p/dre
 - type: cites
   target: pt:dre:429407:por
   label: null

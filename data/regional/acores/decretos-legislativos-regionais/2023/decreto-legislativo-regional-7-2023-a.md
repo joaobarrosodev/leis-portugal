@@ -112,17 +112,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2019/904/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-- type: cites
   target: pt:dre:150509334:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/102/2020/12/09/p/dre
 - type: cites
   target: pt:dre:164590045:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
 - type: cites
   target: pt:dre:309040:por
   label: null

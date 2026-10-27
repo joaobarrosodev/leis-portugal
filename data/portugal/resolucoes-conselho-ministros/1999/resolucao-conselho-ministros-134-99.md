@@ -73,10 +73,6 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/34/1994/05/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/34/1994/05/19/p/dre
-- type: cites
   target: pt:dre:145241:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/1999/03/12/p/dre
@@ -87,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:262854:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/34/1994/05/19/p/dre
 - type: cites
   target: pt:dre:332412:por
   label: null

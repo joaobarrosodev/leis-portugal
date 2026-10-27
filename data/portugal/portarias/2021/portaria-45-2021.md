@@ -186,7 +186,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/229-2025-918999082
   date: '2025-05-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/68/2017/02/16/p/dre
+  target: pt:dre:106471884:por
   label: null
   source: http://data.dre.pt/eli/port/68/2017/02/16/p/dre
 - type: cites

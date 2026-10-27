@@ -104,10 +104,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/158-2021-168043798
   date: '2021-07-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/172/2015/06/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/172/2015/06/05/p/dre
-- type: cites
   target: pt:dre:130893436:por
   label: null
   source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
@@ -115,6 +111,10 @@ relationships:
   target: pt:dre:632448:por
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:67409482:por
+  label: null
+  source: http://data.dre.pt/eli/port/172/2015/06/05/p/dre
 article_structure:
   article_count: 17
   section_count: 6

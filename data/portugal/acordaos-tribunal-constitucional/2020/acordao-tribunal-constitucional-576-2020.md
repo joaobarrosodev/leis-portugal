@@ -75,14 +75,6 @@ subjects:
 - Vizela
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/288/1998/04/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/288/1998/04/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/531/1998/07/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/531/1998/07/30/p/dre
-- type: cites
   target: pt:dre:116068877:por
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
@@ -114,6 +106,14 @@ relationships:
   target: pt:dre:500023:por
   label: null
   source: http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
+- type: cites
+  target: pt:dre:666482:por
+  label: null
+  source: http://data.dre.pt/eli/ac/288/1998/04/18/p/dre
+- type: cites
+  target: pt:dre:692068:por
+  label: null
+  source: http://data.dre.pt/eli/ac/531/1998/07/30/p/dre
 article_structure:
   article_count: 0
   section_count: 0

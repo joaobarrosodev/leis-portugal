@@ -76,10 +76,6 @@ subjects:
 - Rede de Estradas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/180/2007/12/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/180/2007/12/11/p/dre
-- type: cites
   target: pt:dre:243747:por
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
@@ -106,7 +102,7 @@ relationships:
 - type: cites
   target: pt:dre:628809:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/180/2007/12/11/p/dre
 - type: cites
   target: pt:dre:629160:por
   label: null

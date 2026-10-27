@@ -85,29 +85,13 @@ subjects:
 - Regime de Apoio
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/123/2016/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/123/2016/05/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/46/2018/02/12/p/dre
+  target: pt:dre:114682828:por
   label: null
   source: http://data.dre.pt/eli/port/46/2018/02/12/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/55/2018/
-  label: null
-  source: http://data.dre.pt/eli/port/55/2018/
-- type: cites
-  target: pt:dre:114682828:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:114749191:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/55/2018/
 - type: cites
   target: pt:dre:116895169:por
   label: null
@@ -139,11 +123,11 @@ relationships:
 - type: cites
   target: pt:dre:74334114:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/123/2016/05/04/p/dre
 - type: cites
   target: pt:dre:75341997:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
 article_structure:
   article_count: 3
   section_count: 0

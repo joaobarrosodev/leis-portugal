@@ -76,7 +76,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114288878:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:114350956:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:177634021:por
   label: null
   source: null
 - type: cited_by

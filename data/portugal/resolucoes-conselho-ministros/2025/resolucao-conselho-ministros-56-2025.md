@@ -84,17 +84,13 @@ relationships:
   source: null
   date: '2019-02-18'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/174/2021/12/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/174/2021/12/14/p/dre
-- type: cites
   target: pt:dre:119674803:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2019/02/18/p/dre
 - type: cites
   target: pt:dre:175865941:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/174/2021/12/14/p/dre
 - type: cites
   target: pt:dre:603475:por
   label: null

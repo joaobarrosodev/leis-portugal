@@ -100,13 +100,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-b-2021-163442523
   date: '2021-05-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+  target: pt:dre:114109966:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
 - type: cites
   target: pt:dre:177863:por
   label: null
@@ -119,6 +115,10 @@ relationships:
   target: pt:dre:272426:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2002/02/05/p/dre
+- type: cites
+  target: pt:dre:423040:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
 article_structure:
   article_count: 7
   section_count: 0

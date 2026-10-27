@@ -123,10 +123,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2020/612/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/85/2017/06/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/85/2017/06/19/p/dre
-- type: cites
   target: pt:dre:105263933:por
   label: null
   source: null
@@ -137,7 +133,7 @@ relationships:
 - type: cites
   target: pt:dre:107524708:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/85/2017/06/19/p/dre
 - type: cites
   target: pt:dre:107648315:por
   label: null

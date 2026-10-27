@@ -76,10 +76,6 @@ subjects:
 - Regulamento do Sistema Tarifário dos Portos do Continente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2016/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2016/03/16/p/dre
-- type: cites
   target: pt:dre:306898:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/129/2010/12/07/p/dre
@@ -91,6 +87,10 @@ relationships:
   target: pt:dre:629451:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/370/2007/11/06/p/dre
+- type: cites
+  target: pt:dre:73882249:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2016/03/16/p/dre
 article_structure:
   article_count: 3
   section_count: 0

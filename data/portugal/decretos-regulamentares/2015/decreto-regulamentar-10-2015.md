@@ -175,11 +175,11 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394
   date: '2023-06-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+  target: pt:dre:259967:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+  target: pt:dre:260395:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
 - type: cites

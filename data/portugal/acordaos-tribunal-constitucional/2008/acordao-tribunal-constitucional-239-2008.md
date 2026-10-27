@@ -75,10 +75,6 @@ subjects:
 - Recrutamento de Pessoal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/562/2004/03/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/562/2004/03/13/p/dre
-- type: cites
   target: pt:dre:139918:por
   label: null
   source: null
@@ -97,7 +93,7 @@ relationships:
 - type: cites
   target: pt:dre:532273:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/562/2004/03/13/p/dre
 - type: cites
   target: pt:dre:566656:por
   label: null

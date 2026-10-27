@@ -90,10 +90,6 @@ subjects:
 - Preço Máximo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/290-a/2016/11/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/290-a/2016/11/15/p/dre
-- type: cites
   target: pt:dre:67356991:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2015/06/01/p/dre
@@ -113,6 +109,10 @@ relationships:
   target: pt:dre:75481291:por
   label: null
   source: http://data.dre.pt/eli/port/262/2016/10/07/p/dre
+- type: cites
+  target: pt:dre:75748124:por
+  label: null
+  source: http://data.dre.pt/eli/port/290-a/2016/11/15/p/dre
 article_structure:
   article_count: 5
   section_count: 0

@@ -80,10 +80,6 @@ subjects:
 - Serviço Público
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/2013/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/4/2013/01/18/p/dre
-- type: cites
   target: pt:dre:177863:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -94,7 +90,7 @@ relationships:
 - type: cites
   target: pt:dre:257042:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/4/2013/01/18/p/dre
 - type: cites
   target: pt:dre:513863:por
   label: null

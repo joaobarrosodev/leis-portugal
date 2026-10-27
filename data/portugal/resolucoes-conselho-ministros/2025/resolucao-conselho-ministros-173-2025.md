@@ -80,10 +80,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/195-2026-1178225512
   date: '2026-10-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
-- type: cites
   target: pt:dre:187049881:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
@@ -102,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:542993:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
 - type: cites
   target: pt:dre:553924:por
   label: null

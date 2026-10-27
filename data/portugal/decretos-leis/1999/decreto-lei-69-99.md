@@ -83,10 +83,6 @@ subjects:
 - Sociedade Anónima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-- type: cites
   target: pt:dre:158044:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/66/1999/03/11/p/dre
@@ -105,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:469202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
 article_structure:
   article_count: 43
   section_count: 10

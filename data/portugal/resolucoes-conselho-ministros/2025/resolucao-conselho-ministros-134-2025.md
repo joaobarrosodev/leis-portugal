@@ -98,13 +98,9 @@ relationships:
   source: null
   date: '2013-12-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
-- type: cites
   target: pt:dre:176811777:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
 - type: cites
   target: pt:dre:483892:por
   label: null

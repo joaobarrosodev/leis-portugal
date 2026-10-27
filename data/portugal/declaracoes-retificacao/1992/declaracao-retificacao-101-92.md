@@ -75,13 +75,9 @@ subjects:
 - Pena de Morte
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/80/1992/06/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/80/1992/06/20/p/dre
-- type: cites
   target: pt:dre:303214:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/80/1992/06/20/p/dre
 article_structure:
   article_count: 0
   section_count: 0

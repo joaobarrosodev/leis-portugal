@@ -204,7 +204,15 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:156295372:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:166300890:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:174614573:por
   label: null
   source: null
 - type: transposed_by

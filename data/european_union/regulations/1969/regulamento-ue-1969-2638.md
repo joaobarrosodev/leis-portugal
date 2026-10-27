@@ -133,6 +133,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/b4ba2bb1-2a19-482c-a6cf-3339bd7c0afe
   date: '1966-10-27'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: interpreted_by
   target: celex:61982CJ0029
   label: null

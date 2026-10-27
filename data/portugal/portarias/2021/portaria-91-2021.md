@@ -135,15 +135,11 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2020/2220/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/301-b/2016/11/30/p/dre
+  target: pt:dre:105283971:por
   label: null
   source: http://data.dre.pt/eli/port/301-b/2016/11/30/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/303-a/2016/12/05/p/dre
+  target: pt:dre:105315488:por
   label: null
   source: http://data.dre.pt/eli/port/303-a/2016/12/05/p/dre
 - type: cites
@@ -170,6 +166,10 @@ relationships:
   target: pt:dre:70462181:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+- type: cites
+  target: pt:dre:75341997:por
+  label: null
+  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
 article_structure:
   article_count: 25
   section_count: 9

@@ -124,7 +124,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/679/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+  target: pt:dre:107684448:por
   label: null
   source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
 - type: cites

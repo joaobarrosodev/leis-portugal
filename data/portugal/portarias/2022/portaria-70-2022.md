@@ -102,21 +102,21 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2022-180365473
   date: '2022-03-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/47/2017/02/01/p/dre
+  target: pt:dre:106380301:por
   label: null
   source: http://data.dre.pt/eli/port/47/2017/02/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
 - type: cites
   target: pt:dre:135391594:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:152512121:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
+- type: cites
+  target: pt:dre:176811777:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
 - type: cites
   target: pt:dre:25676935:por
   label: null

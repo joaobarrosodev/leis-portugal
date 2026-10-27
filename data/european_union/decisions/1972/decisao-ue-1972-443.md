@@ -153,6 +153,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/845b086c-c4b9-4c69-b230-977b87ed2d7e
   date: '1998-06-24'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

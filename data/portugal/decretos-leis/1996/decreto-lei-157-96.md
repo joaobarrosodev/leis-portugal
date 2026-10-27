@@ -78,17 +78,13 @@ subjects:
 - Remuneração
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/1996/04/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/1996/04/17/p/dre
-- type: cites
   target: pt:dre:484669:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/1995/07/27/p/dre
 - type: cites
   target: pt:dre:571623:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/45/1996/04/17/p/dre
 - type: cites
   target: pt:dre:621113:por
   label: null

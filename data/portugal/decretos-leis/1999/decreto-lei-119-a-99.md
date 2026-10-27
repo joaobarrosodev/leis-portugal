@@ -81,18 +81,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/43-a/1995/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/43-a/1995/05/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/67-a/1996/05/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/67-a/1996/05/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
-- type: cites
   target: pt:dre:188691:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/1995/02/22/p/dre
@@ -103,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:251029:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/67-a/1996/05/10/p/dre
 - type: cites
   target: pt:dre:260900:por
   label: null
@@ -115,7 +103,7 @@ relationships:
 - type: cites
   target: pt:dre:306265:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
 - type: cites
   target: pt:dre:332183:por
   label: null
@@ -123,7 +111,7 @@ relationships:
 - type: cites
   target: pt:dre:626213:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/43-a/1995/05/04/p/dre
 - type: repealed_by
   target: pt:dre:669513:por
   label: "Revogado o nº 8 do art. 15º pelo DEC LEI.90/2011.25.07.2011.MF, DR.IS [141] de 25.07.2011\0\0"

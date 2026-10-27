@@ -79,10 +79,6 @@ relationships:
   source: null
   date: '1995-03-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-- type: cites
   target: pt:dre:231882:por
   label: null
   source: http://data.dre.pt/eli/despnorm/555/1994/07/29/p/dre
@@ -97,7 +93,7 @@ relationships:
 - type: cites
   target: pt:dre:291631:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
 article_structure:
   article_count: 11
   section_count: 0

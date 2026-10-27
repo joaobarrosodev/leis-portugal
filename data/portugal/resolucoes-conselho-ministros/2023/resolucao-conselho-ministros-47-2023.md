@@ -76,17 +76,13 @@ subjects:
 - Universidade de Lisboa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/135/2021/09/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/135/2021/09/29/p/dre
-- type: cites
   target: pt:dre:115369074:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/2018/05/22/p/dre
 - type: cites
   target: pt:dre:172110474:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/135/2021/09/29/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

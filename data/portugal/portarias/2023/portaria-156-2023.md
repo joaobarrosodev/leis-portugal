@@ -89,10 +89,6 @@ subjects:
 - Silvicultura
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/233/2016/08/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/233/2016/08/29/p/dre
-- type: cites
   target: pt:dre:107507170:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/65/2017/06/12/p/dre
@@ -199,7 +195,7 @@ relationships:
 - type: cites
   target: pt:dre:75216374:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/233/2016/08/29/p/dre
 - type: cites
   target: pt:dre:75341997:por
   label: null

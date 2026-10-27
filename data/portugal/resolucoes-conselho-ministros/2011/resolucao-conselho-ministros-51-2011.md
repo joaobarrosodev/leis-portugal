@@ -74,10 +74,6 @@ subjects:
 - Serviço Público
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/96/2010/12/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/96/2010/12/14/p/dre
-- type: cites
   target: pt:dre:173757:por
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2002/08/28/p/dre
@@ -88,7 +84,7 @@ relationships:
 - type: cites
   target: pt:dre:307196:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/96/2010/12/14/p/dre
 - type: cites
   target: pt:dre:307863:por
   label: null

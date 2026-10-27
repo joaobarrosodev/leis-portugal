@@ -82,17 +82,13 @@ relationships:
   source: null
   date: '2010-04-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/95/2021/11/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/95/2021/11/10/p/dre
-- type: cites
   target: pt:dre:114425586:por
   label: null
   source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
 - type: cites
   target: pt:dre:174126179:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/95/2021/11/10/p/dre
 - type: cites
   target: pt:dre:614290:por
   label: null

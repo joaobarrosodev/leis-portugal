@@ -82,10 +82,6 @@ subjects:
 - Proteção do Ambiente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/10/2022/01/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/10/2022/01/04/p/dre
-- type: cites
   target: pt:dre:114337042:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/152-d/2017/12/11/p/dre
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:177088820:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/10/2022/01/04/p/dre
 article_structure:
   article_count: 3
   section_count: 0

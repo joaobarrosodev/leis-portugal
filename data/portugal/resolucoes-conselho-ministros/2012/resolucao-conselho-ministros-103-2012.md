@@ -85,7 +85,7 @@ subjects:
 - Comissão Executiva
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/55/2010/08/04/p/dre
+  target: pt:dre:333501:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55/2010/08/04/p/dre
 article_structure:

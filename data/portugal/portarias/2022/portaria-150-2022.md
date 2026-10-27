@@ -73,21 +73,13 @@ subjects:
 - Transmissão da Propriedade
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/271/2021/11/29/p/dre
+  target: pt:dre:175043509:por
   label: null
   source: http://data.dre.pt/eli/port/271/2021/11/29/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/287/2021/12/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/287/2021/12/09/p/dre
-- type: cites
-  target: pt:dre:175043509:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:175595592:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/287/2021/12/09/p/dre
 - type: cites
   target: pt:dre:301654:por
   label: null

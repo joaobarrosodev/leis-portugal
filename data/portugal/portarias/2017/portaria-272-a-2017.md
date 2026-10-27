@@ -117,10 +117,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/73-a-2021-160534625
   date: '2021-03-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/29/2015/02/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/29/2015/02/12/p/dre
-- type: cites
   target: pt:dre:105637672:por
   label: null
   source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
@@ -132,6 +128,10 @@ relationships:
   target: pt:dre:454796:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/2008/07/28/p/dre
+- type: cites
+  target: pt:dre:66487457:por
+  label: null
+  source: http://data.dre.pt/eli/port/29/2015/02/12/p/dre
 article_structure:
   article_count: 12
   section_count: 0

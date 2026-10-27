@@ -73,17 +73,13 @@ subjects:
 - Regime Florestal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/172/1995/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/172/1995/12/15/p/dre
-- type: cites
   target: pt:dre:231929:por
   label: null
   source: null
 - type: cites
   target: pt:dre:634956:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/172/1995/12/15/p/dre
 article_structure:
   article_count: 2
   section_count: 0

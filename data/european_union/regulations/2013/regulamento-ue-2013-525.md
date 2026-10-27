@@ -178,11 +178,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:66970762:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:69905665:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:70762383:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:75207496:por
   label: null
   source: null
 - type: cites

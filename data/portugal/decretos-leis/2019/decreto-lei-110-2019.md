@@ -85,17 +85,13 @@ subjects:
 - Regime Jurídico
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
-- type: cites
   target: pt:dre:105808927:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/14/2017/01/26/p/dre
 - type: cites
   target: pt:dre:108219721:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
 - type: cites
   target: pt:dre:178510:por
   label: null

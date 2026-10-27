@@ -88,17 +88,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/55-2004-1748904
   date: '2004-05-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/95/2003/07/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/95/2003/07/30/p/dre
-- type: cites
   target: pt:dre:391578:por
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
 - type: cites
   target: pt:dre:651732:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/95/2003/07/30/p/dre
 article_structure:
   article_count: 0
   section_count: 0

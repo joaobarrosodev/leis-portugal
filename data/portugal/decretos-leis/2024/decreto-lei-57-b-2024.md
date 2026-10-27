@@ -82,13 +82,9 @@ relationships:
   source: null
   date: '2006-04-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/101/2021/11/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/101/2021/11/19/p/dre
-- type: cites
   target: pt:dre:174614572:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/101/2021/11/19/p/dre
 - type: cites
   target: pt:dre:220956294:por
   label: null

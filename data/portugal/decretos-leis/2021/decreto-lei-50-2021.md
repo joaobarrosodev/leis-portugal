@@ -94,17 +94,13 @@ subjects:
 - Vistoria
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104/2020/11/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104/2020/11/24/p/dre
-- type: cites
   target: pt:dre:125692189:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/162/2019/10/25/p/dre
 - type: cites
   target: pt:dre:149220156:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/104/2020/11/24/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null

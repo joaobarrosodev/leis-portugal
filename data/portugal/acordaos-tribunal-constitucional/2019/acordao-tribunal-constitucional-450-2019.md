@@ -88,10 +88,6 @@ subjects:
 - Trabalhador por Conta de Outrem
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/415/2005/09/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/415/2005/09/01/p/dre
-- type: cites
   target: pt:dre:108021184:por
   label: null
   source: http://data.dre.pt/eli/declegreg/26/2017/08/18/m/dre
@@ -99,6 +95,10 @@ relationships:
   target: pt:dre:116068877:por
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:248181:por
+  label: null
+  source: http://data.dre.pt/eli/ac/415/2005/09/01/p/dre
 - type: cites
   target: pt:dre:431038:por
   label: null

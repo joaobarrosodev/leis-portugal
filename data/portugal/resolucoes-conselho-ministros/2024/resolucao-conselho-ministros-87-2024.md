@@ -99,10 +99,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/99-a-2025-919970656
   date: '2025-05-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
   target: pt:dre:248178:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -110,6 +106,10 @@ relationships:
   target: pt:dre:25676932:por
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:603475:por
   label: null

@@ -80,25 +80,9 @@ subjects:
 - Transporte de Doentes
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/194/2017/06/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/194/2017/06/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/275/2016/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/275/2016/10/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/28-a/2015/02/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/28-a/2015/02/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/83/2016/04/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/83/2016/04/12/p/dre
-- type: cites
   target: pt:dre:107541410:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/194/2017/06/21/p/dre
 - type: cites
   target: pt:dre:146061:por
   label: null
@@ -122,15 +106,15 @@ relationships:
 - type: cites
   target: pt:dre:66480827:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/28-a/2015/02/11/p/dre
 - type: cites
   target: pt:dre:74115577:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/83/2016/04/12/p/dre
 - type: cites
   target: pt:dre:75542156:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/275/2016/10/18/p/dre
 article_structure:
   article_count: 3
   section_count: 0

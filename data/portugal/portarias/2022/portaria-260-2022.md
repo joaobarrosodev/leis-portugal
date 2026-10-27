@@ -110,17 +110,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/311-2025-935004239
   date: '2025-09-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/184/2021/09/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/184/2021/09/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/99/2020/04/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/99/2020/04/21/p/dre
-- type: cites
   target: pt:dre:107495701:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:132133790:por
+  label: null
+  source: http://data.dre.pt/eli/port/99/2020/04/21/p/dre
+- type: cites
+  target: pt:dre:170649064:por
+  label: null
+  source: http://data.dre.pt/eli/port/184/2021/09/03/p/dre
 - type: cites
   target: pt:dre:58900566:por
   label: null

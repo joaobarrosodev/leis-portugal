@@ -79,17 +79,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9906-2015-70139903
   date: '2015-08-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/34/1994/05/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/34/1994/05/19/p/dre
-- type: cites
   target: pt:dre:228186:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
 - type: cites
   target: pt:dre:262854:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/34/1994/05/19/p/dre
 - type: cites
   target: pt:dre:332412:por
   label: null

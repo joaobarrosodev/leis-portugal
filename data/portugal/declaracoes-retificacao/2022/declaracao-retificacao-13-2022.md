@@ -103,41 +103,25 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/629/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/217/2019/07/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/217/2019/07/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/232/2018/08/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/232/2018/08/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/27/2021/02/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/27/2021/02/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/51/2017/02/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/51/2017/02/02/p/dre
-- type: cites
   target: pt:dre:105579672:por
   label: null
   source: null
 - type: cites
   target: pt:dre:106388651:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/51/2017/02/02/p/dre
 - type: cites
   target: pt:dre:116108107:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/232/2018/08/20/p/dre
 - type: cites
   target: pt:dre:123025742:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/217/2019/07/10/p/dre
 - type: cites
   target: pt:dre:156547110:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/27/2021/02/05/p/dre
 - type: cites
   target: pt:dre:159432383:por
   label: null

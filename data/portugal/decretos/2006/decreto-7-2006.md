@@ -78,13 +78,9 @@ subjects:
 - Sintra
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/122/1998/06/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/122/1998/06/30/p/dre
-- type: cites
   target: pt:dre:477640:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/122/1998/06/30/p/dre
 - type: cites
   target: pt:dre:674576:por
   label: null

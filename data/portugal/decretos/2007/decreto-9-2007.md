@@ -72,10 +72,6 @@ subjects:
 - Regime Florestal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/83/1994/09/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/83/1994/09/16/p/dre
-- type: cites
   target: pt:dre:281589:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/2000/05/03/p/dre
@@ -90,7 +86,7 @@ relationships:
 - type: cites
   target: pt:dre:586270:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/83/1994/09/16/p/dre
 article_structure:
   article_count: 3
   section_count: 0

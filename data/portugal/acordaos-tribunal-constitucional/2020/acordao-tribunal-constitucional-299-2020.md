@@ -85,14 +85,6 @@ subjects:
 - Arrendamento Urbano para Habitação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/4/1996/04/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/4/1996/04/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/866/1996/12/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/866/1996/12/18/p/dre
-- type: cites
   target: pt:dre:116809381:por
   label: null
   source: http://data.dre.pt/eli/lei/64/2018/10/29/p/dre
@@ -105,6 +97,10 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/1/2020/01/09/p/dre
 - type: cites
+  target: pt:dre:197519:por
+  label: null
+  source: http://data.dre.pt/eli/ac/866/1996/12/18/p/dre
+- type: cites
   target: pt:dre:314194:por
   label: null
   source: http://data.dre.pt/eli/lei/7/2001/05/11/p/dre
@@ -116,6 +112,10 @@ relationships:
   target: pt:dre:538614:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/157/2006/08/08/p/dre
+- type: cites
+  target: pt:dre:572393:por
+  label: null
+  source: http://data.dre.pt/eli/ac/4/1996/04/20/p/dre
 - type: cites
   target: pt:dre:634925:por
   label: null

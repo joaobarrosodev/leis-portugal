@@ -95,13 +95,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/52-2010-332747
   date: '2010-06-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
-- type: cites
   target: pt:dre:262302:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
 - type: cites
   target: pt:dre:517859:por
   label: null

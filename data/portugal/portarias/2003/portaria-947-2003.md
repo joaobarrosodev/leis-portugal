@@ -79,10 +79,6 @@ subjects:
 - Regulamento de Aplicação da Acção 3.6-promoção de Novos Mercados e Qualificação de Produtos Florestais
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64/2003/04/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/64/2003/04/30/p/dre
-- type: cites
   target: pt:dre:220892:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
@@ -97,7 +93,7 @@ relationships:
 - type: cites
   target: pt:dre:571422:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/64/2003/04/30/p/dre
 - type: cites
   target: pt:dre:615867:por
   label: null

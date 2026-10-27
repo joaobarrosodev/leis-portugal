@@ -92,13 +92,13 @@ subjects:
 - Plano Nacional de Prevenção e Combate à Violência Doméstica e de Género
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/55/1999/06/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/55/1999/06/15/p/dre
-- type: cites
   target: pt:dre:258498:por
   label: null
   source: http://data.dre.pt/eli/lei/19/2013/02/21/p/dre
+- type: cites
+  target: pt:dre:308998:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/55/1999/06/15/p/dre
 - type: cites
   target: pt:dre:334305:por
   label: null

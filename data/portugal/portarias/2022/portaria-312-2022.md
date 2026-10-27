@@ -106,25 +106,17 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/2117/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/130/2018/05/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/130/2018/05/09/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/325/2019/09/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/325/2019/09/20/p/dre
-- type: cites
   target: pt:dre:105758425:por
   label: null
   source: http://data.dre.pt/eli/port/26/2017/01/13/p/dre
 - type: cites
   target: pt:dre:115251292:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/130/2018/05/09/p/dre
 - type: cites
   target: pt:dre:124879311:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/325/2019/09/20/p/dre
 - type: cites
   target: pt:dre:183961875:por
   label: null

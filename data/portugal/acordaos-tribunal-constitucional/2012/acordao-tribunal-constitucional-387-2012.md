@@ -74,10 +74,6 @@ subjects:
 - Ordenamento do Território
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/53/2007/04/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/53/2007/04/04/p/dre
-- type: cites
   target: pt:dre:173966:por
   label: null
   source: http://data.dre.pt/eli/declegreg/17/2002/08/29/m/dre
@@ -132,7 +128,7 @@ relationships:
 - type: cites
   target: pt:dre:520229:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/53/2007/04/04/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

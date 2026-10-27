@@ -78,10 +78,6 @@ subjects:
 - Serviços de Segurança
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/562/2004/03/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/562/2004/03/13/p/dre
-- type: cites
   target: pt:dre:261089:por
   label: null
   source: http://data.dre.pt/eli/lei/34/2013/05/16/p/dre
@@ -109,6 +105,10 @@ relationships:
   target: pt:dre:455125:por
   label: null
   source: http://data.dre.pt/eli/lei/38/2008/08/08/p/dre
+- type: cites
+  target: pt:dre:532273:por
+  label: null
+  source: http://data.dre.pt/eli/ac/562/2004/03/13/p/dre
 - type: cites
   target: pt:dre:569761:por
   label: null

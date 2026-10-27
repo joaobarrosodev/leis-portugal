@@ -74,14 +74,6 @@ subjects:
 - Portugal Telecom
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/148/2000/11/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/148/2000/11/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/169/2000/12/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/169/2000/12/05/p/dre
-- type: cites
   target: pt:dre:153116:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/227-a/2000/09/09/p/dre
@@ -100,11 +92,11 @@ relationships:
 - type: cites
   target: pt:dre:584004:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/169/2000/12/05/p/dre
 - type: cites
   target: pt:dre:621710:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/148/2000/11/03/p/dre
 article_structure:
   article_count: 11
   section_count: 0

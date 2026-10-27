@@ -72,13 +72,9 @@ subjects:
 - Rodoviária da Beira Litoral
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/28/1993/04/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/28/1993/04/26/p/dre
-- type: cites
   target: pt:dre:336531:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/28/1993/04/26/p/dre
 - type: cites
   target: pt:dre:682991:por
   label: null

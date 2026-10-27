@@ -87,13 +87,9 @@ relationships:
   source: null
   date: '2015-06-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/165/2017/05/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/165/2017/05/19/p/dre
-- type: cites
   target: pt:dre:107038204:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/165/2017/05/19/p/dre
 - type: cites
   target: pt:dre:165036155:por
   label: null

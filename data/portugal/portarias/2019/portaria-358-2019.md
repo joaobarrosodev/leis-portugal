@@ -111,10 +111,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/137-2021-166099798
   date: '2021-06-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/288/2015/09/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/288/2015/09/17/p/dre
-- type: cites
   target: pt:dre:123513819:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2019/07/26/p/dre
@@ -130,6 +126,10 @@ relationships:
   target: pt:dre:622371:por
   label: null
   source: http://data.dre.pt/eli/port/331-a/2009/03/30/p/dre
+- type: cites
+  target: pt:dre:70300347:por
+  label: null
+  source: http://data.dre.pt/eli/port/288/2015/09/17/p/dre
 article_structure:
   article_count: 6
   section_count: 0

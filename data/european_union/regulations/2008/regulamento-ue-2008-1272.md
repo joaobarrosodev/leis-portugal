@@ -1299,6 +1299,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:67485181:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:69920329:por
   label: null
   source: null

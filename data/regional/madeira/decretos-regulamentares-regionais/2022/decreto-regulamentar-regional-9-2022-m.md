@@ -78,10 +78,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/decregulreg/3/2022/03/02/m/dre
-  label: null
-  source: http://data.dre.pt/eli/decregulreg/3/2022/03/02/m/dre
-- type: cites
   target: pt:dre:105657288:por
   label: null
   source: http://data.dre.pt/eli/declegreg/42-a/2016/12/30/m/dre
@@ -96,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:179804278:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/decregulreg/3/2022/03/02/m/dre
 - type: cites
   target: pt:dre:303585:por
   label: null

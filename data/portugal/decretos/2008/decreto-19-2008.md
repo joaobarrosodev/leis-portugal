@@ -86,13 +86,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/50-2010-334320
   date: '2010-07-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/13/2008/01/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/13/2008/01/22/p/dre
-- type: cites
   target: pt:dre:248514:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/13/2008/01/22/p/dre
 - type: cites
   target: pt:dre:353346:por
   label: null

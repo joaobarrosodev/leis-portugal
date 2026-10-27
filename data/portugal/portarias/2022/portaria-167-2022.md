@@ -95,14 +95,6 @@ subjects:
 - Subsídio a Agricultores
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/374/2015/10/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/374/2015/10/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/4/2016
-  label: null
-  source: http://data.dre.pt/eli/port/4/2016
-- type: cites
   target: pt:dre:105643559:por
   label: null
   source: null
@@ -157,11 +149,11 @@ relationships:
 - type: cites
   target: pt:dre:70748599:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/374/2015/10/20/p/dre
 - type: cites
   target: pt:dre:73163704:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/4/2016
 article_structure:
   article_count: 2
   section_count: 0

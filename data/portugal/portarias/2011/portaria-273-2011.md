@@ -77,10 +77,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10710-2019-122754043
   date: '2019-06-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-- type: cites
   target: pt:dre:333172:por
   label: null
   source: null
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:609283:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
 article_structure:
   article_count: 2
   section_count: 0

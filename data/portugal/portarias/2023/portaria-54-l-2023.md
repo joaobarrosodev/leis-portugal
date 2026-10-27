@@ -238,11 +238,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2022/1173/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/50/2012/09/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/50/2012/09/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/58/2017/02/06/p/dre
+  target: pt:dre:106401323:por
   label: null
   source: http://data.dre.pt/eli/port/58/2017/02/06/p/dre
 - type: cites
@@ -253,6 +249,10 @@ relationships:
   target: pt:dre:175334:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+- type: cites
+  target: pt:dre:176070:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/50/2012/09/19/p/dre
 - type: cites
   target: pt:dre:203283191:por
   label: null

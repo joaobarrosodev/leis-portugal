@@ -109,10 +109,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/50-2019-119366210
   date: '2019-02-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/67/2016/04/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/67/2016/04/01/p/dre
-- type: cites
   target: pt:dre:164427:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/167-e/2013/12/31/p/dre
@@ -120,6 +116,10 @@ relationships:
   target: pt:dre:520669:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
+- type: cites
+  target: pt:dre:74007212:por
+  label: null
+  source: http://data.dre.pt/eli/port/67/2016/04/01/p/dre
 article_structure:
   article_count: 4
   section_count: 0

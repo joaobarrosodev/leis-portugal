@@ -73,6 +73,10 @@ subjects:
 - plano de pensões
 - seguro
 relationships:
+- type: cited_by
+  target: pt:dre:175865932:por
+  label: null
+  source: null
 - type: cites
   target: celex:32004D0009
   label: null

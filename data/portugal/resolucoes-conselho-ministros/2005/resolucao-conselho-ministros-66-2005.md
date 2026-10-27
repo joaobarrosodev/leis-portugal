@@ -86,10 +86,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7097-2015-67590966
   date: '2015-06-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/112/1994/11/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/112/1994/11/08/p/dre
-- type: cites
   target: pt:dre:426692:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/310/1999/08/10/p/dre
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:535019:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/112/1994/11/08/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

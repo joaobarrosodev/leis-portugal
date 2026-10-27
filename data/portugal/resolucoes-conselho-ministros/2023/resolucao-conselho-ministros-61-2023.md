@@ -86,17 +86,17 @@ subjects:
 - Governo XXIII
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+  target: pt:dre:114109966:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/67/2021/06/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/67/2021/06/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/9/2019/01/14/p/dre
+  target: pt:dre:117754018:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/9/2019/01/14/p/dre
+- type: cites
+  target: pt:dre:164501454:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/67/2021/06/01/p/dre
 - type: cites
   target: pt:dre:164798802:por
   label: null

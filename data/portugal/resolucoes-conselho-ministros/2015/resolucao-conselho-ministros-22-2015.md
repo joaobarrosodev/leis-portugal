@@ -84,25 +84,17 @@ subjects:
 - TIC
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
-- type: cites
   target: pt:dre:189514:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/2012/12/31/p/dre
 - type: cites
   target: pt:dre:308714:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
 - type: cites
   target: pt:dre:543701:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:66414245:por
   label: null

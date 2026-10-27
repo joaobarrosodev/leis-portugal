@@ -128,6 +128,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/2a73a65d-ce88-48f3-a292-065c136cbf81
   date: '2010-03-08'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: repealed_by
   target: celex:31993L0024
   label: null

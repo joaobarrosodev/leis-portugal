@@ -227,13 +227,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/2116/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/301/2020/12/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
-- type: cites
   target: pt:dre:124097549:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/119/2019/08/21/p/dre
+- type: cites
+  target: pt:dre:152197939:por
+  label: null
+  source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
 - type: cites
   target: pt:dre:207760041:por
   label: null

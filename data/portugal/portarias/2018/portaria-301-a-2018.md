@@ -106,11 +106,11 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/63-a-2022-178478629
   date: '2022-01-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/345-c/2016/12/30/p/dre
+  target: pt:dre:105673276:por
   label: null
   source: http://data.dre.pt/eli/port/345-c/2016/12/30/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/385-i/2017/12/29/p/dre
+  target: pt:dre:114436483:por
   label: null
   source: http://data.dre.pt/eli/port/385-i/2017/12/29/p/dre
 - type: cites

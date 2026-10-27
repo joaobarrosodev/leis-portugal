@@ -102,13 +102,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662
   date: '2025-03-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/54/2022/01/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/54/2022/01/25/p/dre
-- type: cites
   target: pt:dre:107094720:por
   label: null
   source: http://data.dre.pt/eli/lei/25/2017/05/30/p/dre
+- type: cites
+  target: pt:dre:178152680:por
+  label: null
+  source: http://data.dre.pt/eli/port/54/2022/01/25/p/dre
 - type: cites
   target: pt:dre:25676932:por
   label: null

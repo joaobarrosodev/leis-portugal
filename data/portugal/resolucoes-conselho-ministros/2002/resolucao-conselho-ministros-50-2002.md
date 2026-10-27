@@ -81,10 +81,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2810-2013-1763997
   date: '2013-02-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/175/1995/12/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/175/1995/12/20/p/dre
-- type: cites
   target: pt:dre:164053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre
@@ -127,7 +123,7 @@ relationships:
 - type: cites
   target: pt:dre:644085:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/175/1995/12/20/p/dre
 article_structure:
   article_count: 38
   section_count: 11

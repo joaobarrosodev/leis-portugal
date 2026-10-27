@@ -99,17 +99,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/119-2009-482144
   date: '2009-12-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-- type: cites
   target: pt:dre:241793:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/128/2005/08/10/p/dre
 - type: cites
   target: pt:dre:545593:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
 - type: corrected_by
   target: pt:dre:519431:por
   label: "Rectificada pela DECL-RECT.26/2007.26.03.2007.PCM, DR.IS [76] de 18.04.2007\0\0"

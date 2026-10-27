@@ -148,10 +148,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/679/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/180/2020/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/180/2020/08/03/p/dre
-- type: cites
   target: pt:dre:108051992:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/103/2017/08/24/p/dre
@@ -171,6 +167,10 @@ relationships:
   target: pt:dre:135391594:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:139348420:por
+  label: null
+  source: http://data.dre.pt/eli/port/180/2020/08/03/p/dre
 - type: cites
   target: pt:dre:152639825:por
   label: null

@@ -91,17 +91,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/679/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/108/2017/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/108/2017/07/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33/2016/06/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33/2016/06/03/p/dre
-- type: cites
   target: pt:dre:107757007:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/108/2017/07/26/p/dre
 - type: cites
   target: pt:dre:115360036:por
   label: null
@@ -137,7 +129,7 @@ relationships:
 - type: cites
   target: pt:dre:74605299:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33/2016/06/03/p/dre
 article_structure:
   article_count: 0
   section_count: 2

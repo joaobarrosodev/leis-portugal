@@ -78,17 +78,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolalraa/5/2022/01/19/a/dre
-  label: null
-  source: http://data.dre.pt/eli/resolalraa/5/2022/01/19/a/dre
-- type: cites
   target: pt:dre:165228579:por
   label: null
   source: http://data.dre.pt/eli/resolalraa/27/2021/06/16/a/dre
 - type: cites
   target: pt:dre:177847672:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolalraa/5/2022/01/19/a/dre
 article_structure:
   article_count: 1
   section_count: 0

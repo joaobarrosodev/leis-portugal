@@ -129,7 +129,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506
   date: '2020-03-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
+  target: pt:dre:130243054:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
 - type: cites

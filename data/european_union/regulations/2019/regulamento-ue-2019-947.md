@@ -163,6 +163,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/71e4e668-a5cf-11e8-99ee-01aa75ed71a1
   date: '2018-08-22'
 - type: cited_by
+  target: pt:dre:132721015:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:173109815:por
   label: null
   source: null

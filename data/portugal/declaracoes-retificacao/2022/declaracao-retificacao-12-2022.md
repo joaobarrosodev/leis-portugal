@@ -84,13 +84,9 @@ subjects:
 - Voluntariado
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/decregulreg/2/2022/02/04/m/dre
-  label: null
-  source: http://data.dre.pt/eli/decregulreg/2/2022/02/04/m/dre
-- type: cites
   target: pt:dre:178660790:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/decregulreg/2/2022/02/04/m/dre
 article_structure:
   article_count: 0
   section_count: 0

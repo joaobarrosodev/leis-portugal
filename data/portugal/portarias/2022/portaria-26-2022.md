@@ -124,21 +124,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805
   date: '2023-02-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/151/2014/07/
-  label: null
-  source: http://data.dre.pt/eli/port/151/2014/07/
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+  target: pt:dre:107684448:por
   label: null
   source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/84/2015/03/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/85/2015/03/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/85/2015/03/20/p/dre
 - type: cites
   target: pt:dre:122960401:por
   label: null
@@ -160,9 +148,21 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/220/2006/11/03/p/dre
 - type: cites
+  target: pt:dre:55032403:por
+  label: null
+  source: http://data.dre.pt/eli/port/151/2014/07/
+- type: cites
   target: pt:dre:66325237:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
+- type: cites
+  target: pt:dre:66818377:por
+  label: null
+  source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
+- type: cites
+  target: pt:dre:66818378:por
+  label: null
+  source: http://data.dre.pt/eli/port/85/2015/03/20/p/dre
 article_structure:
   article_count: 29
   section_count: 0

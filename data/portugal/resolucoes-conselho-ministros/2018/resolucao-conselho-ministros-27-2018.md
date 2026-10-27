@@ -112,13 +112,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
   date: '2025-07-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/18/2015/04/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/18/2015/04/07/p/dre
-- type: cites
   target: pt:dre:603478:por
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:66902772:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2015/04/07/p/dre
 - type: cites
   target: pt:dre:74094658:por
   label: null

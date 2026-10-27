@@ -84,13 +84,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/123-2024-886514235
   date: '2024-09-02'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/79/2018/06/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/79/2018/06/18/p/dre
-- type: cites
   target: pt:dre:115524264:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/79/2018/06/18/p/dre
 - type: cites
   target: pt:dre:456211:por
   label: null

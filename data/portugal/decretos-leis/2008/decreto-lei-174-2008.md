@@ -85,17 +85,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2011-670025
   date: '2011-06-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/15/2008/01/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/15/2008/01/25/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
-- type: cites
   target: pt:dre:222033:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
 - type: cites
   target: pt:dre:243358:por
   label: null
@@ -103,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:248561:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/15/2008/01/25/p/dre
 - type: cites
   target: pt:dre:649909:por
   label: null

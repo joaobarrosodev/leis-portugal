@@ -81,10 +81,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/121-a/1994/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/121-a/1994/12/15/p/dre
-- type: cites
   target: pt:dre:232731:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25-b/2000/05/13/p/dre
@@ -107,7 +103,7 @@ relationships:
 - type: cites
   target: pt:dre:664878:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/121-a/1994/12/15/p/dre
 - type: repealed_by
   target: pt:dre:67348943:por
   label: Revogado, a partir de 01.06.2015, com exceção do n.º 1 do art 1.º, no que respeita à criação da REFER, E. P. E.,

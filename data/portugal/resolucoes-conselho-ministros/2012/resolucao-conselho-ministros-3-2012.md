@@ -77,21 +77,13 @@ subjects:
 - Serviço Público
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/53/2011/12/16/p/dre
+  target: pt:dre:145233:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2011/12/16/p/dre
 - type: cites
-  target: pt:dre:145233:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:146536:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
 - type: cites
   target: pt:dre:276809:por
   label: null

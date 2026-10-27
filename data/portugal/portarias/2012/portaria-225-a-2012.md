@@ -95,10 +95,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-b-2013-483101
   date: '2013-02-13'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
-- type: cites
   target: pt:dre:321718:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/163/1999/05/13/p/dre
@@ -125,7 +121,7 @@ relationships:
 - type: cites
   target: pt:dre:553594:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
 - type: cites
   target: pt:dre:611345:por
   label: null

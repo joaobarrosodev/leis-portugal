@@ -87,10 +87,6 @@ subjects:
 - Vigilância Epidemiológica
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/47-b/2020/11/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/47-b/2020/11/24/p/dre
-- type: cites
   target: pt:dre:126467884:por
   label: null
   source: http://data.dre.pt/eli/declegreg/26/2019/11/22/a/dre
@@ -117,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:149595359:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/47-b/2020/11/24/p/dre
 - type: cites
   target: pt:dre:221696:por
   label: null

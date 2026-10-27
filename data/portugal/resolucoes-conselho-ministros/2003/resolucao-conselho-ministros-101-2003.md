@@ -104,17 +104,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/25290-2008-2478753
   date: '2008-10-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/58/2002/03/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/58/2002/03/14/p/dre
-- type: cites
   target: pt:dre:197496:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
 - type: cites
   target: pt:dre:249799:por
   label: null
@@ -122,7 +114,7 @@ relationships:
 - type: cites
   target: pt:dre:264942:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/58/2002/03/14/p/dre
 - type: cites
   target: pt:dre:274021:por
   label: null

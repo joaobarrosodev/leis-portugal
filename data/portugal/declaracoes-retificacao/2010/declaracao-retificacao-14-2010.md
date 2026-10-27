@@ -74,10 +74,6 @@ subjects:
 - Ministro das Obras Públicas Transportes e Comunicações
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/34/2010/05/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/34/2010/05/06/p/dre
-- type: cites
   target: pt:dre:191111:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/404/1998/12/18/p/dre
@@ -96,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:613910:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/34/2010/05/06/p/dre
 article_structure:
   article_count: 0
   section_count: 16

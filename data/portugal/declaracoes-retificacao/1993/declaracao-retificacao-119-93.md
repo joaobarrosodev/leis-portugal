@@ -72,13 +72,9 @@ subjects:
 - Rodoviária do Alentejo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/31/1993/04/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/31/1993/04/26/p/dre
-- type: cites
   target: pt:dre:336530:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/31/1993/04/26/p/dre
 - type: cites
   target: pt:dre:682991:por
   label: null

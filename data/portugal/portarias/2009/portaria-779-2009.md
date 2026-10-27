@@ -70,17 +70,9 @@ subjects:
 - Santa Maria da Feira
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/187/2007/12/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/187/2007/12/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/73/2000/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/73/2000/07/01/p/dre
-- type: cites
   target: pt:dre:301588:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/73/2000/07/01/p/dre
 - type: cites
   target: pt:dre:333172:por
   label: null
@@ -92,7 +84,7 @@ relationships:
 - type: cites
   target: pt:dre:627822:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/187/2007/12/21/p/dre
 article_structure:
   article_count: 2
   section_count: 0

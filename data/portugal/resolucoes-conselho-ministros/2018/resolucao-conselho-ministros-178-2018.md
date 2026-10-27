@@ -88,10 +88,6 @@ subjects:
 - Governo XXI
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:248178:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -103,6 +99,10 @@ relationships:
   target: pt:dre:542996:por
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:551977:por
   label: null

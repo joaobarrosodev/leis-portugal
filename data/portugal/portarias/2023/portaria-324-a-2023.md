@@ -80,14 +80,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/1624-2024-900673826
   date: '2024-12-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/203/2016/07/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/203/2016/07/25/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/227/2015/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/227/2015/08/03/p/dre
-- type: cites
   target: pt:dre:186521681:por
   label: null
   source: null
@@ -102,11 +94,11 @@ relationships:
 - type: cites
   target: pt:dre:69927763:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/227/2015/08/03/p/dre
 - type: cites
   target: pt:dre:75025066:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/203/2016/07/25/p/dre
 article_structure:
   article_count: 20
   section_count: 3

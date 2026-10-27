@@ -98,7 +98,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1994-575879
   date: '1994-12-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/75/1993/12/31/p/dre
+  target: pt:dre:151302:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/75/1993/12/31/p/dre
 - type: cites

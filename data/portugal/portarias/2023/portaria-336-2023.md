@@ -70,13 +70,9 @@ subjects:
 - Representação Permanente de Portugal Junto das Comunidades Europeias
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/331/2018/12/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/331/2018/12/21/p/dre
-- type: cites
   target: pt:dre:117471262:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/331/2018/12/21/p/dre
 - type: cites
   target: pt:dre:171362:por
   label: null

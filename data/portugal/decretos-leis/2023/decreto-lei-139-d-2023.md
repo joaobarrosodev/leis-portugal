@@ -103,21 +103,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2013/59/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/138/2019/05/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/138/2019/05/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/195/2015/06/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/195/2015/06/30/p/dre
-- type: cites
   target: pt:dre:117202785:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/108/2018/12/03/p/dre
 - type: cites
   target: pt:dre:122279883:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/138/2019/05/10/p/dre
 - type: cites
   target: pt:dre:155732595:por
   label: null
@@ -137,7 +129,7 @@ relationships:
 - type: cites
   target: pt:dre:67641478:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/195/2015/06/30/p/dre
 - type: repeals
   target: pt:numero:decreto-lei:227/2008
   label: Revoga, a partir de 1 de janeiro de 2024, com efeitos a 1 de julho de 2024, nos termos do n.º 1 do artigo 7.º e do

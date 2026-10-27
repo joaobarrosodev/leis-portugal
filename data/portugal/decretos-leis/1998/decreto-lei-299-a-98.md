@@ -76,25 +76,9 @@ subjects:
 - Sociedade Anónima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/191-a/1997/10/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/191-a/1997/10/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/198/1997/11/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/198/1997/11/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-- type: cites
   target: pt:dre:214559:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/191-a/1997/10/30/p/dre
 - type: cites
   target: pt:dre:332183:por
   label: null
@@ -102,7 +86,7 @@ relationships:
 - type: cites
   target: pt:dre:349924:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
 - type: cites
   target: pt:dre:374423:por
   label: null
@@ -110,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:469202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
 - type: cites
   target: pt:dre:659504:por
   label: null
@@ -118,7 +102,7 @@ relationships:
 - type: cites
   target: pt:dre:685660:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/198/1997/11/18/p/dre
 article_structure:
   article_count: 15
   section_count: 0

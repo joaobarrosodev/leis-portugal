@@ -73,13 +73,9 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2007/08/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2007/08/17/p/dre
-- type: cites
   target: pt:dre:636967:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2007/08/17/p/dre
 - type: corrects
   target: pt:numero:resolucao-conselho-ministros:107/2007
   label: "Rectifica a Resolução do Conselho de Ministros n.º 107/2007, de 17 de Agosto, DR.IS [158]\0\0"

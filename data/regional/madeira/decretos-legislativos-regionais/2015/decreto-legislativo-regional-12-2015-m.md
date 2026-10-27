@@ -90,10 +90,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2020-152639812
   date: '2020-12-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-- type: cites
   target: pt:dre:227271:por
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
@@ -144,7 +140,7 @@ relationships:
 - type: cites
   target: pt:dre:56303285:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
 - type: cites
   target: pt:dre:629666:por
   label: null

@@ -92,10 +92,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/25-1998-208999
   date: '1998-03-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-- type: cites
   target: pt:dre:231890:por
   label: null
   source: http://data.dre.pt/eli/despnorm/545/1994/07/29/p/dre
@@ -110,7 +106,7 @@ relationships:
 - type: cites
   target: pt:dre:291631:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
 article_structure:
   article_count: 12
   section_count: 0

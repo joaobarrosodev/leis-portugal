@@ -80,21 +80,13 @@ subjects:
 - Tecnologia da Informação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/96/1999/08/26/p/dre
+  target: pt:dre:428655:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/96/1999/08/26/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
-- type: cites
-  target: pt:dre:428655:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:428656:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
 - type: cites
   target: pt:dre:428857:por
   label: null

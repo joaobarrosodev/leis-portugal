@@ -83,10 +83,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/13/2022/01/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/13/2022/01/27/p/dre
-- type: cites
   target: pt:dre:117537589:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/124-a/2018/12/31/p/dre
@@ -105,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:178264010:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/13/2022/01/27/p/dre
 - type: cites
   target: pt:dre:629160:por
   label: null

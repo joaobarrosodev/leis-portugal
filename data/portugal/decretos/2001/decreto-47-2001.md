@@ -78,17 +78,13 @@ subjects:
 - Prorrogação de Prazo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/119/1996/05/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/119/1996/05/21/p/dre
-- type: cites
   target: pt:dre:429398:por
   label: null
   source: http://data.dre.pt/eli/dec/30/1995/08/17/p/dre
 - type: cites
   target: pt:dre:457020:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/119/1996/05/21/p/dre
 article_structure:
   article_count: 0
   section_count: 0

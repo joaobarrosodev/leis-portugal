@@ -74,13 +74,9 @@ subjects:
 - Taxa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/140-a/1998/12/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/140-a/1998/12/04/p/dre
-- type: cites
   target: pt:dre:171339:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/140-a/1998/12/04/p/dre
 - type: cites
   target: pt:dre:468978:por
   label: null

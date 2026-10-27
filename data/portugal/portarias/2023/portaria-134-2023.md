@@ -91,25 +91,17 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2019/934/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/71/2021/03/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/71/2021/03/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/82-a/2020/03/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/82-a/2020/03/30/p/dre
-- type: cites
   target: pt:dre:107677706:por
   label: null
   source: http://data.dre.pt/eli/port/207-a/2017/07/11/p/dre
 - type: cites
   target: pt:dre:130893396:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/82-a/2020/03/30/p/dre
 - type: cites
   target: pt:dre:160316761:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/71/2021/03/26/p/dre
 - type: cites
   target: pt:dre:183159328:por
   label: null

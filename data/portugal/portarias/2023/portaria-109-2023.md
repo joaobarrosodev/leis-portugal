@@ -100,11 +100,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/39-a-2024-839926119
   date: '2024-02-01'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/106/2022/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/106/2022/03/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/
+  target: pt:dre:107684448:por
   label: null
   source: http://data.dre.pt/eli/port/208/2017/07/13/
 - type: cites
@@ -127,6 +123,10 @@ relationships:
   target: pt:dre:179028:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/178/2012/08/03/p/dre
+- type: cites
+  target: pt:dre:179899186:por
+  label: null
+  source: http://data.dre.pt/eli/port/106/2022/03/03/p/dre
 - type: cites
   target: pt:dre:538423:por
   label: null

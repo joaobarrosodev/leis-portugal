@@ -101,14 +101,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-2024-836161877
   date: '2024-01-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/102/2007/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/102/2007/08/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre
-- type: cites
   target: pt:dre:124457181:por
   label: null
   source: http://data.dre.pt/eli/lei/99/2019/09/05/p/dre
@@ -132,6 +124,14 @@ relationships:
   target: pt:dre:559019:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:636444:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/102/2007/08/03/p/dre
+- type: cites
+  target: pt:dre:665513:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre
 - type: cites
   target: pt:dre:67212743:por
   label: null

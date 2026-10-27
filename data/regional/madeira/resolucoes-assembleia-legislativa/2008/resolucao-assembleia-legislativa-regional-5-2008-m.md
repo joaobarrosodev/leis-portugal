@@ -76,14 +76,6 @@ subjects:
 - Presidente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64/2006/05/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/64/2006/05/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/82/2005/04/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/82/2005/04/15/p/dre
-- type: cites
   target: pt:dre:176373:por
   label: null
   source: http://data.dre.pt/eli/resolassrep/2/2003/01/17/p/dre
@@ -114,7 +106,7 @@ relationships:
 - type: cites
   target: pt:dre:547044:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/82/2005/04/15/p/dre
 - type: cites
   target: pt:dre:618923:por
   label: null
@@ -130,7 +122,7 @@ relationships:
 - type: cites
   target: pt:dre:633527:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/64/2006/05/18/p/dre
 - type: cites
   target: pt:dre:644345:por
   label: null

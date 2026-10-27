@@ -306,7 +306,15 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/9f489b0d-09af-4e7a-86be-5fdf6c9e55e6
   date: '1976-02-05'
 - type: transposed_by
+  target: pt:dre:107090959:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:1102518728:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:115211110:por
   label: null
   source: null
 - type: transposed_by
@@ -343,6 +351,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:67142149:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:74590213:por
   label: null
   source: null
 - type: transposed_by

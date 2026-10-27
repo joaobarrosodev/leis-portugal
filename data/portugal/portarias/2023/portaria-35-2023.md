@@ -96,21 +96,17 @@ subjects:
 - Itália
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/280/2021/12/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/280/2021/12/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/290-a/2016/11/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/290-a/2016/11/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/405-a/2019/12/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/405-a/2019/12/19/p/dre
-- type: cites
   target: pt:dre:108113700:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/115/2017/09/07/p/dre
+- type: cites
+  target: pt:dre:127442478:por
+  label: null
+  source: http://data.dre.pt/eli/port/405-a/2019/12/19/p/dre
+- type: cites
+  target: pt:dre:175336201:por
+  label: null
+  source: http://data.dre.pt/eli/port/280/2021/12/03/p/dre
 - type: cites
   target: pt:dre:67356991:por
   label: null
@@ -127,6 +123,10 @@ relationships:
   target: pt:dre:75481291:por
   label: null
   source: http://data.dre.pt/eli/port/262/2016/10/07/p/dre
+- type: cites
+  target: pt:dre:75748124:por
+  label: null
+  source: http://data.dre.pt/eli/port/290-a/2016/11/15/p/dre
 article_structure:
   article_count: 8
   section_count: 0

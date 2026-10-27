@@ -153,13 +153,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763
   date: '2022-07-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/359/2019/10/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/359/2019/10/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/69/2019/0
+  target: pt:dre:120272926:por
   label: null
   source: http://data.dre.pt/eli/port/69/2019/0
+- type: cites
+  target: pt:dre:125085420:por
+  label: null
+  source: http://data.dre.pt/eli/port/359/2019/10/08/p/dre
 - type: cites
   target: pt:dre:153917314:por
   label: null

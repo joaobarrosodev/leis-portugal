@@ -74,21 +74,13 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/170/2004/11/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/170/2004/11/22/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/25/1994/04/29/p/dre
+  target: pt:dre:302533:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/1994/04/29/p/dre
 - type: cites
-  target: pt:dre:302533:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:534651:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/170/2004/11/22/p/dre
 - type: corrects
   target: pt:numero:resolucao-conselho-ministros:170/2004
   label: "Rectifica a Resolução do Conselho de Ministros n.º 170/2004, de 22 de Novembro, DR.IS-B [274] \0\0"

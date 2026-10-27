@@ -98,17 +98,13 @@ subjects:
 - Substituição de Funções
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64/2006/05/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/64/2006/05/18/p/dre
-- type: cites
   target: pt:dre:356348:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2006/06/29/p/dre
 - type: cites
   target: pt:dre:633527:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/64/2006/05/18/p/dre
 - type: corrects
   target: pt:numero:resolucao-conselho-ministros:64/2006
   label: "Rectifica a Resolução do Conselho de Ministros n.º 64/2006, de 18 de Maio, DR.IS-B [96]\0\0"

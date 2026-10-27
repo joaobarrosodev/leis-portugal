@@ -102,6 +102,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/20cd60f5-2091-42da-a710-b3b9856473da
   date: '1978-11-28'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 1

@@ -100,17 +100,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/33-2020-140821540
   date: '2020-08-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/249-a/2019/08/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/249-a/2019/08/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/305/2016/12/06/p/dre
+  target: pt:dre:105322292:por
   label: null
   source: http://data.dre.pt/eli/port/305/2016/12/06/p/dre
 - type: cites
   target: pt:dre:115924012:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/62/2018/08/06/p/dre
+- type: cites
+  target: pt:dre:123666172:por
+  label: null
+  source: http://data.dre.pt/eli/port/249-a/2019/08/05/p/dre
 - type: cites
   target: pt:dre:131016733:por
   label: null

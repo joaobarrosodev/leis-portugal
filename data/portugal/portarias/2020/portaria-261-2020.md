@@ -117,10 +117,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/155-2021-167839727
   date: '2021-07-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/246/2020/10/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/246/2020/10/19/p/dre
-- type: cites
   target: pt:dre:141259624:por
   label: null
   source: http://data.dre.pt/eli/port/206/2020/08/27/p/dre
@@ -132,6 +128,10 @@ relationships:
   target: pt:dre:141377979:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/2020/08/28/p/dre
+- type: cites
+  target: pt:dre:145714400:por
+  label: null
+  source: http://data.dre.pt/eli/port/246/2020/10/19/p/dre
 - type: cites
   target: pt:dre:179782:por
   label: null

@@ -89,7 +89,7 @@ subjects:
 - Fundo Ambiental
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
+  target: pt:dre:122777644:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites

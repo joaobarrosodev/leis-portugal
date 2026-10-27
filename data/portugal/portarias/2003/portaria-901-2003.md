@@ -85,13 +85,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-2007-519978
   date: '2007-04-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-- type: cites
   target: pt:dre:197496:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
 - type: cites
   target: pt:dre:338599:por
   label: null

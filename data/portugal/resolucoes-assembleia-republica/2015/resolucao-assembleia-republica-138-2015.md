@@ -80,7 +80,7 @@ subjects:
 - União Europeia
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+  target: pt:dre:259967:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
 article_structure:

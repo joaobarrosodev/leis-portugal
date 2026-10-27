@@ -78,13 +78,9 @@ subjects:
 - Transtejo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/83/2020/10/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/83/2020/10/09/p/dre
-- type: cites
   target: pt:dre:145012183:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/83/2020/10/09/p/dre
 - type: cites
   target: pt:dre:311259:por
   label: null

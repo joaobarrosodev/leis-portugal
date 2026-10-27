@@ -87,10 +87,6 @@ relationships:
   source: null
   date: '2012-05-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
-- type: cites
   target: pt:dre:106861729:por
   label: null
   source: http://data.dre.pt/eli/declegreg/2/2017/04/11/a/dre
@@ -117,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:179364:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
 - type: cites
   target: pt:dre:214781730:por
   label: null

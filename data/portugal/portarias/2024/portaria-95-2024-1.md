@@ -77,13 +77,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/100/2017/03/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/100/2017/03/07/p/dre
-- type: cites
   target: pt:dre:106566472:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/100/2017/03/07/p/dre
 - type: cites
   target: pt:dre:125692191:por
   label: null

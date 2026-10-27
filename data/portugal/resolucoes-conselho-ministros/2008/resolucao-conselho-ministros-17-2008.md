@@ -87,14 +87,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-2012-552539
   date: '2012-04-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/143/2004/10/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/143/2004/10/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/79/2005/03/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/79/2005/03/29/p/dre
-- type: cites
   target: pt:dre:223811:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
@@ -121,11 +113,11 @@ relationships:
 - type: cites
   target: pt:dre:565403:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/79/2005/03/29/p/dre
 - type: cites
   target: pt:dre:576720:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/143/2004/10/19/p/dre
 - type: cites
   target: pt:dre:645096:por
   label: null

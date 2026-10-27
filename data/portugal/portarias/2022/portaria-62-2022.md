@@ -116,10 +116,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/332-2023-223700467
   date: '2023-11-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/232/2016/08/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/232/2016/08/29/p/dre
-- type: cites
   target: pt:dre:105808927:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/14/2017/01/26/p/dre
@@ -139,6 +135,10 @@ relationships:
   target: pt:dre:66325237:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
+- type: cites
+  target: pt:dre:75216372:por
+  label: null
+  source: http://data.dre.pt/eli/port/232/2016/08/29/p/dre
 article_structure:
   article_count: 16
   section_count: 1

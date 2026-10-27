@@ -93,10 +93,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2013-257858
   date: '2013-02-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/18/2007/02/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/18/2007/02/20/p/dre
-- type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/12/2001/
   label: null
   source: http://data.dre.pt/eli/decregulreg/12/2001/
@@ -127,7 +123,7 @@ relationships:
 - type: cites
   target: pt:dre:517846:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/18/2007/02/20/p/dre
 - type: cites
   target: pt:dre:626204:por
   label: null

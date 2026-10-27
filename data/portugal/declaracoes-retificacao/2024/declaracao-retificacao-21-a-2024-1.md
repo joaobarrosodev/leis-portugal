@@ -80,7 +80,7 @@ subjects:
 - Venda
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/296/2019/09/09/p/dre
+  target: pt:dre:124539912:por
   label: null
   source: http://data.dre.pt/eli/port/296/2019/09/09/p/dre
 - type: cites

@@ -79,25 +79,13 @@ subjects:
 - Pagamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/222-a/2016/08/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/222-a/2016/08/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/309-d/2020/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/309-d/2020/12/31/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/397/2019/11/21/p/dre
+  target: pt:dre:126365739:por
   label: null
   source: http://data.dre.pt/eli/port/397/2019/11/21/p/dre
 - type: cites
-  target: pt:dre:126365739:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:152637762:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/309-d/2020/12/31/p/dre
 - type: cites
   target: pt:dre:175980:por
   label: null
@@ -113,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:75150233:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/222-a/2016/08/12/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -141,11 +141,11 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924
   date: '2024-04-01'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/156/2017/05/05/p/dre
+  target: pt:dre:106966937:por
   label: null
   source: http://data.dre.pt/eli/port/156/2017/05/05/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/230/2019/07/23/p/dre
+  target: pt:dre:123407856:por
   label: null
   source: http://data.dre.pt/eli/port/230/2019/07/23/p/dre
 - type: cites

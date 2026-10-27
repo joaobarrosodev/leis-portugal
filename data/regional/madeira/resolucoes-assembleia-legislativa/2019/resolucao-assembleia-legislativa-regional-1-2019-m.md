@@ -76,17 +76,9 @@ subjects:
 - Transporte Rodoviário
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/249-a/2018/09/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/249-a/2018/09/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/261/2017/09/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/261/2017/09/01/p/dre
-- type: cites
   target: pt:dre:108086610:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/261/2017/09/01/p/dre
 - type: cites
   target: pt:dre:114425586:por
   label: null
@@ -94,7 +86,7 @@ relationships:
 - type: cites
   target: pt:dre:116345870:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/249-a/2018/09/06/p/dre
 - type: cites
   target: pt:dre:139030:por
   label: null

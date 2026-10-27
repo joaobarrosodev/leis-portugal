@@ -97,10 +97,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/7079-2017-108000335
   date: '2017-08-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/13/2004/02/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/13/2004/02/18/p/dre
-- type: cites
   target: pt:dre:223811:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
@@ -123,7 +119,7 @@ relationships:
 - type: cites
   target: pt:dre:570503:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/13/2004/02/18/p/dre
 - type: cites
   target: pt:dre:645096:por
   label: null

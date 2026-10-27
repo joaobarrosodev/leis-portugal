@@ -72,17 +72,13 @@ subjects:
 - Sistema de Apoio ao Emprego e Empreendedorismo-+ CO3SO Emprego
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/128/2020/05/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/128/2020/05/26/p/dre
-- type: cites
   target: pt:dre:129643758:por
   label: null
   source: http://data.dre.pt/eli/port/52/2020/02/28/p/dre
 - type: cites
   target: pt:dre:134505608:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/128/2020/05/26/p/dre
 - type: cites
   target: pt:dre:183159328:por
   label: null

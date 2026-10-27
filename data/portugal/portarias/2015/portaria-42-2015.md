@@ -109,10 +109,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2009/1069/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/31/2013/07/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/31/2013/07/24/p/dre
-- type: cites
   target: pt:dre:396926:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
@@ -140,6 +136,10 @@ relationships:
   target: pt:dre:496729:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2013/06/14/p/dre
+- type: cites
+  target: pt:dre:498766:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/31/2013/07/24/p/dre
 - type: cites
   target: pt:dre:58752835:por
   label: null

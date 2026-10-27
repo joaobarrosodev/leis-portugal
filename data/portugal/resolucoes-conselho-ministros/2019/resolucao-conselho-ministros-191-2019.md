@@ -89,10 +89,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2022-204953814
   date: '2022-12-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
-- type: cites
   target: pt:dre:105639086:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/84-a/2016/12/28/p/dre
@@ -100,6 +96,10 @@ relationships:
   target: pt:dre:603475:por
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:626231:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
 article_structure:
   article_count: 0
   section_count: 0

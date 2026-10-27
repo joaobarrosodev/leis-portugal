@@ -72,14 +72,6 @@ subjects:
 - Reserva Ecológica Nacional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/143/2004/10/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/143/2004/10/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/79/2005/03/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/79/2005/03/29/p/dre
-- type: cites
   target: pt:dre:248224:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/17/2008/02/01/p/dre
@@ -102,11 +94,11 @@ relationships:
 - type: cites
   target: pt:dre:565403:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/79/2005/03/29/p/dre
 - type: cites
   target: pt:dre:576720:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/143/2004/10/19/p/dre
 article_structure:
   article_count: 3
   section_count: 0

@@ -117,7 +117,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932
   date: '2023-12-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/229/2018/08/14/p/dre
+  target: pt:dre:116043539:por
   label: null
   source: http://data.dre.pt/eli/port/229/2018/08/14/p/dre
 - type: cites

@@ -197,17 +197,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165
   date: '2026-05-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2018/03/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2018/03/01/p/dre
-- type: cites
   target: pt:dre:108010874:por
   label: null
   source: http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+- type: cites
+  target: pt:dre:114782541:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2018/03/01/p/dre
 - type: cites
   target: pt:dre:118051701:por
   label: null

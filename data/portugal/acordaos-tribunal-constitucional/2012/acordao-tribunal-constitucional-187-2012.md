@@ -74,10 +74,6 @@ subjects:
 - Regime Jurídico
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
-- type: cites
   target: pt:dre:279445:por
   label: null
   source: http://data.dre.pt/eli/declegreg/6/2011/03/10/a/dre
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:520648:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
 - type: cites
   target: pt:dre:629419:por
   label: null

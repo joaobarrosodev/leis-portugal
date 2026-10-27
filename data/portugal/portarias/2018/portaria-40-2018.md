@@ -110,13 +110,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757
   date: '2021-02-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/31/2017/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/31/2017/01/18/p/dre
-- type: cites
   target: pt:dre:105637672:por
   label: null
   source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: pt:dre:105770334:por
+  label: null
+  source: http://data.dre.pt/eli/port/31/2017/01/18/p/dre
 - type: cites
   target: pt:dre:114425586:por
   label: null

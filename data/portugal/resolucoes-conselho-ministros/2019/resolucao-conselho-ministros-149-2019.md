@@ -86,21 +86,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/61-2020-140087208
   date: '2020-08-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/106/2018/08/30/p/dre
+  target: pt:dre:116237019:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/106/2018/08/30/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2019/01/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/2019/01/09/p/dre
-- type: cites
-  target: pt:dre:116237019:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:117658786:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2019/01/09/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

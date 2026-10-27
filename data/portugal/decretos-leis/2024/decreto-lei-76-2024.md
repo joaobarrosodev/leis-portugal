@@ -89,10 +89,6 @@ subjects:
 - Alojamento local
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/262/2020/11/06/p/dr
-  label: null
-  source: http://data.dre.pt/eli/port/262/2020/11/06/p/dr
-- type: cites
   target: pt:dre:116152179:por
   label: null
   source: http://data.dre.pt/eli/lei/62/2018/08/22/p/dre
@@ -100,6 +96,10 @@ relationships:
   target: pt:dre:117537583:por
   label: null
   source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:147814581:por
+  label: null
+  source: http://data.dre.pt/eli/port/262/2020/11/06/p/dr
 - type: cites
   target: pt:dre:155732595:por
   label: null

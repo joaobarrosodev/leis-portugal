@@ -73,33 +73,17 @@ subjects:
 - Privatização
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/142/1996/08/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/142/1996/08/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/163-a/1996/10/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/163-a/1996/10/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/31/1994/05/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/31/1994/05/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-- type: cites
   target: pt:dre:218362:por
   label: null
   source: null
 - type: cites
   target: pt:dre:241382:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/142/1996/08/30/p/dre
 - type: cites
   target: pt:dre:263884:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/31/1994/05/13/p/dre
 - type: cites
   target: pt:dre:301591:por
   label: null
@@ -111,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:391472:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/163-a/1996/10/04/p/dre
 - type: cites
   target: pt:dre:444686:por
   label: null
@@ -119,7 +103,7 @@ relationships:
 - type: cites
   target: pt:dre:469202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
 - type: cites
   target: pt:dre:474475:por
   label: null

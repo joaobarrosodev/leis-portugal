@@ -119,13 +119,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/189-2023-215097643
   date: '2023-07-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/171/2020/07/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/171/2020/07/14/p/dre
-- type: cites
   target: pt:dre:107669157:por
   label: null
   source: http://data.dre.pt/eli/port/207/2017/07/11/p/dre
+- type: cites
+  target: pt:dre:137808121:por
+  label: null
+  source: http://data.dre.pt/eli/port/171/2020/07/14/p/dre
 - type: cites
   target: pt:dre:571943:por
   label: null

@@ -81,10 +81,6 @@ subjects:
 - Secretário Regional da Agricultura e Pescas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/52/2015/02/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/52/2015/02/26/p/dre
-- type: cites
   target: pt:dre:215483:por
   label: null
   source: http://data.dre.pt/eli/port/254/2003/03/19/p/dre
@@ -119,7 +115,7 @@ relationships:
 - type: cites
   target: pt:dre:66603017:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/52/2015/02/26/p/dre
 article_structure:
   article_count: 22
   section_count: 7

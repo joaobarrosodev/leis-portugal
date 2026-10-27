@@ -88,17 +88,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/15/2013/03/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/15/2013/03/19/p/dre
-- type: cites
   target: pt:dre:191865:por
   label: null
   source: http://data.dre.pt/eli/lei/56/2012/11/08/p/dre
 - type: cites
   target: pt:dre:259773:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/15/2013/03/19/p/dre
 - type: cites
   target: pt:dre:454796:por
   label: null

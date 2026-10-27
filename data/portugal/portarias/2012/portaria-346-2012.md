@@ -71,10 +71,6 @@ subjects:
 - ZONA Balnear
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/141/2005/08/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/141/2005/08/23/p/dre
-- type: cites
   target: pt:dre:140558:por
   label: null
   source: http://data.dre.pt/eli/port/260-c/2011/08/12/p/dre
@@ -85,7 +81,7 @@ relationships:
 - type: cites
   target: pt:dre:246128:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/141/2005/08/23/p/dre
 - type: cites
   target: pt:dre:384183:por
   label: null

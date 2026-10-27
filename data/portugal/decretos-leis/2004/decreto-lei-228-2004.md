@@ -124,10 +124,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
   date: '2005-04-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/169/2001/12/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/169/2001/12/19/p/dre
-- type: cites
   target: pt:dre:138777:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
@@ -138,7 +134,7 @@ relationships:
 - type: cites
   target: pt:dre:539007:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/169/2001/12/19/p/dre
 - type: cites
   target: pt:dre:603475:por
   label: null

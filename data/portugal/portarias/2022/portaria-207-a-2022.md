@@ -88,13 +88,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/24-2022-201616328
   date: '2022-09-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/213/2017/07/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/213/2017/07/19/p/dre
-- type: cites
   target: pt:dre:105726273:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/7/2017/01/09/p/dre
+- type: cites
+  target: pt:dre:107709511:por
+  label: null
+  source: http://data.dre.pt/eli/port/213/2017/07/19/p/dre
 - type: cites
   target: pt:dre:183159328:por
   label: null

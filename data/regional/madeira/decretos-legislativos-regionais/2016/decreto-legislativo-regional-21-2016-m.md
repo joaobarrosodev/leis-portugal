@@ -140,10 +140,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451
   date: '2025-12-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-- type: cites
   target: pt:dre:174815:por
   label: null
   source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
@@ -155,6 +151,10 @@ relationships:
   target: pt:dre:434224:por
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/0
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
 - type: cites
   target: pt:dre:588851:por
   label: null

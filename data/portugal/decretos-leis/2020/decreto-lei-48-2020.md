@@ -83,25 +83,17 @@ subjects:
 - Tributação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/31/2019/01/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/31/2019/01/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/32/2019/01/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/32/2019/01/24/p/dre
-- type: cites
   target: pt:dre:116826872:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/87/2018/10/31/p/dre
 - type: cites
   target: pt:dre:118406929:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/31/2019/01/24/p/dre
 - type: cites
   target: pt:dre:118406930:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/32/2019/01/24/p/dre
 - type: cites
   target: pt:dre:118562585:por
   label: null

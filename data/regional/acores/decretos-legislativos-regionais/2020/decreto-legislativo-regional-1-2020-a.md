@@ -238,10 +238,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2020-140210524
   date: '2020-08-13'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
-- type: cites
   target: pt:dre:106861729:por
   label: null
   source: http://data.dre.pt/eli/declegreg/2/2017/04/11/a/dre
@@ -249,6 +245,10 @@ relationships:
   target: pt:dre:177813:por
   label: null
   source: http://data.dre.pt/eli/declegreg/22/2012/05/30/a/dre
+- type: cites
+  target: pt:dre:179364:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
 - type: cites
   target: pt:dre:230110:por
   label: null

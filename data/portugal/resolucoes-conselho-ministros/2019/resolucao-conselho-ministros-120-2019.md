@@ -93,10 +93,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/95-2020-147814580
   date: '2020-11-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/42/2011/10/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/42/2011/10/24/p/dre
-- type: cites
   target: pt:dre:107761908:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/109/2017
@@ -119,7 +115,7 @@ relationships:
 - type: cites
   target: pt:dre:146933:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/42/2011/10/24/p/dre
 - type: cites
   target: pt:dre:179540:por
   label: null

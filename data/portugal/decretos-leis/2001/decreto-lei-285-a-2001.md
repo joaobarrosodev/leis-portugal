@@ -82,10 +82,6 @@ subjects:
 - Sociedade Anónima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/100/2000/08/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/100/2000/08/04/p/dre
-- type: cites
   target: pt:dre:300221:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/91/2000/05/19/p/dre
@@ -96,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:314655:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/100/2000/08/04/p/dre
 - type: cites
   target: pt:dre:332183:por
   label: null

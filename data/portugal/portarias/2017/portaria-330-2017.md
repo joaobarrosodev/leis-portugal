@@ -103,10 +103,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/71-2018-114832292
   date: '2018-03-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/147/2017/04/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/147/2017/04/27/p/dre
-- type: cites
   target: pt:dre:106434234:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2017/02/10/p/dre
@@ -114,6 +110,10 @@ relationships:
   target: pt:dre:106901297:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/2017/04/20/p/dre
+- type: cites
+  target: pt:dre:106938486:por
+  label: null
+  source: http://data.dre.pt/eli/port/147/2017/04/27/p/dre
 - type: cites
   target: pt:dre:107669157:por
   label: null

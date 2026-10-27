@@ -115,17 +115,13 @@ subjects:
 - Tratado sobre Estabilidade Coordenação e Governação na União Económica e Monetaria
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/18/2020/03/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/18/2020/03/27/p/dre
-- type: cites
   target: pt:dre:116068877:por
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
 - type: cites
   target: pt:dre:130776793:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2020/03/27/p/dre
 - type: cites
   target: pt:dre:132133788:por
   label: null

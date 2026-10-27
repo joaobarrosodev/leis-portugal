@@ -98,10 +98,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/651/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/45/2014/10/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/45/2014/10/13/p/dre
-- type: cites
   target: pt:dre:114528125:por
   label: null
   source: http://data.dre.pt/eli/decregulreg/2/2018/01/16/a/dre
@@ -116,7 +112,7 @@ relationships:
 - type: cites
   target: pt:dre:58273534:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/45/2014/10/13/p/dre
 - type: cites
   target: pt:dre:629150:por
   label: null

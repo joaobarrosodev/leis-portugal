@@ -115,18 +115,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2014/94/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/220/2016/08/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/220/2016/08/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/221/2016/08/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/221/2016/08/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/241/2015
-  label: null
-  source: http://data.dre.pt/eli/port/241/2015
-- type: cites
   target: pt:dre:179069:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/170/2012/08/01/p/dre
@@ -161,15 +149,15 @@ relationships:
 - type: cites
   target: pt:dre:69992909:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/241/2015
 - type: cites
   target: pt:dre:75126728:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/220/2016/08/10/p/dre
 - type: cites
   target: pt:dre:75126729:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/221/2016/08/10/p/dre
 - type: cites
   target: pt:dre:75132644:por
   label: null

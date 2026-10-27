@@ -91,13 +91,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/164-2008-438691
   date: '2008-10-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/56/1993/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/56/1993/08/19/p/dre
-- type: cites
   target: pt:dre:324344:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/56/1993/08/19/p/dre
 article_structure:
   article_count: 0
   section_count: 0

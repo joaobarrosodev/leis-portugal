@@ -82,21 +82,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13372-2015-71021087
   date: '2015-11-16'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/30-a/2002/02/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/30-a/2002/02/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/66/1994/08/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/66/1994/08/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88/2005/05/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/88/2005/05/10/p/dre
-- type: cites
   target: pt:dre:222618:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/66/1994/08/11/p/dre
 - type: cites
   target: pt:dre:250596:por
   label: null
@@ -112,7 +100,7 @@ relationships:
 - type: cites
   target: pt:dre:507466:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/30-a/2002/02/11/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null
@@ -124,7 +112,7 @@ relationships:
 - type: cites
   target: pt:dre:693873:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/88/2005/05/10/p/dre
 article_structure:
   article_count: 0
   section_count: 0

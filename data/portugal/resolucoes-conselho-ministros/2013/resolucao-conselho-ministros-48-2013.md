@@ -99,10 +99,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/93-2019-122498963
   date: '2019-06-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
   target: pt:dre:191077:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2012/11/21/p/dre
@@ -125,7 +121,7 @@ relationships:
 - type: cites
   target: pt:dre:543034:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:544415:por
   label: null

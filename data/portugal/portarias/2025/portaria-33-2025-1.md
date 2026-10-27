@@ -73,10 +73,6 @@ subjects:
 - Zona de Proteção
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/238/2015/08/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/238/2015/08/12/p/dre
-- type: cites
   target: pt:dre:333159:por
   label: null
   source: null
@@ -87,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:69992906:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/238/2015/08/12/p/dre
 - type: cites
   target: pt:dre:877330532:por
   label: null

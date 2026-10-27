@@ -88,14 +88,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/11-1996-624846
   date: '1996-01-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33-a/1994/05/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33-a/1994/05/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/8/1991/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/8/1991/03/16/p/dre
-- type: cites
   target: pt:dre:168454:por
   label: null
   source: http://data.dre.pt/eli/port/1324/1993/12/31/p/dre
@@ -130,11 +122,11 @@ relationships:
 - type: cites
   target: pt:dre:426906:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33-a/1994/05/17/p/dre
 - type: cites
   target: pt:dre:476086:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/8/1991/03/16/p/dre
 - type: cites
   target: pt:dre:541979:por
   label: null

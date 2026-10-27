@@ -76,21 +76,13 @@ subjects:
 - Termalismo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/102-b/2021/05/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/102-b/2021/05/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/95-a/2019/03/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/95-a/2019/03/29/p/dre
-- type: cites
   target: pt:dre:117537590:por
   label: null
   source: http://data.dre.pt/eli/port/337-c/2018/12/31/p/dre
 - type: cites
   target: pt:dre:121785043:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/95-a/2019/03/29/p/dre
 - type: cites
   target: pt:dre:130893436:por
   label: null
@@ -102,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:163393881:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/102-b/2021/05/14/p/dre
 - type: cites
   target: pt:dre:185224662:por
   label: null

@@ -152,10 +152,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2020/560/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-- type: cites
   target: pt:dre:105711870:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10/2017/01/10/p/dre
@@ -175,6 +171,10 @@ relationships:
   target: pt:dre:130473161:por
   label: null
   source: http://data.dre.pt/eli/dec/2-a/2020/03/20/p/dre
+- type: cites
+  target: pt:dre:132883344:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
 - type: cites
   target: pt:dre:217326:por
   label: null

@@ -72,17 +72,9 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/384/2015/10/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/384/2015/10/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/76/2021/06/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/76/2021/06/16/p/dre
-- type: cites
   target: pt:dre:165228578:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/76/2021/06/16/p/dre
 - type: cites
   target: pt:dre:178510:por
   label: null
@@ -106,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:70804092:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/384/2015/10/26/p/dre
 - type: repeals
   target: pt:numero:portaria:384/2015
   label: Revoga, a partir de 01 de janeiro de 2024, nos termos do artigo 3.º do presente diploma, a Portaria n.º 384/2015,

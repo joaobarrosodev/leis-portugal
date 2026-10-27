@@ -81,17 +81,13 @@ relationships:
   source: null
   date: '2020-10-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/308-c/2020/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/308-c/2020/12/30/p/dre
-- type: cites
   target: pt:dre:145440392:por
   label: null
   source: http://data.dre.pt/eli/port/244/2020/10/15/p/dre
 - type: cites
   target: pt:dre:152637722:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/308-c/2020/12/30/p/dre
 - type: cites
   target: pt:dre:177634016:por
   label: null

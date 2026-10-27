@@ -88,10 +88,6 @@ subjects:
 - Viana do Castelo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/1999/04/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/1999/04/07/p/dre
-- type: cites
   target: pt:dre:199474:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/184/1996/11/26/p/dre
@@ -115,6 +111,10 @@ relationships:
   target: pt:dre:438067:por
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:549056:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/1999/04/07/p/dre
 - type: cites
   target: pt:dre:616449:por
   label: null

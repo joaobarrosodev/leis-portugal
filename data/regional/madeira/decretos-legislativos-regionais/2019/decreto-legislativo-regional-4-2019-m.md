@@ -104,10 +104,6 @@ subjects:
 - Vistoria
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/252/2015/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/252/2015/08/19/p/dre
-- type: cites
   target: pt:dre:107987277:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/96/2017/08/10/p/dre
@@ -162,7 +158,7 @@ relationships:
 - type: cites
   target: pt:dre:70055493:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/252/2015/08/19/p/dre
 article_structure:
   article_count: 35
   section_count: 13

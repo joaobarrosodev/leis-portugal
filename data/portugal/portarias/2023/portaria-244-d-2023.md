@@ -87,13 +87,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/2115/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/301/2020/12/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
-- type: cites
   target: pt:dre:152197939:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
 - type: cites
   target: pt:dre:207760041:por
   label: null

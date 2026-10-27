@@ -85,10 +85,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/34-2004-505644
   date: '2004-06-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
-- type: cites
   target: pt:dre:235927:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/305/1998/10/07/p/dre
@@ -103,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:423657:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
 - type: cites
   target: pt:dre:441099:por
   label: null

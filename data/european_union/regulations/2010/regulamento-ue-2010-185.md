@@ -173,6 +173,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1
   date: '2008-04-08'
+- type: cited_by
+  target: pt:dre:67072251:por
+  label: null
+  source: null
 - type: cites
   target: celex:32001D0844
   label: null

@@ -94,10 +94,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/359/2019/10/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/359/2019/10/08/p/dre
-- type: cites
   target: pt:dre:115652961:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/54/2018/07/06/p/dre
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:125085420:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/359/2019/10/08/p/dre
 - type: cites
   target: pt:dre:168903099:por
   label: null

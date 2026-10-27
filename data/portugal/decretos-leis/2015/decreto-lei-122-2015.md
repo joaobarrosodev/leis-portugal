@@ -81,17 +81,9 @@ subjects:
 - Promoção de Emprego
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/136/1997/08/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/136/1997/08/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/2000/02/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/4/2000/02/01/p/dre
-- type: cites
   target: pt:dre:209057:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/136/1997/08/14/p/dre
 - type: cites
   target: pt:dre:25343692:por
   label: null
@@ -115,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:405921:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/4/2000/02/01/p/dre
 - type: cites
   target: pt:dre:481477:por
   label: null

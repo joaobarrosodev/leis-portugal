@@ -82,25 +82,9 @@ subjects:
 - Taxa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/111-a/2018/04/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/111-a/2018/04/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/226/2019/07/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/226/2019/07/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/48/2019/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/48/2019/02/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/76-a/2020/03/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/76-a/2020/03/18/p/dre
-- type: cites
   target: pt:dre:115194818:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/111-a/2018/04/27/p/dre
 - type: cites
   target: pt:dre:116895169:por
   label: null
@@ -108,11 +92,11 @@ relationships:
 - type: cites
   target: pt:dre:119236552:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/48/2019/02/07/p/dre
 - type: cites
   target: pt:dre:123328901:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/226/2019/07/19/p/dre
 - type: cites
   target: pt:dre:124283151:por
   label: null
@@ -120,7 +104,7 @@ relationships:
 - type: cites
   target: pt:dre:130366458:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/76-a/2020/03/18/p/dre
 - type: cites
   target: pt:dre:130779511:por
   label: null

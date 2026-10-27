@@ -95,13 +95,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/11-2004-570534
   date: '2004-01-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-- type: cites
   target: pt:dre:197496:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
 - type: cites
   target: pt:dre:569880:por
   label: null

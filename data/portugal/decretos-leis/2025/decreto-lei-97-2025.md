@@ -104,10 +104,6 @@ relationships:
   source: null
   date: '2024-10-23'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/124/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/124/2021/12/30/p/dre
-- type: cites
   target: pt:dre:106380302:por
   label: null
   source: null
@@ -130,7 +126,7 @@ relationships:
 - type: cites
   target: pt:dre:176800373:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/124/2021/12/30/p/dre
 - type: cites
   target: pt:dre:205493468:por
   label: null

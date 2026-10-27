@@ -149,10 +149,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917
   date: '2024-02-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-- type: cites
   target: pt:dre:175305:por
   label: null
   source: http://data.dre.pt/eli/lei/31/2012/08/14/p/dre
@@ -160,6 +156,10 @@ relationships:
   target: pt:dre:288868:por
   label: null
   source: http://data.dre.pt/eli/port/419-a/2009/04/17/p/dre
+- type: cites
+  target: pt:dre:406279:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
 - type: cites
   target: pt:dre:588827:por
   label: null

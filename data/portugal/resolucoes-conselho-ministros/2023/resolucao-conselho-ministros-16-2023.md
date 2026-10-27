@@ -87,17 +87,9 @@ subjects:
 - Proteção do Ambiente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/2/2022/01/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/2/2022/01/07/p/dre
-- type: cites
   target: pt:dre:114109966:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites
   target: pt:dre:136476384:por
   label: null
@@ -109,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:177309294:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/2/2022/01/07/p/dre
 article_structure:
   article_count: 0
   section_count: 0

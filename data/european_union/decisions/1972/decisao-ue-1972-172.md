@@ -67,6 +67,10 @@ reuse:
     de documentação).
 subjects: []
 relationships:
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: repealed_by
   target: celex:31985D0013
   label: null

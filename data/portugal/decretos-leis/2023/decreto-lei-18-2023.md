@@ -88,13 +88,9 @@ subjects:
 - Segurança Social
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/230/2021/10/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/230/2021/10/29/p/dre
-- type: cites
   target: pt:dre:173593617:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/230/2021/10/29/p/dre
 - type: cites
   target: pt:dre:177309290:por
   label: null

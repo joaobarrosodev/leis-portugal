@@ -88,18 +88,6 @@ subjects:
 - Unidade de Saúde Familiar
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/140/2021/07/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/140/2021/07/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/311/2021/12/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/311/2021/12/20/p/dre
-- type: cites
   target: pt:dre:114425586:por
   label: null
   source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
@@ -110,15 +98,15 @@ relationships:
 - type: cites
   target: pt:dre:166658186:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/140/2021/07/08/p/dre
 - type: cites
   target: pt:dre:175923961:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
 - type: cites
   target: pt:dre:176147941:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/311/2021/12/20/p/dre
 - type: cites
   target: pt:dre:187049881:por
   label: null

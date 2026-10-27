@@ -116,10 +116,6 @@ subjects:
 - Plano de Recuperação e Resiliência
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/109-c/2021/12/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/109-c/2021/12/09/p/dre
-- type: cites
   target: pt:dre:115369070:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/36/2018/05/22/p/dre
@@ -135,6 +131,10 @@ relationships:
   target: pt:dre:144454579:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2020/10/02/p/dre
+- type: cites
+  target: pt:dre:175659838:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/109-c/2021/12/09/p/dre
 - type: cites
   target: pt:dre:205557210:por
   label: null

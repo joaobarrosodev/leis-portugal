@@ -74,7 +74,7 @@ subjects:
 - TicAPP
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/22/2018/03/07/p/dre
+  target: pt:dre:114825660:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/22/2018/03/07/p/dre
 - type: cites

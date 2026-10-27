@@ -98,13 +98,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/96-2022-179122074
   date: '2022-02-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/157/2017/05/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/157/2017/05/10/p/dre
-- type: cites
   target: pt:dre:106955049:por
   label: null
   source: http://data.dre.pt/eli/lei/12/2017/05/02/p/dre
+- type: cites
+  target: pt:dre:106982549:por
+  label: null
+  source: http://data.dre.pt/eli/port/157/2017/05/10/p/dre
 - type: cites
   target: pt:dre:120837266:por
   label: null

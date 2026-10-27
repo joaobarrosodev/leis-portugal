@@ -80,13 +80,9 @@ subjects:
 - Região Agrária
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/63/1995/07/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/63/1995/07/03/p/dre
-- type: cites
   target: pt:dre:474722:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/63/1995/07/03/p/dre
 article_structure:
   article_count: 0
   section_count: 0

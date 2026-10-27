@@ -97,10 +97,6 @@ subjects:
 - Trabalhador Independente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/94-a/2020/04/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/94-a/2020/04/16/p/dre
-- type: cites
   target: pt:dre:122541299:por
   label: null
   source: http://data.dre.pt/eli/port/181/2019/06/11/p/dre
@@ -111,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:131593874:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/94-a/2020/04/16/p/dre
 - type: cites
   target: pt:dre:140013516:por
   label: null

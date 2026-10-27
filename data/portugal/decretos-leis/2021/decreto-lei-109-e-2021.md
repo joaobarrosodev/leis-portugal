@@ -186,10 +186,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2019/1937/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/37/2021/04/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/37/2021/04/06/p/dre
-- type: cites
   target: pt:dre:114425586:por
   label: null
   source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
@@ -197,6 +193,10 @@ relationships:
   target: pt:dre:146915:por
   label: null
   source: http://data.dre.pt/eli/lei/54/2011/10/19/p/dre
+- type: cites
+  target: pt:dre:160893669:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/37/2021/04/06/p/dre
 - type: cites
   target: pt:dre:453985:por
   label: null

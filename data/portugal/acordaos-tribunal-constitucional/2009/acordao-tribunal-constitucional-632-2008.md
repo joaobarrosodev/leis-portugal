@@ -74,25 +74,13 @@ subjects:
 - Período Experimental
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/372/1991/11/07/p/dre
+  target: pt:dre:331592:por
   label: null
   source: http://data.dre.pt/eli/ac/372/1991/11/07/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/581/1996/01/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/581/1996/01/22/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/64/1991/04/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/64/1991/04/11/p/dre
-- type: cites
-  target: pt:dre:331592:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:414071:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/64/1991/04/11/p/dre
 - type: cites
   target: pt:dre:418059:por
   label: null
@@ -104,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:590337:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/581/1996/01/22/p/dre
 - type: cites
   target: pt:dre:621302:por
   label: null

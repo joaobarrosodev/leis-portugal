@@ -91,17 +91,17 @@ subjects:
 - Tributação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208-a/2021/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/208-a/2021/10/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/63-a/2022/01/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/63-a/2022/01/31/p/dre
-- type: cites
   target: pt:dre:117114258:por
   label: null
   source: http://data.dre.pt/eli/port/301-a/2018/11/23/p/dre
+- type: cites
+  target: pt:dre:172938308:por
+  label: null
+  source: http://data.dre.pt/eli/port/208-a/2021/10/15/p/dre
+- type: cites
+  target: pt:dre:178478629:por
+  label: null
+  source: http://data.dre.pt/eli/port/63-a/2022/01/31/p/dre
 - type: cites
   target: pt:dre:335474:por
   label: null

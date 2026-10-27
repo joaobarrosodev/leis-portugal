@@ -97,10 +97,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2012/520/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/285/2015/09/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/285/2015/09/15/p/dre
-- type: cites
   target: pt:dre:184306970:por
   label: null
   source: null
@@ -171,7 +167,7 @@ relationships:
 - type: cites
   target: pt:dre:70297426:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/285/2015/09/15/p/dre
 article_structure:
   article_count: 26
   section_count: 5

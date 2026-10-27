@@ -128,13 +128,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/86-2025-909816063
   date: '2025-03-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/47/2017/02/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/47/2017/02/01/p/dre
-- type: cites
   target: pt:dre:105808927:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/14/2017/01/26/p/dre
+- type: cites
+  target: pt:dre:106380301:por
+  label: null
+  source: http://data.dre.pt/eli/port/47/2017/02/01/p/dre
 - type: cites
   target: pt:dre:115652961:por
   label: null

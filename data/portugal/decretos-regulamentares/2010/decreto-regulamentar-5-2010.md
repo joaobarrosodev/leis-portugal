@@ -79,10 +79,6 @@ subjects:
 - Subdiretor
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/44/2010/06/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/44/2010/06/14/p/dre
-- type: cites
   target: pt:dre:249866:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/2008/04/22/p/dre
@@ -93,7 +89,7 @@ relationships:
 - type: cites
   target: pt:dre:335419:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/44/2010/06/14/p/dre
 - type: cites
   target: pt:dre:676050:por
   label: null

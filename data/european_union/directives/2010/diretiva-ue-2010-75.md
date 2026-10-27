@@ -450,11 +450,19 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:176726830:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:207272800:por
   label: null
   source: null
 - type: transposed_by
   target: pt:dre:66016526:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:70508973:por
   label: null
   source: null
 - type: transposed_by

@@ -82,17 +82,13 @@ subjects:
 - Unidade de Gestão
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2014/02/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2014/02/12/p/dre
-- type: cites
   target: pt:dre:56747378:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
 - type: cites
   target: pt:dre:572585:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2014/02/12/p/dre
 article_structure:
   article_count: 15
   section_count: 5

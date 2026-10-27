@@ -137,6 +137,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/895bbdec-ebd6-4c27-89db-35f141ff10d0
   date: '2010-03-08'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

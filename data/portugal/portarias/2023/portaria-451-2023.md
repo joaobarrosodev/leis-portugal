@@ -105,7 +105,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/264-2025-924008453
   date: '2025-07-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/294/2018/10/31/p/dre
+  target: pt:dre:116844478:por
   label: null
   source: http://data.dre.pt/eli/port/294/2018/10/31/p/dre
 - type: cites

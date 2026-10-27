@@ -84,10 +84,6 @@ relationships:
   source: null
   date: '2021-09-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/53-a/2022/01/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/53-a/2022/01/24/p/dre
-- type: cites
   target: pt:dre:162756795:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/29-b/2021/05/04/p/dre
@@ -98,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:178050263:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/53-a/2022/01/24/p/dre
 article_structure:
   article_count: 3
   section_count: 0

@@ -176,10 +176,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2017/40/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/375/2015/10/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/375/2015/10/20/p/dre
-- type: cites
   target: pt:dre:276814:por
   label: null
   source: http://data.dre.pt/eli/port/161/2011/04/18/p/dre
@@ -191,6 +187,10 @@ relationships:
   target: pt:dre:670010:por
   label: null
   source: http://data.dre.pt/eli/port/233/2011/06/15/p/dre
+- type: cites
+  target: pt:dre:70748600:por
+  label: null
+  source: http://data.dre.pt/eli/port/375/2015/10/20/p/dre
 article_structure:
   article_count: 25
   section_count: 9

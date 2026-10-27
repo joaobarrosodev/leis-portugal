@@ -81,21 +81,13 @@ subjects:
 - Protecção à Juventude
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/227/2015/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/227/2015/08/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
+  target: pt:dre:239016:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
 - type: cites
-  target: pt:dre:239016:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:69927763:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/227/2015/08/03/p/dre
 - type: cites
   target: pt:dre:72963280:por
   label: null

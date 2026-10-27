@@ -80,10 +80,6 @@ subjects:
 - Turismo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/21/2014/03/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/21/2014/03/31/p/dre
-- type: cites
   target: pt:dre:127816253:por
   label: null
   source: http://data.dre.pt/eli/declegreg/1/2020/01/08/a/dre
@@ -114,7 +110,7 @@ relationships:
 - type: cites
   target: pt:dre:25344728:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/21/2014/03/31/p/dre
 - type: cites
   target: pt:dre:275462:por
   label: null

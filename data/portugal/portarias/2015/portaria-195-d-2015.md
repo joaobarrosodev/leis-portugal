@@ -97,10 +97,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/301-2024-897543552
   date: '2024-11-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/82/2014/04/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/82/2014/04/10/p/dre
-- type: cites
   target: pt:dre:146223:por
   label: null
   source: http://data.dre.pt/eli/port/300/2011/11/30/p/dre
@@ -108,6 +104,10 @@ relationships:
   target: pt:dre:181980:por
   label: null
   source: http://data.dre.pt/eli/port/289-a/2011/11/03/p/dre
+- type: cites
+  target: pt:dre:25343991:por
+  label: null
+  source: http://data.dre.pt/eli/port/82/2014/04/10/p/dre
 - type: cites
   target: pt:dre:3174292:por
   label: null

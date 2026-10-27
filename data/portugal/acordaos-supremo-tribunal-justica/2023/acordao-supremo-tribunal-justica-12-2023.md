@@ -82,7 +82,7 @@ subjects:
 - Prova
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/acstj/5/2021/11/25/p/dre
+  target: pt:dre:174825435:por
   label: null
   source: http://data.dre.pt/eli/acstj/5/2021/11/25/p/dre
 - type: cites

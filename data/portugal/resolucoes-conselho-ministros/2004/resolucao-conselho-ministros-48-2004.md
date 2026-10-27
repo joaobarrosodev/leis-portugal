@@ -72,17 +72,13 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/160/2003/10/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/160/2003/10/08/p/dre
-- type: cites
   target: pt:dre:405693:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/310/2002/12/18/p/dre
 - type: cites
   target: pt:dre:482470:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/160/2003/10/08/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

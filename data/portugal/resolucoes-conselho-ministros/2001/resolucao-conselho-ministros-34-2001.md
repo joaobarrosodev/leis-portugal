@@ -90,13 +90,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10590-2013-1500240
   date: '2013-08-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
-- type: cites
   target: pt:dre:431992:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

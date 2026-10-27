@@ -28,7 +28,7 @@ publication:
 entry_into_force_dates:
 - '2026-10-26'
 end_of_validity_date: '9999-12-31'
-legal_status: unknown
+legal_status: in_force
 notes: []
 language: por
 version:

@@ -81,13 +81,9 @@ subjects:
 - Subsídio de Compensação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre
-- type: cites
   target: pt:dre:192419:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre
 - type: cites
   target: pt:dre:335683:por
   label: null

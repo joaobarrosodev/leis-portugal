@@ -73,17 +73,13 @@ subjects:
 - Transferência de Competências
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/29/1992/08/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/29/1992/08/18/p/dre
-- type: cites
   target: pt:dre:199846:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre
 - type: cites
   target: pt:dre:282079:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/29/1992/08/18/p/dre
 - type: cites
   target: pt:dre:362687:por
   label: null

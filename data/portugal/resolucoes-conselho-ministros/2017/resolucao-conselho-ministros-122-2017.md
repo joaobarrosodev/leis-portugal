@@ -120,10 +120,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2013/59/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/44/2015/02/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/44/2015/02/20/p/dre
-- type: cites
   target: pt:dre:144834:por
   label: null
   source: null
@@ -274,7 +270,7 @@ relationships:
 - type: cites
   target: pt:dre:66558696:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/44/2015/02/20/p/dre
 - type: transposes
   target: celex:32011L0070
   label: null

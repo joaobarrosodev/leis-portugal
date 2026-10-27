@@ -92,7 +92,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/196-2020-140431105
   date: '2020-08-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/59/2020/03/04/p/dre
+  target: pt:dre:129790952:por
   label: null
   source: http://data.dre.pt/eli/port/59/2020/03/04/p/dre
 - type: cites

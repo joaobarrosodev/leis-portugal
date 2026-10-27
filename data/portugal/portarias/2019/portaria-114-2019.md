@@ -100,13 +100,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2019-122145248
   date: '2019-04-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/201/2018/07/11/p/dre
+  target: pt:dre:115678433:por
   label: null
   source: http://data.dre.pt/eli/port/201/2018/07/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/254/2014/12/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/254/2014/12/09/p/dre
 - type: cites
   target: pt:dre:122059234:por
   label: null
@@ -115,6 +111,10 @@ relationships:
   target: pt:dre:58763440:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/166/2014/11/06/p/dre
+- type: cites
+  target: pt:dre:61648170:por
+  label: null
+  source: http://data.dre.pt/eli/port/254/2014/12/09/p/dre
 article_structure:
   article_count: 20
   section_count: 0

@@ -85,49 +85,29 @@ subjects:
 - Serviços Partilhados do Ministério da Saúde
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/105/2022/02/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/105/2022/02/28/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/281-a/2021/12/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/281-a/2021/12/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/312-a/2021/12/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/312-a/2021/12/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/319-a/2021/12/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/319-a/2021/12/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/57/2022/01/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/57/2022/01/27/p/dre
-- type: cites
   target: pt:dre:174595377:por
   label: null
   source: http://data.dre.pt/eli/port/255-a/2021/11/18/p/dre
 - type: cites
   target: pt:dre:175397109:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/281-a/2021/12/03/p/dre
 - type: cites
   target: pt:dre:176238466:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/312-a/2021/12/21/p/dre
 - type: cites
   target: pt:dre:176631032:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/319-a/2021/12/27/p/dre
 - type: cites
   target: pt:dre:178264015:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/57/2022/01/27/p/dre
 - type: cites
   target: pt:dre:179719790:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/105/2022/02/28/p/dre
 - type: cites
   target: pt:dre:488301:por
   label: null

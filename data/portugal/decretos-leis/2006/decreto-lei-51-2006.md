@@ -107,10 +107,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078
   date: '2018-11-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-- type: cites
   target: pt:dre:240874:por
   label: null
   source: http://data.dre.pt/eli/port/53/2002/01/12/p/dre
@@ -122,6 +118,10 @@ relationships:
   target: pt:dre:309002:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/214/1999/06/15/p/dre
+- type: cites
+  target: pt:dre:464205:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
 - type: cites
   target: pt:dre:471961:por
   label: null

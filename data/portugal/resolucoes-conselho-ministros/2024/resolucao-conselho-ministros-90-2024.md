@@ -90,13 +90,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/172-2025-945116916
   date: '2025-11-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/82/2020/10/07/p/dre
+  target: pt:dre:144730228:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2020/10/07/p/dre
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
 - type: cites
   target: pt:dre:206478423:por
   label: null

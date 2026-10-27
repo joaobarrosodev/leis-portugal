@@ -837,6 +837,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:123962153:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:171183636:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:178490:por
   label: null
   source: null

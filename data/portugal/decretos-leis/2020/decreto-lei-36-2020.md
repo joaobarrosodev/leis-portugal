@@ -90,18 +90,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
   date: '2022-09-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/279/2015/09/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/279/2015/09/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/38/2020/05/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/38/2020/05/17/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2020/403/oj
   label: null
   source: http://data.europa.eu/eli/reco/2020/403/oj
@@ -112,11 +100,11 @@ relationships:
 - type: cites
   target: pt:dre:132883344:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
 - type: cites
   target: pt:dre:133914977:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/38/2020/05/17/p/dre
 - type: cites
   target: pt:dre:179275:por
   label: null
@@ -124,7 +112,7 @@ relationships:
 - type: cites
   target: pt:dre:70280718:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/279/2015/09/14/p/dre
 article_structure:
   article_count: 16
   section_count: 0

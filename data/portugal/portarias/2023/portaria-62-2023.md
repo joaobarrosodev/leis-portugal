@@ -82,29 +82,9 @@ subjects:
 - Trabalhador por Conta de Outrem
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/108/2016/04/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/108/2016/04/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/172/2018/06/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/172/2018/06/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/277/2017/09/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/277/2017/09/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/64/2017/02/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/64/2017/02/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/9/2015/01/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/9/2015/01/12/p/dre
-- type: cites
   target: pt:dre:106434268:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/64/2017/02/13/p/dre
 - type: cites
   target: pt:dre:107495701:por
   label: null
@@ -112,11 +92,11 @@ relationships:
 - type: cites
   target: pt:dre:108165170:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/277/2017/09/18/p/dre
 - type: cites
   target: pt:dre:115514275:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/172/2018/06/14/p/dre
 - type: cites
   target: pt:dre:185330735:por
   label: null
@@ -144,11 +124,11 @@ relationships:
 - type: cites
   target: pt:dre:66145315:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/9/2015/01/12/p/dre
 - type: cites
   target: pt:dre:74284598:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/108/2016/04/27/p/dre
 article_structure:
   article_count: 3
   section_count: 0

@@ -110,10 +110,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/33-a-2021-160149402
   date: '2021-03-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-- type: cites
   target: pt:dre:138963711:por
   label: null
   source: http://data.dre.pt/eli/port/178/2020/07/28/p/dre
@@ -128,7 +124,7 @@ relationships:
 - type: cites
   target: pt:dre:152512121:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
 article_structure:
   article_count: 0
   section_count: 0

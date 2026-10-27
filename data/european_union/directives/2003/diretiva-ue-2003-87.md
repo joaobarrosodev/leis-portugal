@@ -718,6 +718,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:59040516:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:612397:por
   label: null
   source: null
@@ -747,6 +751,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:671384:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:67590380:por
   label: null
   source: null
 - type: cited_by
@@ -1022,6 +1030,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:171992307:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:175923959:por
   label: null
   source: null
 - type: transposed_by

@@ -99,7 +99,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/329-2021-176907498
   date: '2021-12-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/284/2017/09/26/p/dre
+  target: pt:dre:108207728:por
   label: null
   source: http://data.dre.pt/eli/port/284/2017/09/26/p/dre
 - type: cites

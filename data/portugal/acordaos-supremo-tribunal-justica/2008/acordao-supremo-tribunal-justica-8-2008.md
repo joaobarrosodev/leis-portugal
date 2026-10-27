@@ -73,17 +73,13 @@ subjects:
 - Toxicodependente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
-- type: cites
   target: pt:dre:257601:por
   label: null
   source: http://data.dre.pt/eli/lei/15/1993/06/03/p/dre
 - type: cites
   target: pt:dre:316939:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
 - type: cites
   target: pt:dre:362322:por
   label: null

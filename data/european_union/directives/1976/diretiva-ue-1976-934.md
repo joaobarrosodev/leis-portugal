@@ -83,6 +83,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/2262380a-4efc-4f61-ae24-781283415830
   date: '1974-02-11'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: repealed_by
   target: celex:31999L0029
   label: null

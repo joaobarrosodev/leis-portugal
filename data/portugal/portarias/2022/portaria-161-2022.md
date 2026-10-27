@@ -76,17 +76,13 @@ subjects:
 - ZONA de CAÇA
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/168-a/2021/08/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/168-a/2021/08/02/p/dre
-- type: cites
   target: pt:dre:163012629:por
   label: null
   source: http://data.dre.pt/eli/port/100/2021/05/10/p/dre
 - type: cites
   target: pt:dre:168903089:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/168-a/2021/08/02/p/dre
 - type: cites
   target: pt:dre:183159328:por
   label: null

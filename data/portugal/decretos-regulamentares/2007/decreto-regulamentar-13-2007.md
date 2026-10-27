@@ -94,10 +94,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12166-2015-70762119
   date: '2015-10-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/180/1995/12/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/180/1995/12/27/p/dre
-- type: cites
   target: pt:dre:240375:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/3/2004/01/03/p/dre
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:643121:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/180/1995/12/27/p/dre
 article_structure:
   article_count: 2
   section_count: 0

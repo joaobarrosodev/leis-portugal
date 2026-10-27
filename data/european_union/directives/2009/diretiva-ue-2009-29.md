@@ -120,6 +120,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:67590380:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:70762383:por
   label: null
   source: null
@@ -209,6 +213,10 @@ relationships:
   date: '2026-02-23'
 - type: transposed_by
   target: pt:dre:131124444:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:175923959:por
   label: null
   source: null
 - type: transposed_by

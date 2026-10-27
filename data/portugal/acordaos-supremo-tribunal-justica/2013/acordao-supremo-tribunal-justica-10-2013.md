@@ -76,10 +76,6 @@ subjects:
 - Interpretação do Direito
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/3/2003/07/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/3/2003/07/10/p/dre
-- type: cites
   target: pt:dre:185720:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1995/03/15/p/dre
@@ -118,7 +114,7 @@ relationships:
 - type: cites
   target: pt:dre:667743:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/3/2003/07/10/p/dre
 - type: cites
   target: pt:dre:674024:por
   label: null

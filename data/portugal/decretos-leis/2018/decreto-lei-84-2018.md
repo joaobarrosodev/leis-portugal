@@ -149,14 +149,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2016/2284/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2016/08/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2016/08/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/2016/08/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/2016/08/26/p/dre
-- type: cites
   target: eli:http://data.europa.eu/el
   label: null
   source: http://data.europa.eu/el
@@ -188,6 +180,14 @@ relationships:
   target: pt:dre:656123:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/193/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:75207496:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2016/08/26/p/dre
+- type: cites
+  target: pt:dre:75207497:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/46/2016/08/26/p/dre
 - type: transposes
   target: celex:32001L0081
   label: null

@@ -86,10 +86,6 @@ relationships:
   source: null
   date: '2015-05-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/277/2015/09/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/277/2015/09/10/p/dre
-- type: cites
   target: pt:dre:144454578:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2020/10/02/p/dre
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:70241308:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/277/2015/09/10/p/dre
 article_structure:
   article_count: 5
   section_count: 0

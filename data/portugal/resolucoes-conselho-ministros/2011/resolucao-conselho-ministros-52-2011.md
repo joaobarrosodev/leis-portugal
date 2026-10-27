@@ -73,17 +73,13 @@ subjects:
 - Portugal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/194/1996/12/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/194/1996/12/17/p/dre
-- type: cites
   target: pt:dre:140559:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/137/1991/04/05/p/dre
 - type: cites
   target: pt:dre:197539:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/194/1996/12/17/p/dre
 article_structure:
   article_count: 0
   section_count: 0

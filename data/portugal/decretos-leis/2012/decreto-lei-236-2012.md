@@ -143,13 +143,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460
   date: '2026-09-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
-- type: cites
   target: pt:dre:145045:por
   label: null
   source: http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
+- type: cites
+  target: pt:dre:146536:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
 - type: cites
   target: pt:dre:243747:por
   label: null

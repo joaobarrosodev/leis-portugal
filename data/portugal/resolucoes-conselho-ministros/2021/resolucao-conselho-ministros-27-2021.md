@@ -100,13 +100,13 @@ subjects:
 - Plano de Recuperação e Resiliência
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
-- type: cites
   target: pt:dre:107725088:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/84/2017/07/21/p/dre
+- type: cites
+  target: pt:dre:116747965:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
 - type: cites
   target: pt:dre:135843143:por
   label: null

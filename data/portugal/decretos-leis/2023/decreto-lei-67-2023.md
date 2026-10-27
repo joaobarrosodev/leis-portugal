@@ -71,13 +71,9 @@ subjects:
 - Pessoal Dirigente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/18/2022/01/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/18/2022/01/19/p/dre
-- type: cites
   target: pt:dre:177847668:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/18/2022/01/19/p/dre
 - type: cites
   target: pt:dre:214974:por
   label: null

@@ -81,7 +81,7 @@ subjects:
 - Viseu
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/55-a/2014/09/15/p/dre
+  target: pt:dre:56895581:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55-a/2014/09/15/p/dre
 article_structure:

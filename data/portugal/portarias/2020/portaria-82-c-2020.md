@@ -179,7 +179,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/314-2021-176317415
   date: '2021-12-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
+  target: pt:dre:130243054:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
 - type: cites

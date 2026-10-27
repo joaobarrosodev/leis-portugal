@@ -75,10 +75,6 @@ subjects:
 - Subsídio não Reembolsável
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/44/2021/02/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/44/2021/02/23/p/dre
-- type: cites
   target: pt:dre:115221283:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/29/2018/05/04/p/dre
@@ -97,7 +93,7 @@ relationships:
 - type: cites
   target: pt:dre:158146140:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/44/2021/02/23/p/dre
 - type: cites
   target: pt:dre:173732851:por
   label: null

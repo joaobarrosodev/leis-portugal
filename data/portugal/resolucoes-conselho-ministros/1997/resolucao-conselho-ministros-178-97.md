@@ -89,10 +89,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/878-2016-73314055
   date: '2016-01-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/1994/01/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/1994/01/17/p/dre
-- type: cites
   target: pt:dre:228186:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
@@ -103,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:510382:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3/1994/01/17/p/dre
 article_structure:
   article_count: 15
   section_count: 3

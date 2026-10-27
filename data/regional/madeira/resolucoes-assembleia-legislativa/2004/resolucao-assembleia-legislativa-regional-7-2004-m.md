@@ -75,13 +75,9 @@ subjects:
 - Recomendação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
-- type: cites
   target: pt:dre:239016:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
 article_structure:
   article_count: 0
   section_count: 0

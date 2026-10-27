@@ -73,10 +73,6 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/120/2004/07/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/120/2004/07/31/p/dre
-- type: cites
   target: pt:dre:226227:por
   label: null
   source: http://data.dre.pt/eli/decregul/8/2003/04/11/p/dre
@@ -87,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:501217:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/120/2004/07/31/p/dre
 - type: cites
   target: pt:dre:610032:por
   label: null

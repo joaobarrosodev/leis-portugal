@@ -119,10 +119,6 @@ relationships:
   source: null
   date: '2005-06-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/111/2007/08/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/111/2007/08/21/p/dre
-- type: cites
   target: pt:dre:425487:por
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
@@ -141,7 +137,7 @@ relationships:
 - type: cites
   target: pt:dre:640635:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/111/2007/08/21/p/dre
 - type: cites
   target: pt:dre:655312:por
   label: null

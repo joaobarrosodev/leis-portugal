@@ -84,13 +84,9 @@ relationships:
   source: null
   date: '2021-12-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/210/2021/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/210/2021/12/31/p/dre
-- type: cites
   target: pt:dre:176907497:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/210/2021/12/31/p/dre
 - type: cites
   target: pt:dre:58683382:por
   label: null

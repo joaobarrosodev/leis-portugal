@@ -76,10 +76,6 @@ subjects:
 - Serviço Nacional de Saúde
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/111/2007/08/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/111/2007/08/21/p/dre
-- type: cites
   target: pt:dre:470073:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/38-a/2007/02/28/p/dre
@@ -90,7 +86,7 @@ relationships:
 - type: cites
   target: pt:dre:640635:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/111/2007/08/21/p/dre
 - type: corrects
   target: pt:numero:resolucao-conselho-ministros:111/2007
   label: "Rectifica o anexo à Resolução do Conselho de Ministros n.º 111/2007, de 21 de Agosto, DR.IS [160]\0\0"

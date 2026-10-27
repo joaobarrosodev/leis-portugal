@@ -85,7 +85,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/438-2026-1174093372
   date: '2026-09-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/12/2017/01/09/p/dre
+  target: pt:dre:105726272:por
   label: null
   source: http://data.dre.pt/eli/port/12/2017/01/09/p/dre
 - type: cites

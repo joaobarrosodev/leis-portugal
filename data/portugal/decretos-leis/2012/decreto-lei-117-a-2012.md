@@ -138,10 +138,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009
   date: '2026-05-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:145590:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/117/2011/12/15/p/dre
@@ -157,6 +153,10 @@ relationships:
   target: pt:dre:517987:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/37/2007/02/19/p/dre
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:545779:por
   label: null

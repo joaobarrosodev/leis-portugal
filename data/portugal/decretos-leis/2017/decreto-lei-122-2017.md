@@ -108,10 +108,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2015/1866/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/12/2008/01/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/12/2008/01/23/p/dre
-- type: cites
   target: pt:dre:106589745:por
   label: null
   source: http://data.dre.pt/eli/dec/7/2017/03/13/p/dre
@@ -122,7 +118,7 @@ relationships:
 - type: cites
   target: pt:dre:248525:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/12/2008/01/23/p/dre
 - type: cites
   target: pt:dre:268421:por
   label: null

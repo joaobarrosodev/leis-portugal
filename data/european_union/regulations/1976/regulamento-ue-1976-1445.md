@@ -206,6 +206,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/3b05b44c-304a-4960-b636-a1b5122248d7
   date: '1971-11-05'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31976R0833
   label: null

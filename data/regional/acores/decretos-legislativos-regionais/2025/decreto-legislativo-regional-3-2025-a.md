@@ -87,10 +87,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2023/2660/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declegreg/4/2022/02/17/a/dre
-  label: null
-  source: http://data.dre.pt/eli/declegreg/4/2022/02/17/a/dre
-- type: cites
   target: pt:dre:145714402:por
   label: null
   source: http://data.dre.pt/eli/declegreg/28/2020/10/19/a/dre
@@ -101,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:179198817:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declegreg/4/2022/02/17/a/dre
 - type: cites
   target: pt:dre:260454:por
   label: null

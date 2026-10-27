@@ -78,14 +78,6 @@ subjects:
 - Veículo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/declretif/4/2013/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/4/2013/01/18/p/dre
-- type: cites
   target: pt:dre:190872:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/248/2012/11/21/p/dre
@@ -100,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:257041:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/4/2013/01/18/p/dre
 - type: cites
   target: pt:dre:259386:por
   label: null
@@ -132,7 +124,7 @@ relationships:
 - type: cites
   target: pt:dre:56303285:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
 - type: cites
   target: pt:dre:629666:por
   label: null

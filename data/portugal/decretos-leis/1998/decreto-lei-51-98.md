@@ -181,7 +181,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2011-145590
   date: '2011-12-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+  target: pt:dre:150926:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
 - type: cites

@@ -87,21 +87,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1/2001/01/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/1/2001/01/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/55/1999/06/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/55/1999/06/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
-- type: cites
   target: pt:dre:238800:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/1/2001/01/06/p/dre
 - type: cites
   target: pt:dre:291937:por
   label: null
@@ -109,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:308998:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/55/1999/06/15/p/dre
 - type: cites
   target: pt:dre:603475:por
   label: null
@@ -121,7 +109,7 @@ relationships:
 - type: cites
   target: pt:dre:666708:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
 - type: repealed_by
   target: pt:dre:521260:por
   label: "Revogada pelo DEC LEI.164/2007.03.05.2007.PCM, DR.IS [85] de 03.05.2007, a partir de 01.06.2007 \0\0"

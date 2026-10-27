@@ -90,13 +90,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/122-2018-116515455
   date: '2018-09-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/177/2017/11/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/177/2017/11/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/27/2017/02/08/p/dre
+  target: pt:dre:106415322:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/27/2017/02/08/p/dre
+- type: cites
+  target: pt:dre:114252621:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/177/2017/11/27/p/dre
 article_structure:
   article_count: 0
   section_count: 0

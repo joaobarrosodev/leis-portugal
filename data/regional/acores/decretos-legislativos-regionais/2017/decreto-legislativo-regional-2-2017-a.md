@@ -91,10 +91,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2021-161587773
   date: '2021-04-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
-- type: cites
   target: pt:dre:151527:por
   label: null
   source: null
@@ -105,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:179364:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
 - type: cites
   target: pt:dre:25676926:por
   label: null

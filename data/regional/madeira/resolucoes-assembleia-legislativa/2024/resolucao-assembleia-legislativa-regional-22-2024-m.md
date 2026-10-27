@@ -72,10 +72,6 @@ subjects:
 - Responsabilidade do Estado
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
-- type: cites
   target: pt:dre:114352191:por
   label: null
   source: null
@@ -86,7 +82,7 @@ relationships:
 - type: cites
   target: pt:dre:116747965:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
 - type: cites
   target: pt:dre:117537583:por
   label: null

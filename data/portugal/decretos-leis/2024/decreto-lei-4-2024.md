@@ -86,21 +86,13 @@ subjects:
 - Mercado voluntário de carbono
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/301/2020/12/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-- type: cites
   target: pt:dre:115226936:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55/2018/05/07/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites
   target: pt:dre:135843143:por
   label: null
@@ -113,6 +105,14 @@ relationships:
   target: pt:dre:137618093:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:152197939:por
+  label: null
+  source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
 - type: cites
   target: pt:dre:176907481:por
   label: null

@@ -99,6 +99,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:58728916:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:670520:por
   label: null
   source: null

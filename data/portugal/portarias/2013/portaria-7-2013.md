@@ -71,17 +71,13 @@ subjects:
 - Secretaria Judicial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-- type: cites
   target: pt:dre:175305:por
   label: null
   source: http://data.dre.pt/eli/lei/31/2012/08/14/p/dre
 - type: cites
   target: pt:dre:406279:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
 - type: cites
   target: pt:dre:588827:por
   label: null

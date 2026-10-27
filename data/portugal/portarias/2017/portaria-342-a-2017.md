@@ -112,21 +112,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/51-a-2018-114701938
   date: '2018-02-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/223-a/2017/07/21/p/dre
+  target: pt:dre:107731427:por
   label: null
   source: http://data.dre.pt/eli/port/223-a/2017/07/21/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/260-a/2017/08/23/p/dre
+  target: pt:dre:108047885:por
   label: null
   source: http://data.dre.pt/eli/port/260-a/2017/08/23/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/295/2017/10/02/p/dre
+  target: pt:dre:108238714:por
   label: null
   source: http://data.dre.pt/eli/port/295/2017/10/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/56/2016/03/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/56/2016/03/28/p/dre
 - type: cites
   target: pt:dre:58509399:por
   label: null
@@ -139,6 +135,10 @@ relationships:
   target: pt:dre:70462181:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+- type: cites
+  target: pt:dre:73973890:por
+  label: null
+  source: http://data.dre.pt/eli/port/56/2016/03/28/p/dre
 article_structure:
   article_count: 10
   section_count: 0

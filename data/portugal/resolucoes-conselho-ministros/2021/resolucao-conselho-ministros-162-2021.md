@@ -85,13 +85,13 @@ subjects:
 - Transporte de Passageiros
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104-d/2020/12/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104-d/2020/12/11/p/dre
-- type: cites
   target: pt:dre:135623468:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/43/2020/06/12/p/dre
+- type: cites
+  target: pt:dre:151036055:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/104-d/2020/12/11/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

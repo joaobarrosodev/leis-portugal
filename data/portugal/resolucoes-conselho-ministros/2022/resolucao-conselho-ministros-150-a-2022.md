@@ -113,10 +113,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2019/944/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/138-g/2021/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/138-g/2021/07/01/p/dre
-- type: cites
   target: pt:dre:117202785:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/108/2018/12/03/p/dre
@@ -127,7 +123,7 @@ relationships:
 - type: cites
   target: pt:dre:166296490:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/138-g/2021/07/01/p/dre
 - type: cites
   target: pt:dre:178882450:por
   label: null

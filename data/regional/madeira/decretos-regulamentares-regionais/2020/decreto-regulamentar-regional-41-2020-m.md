@@ -117,10 +117,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2024-848804213
   date: '2024-02-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/21/2020/05/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/21/2020/05/26/p/dre
-- type: cites
   target: pt:dre:127657050:por
   label: null
   source: http://data.dre.pt/eli/decregulreg/1/2020/01/02/m/dre
@@ -128,6 +124,10 @@ relationships:
   target: pt:dre:133054720:por
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/2020/05/05/m/dre
+- type: cites
+  target: pt:dre:134505605:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/21/2020/05/26/p/dre
 - type: cites
   target: pt:dre:174815:por
   label: null

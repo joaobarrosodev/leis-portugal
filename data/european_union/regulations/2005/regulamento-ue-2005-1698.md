@@ -344,6 +344,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:157116188:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:191115:por
   label: null
   source: null
@@ -645,6 +649,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:73115709:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:73576686:por
   label: null
   source: null
 - type: cited_by

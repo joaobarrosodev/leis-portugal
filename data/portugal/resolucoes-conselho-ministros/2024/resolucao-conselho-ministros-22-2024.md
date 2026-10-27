@@ -78,14 +78,6 @@ subjects:
 - Setúbal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/141/2005/08/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/141/2005/08/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/65/1994/08/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/65/1994/08/10/p/dre
-- type: cites
   target: pt:dre:115205450:por
   label: null
   source: null
@@ -112,11 +104,11 @@ relationships:
 - type: cites
   target: pt:dre:222642:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/65/1994/08/10/p/dre
 - type: cites
   target: pt:dre:246128:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/141/2005/08/23/p/dre
 - type: cites
   target: pt:dre:25345938:por
   label: null

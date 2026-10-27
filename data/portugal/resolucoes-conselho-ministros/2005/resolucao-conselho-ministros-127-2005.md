@@ -75,14 +75,6 @@ subjects:
 - Promissoria do Tesouro
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/137/2001/08/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/137/2001/08/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/161/1997/09/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/161/1997/09/24/p/dre
-- type: cites
   target: pt:dre:223472:por
   label: null
   source: null
@@ -93,11 +85,11 @@ relationships:
 - type: cites
   target: pt:dre:516020:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/137/2001/08/23/p/dre
 - type: cites
   target: pt:dre:659739:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/161/1997/09/24/p/dre
 article_structure:
   article_count: 0
   section_count: 0

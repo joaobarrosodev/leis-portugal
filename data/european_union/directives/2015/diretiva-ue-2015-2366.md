@@ -403,6 +403,14 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:123578713:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:123578714:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:161014566:por
   label: null
   source: null

@@ -113,10 +113,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-2013-503835
   date: '2013-11-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
-- type: cites
   target: pt:dre:147854:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/167/2005/09/23/p/dre
@@ -131,7 +127,7 @@ relationships:
 - type: cites
   target: pt:dre:233957:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
 - type: cites
   target: pt:dre:291808:por
   label: null

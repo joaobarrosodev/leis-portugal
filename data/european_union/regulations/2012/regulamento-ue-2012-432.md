@@ -155,6 +155,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/e6b6f775-c3c7-48b8-a079-eb55cbc7a766
   date: '2007-01-02'
+- type: cited_by
+  target: pt:dre:66603017:por
+  label: null
+  source: null
 - type: corrected_by
   target: celex:32012R0432R(01)
   label: null

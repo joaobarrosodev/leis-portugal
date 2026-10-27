@@ -74,10 +74,6 @@ subjects:
 - Saúde Pública
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/124/1998/10/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/124/1998/10/21/p/dre
-- type: cites
   target: pt:dre:144792:por
   label: null
   source: http://data.dre.pt/eli/lei/90/1997/07/30/p/dre
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:240009:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/124/1998/10/21/p/dre
 - type: cites
   target: pt:dre:328390:por
   label: null

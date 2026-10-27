@@ -94,10 +94,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2007-635865
   date: '2007-06-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-- type: cites
   target: pt:dre:172275:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/2002/08/21/p/dre
@@ -108,7 +104,7 @@ relationships:
 - type: cites
   target: pt:dre:197496:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
 - type: cites
   target: pt:dre:655312:por
   label: null

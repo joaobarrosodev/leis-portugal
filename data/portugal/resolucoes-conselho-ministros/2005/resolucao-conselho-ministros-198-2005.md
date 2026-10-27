@@ -77,21 +77,9 @@ subjects:
 - Nomeação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/133/1997/08/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/133/1997/08/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/146/2004/10/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/146/2004/10/29/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/5/1996/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/5/1996/01/18/p/dre
-- type: cites
   target: pt:dre:202582:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/133/1997/08/12/p/dre
 - type: cites
   target: pt:dre:240610:por
   label: null
@@ -115,11 +103,11 @@ relationships:
 - type: cites
   target: pt:dre:565240:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/146/2004/10/29/p/dre
 - type: cites
   target: pt:dre:592077:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/5/1996/01/18/p/dre
 article_structure:
   article_count: 0
   section_count: 0

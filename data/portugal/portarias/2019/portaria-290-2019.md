@@ -111,10 +111,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/427-2023-229857703
   date: '2023-12-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/218-d/2019/07/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/218-d/2019/07/15/p/dre
-- type: cites
   target: pt:dre:115017488:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/2018/04/10/p/dre
@@ -122,6 +118,10 @@ relationships:
   target: pt:dre:116068877:por
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/d
+- type: cites
+  target: pt:dre:123183032:por
+  label: null
+  source: http://data.dre.pt/eli/port/218-d/2019/07/15/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null

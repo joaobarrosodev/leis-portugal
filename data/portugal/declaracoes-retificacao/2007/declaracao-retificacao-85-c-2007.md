@@ -73,10 +73,6 @@ subjects:
 - Protal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/102/2007/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/102/2007/08/03/p/dre
-- type: cites
   target: pt:dre:429407:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
@@ -87,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:636444:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/102/2007/08/03/p/dre
 - type: corrects
   target: pt:numero:resolucao-conselho-ministros:102/2007
   label: "Rectifica a Resolução do Conselho de Ministros n.º 102/2007, de 3 de Agosto, DR.IS [149], procedendo à publicação\

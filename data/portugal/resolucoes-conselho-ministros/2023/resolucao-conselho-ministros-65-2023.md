@@ -76,13 +76,9 @@ subjects:
 - Teatro Nacional de São Carlos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/190/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/190/2021/12/30/p/dre
-- type: cites
   target: pt:dre:176811779:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/190/2021/12/30/p/dre
 - type: cites
   target: pt:dre:185224662:por
   label: null

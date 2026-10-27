@@ -88,14 +88,6 @@ subjects:
 - Aviação Civil
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/153/2001/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/153/2001/10/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/158/2001/11/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/158/2001/11/05/p/dre
-- type: cites
   target: pt:dre:212013:por
   label: null
   source: http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
@@ -104,9 +96,17 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/4/2002/01/08/p/dre
 - type: cites
+  target: pt:dre:595300:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/158/2001/11/05/p/dre
+- type: cites
   target: pt:dre:613427:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/153/2000/11/11/p/dre
+- type: cites
+  target: pt:dre:626385:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/153/2001/10/18/p/dre
 article_structure:
   article_count: 7
   section_count: 0

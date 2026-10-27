@@ -100,17 +100,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/19/1992/06/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/19/1992/06/19/p/dre
-- type: cites
   target: pt:dre:265085:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/137-a/1999/04/22/p/dre
 - type: cites
   target: pt:dre:301433:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/19/1992/06/19/p/dre
 - type: cites
   target: pt:dre:301631:por
   label: null

@@ -72,14 +72,6 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/188/2003/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/188/2003/12/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/70/1994/08/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/70/1994/08/18/p/dre
-- type: cites
   target: pt:dre:179566:por
   label: null
   source: null
@@ -92,6 +84,10 @@ relationships:
   label: null
   source: null
 - type: cites
+  target: pt:dre:218094:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/70/1994/08/18/p/dre
+- type: cites
   target: pt:dre:307873:por
   label: null
   source: null
@@ -99,6 +95,10 @@ relationships:
   target: pt:dre:372793:por
   label: null
   source: null
+- type: cites
+  target: pt:dre:430418:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/188/2003/12/15/p/dre
 - type: cites
   target: pt:dre:468652:por
   label: null

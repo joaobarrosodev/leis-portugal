@@ -145,17 +145,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
   date: '2011-07-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/37/2004/03/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/37/2004/03/20/p/dre
-- type: cites
   target: pt:dre:398496:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/326-b/2007/09/28/p/dre
 - type: cites
   target: pt:dre:541835:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/37/2004/03/20/p/dre
 - type: cites
   target: pt:dre:545639:por
   label: null

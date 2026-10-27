@@ -149,13 +149,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2024/1747/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/73/2020/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/73/2020/03/16/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
+- type: cites
+  target: pt:dre:130273580:por
+  label: null
+  source: http://data.dre.pt/eli/port/73/2020/03/16/p/dre
 - type: cites
   target: pt:dre:177634016:por
   label: null

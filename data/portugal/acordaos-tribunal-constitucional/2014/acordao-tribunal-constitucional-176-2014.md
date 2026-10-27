@@ -75,10 +75,6 @@ subjects:
 - União de Facto
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/288/1998/04/18/p/
-  label: null
-  source: http://data.dre.pt/eli/ac/288/1998/04/18/p/
-- type: cites
   target: pt:dre:186934:por
   label: null
   source: http://data.dre.pt/eli/lei/15-a/1998/04/03/p/dre
@@ -137,7 +133,7 @@ relationships:
 - type: cites
   target: pt:dre:666482:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/288/1998/04/18/p/
 article_structure:
   article_count: 0
   section_count: 0

@@ -140,10 +140,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2024/1711/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/73/2020/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/73/2020/03/16/p/dre
-- type: cites
   target: pt:dre:1039332368:por
   label: null
   source: null
@@ -158,7 +154,7 @@ relationships:
 - type: cites
   target: pt:dre:130273580:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/73/2020/03/16/p/dre
 - type: cites
   target: pt:dre:177634016:por
   label: null

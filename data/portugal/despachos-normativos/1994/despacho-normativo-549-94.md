@@ -84,10 +84,6 @@ relationships:
   source: null
   date: '1995-11-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-- type: cites
   target: pt:dre:231881:por
   label: null
   source: http://data.dre.pt/eli/despnorm/554/1994/07/29/p/dre
@@ -110,7 +106,7 @@ relationships:
 - type: cites
   target: pt:dre:291631:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
 - type: repealed_by
   target: pt:dre:471157:por
   label: "Revogado pelo DN.41/98.1998.05.12.MECO, DR.IS-B [134] de 12/Jun/1998 \0\0"

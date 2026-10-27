@@ -127,13 +127,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312
   date: '2022-01-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-- type: cites
   target: pt:dre:107061811:por
   label: null
   source: http://data.dre.pt/eli/lei/23/2017/05/23/p/dre
+- type: cites
+  target: pt:dre:107684448:por
+  label: null
+  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
 - type: cites
   target: pt:dre:107781373:por
   label: null

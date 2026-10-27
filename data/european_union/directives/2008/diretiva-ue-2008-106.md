@@ -232,6 +232,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/d1f885a3-cec1-4c15-9c5d-06a538d2f2cb
   date: '2005-03-11'
 - type: transposed_by
+  target: pt:dre:106566473:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:116826826:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:125865390:por
   label: null
   source: null

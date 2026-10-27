@@ -122,10 +122,6 @@ relationships:
   source: null
   date: '2005-09-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
-- type: cites
   target: pt:dre:195802:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/217/1997/08/20/p/dre
@@ -144,7 +140,7 @@ relationships:
 - type: cites
   target: pt:dre:247435:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
 - type: cites
   target: pt:dre:603475:por
   label: null

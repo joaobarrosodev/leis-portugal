@@ -90,17 +90,13 @@ subjects:
 - Taxa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/295/2021/12/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/295/2021/12/13/p/dre
-- type: cites
   target: pt:dre:164870237:por
   label: null
   source: http://data.dre.pt/eli/port/121/2021/06/09/p/dre
 - type: cites
   target: pt:dre:175780036:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/295/2021/12/13/p/dre
 - type: cites
   target: pt:dre:180923377:por
   label: null

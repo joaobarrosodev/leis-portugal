@@ -80,10 +80,6 @@ subjects:
 - Sociedade Comercial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/635/2007/02/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/635/2007/02/08/p/dre
-- type: cites
   target: pt:dre:238264:por
   label: null
   source: null
@@ -94,7 +90,7 @@ relationships:
 - type: cites
   target: pt:dre:518198:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/635/2007/02/08/p/dre
 - type: cites
   target: pt:dre:639134:por
   label: null

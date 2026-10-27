@@ -88,13 +88,9 @@ subjects:
 - Sistema Previdencial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/169/2021/08/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/169/2021/08/05/p/dre
-- type: cites
   target: pt:dre:169132316:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/169/2021/08/05/p/dre
 - type: cites
   target: pt:dre:469066:por
   label: null

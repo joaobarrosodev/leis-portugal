@@ -80,17 +80,13 @@ subjects:
 - Segurança Social
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64/2012/08/01/p/dre
+  target: pt:dre:179073:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/64/2012/08/01/p/dre
 - type: cites
-  target: pt:dre:179073:por
+  target: pt:dre:553946:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
 - type: cites
   target: pt:dre:606319:por
   label: null

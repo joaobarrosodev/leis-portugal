@@ -89,10 +89,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-- type: cites
   target: pt:dre:302174:por
   label: null
   source: null
@@ -111,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:469202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
 - type: corrected_by
   target: pt:dre:219930:por
   label: "Rectificado pela DECL-RECT.10-Q/99.1999.04.30.PCM DR.IS-A [101]SUPL DE 30/ABR/1999\0\0"

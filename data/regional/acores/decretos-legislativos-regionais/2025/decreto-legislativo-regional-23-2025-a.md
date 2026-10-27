@@ -91,21 +91,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1995/64/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declegreg/38/2021/12/23/a/dre
-  label: null
-  source: http://data.dre.pt/eli/declegreg/38/2021/12/23/a/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/14/2017/01/10/p/dre
+  target: pt:dre:105711865:por
   label: null
   source: http://data.dre.pt/eli/port/14/2017/01/10/p/dre
 - type: cites
-  target: pt:dre:105711865:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:176412614:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declegreg/38/2021/12/23/a/dre
 - type: cites
   target: pt:dre:303205:por
   label: null

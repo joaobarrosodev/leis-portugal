@@ -88,10 +88,6 @@ subjects:
 - Subsídio de Apoio ao Cuidador Informal Principal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/64/2020/03/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/64/2020/03/10/p/dre
-- type: cites
   target: pt:dre:108269605:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/126-a/2017/10/06/p/dre
@@ -114,7 +110,7 @@ relationships:
 - type: cites
   target: pt:dre:130070741:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/64/2020/03/10/p/dre
 - type: cites
   target: pt:dre:130893436:por
   label: null

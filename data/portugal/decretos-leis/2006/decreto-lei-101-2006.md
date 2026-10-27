@@ -133,13 +133,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2021-175923961
   date: '2021-12-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/59/2002/03/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/59/2002/03/22/p/dre
-- type: cites
   target: pt:dre:171692:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/185/2002/08/20/p/dre
+- type: cites
+  target: pt:dre:262643:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/59/2002/03/22/p/dre
 - type: cites
   target: pt:dre:468981:por
   label: null

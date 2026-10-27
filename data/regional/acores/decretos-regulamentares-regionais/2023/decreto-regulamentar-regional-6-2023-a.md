@@ -81,17 +81,13 @@ subjects:
 - Utilidade Pública
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/22/2021/07/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/22/2021/07/09/p/dre
-- type: cites
   target: pt:dre:165036155:por
   label: null
   source: http://data.dre.pt/eli/lei/36/2021/06/14/p/dre
 - type: cites
   target: pt:dre:166658247:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/22/2021/07/09/p/dre
 - type: cites
   target: pt:dre:519402:por
   label: null

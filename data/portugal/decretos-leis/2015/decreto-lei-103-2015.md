@@ -186,10 +186,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2009/1107/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli
   label: null
   source: http://data.europa.eu/eli
@@ -217,6 +213,10 @@ relationships:
   target: pt:dre:540016:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/178/2006/09/05/p/dre
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:545062:por
   label: null

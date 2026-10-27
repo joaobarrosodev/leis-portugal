@@ -71,10 +71,6 @@ subjects:
 - Vogal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
-- type: cites
   target: pt:dre:106434234:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2017/02/10/p/dre
@@ -89,7 +85,7 @@ relationships:
 - type: cites
   target: pt:dre:542993:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
 - type: cites
   target: pt:dre:553924:por
   label: null

@@ -131,10 +131,6 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/407-a/2019/12/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/407-a/2019/12/23/p/dre
-- type: cites
   target: pt:dre:116895169:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
@@ -142,6 +138,10 @@ relationships:
   target: pt:dre:124283151:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/2019/08/29/p/dre
+- type: cites
+  target: pt:dre:127535213:por
+  label: null
+  source: http://data.dre.pt/eli/port/407-a/2019/12/23/p/dre
 - type: cites
   target: pt:dre:130779511:por
   label: null

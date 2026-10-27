@@ -92,10 +92,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/193-2026-1178225510
   date: '2026-10-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
-- type: cites
   target: pt:dre:142870337:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/71/2020/09/15/p/dre
@@ -110,7 +106,7 @@ relationships:
 - type: cites
   target: pt:dre:239016:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
 article_structure:
   article_count: 0
   section_count: 0

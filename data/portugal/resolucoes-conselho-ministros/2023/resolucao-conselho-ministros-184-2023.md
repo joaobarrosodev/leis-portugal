@@ -73,13 +73,9 @@ subjects:
 - Presidente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/161/2021/11/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/161/2021/11/30/p/dre
-- type: cites
   target: pt:dre:175129345:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/161/2021/11/30/p/dre
 - type: cites
   target: pt:dre:499499:por
   label: null

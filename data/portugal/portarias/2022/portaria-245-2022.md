@@ -80,17 +80,13 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/248/2021/11/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/248/2021/11/11/p/dre
-- type: cites
   target: pt:dre:124680595:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/138/2019/09/13/p/dre
 - type: cites
   target: pt:dre:174193081:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/248/2021/11/11/p/dre
 - type: cites
   target: pt:dre:185224662:por
   label: null

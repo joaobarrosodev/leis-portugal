@@ -72,13 +72,9 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/342/2019/10/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/342/2019/10/01/p/dre
-- type: cites
   target: pt:dre:125028211:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/342/2019/10/01/p/dre
 - type: cites
   target: pt:dre:388220:por
   label: null

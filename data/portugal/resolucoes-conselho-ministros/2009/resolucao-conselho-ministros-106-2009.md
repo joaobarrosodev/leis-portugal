@@ -76,29 +76,13 @@ subjects:
 - Renovação Urbana
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104/2003/08/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104/2003/08/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2004/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2004/03/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/69/2005/03/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/69/2005/03/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-- type: cites
   target: pt:dre:361159:por
   label: null
   source: null
 - type: cites
   target: pt:dre:551776:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2004/03/03/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null
@@ -106,15 +90,15 @@ relationships:
 - type: cites
   target: pt:dre:574346:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/69/2005/03/17/p/dre
 - type: cites
   target: pt:dre:609283:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
 - type: cites
   target: pt:dre:647111:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/104/2003/08/08/p/dre
 article_structure:
   article_count: 0
   section_count: 0

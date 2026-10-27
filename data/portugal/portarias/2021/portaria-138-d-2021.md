@@ -121,13 +121,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2009/1073/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/309-b/2020/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/309-b/2020/12/31/p/dre
-- type: cites
   target: pt:dre:146186:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/111/2011/11/28/p/dre
+- type: cites
+  target: pt:dre:152637738:por
+  label: null
+  source: http://data.dre.pt/eli/port/309-b/2020/12/31/p/dre
 - type: cites
   target: pt:dre:152639825:por
   label: null

@@ -72,13 +72,9 @@ subjects:
 - Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/44/1999/05/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/44/1999/05/25/p/dre
-- type: cites
   target: pt:dre:317119:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/44/1999/05/25/p/dre
 article_structure:
   article_count: 0
   section_count: 0

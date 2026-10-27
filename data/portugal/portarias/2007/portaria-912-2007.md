@@ -73,13 +73,9 @@ subjects:
 - ZONA de CAÇA
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/141/2005/08/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/141/2005/08/23/p/dre
-- type: cites
   target: pt:dre:246128:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/141/2005/08/23/p/dre
 - type: cites
   target: pt:dre:402353:por
   label: null

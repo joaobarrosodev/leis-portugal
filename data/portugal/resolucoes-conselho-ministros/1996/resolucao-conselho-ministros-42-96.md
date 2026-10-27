@@ -96,10 +96,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-c-1996-668906
   date: '1996-04-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/1996/01/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/4/1996/01/17/p/dre
-- type: cites
   target: pt:dre:198144:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/34/1995/02/11/p/dre
@@ -111,6 +107,10 @@ relationships:
   target: pt:dre:475371:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
+- type: cites
+  target: pt:dre:588820:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/4/1996/01/17/p/dre
 article_structure:
   article_count: 0
   section_count: 0

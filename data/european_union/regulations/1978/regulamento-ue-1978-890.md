@@ -245,6 +245,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/70403fc5-4ff7-437b-b7ec-ffc4e1c694ab
   date: '1971-08-04'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:67058845:por
   label: null
   source: null

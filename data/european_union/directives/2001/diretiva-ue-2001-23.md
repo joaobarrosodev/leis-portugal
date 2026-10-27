@@ -129,6 +129,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/e0231d41-304f-4e1e-897f-7dcb2a7dde36
   date: '1999-05-31'
 - type: cited_by
+  target: pt:dre:124680597:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:124680598:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:166153636:por
   label: null
   source: null

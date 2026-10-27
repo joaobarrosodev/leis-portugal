@@ -87,26 +87,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-a-2000-508460
   date: '2000-10-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/149-a/1997/09/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/149-a/1997/09/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/167/1997/10/0
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/167/1997/10/0
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/43-a/1995/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/43-a/1995/05/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/67-a/1996/05/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/67-a/1996/05/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
-- type: cites
   target: pt:dre:188691:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/1995/02/22/p/dre
@@ -117,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:251029:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/67-a/1996/05/10/p/dre
 - type: cites
   target: pt:dre:260900:por
   label: null
@@ -133,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:306265:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
 - type: cites
   target: pt:dre:306587:por
   label: null
@@ -141,7 +121,7 @@ relationships:
 - type: cites
   target: pt:dre:321560:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/149-a/1997/09/11/p/dre
 - type: cites
   target: pt:dre:332183:por
   label: null
@@ -165,11 +145,11 @@ relationships:
 - type: cites
   target: pt:dre:626213:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/43-a/1995/05/04/p/dre
 - type: cites
   target: pt:dre:663970:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/167/1997/10/0
 - type: repealed_by
   target: pt:dre:669513:por
   label: "Revogado o nº 8 do art. 14º pelo DEC LEI.90/2011.25.07.2011.MF, DR.IS [141] de 25.07.2011\0\0"

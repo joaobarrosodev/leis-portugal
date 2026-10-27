@@ -91,13 +91,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2002-425885
   date: '2002-10-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/29/1992/08/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/29/1992/08/18/p/dre
-- type: cites
   target: pt:dre:282079:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/29/1992/08/18/p/dre
 - type: cites
   target: pt:dre:376273:por
   label: null

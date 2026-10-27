@@ -73,6 +73,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/645e8bf4-3fc9-4e88-a94f-eabd487d939f
   date: '1972-03-27'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

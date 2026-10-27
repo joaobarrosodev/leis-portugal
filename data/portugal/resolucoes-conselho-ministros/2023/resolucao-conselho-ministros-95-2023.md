@@ -70,17 +70,9 @@ subjects:
 - Presidente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/42/2017/03/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/42/2017/03/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/54/2020/07/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/54/2020/07/23/p/dre
-- type: cites
   target: pt:dre:106626079:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/42/2017/03/17/p/dre
 - type: cites
   target: pt:dre:108109633:por
   label: null
@@ -100,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:138638756:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/54/2020/07/23/p/dre
 - type: cites
   target: pt:dre:195800:por
   label: null

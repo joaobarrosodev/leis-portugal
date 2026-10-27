@@ -80,14 +80,6 @@ subjects:
 - Região do Oeste e VALE do TEJO
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/102/2007/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/102/2007/08/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre
-- type: cites
   target: pt:dre:124171092:por
   label: null
   source: null
@@ -138,7 +130,7 @@ relationships:
 - type: cites
   target: pt:dre:636444:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/102/2007/08/03/p/dre
 - type: cites
   target: pt:dre:639155:por
   label: null
@@ -146,7 +138,7 @@ relationships:
 - type: cites
   target: pt:dre:665513:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre
 - type: cites
   target: pt:dre:67212743:por
   label: null

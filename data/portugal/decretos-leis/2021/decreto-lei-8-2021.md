@@ -136,13 +136,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/2016/1196/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/163/2017/10/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/163/2017/10/31/p/dre
-- type: cites
   target: pt:dre:114133883:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/163/2017/10/31/p/dre
 - type: cites
   target: pt:dre:114337041:por
   label: null

@@ -164,6 +164,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/228a274b-b610-448b-87dc-84b009c723c4
   date: '1964-02-27'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31962R0023
   label: null

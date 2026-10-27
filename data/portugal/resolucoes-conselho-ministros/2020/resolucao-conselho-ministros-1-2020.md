@@ -76,17 +76,13 @@ subjects:
 - Plataforma Eletrónica
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/43/2019/09/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/43/2019/09/19/p/dre
-- type: cites
   target: pt:dre:124457184:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/150/2019/09/05/p/dre
 - type: cites
   target: pt:dre:124831328:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/43/2019/09/19/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null

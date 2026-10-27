@@ -95,10 +95,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/270-2025-925934036
   date: '2025-07-23'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/43/2022/01/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/43/2022/01/19/p/dre
-- type: cites
   target: pt:dre:116108099:por
   label: null
   source: http://data.dre.pt/eli/lei/53/2018/08/20/p/dre
@@ -106,6 +102,10 @@ relationships:
   target: pt:dre:146221:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
+- type: cites
+  target: pt:dre:177847671:por
+  label: null
+  source: http://data.dre.pt/eli/port/43/2022/01/19/p/dre
 - type: cites
   target: pt:dre:223045467:por
   label: null

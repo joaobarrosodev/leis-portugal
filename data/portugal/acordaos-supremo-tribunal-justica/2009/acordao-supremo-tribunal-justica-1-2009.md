@@ -73,10 +73,6 @@ subjects:
 - Regime das contra Ordenações
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/27/2006/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/27/2006/03/03/p/dre
-- type: cites
   target: pt:dre:226051:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/329-a/1995/12/12/p/dre
@@ -115,7 +111,7 @@ relationships:
 - type: cites
   target: pt:dre:693064:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/27/2006/03/03/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -80,29 +80,9 @@ subjects:
 - Trabalhador por Conta de Outrem
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/224/2018/08/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/224/2018/08/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/253/2015/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/253/2015/08/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/259/2019/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/259/2019/08/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/265/2017/09/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/265/2017/09/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/54/2017/02/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/54/2017/02/03/p/dre
-- type: cites
   target: pt:dre:106396884:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/54/2017/02/03/p/dre
 - type: cites
   target: pt:dre:107495701:por
   label: null
@@ -110,15 +90,15 @@ relationships:
 - type: cites
   target: pt:dre:108100891:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/265/2017/09/05/p/dre
 - type: cites
   target: pt:dre:115924017:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/224/2018/08/06/p/dre
 - type: cites
   target: pt:dre:124044599:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/259/2019/08/19/p/dre
 - type: cites
   target: pt:dre:185330735:por
   label: null
@@ -146,7 +126,7 @@ relationships:
 - type: cites
   target: pt:dre:70055494:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/253/2015/08/19/p/dre
 article_structure:
   article_count: 3
   section_count: 0

@@ -95,6 +95,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/fcec22db-96d2-4df4-8cbc-93874fd75d41
   date: '1965-05-19'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

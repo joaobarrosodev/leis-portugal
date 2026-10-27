@@ -189,10 +189,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/306-2026-1150651416
   date: '2026-07-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/382/2015/10/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/382/2015/10/26/p/dre
-- type: cites
   target: pt:dre:179573:por
   label: null
   source: http://data.dre.pt/eli/port/210/2012/07/12/p/dre
@@ -220,6 +216,10 @@ relationships:
   target: pt:dre:628012:por
   label: null
   source: http://data.dre.pt/eli/port/1636/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:70804090:por
+  label: null
+  source: http://data.dre.pt/eli/port/382/2015/10/26/p/dre
 article_structure:
   article_count: 15
   section_count: 3

@@ -87,13 +87,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2005-605334
   date: '2005-01-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/123/2004/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/123/2004/08/19/p/dre
-- type: cites
   target: pt:dre:480536:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/123/2004/08/19/p/dre
 - type: cites
   target: pt:dre:626252:por
   label: null

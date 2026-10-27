@@ -83,17 +83,9 @@ subjects:
 - ZONA Crítica de Incêndio Florestal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2018/03/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2018/03/01/p/dre
-- type: cites
   target: pt:dre:114109966:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites
   target: pt:dre:114706489:por
   label: null
@@ -101,7 +93,7 @@ relationships:
 - type: cites
   target: pt:dre:114782541:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2018/03/01/p/dre
 - type: cites
   target: pt:dre:117726476:por
   label: null

@@ -79,13 +79,9 @@ subjects:
 - TAP-Serviços Portugueses de Handling
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/166/2003/11/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/166/2003/11/03/p/dre
-- type: cites
   target: pt:dre:468664:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/166/2003/11/03/p/dre
 - type: cites
   target: pt:dre:516726:por
   label: null

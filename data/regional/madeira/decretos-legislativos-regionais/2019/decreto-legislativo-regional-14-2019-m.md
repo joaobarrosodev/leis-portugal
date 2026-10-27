@@ -91,10 +91,6 @@ subjects:
 - Taxa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/31/2013/07/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/31/2013/07/24/p/dre
-- type: cites
   target: pt:dre:118748847:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/20/2019/01/30/p/dre
@@ -125,7 +121,7 @@ relationships:
 - type: cites
   target: pt:dre:498766:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/31/2013/07/24/p/dre
 - type: cites
   target: pt:dre:58752835:por
   label: null

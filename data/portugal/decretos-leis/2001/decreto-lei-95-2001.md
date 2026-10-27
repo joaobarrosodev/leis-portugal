@@ -81,21 +81,9 @@ subjects:
 - Zona de Proteção
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/2/1995/01/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/2/1995/01/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33/1995/04/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33/1995/04/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/83/1995/09/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/83/1995/09/01/p/dre
-- type: cites
   target: pt:dre:146941:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/2/1995/01/13/p/dre
 - type: cites
   target: pt:dre:172110:por
   label: null
@@ -103,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:230762:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33/1995/04/10/p/dre
 - type: cites
   target: pt:dre:409292:por
   label: null
@@ -111,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:546847:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/83/1995/09/01/p/dre
 - type: cites
   target: pt:dre:689637:por
   label: null

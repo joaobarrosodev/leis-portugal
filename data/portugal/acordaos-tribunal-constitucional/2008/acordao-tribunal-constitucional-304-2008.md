@@ -74,10 +74,6 @@ subjects:
 - Polícia Judiciária
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/620/2008/01/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/620/2008/01/14/p/dre
-- type: cites
   target: pt:dre:215078:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/43/2003/03/13/p/dre
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:386630:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/620/2008/01/14/p/dre
 - type: cites
   target: pt:dre:406551:por
   label: null

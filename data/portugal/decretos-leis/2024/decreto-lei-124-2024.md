@@ -82,17 +82,13 @@ relationships:
   source: null
   date: '2015-10-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/7/2022/01/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/7/2022/01/10/p/dre
-- type: cites
   target: pt:dre:114276583:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/143/2017/11/29/p/dre
 - type: cites
   target: pt:dre:177350574:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/7/2022/01/10/p/dre
 - type: cites
   target: pt:dre:224728395:por
   label: null

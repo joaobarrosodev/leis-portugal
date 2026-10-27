@@ -191,14 +191,6 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/231/2021/11/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/231/2021/11/02/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
@@ -213,11 +205,11 @@ relationships:
 - type: cites
   target: pt:dre:173707578:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/231/2021/11/02/p/dre
 - type: cites
   target: pt:dre:175923959:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
 - type: cites
   target: pt:dre:177634016:por
   label: null

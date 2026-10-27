@@ -71,10 +71,6 @@ subjects:
 - Reserva Ecológica Nacional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/2005/03/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/2005/03/31/p/dre
-- type: cites
   target: pt:dre:333172:por
   label: null
   source: null
@@ -89,7 +85,7 @@ relationships:
 - type: cites
   target: pt:dre:564460:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/81/2005/03/31/p/dre
 - type: corrected_by
   target: pt:dre:108195780:por
   label: Corrigida materialmente a carta de delimitação da Reserva Ecológica Nacional do município de Ponte de Lima, aprovada

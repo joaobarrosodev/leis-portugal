@@ -135,11 +135,23 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/3a99d3f8-d853-4735-9c90-2686a2d5ba04
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:117487428:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:119901751:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:135711318:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:149532792:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:154945781:por
   label: null
   source: null
 - type: cited_by

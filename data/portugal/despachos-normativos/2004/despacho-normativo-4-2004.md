@@ -79,10 +79,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
-- type: cites
   target: pt:dre:176546:por
   label: null
   source: http://data.dre.pt/eli/despnorm/1/2003/01/15/p/dre
@@ -93,7 +89,7 @@ relationships:
 - type: cites
   target: pt:dre:423657:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
 - type: cites
   target: pt:dre:614350:por
   label: null

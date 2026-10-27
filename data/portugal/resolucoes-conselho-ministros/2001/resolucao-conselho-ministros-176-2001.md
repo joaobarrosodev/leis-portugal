@@ -77,10 +77,6 @@ subjects:
 - Sistema de Autoridade Marítima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-- type: cites
   target: pt:dre:198907:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/185/1996/11/28/p/dre
@@ -91,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:522203:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
 article_structure:
   article_count: 0
   section_count: 0

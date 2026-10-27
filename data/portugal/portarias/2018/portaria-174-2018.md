@@ -102,7 +102,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/2016/1102/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/152/2017/05/03/p/dre
+  target: pt:dre:106960763:por
   label: null
   source: http://data.dre.pt/eli/port/152/2017/05/03/p/dre
 - type: cites

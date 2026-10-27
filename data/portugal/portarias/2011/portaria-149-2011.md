@@ -130,7 +130,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/311-2021-176147941
   date: '2021-12-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
+  target: pt:dre:247255:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
 - type: cites

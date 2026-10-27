@@ -79,17 +79,13 @@ subjects:
 - Subsídio
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/146/2021/07/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/146/2021/07/13/p/dre
-- type: cites
   target: pt:dre:108051992:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/103/2017/08/24/p/dre
 - type: cites
   target: pt:dre:167133020:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/146/2021/07/13/p/dre
 - type: corrected_by
   target: pt:dre:1171008706:por
   label: Retificado, o n.º 2 do artigo 2.º, n.º 3 do artigo 27.º do anexo, o n.º 2 do artigo 47.º do anexo, a alínea b) do

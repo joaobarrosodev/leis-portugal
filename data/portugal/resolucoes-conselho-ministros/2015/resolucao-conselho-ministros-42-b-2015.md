@@ -85,29 +85,13 @@ subjects:
 - Transferência de Verbas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/248-a/2014/11/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/248-a/2014/11/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/93/2015/03/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/93/2015/03/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2011/02/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2011/02/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/51/2008/03/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/51/2008/03/19/p/dre
-- type: cites
   target: pt:dre:191102:por
   label: null
   source: http://data.dre.pt/eli/port/371/2012/11/16/p/dre
 - type: cites
   target: pt:dre:246545:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/51/2008/03/19/p/dre
 - type: cites
   target: pt:dre:263237:por
   label: null
@@ -115,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:280484:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2011/02/08/p/dre
 - type: cites
   target: pt:dre:324147:por
   label: null
@@ -127,11 +111,11 @@ relationships:
 - type: cites
   target: pt:dre:59077892:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/248-a/2014/11/26/p/dre
 - type: cites
   target: pt:dre:66863792:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/93/2015/03/27/p/dre
 article_structure:
   article_count: 0
   section_count: 0

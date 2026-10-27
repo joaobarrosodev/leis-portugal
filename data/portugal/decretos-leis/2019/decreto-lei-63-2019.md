@@ -119,13 +119,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547
   date: '2021-12-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/258/2017/08/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/258/2017/08/21/p/dre
-- type: cites
   target: pt:dre:105658706:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-c/2016/12/29/p/dre
+- type: cites
+  target: pt:dre:108028572:por
+  label: null
+  source: http://data.dre.pt/eli/port/258/2017/08/21/p/dre
 - type: cites
   target: pt:dre:115886130:por
   label: null

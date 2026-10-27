@@ -87,10 +87,6 @@ subjects:
 - Retribuição Mínima Garantida
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/294-b/2020/12/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/294-b/2020/12/18/p/dre
-- type: cites
   target: pt:dre:135391594:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
@@ -109,7 +105,7 @@ relationships:
 - type: cites
   target: pt:dre:151658533:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/294-b/2020/12/18/p/dre
 - type: cites
   target: pt:dre:185330735:por
   label: null

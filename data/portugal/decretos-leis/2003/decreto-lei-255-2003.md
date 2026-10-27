@@ -80,13 +80,9 @@ subjects:
 - Sociedade da Informação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
-- type: cites
   target: pt:dre:451783:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
 - type: cites
   target: pt:dre:660949:por
   label: null

@@ -99,10 +99,6 @@ relationships:
   source: null
   date: '1994-05-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/358/1993/01/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/358/1993/01/26/p/dre
-- type: cites
   target: pt:dre:172174:por
   label: null
   source: http://data.dre.pt/eli/lei/20/2002/08/21/p/dre
@@ -137,7 +133,7 @@ relationships:
 - type: cites
   target: pt:dre:601278:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/358/1993/01/26/p/dre
 - type: cites
   target: pt:dre:608743:por
   label: null

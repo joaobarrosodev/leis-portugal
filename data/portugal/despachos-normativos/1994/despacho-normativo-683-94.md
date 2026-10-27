@@ -78,13 +78,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/200-2000-1988180
   date: '1999-12-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
-- type: cites
   target: pt:dre:222627:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
 - type: cites
   target: pt:dre:264966:por
   label: null

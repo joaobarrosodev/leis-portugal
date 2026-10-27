@@ -105,10 +105,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2020-148303899
   date: '2020-11-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/84/2015/03/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
-- type: cites
   target: pt:dre:130243053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
@@ -136,6 +132,10 @@ relationships:
   target: pt:dre:66325237:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
+- type: cites
+  target: pt:dre:66818377:por
+  label: null
+  source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
 article_structure:
   article_count: 20
   section_count: 1

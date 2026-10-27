@@ -87,10 +87,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/112-2009-490247
   date: '2009-09-16'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
-- type: cites
   target: pt:dre:345129:por
   label: null
   source: http://data.dre.pt/eli/lei/107/1999/08/03/p/dre
@@ -101,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:666708:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
 - type: repealed_by
   target: pt:dre:114561723:por
   label: Revogado pelo(a) Decreto Regulamentar n.º 2/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24

@@ -71,13 +71,9 @@ subjects:
 - Seixal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/1991/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/1991/06/04/p/dre
-- type: cites
   target: pt:dre:629460:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/1991/06/04/p/dre
 article_structure:
   article_count: 0
   section_count: 0

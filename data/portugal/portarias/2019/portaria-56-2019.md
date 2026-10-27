@@ -103,7 +103,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/18-2022-177160279
   date: '2022-01-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/115/2018/09/06/p/dre
+  target: pt:dre:116341224:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/115/2018/09/06/p/dre
 - type: cites

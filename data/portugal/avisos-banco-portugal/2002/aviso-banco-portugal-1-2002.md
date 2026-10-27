@@ -89,7 +89,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/10-2005-233951
   date: '2005-06-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/3/2000/01/03/p/dre
+  target: pt:dre:511442:por
   label: null
   source: http://data.dre.pt/eli/av/3/2000/01/03/p/dre
 article_structure:

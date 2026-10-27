@@ -101,7 +101,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/110-2021-169361001
   date: '2021-08-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/85/2017/06/19/p/dre
+  target: pt:dre:107524708:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/85/2017/06/19/p/dre
 - type: cites

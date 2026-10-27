@@ -88,13 +88,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/301-2013-494809
   date: '2013-10-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre
-- type: cites
   target: pt:dre:192419:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre
 - type: cites
   target: pt:dre:396926:por
   label: null

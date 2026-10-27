@@ -84,13 +84,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-1995-512831
   date: '1995-05-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/445/1993/08/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/445/1993/08/13/p/dre
-- type: cites
   target: pt:dre:356104:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/445/1993/08/13/p/dre
 - type: cites
   target: pt:dre:369816:por
   label: null

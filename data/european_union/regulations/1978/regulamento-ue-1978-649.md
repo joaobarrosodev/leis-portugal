@@ -143,6 +143,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/6b15576a-bc74-4822-8a03-d5895d9057d3
   date: '1977-05-26'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: corrected_by
   target: celex:31978R0649R(01)
   label: null

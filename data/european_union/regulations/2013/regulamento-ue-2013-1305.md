@@ -543,11 +543,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/6b390c35-d623-4785-86a0-1fb492a32cab
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:105340330:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:105349903:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:105579664:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:105643559:por
   label: null
   source: null
 - type: cited_by
@@ -559,6 +567,22 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:105791088:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106401323:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106522768:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106531325:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:107010460:por
   label: null
   source: null
@@ -567,11 +591,31 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114561768:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114749191:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114952498:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:115200308:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:116877128:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:117575760:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:117575761:por
   label: null
   source: null
 - type: cited_by
@@ -587,7 +631,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:122074197:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:122253266:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:122541300:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:123513822:por
   label: null
   source: null
 - type: cited_by
@@ -595,7 +651,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:124952006:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:127535213:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:128355820:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:128832424:por
   label: null
   source: null
 - type: cited_by
@@ -607,11 +675,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:148853506:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:152015943:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:157116188:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:159062679:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:160510574:por
   label: null
   source: null
 - type: cited_by
@@ -631,7 +711,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:165446278:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:170880299:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:171183637:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:171674416:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:176807512:por
   label: null
   source: null
 - type: cited_by
@@ -703,11 +799,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:58661941:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:58815352:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:66384005:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:66432453:por
   label: null
   source: null
 - type: cited_by
@@ -747,6 +851,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:66902699:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:66970721:por
   label: null
   source: null
@@ -767,6 +875,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:69828946:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70014795:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:70423678:por
   label: null
   source: null
@@ -780,6 +896,14 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:73576679:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:73576686:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:74334114:por
   label: null
   source: null
 - type: cited_by

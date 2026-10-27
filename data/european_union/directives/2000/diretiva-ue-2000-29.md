@@ -443,6 +443,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:67040491:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:67058845:por
   label: null
   source: null
@@ -612,6 +616,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:58801094:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:66041394:por
   label: null
   source: null
 article_structure:

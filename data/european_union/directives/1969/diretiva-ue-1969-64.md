@@ -95,6 +95,10 @@ relationships:
   target: pt:dre:505211:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0

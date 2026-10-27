@@ -95,41 +95,17 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/2115/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/144/2018/05/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/144/2018/05/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/332/2019/09/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/332/2019/09/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/338-a/2016/12/28/p/dre
+  target: pt:dre:105643559:por
   label: null
   source: http://data.dre.pt/eli/port/338-a/2016/12/28/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/374/2015/10/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/374/2015/10/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/46/2018/02/12/p/dre
+  target: pt:dre:114682828:por
   label: null
   source: http://data.dre.pt/eli/port/46/2018/02/12/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/6/2019/01/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/6/2019/01/04/p/dre
-- type: cites
-  target: pt:dre:105643559:por
-  label: null
-  source: null
-- type: cites
-  target: pt:dre:114682828:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:115360040:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/144/2018/05/21/p/dre
 - type: cites
   target: pt:dre:116895169:por
   label: null
@@ -137,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:117575761:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/6/2019/01/04/p/dre
 - type: cites
   target: pt:dre:124283151:por
   label: null
@@ -145,7 +121,7 @@ relationships:
 - type: cites
   target: pt:dre:124952006:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/332/2019/09/24/p/dre
 - type: cites
   target: pt:dre:130779511:por
   label: null
@@ -173,7 +149,7 @@ relationships:
 - type: cites
   target: pt:dre:70748599:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/374/2015/10/20/p/dre
 article_structure:
   article_count: 2
   section_count: 0

@@ -88,17 +88,13 @@ subjects:
 - Vouzela
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/366/2017/12/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/366/2017/12/07/p/dre
-- type: cites
   target: pt:dre:114200699:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/142/2017/11/14/p/dre
 - type: cites
   target: pt:dre:114315240:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/366/2017/12/07/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null

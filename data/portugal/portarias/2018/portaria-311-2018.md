@@ -160,17 +160,17 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2017/256/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/10/2018/01/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/10/2018/01/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/347/2017/11/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/347/2017/11/13/p/dre
-- type: cites
   target: pt:dre:105300327:por
   label: null
   source: http://data.dre.pt/eli/port/303/2016/12/05/p/dre
+- type: cites
+  target: pt:dre:114190329:por
+  label: null
+  source: http://data.dre.pt/eli/port/347/2017/11/13/p/dre
+- type: cites
+  target: pt:dre:114457670:por
+  label: null
+  source: http://data.dre.pt/eli/port/10/2018/01/05/p/dre
 - type: cites
   target: pt:dre:552802:por
   label: null

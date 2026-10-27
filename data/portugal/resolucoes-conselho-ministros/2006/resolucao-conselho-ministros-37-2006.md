@@ -72,25 +72,17 @@ subjects:
 - Pagamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/14/2000/03/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/14/2000/03/29/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-- type: cites
   target: pt:dre:441525:por
   label: null
   source: null
 - type: cites
   target: pt:dre:464205:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
 - type: cites
   target: pt:dre:508995:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/14/2000/03/29/p/dre
 - type: cites
   target: pt:dre:610411:por
   label: null

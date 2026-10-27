@@ -95,10 +95,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2022-177309295
   date: '2022-01-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/276/2020/12/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/276/2020/12/04/p/dre
-- type: cites
   target: pt:dre:125028208:por
   label: null
   source: http://data.dre.pt/eli/port/339/2019/10/01/p/dre
@@ -106,6 +102,10 @@ relationships:
   target: pt:dre:144272499:por
   label: null
   source: http://data.dre.pt/eli/port/232/2020/10/01/p/dre
+- type: cites
+  target: pt:dre:150368749:por
+  label: null
+  source: http://data.dre.pt/eli/port/276/2020/12/04/p/dre
 - type: cites
   target: pt:dre:152639804:por
   label: null

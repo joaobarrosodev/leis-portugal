@@ -125,17 +125,17 @@ subjects:
 - Vice-chefe do Estado Maior da Armada
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+  target: pt:dre:172728:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/6/2003/01/20/p/dre
+- type: cites
+  target: pt:dre:259967:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+  target: pt:dre:260395:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/6/2003/01/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/6/2003/01/20/p/dre
 - type: cites
   target: pt:dre:345291:por
   label: null

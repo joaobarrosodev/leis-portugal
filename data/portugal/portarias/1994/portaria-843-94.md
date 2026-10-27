@@ -70,13 +70,9 @@ subjects:
 - Cooperação Interempresas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/63/1994/08/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/63/1994/08/05/p/dre
-- type: cites
   target: pt:dre:223260:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/63/1994/08/05/p/dre
 - type: cites
   target: pt:dre:291641:por
   label: null

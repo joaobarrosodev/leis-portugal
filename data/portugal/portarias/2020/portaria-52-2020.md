@@ -149,17 +149,17 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/651/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/116/2018/09/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/116/2018/09/06/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:107684448:por
+  label: null
+  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+- type: cites
+  target: pt:dre:116341225:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/116/2018/09/06/p/dre
 - type: cites
   target: pt:dre:116640900:por
   label: null

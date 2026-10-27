@@ -95,13 +95,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/20-2021-159792487
   date: '2021-03-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
-- type: cites
   target: pt:dre:106509196:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/22/2017/02/22/p/dre
+- type: cites
+  target: pt:dre:108219721:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -79,10 +79,6 @@ subjects:
 - Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/1/2022/01/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/1/2022/01/03/p/dre
-- type: cites
   target: pt:dre:145186:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/124/2011/12/29/p/dre
@@ -93,7 +89,7 @@ relationships:
 - type: cites
   target: pt:dre:176907537:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/1/2022/01/03/p/dre
 - type: cites
   target: pt:dre:187049881:por
   label: null

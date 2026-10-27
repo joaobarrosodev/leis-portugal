@@ -121,10 +121,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/910/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/87/2018/03/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/87/2018/03/28/p/dre
-- type: cites
   target: pt:dre:107791615:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/93/2017/08/01/p/dre
@@ -139,7 +135,7 @@ relationships:
 - type: cites
   target: pt:dre:114937035:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/87/2018/03/28/p/dre
 - type: cites
   target: pt:dre:123025739:por
   label: null

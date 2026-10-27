@@ -84,13 +84,13 @@ subjects:
 - Rede Nacional de Cuidados Continuados
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/140/2021/07/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/140/2021/07/08/p/dre
-- type: cites
   target: pt:dre:158238387:por
   label: null
   source: http://data.dre.pt/eli/port/45/2021/02/24/p/dre
+- type: cites
+  target: pt:dre:166658186:por
+  label: null
+  source: http://data.dre.pt/eli/port/140/2021/07/08/p/dre
 - type: cites
   target: pt:dre:187049881:por
   label: null

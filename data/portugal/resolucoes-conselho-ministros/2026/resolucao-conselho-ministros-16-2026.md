@@ -78,10 +78,6 @@ relationships:
   source: null
   date: '2009-10-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/55/2010/08/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/55/2010/08/04/p/dre
-- type: cites
   target: pt:dre:190646:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2012/12/07/p/dre
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:333501:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/55/2010/08/04/p/dre
 - type: cites
   target: pt:dre:491420:por
   label: null

@@ -98,10 +98,6 @@ relationships:
   source: null
   date: '2020-02-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/119-a/2021/12/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/119-a/2021/12/22/p/dre
-- type: cites
   target: pt:dre:108074437:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/108/2017/08/30/p/dre
@@ -120,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:176412619:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/119-a/2021/12/22/p/dre
 - type: cites
   target: pt:dre:25676932:por
   label: null

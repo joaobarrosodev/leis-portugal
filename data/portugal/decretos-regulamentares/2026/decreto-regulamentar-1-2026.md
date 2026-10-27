@@ -86,17 +86,13 @@ relationships:
   source: null
   date: '2021-03-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/66/2021/03/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/66/2021/03/17/p/dre
-- type: cites
   target: pt:dre:107094720:por
   label: null
   source: http://data.dre.pt/eli/lei/25/2017/05/30/p/dre
 - type: cites
   target: pt:dre:159614843:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/66/2021/03/17/p/dre
 - type: cites
   target: pt:dre:543046:por
   label: null

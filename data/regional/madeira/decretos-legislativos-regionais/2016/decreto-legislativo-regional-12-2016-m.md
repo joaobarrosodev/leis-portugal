@@ -86,14 +86,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2018-117047303
   date: '2018-11-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/declretif/4-a/2013/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/4-a/2013/01/18/p/dre
-- type: cites
   target: pt:dre:191076:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/249/2012/11/21/p/dre
@@ -108,7 +100,7 @@ relationships:
 - type: cites
   target: pt:dre:289588:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/4-a/2013/01/18/p/dre
 - type: cites
   target: pt:dre:303585:por
   label: null
@@ -128,7 +120,7 @@ relationships:
 - type: cites
   target: pt:dre:56303285:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
 - type: cites
   target: pt:dre:629666:por
   label: null

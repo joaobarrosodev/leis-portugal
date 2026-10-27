@@ -448,6 +448,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:66603017:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:673639:por
   label: null
   source: null
@@ -667,6 +671,10 @@ relationships:
   date: '1996-02-10'
 - type: transposed_by
   target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:70055493:por
   label: null
   source: null
 article_structure:

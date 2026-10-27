@@ -75,17 +75,9 @@ subjects:
 - União de Bancos Portugueses
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/40/1992/11/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/40/1992/11/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/47/1994/06/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/47/1994/06/27/p/dre
-- type: cites
   target: pt:dre:242067:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/40/1992/11/16/p/dre
 - type: cites
   target: pt:dre:301451:por
   label: null
@@ -97,7 +89,7 @@ relationships:
 - type: cites
   target: pt:dre:533389:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/47/1994/06/27/p/dre
 - type: cites
   target: pt:dre:646722:por
   label: null

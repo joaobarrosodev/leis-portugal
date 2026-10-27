@@ -77,14 +77,6 @@ subjects:
 - Regulamento Específico do Domínio da Sustentabilidade e Eficiência no Uso de Recursos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/17/2016/09/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/17/2016/09/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/404-a/2015/11/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/404-a/2015/11/18/p/dre
-- type: cites
   target: pt:dre:106657702:por
   label: null
   source: null
@@ -147,7 +139,7 @@ relationships:
 - type: cites
   target: pt:dre:71049717:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/404-a/2015/11/18/p/dre
 - type: cites
   target: pt:dre:75214145:por
   label: null
@@ -155,7 +147,7 @@ relationships:
 - type: cites
   target: pt:dre:75409472:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/17/2016/09/26/p/dre
 article_structure:
   article_count: 3
   section_count: 0

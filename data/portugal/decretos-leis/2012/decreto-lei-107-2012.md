@@ -147,10 +147,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2026-1045423484
   date: '2026-02-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:243747:por
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
@@ -170,6 +166,10 @@ relationships:
   target: pt:dre:468663:por
   label: null
   source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:609990:por
   label: null

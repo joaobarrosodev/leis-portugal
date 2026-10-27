@@ -74,14 +74,6 @@ subjects:
 - Transferência de Competências
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/23/2022/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/23/2022/02/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/96/2020/11/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/96/2020/11/11/p/dre
-- type: cites
   target: pt:dre:116068877:por
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
@@ -108,11 +100,11 @@ relationships:
 - type: cites
   target: pt:dre:148214578:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/96/2020/11/11/p/dre
 - type: cites
   target: pt:dre:179008335:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/23/2022/02/14/p/dre
 - type: cites
   target: pt:dre:185839054:por
   label: null

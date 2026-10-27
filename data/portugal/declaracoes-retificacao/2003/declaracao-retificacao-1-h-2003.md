@@ -78,17 +78,13 @@ subjects:
 - Transporte Ferroviário
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/97/2000/08/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/97/2000/08/02/p/dre
-- type: cites
   target: pt:dre:158647:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2002/05/18/p/dre
 - type: cites
   target: pt:dre:314607:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/97/2000/08/02/p/dre
 - type: cites
   target: pt:dre:406686:por
   label: null

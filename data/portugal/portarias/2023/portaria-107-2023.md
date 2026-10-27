@@ -78,13 +78,9 @@ subjects:
 - Vistoria
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/96/2018/04/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/96/2018/04/06/p/dre
-- type: cites
   target: pt:dre:114988990:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/96/2018/04/06/p/dre
 - type: cites
   target: pt:dre:183941536:por
   label: null

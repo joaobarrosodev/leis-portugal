@@ -103,17 +103,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2021-176907550
   date: '2021-12-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/123-a/2014/06/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/123-a/2014/06/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/82/2014/04/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/82/2014/04/10/p/dre
-- type: cites
   target: pt:dre:145186:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/124/2011/12/29/p/dre
+- type: cites
+  target: pt:dre:25343991:por
+  label: null
+  source: http://data.dre.pt/eli/port/82/2014/04/10/p/dre
+- type: cites
+  target: pt:dre:25345137:por
+  label: null
+  source: http://data.dre.pt/eli/port/123-a/2014/06/19/p/dre
 - type: cites
   target: pt:dre:425487:por
   label: null

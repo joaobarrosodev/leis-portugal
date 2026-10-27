@@ -89,10 +89,6 @@ subjects:
 - Balcão do Arrendatário e do Senhorio
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/30/2015/02/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/30/2015/02/12/p/dre
-- type: cites
   target: pt:dre:116433035:por
   label: null
   source: http://data.dre.pt/eli/port/267/2018/09/20/p/dre
@@ -124,6 +120,10 @@ relationships:
   target: pt:dre:588827:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/1/2013/01/07/p/dre
+- type: cites
+  target: pt:dre:66487459:por
+  label: null
+  source: http://data.dre.pt/eli/port/30/2015/02/12/p/dre
 - type: cites
   target: pt:dre:693853:por
   label: null

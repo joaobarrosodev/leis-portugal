@@ -85,10 +85,6 @@ subjects:
 - Zona de Proteção
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/90/2002/04/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/90/2002/04/23/p/dre
-- type: cites
   target: pt:dre:183842:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/104/2002/08/09/p/dre
@@ -103,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:288782:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/90/2002/04/23/p/dre
 - type: cites
   target: pt:dre:313801:por
   label: null

@@ -77,10 +77,6 @@ subjects:
 - Sociedade Comercial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/93/1992/05/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/93/1992/05/28/p/dre
-- type: cites
   target: pt:dre:115138846:por
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2018/04/19/p/dre
@@ -111,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:515596:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/93/1992/05/28/p/dre
 - type: cites
   target: pt:dre:558991:por
   label: null

@@ -102,7 +102,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-h-1997-235331
   date: '1997-01-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33-a/1994/05/17/p/dre
+  target: pt:dre:426906:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/33-a/1994/05/17/p/dre
 - type: cites

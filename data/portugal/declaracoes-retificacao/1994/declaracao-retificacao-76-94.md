@@ -70,13 +70,9 @@ subjects:
 - BEI
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/30/1994/05/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/30/1994/05/12/p/dre
-- type: cites
   target: pt:dre:263714:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/30/1994/05/12/p/dre
 article_structure:
   article_count: 0
   section_count: 0

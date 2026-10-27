@@ -89,10 +89,6 @@ relationships:
   source: null
   date: '2012-08-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/254/2016/09/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/254/2016/09/26/p/dre
-- type: cites
   target: pt:dre:115652962:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/2018/07/06/p/dre
@@ -111,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:75409473:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/254/2016/09/26/p/dre
 article_structure:
   article_count: 5
   section_count: 0

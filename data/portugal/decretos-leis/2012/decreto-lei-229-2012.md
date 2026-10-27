@@ -116,17 +116,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480
   date: '2020-09-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/35/2012/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/35/2012/03/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
-- type: cites
   target: pt:dre:145192:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/2011/12/29/p/dre
+- type: cites
+  target: pt:dre:146923:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
 - type: cites
   target: pt:dre:243747:por
   label: null
@@ -143,6 +139,10 @@ relationships:
   target: pt:dre:545575:por
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:553474:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/35/2012/03/16/p/dre
 - type: cites
   target: pt:dre:622306:por
   label: null

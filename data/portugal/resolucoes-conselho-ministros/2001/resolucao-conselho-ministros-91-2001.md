@@ -76,14 +76,6 @@ subjects:
 - Política Social
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/72/2001/06/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/72/2001/06/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
-- type: cites
   target: pt:dre:248975:por
   label: null
   source: http://data.dre.pt/eli/declrectif/10-o/1998/05/30/p/dre
@@ -94,11 +86,11 @@ relationships:
 - type: cites
   target: pt:dre:362303:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/72/2001/06/21/p/dre
 - type: cites
   target: pt:dre:428656:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
 - type: cites
   target: pt:dre:428857:por
   label: null

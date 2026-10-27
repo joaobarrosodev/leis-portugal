@@ -95,6 +95,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:176811785:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:178210554:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:221937433:por
   label: null
   source: null

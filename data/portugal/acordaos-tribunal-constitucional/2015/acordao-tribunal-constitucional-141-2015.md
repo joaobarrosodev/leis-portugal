@@ -107,10 +107,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2004/883/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/509/2003/02/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/509/2003/02/12/p/dre
-- type: cites
   target: pt:dre:175291:por
   label: null
   source: http://data.dre.pt/eli/lei/29/2012/08/09/p/dre
@@ -121,7 +117,7 @@ relationships:
 - type: cites
   target: pt:dre:198691:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/509/2003/02/12/p/dre
 - type: cites
   target: pt:dre:245296:por
   label: null

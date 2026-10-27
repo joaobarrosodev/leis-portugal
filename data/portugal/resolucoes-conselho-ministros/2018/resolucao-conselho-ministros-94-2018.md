@@ -80,17 +80,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/17/2014/03/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/17/2014/03/07/p/dre
-- type: cites
   target: pt:dre:107669156:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
 - type: cites
   target: pt:dre:107745746:por
   label: null
@@ -110,7 +102,7 @@ relationships:
 - type: cites
   target: pt:dre:572415:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/17/2014/03/07/p/dre
 - type: repealed_by
   target: pt:dre:942401305:por
   label: Revogada, a partir de 28 de outubro de 2025, pelo(a) Resolução do Conselho de Ministros n.º 167/2025 - Diário da

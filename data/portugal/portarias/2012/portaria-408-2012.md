@@ -107,10 +107,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-2013-260404
   date: '2013-04-18'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
-- type: cites
   target: pt:dre:162811:por
   label: null
   source: null
@@ -157,7 +153,7 @@ relationships:
 - type: cites
   target: pt:dre:553594:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
 - type: cites
   target: pt:dre:605542:por
   label: null

@@ -83,13 +83,9 @@ subjects:
 - Renovação Urbana
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/167-b/2017/11/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/167-b/2017/11/02/p/dre
-- type: cites
   target: pt:dre:114145440:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/167-b/2017/11/02/p/dre
 - type: cites
   target: pt:dre:114145441:por
   label: null

@@ -87,10 +87,6 @@ subjects:
 - Tributação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/400/2015/11/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/400/2015/11/06/p/dre
-- type: cites
   target: pt:dre:243769:por
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
@@ -113,7 +109,7 @@ relationships:
 - type: cites
   target: pt:dre:70933465:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/400/2015/11/06/p/dre
 - type: cites
   target: pt:dre:73958532:por
   label: null

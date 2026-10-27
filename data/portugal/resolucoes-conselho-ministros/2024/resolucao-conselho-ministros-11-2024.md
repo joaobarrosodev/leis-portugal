@@ -106,14 +106,6 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
-- type: cites
   target: pt:dre:122286662:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/60/2019/05/13/p/dre
@@ -124,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:122777644:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites
   target: pt:dre:130893436:por
   label: null
@@ -160,7 +152,7 @@ relationships:
 - type: cites
   target: pt:dre:156295372:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
 - type: cites
   target: pt:dre:158545440:por
   label: null

@@ -138,10 +138,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710
   date: '2025-07-02'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-- type: cites
   target: pt:dre:115886134:por
   label: null
   source: http://data.dre.pt/eli/declegreg/11/2018/08/03/m/dre
@@ -165,6 +161,10 @@ relationships:
   target: pt:dre:468663:por
   label: null
   source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
 - type: cites
   target: pt:dre:66016527:por
   label: null

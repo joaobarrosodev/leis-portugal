@@ -88,10 +88,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/38-2005-240462
   date: '2005-07-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/8/2004/02/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/8/2004/02/06/p/dre
-- type: cites
   target: pt:dre:332749:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/169/2001/05/25/p/dre
@@ -102,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:582224:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/8/2004/02/06/p/dre
 - type: cites
   target: pt:dre:626252:por
   label: null

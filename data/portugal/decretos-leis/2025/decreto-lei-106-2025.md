@@ -73,13 +73,9 @@ subjects:
 - Região Demarcada do Douro
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/40/2019/01/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/40/2019/01/29/p/dre
-- type: cites
   target: pt:dre:118717740:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/40/2019/01/29/p/dre
 - type: cites
   target: pt:dre:163642:por
   label: null

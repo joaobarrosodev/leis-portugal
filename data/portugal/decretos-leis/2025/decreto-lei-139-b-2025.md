@@ -77,21 +77,13 @@ subjects:
 - Sistema Elétrico Nacional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/225/2015/07/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/225/2015/07/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/282/2019/08/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/282/2019/08/30/p/dre
-- type: cites
   target: pt:dre:123855888:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/104/2019/08/09/p/dre
 - type: cites
   target: pt:dre:124324706:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/282/2019/08/30/p/dre
 - type: cites
   target: pt:dre:499781:por
   label: null
@@ -103,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:69905669:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/225/2015/07/30/p/dre
 - type: cites
   target: pt:dre:893982647:por
   label: null

@@ -79,17 +79,13 @@ subjects:
 - Transmissão da Propriedade
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/2013/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/4/2013/01/18/p/dre
-- type: cites
   target: pt:dre:183014:por
   label: null
   source: null
 - type: cites
   target: pt:dre:257042:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/4/2013/01/18/p/dre
 - type: cites
   target: pt:dre:308559:por
   label: null

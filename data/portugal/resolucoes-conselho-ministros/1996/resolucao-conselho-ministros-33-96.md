@@ -94,17 +94,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/59-1999-389818
   date: '1999-05-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/63/1994/08/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/63/1994/08/05/p/dre
-- type: cites
   target: pt:dre:217704:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/244/1992/10/29/p/dre
 - type: cites
   target: pt:dre:223260:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/63/1994/08/05/p/dre
 - type: cites
   target: pt:dre:291641:por
   label: null

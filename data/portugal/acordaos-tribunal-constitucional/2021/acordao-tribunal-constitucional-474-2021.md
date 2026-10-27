@@ -89,10 +89,6 @@ subjects:
 - Serviço Nacional de Saúde
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/285/1992/08/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/285/1992/08/17/p/dre
-- type: cites
   target: pt:dre:115933863:por
   label: null
   source: http://data.dre.pt/eli/lei/38/2018/08/07/p/dre
@@ -111,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:282150:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/285/1992/08/17/p/dre
 - type: cites
   target: pt:dre:399219:por
   label: null

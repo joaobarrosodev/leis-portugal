@@ -95,13 +95,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/96-2022-202552708
   date: '2022-10-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
-- type: cites
   target: pt:dre:130243054:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
 - type: cites
   target: pt:dre:66619906:por
   label: null

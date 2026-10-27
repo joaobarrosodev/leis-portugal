@@ -78,21 +78,13 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/106/1999/09/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/106/1999/09/22/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/1994/01/19/p/dre
+  target: pt:dre:511246:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/4/1994/01/19/p/dre
 - type: cites
-  target: pt:dre:511246:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:559024:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/106/1999/09/22/p/dre
 article_structure:
   article_count: 0
   section_count: 0

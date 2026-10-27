@@ -70,7 +70,7 @@ subjects:
 - Orçamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/24/2019/01/17/p/dre
+  target: pt:dre:117942337:por
   label: null
   source: http://data.dre.pt/eli/port/24/2019/01/17/p/dre
 - type: cites

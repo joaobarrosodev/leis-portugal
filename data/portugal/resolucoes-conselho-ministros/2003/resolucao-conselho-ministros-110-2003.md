@@ -89,14 +89,6 @@ subjects:
 - UMIC
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/96/1999/08/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/96/1999/08/26/p/dre
-- type: cites
   target: pt:dre:273422:por
   label: null
   source: http://data.dre.pt/eli/lei/8/2002/02/11/p/dre
@@ -107,11 +99,11 @@ relationships:
 - type: cites
   target: pt:dre:428655:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/96/1999/08/26/p/dre
 - type: cites
   target: pt:dre:451783:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
 article_structure:
   article_count: 0
   section_count: 0

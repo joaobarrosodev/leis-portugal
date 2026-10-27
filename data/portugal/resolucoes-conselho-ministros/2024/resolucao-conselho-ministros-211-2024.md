@@ -78,10 +78,6 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/147/1995/11/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/147/1995/11/23/p/dre
-- type: cites
   target: pt:dre:201450531:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/62/2022/09/26/p/dre
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:692442:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/147/1995/11/23/p/dre
 article_structure:
   article_count: 2
   section_count: 0

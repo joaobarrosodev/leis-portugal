@@ -101,10 +101,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/432-1999-308997
   date: '1999-06-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
-- type: cites
   target: pt:dre:175357:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51/1998/04/20/p/dre
@@ -135,7 +131,7 @@ relationships:
 - type: cites
   target: pt:dre:516911:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
 - type: repealed_by
   target: pt:dre:584461:por
   label: "Revogada pela PORT.1160/2000.2000.12.07.MTS, DR.IS-B [282]\0\0"

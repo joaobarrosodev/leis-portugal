@@ -81,10 +81,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2014/94/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/2009/09/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/2009/09/07/p/dre
-- type: cites
   target: pt:dre:179069:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/170/2012/08/01/p/dre
@@ -99,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:489226:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/81/2009/09/07/p/dre
 - type: cites
   target: pt:dre:602049:por
   label: null

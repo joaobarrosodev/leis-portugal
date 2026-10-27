@@ -77,10 +77,6 @@ subjects:
 - Vigilância Electrónica
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1/2001/01/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/1/2001/01/06/p/dre
-- type: cites
   target: pt:dre:166782:por
   label: null
   source: http://data.dre.pt/eli/port/104/2003/01/27/p/dre
@@ -91,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:238800:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/1/2001/01/06/p/dre
 - type: cites
   target: pt:dre:311259:por
   label: null

@@ -81,10 +81,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/679/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
-- type: cites
   target: pt:dre:270386:por
   label: null
   source: http://data.dre.pt/eli/lei/19/2004/05/20/p/dre
@@ -115,7 +111,7 @@ relationships:
 - type: cites
   target: pt:dre:70361627:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
 article_structure:
   article_count: 68
   section_count: 20

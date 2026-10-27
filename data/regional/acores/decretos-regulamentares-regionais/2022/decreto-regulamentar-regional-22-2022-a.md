@@ -87,13 +87,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/679/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declegreg/3/2022/02/02/a/dre
-  label: null
-  source: http://data.dre.pt/eli/declegreg/3/2022/02/02/a/dre
-- type: cites
   target: pt:dre:178532530:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declegreg/3/2022/02/02/a/dre
 article_structure:
   article_count: 20
   section_count: 0

@@ -90,10 +90,6 @@ subjects:
 - Sem-abrigo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/41/2021/02/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/41/2021/02/22/p/dre
-- type: cites
   target: pt:dre:115221283:por
   label: null
   source: null
@@ -120,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:158052101:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/41/2021/02/22/p/dre
 - type: cites
   target: pt:dre:159174076:por
   label: null

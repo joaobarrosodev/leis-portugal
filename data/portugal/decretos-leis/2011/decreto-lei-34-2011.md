@@ -168,10 +168,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974
   date: '2014-10-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-- type: cites
   target: pt:dre:300583:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/68/2002/03/25/p/dre
@@ -187,6 +183,10 @@ relationships:
   target: pt:dre:576278:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/312/2001/12/10/p/dre
+- type: cites
+  target: pt:dre:613675:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
 - type: cites
   target: pt:dre:629412:por
   label: null

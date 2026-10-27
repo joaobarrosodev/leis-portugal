@@ -126,10 +126,6 @@ subjects:
 - Vice-Presidente do Governo Regional e dos Assuntos Parlamentares
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/11-b/2020/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/11-b/2020/03/16/p/dre
-- type: cites
   target: pt:dre:106542306:por
   label: null
   source: null
@@ -160,7 +156,7 @@ relationships:
 - type: cites
   target: pt:dre:130277366:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/11-b/2020/03/16/p/dre
 - type: cites
   target: pt:dre:130473088:por
   label: null

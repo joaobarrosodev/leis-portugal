@@ -192,13 +192,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2023-224081980
   date: '2023-11-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
-- type: cites
   target: pt:dre:126318034:por
   label: null
   source: http://data.dre.pt/eli/decregulreg/8-a/2019/11/19/m/dre
+- type: cites
+  target: pt:dre:126904849:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
 - type: cites
   target: pt:dre:174815:por
   label: null

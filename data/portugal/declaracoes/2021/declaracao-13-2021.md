@@ -91,13 +91,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/24-2021-167133017
   date: '2021-07-13'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/87/2021/07/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/87/2021/07/02/p/dre
-- type: cites
   target: pt:dre:130893436:por
   label: null
   source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+- type: cites
+  target: pt:dre:166296480:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/87/2021/07/02/p/dre
 - type: cites
   target: pt:dre:494178:por
   label: null

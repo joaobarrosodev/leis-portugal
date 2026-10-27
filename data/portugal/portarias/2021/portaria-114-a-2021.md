@@ -97,10 +97,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/436-2023-230090187
   date: '2023-12-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2015/07/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/208/2015/07/15/p/dre
-- type: cites
   target: pt:dre:115211109:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
@@ -132,6 +128,10 @@ relationships:
   target: pt:dre:67409483:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/102/2015/06/05/p/dre
+- type: cites
+  target: pt:dre:69812102:por
+  label: null
+  source: http://data.dre.pt/eli/port/208/2015/07/15/p/dre
 article_structure:
   article_count: 14
   section_count: 1

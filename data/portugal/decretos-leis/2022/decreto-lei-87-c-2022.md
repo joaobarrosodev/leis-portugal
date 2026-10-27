@@ -87,10 +87,6 @@ subjects:
 - Tratamento de Resíduos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/124/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/124/2021/12/30/p/dre
-- type: cites
   target: pt:dre:106380302:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/2017/02/01/p/dre
@@ -109,7 +105,7 @@ relationships:
 - type: cites
   target: pt:dre:176800373:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/124/2021/12/30/p/dre
 - type: cites
   target: pt:dre:67348945:por
   label: null

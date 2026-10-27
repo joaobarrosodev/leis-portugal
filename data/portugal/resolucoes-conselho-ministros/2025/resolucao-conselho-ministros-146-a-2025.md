@@ -70,13 +70,9 @@ subjects:
 - Nomeação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/53-b/2020/07/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/53-b/2020/07/17/p/dre
-- type: cites
   target: pt:dre:138223804:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/53-b/2020/07/17/p/dre
 - type: cites
   target: pt:dre:225375:por
   label: null

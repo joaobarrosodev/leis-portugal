@@ -73,10 +73,6 @@ subjects:
 - Madeira.região Autónoma
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/46-b/2013/11/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/46-b/2013/11/01/p/dre
-- type: cites
   target: pt:dre:105637672:por
   label: null
   source: null
@@ -103,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:263233:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/46-b/2013/11/01/p/dre
 - type: cites
   target: pt:dre:303585:por
   label: null

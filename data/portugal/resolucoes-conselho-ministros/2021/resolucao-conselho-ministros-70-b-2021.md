@@ -122,7 +122,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-a-2021-168788654
   date: '2021-07-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+  target: pt:dre:107684448:por
   label: null
   source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
 - type: cites

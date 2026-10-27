@@ -136,33 +136,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2019/1009/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/187-a/2014/09/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/187-a/2014/09/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/241-b/2019/07/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/241-b/2019/07/31/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/2018/04/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/2018/04/27/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
 - type: cites
   target: pt:dre:107669156:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
 - type: cites
   target: pt:dre:114337039:por
   label: null
@@ -174,15 +154,15 @@ relationships:
 - type: cites
   target: pt:dre:115191272:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/46/2018/04/27/p/dre
 - type: cites
   target: pt:dre:122777644:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites
   target: pt:dre:123610215:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/241-b/2019/07/31/p/dre
 - type: cites
   target: pt:dre:129160714:por
   label: null
@@ -250,7 +230,7 @@ relationships:
 - type: cites
   target: pt:dre:56928479:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/187-a/2014/09/17/p/dre
 - type: cites
   target: pt:dre:67485179:por
   label: null

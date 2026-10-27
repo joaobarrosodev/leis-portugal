@@ -92,7 +92,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2021-165950846
   date: '2021-06-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/158/2017/10/30/p/dre
+  target: pt:dre:114123458:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/158/2017/10/30/p/dre
 - type: cites

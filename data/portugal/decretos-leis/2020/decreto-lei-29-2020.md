@@ -101,13 +101,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2013/1408/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/58/2017/02/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/58/2017/02/06/p/dre
-- type: cites
   target: pt:dre:106401323:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/58/2017/02/06/p/dre
 - type: cites
   target: pt:dre:569885:por
   label: null

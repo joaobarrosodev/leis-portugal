@@ -101,41 +101,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/107-2012-189940
   date: '2012-12-18'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104/1994/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104/1994/10/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/109/1994/11/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/109/1994/11/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/115/1994/
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/115/1994/
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/140/2000/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/140/2000/10/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/175/1997/10/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/175/1997/10/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/1995/05/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/1995/05/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/6/1995/01/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/6/1995/01/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/99/2000/08/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/99/2000/08/04/p/dre
-- type: cites
   target: pt:dre:145674:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/6/1995/01/23/p/dre
 - type: cites
   target: pt:dre:300461:por
   label: null
@@ -143,7 +111,7 @@ relationships:
 - type: cites
   target: pt:dre:314657:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/99/2000/08/04/p/dre
 - type: cites
   target: pt:dre:402888:por
   label: null
@@ -159,15 +127,15 @@ relationships:
 - type: cites
   target: pt:dre:510187:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/46/1995/05/11/p/dre
 - type: cites
   target: pt:dre:532866:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/140/2000/10/18/p/dre
 - type: cites
   target: pt:dre:534021:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/115/1994/
 - type: cites
   target: pt:dre:559019:por
   label: null
@@ -179,15 +147,15 @@ relationships:
 - type: cites
   target: pt:dre:611150:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/104/1994/10/18/p/dre
 - type: cites
   target: pt:dre:621309:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/109/1994/11/02/p/dre
 - type: cites
   target: pt:dre:668289:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/175/1997/10/17/p/dre
 - type: repealed_by
   target: pt:dre:117159945:por
   label: Revogado o Plano Diretor Municipal de Vila Flor ratificado pela Res 115/94 de 10-nov, na redação da presente Resolução,

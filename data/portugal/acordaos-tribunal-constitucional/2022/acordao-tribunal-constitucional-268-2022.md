@@ -134,10 +134,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/679/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/355/1997/06/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/355/1997/06/07/p/dre
-- type: cites
   target: pt:dre:108030503:por
   label: null
   source: null
@@ -196,7 +192,7 @@ relationships:
 - type: cites
   target: pt:dre:360322:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/355/1997/06/07/p/dre
 - type: cites
   target: pt:dre:377508:por
   label: null

@@ -113,18 +113,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2019/1152/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/306/2003/07/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/306/2003/07/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/372/1991/11/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/372/1991/11/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/581/1996/01/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/581/1996/01/22/p/dre
-- type: cites
   target: pt:dre:124417106:por
   label: null
   source: http://data.dre.pt/eli/lei/93/2019/09/04/p/dre
@@ -141,9 +129,17 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolassrep/55/1994/08/27/p/dre
 - type: cites
+  target: pt:dre:331592:por
+  label: null
+  source: http://data.dre.pt/eli/ac/372/1991/11/07/p/dre
+- type: cites
   target: pt:dre:396925:por
   label: null
   source: http://data.dre.pt/eli/actconst/632/2009/01/09/p/dre
+- type: cites
+  target: pt:dre:590337:por
+  label: null
+  source: http://data.dre.pt/eli/ac/581/1996/01/22/p/dre
 - type: cites
   target: pt:dre:602073:por
   label: null
@@ -152,6 +148,10 @@ relationships:
   target: pt:dre:667891:por
   label: null
   source: http://data.dre.pt/eli/lei/9/2006/03/20/p/dre
+- type: cites
+  target: pt:dre:671046:por
+  label: null
+  source: http://data.dre.pt/eli/ac/306/2003/07/18/p/dre
 article_structure:
   article_count: 0
   section_count: 0

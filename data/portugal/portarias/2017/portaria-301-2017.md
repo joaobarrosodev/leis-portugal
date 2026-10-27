@@ -133,10 +133,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020
   date: '2021-07-13'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/145/2015/05/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/145/2015/05/25/p/dre
-- type: cites
   target: pt:dre:108051992:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/103/2017/08/24/p/dre
@@ -156,6 +152,10 @@ relationships:
   target: pt:dre:658629:por
   label: null
   source: http://data.dre.pt/eli/port/1204-a/2008/10/17/p/dre
+- type: cites
+  target: pt:dre:67289911:por
+  label: null
+  source: http://data.dre.pt/eli/port/145/2015/05/25/p/dre
 article_structure:
   article_count: 35
   section_count: 12

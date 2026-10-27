@@ -126,33 +126,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2020/972/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/30-b/2015/06/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/30-b/2015/06/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/142/2017/04/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/142/2017/04/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/181-b/2015/06/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/181-b/2015/06/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/211-a/2016/08/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/211-a/2016/08/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/328-a/2015/10/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/328-a/2015/10/02/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
 - type: cites
   target: pt:dre:106901298:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/142/2017/04/20/p/dre
 - type: cites
   target: pt:dre:114248647:por
   label: null
@@ -240,15 +220,15 @@ relationships:
 - type: cites
   target: pt:dre:67552510:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/181-b/2015/06/19/p/dre
 - type: cites
   target: pt:dre:67618690:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/30-b/2015/06/26/p/dre
 - type: cites
   target: pt:dre:70423751:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/328-a/2015/10/02/p/dre
 - type: cites
   target: pt:dre:70462181:por
   label: null
@@ -256,7 +236,7 @@ relationships:
 - type: cites
   target: pt:dre:75082097:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/211-a/2016/08/02/p/dre
 article_structure:
   article_count: 156
   section_count: 10

@@ -77,13 +77,9 @@ relationships:
   source: null
   date: '2021-10-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolassrep/297/2021/11/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolassrep/297/2021/11/25/p/dre
-- type: cites
   target: pt:dre:174825430:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolassrep/297/2021/11/25/p/dre
 article_structure:
   article_count: 0
   section_count: 0

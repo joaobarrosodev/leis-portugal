@@ -94,10 +94,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/4229-2017-106901053
   date: '2017-04-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/122/1995/11/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/122/1995/11/03/p/dre
-- type: cites
   target: pt:dre:332412:por
   label: null
   source: null
@@ -108,7 +104,7 @@ relationships:
 - type: cites
   target: pt:dre:680053:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/122/1995/11/03/p/dre
 article_structure:
   article_count: 27
   section_count: 6

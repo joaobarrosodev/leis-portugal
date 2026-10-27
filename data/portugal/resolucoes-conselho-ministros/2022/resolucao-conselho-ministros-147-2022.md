@@ -77,17 +77,13 @@ subjects:
 - Transporte
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/7/2022/01/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/7/2022/01/26/p/dre
-- type: cites
   target: pt:dre:174244812:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/153/2021/11/12/p/dre
 - type: cites
   target: pt:dre:178210550:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/7/2022/01/26/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

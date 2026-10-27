@@ -79,13 +79,13 @@ subjects:
 - Sanção Penal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/3/2006/01/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/3/2006/01/09/p/dre
-- type: cites
   target: pt:dre:122728683:por
   label: null
   source: http://data.dre.pt/eli/lei/45/2019/06/27/p/dre
+- type: cites
+  target: pt:dre:168186:por
+  label: null
+  source: http://data.dre.pt/eli/ac/3/2006/01/09/p/dre
 - type: cites
   target: pt:dre:185720:por
   label: null

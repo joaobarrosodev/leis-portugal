@@ -202,10 +202,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703
   date: '2009-05-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
-- type: cites
   target: pt:dre:156003:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/169/1997/07/04/p/dre
@@ -221,6 +217,10 @@ relationships:
   target: pt:dre:448093:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:468869:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
 - type: cites
   target: pt:dre:584781:por
   label: null

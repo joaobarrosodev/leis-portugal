@@ -110,7 +110,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/2116/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/301/2020/12/24/p/dre
+  target: pt:dre:152197939:por
   label: null
   source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
 - type: cites

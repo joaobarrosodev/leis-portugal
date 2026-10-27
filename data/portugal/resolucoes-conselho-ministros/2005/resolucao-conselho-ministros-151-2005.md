@@ -75,14 +75,6 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/100/1998/08/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/100/1998/08/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/5/1997/01/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/5/1997/01/14/p/dre
-- type: cites
   target: pt:dre:209036:por
   label: null
   source: null
@@ -105,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:431210:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/100/1998/08/04/p/dre
 - type: cites
   target: pt:dre:517415:por
   label: null
@@ -113,7 +105,7 @@ relationships:
 - type: cites
   target: pt:dre:532258:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/5/1997/01/14/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

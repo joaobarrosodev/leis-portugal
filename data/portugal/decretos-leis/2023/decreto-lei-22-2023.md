@@ -79,13 +79,9 @@ subjects:
 - Prova de Ingresso
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/359/2019/10/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/359/2019/10/08/p/dre
-- type: cites
   target: pt:dre:125085420:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/359/2019/10/08/p/dre
 - type: cites
   target: pt:dre:166569087:por
   label: null

@@ -99,7 +99,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2006/1857/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
+  target: pt:dre:553946:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
 article_structure:

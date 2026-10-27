@@ -248,10 +248,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/809/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/22/2015/02/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/22/2015/02/05/p/dre
-- type: cites
   target: pt:dre:454502:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/142/2008/07/24/p/dre
@@ -279,6 +275,10 @@ relationships:
   target: pt:dre:608175:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/49/2005/02/24/p/dre
+- type: cites
+  target: pt:dre:66432453:por
+  label: null
+  source: http://data.dre.pt/eli/port/22/2015/02/05/p/dre
 - type: cites
   target: pt:dre:66442957:por
   label: null

@@ -72,10 +72,6 @@ subjects:
 - Polícia Municipal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
-- type: cites
   target: pt:dre:124044665:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/114/2019/08/20/p/dre
@@ -110,7 +106,7 @@ relationships:
 - type: cites
   target: pt:dre:70361627:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
 article_structure:
   article_count: 74
   section_count: 20

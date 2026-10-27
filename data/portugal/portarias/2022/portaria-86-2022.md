@@ -110,7 +110,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2022-180365472
   date: '2022-03-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/47/2017/02/01/p/dre
+  target: pt:dre:106380301:por
   label: null
   source: http://data.dre.pt/eli/port/47/2017/02/01/p/dre
 - type: cites

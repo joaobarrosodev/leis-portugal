@@ -75,13 +75,13 @@ subjects:
 - Nomeação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/18/2015/04/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/18/2015/04/07/p/dre
-- type: cites
   target: pt:dre:541802:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/124/2006/10/03/p/dre
+- type: cites
+  target: pt:dre:66902772:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2015/04/07/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -74,13 +74,9 @@ subjects:
 - Proteção do Ambiente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/186/2000/09/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/186/2000/09/29/p/dre
-- type: cites
   target: pt:dre:553674:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/186/2000/09/29/p/dre
 - type: cites
   target: pt:dre:655296:por
   label: null

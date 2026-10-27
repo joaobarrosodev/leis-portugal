@@ -161,14 +161,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-2023-212551389
   date: '2023-05-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
-- type: cites
   target: pt:dre:144780:por
   label: null
   source: null
@@ -275,7 +267,7 @@ relationships:
 - type: cites
   target: pt:dre:302877:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
 - type: cites
   target: pt:dre:306899:por
   label: null
@@ -319,7 +311,7 @@ relationships:
 - type: cites
   target: pt:dre:369413:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
 - type: cites
   target: pt:dre:375062:por
   label: null

@@ -81,17 +81,13 @@ subjects:
 - Segurança Marítima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/123/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/123/2021/12/30/p/dre
-- type: cites
   target: pt:dre:122747583:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/84/2019/06/28/p/dre
 - type: cites
   target: pt:dre:176800372:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/123/2021/12/30/p/dre
 - type: cites
   target: pt:dre:184108564:por
   label: null

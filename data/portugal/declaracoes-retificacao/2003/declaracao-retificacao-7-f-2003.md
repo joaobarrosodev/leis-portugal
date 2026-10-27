@@ -76,17 +76,13 @@ subjects:
 - Privatização
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/65/2003/04/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/65/2003/04/30/p/dre
-- type: cites
   target: pt:dre:176529:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/6/2003/01/15/p/dre
 - type: cites
   target: pt:dre:571423:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/65/2003/04/30/p/dre
 article_structure:
   article_count: 0
   section_count: 0

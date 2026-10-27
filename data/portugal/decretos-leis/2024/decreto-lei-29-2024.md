@@ -166,10 +166,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2020/1207/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/256/2016/09/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/256/2016/09/28/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
@@ -193,6 +189,10 @@ relationships:
   target: pt:dre:66041468:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+- type: cites
+  target: pt:dre:75430926:por
+  label: null
+  source: http://data.dre.pt/eli/port/256/2016/09/28/p/dre
 article_structure:
   article_count: 55
   section_count: 16

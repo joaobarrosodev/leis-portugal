@@ -109,14 +109,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
   date: '2019-03-01'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/116/2006/09/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/116/2006/09/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/2014/01/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/4/2014/01/10/p/dre
-- type: cites
   target: pt:dre:164417:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/167-a/2013/12/31/p/dre
@@ -147,11 +139,11 @@ relationships:
 - type: cites
   target: pt:dre:541654:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/116/2006/09/20/p/dre
 - type: cites
   target: pt:dre:606138:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/4/2014/01/10/p/dre
 - type: cites
   target: pt:dre:611345:por
   label: null

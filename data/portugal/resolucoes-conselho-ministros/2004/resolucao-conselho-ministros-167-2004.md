@@ -72,10 +72,6 @@ subjects:
 - Torres Vedras
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/159/1995/11/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/159/1995/11/30/p/dre
-- type: cites
   target: pt:dre:226005:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
@@ -102,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:627027:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/159/1995/11/30/p/dre
 article_structure:
   article_count: 6
   section_count: 0

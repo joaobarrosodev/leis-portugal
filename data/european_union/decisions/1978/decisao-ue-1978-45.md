@@ -80,6 +80,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/5d88659f-1c60-4343-9747-2c9ca3141532
   date: '1994-12-31'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

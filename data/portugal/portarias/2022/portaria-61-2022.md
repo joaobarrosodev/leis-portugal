@@ -113,21 +113,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/45-2023-207272806
   date: '2023-02-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/232/2016/08/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/232/2016/08/29/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/47/2017/02/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/47/2017/02/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-- type: cites
   target: pt:dre:105808927:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/14/2017/01/26/p/dre
+- type: cites
+  target: pt:dre:106380301:por
+  label: null
+  source: http://data.dre.pt/eli/port/47/2017/02/01/p/dre
+- type: cites
+  target: pt:dre:152512121:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
 - type: cites
   target: pt:dre:287661:por
   label: null
@@ -144,6 +140,10 @@ relationships:
   target: pt:dre:66041468:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+- type: cites
+  target: pt:dre:75216372:por
+  label: null
+  source: http://data.dre.pt/eli/port/232/2016/08/29/p/dre
 article_structure:
   article_count: 20
   section_count: 1

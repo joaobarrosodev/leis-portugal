@@ -77,17 +77,9 @@ subjects:
 - Prazo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/1999/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/119/1999/10/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/77-a/1999/07/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/77-a/1999/07/23/p/dre
-- type: cites
   target: pt:dre:234757:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/77-a/1999/07/23/p/dre
 - type: cites
   target: pt:dre:265085:por
   label: null
@@ -107,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:673254:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/119/1999/10/12/p/dre
 article_structure:
   article_count: 0
   section_count: 0

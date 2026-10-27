@@ -73,25 +73,9 @@ subjects:
 - Renovação Urbana
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/149/2001/10/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/149/2001/10/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/43-a/1999/05/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/43-a/1999/05/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/54/1994/07/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/54/1994/07/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/85/2007/06/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/85/2007/06/26/p/dre
-- type: cites
   target: pt:dre:298575:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/54/1994/07/14/p/dre
 - type: cites
   target: pt:dre:302557:por
   label: null
@@ -99,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:391866:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/43-a/1999/05/24/p/dre
 - type: cites
   target: pt:dre:409292:por
   label: null
@@ -107,11 +91,11 @@ relationships:
 - type: cites
   target: pt:dre:621127:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/149/2001/10/08/p/dre
 - type: cites
   target: pt:dre:635851:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/85/2007/06/26/p/dre
 article_structure:
   article_count: 3
   section_count: 0

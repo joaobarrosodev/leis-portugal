@@ -141,7 +141,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582
   date: '2025-04-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/100/2017/03/07/p/dre
+  target: pt:dre:106566472:por
   label: null
   source: http://data.dre.pt/eli/port/100/2017/03/07/p/dre
 - type: cites

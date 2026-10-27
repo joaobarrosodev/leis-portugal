@@ -100,25 +100,17 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2019/1157/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/190-b/2019/06/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/190-b/2019/06/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/287/2017/09/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/287/2017/09/28/p/dre
-- type: cites
   target: pt:dre:108228008:por
   label: null
   source: http://data.dre.pt/eli/port/286/2017/09/28/p/dre
 - type: cites
   target: pt:dre:108228009:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/287/2017/09/28/p/dre
 - type: cites
   target: pt:dre:122657688:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/190-b/2019/06/21/p/dre
 - type: cites
   target: pt:dre:169832468:por
   label: null

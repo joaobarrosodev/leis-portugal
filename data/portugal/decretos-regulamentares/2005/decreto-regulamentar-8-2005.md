@@ -81,13 +81,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
-- type: cites
   target: pt:dre:222033:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
 - type: repealed_by
   target: pt:dre:453539:por
   label: "Revogado pelo DEC LEI.174/2008.26.08.2008.MEI, DR.IS [164] de 26.08.2008\0\0"

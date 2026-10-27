@@ -80,7 +80,7 @@ subjects:
 - Recrutamento de Pessoal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/3/1998/05/12/p/dre
+  target: pt:dre:516745:por
   label: null
   source: http://data.dre.pt/eli/ac/3/1998/05/12/p/dre
 article_structure:

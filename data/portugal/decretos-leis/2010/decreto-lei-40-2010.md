@@ -81,13 +81,9 @@ subjects:
 - Primeiro-ministro
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/30/2000/05/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/30/2000/05/18/p/dre
-- type: cites
   target: pt:dre:274390:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/30/2000/05/18/p/dre
 - type: cites
   target: pt:dre:481158:por
   label: null

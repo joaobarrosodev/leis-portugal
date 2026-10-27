@@ -85,14 +85,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2006/123/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/255/2002/07/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/255/2002/07/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/dec/1/2022/01/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec/1/2022/01/05/p/dre
-- type: cites
   target: pt:dre:115991688:por
   label: null
   source: http://data.dre.pt/eli/lei/45/2018/08/10/p/dre
@@ -104,6 +96,14 @@ relationships:
   target: pt:dre:144454583:por
   label: null
   source: http://data.dre.pt/eli/declegreg/14/2020/10/02/m/dre
+- type: cites
+  target: pt:dre:177088073:por
+  label: null
+  source: http://data.dre.pt/eli/dec/1/2022/01/05/p/dre
+- type: cites
+  target: pt:dre:199450:por
+  label: null
+  source: http://data.dre.pt/eli/ac/255/2002/07/08/p/dre
 - type: cites
   target: pt:dre:257176:por
   label: null

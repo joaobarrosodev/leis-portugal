@@ -76,10 +76,6 @@ subjects:
 - Proteção Social
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/551/2007/12/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/551/2007/12/03/p/dre
-- type: cites
   target: pt:dre:221355:por
   label: null
   source: http://data.dre.pt/eli/declegreg/21/1992/10/21/a/dre
@@ -102,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:628529:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/551/2007/12/03/p/dre
 - type: cites
   target: pt:dre:683012:por
   label: null

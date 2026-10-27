@@ -81,10 +81,6 @@ subjects:
 - Sistema de Normalização Contabilística
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
-- type: cites
   target: pt:dre:151559:por
   label: null
   source: null
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:170514954:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
 - type: cites
   target: pt:dre:185330735:por
   label: null

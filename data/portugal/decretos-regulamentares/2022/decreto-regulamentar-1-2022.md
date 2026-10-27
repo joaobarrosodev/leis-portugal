@@ -135,18 +135,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2025-992879808
   date: '2025-12-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/202/2021/09/27/p/dr
-  label: null
-  source: http://data.dre.pt/eli/port/202/2021/09/27/p/dr
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/37/2021/02/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/37/2021/02/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/64/2020/03/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/64/2020/03/10/p/dre
-- type: cites
   target: pt:dre:124500714:por
   label: null
   source: http://data.dre.pt/eli/lei/100/2019/09/06/p/dre
@@ -155,9 +143,21 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/2/2020/01/10/p/dre
 - type: cites
+  target: pt:dre:130070741:por
+  label: null
+  source: http://data.dre.pt/eli/port/64/2020/03/10/p/dre
+- type: cites
   target: pt:dre:146608649:por
   label: null
   source: http://data.dre.pt/eli/port/256/2020/10/28/p/dre
+- type: cites
+  target: pt:dre:157362797:por
+  label: null
+  source: http://data.dre.pt/eli/port/37/2021/02/15/p/dre
+- type: cites
+  target: pt:dre:171942717:por
+  label: null
+  source: http://data.dre.pt/eli/port/202/2021/09/27/p/dr
 - type: cites
   target: pt:dre:335683:por
   label: null

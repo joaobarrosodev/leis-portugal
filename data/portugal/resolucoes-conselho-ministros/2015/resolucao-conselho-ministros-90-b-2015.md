@@ -84,10 +84,6 @@ subjects:
 - Vice-primeiro Ministro
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
-- type: cites
   target: pt:dre:234316:por
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
@@ -98,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:342800:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
 - type: cites
   target: pt:dre:357350:por
   label: null

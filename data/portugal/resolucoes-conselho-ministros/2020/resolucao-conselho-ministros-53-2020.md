@@ -164,22 +164,6 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2015/04/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2015/04/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2016/08/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2016/08/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/2016/08/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/2016/08/26/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/di
   label: null
   source: http://data.europa.eu/eli/di
@@ -242,7 +226,7 @@ relationships:
 - type: cites
   target: pt:dre:122777644:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites
   target: pt:dre:123578709:por
   label: null
@@ -358,7 +342,7 @@ relationships:
 - type: cites
   target: pt:dre:66970762:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2015/04/14/p/dre
 - type: cites
   target: pt:dre:69879422:por
   label: null
@@ -394,11 +378,11 @@ relationships:
 - type: cites
   target: pt:dre:75207496:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2016/08/26/p/dre
 - type: cites
   target: pt:dre:75207497:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/46/2016/08/26/p/dre
 - type: cites
   target: pt:dre:75796596:por
   label: null

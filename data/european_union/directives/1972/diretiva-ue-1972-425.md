@@ -83,6 +83,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/67d0c43a-0896-4e46-a21f-891cd3f234bb
   date: '1957-03-25'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:572467:por
   label: null
   source: null

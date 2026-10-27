@@ -87,10 +87,6 @@ subjects:
 - Transporte de Passageiros
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/46-a/2014/11/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/46-a/2014/11/10/p/dre
-- type: cites
   target: pt:dre:303585:por
   label: null
   source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
@@ -117,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:58815340:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/46-a/2014/11/10/p/dre
 - type: cites
   target: pt:dre:629666:por
   label: null

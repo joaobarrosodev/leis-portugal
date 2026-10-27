@@ -80,17 +80,9 @@ subjects:
 - Proteção do Ambiente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/62/2011/12/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/62/2011/12/22/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/2015/09/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/2015/09/21/p/dre
-- type: cites
   target: pt:dre:145043:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/62/2011/12/22/p/dre
 - type: cites
   target: pt:dre:365766:por
   label: null
@@ -106,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:70331764:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/81/2015/09/21/p/dre
 article_structure:
   article_count: 0
   section_count: 0

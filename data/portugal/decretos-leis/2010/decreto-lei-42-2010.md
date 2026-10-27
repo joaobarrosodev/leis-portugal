@@ -123,7 +123,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2026-1068974007
   date: '2026-03-09'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
+  target: pt:dre:464205:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
 article_structure:

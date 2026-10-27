@@ -73,17 +73,9 @@ subjects:
 - Transferência Patrimonial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/23/1993/04/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/23/1993/04/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/7/1992/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/7/1992/02/07/p/dre
-- type: cites
   target: pt:dre:152131:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/7/1992/02/07/p/dre
 - type: cites
   target: pt:dre:613939:por
   label: null
@@ -91,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:683017:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/23/1993/04/06/p/dre
 article_structure:
   article_count: 0
   section_count: 0

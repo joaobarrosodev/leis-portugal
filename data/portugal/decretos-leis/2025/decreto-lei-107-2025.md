@@ -82,13 +82,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/679/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/9/2022/01/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/9/2022/01/11/p/dre
-- type: cites
   target: pt:dre:177455548:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/9/2022/01/11/p/dre
 - type: cites
   target: pt:dre:198687:por
   label: null

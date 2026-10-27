@@ -82,25 +82,17 @@ subjects:
 - Valores Mobiliários
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1-b/1995/01/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/1-b/1995/01/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1-e/1995/01/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/1-e/1995/01/11/p/dre
-- type: cites
   target: pt:dre:258157:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/1994/04/02/p/dre
 - type: cites
   target: pt:dre:300404:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/1-b/1995/01/11/p/dre
 - type: cites
   target: pt:dre:300407:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/1-e/1995/01/11/p/dre
 - type: cites
   target: pt:dre:408481:por
   label: null

@@ -75,13 +75,9 @@ relationships:
   source: null
   date: '2021-05-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/53/2021/05/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/53/2021/05/14/p/dre
-- type: cites
   target: pt:dre:163332286:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/53/2021/05/14/p/dre
 - type: cites
   target: pt:dre:195800:por
   label: null

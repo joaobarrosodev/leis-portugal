@@ -99,6 +99,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/8515b295-6207-4a57-805e-236a24d8fcd9
   date: '1969-03-08'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: corrected_by
   target: celex:31973L0095R(01)
   label: null

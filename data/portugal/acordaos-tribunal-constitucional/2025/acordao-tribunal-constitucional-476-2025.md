@@ -115,18 +115,6 @@ relationships:
   source: null
   date: '2023-11-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/131/2003/04/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/131/2003/04/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/258/2007/05/15
-  label: null
-  source: http://data.dre.pt/eli/ac/258/2007/05/15
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/330/1999/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/330/1999/07/01/p/dre
-- type: cites
   target: pt:dre:108280432:por
   label: null
   source: null
@@ -153,7 +141,7 @@ relationships:
 - type: cites
   target: pt:dre:224624:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/131/2003/04/04/p/dre
 - type: cites
   target: pt:dre:224892464:por
   label: null
@@ -189,7 +177,7 @@ relationships:
 - type: cites
   target: pt:dre:372067:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/330/1999/07/01/p/dre
 - type: cites
   target: pt:dre:374846:por
   label: null
@@ -229,7 +217,7 @@ relationships:
 - type: cites
   target: pt:dre:520648:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/258/2007/05/15
 - type: cites
   target: pt:dre:539401:por
   label: null

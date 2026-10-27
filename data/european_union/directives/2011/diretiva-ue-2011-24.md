@@ -153,6 +153,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:75542124:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:962603401:por
   label: null
   source: null
@@ -351,11 +355,19 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:57462077:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:57695124:por
   label: null
   source: null
 - type: transposed_by
   target: pt:dre:73847696:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:74967223:por
   label: null
   source: null
 article_structure:

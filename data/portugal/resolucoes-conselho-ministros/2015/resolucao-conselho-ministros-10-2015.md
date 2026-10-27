@@ -89,13 +89,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2007/1370/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
-- type: cites
   target: pt:dre:146536:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
 - type: cites
   target: pt:dre:55021023:por
   label: null

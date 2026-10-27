@@ -76,10 +76,6 @@ subjects:
 - Transferência Patrimonial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-- type: cites
   target: pt:dre:219772:por
   label: null
   source: null
@@ -90,7 +86,7 @@ relationships:
 - type: cites
   target: pt:dre:522203:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
 article_structure:
   article_count: 5
   section_count: 0

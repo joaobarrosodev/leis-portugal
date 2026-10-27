@@ -83,10 +83,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/1996/04/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/1996/04/17/p/dre
-- type: cites
   target: pt:dre:241399:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/157/1996/08/31/p/dre
@@ -125,7 +121,7 @@ relationships:
 - type: cites
   target: pt:dre:571623:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/45/1996/04/17/p/dre
 - type: repealed_by
   target: pt:dre:303200:por
   label: "Revogados os estatutos da ERSE, aprovado pelo presente diploma, pelo DEC LEI.97/2002.2002.04.12.MECO DR.IS-A [86]\0\

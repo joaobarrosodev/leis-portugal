@@ -262,6 +262,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/2aa83e99-b89a-4a0e-84d9-4f7a63c4f2c5
   date: '1968-06-28'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31964L0432
   label: null

@@ -134,13 +134,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2017-106434233
   date: '2017-02-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
-- type: cites
   target: pt:dre:150926:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
 - type: cites
   target: pt:dre:157034:por
   label: null

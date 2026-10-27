@@ -87,10 +87,6 @@ subjects:
 - União Europeia
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/187/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/187/2021/12/30/p/dre
-- type: cites
   target: pt:dre:136997541:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52-a/2020/07/01/p/dre
@@ -101,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:176811776:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/187/2021/12/30/p/dre
 article_structure:
   article_count: 0
   section_count: 0

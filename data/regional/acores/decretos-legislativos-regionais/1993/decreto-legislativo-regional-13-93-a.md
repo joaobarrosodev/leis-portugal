@@ -82,10 +82,6 @@ subjects:
 - Transporte Escolar
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/124/1993/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/124/1993/03/03/p/dre
-- type: cites
   target: pt:dre:157643:por
   label: null
   source: http://data.dre.pt/eli/declegreg/3/1992/02/11/a/dre
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:626470:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/124/1993/03/03/p/dre
 article_structure:
   article_count: 0
   section_count: 0

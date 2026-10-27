@@ -88,10 +88,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
   date: '2022-09-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-- type: cites
   target: pt:dre:130243053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
@@ -114,7 +110,7 @@ relationships:
 - type: cites
   target: pt:dre:132883344:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
 - type: cites
   target: pt:dre:132883356:por
   label: null

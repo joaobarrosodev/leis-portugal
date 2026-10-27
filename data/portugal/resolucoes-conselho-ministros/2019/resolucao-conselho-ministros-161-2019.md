@@ -76,33 +76,17 @@ subjects:
 - Transferência de Verbas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2018/02/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2018/02/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/15/2016/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/15/2016/03/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/174/2017/11/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/174/2017/11/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81-a/2016/12/09/p/dre
+  target: pt:dre:105340322:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81-a/2016/12/09/p/dre
 - type: cites
-  target: pt:dre:105340322:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:114248654:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/174/2017/11/24/p/dre
 - type: cites
   target: pt:dre:114701912:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2018/02/19/p/dre
 - type: cites
   target: pt:dre:259892:por
   label: null
@@ -110,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:73882252:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/15/2016/03/16/p/dre
 - type: cites
   target: pt:dre:75150234:por
   label: null

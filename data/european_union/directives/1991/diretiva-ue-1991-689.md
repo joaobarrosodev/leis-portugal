@@ -266,6 +266,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/a2ba9c30-b8c0-4b13-ae32-f2f2e84f2f13
   date: '1978-03-31'
 - type: transposed_by
+  target: pt:dre:66762671:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:73958532:por
   label: null
   source: null

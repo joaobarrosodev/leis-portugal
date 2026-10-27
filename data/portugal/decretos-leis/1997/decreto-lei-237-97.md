@@ -88,17 +88,13 @@ relationships:
   source: null
   date: '2012-09-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
-- type: cites
   target: pt:dre:394533:por
   label: null
   source: null
 - type: cites
   target: pt:dre:476760:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
 - type: cites
   target: pt:dre:674060:por
   label: null

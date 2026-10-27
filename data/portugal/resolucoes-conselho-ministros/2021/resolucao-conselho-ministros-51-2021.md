@@ -82,13 +82,9 @@ subjects:
 - Remuneração
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/42/2019/02/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/42/2019/02/21/p/dre
-- type: cites
   target: pt:dre:119975746:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/42/2019/02/21/p/dre
 - type: cites
   target: pt:dre:25676932:por
   label: null

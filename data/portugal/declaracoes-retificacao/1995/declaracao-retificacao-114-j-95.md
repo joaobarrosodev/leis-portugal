@@ -78,13 +78,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/51/1995/06/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/51/1995/06/01/p/dre
-- type: cites
   target: pt:dre:527058:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/51/1995/06/01/p/dre
 article_structure:
   article_count: 0
   section_count: 0

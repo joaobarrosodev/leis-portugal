@@ -85,33 +85,13 @@ relationships:
   source: null
   date: '2015-02-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/142/2017/04/20/p/dre
+  target: pt:dre:106901298:por
   label: null
   source: http://data.dre.pt/eli/port/142/2017/04/20/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/181-b/2015/06/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/181-b/2015/06/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/211-a/2016/08/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/211-a/2016/08/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/328-a/2015/10/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/328-a/2015/10/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/360-a/2017/11/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/360-a/2017/11/23/p/dre
-- type: cites
-  target: pt:dre:106901298:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:114248647:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/360-a/2017/11/23/p/dre
 - type: cites
   target: pt:dre:115730625:por
   label: null
@@ -155,15 +135,15 @@ relationships:
 - type: cites
   target: pt:dre:67552510:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/181-b/2015/06/19/p/dre
 - type: cites
   target: pt:dre:70423751:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/328-a/2015/10/02/p/dre
 - type: cites
   target: pt:dre:75082097:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/211-a/2016/08/02/p/dre
 article_structure:
   article_count: 3
   section_count: 0

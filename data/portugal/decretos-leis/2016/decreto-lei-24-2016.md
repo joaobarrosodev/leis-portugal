@@ -94,10 +94,6 @@ subjects:
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/229-a/2015/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/229-a/2015/08/03/p/dre
-- type: cites
   target: pt:dre:25676932:por
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
@@ -113,6 +109,10 @@ relationships:
   target: pt:dre:673411:por
   label: null
   source: http://data.dre.pt/eli/port/207/2011/05/24/p/dre
+- type: cites
+  target: pt:dre:69933711:por
+  label: null
+  source: http://data.dre.pt/eli/port/229-a/2015/08/03/p/dre
 - type: cites
   target: pt:dre:69968702:por
   label: null

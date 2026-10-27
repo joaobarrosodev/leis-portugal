@@ -74,7 +74,7 @@ subjects:
 - Riade
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/26/2013/05/14/p/dre
+  target: pt:dre:261140:por
   label: null
   source: http://data.dre.pt/eli/declretif/26/2013/05/14/p/dre
 article_structure:

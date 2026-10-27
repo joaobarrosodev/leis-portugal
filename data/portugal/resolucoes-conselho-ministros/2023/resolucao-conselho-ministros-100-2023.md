@@ -105,7 +105,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2008/1008/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2019/02/06/p/dre
+  target: pt:dre:119236501:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2019/02/06/p/dre
 - type: cites

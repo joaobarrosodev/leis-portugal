@@ -85,10 +85,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1999-374615
   date: '1999-07-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
-- type: cites
   target: pt:dre:207058:por
   label: null
   source: null
@@ -103,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:476760:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
 - type: cites
   target: pt:dre:534036:por
   label: null

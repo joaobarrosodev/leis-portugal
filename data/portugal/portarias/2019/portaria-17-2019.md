@@ -112,13 +112,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387
   date: '2020-01-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/10/2019/01/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/10/2019/01/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/353/2017/11/16/p/dre
+  target: pt:dre:114214655:por
   label: null
   source: http://data.dre.pt/eli/port/353/2017/11/16/p/dre
+- type: cites
+  target: pt:dre:117754019:por
+  label: null
+  source: http://data.dre.pt/eli/port/10/2019/01/14/p/dre
 - type: cites
   target: pt:dre:248003:por
   label: null

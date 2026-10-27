@@ -130,18 +130,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/178-2022-185971764
   date: '2022-07-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/138/2016/05/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/138/2016/05/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/284-a/2016/11/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/284-a/2016/11/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/417/2015/12/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/417/2015/12/04/p/dre
-- type: cites
   target: pt:dre:480967:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-a/2010/10/01/p/dre
@@ -157,6 +145,18 @@ relationships:
   target: pt:dre:69879391:por
   label: null
   source: http://data.dre.pt/eli/port/224/2015/07/27/p/dre
+- type: cites
+  target: pt:dre:72812702:por
+  label: null
+  source: http://data.dre.pt/eli/port/417/2015/12/04/p/dre
+- type: cites
+  target: pt:dre:74443078:por
+  label: null
+  source: http://data.dre.pt/eli/port/138/2016/05/13/p/dre
+- type: cites
+  target: pt:dre:75660778:por
+  label: null
+  source: http://data.dre.pt/eli/port/284-a/2016/11/04/p/dre
 article_structure:
   article_count: 4
   section_count: 0

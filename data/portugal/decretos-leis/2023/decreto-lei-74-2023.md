@@ -104,7 +104,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-b-2024-873616106
   date: '2024-07-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/119/2018/05/04/p/dre
+  target: pt:dre:115221287:por
   label: null
   source: http://data.dre.pt/eli/port/119/2018/05/04/p/dre
 - type: cites

@@ -76,13 +76,9 @@ subjects:
 - Temporal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64/2012/08/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/64/2012/08/01/p/dre
-- type: cites
   target: pt:dre:179073:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/64/2012/08/01/p/dre
 - type: cites
   target: pt:dre:632448:por
   label: null

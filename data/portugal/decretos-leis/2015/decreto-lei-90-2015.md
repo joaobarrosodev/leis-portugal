@@ -179,11 +179,11 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2023-221225698
   date: '2023-09-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+  target: pt:dre:259967:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+  target: pt:dre:260395:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
 - type: cites

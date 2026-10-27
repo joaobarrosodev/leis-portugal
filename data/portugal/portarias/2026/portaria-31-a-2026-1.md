@@ -71,10 +71,6 @@ subjects:
 - Instituto Público
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/99/2015/04/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/99/2015/04/01/p/dre
-- type: cites
   target: pt:dre:1006464122:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/8/2026/01/14/p/dre
@@ -101,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:66895091:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/99/2015/04/01/p/dre
 - type: cites
   target: pt:dre:859517106:por
   label: null

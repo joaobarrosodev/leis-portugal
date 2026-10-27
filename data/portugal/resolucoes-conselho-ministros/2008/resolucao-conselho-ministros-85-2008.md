@@ -76,13 +76,9 @@ subjects:
 - Relatório
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/13/2008/01/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/13/2008/01/22/p/dre
-- type: cites
   target: pt:dre:248514:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/13/2008/01/22/p/dre
 - type: cites
   target: pt:dre:639155:por
   label: null

@@ -90,21 +90,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2001-347954
   date: '2001-03-23'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/2/1995/01/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/2/1995/01/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33/1995/04/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33/1995/04/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/83/1995/09/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/83/1995/09/01/p/dre
-- type: cites
   target: pt:dre:146941:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/2/1995/01/13/p/dre
 - type: cites
   target: pt:dre:182874:por
   label: null
@@ -116,7 +104,7 @@ relationships:
 - type: cites
   target: pt:dre:230762:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33/1995/04/10/p/dre
 - type: cites
   target: pt:dre:332412:por
   label: null
@@ -128,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:546847:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/83/1995/09/01/p/dre
 - type: cites
   target: pt:dre:571968:por
   label: null

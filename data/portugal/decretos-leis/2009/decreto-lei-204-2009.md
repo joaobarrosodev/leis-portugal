@@ -81,17 +81,13 @@ subjects:
 - Residência de Estrangeiros
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/63-a/2007/05/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/63-a/2007/05/03/p/dre
-- type: cites
   target: pt:dre:245336:por
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
 - type: cites
   target: pt:dre:415237:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/63-a/2007/05/03/p/dre
 - type: cites
   target: pt:dre:538604:por
   label: null

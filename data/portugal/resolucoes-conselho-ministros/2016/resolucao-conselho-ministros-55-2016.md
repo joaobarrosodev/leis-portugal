@@ -77,10 +77,6 @@ subjects:
 - Programa Específico para o Setor do Leite e Produtos Lácteos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/125/2016/05/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/125/2016/05/06/p/dre
-- type: cites
   target: pt:dre:259405:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/2013/03/22/p/dre
@@ -91,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:74376983:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/125/2016/05/06/p/dre
 - type: cites
   target: pt:dre:74671911:por
   label: null

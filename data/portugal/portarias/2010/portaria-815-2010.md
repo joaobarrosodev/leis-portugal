@@ -123,7 +123,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/181-2022-186166483
   date: '2022-07-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
+  target: pt:dre:464205:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
 - type: cites

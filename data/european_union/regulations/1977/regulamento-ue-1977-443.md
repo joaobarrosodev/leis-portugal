@@ -280,6 +280,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/2a9825fb-ed5f-460f-b710-afeef38cb03b
   date: '1971-05-12'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:687581:por
   label: null
   source: null

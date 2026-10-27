@@ -110,7 +110,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2023-216188324
   date: '2023-07-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/122/1997/07/26/p/dre
+  target: pt:dre:144633:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/122/1997/07/26/p/dre
 - type: cites

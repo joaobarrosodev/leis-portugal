@@ -86,10 +86,6 @@ relationships:
   source: null
   date: '2016-01-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/38/2012/07/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/38/2012/07/23/p/dre
-- type: cites
   target: pt:dre:174796:por
   label: null
   source: null
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:179507:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/38/2012/07/23/p/dre
 - type: cites
   target: pt:dre:195801:por
   label: null

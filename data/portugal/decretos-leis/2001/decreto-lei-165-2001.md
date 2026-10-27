@@ -84,10 +84,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/1998/06/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/1998/06/09/p/dre
-- type: cites
   target: pt:dre:222611:por
   label: null
   source: null
@@ -114,7 +110,7 @@ relationships:
 - type: cites
   target: pt:dre:472169:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/68/1998/06/09/p/dre
 - type: cites
   target: pt:dre:508467:por
   label: null

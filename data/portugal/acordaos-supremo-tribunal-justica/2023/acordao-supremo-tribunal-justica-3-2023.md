@@ -76,10 +76,6 @@ subjects:
 - Sanção Penal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/5/2006/06/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/5/2006/06/06/p/dre
-- type: cites
   target: pt:dre:114682847:por
   label: null
   source: http://data.dre.pt/eli/acstj/2/2018/02/13/p/dre
@@ -98,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:353936:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/5/2006/06/06/p/dre
 - type: cites
   target: pt:dre:491690:por
   label: null

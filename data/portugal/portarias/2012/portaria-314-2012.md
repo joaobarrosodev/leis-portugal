@@ -72,22 +72,6 @@ subjects:
 - Reserva Ecológica Nacional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/131/2008/08/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/131/2008/08/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/165/2007/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/165/2007/10/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/193/2003/12/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/193/2003/12/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/79/2007/06/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/79/2007/06/15/p/dre
-- type: cites
   target: pt:dre:219477:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/161/1996/09/18/p/dre
@@ -102,11 +86,11 @@ relationships:
 - type: cites
   target: pt:dre:423921:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/193/2003/12/23/p/dre
 - type: cites
   target: pt:dre:453263:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/131/2008/08/27/p/dre
 - type: cites
   target: pt:dre:453518:por
   label: null
@@ -118,11 +102,11 @@ relationships:
 - type: cites
   target: pt:dre:639152:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/79/2007/06/15/p/dre
 - type: cites
   target: pt:dre:641431:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/165/2007/10/15/p/dre
 article_structure:
   article_count: 3
   section_count: 0

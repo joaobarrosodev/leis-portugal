@@ -75,17 +75,9 @@ subjects:
 - Zona Industrial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/192/1996/12/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/192/1996/12/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/99/1995/10/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/99/1995/10/09/p/dre
-- type: cites
   target: pt:dre:188347:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/192/1996/12/13/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null
@@ -93,7 +85,7 @@ relationships:
 - type: cites
   target: pt:dre:664903:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/99/1995/10/09/p/dre
 article_structure:
   article_count: 0
   section_count: 0

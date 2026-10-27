@@ -80,21 +80,13 @@ relationships:
   source: null
   date: '2015-07-23'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/140/2021/10/15/p/dre
+  target: pt:dre:172878294:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/140/2021/10/15/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
-  target: pt:dre:172878294:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:543034:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:603475:por
   label: null

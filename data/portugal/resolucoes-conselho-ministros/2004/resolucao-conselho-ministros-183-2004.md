@@ -84,17 +84,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/79-2012-176059
   date: '2012-09-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2004/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2004/06/04/p/dre
-- type: cites
   target: pt:dre:169007:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/33/1999/02/05/p/dre
 - type: cites
   target: pt:dre:280554:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2004/06/04/p/dre
 - type: cites
   target: pt:dre:311259:por
   label: null

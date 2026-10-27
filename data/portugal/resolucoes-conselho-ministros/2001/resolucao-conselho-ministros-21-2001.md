@@ -84,10 +84,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12635-2014-58828346
   date: '2014-11-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/1994/12/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/119/1994/12/02/p/dre
-- type: cites
   target: pt:dre:188357:por
   label: null
   source: null
@@ -134,7 +130,7 @@ relationships:
 - type: cites
   target: pt:dre:549200:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/119/1994/12/02/p/dre
 - type: cites
   target: pt:dre:549203:por
   label: null

@@ -122,7 +122,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943
   date: '2025-04-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
+  target: pt:dre:176907514:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
 - type: cites

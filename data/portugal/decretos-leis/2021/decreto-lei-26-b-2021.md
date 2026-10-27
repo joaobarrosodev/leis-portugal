@@ -85,17 +85,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
   date: '2022-09-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/180/2020/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/180/2020/08/03/p/dre
-- type: cites
   target: pt:dre:130243053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
 - type: cites
   target: pt:dre:139348420:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/180/2020/08/03/p/dre
 article_structure:
   article_count: 3
   section_count: 0

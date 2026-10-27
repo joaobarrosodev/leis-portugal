@@ -78,10 +78,6 @@ subjects:
 - Serviço Nacional de Saúde
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/25/2022/02/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/25/2022/02/10/p/dre
-- type: cites
   target: pt:dre:122202591:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2019/05/02/p/dre
@@ -104,7 +100,7 @@ relationships:
 - type: cites
   target: pt:dre:178945890:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/25/2022/02/10/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null

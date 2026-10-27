@@ -86,10 +86,6 @@ relationships:
     n.º 11/2022, Série I
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/106/2022/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/106/2022/03/03/p/dre
-- type: cites
   target: pt:dre:107684448:por
   label: null
   source: null
@@ -116,7 +112,7 @@ relationships:
 - type: cites
   target: pt:dre:179899186:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/106/2022/03/03/p/dre
 - type: cites
   target: pt:dre:184350761:por
   label: null

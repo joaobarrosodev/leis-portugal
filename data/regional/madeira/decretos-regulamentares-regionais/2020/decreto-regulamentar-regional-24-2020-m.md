@@ -80,10 +80,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
-- type: cites
   target: pt:dre:105657288:por
   label: null
   source: null
@@ -98,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:126904849:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
 - type: cites
   target: pt:dre:128114253:por
   label: null

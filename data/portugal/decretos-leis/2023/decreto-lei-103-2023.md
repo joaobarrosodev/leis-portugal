@@ -163,7 +163,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2025-914597187
   date: '2025-04-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/212/2017/07/19/p/dre
+  target: pt:dre:107709510:por
   label: null
   source: http://data.dre.pt/eli/port/212/2017/07/19/p/dre
 - type: cites

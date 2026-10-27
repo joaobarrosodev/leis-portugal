@@ -75,33 +75,13 @@ subjects:
 - Presidente da República
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/1/1991/02/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/1/1991/02/28/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/131/2003/04/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/131/2003/04/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/330/1999/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/330/1999/07/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/92/1992/04/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/92/1992/04/07/p/dre
-- type: cites
   target: pt:dre:195175:por
   label: null
   source: null
 - type: cites
   target: pt:dre:198548:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/92/1992/04/07/p/dre
 - type: cites
   target: pt:dre:216516:por
   label: null
@@ -113,7 +93,7 @@ relationships:
 - type: cites
   target: pt:dre:224624:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/131/2003/04/04/p/dre
 - type: cites
   target: pt:dre:226440:por
   label: null
@@ -137,7 +117,7 @@ relationships:
 - type: cites
   target: pt:dre:372067:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/330/1999/07/01/p/dre
 - type: cites
   target: pt:dre:448681:por
   label: null
@@ -153,7 +133,7 @@ relationships:
 - type: cites
   target: pt:dre:484443:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/1/1991/02/28/p/dre
 - type: cites
   target: pt:dre:506783:por
   label: null
@@ -165,7 +145,7 @@ relationships:
 - type: cites
   target: pt:dre:520648:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
 - type: cites
   target: pt:dre:540392:por
   label: null

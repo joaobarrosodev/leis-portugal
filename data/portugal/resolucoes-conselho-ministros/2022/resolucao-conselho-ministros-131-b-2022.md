@@ -75,10 +75,6 @@ subjects:
 - Plano de Vacinação contra a COVID-19 em Portugal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/196/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/196/2021/12/30/p/dre
-- type: cites
   target: pt:dre:140821558:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/64-a/2020/08/20/p/dre
@@ -93,7 +89,7 @@ relationships:
 - type: cites
   target: pt:dre:176811785:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/196/2021/12/30/p/dre
 - type: cites
   target: pt:dre:203928772:por
   label: null

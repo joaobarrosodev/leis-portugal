@@ -179,6 +179,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:66603017:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:67458359:por
   label: null
   source: null
@@ -249,6 +253,10 @@ relationships:
   date: '2015-09-17'
 - type: transposed_by
   target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:70055493:por
   label: null
   source: null
 - type: transposed_by

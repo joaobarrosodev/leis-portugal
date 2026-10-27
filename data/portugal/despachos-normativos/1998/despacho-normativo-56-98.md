@@ -103,7 +103,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1999-321947
   date: '1999-05-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/67/1994/08/11/p/dre
+  target: pt:dre:222617:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/67/1994/08/11/p/dre
 - type: cites

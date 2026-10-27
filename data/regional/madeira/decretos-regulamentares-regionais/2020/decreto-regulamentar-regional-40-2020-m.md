@@ -94,10 +94,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2024-875716583
   date: '2024-08-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
-- type: cites
   target: pt:dre:105657288:por
   label: null
   source: http://data.dre.pt/eli/declegreg/42-a/2016/12/30/m/dre
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:126904849:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
 - type: cites
   target: pt:dre:128114253:por
   label: null

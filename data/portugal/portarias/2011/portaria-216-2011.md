@@ -86,13 +86,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
   date: '2011-12-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/89/2010/11/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/89/2010/11/17/p/dre
-- type: cites
   target: pt:dre:308763:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/89/2010/11/17/p/dre
 - type: cites
   target: pt:dre:468663:por
   label: null

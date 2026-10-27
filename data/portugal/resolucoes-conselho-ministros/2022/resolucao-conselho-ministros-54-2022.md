@@ -80,17 +80,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/110-2024-885032309
   date: '2024-08-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/127/2018/10/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/127/2018/10/01/p/dre
-- type: cites
   target: pt:dre:116320538:por
   label: null
   source: http://data.dre.pt/eli/decregul/8/2018/09/04/p/dre
 - type: cites
   target: pt:dre:116550678:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/127/2018/10/01/p/dre
 article_structure:
   article_count: 0
   section_count: 0

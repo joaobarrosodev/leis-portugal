@@ -82,17 +82,13 @@ relationships:
   source: null
   date: '2021-10-13'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/119-a/2021/12/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/119-a/2021/12/22/p/dre
-- type: cites
   target: pt:dre:172745163:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
 - type: cites
   target: pt:dre:176412619:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/119-a/2021/12/22/p/dre
 - type: cites
   target: pt:dre:186307878:por
   label: null

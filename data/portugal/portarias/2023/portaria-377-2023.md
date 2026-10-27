@@ -75,13 +75,9 @@ subjects:
 - Zona de Proteção
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/8/2022/01/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/8/2022/01/04/p/dre
-- type: cites
   target: pt:dre:177088818:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/8/2022/01/04/p/dre
 - type: cites
   target: pt:dre:207539630:por
   label: null

@@ -75,10 +75,6 @@ subjects:
 - Suspensão de Prazo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/3/2006/01/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/3/2006/01/09/p/dre
-- type: cites
   target: pt:dre:108038373:por
   label: null
   source: http://data.dre.pt/eli/lei/94/2017/08/23/p/dre
@@ -89,7 +85,7 @@ relationships:
 - type: cites
   target: pt:dre:168186:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/3/2006/01/09/p/dre
 - type: cites
   target: pt:dre:185720:por
   label: null

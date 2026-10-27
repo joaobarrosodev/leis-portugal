@@ -79,17 +79,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/22-2006-683673
   date: '2006-01-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/165/1995/12/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/165/1995/12/11/p/dre
-- type: cites
   target: pt:dre:241455:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null
@@ -97,7 +89,7 @@ relationships:
 - type: cites
   target: pt:dre:632208:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/165/1995/12/11/p/dre
 - type: repealed_by
   target: pt:dre:574340:por
   label: "Revogadas todas as disposições escritas e gráficas estabelecidas no Plano Director Municipal de Aveiro (ratificado\

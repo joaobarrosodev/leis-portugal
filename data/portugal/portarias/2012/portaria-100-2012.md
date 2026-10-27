@@ -87,21 +87,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/3936-2014-3156304
   date: '2014-03-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/127/2007/08/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/127/2007/08/28/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/78/1996/05/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/78/1996/05/29/p/dre
-- type: cites
   target: pt:dre:333172:por
   label: null
   source: null
 - type: cites
   target: pt:dre:445100:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/78/1996/05/29/p/dre
 - type: cites
   target: pt:dre:453518:por
   label: null
@@ -113,7 +105,7 @@ relationships:
 - type: cites
   target: pt:dre:641075:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/127/2007/08/28/p/dre
 article_structure:
   article_count: 3
   section_count: 0

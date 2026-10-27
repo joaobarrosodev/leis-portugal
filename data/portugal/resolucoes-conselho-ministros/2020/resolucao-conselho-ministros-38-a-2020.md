@@ -81,21 +81,13 @@ subjects:
 - Proteção Civil
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+  target: pt:dre:114109966:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites
-  target: pt:dre:114109966:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:116747965:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
 - type: cites
   target: pt:dre:123815982:por
   label: null

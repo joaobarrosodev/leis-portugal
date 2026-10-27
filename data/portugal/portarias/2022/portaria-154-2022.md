@@ -83,13 +83,9 @@ subjects:
 - Tabagismo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/138-g/2021/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/138-g/2021/07/01/p/dre
-- type: cites
   target: pt:dre:166296490:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/138-g/2021/07/01/p/dre
 - type: cites
   target: pt:dre:251019:por
   label: null

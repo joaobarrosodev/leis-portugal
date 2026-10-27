@@ -79,10 +79,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1099-2020-128473354
   date: '2020-01-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/151/2007/10/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/151/2007/10/01/p/dre
-- type: cites
   target: pt:dre:333172:por
   label: null
   source: null
@@ -93,7 +89,7 @@ relationships:
 - type: cites
   target: pt:dre:642530:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/151/2007/10/01/p/dre
 - type: cites
   target: pt:dre:679468:por
   label: null

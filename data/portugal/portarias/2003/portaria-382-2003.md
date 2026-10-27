@@ -74,25 +74,13 @@ subjects:
 - Santarém
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/111/1995/10/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/111/1995/10/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/123/1997/07/26/p/dre
+  target: pt:dre:144635:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/123/1997/07/26/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/38/2003/03/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/38/2003/03/13/p/dre
-- type: cites
-  target: pt:dre:144635:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:214956:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/38/2003/03/13/p/dre
 - type: cites
   target: pt:dre:333524:por
   label: null
@@ -108,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:668164:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/111/1995/10/24/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -84,10 +84,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/50/2013/11/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/50/2013/11/08/p/dre
-- type: cites
   target: pt:dre:25676932:por
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
@@ -102,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:504558:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/50/2013/11/08/p/dre
 - type: repealed_by
   target: pt:dre:214402044:por
   label: Revogado, a partir de 16.06.2023, pelo(a) Decreto Legislativo Regional n.º 21/2023/A - Diário da República n.º 115/2023,

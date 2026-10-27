@@ -73,10 +73,6 @@ subjects:
 - Política de Solos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/148-a/2002/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/148-a/2002/12/30/p/dre
-- type: cites
   target: pt:dre:407537:por
   label: null
   source: null
@@ -87,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:694191:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/148-a/2002/12/30/p/dre
 article_structure:
   article_count: 1
   section_count: 0

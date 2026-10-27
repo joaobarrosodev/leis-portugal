@@ -86,10 +86,6 @@ subjects:
 - TAXA Social Unica
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
-- type: cites
   target: pt:dre:456492:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/116/2008/07/04/p/dre
@@ -120,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:553594:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
 - type: cites
   target: pt:dre:620286:por
   label: null

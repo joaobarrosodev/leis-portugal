@@ -93,17 +93,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2013/1408/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/123/2021/06/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/123/2021/06/18/p/dre
-- type: cites
   target: pt:dre:165129786:por
   label: null
   source: http://data.dre.pt/eli/lei/37/2021/06/15/p/dre
 - type: cites
   target: pt:dre:165346915:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/123/2021/06/18/p/dre
 article_structure:
   article_count: 8
   section_count: 3

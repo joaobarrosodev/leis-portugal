@@ -81,26 +81,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104/2003/08/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104/2003/08/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/153/2008/10/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/153/2008/10/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2004/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2004/03/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/69/2005/03/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/69/2005/03/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-- type: cites
   target: pt:dre:217686:por
   label: null
   source: http://data.dre.pt/eli/decregul/6/1992/04/18/p/dre
@@ -131,7 +111,7 @@ relationships:
 - type: cites
   target: pt:dre:452713:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/153/2008/10/14/p/dre
 - type: cites
   target: pt:dre:499204:por
   label: null
@@ -139,15 +119,15 @@ relationships:
 - type: cites
   target: pt:dre:551776:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2004/03/03/p/dre
 - type: cites
   target: pt:dre:574346:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/69/2005/03/17/p/dre
 - type: cites
   target: pt:dre:609283:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
 - type: cites
   target: pt:dre:633557:por
   label: null
@@ -155,7 +135,7 @@ relationships:
 - type: cites
   target: pt:dre:647111:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/104/2003/08/08/p/dre
 - type: cites
   target: pt:dre:659877:por
   label: null

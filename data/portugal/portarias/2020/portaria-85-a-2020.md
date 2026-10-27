@@ -126,17 +126,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778
   date: '2021-02-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/218-d/2019/07/15/p/dre
+  target: pt:dre:123183032:por
   label: null
   source: http://data.dre.pt/eli/port/218-d/2019/07/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
 - type: cites
   target: pt:dre:130243053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+- type: cites
+  target: pt:dre:130243054:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
 - type: cites
   target: pt:dre:130399862:por
   label: null

@@ -81,13 +81,9 @@ subjects:
 - Transporte Aéreo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/122/1997/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/122/1997/07/26/p/dre
-- type: cites
   target: pt:dre:144633:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/122/1997/07/26/p/dre
 article_structure:
   article_count: 30
   section_count: 8

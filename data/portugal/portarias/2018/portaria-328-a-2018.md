@@ -119,13 +119,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2013/1408/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/116/2018/09/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/116/2018/09/06/p/dre
-- type: cites
   target: pt:dre:114425585:por
   label: null
   source: http://data.dre.pt/eli/lei/113/2017/12/29/p/dre
+- type: cites
+  target: pt:dre:116341225:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/116/2018/09/06/p/dre
 - type: cites
   target: pt:dre:146186:por
   label: null

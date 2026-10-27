@@ -98,13 +98,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2022-177455551
   date: '2022-01-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/159/2018/06/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/159/2018/06/01/p/dre
-- type: cites
   target: pt:dre:108063581:por
   label: null
   source: http://data.dre.pt/eli/lei/100/2017/08/28/p/dre
+- type: cites
+  target: pt:dre:115414933:por
+  label: null
+  source: http://data.dre.pt/eli/port/159/2018/06/01/p/dre
 - type: cites
   target: pt:dre:117821873:por
   label: null

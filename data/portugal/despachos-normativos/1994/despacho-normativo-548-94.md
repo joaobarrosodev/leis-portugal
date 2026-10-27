@@ -108,10 +108,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/14216-1999-1226051
   date: '1999-07-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-- type: cites
   target: pt:dre:231881:por
   label: null
   source: http://data.dre.pt/eli/despnorm/554/1994/07/29/p/dre
@@ -134,7 +130,7 @@ relationships:
 - type: cites
   target: pt:dre:291631:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
 article_structure:
   article_count: 16
   section_count: 0

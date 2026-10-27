@@ -72,7 +72,7 @@ subjects:
 - Violência Doméstica
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/280/2016/10/26/p/dre
+  target: pt:dre:75606252:por
   label: null
   source: http://data.dre.pt/eli/port/280/2016/10/26/p/dre
 article_structure:

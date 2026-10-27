@@ -79,17 +79,13 @@ subjects:
 - Transferência de Competências
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/44/2007/03/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/44/2007/03/19/p/dre
-- type: cites
   target: pt:dre:2801074:por
   label: null
   source: null
 - type: cites
   target: pt:dre:518640:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/44/2007/03/19/p/dre
 - type: cites
   target: pt:dre:629449:por
   label: null

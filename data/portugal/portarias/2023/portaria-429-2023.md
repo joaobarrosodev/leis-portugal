@@ -93,7 +93,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/651/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
+  target: pt:dre:108219721:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
 - type: cites

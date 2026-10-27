@@ -80,10 +80,6 @@ subjects:
 - Trabalho
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/631/1999/12/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/631/1999/12/28/p/dre
-- type: cites
   target: pt:dre:227271:por
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
@@ -98,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:291882:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/631/1999/12/28/p/dre
 - type: cites
   target: pt:dre:377508:por
   label: null

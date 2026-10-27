@@ -76,17 +76,13 @@ subjects:
 - Reserva Ecológica Nacional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/165/2007/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/165/2007/10/15/p/dre
-- type: cites
   target: pt:dre:521257:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
 - type: cites
   target: pt:dre:641431:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/165/2007/10/15/p/dre
 - type: corrects
   target: pt:numero:resolucao-conselho-ministros:165/2007
   label: "Rectifica o Regulamento do Plano de Urbanização de Rebordosa e Parcial de Lordelo, Vilela e Astromil, anexo à Resolução\

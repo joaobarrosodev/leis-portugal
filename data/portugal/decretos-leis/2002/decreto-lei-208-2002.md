@@ -112,10 +112,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2006-683402
   date: '2006-02-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/77/2000/07/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/77/2000/07/06/p/dre
-- type: cites
   target: pt:dre:138777:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
@@ -134,7 +130,7 @@ relationships:
 - type: cites
   target: pt:dre:301022:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/77/2000/07/06/p/dre
 - type: cites
   target: pt:dre:309481:por
   label: null

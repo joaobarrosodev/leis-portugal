@@ -370,6 +370,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/ebf9dd6e-86ac-449f-94d3-1704bba8f7db
   date: '1966-07-11'
+- type: transposed_by
+  target: pt:dre:114528124:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
   section_count: 13

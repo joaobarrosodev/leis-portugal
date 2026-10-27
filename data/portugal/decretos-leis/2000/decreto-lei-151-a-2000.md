@@ -171,7 +171,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298
   date: '2022-08-16'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/23/1998/02/12/p/dre
+  target: pt:dre:231962:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/23/1998/02/12/p/dre
 - type: cites

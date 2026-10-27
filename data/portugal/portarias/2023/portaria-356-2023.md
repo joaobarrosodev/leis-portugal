@@ -83,7 +83,7 @@ subjects:
 - Regulamento do Controlo Metrológico dos Instrumentos de Medição de Radiações Ionizantes
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/247/2018/09/04/p/dre
+  target: pt:dre:116320540:por
   label: null
   source: http://data.dre.pt/eli/port/247/2018/09/04/p/dre
 - type: cites

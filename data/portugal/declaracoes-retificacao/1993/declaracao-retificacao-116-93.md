@@ -78,17 +78,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/36-1993-274017
   date: '1993-05-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/36/1993/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/36/1993/05/04/p/dre
-- type: cites
   target: pt:dre:222460:por
   label: null
   source: null
 - type: cites
   target: pt:dre:274017:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/36/1993/05/04/p/dre
 - type: cites
   target: pt:dre:286493:por
   label: null

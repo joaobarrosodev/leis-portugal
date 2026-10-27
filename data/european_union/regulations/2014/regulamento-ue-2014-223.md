@@ -201,11 +201,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:106388651:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:118275384:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:156547110:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:169418547:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:171183636:por
   label: null
   source: null
 - type: cited_by

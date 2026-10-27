@@ -82,17 +82,13 @@ subjects:
 - Subsídio de Desemprego
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/1998/03/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/1998/03/30/p/dre
-- type: cites
   target: pt:dre:144835:por
   label: null
   source: http://data.dre.pt/eli/port/566/1997/07/29/p/dre
 - type: cites
   target: pt:dre:198677:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/46/1998/03/30/p/dre
 - type: cites
   target: pt:dre:230171:por
   label: null

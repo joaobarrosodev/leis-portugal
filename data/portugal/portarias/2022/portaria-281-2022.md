@@ -92,17 +92,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/2336/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/110/2018/04/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/110/2018/04/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/122-a/2015/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/122-a/2015/05/04/p/dre
-- type: cites
   target: pt:dre:115172418:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/110/2018/04/24/p/dre
 - type: cites
   target: pt:dre:120696372:por
   label: null
@@ -130,7 +122,7 @@ relationships:
 - type: cites
   target: pt:dre:67142142:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/122-a/2015/05/04/p/dre
 article_structure:
   article_count: 5
   section_count: 0

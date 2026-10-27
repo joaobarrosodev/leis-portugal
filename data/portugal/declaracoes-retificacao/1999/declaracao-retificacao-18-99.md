@@ -79,13 +79,9 @@ subjects:
 - Tribunal Constitucional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/453/1999/09/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/453/1999/09/18/p/dre
-- type: cites
   target: pt:dre:569882:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/453/1999/09/18/p/dre
 article_structure:
   article_count: 0
   section_count: 0

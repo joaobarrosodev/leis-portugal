@@ -83,21 +83,13 @@ subjects:
 - Ministro de Estado e das Finanças
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/50/2012/05/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/50/2012/05/22/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/66/2012/08/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/66/2012/08/06/p/dre
-- type: cites
   target: pt:dre:175331:por
   label: null
   source: http://data.dre.pt/eli/lei/35/2012/08/23/p/dre
 - type: cites
   target: pt:dre:178997:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/66/2012/08/06/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null
@@ -117,7 +109,7 @@ relationships:
 - type: cites
   target: pt:dre:551990:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/50/2012/05/22/p/dre
 - type: cites
   target: pt:dre:581061:por
   label: null

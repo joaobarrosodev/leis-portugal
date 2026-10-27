@@ -75,7 +75,7 @@ subjects:
 - Responsabilidade do Estado
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-c/2017/10/27/p/dre
+  target: pt:dre:114109968:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-c/2017/10/27/p/dre
 article_structure:

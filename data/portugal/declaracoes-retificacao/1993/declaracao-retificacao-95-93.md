@@ -72,13 +72,9 @@ subjects:
 - Política de Solos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/11/1993/02/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/11/1993/02/23/p/dre
-- type: cites
   target: pt:dre:657248:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/11/1993/02/23/p/dre
 article_structure:
   article_count: 0
   section_count: 0

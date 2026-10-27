@@ -126,6 +126,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/54a24625-e537-49c6-ab68-2a6cb5d8eefb
   date: '1967-07-31'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: corrected_by
   target: celex:31971R1613R(01)
   label: null

@@ -78,17 +78,13 @@ subjects:
 - Transferência de Verbas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/173/2019/06/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/173/2019/06/05/p/dre
-- type: cites
   target: pt:dre:122168904:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/2019/04/26/p/dre
 - type: cites
   target: pt:dre:122498965:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/173/2019/06/05/p/dre
 article_structure:
   article_count: 4
   section_count: 0

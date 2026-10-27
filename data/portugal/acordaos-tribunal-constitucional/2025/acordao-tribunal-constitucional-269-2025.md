@@ -81,10 +81,6 @@ relationships:
   source: null
   date: '2008-02-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/239/2020/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/239/2020/10/12/p/dre
-- type: cites
   target: pt:dre:121665678:por
   label: null
   source: http://data.dre.pt/eli/lei/27/2019/03/28/p/dre
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:145132201:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/239/2020/10/12/p/dre
 - type: cites
   target: pt:dre:1457133:por
   label: null

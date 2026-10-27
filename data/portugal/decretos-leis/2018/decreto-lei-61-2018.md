@@ -101,10 +101,6 @@ subjects:
 - Universidade
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/22/2016/04/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/22/2016/04/11/p/dre
-- type: cites
   target: pt:dre:114834166:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/27/2018/03/09/p/dre
@@ -127,7 +123,7 @@ relationships:
 - type: cites
   target: pt:dre:74094660:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/22/2016/04/11/p/dre
 article_structure:
   article_count: 32
   section_count: 7

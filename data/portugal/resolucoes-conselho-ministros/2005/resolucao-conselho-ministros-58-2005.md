@@ -81,17 +81,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2004/03/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2004/03/02/p/dre
-- type: cites
   target: pt:dre:517473:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/156/2004/06/30/p/dre
 - type: cites
   target: pt:dre:551857:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2004/03/02/p/dre
 - type: repealed_by
   target: pt:dre:380961:por
   label: "Revogado o nº 2 e extintas a célula de apoio à decisão e a célula de oficiais de ligação pela RES.88-A/2005.28.04.2005.PCM,\

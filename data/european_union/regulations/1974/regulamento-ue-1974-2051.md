@@ -88,6 +88,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/1396aba7-eefe-4e5a-8e0b-d1a686560bdb
   date: '1980-12-23'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:11972B010
   label: null

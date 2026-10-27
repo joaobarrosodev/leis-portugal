@@ -145,10 +145,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2025-941702851
   date: '2025-10-23'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/341/2015/10/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/341/2015/10/09/p/dre
-- type: cites
   target: pt:dre:178548:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
@@ -156,6 +152,10 @@ relationships:
   target: pt:dre:179057:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/176/2012/08/02/p/dre
+- type: cites
+  target: pt:dre:70497208:por
+  label: null
+  source: http://data.dre.pt/eli/port/341/2015/10/09/p/dre
 article_structure:
   article_count: 39
   section_count: 14

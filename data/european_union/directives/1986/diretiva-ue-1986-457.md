@@ -123,6 +123,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/51f1cd2a-c121-47cd-867c-78cdb5179d2d
   date: '1993-07-07'
+- type: transposed_by
+  target: pt:dre:138758381:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0

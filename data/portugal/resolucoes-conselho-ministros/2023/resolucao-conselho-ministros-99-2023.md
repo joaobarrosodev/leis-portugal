@@ -80,21 +80,13 @@ subjects:
 - Porto de Pesca
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/15/2022/01/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/15/2022/01/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/17/2021/03/09/p/dre
+  target: pt:dre:159087820:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/17/2021/03/09/p/dre
 - type: cites
-  target: pt:dre:159087820:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:178264012:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/15/2022/01/27/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

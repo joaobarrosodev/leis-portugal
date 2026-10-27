@@ -78,10 +78,6 @@ subjects:
 - Solicitador
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/95/2003/07/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/95/2003/07/30/p/dre
-- type: cites
   target: pt:dre:314224:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/12/2001/01/25/p/dre
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:651732:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/95/2003/07/30/p/dre
 - type: cites
   target: pt:dre:660951:por
   label: null

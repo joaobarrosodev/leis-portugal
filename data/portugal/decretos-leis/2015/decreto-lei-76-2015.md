@@ -99,10 +99,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
   date: '2024-05-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:164425:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/167-c/2013/12/31/p/dre
@@ -117,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:543701:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:571030:por
   label: null

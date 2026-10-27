@@ -79,17 +79,13 @@ subjects:
 - Primeiro-ministro
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/190/2019/12/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/190/2019/12/10/p/dre
-- type: cites
   target: pt:dre:107648320:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2017/07/07/p/dre
 - type: cites
   target: pt:dre:127017054:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/190/2019/12/10/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

@@ -310,6 +310,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/bafdcb51-2a77-4d12-a60c-9a0b16bfb696
   date: '1975-11-01'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31977R0223
   label: null

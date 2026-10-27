@@ -108,10 +108,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/93-2008-449403
   date: '2008-06-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/93/2005/05/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/93/2005/05/20/p/dre
-- type: cites
   target: pt:dre:532430:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/87/2005/04/29/p/dre
@@ -122,7 +118,7 @@ relationships:
 - type: cites
   target: pt:dre:692246:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/93/2005/05/20/p/dre
 article_structure:
   article_count: 0
   section_count: 0

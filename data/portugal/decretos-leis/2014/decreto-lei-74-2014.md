@@ -119,10 +119,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2018-117142870
   date: '2018-11-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/15/2013/03/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/15/2013/03/19/p/dre
-- type: cites
   target: pt:dre:25343690:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/2014/05/13/p/dre
@@ -130,6 +126,10 @@ relationships:
   target: pt:dre:25343691:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/2014/05/13/p/dre
+- type: cites
+  target: pt:dre:259773:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/15/2013/03/19/p/dre
 - type: cites
   target: pt:dre:302093:por
   label: null

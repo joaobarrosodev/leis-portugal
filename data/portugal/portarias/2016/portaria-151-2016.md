@@ -123,10 +123,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2013/1307/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/24-b/2016/02/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/24-b/2016/02/11/p/dre
-- type: cites
   target: pt:dre:241472:por
   label: null
   source: http://data.dre.pt/eli/lei/51/1996/09
@@ -162,6 +158,10 @@ relationships:
   target: pt:dre:66619896:por
   label: null
   source: http://data.dre.pt/eli/port/57/2015/02/27/p/dre
+- type: cites
+  target: pt:dre:73576686:por
+  label: null
+  source: http://data.dre.pt/eli/port/24-b/2016/02/11/p/dre
 - type: transposes
   target: celex:31992L0043
   label: null

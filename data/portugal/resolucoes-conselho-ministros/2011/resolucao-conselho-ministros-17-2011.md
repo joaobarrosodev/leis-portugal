@@ -73,17 +73,13 @@ subjects:
 - Simplegis
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
-- type: cites
   target: pt:dre:280946:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/14/2011/01/25/p/dre
 - type: cites
   target: pt:dre:308714:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
 - type: cites
   target: pt:dre:346122:por
   label: null

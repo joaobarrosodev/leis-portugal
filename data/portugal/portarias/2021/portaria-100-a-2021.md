@@ -94,7 +94,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/116-2024-857366013
   date: '2024-03-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/60/2019/02/13/p/dre
+  target: pt:dre:119487070:por
   label: null
   source: http://data.dre.pt/eli/port/60/2019/02/13/p/dre
 - type: cites

@@ -75,13 +75,9 @@ subjects:
 - Protecção do Património
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/29/1994/05/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/29/1994/05/10/p/dre
-- type: cites
   target: pt:dre:255205:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/29/1994/05/10/p/dre
 - type: cites
   target: pt:dre:411634:por
   label: null

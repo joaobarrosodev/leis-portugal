@@ -90,17 +90,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2006/865/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/48/2018/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/48/2018/02/14/p/dre
-- type: cites
   target: pt:dre:108185253:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/2017/09/20/p/dre
 - type: cites
   target: pt:dre:114685733:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/48/2018/02/14/p/dre
 - type: cites
   target: pt:dre:207539630:por
   label: null

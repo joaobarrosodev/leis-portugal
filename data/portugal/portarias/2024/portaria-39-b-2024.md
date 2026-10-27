@@ -125,10 +125,6 @@ relationships:
   source: null
   date: '2023-02-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/366/2015/10/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
-- type: cites
   target: pt:dre:153138213:por
   label: null
   source: http://data.dre.pt/eli/port/8/2021/01/07/p/dre
@@ -163,7 +159,7 @@ relationships:
 - type: cites
   target: pt:dre:70716381:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
 article_structure:
   article_count: 4
   section_count: 0

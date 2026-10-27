@@ -99,10 +99,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-1998-230359
   date: '1998-02-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33-a/1994/05/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33-a/1994/05/17/p/dre
-- type: cites
   target: pt:dre:173696:por
   label: null
   source: http://data.dre.pt/eli/port/247/1995/03/29/p/dre
@@ -125,7 +121,7 @@ relationships:
 - type: cites
   target: pt:dre:426906:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33-a/1994/05/17/p/dre
 - type: cites
   target: pt:dre:431583:por
   label: null

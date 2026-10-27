@@ -126,11 +126,11 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327
   date: '2002-04-16'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/136/1997/08/14/p/dre
+  target: pt:dre:209057:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/136/1997/08/14/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/2000/02/01/p/dre
+  target: pt:dre:405921:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/4/2000/02/01/p/dre
 article_structure:

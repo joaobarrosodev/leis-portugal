@@ -87,13 +87,9 @@ subjects:
 - Urbanização
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/255/2002/07/08/p/dre
+  target: pt:dre:199450:por
   label: null
   source: http://data.dre.pt/eli/ac/255/2002/07/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/347/1992/12/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/347/1992/12/03/p/dre
 - type: cites
   target: pt:dre:285560:por
   label: null
@@ -110,6 +106,10 @@ relationships:
   target: pt:dre:542272:por
   label: null
   source: http://data.dre.pt/eli/actconst/88/2012/03/08/p/dre
+- type: cites
+  target: pt:dre:597568:por
+  label: null
+  source: http://data.dre.pt/eli/ac/347/1992/12/03/p/dre
 - type: cites
   target: pt:dre:671007:por
   label: null

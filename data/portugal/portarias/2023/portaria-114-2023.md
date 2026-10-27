@@ -87,25 +87,9 @@ subjects:
 - Subvenção Pública
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/23/2021/01/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/23/2021/01/28/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/36-a/2020/02/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/36-a/2020/02/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/373/2019/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/373/2019/10/15/p/dre
-- type: cites
   target: pt:dre:107684448:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
 - type: cites
   target: pt:dre:121665680:por
   label: null
@@ -117,11 +101,11 @@ relationships:
 - type: cites
   target: pt:dre:125290656:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/373/2019/10/15/p/dre
 - type: cites
   target: pt:dre:128832423:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/36-a/2020/02/03/p/dre
 - type: cites
   target: pt:dre:141259624:por
   label: null
@@ -137,7 +121,7 @@ relationships:
 - type: cites
   target: pt:dre:155601285:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/23/2021/01/28/p/dre
 - type: cites
   target: pt:dre:185330735:por
   label: null

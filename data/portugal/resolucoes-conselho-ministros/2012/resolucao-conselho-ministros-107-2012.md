@@ -91,29 +91,9 @@ subjects:
 - Zona de Proteção
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104/1994/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104/1994/10/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/109/1994/11/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/109/1994/11/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/140/2000/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/140/2000/10/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/6/1995/01/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/6/1995/01/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/99/2000/08/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/99/2000/08/04/p/dre
-- type: cites
   target: pt:dre:145674:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/6/1995/01/23/p/dre
 - type: cites
   target: pt:dre:243768:por
   label: null
@@ -129,7 +109,7 @@ relationships:
 - type: cites
   target: pt:dre:314657:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/99/2000/08/04/p/dre
 - type: cites
   target: pt:dre:383404:por
   label: null
@@ -177,7 +157,7 @@ relationships:
 - type: cites
   target: pt:dre:532866:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/140/2000/10/18/p/dre
 - type: cites
   target: pt:dre:534021:por
   label: null
@@ -197,7 +177,7 @@ relationships:
 - type: cites
   target: pt:dre:611150:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/104/1994/10/18/p/dre
 - type: cites
   target: pt:dre:612626:por
   label: null
@@ -205,7 +185,7 @@ relationships:
 - type: cites
   target: pt:dre:621309:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/109/1994/11/02/p/dre
 - type: cites
   target: pt:dre:668289:por
   label: null

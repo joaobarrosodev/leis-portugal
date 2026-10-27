@@ -77,17 +77,9 @@ subjects:
 - RIO TEJO
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/13/2008/01/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/13/2008/01/22/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/97/2000/08/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/97/2000/08/02/p/dre
-- type: cites
   target: pt:dre:248514:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/13/2008/01/22/p/dre
 - type: cites
   target: pt:dre:302557:por
   label: null
@@ -95,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:314607:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/97/2000/08/02/p/dre
 - type: cites
   target: pt:dre:418191:por
   label: null

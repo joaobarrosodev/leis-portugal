@@ -73,10 +73,6 @@ subjects:
 - Recurso
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/5/1994/12/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/5/1994/12/16/p/dre
-- type: cites
   target: pt:dre:159366:por
   label: null
   source: null
@@ -87,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:562066:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/5/1994/12/16/p/dre
 - type: cites
   target: pt:dre:641082:por
   label: null

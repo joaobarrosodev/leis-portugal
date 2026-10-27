@@ -104,18 +104,6 @@ subjects:
 - ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/32/2020/
-  label: null
-  source: http://data.dre.pt/eli/declretif/32/2020/
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/122-a/2021/06/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/122-a/2021/06/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/331-a/2021/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/331-a/2021/12/31/p/dre
-- type: cites
   target: pt:dre:130776791:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2020/03/27/p/dre
@@ -124,6 +112,10 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/174/2020/07/17/p/dre
 - type: cites
+  target: pt:dre:140210522:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/32/2020/
+- type: cites
   target: pt:dre:141259624:por
   label: null
   source: http://data.dre.pt/eli/port/206/2020/08/27/p/dre
@@ -131,6 +123,14 @@ relationships:
   target: pt:dre:141259625:por
   label: null
   source: http://data.dre.pt/eli/port/207/2020/08/27/p/dre
+- type: cites
+  target: pt:dre:164955365:por
+  label: null
+  source: http://data.dre.pt/eli/port/122-a/2021/06/14/p/dre
+- type: cites
+  target: pt:dre:176907549:por
+  label: null
+  source: http://data.dre.pt/eli/port/331-a/2021/12/31/p/dre
 - type: cites
   target: pt:dre:480705:por
   label: null

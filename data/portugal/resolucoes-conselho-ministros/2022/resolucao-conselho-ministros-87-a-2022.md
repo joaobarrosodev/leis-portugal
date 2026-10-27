@@ -99,13 +99,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2000/60/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-- type: cites
   target: pt:dre:124457181:por
   label: null
   source: http://data.dre.pt/eli/lei/99/2019/09/05/p/dre
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
 - type: cites
   target: pt:dre:179368:por
   label: null

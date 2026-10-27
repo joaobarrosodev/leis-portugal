@@ -73,10 +73,6 @@ subjects:
 - Recursos do Mar
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/154/2001/10/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/154/2001/10/19/p/dre
-- type: cites
   target: pt:dre:485032:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/87/1998/07/10/p/dre
@@ -87,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:584617:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/154/2001/10/19/p/dre
 article_structure:
   article_count: 0
   section_count: 0

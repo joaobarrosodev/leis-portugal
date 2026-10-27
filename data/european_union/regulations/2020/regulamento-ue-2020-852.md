@@ -117,7 +117,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:176714555:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:176726830:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:177908719:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:179327558:por
   label: null
   source: null
 - type: cited_by

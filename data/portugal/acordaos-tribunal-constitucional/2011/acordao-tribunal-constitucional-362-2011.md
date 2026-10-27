@@ -83,25 +83,17 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/255/2002/07/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/255/2002/07/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/563/2004/05/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/563/2004/05/25/p/dre
-- type: cites
   target: pt:dre:144988:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/77/1999/03/16/p/dre
 - type: cites
   target: pt:dre:199450:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/255/2002/07/08/p/dre
 - type: cites
   target: pt:dre:252203:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/563/2004/05/25/p/dre
 - type: cites
   target: pt:dre:480290:por
   label: null

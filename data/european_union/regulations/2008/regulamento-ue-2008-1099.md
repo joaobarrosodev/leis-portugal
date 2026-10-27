@@ -380,6 +380,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:66970762:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:895287957:por
   label: null
   source: null

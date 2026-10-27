@@ -80,6 +80,10 @@ relationships:
   target: pt:dre:233967:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: corrected_by
   target: celex:31968L0089R(01)
   label: null

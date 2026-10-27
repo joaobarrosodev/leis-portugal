@@ -82,21 +82,13 @@ subjects:
 - TIC
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/60/2012/07/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/60/2012/07/10/p/dre
-- type: cites
   target: pt:dre:146274:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46/2011/11/14/p/dre
 - type: cites
   target: pt:dre:179559:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/60/2012/07/10/p/dre
 - type: cites
   target: pt:dre:302093:por
   label: null
@@ -104,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:543701:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 article_structure:
   article_count: 19
   section_count: 0

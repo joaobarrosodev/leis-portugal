@@ -83,10 +83,6 @@ relationships:
   source: null
   date: '2021-12-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/139/2015/05/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/139/2015/05/20/p/dre
-- type: cites
   target: pt:dre:175923962:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/175/2021/12/15/p/dre
@@ -109,7 +105,7 @@ relationships:
 - type: cites
   target: pt:dre:67250219:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/139/2015/05/20/p/dre
 article_structure:
   article_count: 0
   section_count: 0

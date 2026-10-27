@@ -115,10 +115,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163
   date: '2022-05-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/214/2016/08/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/214/2016/08/04/p/dre
-- type: cites
   target: pt:dre:107669157:por
   label: null
   source: http://data.dre.pt/eli/port/207/2017/07/11/p/dre
@@ -142,6 +138,10 @@ relationships:
   target: pt:dre:629666:por
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:75099114:por
+  label: null
+  source: http://data.dre.pt/eli/port/214/2016/08/04/p/dre
 article_structure:
   article_count: 16
   section_count: 0

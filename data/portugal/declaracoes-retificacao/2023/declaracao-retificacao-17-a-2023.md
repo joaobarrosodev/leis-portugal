@@ -89,17 +89,13 @@ subjects:
 - Segurança Internacional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/19/2022/01/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/19/2022/01/24/p/dre
-- type: cites
   target: pt:dre:159432383:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/20/2021/03/15/p/dre
 - type: cites
   target: pt:dre:178080766:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/19/2022/01/24/p/dre
 - type: cites
   target: pt:dre:205457496:por
   label: null

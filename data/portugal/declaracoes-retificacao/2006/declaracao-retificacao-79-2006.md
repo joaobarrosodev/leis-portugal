@@ -72,17 +72,13 @@ subjects:
 - Toxicodependente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/115/2006/09/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/115/2006/09/18/p/dre
-- type: cites
   target: pt:dre:481158:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/1/2003/01/06/p/dre
 - type: cites
   target: pt:dre:540065:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/115/2006/09/18/p/dre
 - type: corrects
   target: pt:numero:resolucao-conselho-ministros:115/2006
   label: "Rectifica e republica anexo II à Resolução do Conselho de Ministros n.º 115/2006, de 18 de Setembro, DR.IS [180]\0\

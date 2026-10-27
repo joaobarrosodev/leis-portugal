@@ -134,10 +134,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2021-165129790
   date: '2021-06-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/66/2007/05/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/66/2007/05/07/p/dre
-- type: cites
   target: pt:dre:198116:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/1998/03/27/p/dre
@@ -149,6 +145,10 @@ relationships:
   target: pt:dre:516741:por
   label: null
   source: http://data.dre.pt/eli/lei/22/1998/05/12/p/dre
+- type: cites
+  target: pt:dre:520843:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/66/2007/05/07/p/dre
 - type: cites
   target: pt:dre:538616:por
   label: null

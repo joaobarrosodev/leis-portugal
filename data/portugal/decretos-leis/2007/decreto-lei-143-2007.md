@@ -87,10 +87,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
   date: '2011-12-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-- type: cites
   target: pt:dre:301260:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2002/04/04/p/dre
@@ -105,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:522203:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
 - type: cites
   target: pt:dre:536642:por
   label: null

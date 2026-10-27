@@ -80,21 +80,13 @@ subjects:
 - Vítima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/119/2021/12/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/119/2021/12/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/26/2015/02/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/26/2015/02/10/p/dre
-- type: cites
   target: pt:dre:115620691:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/2018/07/02/p/dre
 - type: cites
   target: pt:dre:175983734:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/119/2021/12/16/p/dre
 - type: cites
   target: pt:dre:185224662:por
   label: null
@@ -122,7 +114,7 @@ relationships:
 - type: cites
   target: pt:dre:66463207:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/26/2015/02/10/p/dre
 article_structure:
   article_count: 16
   section_count: 2

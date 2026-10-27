@@ -98,7 +98,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2025-915525579
   date: '2025-04-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/8/2022/01/26/p/dre
+  target: pt:dre:178210551:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/2022/01/26/p/dre
 - type: cites

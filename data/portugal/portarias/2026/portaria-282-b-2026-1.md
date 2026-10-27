@@ -71,17 +71,13 @@ subjects:
 - SIADAP
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/26/2019/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/26/2019/01/18/p/dre
-- type: cites
   target: pt:dre:108074438:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/109/2017/08/30/p/dre
 - type: cites
   target: pt:dre:117919462:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/26/2019/01/18/p/dre
 - type: cites
   target: pt:dre:227271:por
   label: null

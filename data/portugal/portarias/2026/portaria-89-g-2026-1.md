@@ -77,17 +77,13 @@ subjects:
 - Zona Especial de Conservação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/201/2019/06/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/201/2019/06/28/p/dre
-- type: cites
   target: pt:dre:1034985553:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/30/2026/02/04/p/dre
 - type: cites
   target: pt:dre:122747586:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/201/2019/06/28/p/dre
 - type: cites
   target: pt:dre:130273578:por
   label: null

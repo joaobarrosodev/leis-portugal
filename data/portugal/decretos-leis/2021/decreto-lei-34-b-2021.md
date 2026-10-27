@@ -103,11 +103,11 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2022-177363475
   date: '2022-01-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/108/2017/07/26/p/dre
+  target: pt:dre:107757007:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/108/2017/07/26/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+  target: pt:dre:114109966:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites

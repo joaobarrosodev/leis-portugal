@@ -99,7 +99,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/266-2023-220076076
   date: '2023-08-18'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
+  target: pt:dre:176907514:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
 - type: cites

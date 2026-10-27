@@ -129,11 +129,35 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/53b9de4b-14dc-485f-902e-17dd58f6891c
   date: '2016-06-09'
 - type: cited_by
+  target: pt:dre:114682828:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114952498:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:116877128:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:122074197:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:124539914:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:124642995:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:166658187:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:176412613:por
   label: null
   source: null
 - type: cited_by

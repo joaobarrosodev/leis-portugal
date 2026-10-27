@@ -74,13 +74,9 @@ subjects:
 - Tempestade Kristin
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/302/2019/09/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/302/2019/09/12/p/dre
-- type: cites
   target: pt:dre:124642991:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/302/2019/09/12/p/dre
 article_structure:
   article_count: 0
   section_count: 0

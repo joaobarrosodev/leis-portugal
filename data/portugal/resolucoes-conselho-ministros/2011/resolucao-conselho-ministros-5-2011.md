@@ -74,10 +74,6 @@ subjects:
 - Plano Nacional para a Igualdade de Género Cidadania e não Discriminação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/161/2008/10/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/161/2008/10/22/p/dre
-- type: cites
   target: pt:dre:249856:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/70/2008/04/22/p/dre
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:438443:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/161/2008/10/22/p/dre
 - type: cites
   target: pt:dre:490247:por
   label: null

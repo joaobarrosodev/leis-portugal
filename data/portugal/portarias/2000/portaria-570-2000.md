@@ -70,13 +70,9 @@ subjects:
 - Requisição Civil
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/21-a/2000/05/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/21-a/2000/05/03/p/dre
-- type: cites
   target: pt:dre:636727:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/21-a/2000/05/03/p/dre
 - type: cites
   target: pt:dre:636728:por
   label: null

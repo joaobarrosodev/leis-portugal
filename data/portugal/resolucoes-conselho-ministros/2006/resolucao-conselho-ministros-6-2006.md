@@ -90,17 +90,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-2009-482658
   date: '2009-12-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/92/2005/05/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/92/2005/05/20/p/dre
-- type: cites
   target: pt:dre:603475:por
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
 - type: cites
   target: pt:dre:692247:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/92/2005/05/20/p/dre
 article_structure:
   article_count: 0
   section_count: 0

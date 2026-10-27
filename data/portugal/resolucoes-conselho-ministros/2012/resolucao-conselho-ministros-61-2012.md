@@ -87,17 +87,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/37-2014-25676923
   date: '2014-06-23'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/96/1997/06/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/96/1997/06/19/p/dre
-- type: cites
   target: pt:dre:240050:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/123/1998/10/19/p/dre
 - type: cites
   target: pt:dre:365354:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/96/1997/06/19/p/dre
 - type: cites
   target: pt:dre:389826:por
   label: null

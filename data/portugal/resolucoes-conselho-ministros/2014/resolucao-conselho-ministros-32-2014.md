@@ -88,10 +88,6 @@ subjects:
 - Venda Directa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/13/2012/02/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/13/2012/02/08/p/dre
-- type: cites
   target: pt:dre:181979:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-b/2011/11/03/p/dre
@@ -110,7 +106,7 @@ relationships:
 - type: cites
   target: pt:dre:543720:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/13/2012/02/08/p/dre
 - type: cites
   target: pt:dre:671005:por
   label: null

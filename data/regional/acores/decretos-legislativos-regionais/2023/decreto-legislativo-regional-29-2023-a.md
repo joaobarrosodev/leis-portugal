@@ -121,10 +121,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2018/852/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/6/2016/04/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/6/2016/04/26/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/dir/2019
   label: null
   source: http://data.europa.eu/eli/dir/2019
@@ -183,7 +179,7 @@ relationships:
 - type: cites
   target: pt:dre:74243464:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/6/2016/04/26/p/dre
 - type: cites
   target: pt:dre:75468668:por
   label: null

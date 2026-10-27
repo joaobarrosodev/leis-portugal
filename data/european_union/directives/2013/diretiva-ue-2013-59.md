@@ -97,6 +97,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:66558696:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:837096888:por
   label: null
   source: null
@@ -230,6 +234,30 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:117202785:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:122279881:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:122279882:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:122279883:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:122465019:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:124500730:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:174357143:por
   label: null
   source: null
 - type: transposed_by

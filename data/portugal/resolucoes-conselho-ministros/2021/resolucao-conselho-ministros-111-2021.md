@@ -83,10 +83,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2000/60/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2014/02/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2014/02/12/p/dre
-- type: cites
   target: pt:dre:107987275:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/2017/08/10/p/dre
@@ -141,7 +137,7 @@ relationships:
 - type: cites
   target: pt:dre:572585:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2014/02/12/p/dre
 - type: cites
   target: pt:dre:583983:por
   label: null

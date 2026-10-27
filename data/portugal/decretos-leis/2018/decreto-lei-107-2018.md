@@ -102,10 +102,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2022-202849026
   date: '2022-10-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/244/2016/09/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/244/2016/09/07/p/dre
-- type: cites
   target: pt:dre:116068877:por
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
@@ -129,6 +125,10 @@ relationships:
   target: pt:dre:58350727:por
   label: null
   source: http://data.dre.pt/eli/port/214/2014/10/16/p/dre
+- type: cites
+  target: pt:dre:75272772:por
+  label: null
+  source: http://data.dre.pt/eli/port/244/2016/09/07/p/dre
 article_structure:
   article_count: 12
   section_count: 0

@@ -86,10 +86,6 @@ relationships:
   source: null
   date: '2019-08-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/277/2015/09/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/277/2015/09/10/p/dre
-- type: cites
   target: pt:dre:124256708:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/124/2019/08/28/p/dre
@@ -108,7 +104,7 @@ relationships:
 - type: cites
   target: pt:dre:70241308:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/277/2015/09/10/p/dre
 article_structure:
   article_count: 4
   section_count: 0

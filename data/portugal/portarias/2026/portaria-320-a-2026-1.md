@@ -82,10 +82,6 @@ relationships:
   source: null
   date: '2019-02-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/281/2021/12/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/281/2021/12/03/p/dre
-- type: cites
   target: pt:dre:117658784:por
   label: null
   source: http://data.dre.pt/eli/lei/3/2019/01/09/p/dre
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:175336202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/281/2021/12/03/p/dre
 - type: cites
   target: pt:dre:935742336:por
   label: null

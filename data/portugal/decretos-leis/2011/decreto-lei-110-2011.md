@@ -74,17 +74,9 @@ subjects:
 - Setor Empresarial do Estado
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/42/2009/05/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/42/2009/05/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/78/2008/05/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/78/2008/05/15/p/dre
-- type: cites
   target: pt:dre:249206:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/78/2008/05/15/p/dre
 - type: cites
   target: pt:dre:344942:por
   label: null
@@ -96,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:494202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/42/2009/05/27/p/dre
 - type: cites
   target: pt:dre:617101:por
   label: null

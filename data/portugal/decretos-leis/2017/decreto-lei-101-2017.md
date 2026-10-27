@@ -92,10 +92,6 @@ subjects:
 - Universidade do Algarve
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/75/2016/04/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/75/2016/04/08/p/dre
-- type: cites
   target: pt:dre:105637672:por
   label: null
   source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
@@ -122,7 +118,7 @@ relationships:
 - type: cites
   target: pt:dre:74076044:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/75/2016/04/08/p/dre
 article_structure:
   article_count: 13
   section_count: 0

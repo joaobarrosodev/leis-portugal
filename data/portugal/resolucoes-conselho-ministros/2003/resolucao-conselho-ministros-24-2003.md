@@ -81,10 +81,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14853-2016-91967815
   date: '2016-11-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/97/1997/06/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/97/1997/06/19/p/dre
-- type: cites
   target: pt:dre:158575:por
   label: null
   source: null
@@ -139,7 +135,7 @@ relationships:
 - type: cites
   target: pt:dre:365356:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/97/1997/06/19/p/dre
 - type: cites
   target: pt:dre:374613:por
   label: null

@@ -77,13 +77,9 @@ subjects:
 - Serviço Postal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/195/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/195/2021/12/30/p/dre
-- type: cites
   target: pt:dre:176811784:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/195/2021/12/30/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

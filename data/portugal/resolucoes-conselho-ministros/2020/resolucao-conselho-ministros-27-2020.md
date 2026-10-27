@@ -79,10 +79,6 @@ subjects:
 - Ministro da Educação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:117471258:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/178/2018/12/21/p/dre
@@ -101,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:543701:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:551977:por
   label: null

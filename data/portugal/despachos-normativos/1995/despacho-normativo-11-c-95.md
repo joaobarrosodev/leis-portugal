@@ -109,25 +109,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/16995-1999-2336012
   date: '1999-08-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/37/1994/05/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/37/1994/05/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
-- type: cites
   target: pt:dre:198139:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/1995/02/11/p/dre
 - type: cites
   target: pt:dre:222627:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
 - type: cites
   target: pt:dre:269602:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/37/1994/05/24/p/dre
 - type: cites
   target: pt:dre:299449:por
   label: null

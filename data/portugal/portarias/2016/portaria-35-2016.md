@@ -110,10 +110,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2018-114545476
   date: '2018-01-18'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/417/2015/12/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/417/2015/12/04/p/dre
-- type: cites
   target: pt:dre:3421936:por
   label: null
   source: http://data.dre.pt/eli/port/222/2014/11/04/p/dre
@@ -129,6 +125,10 @@ relationships:
   target: pt:dre:69879391:por
   label: null
   source: http://data.dre.pt/eli/port/224/2015/07/27/p/dre
+- type: cites
+  target: pt:dre:72812702:por
+  label: null
+  source: http://data.dre.pt/eli/port/417/2015/12/04/p/dre
 article_structure:
   article_count: 22
   section_count: 1

@@ -116,17 +116,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2019-122086329
   date: '2019-04-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/2010/11/03/p/dre
+  target: pt:dre:309282:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2010/11/03/p/dre
 - type: cites
   target: pt:dre:539852:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
+- type: cites
+  target: pt:dre:613675:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
 - type: cites
   target: pt:dre:636750:por
   label: null

@@ -139,6 +139,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/65d8e651-f5b2-11ec-b976-01aa75ed71a1
   date: '2022-06-27'
 - type: transposed_by
+  target: pt:dre:116826826:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:125865390:por
   label: null
   source: null

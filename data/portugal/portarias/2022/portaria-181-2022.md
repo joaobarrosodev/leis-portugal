@@ -74,21 +74,13 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/132/2018/05/11/p/dre
+  target: pt:dre:115276179:por
   label: null
   source: http://data.dre.pt/eli/port/132/2018/05/11/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/310/2019/09/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/310/2019/09/17/p/dre
-- type: cites
-  target: pt:dre:115276179:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:124750738:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/310/2019/09/17/p/dre
 - type: cites
   target: pt:dre:343906:por
   label: null

@@ -76,13 +76,9 @@ subjects:
 - Pensões
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/294/2021/12/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/294/2021/12/13/p/dre
-- type: cites
   target: pt:dre:175780035:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/294/2021/12/13/p/dre
 - type: cites
   target: pt:dre:197489:por
   label: null

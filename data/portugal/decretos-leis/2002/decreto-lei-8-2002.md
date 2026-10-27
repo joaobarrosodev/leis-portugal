@@ -96,10 +96,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
   date: '2012-01-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-- type: cites
   target: pt:dre:197076:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
@@ -134,7 +130,7 @@ relationships:
 - type: cites
   target: pt:dre:522203:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
 - type: repealed_by
   target: pt:dre:580669:por
   label: "Revogado pelo DEC LEI.97/2003.2003.05.07.MCOTA, DR.IS-A [105]\0\0"

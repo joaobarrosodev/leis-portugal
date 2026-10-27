@@ -72,17 +72,9 @@ subjects:
 - Pedip II
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/69/1996/05/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/69/1996/05/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/75/1993/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/75/1993/12/31/p/dre
-- type: cites
   target: pt:dre:151302:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/75/1993/12/31/p/dre
 - type: cites
   target: pt:dre:197759:por
   label: null
@@ -98,7 +90,7 @@ relationships:
 - type: cites
   target: pt:dre:468471:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/69/1996/05/13/p/dre
 article_structure:
   article_count: 0
   section_count: 0

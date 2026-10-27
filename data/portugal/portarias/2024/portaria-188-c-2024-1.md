@@ -75,17 +75,13 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/79/2018/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/79/2018/03/16/p/dre
-- type: cites
   target: pt:dre:114766032:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/13/2018/02/26/p/dre
 - type: cites
   target: pt:dre:114880294:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/79/2018/03/16/p/dre
 - type: cites
   target: pt:dre:115730616:por
   label: null

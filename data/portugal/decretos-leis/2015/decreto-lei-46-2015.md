@@ -94,7 +94,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2015-67144140
   date: '2015-05-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/24/2013/04/16/p/dre
+  target: pt:dre:260429:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24/2013/04/16/p/dre
 - type: cites

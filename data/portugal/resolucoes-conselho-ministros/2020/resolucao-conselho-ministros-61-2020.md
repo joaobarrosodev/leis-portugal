@@ -85,29 +85,17 @@ subjects:
 - Relatório
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/106/2018/08/30/p/dre
+  target: pt:dre:116237019:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/106/2018/08/30/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/181/2018/12/21/p/dre
+  target: pt:dre:117471261:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/181/2018/12/21/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2019/01/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/2019/01/09/p/dre
-- type: cites
-  target: pt:dre:116237019:por
-  label: null
-  source: null
-- type: cites
-  target: pt:dre:117471261:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:117658786:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2019/01/09/p/dre
 - type: cites
   target: pt:dre:124457183:por
   label: null

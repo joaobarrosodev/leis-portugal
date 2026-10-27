@@ -127,6 +127,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/f26c1820-c521-4019-b7e6-9c04226b9bb7
   date: '1977-09-07'
+- type: transposed_by
+  target: pt:dre:67485181:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 12

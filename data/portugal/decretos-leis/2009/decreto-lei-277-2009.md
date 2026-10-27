@@ -94,10 +94,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
   date: '2013-08-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/72/2004/06/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/72/2004/06/16/p/dre
-- type: cites
   target: pt:dre:158586:por
   label: null
   source: null
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:273188:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/72/2004/06/16/p/dre
 - type: cites
   target: pt:dre:475493:por
   label: null

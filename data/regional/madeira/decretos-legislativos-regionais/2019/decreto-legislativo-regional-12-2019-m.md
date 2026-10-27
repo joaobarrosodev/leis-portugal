@@ -108,21 +108,21 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2023-215267035
   date: '2023-07-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/28/2018/08/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/28/2018/08/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/declretif/34/2017/10/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/34/2017/10/09/p/dre
-- type: cites
   target: pt:dre:107987278:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2017/08/10/p/dre
 - type: cites
+  target: pt:dre:108265121:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/34/2017/10/09/p/dre
+- type: cites
   target: pt:dre:116130013:por
   label: null
   source: http://data.dre.pt/eli/lei/59/2018/08/21/p/dre
+- type: cites
+  target: pt:dre:116154042:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/28/2018/08/23/p/dre
 - type: cites
   target: pt:dre:303585:por
   label: null

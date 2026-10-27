@@ -78,13 +78,9 @@ subjects:
 - Reino Unido
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/119/1992/08/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/119/1992/08/13/p/dre
-- type: cites
   target: pt:dre:283304:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/119/1992/08/13/p/dre
 article_structure:
   article_count: 0
   section_count: 0

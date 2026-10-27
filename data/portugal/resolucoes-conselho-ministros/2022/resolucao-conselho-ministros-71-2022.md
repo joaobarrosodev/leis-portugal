@@ -100,10 +100,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2023-214252943
   date: '2023-06-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/337/2015/10/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/337/2015/10/07/p/dre
-- type: cites
   target: pt:dre:159432383:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/20/2021/03/15/p/dre
@@ -127,6 +123,10 @@ relationships:
   target: pt:dre:605507:por
   label: null
   source: http://data.dre.pt/eli/port/293/2009/03/24/p/dre
+- type: cites
+  target: pt:dre:70476203:por
+  label: null
+  source: http://data.dre.pt/eli/port/337/2015/10/07/p/dre
 article_structure:
   article_count: 0
   section_count: 0

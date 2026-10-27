@@ -75,13 +75,9 @@ subjects:
 - Reserva Ecológica Nacional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/2005/03/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/2005/03/31/p/dre
-- type: cites
   target: pt:dre:564460:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/81/2005/03/31/p/dre
 - type: corrects
   target: pt:numero:resolucao-conselho-ministros:81/2005
   label: "Rectifica a Resolução do Conselho de Ministros n.º 81/2005, de 31 de Março, DR.IS-B [63]\0\0"

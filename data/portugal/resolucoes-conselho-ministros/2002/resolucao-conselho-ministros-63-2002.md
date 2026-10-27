@@ -74,13 +74,9 @@ subjects:
 - Zona Industrial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/7/1994/01/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/7/1994/01/28/p/dre
-- type: cites
   target: pt:dre:498510:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/7/1994/01/28/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

@@ -92,10 +92,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:146065:por
   label: null
   source: null
@@ -127,6 +123,10 @@ relationships:
   target: pt:dre:542588:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/2012/02/24/p/dre
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:570755:por
   label: null

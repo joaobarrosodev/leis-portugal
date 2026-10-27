@@ -165,6 +165,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:156295372:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:170413763:por
   label: null
   source: null
@@ -305,7 +309,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/b1db9cf4-1906-4f7f-bcdd-3355f36d1c8b
   date: '2003-01-07'
 - type: transposed_by
+  target: pt:dre:105371722:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:116108098:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:118748852:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:121854639:por
   label: null
   source: null
 - type: transposed_by
@@ -321,6 +337,10 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:174614573:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:205493469:por
   label: null
   source: null
@@ -333,6 +353,14 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:70789581:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:71054026:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:71100900:por
   label: null
   source: null
@@ -342,6 +370,14 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:73399498:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:73441202:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:73788170:por
   label: null
   source: null
 - type: transposed_by

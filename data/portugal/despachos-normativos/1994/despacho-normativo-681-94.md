@@ -85,13 +85,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-1997-529430
   date: '1997-02-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
-- type: cites
   target: pt:dre:222627:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
 - type: cites
   target: pt:dre:299449:por
   label: null

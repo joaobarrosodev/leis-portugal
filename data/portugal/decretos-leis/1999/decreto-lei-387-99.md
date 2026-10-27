@@ -100,17 +100,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
   date: '2002-05-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/92/1998/07/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/92/1998/07/14/p/dre
-- type: cites
   target: pt:dre:208255:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/1997/08/18/p/dre
 - type: cites
   target: pt:dre:423893:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/92/1998/07/14/p/dre
 - type: repealed_by
   target: pt:dre:432449:por
   label: "Revogado, sem prejuízo do disposto no nº2 do art. 35º e no nº 6 do art. 31º, pelo DEC LEI.208/2002.2002.10.17.ME,\

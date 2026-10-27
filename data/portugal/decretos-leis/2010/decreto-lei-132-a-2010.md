@@ -83,10 +83,6 @@ subjects:
 - Sistema Eléctrico de Serviço Público
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-- type: cites
   target: pt:dre:374244:por
   label: null
   source: null
@@ -101,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:613675:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
 - type: cites
   target: pt:dre:636750:por
   label: null

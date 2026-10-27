@@ -142,10 +142,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049
   date: '2023-10-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/30/2000/05/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/30/2000/05/18/p/dre
-- type: cites
   target: pt:dre:274383:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2000/05/18/p/dre
@@ -153,6 +149,10 @@ relationships:
   target: pt:dre:274384:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/89/2000/05/18/p/dre
+- type: cites
+  target: pt:dre:274390:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/30/2000/05/18/p/dre
 article_structure:
   article_count: 18
   section_count: 5

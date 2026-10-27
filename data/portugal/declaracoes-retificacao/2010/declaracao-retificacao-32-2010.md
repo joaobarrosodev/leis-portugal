@@ -75,10 +75,6 @@ subjects:
 - Registo Internacional das Marcas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/265/2010/09/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/265/2010/09/22/p/dre
-- type: cites
   target: pt:dre:1116545:por
   label: null
   source: null
@@ -86,6 +82,10 @@ relationships:
   target: pt:dre:1142925:por
   label: null
   source: null
+- type: cites
+  target: pt:dre:342112:por
+  label: null
+  source: http://data.dre.pt/eli/av/265/2010/09/22/p/dre
 - type: cites
   target: pt:dre:521257:por
   label: null

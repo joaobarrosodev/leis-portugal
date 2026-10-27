@@ -98,10 +98,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
   date: '2006-10-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
-- type: cites
   target: pt:dre:345129:por
   label: null
   source: http://data.dre.pt/eli/lei/107/1999/08/03/p/dre
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:666708:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
 - type: repealed_by
   target: pt:dre:521260:por
   label: "Revogada pelo DEC LEI.164/2007.03.05.2007.PCM, DR.IS [85] de 03.05.2007, a partir de 01.06.2007 e determinado que\

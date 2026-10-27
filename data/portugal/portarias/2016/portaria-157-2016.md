@@ -143,10 +143,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/809/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/212/2015/07/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/212/2015/07/17/p/dre
-- type: cites
   target: pt:dre:175334:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
@@ -162,6 +158,10 @@ relationships:
   target: pt:dre:66970764:por
   label: null
   source: http://data.dre.pt/eli/port/108/2015/04/14/p/dre
+- type: cites
+  target: pt:dre:69828946:por
+  label: null
+  source: http://data.dre.pt/eli/port/212/2015/07/17/p/dre
 - type: cites
   target: pt:dre:70462181:por
   label: null

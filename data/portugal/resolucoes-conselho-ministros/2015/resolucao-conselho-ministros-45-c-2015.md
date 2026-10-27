@@ -84,17 +84,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2004/52/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
-- type: cites
   target: pt:dre:145578:por
   label: null
   source: null
 - type: cites
   target: pt:dre:146536:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
 - type: cites
   target: pt:dre:167411:por
   label: null

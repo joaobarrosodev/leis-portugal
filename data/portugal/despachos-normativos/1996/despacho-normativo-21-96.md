@@ -83,13 +83,9 @@ subjects:
 - Subsídio não Reembolsável
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/1996/03/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/1996/03/26/p/dre
-- type: cites
   target: pt:dre:545986:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/26/1996/03/26/p/dre
 article_structure:
   article_count: 0
   section_count: 0

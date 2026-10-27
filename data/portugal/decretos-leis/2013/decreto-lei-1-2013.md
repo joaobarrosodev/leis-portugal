@@ -128,10 +128,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692
   date: '2023-10-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-- type: cites
   target: pt:dre:175305:por
   label: null
   source: http://data.dre.pt/eli/lei/31/2012/08/14/p/dre
@@ -139,6 +135,10 @@ relationships:
   target: pt:dre:247448:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/34/2008/02/26/p/dre
+- type: cites
+  target: pt:dre:406279:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
 - type: cites
   target: pt:dre:693853:por
   label: null

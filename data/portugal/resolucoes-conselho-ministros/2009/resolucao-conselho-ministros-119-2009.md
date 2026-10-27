@@ -89,10 +89,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-- type: cites
   target: pt:dre:2280079:por
   label: null
   source: null
@@ -107,7 +103,7 @@ relationships:
 - type: cites
   target: pt:dre:545593:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
 - type: corrected_by
   target: pt:dre:610200:por
   label: "Rectificado o n. 11º pela DECL-RECT.5/2010.15.02.2010.PCM, DR.IS [31] de 15.02.2010\0\0"

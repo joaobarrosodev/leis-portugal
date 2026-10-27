@@ -84,10 +84,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2019-122086329
   date: '2019-04-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/133/2015/05/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/133/2015/05/15/p/dre
-- type: cites
   target: pt:dre:179030:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/179/2012/08/03/p/dre
@@ -102,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:67212154:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/133/2015/05/15/p/dre
 article_structure:
   article_count: 3
   section_count: 0

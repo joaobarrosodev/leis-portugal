@@ -80,10 +80,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
-- type: cites
   target: pt:dre:116895169:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
@@ -91,6 +87,10 @@ relationships:
   target: pt:dre:124283151:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/2019/08/29/p/dre
+- type: cites
+  target: pt:dre:130243054:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
 - type: cites
   target: pt:dre:58605739:por
   label: null

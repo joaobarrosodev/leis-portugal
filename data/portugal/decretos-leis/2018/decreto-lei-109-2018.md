@@ -82,17 +82,9 @@ subjects:
 - ZONA Urbana
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/209/2017/12/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/209/2017/12/29/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/85/2015/10/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/85/2015/10/02/p/dre
-- type: cites
   target: pt:dre:114425587:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/209/2017/12/29/p/dre
 - type: cites
   target: pt:dre:301786:por
   label: null
@@ -101,6 +93,10 @@ relationships:
   target: pt:dre:483155:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/307/2009/10/23/p/dre
+- type: cites
+  target: pt:dre:70427487:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/85/2015/10/02/p/dre
 article_structure:
   article_count: 8
   section_count: 0

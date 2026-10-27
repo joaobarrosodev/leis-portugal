@@ -77,14 +77,6 @@ subjects:
 - Prestação de Serviços
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157/2007/10/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157/2007/10/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/62/2006/05/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/62/2006/05/16/p/dre
-- type: cites
   target: pt:dre:239616:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/76/2003/04/19/p/dre
@@ -99,11 +91,11 @@ relationships:
 - type: cites
   target: pt:dre:631651:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/62/2006/05/16/p/dre
 - type: cites
   target: pt:dre:641705:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/157/2007/10/08/p/dre
 article_structure:
   article_count: 0
   section_count: 0

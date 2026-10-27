@@ -95,25 +95,17 @@ subjects:
 - Subdiretor
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/197-a/2021/09/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/197-a/2021/09/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/229-a/2021/10/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/229-a/2021/10/28/p/dre
-- type: cites
   target: pt:dre:115652962:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/2018/07/06/p/dre
 - type: cites
   target: pt:dre:171594980:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/197-a/2021/09/17/p/dre
 - type: cites
   target: pt:dre:173517002:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/229-a/2021/10/28/p/dre
 - type: cites
   target: pt:dre:174816:por
   label: null

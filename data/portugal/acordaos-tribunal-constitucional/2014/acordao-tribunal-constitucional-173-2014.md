@@ -82,14 +82,6 @@ subjects:
 - Remição de Pensões
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/232/2003/06/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/232/2003/06/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
-- type: cites
   target: pt:dre:1338631:por
   label: null
   source: null
@@ -104,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:342800:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
 - type: cites
   target: pt:dre:489505:por
   label: null
@@ -120,7 +112,7 @@ relationships:
 - type: cites
   target: pt:dre:684202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/232/2003/06/17/p/dre
 - type: cites
   target: pt:dre:915427:por
   label: null

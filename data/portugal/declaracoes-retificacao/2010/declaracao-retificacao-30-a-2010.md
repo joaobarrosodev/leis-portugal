@@ -79,14 +79,6 @@ subjects:
 - Política de Solos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
-- type: cites
   target: pt:dre:1116545:por
   label: null
   source: null
@@ -111,6 +103,10 @@ relationships:
   label: null
   source: null
 - type: cites
+  target: pt:dre:302877:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
+- type: cites
   target: pt:dre:333798:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2010/08/02/p/dre
@@ -118,6 +114,10 @@ relationships:
   target: pt:dre:353346:por
   label: null
   source: null
+- type: cites
+  target: pt:dre:369413:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
 - type: cites
   target: pt:dre:375062:por
   label: null

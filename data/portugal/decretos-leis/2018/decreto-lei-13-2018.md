@@ -156,10 +156,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2025-912653923
   date: '2025-03-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/224-b/2015/07/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/224-b/2015/07/29/p/dre
-- type: cites
   target: pt:dre:25676932:por
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
@@ -171,6 +167,10 @@ relationships:
   target: pt:dre:67250272:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/86/2015/05/21/p/dre
+- type: cites
+  target: pt:dre:69909875:por
+  label: null
+  source: http://data.dre.pt/eli/port/224-b/2015/07/29/p/dre
 article_structure:
   article_count: 45
   section_count: 14

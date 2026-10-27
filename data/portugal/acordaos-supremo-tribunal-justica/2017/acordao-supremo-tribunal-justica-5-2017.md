@@ -80,10 +80,6 @@ subjects:
 - Supremo Tribunal de Justiça
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/8/2007/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/8/2007/06/04/p/dre
-- type: cites
   target: pt:dre:258493:por
   label: null
   source: http://data.dre.pt/eli/lei/20/2013/02/21/p/dre
@@ -95,6 +91,10 @@ relationships:
   target: pt:dre:518858:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/2007/02/27/p/dre
+- type: cites
+  target: pt:dre:638713:por
+  label: null
+  source: http://data.dre.pt/eli/ac/8/2007/06/04/p/dre
 - type: cites
   target: pt:dre:641082:por
   label: null

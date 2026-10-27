@@ -77,17 +77,13 @@ subjects:
 - Programa de Rastreio do Cancro da MAMA
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/9/2010/02/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/9/2010/02/03/p/dre
-- type: cites
   target: pt:dre:311259:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
 - type: cites
   target: pt:dre:617119:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/9/2010/02/03/p/dre
 article_structure:
   article_count: 0
   section_count: 0

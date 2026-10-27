@@ -93,14 +93,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2005-241792
   date: '2005-08-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/173/2000/12/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/173/2000/12/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/76/2003/05/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/76/2003/05/21/p/dre
-- type: cites
   target: pt:dre:303180:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/57/2000/06/28/p/dre
@@ -115,11 +107,11 @@ relationships:
 - type: cites
   target: pt:dre:542007:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/76/2003/05/21/p/dre
 - type: cites
   target: pt:dre:660332:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/173/2000/12/21/p/dre
 article_structure:
   article_count: 0
   section_count: 0

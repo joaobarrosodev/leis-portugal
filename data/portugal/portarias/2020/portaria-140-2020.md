@@ -122,18 +122,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2020/558/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/30-b/2015/06/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/30-b/2015/06/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/181-b/2015/06/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/181-b/2015/06/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/328-a/2015/10/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/328-a/2015/10/02/p/dre
-- type: cites
   target: pt:dre:115312062:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/34/2018/05/15/p/dre
@@ -157,6 +145,18 @@ relationships:
   target: pt:dre:66619906:por
   label: null
   source: http://data.dre.pt/eli/port/57-a/2015/02/27/p/dre
+- type: cites
+  target: pt:dre:67552510:por
+  label: null
+  source: http://data.dre.pt/eli/port/181-b/2015/06/19/p/dre
+- type: cites
+  target: pt:dre:67618690:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/30-b/2015/06/26/p/dre
+- type: cites
+  target: pt:dre:70423751:por
+  label: null
+  source: http://data.dre.pt/eli/port/328-a/2015/10/02/p/dre
 - type: cites
   target: pt:dre:977507251:por
   label: null

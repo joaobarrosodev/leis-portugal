@@ -81,22 +81,6 @@ relationships:
   source: null
   date: '2016-12-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2006/03/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/2006/03/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/32/2009/04/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/32/2009/04/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/55/2007/04/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/55/2007/04/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
-- type: cites
   target: pt:dre:105639086:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/84-a/2016/12/28/p/dre
@@ -123,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:520227:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/55/2007/04/04/p/dre
 - type: cites
   target: pt:dre:534996:por
   label: null
@@ -135,15 +119,15 @@ relationships:
 - type: cites
   target: pt:dre:603878:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/32/2009/04/16/p/dre
 - type: cites
   target: pt:dre:626231:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
 - type: cites
   target: pt:dre:667476:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2006/03/14/p/dre
 article_structure:
   article_count: 0
   section_count: 0

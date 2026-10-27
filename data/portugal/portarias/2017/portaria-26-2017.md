@@ -189,14 +189,6 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/255/2014/12/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/255/2014/12/09/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/322/2015/10/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/322/2015/10/01/p/dre
-- type: cites
   target: pt:dre:175287:por
   label: null
   source: http://data.dre.pt/eli/port/239/2012/08/09/p/dre
@@ -208,6 +200,14 @@ relationships:
   target: pt:dre:503843:por
   label: null
   source: http://data.dre.pt/eli/port/342/2013/11/22/p/dre
+- type: cites
+  target: pt:dre:61648172:por
+  label: null
+  source: http://data.dre.pt/eli/port/255/2014/12/09/p/dre
+- type: cites
+  target: pt:dre:70423676:por
+  label: null
+  source: http://data.dre.pt/eli/port/322/2015/10/01/p/dre
 article_structure:
   article_count: 28
   section_count: 6

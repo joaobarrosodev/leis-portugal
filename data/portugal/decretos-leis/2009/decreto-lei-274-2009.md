@@ -70,17 +70,13 @@ subjects:
 - Programa Legislar Melhor
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
-- type: cites
   target: pt:dre:291593:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/185/1994/07/05/p/dre
 - type: cites
   target: pt:dre:633530:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
 article_structure:
   article_count: 8
   section_count: 0

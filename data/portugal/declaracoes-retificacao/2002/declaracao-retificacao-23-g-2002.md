@@ -77,13 +77,9 @@ subjects:
 - Urbanismo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/76/2002/04/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/76/2002/04/11/p/dre
-- type: cites
   target: pt:dre:303382:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/76/2002/04/11/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

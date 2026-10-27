@@ -87,10 +87,6 @@ subjects:
 - Sistema Eleitoral
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/197/2015/07/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/197/2015/07/03/p/dre
-- type: cites
   target: pt:dre:150899:por
   label: null
   source: http://data.dre.pt/eli/lei/66-a/2007/12/11/p/dre
@@ -101,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:67664948:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/197/2015/07/03/p/dre
 article_structure:
   article_count: 28
   section_count: 0

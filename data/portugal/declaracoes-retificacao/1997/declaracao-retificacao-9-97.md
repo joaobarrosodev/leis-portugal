@@ -76,13 +76,9 @@ subjects:
 - Transmissão da Propriedade
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/7/1997/04/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/7/1997/04/09/p/dre
-- type: cites
   target: pt:dre:468797:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/7/1997/04/09/p/dre
 article_structure:
   article_count: 0
   section_count: 0

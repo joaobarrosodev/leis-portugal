@@ -85,10 +85,6 @@ subjects:
 - Seguro de Investimento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
-- type: cites
   target: pt:dre:114311300:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/189/2017/12/06/p/dre
@@ -99,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:146923:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
 - type: cites
   target: pt:dre:309002:por
   label: null

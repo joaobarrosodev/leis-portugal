@@ -93,6 +93,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/717d794f-a381-40ef-9f3f-c25d3375c4ad
   date: '1964-01-27'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: corrected_by
   target: celex:31965L0066R(01)
   label: null

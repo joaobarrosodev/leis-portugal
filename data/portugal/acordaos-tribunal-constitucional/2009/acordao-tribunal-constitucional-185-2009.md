@@ -79,22 +79,6 @@ subjects:
 - Responsabilidade Criminal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/123/2004/03/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/123/2004/03/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/246/2005/06/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/246/2005/06/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/258/2006/05/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/258/2006/05/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
-- type: cites
   target: pt:dre:1099515:por
   label: null
   source: null
@@ -109,11 +93,11 @@ relationships:
 - type: cites
   target: pt:dre:217165:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/123/2004/03/30/p/dre
 - type: cites
   target: pt:dre:226240:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/246/2005/06/21/p/dre
 - type: cites
   target: pt:dre:448680:por
   label: null
@@ -125,7 +109,7 @@ relationships:
 - type: cites
   target: pt:dre:520648:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
 - type: cites
   target: pt:dre:558207:por
   label: null
@@ -137,7 +121,7 @@ relationships:
 - type: cites
   target: pt:dre:633942:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/258/2006/05/19/p/dre
 - type: cites
   target: pt:dre:636185:por
   label: null

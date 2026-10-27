@@ -87,25 +87,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/112-2019-123036563
   date: '2019-07-09'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2010/01/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/2010/01/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/35/2012/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/35/2012/03/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64/2013/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/64/2013/10/15/p/dre
-- type: cites
   target: pt:dre:146923:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
 - type: cites
   target: pt:dre:482083:por
   label: null
@@ -113,15 +97,15 @@ relationships:
 - type: cites
   target: pt:dre:494800:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/64/2013/10/15/p/dre
 - type: cites
   target: pt:dre:553474:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/35/2012/03/16/p/dre
 - type: cites
   target: pt:dre:616825:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2010/01/19/p/dre
 article_structure:
   article_count: 0
   section_count: 0

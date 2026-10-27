@@ -89,10 +89,6 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2026/04/07/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/41/2019/01/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/41/2019/01/30/p/dre
-- type: cites
   target: pt:dre:105673279:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-d/2016/12/30/p/dre
@@ -111,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:118748851:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/41/2019/01/30/p/dre
 - type: cites
   target: pt:dre:122195231:por
   label: null

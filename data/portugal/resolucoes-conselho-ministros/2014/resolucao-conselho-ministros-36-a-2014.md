@@ -78,13 +78,9 @@ subjects:
 - SGPS
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/30/2014/04/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/30/2014/04/08/p/dre
-- type: cites
   target: pt:dre:25344756:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/30/2014/04/08/p/dre
 - type: cites
   target: pt:dre:332183:por
   label: null

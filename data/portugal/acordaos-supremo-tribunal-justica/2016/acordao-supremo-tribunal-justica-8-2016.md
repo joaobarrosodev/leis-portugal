@@ -80,14 +80,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1977/187/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/362/2002/10/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/362/2002/10/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/363/2002/10/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/363/2002/10/16/p/dre
-- type: cites
   target: pt:dre:220944:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/38/2003/03/08/p/dre
@@ -134,11 +126,11 @@ relationships:
 - type: cites
   target: pt:dre:655746:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/363/2002/10/16/p/dre
 - type: cites
   target: pt:dre:655747:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/362/2002/10/16/p/dre
 - type: cites
   target: pt:dre:67040492:por
   label: null

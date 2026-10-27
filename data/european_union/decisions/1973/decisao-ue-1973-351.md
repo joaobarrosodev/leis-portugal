@@ -94,6 +94,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/8add3f9a-ba28-4aea-83eb-bcf175ca426f
   date: '1986-11-25'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

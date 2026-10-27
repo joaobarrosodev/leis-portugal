@@ -75,37 +75,21 @@ subjects:
 - Seguro contra Danos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/109/2018/04/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/109/2018/04/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/132/2017/04/10/p/dre
+  target: pt:dre:106858892:por
   label: null
   source: http://data.dre.pt/eli/port/132/2017/04/10/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/59/2021/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/59/2021/03/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/61/2020/03/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/61/2020/03/05/p/dre
-- type: cites
-  target: pt:dre:106858892:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:115160090:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/109/2018/04/23/p/dre
 - type: cites
   target: pt:dre:129892690:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/61/2020/03/05/p/dre
 - type: cites
   target: pt:dre:159539838:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/59/2021/03/16/p/dre
 - type: cites
   target: pt:dre:535012:por
   label: null

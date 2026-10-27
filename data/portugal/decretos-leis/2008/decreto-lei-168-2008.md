@@ -79,14 +79,6 @@ subjects:
 - Sn-serviços
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/123/1994/12/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/123/1994/12/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/54/1997/03/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/54/1997/03/31/p/dre
-- type: cites
   target: pt:dre:332183:por
   label: null
   source: null
@@ -97,11 +89,11 @@ relationships:
 - type: cites
   target: pt:dre:472172:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/123/1994/12/16/p/dre
 - type: cites
   target: pt:dre:527665:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/54/1997/03/31/p/dre
 - type: cites
   target: pt:dre:535794:por
   label: null

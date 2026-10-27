@@ -73,13 +73,9 @@ subjects:
 - Vilnius
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/275/1996/09/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/275/1996/09/27/p/dre
-- type: cites
   target: pt:dre:213803:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/275/1996/09/27/p/dre
 - type: cites
   target: pt:dre:268591:por
   label: null

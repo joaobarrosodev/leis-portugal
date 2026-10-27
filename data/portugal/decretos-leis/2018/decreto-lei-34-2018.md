@@ -111,14 +111,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857
   date: '2023-10-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2015/04/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2015/04/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/59/2014/10/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/59/2014/10/30/p/dre
-- type: cites
   target: pt:dre:106536877:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/32/2017/02/28/p/dre
@@ -139,6 +131,10 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15/2014/02/24/p/dre
 - type: cites
+  target: pt:dre:58661941:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/59/2014/10/30/p/dre
+- type: cites
   target: pt:dre:602073:por
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
@@ -146,6 +142,10 @@ relationships:
   target: pt:dre:65908879:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/73-b/2014/12/16/p/dre
+- type: cites
+  target: pt:dre:66902696:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2015/04/02/p/dre
 article_structure:
   article_count: 18
   section_count: 0

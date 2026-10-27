@@ -117,10 +117,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2025-928937302
   date: '2025-08-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/111-b/2012/12/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/111-b/2012/12/28/p/dre
-- type: cites
   target: pt:dre:176049:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/210/2012/09/21/p/dre
@@ -128,6 +124,10 @@ relationships:
   target: pt:dre:233298:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/57/2003/03/28/p/dre
+- type: cites
+  target: pt:dre:400829:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/111-b/2012/12/28/p/dre
 - type: cites
   target: pt:dre:405935:por
   label: null

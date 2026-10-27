@@ -128,6 +128,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/bd66fdce-dbcd-4618-972e-989ad69734be
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:56304799:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:572440:por
   label: null
   source: null

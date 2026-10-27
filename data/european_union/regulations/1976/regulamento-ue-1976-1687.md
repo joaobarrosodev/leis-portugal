@@ -653,6 +653,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/f5ef0761-2d02-4ddd-b2ea-f154581e4cb4
   date: '1966-09-30'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31969R2315
   label: null

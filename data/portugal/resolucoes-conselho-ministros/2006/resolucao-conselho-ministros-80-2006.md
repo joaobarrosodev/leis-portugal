@@ -103,13 +103,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/68-2012-175292
   date: '2012-08-09'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
-- type: cites
   target: pt:dre:239016:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
 - type: cites
   target: pt:dre:302289:por
   label: null

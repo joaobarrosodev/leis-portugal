@@ -99,10 +99,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2025-945966853
   date: '2025-11-13'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
   target: pt:dre:223015:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/336/1998/11/03/p/dre
@@ -126,6 +122,10 @@ relationships:
   target: pt:dre:536639:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/334/2001/12/24/p/dre
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:544415:por
   label: null

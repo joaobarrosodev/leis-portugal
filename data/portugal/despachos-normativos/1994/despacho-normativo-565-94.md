@@ -68,10 +68,6 @@ subjects:
 - Regime de Apoio à Dinamização do Caucionamento Mútuo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-- type: cites
   target: pt:dre:231883:por
   label: null
   source: http://data.dre.pt/eli/despnorm/562/1994/07/29/p/dre
@@ -82,7 +78,7 @@ relationships:
 - type: cites
   target: pt:dre:291631:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
 article_structure:
   article_count: 12
   section_count: 0

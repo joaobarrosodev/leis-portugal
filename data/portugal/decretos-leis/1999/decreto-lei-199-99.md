@@ -125,10 +125,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
   date: '2010-04-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/1203/1997/01/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/1203/1997/01/24/p/dre
-- type: cites
   target: pt:dre:180580:por
   label: null
   source: null
@@ -163,7 +159,7 @@ relationships:
 - type: cites
   target: pt:dre:572595:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/1203/1997/01/24/p/dre
 - type: cites
   target: pt:dre:574765:por
   label: null

@@ -87,21 +87,9 @@ subjects:
 - Subsídio
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/186/2021/09/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/186/2021/09/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/46/2018/02/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/46/2018/02/12/p/dre
-- type: cites
   target: pt:dre:114682828:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/46/2018/02/12/p/dre
 - type: cites
   target: pt:dre:116895169:por
   label: null
@@ -125,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:170794629:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/186/2021/09/06/p/dre
 - type: cites
   target: pt:dre:58605739:por
   label: null
@@ -141,7 +129,7 @@ relationships:
 - type: cites
   target: pt:dre:75341997:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
 article_structure:
   article_count: 3
   section_count: 0

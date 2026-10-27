@@ -94,7 +94,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-m-2024-858094003
   date: '2024-03-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/248/2017/08/04/p/dre
+  target: pt:dre:107951592:por
   label: null
   source: http://data.dre.pt/eli/port/248/2017/08/04/p/dre
 - type: cites

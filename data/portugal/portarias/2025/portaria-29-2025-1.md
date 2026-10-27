@@ -85,10 +85,6 @@ relationships:
   source: null
   date: '2018-08-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/65/2022/02/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/65/2022/02/01/p/dre
-- type: cites
   target: pt:dre:115652961:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/54/2018/07/06/p/dre
@@ -107,7 +103,7 @@ relationships:
 - type: cites
   target: pt:dre:178478635:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/65/2022/02/01/p/dre
 - type: cites
   target: pt:dre:179188085:por
   label: null

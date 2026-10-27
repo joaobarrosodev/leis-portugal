@@ -129,7 +129,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2020/2220/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/268/2020/11/18/p/dre
+  target: pt:dre:148853506:por
   label: null
   source: http://data.dre.pt/eli/port/268/2020/11/18/p/dre
 - type: cites

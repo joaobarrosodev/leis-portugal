@@ -79,25 +79,17 @@ subjects:
 - União das Mutualidades Portuguesas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/144/2020/06/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/144/2020/06/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/35/2022/01/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/35/2022/01/14/p/dre
-- type: cites
   target: pt:dre:107495701:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
 - type: cites
   target: pt:dre:136053634:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/144/2020/06/18/p/dre
 - type: cites
   target: pt:dre:177634026:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/35/2022/01/14/p/dre
 - type: cites
   target: pt:dre:185330735:por
   label: null

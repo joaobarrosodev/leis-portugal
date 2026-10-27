@@ -118,10 +118,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2016-74967225
   date: '2016-07-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/45/2014/10/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/45/2014/10/13/p/dre
-- type: cites
   target: pt:dre:25345896:por
   label: null
   source: http://data.dre.pt/eli/declegreg/12/2014/07/09/a/dre
@@ -144,7 +140,7 @@ relationships:
 - type: cites
   target: pt:dre:58273534:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/45/2014/10/13/p/dre
 - type: cites
   target: pt:dre:66507582:por
   label: null

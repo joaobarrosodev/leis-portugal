@@ -93,21 +93,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2001-386822
   date: '2001-02-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/1996/01/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/1996/01/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
-- type: cites
   target: pt:dre:262836:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/1994/05/19/p/dre
 - type: cites
   target: pt:dre:624849:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3/1996/01/08/p/dre
 - type: cites
   target: pt:dre:668097:por
   label: null
@@ -115,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:675257:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
 - type: cites
   target: pt:dre:676049:por
   label: null

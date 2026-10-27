@@ -98,10 +98,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2017-114152775
   date: '2017-11-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:164404:por
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
@@ -140,7 +136,7 @@ relationships:
 - type: cites
   target: pt:dre:543701:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:544575:por
   label: null

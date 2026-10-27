@@ -99,6 +99,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/c92b5ba4-8647-4bb4-8924-e7bbd440f1fc
   date: '2008-09-24'
 - type: transposed_by
+  target: pt:dre:174480990:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:300828:por
   label: null
   source: null

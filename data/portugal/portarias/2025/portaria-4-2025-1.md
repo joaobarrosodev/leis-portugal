@@ -77,10 +77,6 @@ relationships:
   source: null
   date: '2012-08-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/306/2015/09/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/306/2015/09/23/p/dre
-- type: cites
   target: pt:dre:174826:por
   label: null
   source: http://data.dre.pt/eli/port/267/2012/08/31/p/dre
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:70361621:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/306/2015/09/23/p/dre
 - type: cites
   target: pt:dre:864224972:por
   label: null

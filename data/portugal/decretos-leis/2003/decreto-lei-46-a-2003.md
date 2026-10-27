@@ -78,21 +78,9 @@ subjects:
 - Privatização
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/100/2000/08/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/100/2000/08/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/158-a/2001/11/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/158-a/2001/11/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/59/1995/06/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/59/1995/06/20/p/dre
-- type: cites
   target: pt:dre:243126:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/158-a/2001/11/05/p/dre
 - type: cites
   target: pt:dre:274468:por
   label: null
@@ -108,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:314655:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/100/2000/08/04/p/dre
 - type: cites
   target: pt:dre:332183:por
   label: null
@@ -120,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:516003:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/59/1995/06/20/p/dre
 article_structure:
   article_count: 7
   section_count: 0

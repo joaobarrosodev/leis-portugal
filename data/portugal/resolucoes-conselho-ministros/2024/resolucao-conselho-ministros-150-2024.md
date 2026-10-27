@@ -101,25 +101,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2024/1275/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104/2020/11/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104/2020/11/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
-- type: cites
   target: pt:dre:117714174:por
   label: null
   source: http://data.dre.pt/eli/lei/5/2019/01/11/p/dre
 - type: cites
   target: pt:dre:122777644:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites
   target: pt:dre:137618093:por
   label: null
@@ -127,11 +115,11 @@ relationships:
 - type: cites
   target: pt:dre:149220156:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/104/2020/11/24/p/dre
 - type: cites
   target: pt:dre:156295372:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
 - type: cites
   target: pt:dre:165129789:por
   label: null

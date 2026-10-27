@@ -71,13 +71,9 @@ subjects:
 - Nomeação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/87/2021/07/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/87/2021/07/02/p/dre
-- type: cites
   target: pt:dre:166296480:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/87/2021/07/02/p/dre
 - type: cites
   target: pt:dre:494178:por
   label: null

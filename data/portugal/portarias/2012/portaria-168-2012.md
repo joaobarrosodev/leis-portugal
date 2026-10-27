@@ -70,10 +70,6 @@ subjects:
 - Subsídio Complementar
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
   target: pt:dre:145045:por
   label: null
   source: http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
@@ -88,7 +84,7 @@ relationships:
 - type: cites
   target: pt:dre:543034:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:544415:por
   label: null

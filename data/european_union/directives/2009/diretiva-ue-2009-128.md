@@ -348,6 +348,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/11971377-912f-11f1-9262-01aa75ed71a1
   date: '2026-08-06'
 - type: transposed_by
+  target: pt:dre:106522767:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:106654351:por
   label: null
   source: null
@@ -360,7 +364,15 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:121313005:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:126731019:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:132721015:por
   label: null
   source: null
 - type: transposed_by

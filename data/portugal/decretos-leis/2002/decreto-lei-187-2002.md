@@ -118,7 +118,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454
   date: '2023-04-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
+  target: pt:dre:197496:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
 - type: cites

@@ -105,21 +105,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2021-154356479
   date: '2021-01-18'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/230/2019/07/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/230/2019/07/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/34/2019/01/28/p/dre
+  target: pt:dre:118562584:por
   label: null
   source: http://data.dre.pt/eli/port/34/2019/01/28/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/366/2015/10/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
 - type: cites
   target: pt:dre:122996203:por
   label: null
   source: http://data.dre.pt/eli/lei/47/2019/07/08/p/dre
+- type: cites
+  target: pt:dre:123407856:por
+  label: null
+  source: http://data.dre.pt/eli/port/230/2019/07/23/p/dre
 - type: cites
   target: pt:dre:124716448:por
   label: null
@@ -136,6 +132,10 @@ relationships:
   target: pt:dre:130893436:por
   label: null
   source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+- type: cites
+  target: pt:dre:70716381:por
+  label: null
+  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
 article_structure:
   article_count: 4
   section_count: 0

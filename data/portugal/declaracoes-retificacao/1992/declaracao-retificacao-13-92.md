@@ -74,13 +74,9 @@ subjects:
 - Sociedade Anónima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/1992/01/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/1992/01/17/p/dre
-- type: cites
   target: pt:dre:264898:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3/1992/01/17/p/dre
 article_structure:
   article_count: 0
   section_count: 0

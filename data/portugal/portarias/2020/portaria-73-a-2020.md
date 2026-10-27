@@ -84,7 +84,7 @@ subjects:
 - Ministro das Infraestruturas e da Habitação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10-c/2020/03/17/p/dre
+  target: pt:dre:130366466:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/10-c/2020/03/17/p/dre
 - type: cites

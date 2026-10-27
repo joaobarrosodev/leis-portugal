@@ -103,13 +103,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/337-2018-117514521
   date: '2018-12-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/79/2018/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/79/2018/03/16/p/dre
-- type: cites
   target: pt:dre:114766032:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/13/2018/02/26/p/dre
+- type: cites
+  target: pt:dre:114880294:por
+  label: null
+  source: http://data.dre.pt/eli/port/79/2018/03/16/p/dre
 - type: cites
   target: pt:dre:115730616:por
   label: null

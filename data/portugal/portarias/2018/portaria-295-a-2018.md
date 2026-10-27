@@ -210,10 +210,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2018/1146/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/25/2016/02/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/25/2016/02/12/p/dre
-- type: cites
   target: pt:dre:439837:por
   label: null
   source: http://data.dre.pt/eli/port/1325/2008/11/18/p/dre
@@ -229,6 +225,10 @@ relationships:
   target: pt:dre:67401244:por
   label: null
   source: http://data.dre.pt/eli/port/169/2015/06/04/p/dre
+- type: cites
+  target: pt:dre:73566367:por
+  label: null
+  source: http://data.dre.pt/eli/port/25/2016/02/12/p/dre
 article_structure:
   article_count: 48
   section_count: 18

@@ -86,21 +86,13 @@ subjects:
 - Voluntariado
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
+  target: pt:dre:107669156:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/166/2017/11/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/166/2017/11/02/p/dre
-- type: cites
-  target: pt:dre:107669156:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:114133922:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/166/2017/11/02/p/dre
 - type: cites
   target: pt:dre:164798802:por
   label: null

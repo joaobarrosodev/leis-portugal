@@ -74,21 +74,13 @@ subjects:
 - Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/63-a/2007/05/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/63-a/2007/05/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/74/2010/09/17/p/dre
+  target: pt:dre:341856:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/74/2010/09/17/p/dre
 - type: cites
-  target: pt:dre:341856:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:415237:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/63-a/2007/05/03/p/dre
 - type: cites
   target: pt:dre:564050:por
   label: null

@@ -74,13 +74,9 @@ subjects:
 - Sequestro de Pessoas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/217/1994/08/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/217/1994/08/24/p/dre
-- type: cites
   target: pt:dre:218740:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/217/1994/08/24/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -673,6 +673,14 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:174480990:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:176127184:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:221691631:por
   label: null
   source: null

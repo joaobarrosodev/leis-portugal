@@ -84,10 +84,6 @@ subjects:
 - Venda
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/24/2006/02/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/24/2006/02/28/p/dre
-- type: cites
   target: pt:dre:174312:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/1995/03/31/p/dre
@@ -106,7 +102,7 @@ relationships:
 - type: cites
   target: pt:dre:694237:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/24/2006/02/28/p/dre
 article_structure:
   article_count: 13
   section_count: 0

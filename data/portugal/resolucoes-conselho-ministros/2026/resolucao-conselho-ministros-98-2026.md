@@ -86,10 +86,6 @@ relationships:
   source: null
   date: '2024-06-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
   target: pt:dre:145192:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/2011/12/29/p/dre
@@ -112,7 +108,7 @@ relationships:
 - type: cites
   target: pt:dre:543034:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:553924:por
   label: null

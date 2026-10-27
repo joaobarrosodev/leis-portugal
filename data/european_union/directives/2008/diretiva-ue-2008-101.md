@@ -142,7 +142,15 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/7824a073-05c0-11ee-b12e-01aa75ed71a1
   date: '2023-06-08'
 - type: transposed_by
+  target: pt:dre:175923959:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:333859:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:59040516:por
   label: null
   source: null
 - type: transposed_by

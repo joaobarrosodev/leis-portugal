@@ -78,10 +78,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/283/2015/09/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/283/2015/09/15/p/dre
-- type: cites
   target: pt:dre:506028:por
   label: null
   source: null
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:70297424:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/283/2015/09/15/p/dre
 - type: cites
   target: pt:dre:926311142:por
   label: null

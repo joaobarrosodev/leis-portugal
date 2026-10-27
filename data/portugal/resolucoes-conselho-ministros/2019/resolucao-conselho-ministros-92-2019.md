@@ -83,13 +83,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2016/1148/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/115/2017/08/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/115/2017/08/24/p/dre
-- type: cites
   target: pt:dre:108051990:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/115/2017/08/24/p/dre
 - type: cites
   target: pt:dre:116029384:por
   label: null

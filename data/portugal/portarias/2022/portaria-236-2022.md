@@ -80,17 +80,9 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/170-a/2014/08/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/170-a/2014/08/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/66/2017/02/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/66/2017/02/13/p/dre
-- type: cites
   target: pt:dre:106434270:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/66/2017/02/13/p/dre
 - type: cites
   target: pt:dre:143527213:por
   label: null
@@ -110,7 +102,7 @@ relationships:
 - type: cites
   target: pt:dre:56376279:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/170-a/2014/08/27/p/dre
 article_structure:
   article_count: 7
   section_count: 0

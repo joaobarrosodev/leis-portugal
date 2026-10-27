@@ -73,17 +73,9 @@ subjects:
 - Inconstitucionalidade
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/212/1992/07/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/212/1992/07/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/243/2002/06/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/243/2002/06/25/p/dre
-- type: cites
   target: pt:dre:139413:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/243/2002/06/25/p/dre
 - type: cites
   target: pt:dre:196071:por
   label: null
@@ -95,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:292300:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/212/1992/07/21/p/dre
 - type: cites
   target: pt:dre:325537:por
   label: null

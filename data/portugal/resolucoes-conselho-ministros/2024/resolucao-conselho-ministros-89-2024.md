@@ -85,29 +85,17 @@ relationships:
   source: null
   date: '2024-07-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10/2021/02/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10/2021/02/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104-a/2020/11/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104-a/2020/11/27/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/192/2019/12/16/p/dre
+  target: pt:dre:127177762:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/192/2019/12/16/p/dre
 - type: cites
-  target: pt:dre:127177762:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:149971741:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/104-a/2020/11/27/p/dre
 - type: cites
   target: pt:dre:156974203:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/10/2021/02/10/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -109,13 +109,9 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
-- type: cites
   target: pt:dre:105283924:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
 - type: cites
   target: pt:dre:138571:por
   label: null

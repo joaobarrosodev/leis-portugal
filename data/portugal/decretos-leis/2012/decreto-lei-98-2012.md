@@ -110,13 +110,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097
   date: '2016-08-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
+  target: pt:dre:146536:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 article_structure:
   article_count: 7
   section_count: 0

@@ -85,13 +85,13 @@ subjects:
 - Remuneração
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
-- type: cites
   target: pt:dre:130893436:por
   label: null
   source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+- type: cites
+  target: pt:dre:175595604:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
 - type: cites
   target: pt:dre:205557192:por
   label: null

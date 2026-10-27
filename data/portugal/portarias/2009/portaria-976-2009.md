@@ -134,10 +134,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/44-2019-118886000
   date: '2019-01-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
-- type: cites
   target: pt:dre:462035:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/1995/07/18/p/dre
@@ -145,6 +141,10 @@ relationships:
   target: pt:dre:638772:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/224/2007/05/31/p/dre
+- type: cites
+  target: pt:dre:660365:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
 article_structure:
   article_count: 5
   section_count: 1

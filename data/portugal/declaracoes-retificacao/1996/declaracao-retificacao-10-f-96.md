@@ -73,17 +73,13 @@ subjects:
 - Viseu
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/173/1995/12/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/173/1995/12/19/p/dre
-- type: cites
   target: pt:dre:565445:por
   label: null
   source: null
 - type: cites
   target: pt:dre:643892:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/173/1995/12/19/p/dre
 article_structure:
   article_count: 0
   section_count: 0

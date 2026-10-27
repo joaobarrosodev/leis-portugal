@@ -121,10 +121,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279
   date: '2023-11-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/70/2015/03/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/70/2015/03/10/p/dre
-- type: cites
   target: pt:dre:185224662:por
   label: null
   source: http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
@@ -132,6 +128,10 @@ relationships:
   target: pt:dre:25676932:por
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:66702115:por
+  label: null
+  source: http://data.dre.pt/eli/port/70/2015/03/10/p/dre
 article_structure:
   article_count: 8
   section_count: 0

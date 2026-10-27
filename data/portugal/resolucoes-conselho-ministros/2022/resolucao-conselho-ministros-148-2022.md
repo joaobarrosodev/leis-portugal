@@ -79,10 +79,6 @@ subjects:
 - União Europeia
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/24/2022/02/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/24/2022/02/10/p/dre
-- type: cites
   target: pt:dre:117343899:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/169/2018/12/11/p/dre
@@ -93,7 +89,7 @@ relationships:
 - type: cites
   target: pt:dre:178945889:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/24/2022/02/10/p/dre
 - type: cites
   target: pt:dre:311259:por
   label: null

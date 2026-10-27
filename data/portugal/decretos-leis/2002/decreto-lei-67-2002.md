@@ -82,13 +82,9 @@ subjects:
 - Sistema de Informação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/24/2001/03/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/24/2001/03/01/p/dre
-- type: cites
   target: pt:dre:373821:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/24/2001/03/01/p/dre
 article_structure:
   article_count: 9
   section_count: 0

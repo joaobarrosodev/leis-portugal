@@ -109,18 +109,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2013/1305/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/374/2015/10/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/374/2015/10/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/4/2016
-  label: null
-  source: http://data.dre.pt/eli/port/4/2016
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/407-a/2019/12/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/407-a/2019/12/23/p/dre
-- type: cites
   target: pt:dre:116895169:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
@@ -128,6 +116,10 @@ relationships:
   target: pt:dre:124283151:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/2019/08/29/p/dre
+- type: cites
+  target: pt:dre:127535213:por
+  label: null
+  source: http://data.dre.pt/eli/port/407-a/2019/12/23/p/dre
 - type: cites
   target: pt:dre:130779511:por
   label: null
@@ -148,6 +140,14 @@ relationships:
   target: pt:dre:70462181:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+- type: cites
+  target: pt:dre:70748599:por
+  label: null
+  source: http://data.dre.pt/eli/port/374/2015/10/20/p/dre
+- type: cites
+  target: pt:dre:73163704:por
+  label: null
+  source: http://data.dre.pt/eli/port/4/2016
 article_structure:
   article_count: 3
   section_count: 0

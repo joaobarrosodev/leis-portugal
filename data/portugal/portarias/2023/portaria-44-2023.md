@@ -88,17 +88,9 @@ subjects:
 - Subsídio não Reembolsável
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/151/2014/07
-  label: null
-  source: http://data.dre.pt/eli/port/151/2014/07
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-- type: cites
   target: pt:dre:107684448:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
 - type: cites
   target: pt:dre:122960401:por
   label: null
@@ -138,7 +130,7 @@ relationships:
 - type: cites
   target: pt:dre:55032403:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/151/2014/07
 - type: cites
   target: pt:dre:66325237:por
   label: null

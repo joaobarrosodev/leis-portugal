@@ -76,10 +76,6 @@ subjects:
 - Pessoa Coletiva
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/962/1996/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/962/1996/10/15/p/dre
-- type: cites
   target: pt:dre:114796179:por
   label: null
   source: http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
@@ -94,7 +90,7 @@ relationships:
 - type: cites
   target: pt:dre:231536:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/962/1996/10/15/p/dre
 - type: cites
   target: pt:dre:241230:por
   label: null

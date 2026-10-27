@@ -356,10 +356,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2013/1407/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/55/2010/08/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/55/2010/08/04/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
@@ -367,6 +363,10 @@ relationships:
   target: pt:dre:190646:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2012/12/07/p/dre
+- type: cites
+  target: pt:dre:333501:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/55/2010/08/04/p/dre
 - type: cites
   target: pt:dre:488826:por
   label: null

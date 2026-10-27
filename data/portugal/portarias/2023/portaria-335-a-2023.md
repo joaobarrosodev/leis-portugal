@@ -110,10 +110,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025
   date: '2026-01-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/311/2021/12/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/311/2021/12/20/p/dre
-- type: cites
   target: pt:dre:124500714:por
   label: null
   source: http://data.dre.pt/eli/lei/100/2019/09/06/p/dre
@@ -121,6 +117,10 @@ relationships:
   target: pt:dre:158238387:por
   label: null
   source: http://data.dre.pt/eli/port/45/2021/02/24/p/dre
+- type: cites
+  target: pt:dre:176147941:por
+  label: null
+  source: http://data.dre.pt/eli/port/311/2021/12/20/p/dre
 - type: cites
   target: pt:dre:177363476:por
   label: null

@@ -97,10 +97,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/21-2006-684226
   date: '2006-01-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/1996/03/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/1996/03/04/p/dre
-- type: cites
   target: pt:dre:144019:por
   label: null
   source: http://data.dre.pt/eli/port/40/1992/01/22/p/dre
@@ -167,7 +163,7 @@ relationships:
 - type: cites
   target: pt:dre:621549:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/1996/03/04/p/dre
 - type: cites
   target: pt:dre:631400:por
   label: null

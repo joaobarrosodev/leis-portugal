@@ -827,7 +827,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926
   date: '2025-03-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+  target: pt:dre:150926:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
 - type: cites

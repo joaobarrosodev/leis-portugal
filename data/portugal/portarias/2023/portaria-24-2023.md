@@ -85,18 +85,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/132/2019/05/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/132/2019/05/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/245/2018/09/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/245/2018/09/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/254/2018/09/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/254/2018/09/07/p/dre
-- type: cites
   target: pt:dre:107669157:por
   label: null
   source: http://data.dre.pt/eli/port/207/2017/07/11/p/dre
@@ -107,15 +95,15 @@ relationships:
 - type: cites
   target: pt:dre:116307676:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/245/2018/09/03/p/dre
 - type: cites
   target: pt:dre:116353279:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/254/2018/09/07/p/dre
 - type: cites
   target: pt:dre:122239314:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/132/2019/05/07/p/dre
 - type: cites
   target: pt:dre:174839:por
   label: null

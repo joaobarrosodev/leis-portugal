@@ -79,6 +79,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/f8616637-1968-4c16-8141-2bc2c68e4e60
   date: '2010-03-08'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31964L0432
   label: null

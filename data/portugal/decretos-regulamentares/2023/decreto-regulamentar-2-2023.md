@@ -149,10 +149,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/19/2022/01/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/19/2022/01/24/p/dre
-- type: cites
   target: pt:dre:107584769:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/76/2017/06/29/p/dre
@@ -179,7 +175,7 @@ relationships:
 - type: cites
   target: pt:dre:178080766:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/19/2022/01/24/p/dre
 - type: cites
   target: pt:dre:221707:por
   label: null

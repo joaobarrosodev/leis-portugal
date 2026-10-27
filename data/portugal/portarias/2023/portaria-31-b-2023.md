@@ -85,10 +85,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/5/2021/01/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/5/2021/01/06/p/dre
-- type: cites
   target: pt:dre:108269605:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/126-a/2017/10/06/p/dre
@@ -107,7 +103,7 @@ relationships:
 - type: cites
   target: pt:dre:153013705:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/5/2021/01/06/p/dre
 - type: cites
   target: pt:dre:156720777:por
   label: null

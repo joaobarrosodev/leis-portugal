@@ -94,13 +94,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2022/2472/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/335/2017/11/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/335/2017/11/06/p/dre
-- type: cites
   target: pt:dre:114152777:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/335/2017/11/06/p/dre
 - type: cites
   target: pt:dre:187413389:por
   label: null

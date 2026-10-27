@@ -183,10 +183,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/383-2019-125633668
   date: '2019-10-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/167-b/2017/11/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/167-b/2017/11/02/p/dre
-- type: cites
   target: pt:dre:105770337:por
   label: null
   source: http://data.dre.pt/eli/port/34/2017/01/18/p/dre
@@ -194,6 +190,10 @@ relationships:
   target: pt:dre:106844789:por
   label: null
   source: http://data.dre.pt/eli/port/131/2017/04/07/p/dre
+- type: cites
+  target: pt:dre:114145440:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/167-b/2017/11/02/p/dre
 - type: cites
   target: pt:dre:490249:por
   label: null

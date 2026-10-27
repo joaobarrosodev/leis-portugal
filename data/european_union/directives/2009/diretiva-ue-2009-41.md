@@ -135,6 +135,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/7f4553af-a972-4d30-8690-6bc163d9cc04
   date: '2005-03-11'
 - type: transposed_by
+  target: pt:dre:116852291:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:67011880:por
   label: null
   source: null

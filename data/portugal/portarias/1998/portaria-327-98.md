@@ -76,14 +76,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/199/1997/11/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/199/1997/11/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/200/1997/11/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/200/1997/11/20/p/dre
-- type: cites
   target: pt:dre:217373:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/274-c/1993/08/04/p/dre
@@ -94,11 +86,11 @@ relationships:
 - type: cites
   target: pt:dre:694209:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/199/1997/11/20/p/dre
 - type: cites
   target: pt:dre:694210:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/200/1997/11/20/p/dre
 - type: repealed_by
   target: pt:dre:235125:por
   label: "Revogada pela PORT.2/2001.2001.01.02.ME, DR.IS-B [1]\0\0"

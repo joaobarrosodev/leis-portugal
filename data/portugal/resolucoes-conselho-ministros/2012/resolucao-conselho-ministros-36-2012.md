@@ -113,14 +113,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/92-2018-115698902
   date: '2018-07-16'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
-- type: cites
   target: pt:dre:240259:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/121/2005/08/01/p/dre
@@ -128,6 +120,14 @@ relationships:
   target: pt:dre:520259:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:544415:por
   label: null

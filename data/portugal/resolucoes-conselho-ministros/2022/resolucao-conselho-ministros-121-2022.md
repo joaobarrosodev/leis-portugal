@@ -88,18 +88,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/17/2014/03/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/17/2014/03/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33/2019/02/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33/2019/02/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/82/2010/11/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/82/2010/11/04/p/dre
-- type: cites
   target: pt:dre:115221285:por
   label: null
   source: null
@@ -114,7 +102,7 @@ relationships:
 - type: cites
   target: pt:dre:119622096:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33/2019/02/15/p/dre
 - type: cites
   target: pt:dre:124044668:por
   label: null
@@ -130,7 +118,7 @@ relationships:
 - type: cites
   target: pt:dre:309277:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/82/2010/11/04/p/dre
 - type: cites
   target: pt:dre:488778:por
   label: null
@@ -138,7 +126,7 @@ relationships:
 - type: cites
   target: pt:dre:572415:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/17/2014/03/07/p/dre
 - type: cites
   target: pt:dre:69905665:por
   label: null

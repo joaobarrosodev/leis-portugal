@@ -77,49 +77,17 @@ subjects:
 - Violência Doméstica
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/131/2021/06/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/131/2021/06/25/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/163/2020/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/163/2020/07/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/181-c/2015/06/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/181-c/2015/06/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/235/2018/08/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/235/2018/08/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/265/2016/10/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/265/2016/10/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/279/2020/12/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/279/2020/12/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/41/2018/02/01/p/dre
+  target: pt:dre:114618020:por
   label: null
   source: http://data.dre.pt/eli/port/41/2018/02/01/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/66/2019/02/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/66/2019/02/20/p/dre
-- type: cites
-  target: pt:dre:114618020:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:116154044:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/235/2018/08/23/p/dre
 - type: cites
   target: pt:dre:119901751:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/66/2019/02/20/p/dre
 - type: cites
   target: pt:dre:135711318:por
   label: null
@@ -127,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:136990470:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/163/2020/07/01/p/dre
 - type: cites
   target: pt:dre:139563956:por
   label: null
@@ -135,11 +103,11 @@ relationships:
 - type: cites
   target: pt:dre:150509329:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/279/2020/12/07/p/dre
 - type: cites
   target: pt:dre:165797129:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/131/2021/06/25/p/dre
 - type: cites
   target: pt:dre:176075691:por
   label: null
@@ -171,11 +139,11 @@ relationships:
 - type: cites
   target: pt:dre:67552511:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/181-c/2015/06/19/p/dre
 - type: cites
   target: pt:dre:75521169:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/265/2016/10/13/p/dre
 article_structure:
   article_count: 4
   section_count: 0

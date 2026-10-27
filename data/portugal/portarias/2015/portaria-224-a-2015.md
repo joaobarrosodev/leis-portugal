@@ -151,17 +151,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/325-a-2026-1154510431
   date: '2026-08-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/55/2012/09/28/p/dre
+  target: pt:dre:175537:por
   label: null
   source: http://data.dre.pt/eli/declretif/55/2012/09/28/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/58/2012/10/12/p/dre
+  target: pt:dre:176365:por
   label: null
   source: http://data.dre.pt/eli/declretif/58/2012/10/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/165-a/2015/06/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/165-a/2015/06/03/p/dre
 - type: cites
   target: pt:dre:179304:por
   label: null
@@ -186,6 +182,10 @@ relationships:
   target: pt:dre:504756:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
+- type: cites
+  target: pt:dre:67401230:por
+  label: null
+  source: http://data.dre.pt/eli/port/165-a/2015/06/03/p/dre
 article_structure:
   article_count: 10
   section_count: 2

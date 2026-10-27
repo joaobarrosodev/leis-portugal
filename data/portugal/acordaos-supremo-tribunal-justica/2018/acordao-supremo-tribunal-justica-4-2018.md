@@ -78,7 +78,7 @@ subjects:
 - Recurso
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/11/2013/03/05/p/dre
+  target: pt:dre:259266:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/11/2013/03/05/p/dre
 - type: cites

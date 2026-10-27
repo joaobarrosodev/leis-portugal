@@ -288,10 +288,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2008/765/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:189514:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/2012/12/31/p/dre
@@ -323,6 +319,10 @@ relationships:
   target: pt:dre:277581:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/2011/04/01/p/dre
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: transposes
   target: celex:32005L0036
   label: null

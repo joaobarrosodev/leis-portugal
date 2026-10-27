@@ -87,6 +87,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/7bc95c31-a382-403f-8c69-d9733cb35247
   date: '1963-04-20'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

@@ -140,14 +140,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2025-914713264
   date: '2025-04-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
-- type: cites
   target: pt:dre:145184:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/122/2011/12/29/p/dre
@@ -159,6 +151,14 @@ relationships:
   target: pt:dre:251976:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/43/2002/03/02/p/dre
+- type: cites
+  target: pt:dre:259967:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+- type: cites
+  target: pt:dre:260395:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
 - type: cites
   target: pt:dre:393000:por
   label: null

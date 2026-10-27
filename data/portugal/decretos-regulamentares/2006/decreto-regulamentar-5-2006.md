@@ -82,13 +82,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-2007-521039
   date: '2007-04-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/189/2005/12/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/189/2005/12/16/p/dre
-- type: cites
   target: pt:dre:466383:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/189/2005/12/16/p/dre
 - type: cites
   target: pt:dre:647089:por
   label: null

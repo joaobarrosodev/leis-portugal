@@ -117,7 +117,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2023-222583132
   date: '2023-10-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/227/2017/07/25/p/dre
+  target: pt:dre:107745748:por
   label: null
   source: http://data.dre.pt/eli/port/227/2017/07/25/p/dre
 - type: cites

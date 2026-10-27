@@ -320,6 +320,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:67120684:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:679669:por
   label: null
   source: null

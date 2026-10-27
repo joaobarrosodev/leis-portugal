@@ -74,10 +74,6 @@ subjects:
 - Sociedade Anónima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/21/2012/03/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/21/2012/03/09/p/dre
-- type: cites
   target: pt:dre:243747:por
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
@@ -88,7 +84,7 @@ relationships:
 - type: cites
   target: pt:dre:553601:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/21/2012/03/09/p/dre
 - type: cites
   target: pt:dre:640899:por
   label: null

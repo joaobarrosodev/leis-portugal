@@ -82,13 +82,13 @@ subjects:
 - Pagamento de Contribuições
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/409/2019/12/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/409/2019/12/27/p/dre
-- type: cites
   target: pt:dre:117471257:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/116/2018/12/21/p/dre
+- type: cites
+  target: pt:dre:127582898:por
+  label: null
+  source: http://data.dre.pt/eli/port/409/2019/12/27/p/dre
 - type: cites
   target: pt:dre:67626867:por
   label: null

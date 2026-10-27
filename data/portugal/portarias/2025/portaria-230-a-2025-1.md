@@ -87,17 +87,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2002/30/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/156/2019/05/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/156/2019/05/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
-- type: cites
   target: pt:dre:122349224:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/156/2019/05/21/p/dre
 - type: cites
   target: pt:dre:1334505:por
   label: null
@@ -109,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:241455:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
 - type: cites
   target: pt:dre:25343686:por
   label: null

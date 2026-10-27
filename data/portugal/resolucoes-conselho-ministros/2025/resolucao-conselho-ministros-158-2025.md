@@ -79,17 +79,13 @@ subjects:
 - Proteção à Infância
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/136/2021/10/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/136/2021/10/01/p/dre
-- type: cites
   target: pt:dre:169689544:por
   label: null
   source: null
 - type: cites
   target: pt:dre:172266413:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/136/2021/10/01/p/dre
 - type: cites
   target: pt:dre:224427089:por
   label: null

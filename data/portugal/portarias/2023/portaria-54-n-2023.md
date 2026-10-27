@@ -79,10 +79,6 @@ subjects:
 - Título de Regante
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/136/2015/05/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/136/2015/05/19/p/dre
-- type: cites
   target: pt:dre:124097549:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/119/2019/08/21/p/dre
@@ -97,7 +93,7 @@ relationships:
 - type: cites
   target: pt:dre:67239768:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/136/2015/05/19/p/dre
 article_structure:
   article_count: 19
   section_count: 5

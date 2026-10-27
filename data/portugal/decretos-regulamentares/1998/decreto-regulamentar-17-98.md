@@ -84,17 +84,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/193/1997/11/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/193/1997/11/03/p/dre
-- type: cites
   target: pt:dre:517214:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/120/1998/05/08/p/dre
 - type: cites
   target: pt:dre:675022:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/193/1997/11/03/p/dre
 - type: repealed_by
   target: pt:dre:70215247:por
   label: Revogado (a partir de 07.12.2015), pelo(a) Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08

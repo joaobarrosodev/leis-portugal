@@ -98,7 +98,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/60-a-2019-127498156
   date: '2019-12-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/85/2017/06/19/p/dre
+  target: pt:dre:107524708:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/85/2017/06/19/p/dre
 - type: cites

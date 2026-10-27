@@ -78,10 +78,6 @@ subjects:
 - TAXA de Prestação de Serviços
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/358/2015/10/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/358/2015/10/14/p/dre
-- type: cites
   target: pt:dre:184357031:por
   label: null
   source: null
@@ -96,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:70686128:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/358/2015/10/14/p/dre
 article_structure:
   article_count: 3
   section_count: 0

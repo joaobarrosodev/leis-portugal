@@ -277,25 +277,13 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/137/2017/04/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/137/2017/04/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/332-b/2015/10/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/332-b/2015/10/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/398/2015/11/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/398/2015/11/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/399/2015/11/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/399/2015/11/05/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
+- type: cites
+  target: pt:dre:106874599:por
+  label: null
+  source: http://data.dre.pt/eli/port/137/2017/04/12/p/dre
 - type: cites
   target: pt:dre:117919457:por
   label: null
@@ -316,6 +304,18 @@ relationships:
   target: pt:dre:67185043:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/2015/05/11/p/dre
+- type: cites
+  target: pt:dre:70462191:por
+  label: null
+  source: http://data.dre.pt/eli/port/332-b/2015/10/05/p/dre
+- type: cites
+  target: pt:dre:70920288:por
+  label: null
+  source: http://data.dre.pt/eli/port/398/2015/11/05/p/dre
+- type: cites
+  target: pt:dre:70920289:por
+  label: null
+  source: http://data.dre.pt/eli/port/399/2015/11/05/p/dre
 - type: cites
   target: pt:dre:75177807:por
   label: null

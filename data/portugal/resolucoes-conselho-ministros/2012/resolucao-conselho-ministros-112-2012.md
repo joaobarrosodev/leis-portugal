@@ -103,25 +103,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/30-2020-132133788
   date: '2020-04-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
-- type: cites
   target: pt:dre:145237:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/54/2011/12/16/p/dre
 - type: cites
   target: pt:dre:308714:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
 - type: cites
   target: pt:dre:543701:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 article_structure:
   article_count: 0
   section_count: 0

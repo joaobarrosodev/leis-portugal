@@ -94,13 +94,9 @@ subjects:
 - QREN
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/38/2012/03/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/38/2012/03/27/p/dre
-- type: cites
   target: pt:dre:553951:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/38/2012/03/27/p/dre
 - type: cites
   target: pt:dre:668538:por
   label: null

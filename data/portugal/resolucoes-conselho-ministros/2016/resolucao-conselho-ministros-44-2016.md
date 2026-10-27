@@ -73,10 +73,6 @@ subjects:
 - Programa Nacional da Política de Ordenamento do Território
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
-- type: cites
   target: pt:dre:25345938:por
   label: null
   source: http://data.dre.pt/eli/lei/31/2014/05/30/p/dre
@@ -91,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:73268683:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
 article_structure:
   article_count: 0
   section_count: 0

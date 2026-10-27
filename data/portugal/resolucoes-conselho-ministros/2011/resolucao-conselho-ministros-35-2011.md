@@ -103,41 +103,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/69-2013-502843
   date: '2013-10-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/108/1995/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/108/1995/10/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/121/1997/07/24/p/dre
+  target: pt:dre:148981:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/121/1997/07/24/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/171/1995/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/171/1995/12/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/31/2004/03/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/31/2004/03/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/38/1999/05/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/38/1999/05/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/73/2008/05/02/p/dre
+  target: pt:dre:249526:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/73/2008/05/02/p/dre
 - type: cites
-  target: pt:dre:148981:por
-  label: null
-  source: null
-- type: cites
-  target: pt:dre:249526:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:334163:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/38/1999/05/05/p/dre
 - type: cites
   target: pt:dre:356348:por
   label: null
@@ -157,7 +133,7 @@ relationships:
 - type: cites
   target: pt:dre:541842:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/31/2004/03/20/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null
@@ -165,11 +141,11 @@ relationships:
 - type: cites
   target: pt:dre:634955:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/171/1995/12/15/p/dre
 - type: cites
   target: pt:dre:668904:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/108/1995/10/18/p/dre
 - type: cites
   target: pt:dre:690189:por
   label: null

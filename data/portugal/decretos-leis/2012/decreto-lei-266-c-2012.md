@@ -94,10 +94,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/79-2014-65949851
   date: '2014-12-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-- type: cites
   target: pt:dre:152703:por
   label: null
   source: http://data.dre.pt/eli/port/1192-a/2006/11/03/p/dre
@@ -120,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:406279:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
 - type: cites
   target: pt:dre:538613:por
   label: null

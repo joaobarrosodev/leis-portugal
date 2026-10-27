@@ -157,11 +157,11 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
+  target: pt:dre:108219721:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/76/2021/06/16/p/dre
+  target: pt:dre:165228578:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/76/2021/06/16/p/dre
 - type: cites

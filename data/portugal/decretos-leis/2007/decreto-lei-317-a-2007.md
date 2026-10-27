@@ -76,13 +76,9 @@ subjects:
 - Reforma da Administração Pública
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/66/2007/05/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/66/2007/05/07/p/dre
-- type: cites
   target: pt:dre:520843:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/66/2007/05/07/p/dre
 article_structure:
   article_count: 2
   section_count: 0

@@ -118,10 +118,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2014-56941586
   date: '2014-09-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
-- type: cites
   target: pt:dre:275836:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/1994/03/05/p/dre
@@ -144,7 +140,7 @@ relationships:
 - type: cites
   target: pt:dre:522203:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
 - type: cites
   target: pt:dre:534996:por
   label: null

@@ -80,10 +80,6 @@ relationships:
   source: null
   date: '2009-09-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/103/2015/04/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/103/2015/04/08/p/dre
-- type: cites
   target: pt:dre:122402875:por
   label: null
   source: null
@@ -102,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:66936946:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/103/2015/04/08/p/dre
 article_structure:
   article_count: 3
   section_count: 0

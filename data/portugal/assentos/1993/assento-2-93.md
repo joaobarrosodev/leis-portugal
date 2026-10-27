@@ -82,13 +82,9 @@ subjects:
 - Visto do Tribunal de Contas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/220/1992/07/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/220/1992/07/28/p/dre
-- type: cites
   target: pt:dre:275620:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/220/1992/07/28/p/dre
 - type: cites
   target: pt:dre:367853:por
   label: null

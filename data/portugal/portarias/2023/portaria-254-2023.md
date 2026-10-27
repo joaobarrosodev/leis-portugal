@@ -88,10 +88,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2019/629/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/4/2019/01/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/4/2019/01/31/p/dre
-- type: cites
   target: pt:dre:114315242:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/152/2017/12/07/p/dre
@@ -102,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:118885996:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/4/2019/01/31/p/dre
 - type: cites
   target: pt:dre:204379871:por
   label: null

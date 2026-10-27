@@ -224,19 +224,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/281-2026-1139897695
   date: '2026-06-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/18/2016/02/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/18/2016/02/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/234/2015/08/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/234/2015/08/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/260-b/2015/08/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/260-b/2015/08/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/44/2017/01/30/p/dre
+  target: pt:dre:105820645:por
   label: null
   source: http://data.dre.pt/eli/port/44/2017/01/30/p/dre
 - type: cites
@@ -263,6 +251,18 @@ relationships:
   target: pt:dre:586006:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/d
+- type: cites
+  target: pt:dre:69968713:por
+  label: null
+  source: http://data.dre.pt/eli/port/234/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:70095680:por
+  label: null
+  source: http://data.dre.pt/eli/port/260-b/2015/08/24/p/dre
+- type: cites
+  target: pt:dre:73462826:por
+  label: null
+  source: http://data.dre.pt/eli/port/18/2016/02/08/p/dre
 article_structure:
   article_count: 36
   section_count: 59

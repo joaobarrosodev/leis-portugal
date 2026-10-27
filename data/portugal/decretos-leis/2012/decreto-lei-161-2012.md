@@ -86,10 +86,6 @@ subjects:
 - Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:232885:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/62/2003/04/03/p/dre
@@ -116,7 +112,7 @@ relationships:
 - type: cites
   target: pt:dre:543701:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:548239:por
   label: null

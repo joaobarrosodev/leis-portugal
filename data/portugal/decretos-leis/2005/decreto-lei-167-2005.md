@@ -149,7 +149,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2015-67212152
   date: '2015-05-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
+  target: pt:dre:233957:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
 - type: cites

@@ -78,7 +78,7 @@ subjects:
 - Unidade Naval
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/14/1998/01/30/p/dre
+  target: pt:dre:224984:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/14/1998/01/30/p/dre
 article_structure:

@@ -79,17 +79,9 @@ subjects:
 - Regulamento CE
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/46/2018/02/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/46/2018/02/12/p/dre
-- type: cites
   target: pt:dre:114682828:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/46/2018/02/12/p/dre
 - type: cites
   target: pt:dre:116895169:por
   label: null
@@ -125,7 +117,7 @@ relationships:
 - type: cites
   target: pt:dre:75341997:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
 article_structure:
   article_count: 4
   section_count: 0

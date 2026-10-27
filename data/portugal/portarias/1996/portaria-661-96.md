@@ -80,17 +80,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/66-1999-1308038
   date: '1999-02-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
-- type: cites
   target: pt:dre:228186:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
 - type: cites
   target: pt:dre:256213:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
 - type: cites
   target: pt:dre:332412:por
   label: null

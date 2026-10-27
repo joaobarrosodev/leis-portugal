@@ -77,13 +77,9 @@ subjects:
 - Vogal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/1995/02/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/1995/02/25/p/dre
-- type: cites
   target: pt:dre:186124:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/16/1995/02/25/p/dre
 article_structure:
   article_count: 0
   section_count: 0

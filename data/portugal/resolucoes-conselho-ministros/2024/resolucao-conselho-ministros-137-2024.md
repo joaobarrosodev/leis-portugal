@@ -74,13 +74,9 @@ subjects:
 - Prorrogação de Prazo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/166/2018/12/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/166/2018/12/06/p/dre
-- type: cites
   target: pt:dre:117246230:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/166/2018/12/06/p/dre
 - type: cites
   target: pt:dre:161521475:por
   label: null

@@ -79,21 +79,13 @@ subjects:
 - Valores Mobiliários
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3-b/1996/01/13/p/dre
+  target: pt:dre:241433:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3-b/1996/01/13/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3-c/1996/01/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3-c/1996/01/13/p/dre
-- type: cites
-  target: pt:dre:241433:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:241434:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3-c/1996/01/13/p/dre
 - type: cites
   target: pt:dre:258157:por
   label: null

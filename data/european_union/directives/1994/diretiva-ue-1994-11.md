@@ -110,6 +110,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/cc299c53-3d01-42ec-ad9d-05195509c52e
   date: '1992-08-31'
 - type: cited_by
+  target: pt:dre:177088814:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:502984:por
   label: null
   source: null

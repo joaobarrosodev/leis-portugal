@@ -75,13 +75,9 @@ subjects:
 - Tabaqueira
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/111/1996/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/111/1996/07/26/p/dre
-- type: cites
   target: pt:dre:408355:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/111/1996/07/26/p/dre
 article_structure:
   article_count: 0
   section_count: 0

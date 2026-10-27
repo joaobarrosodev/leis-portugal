@@ -100,13 +100,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/8-2018-114782543
   date: '2018-03-01'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/224/2017/07/24/p/dre
+  target: pt:dre:107731470:por
   label: null
   source: http://data.dre.pt/eli/port/224/2017/07/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/413/2015/11/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/413/2015/11/27/p/dre
 - type: cites
   target: pt:dre:287143:por
   label: null
@@ -139,6 +135,10 @@ relationships:
   target: pt:dre:676608:por
   label: null
   source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:71124484:por
+  label: null
+  source: http://data.dre.pt/eli/port/413/2015/11/27/p/dre
 article_structure:
   article_count: 33
   section_count: 13

@@ -135,7 +135,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/726-a-1999-464599
   date: '1999-08-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+  target: pt:dre:232147:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
 - type: cites

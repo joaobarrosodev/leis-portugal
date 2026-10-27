@@ -88,10 +88,6 @@ relationships:
   source: null
   date: '2019-05-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/405/2003/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/405/2003/10/15/p/dre
-- type: cites
   target: pt:dre:105637672:por
   label: null
   source: null
@@ -226,7 +222,7 @@ relationships:
 - type: cites
   target: pt:dre:477302:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/405/2003/10/15/p/dre
 - type: cites
   target: pt:dre:56305850:por
   label: null

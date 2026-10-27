@@ -136,10 +136,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2018/1862/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolassrep/313/2021/12/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolassrep/313/2021/12/09/p/dre
-- type: cites
   target: pt:dre:116382281:por
   label: null
   source: http://data.dre.pt/eli/decregul/9/2018/09/11/p/dre
@@ -154,7 +150,7 @@ relationships:
 - type: cites
   target: pt:dre:175595589:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolassrep/313/2021/12/09/p/dre
 - type: cites
   target: pt:dre:188557:por
   label: null

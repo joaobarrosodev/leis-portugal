@@ -105,6 +105,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/b4b312f4-ba77-4cc7-99cd-5fc19c85d2cd
   date: '1964-07-29'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: repealed_by
   target: celex:31997L0012
   label: null

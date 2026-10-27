@@ -97,10 +97,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2021-162753747
   date: '2021-05-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/21/2014/03/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/21/2014/03/31/p/dre
-- type: cites
   target: pt:dre:150517:por
   label: null
   source: http://data.dre.pt/eli/declegreg/8/1999/03/22/a/dre
@@ -111,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:25344728:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/21/2014/03/31/p/dre
 - type: cites
   target: pt:dre:275462:por
   label: null

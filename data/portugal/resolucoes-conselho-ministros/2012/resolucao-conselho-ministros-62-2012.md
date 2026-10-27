@@ -84,21 +84,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
   date: '2015-12-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2011/01/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/2011/01/12/p/dre
-- type: cites
   target: pt:dre:482144:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/2009/12/30/p/dre
 - type: cites
   target: pt:dre:485641:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2011/01/12/p/dre
 - type: cites
   target: pt:dre:518450:por
   label: null
@@ -114,7 +106,7 @@ relationships:
 - type: cites
   target: pt:dre:545593:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
 - type: corrected_by
   target: pt:dre:176024:por
   label: "Retificado o nono parágrafo do preâmbulo, pela DECL-RECT.45/2012.11.09.2012.PCM, DR.IS [176] de 11.09.2012\0\0"

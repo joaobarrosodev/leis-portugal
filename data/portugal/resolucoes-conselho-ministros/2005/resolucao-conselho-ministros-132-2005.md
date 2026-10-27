@@ -89,17 +89,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7963-2012-1171543
   date: '2012-06-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/72/1994/08/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/72/1994/08/23/p/dre
-- type: cites
   target: pt:dre:188357:por
   label: null
   source: null
 - type: cites
   target: pt:dre:218692:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/72/1994/08/23/p/dre
 - type: cites
   target: pt:dre:257595:por
   label: null

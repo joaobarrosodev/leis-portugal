@@ -86,14 +86,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/2022/763/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/30/2016/05/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/30/2016/05/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/91-a/2015/11/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/91-a/2015/11/12/p/dre
-- type: cites
   target: pt:dre:138217594:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/39-b/2020/07/16/p/dre
@@ -112,11 +104,11 @@ relationships:
 - type: cites
   target: pt:dre:70999382:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/91-a/2015/11/12/p/dre
 - type: cites
   target: pt:dre:74498466:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/30/2016/05/23/p/dre
 - type: repeals
   target: pt:numero:decreto-lei:181-A/2014
   label: Revoga, a partir de 18 de agosto de 2025, nos termos do artigo 16.º do presente diploma, o Decreto-Lei n.º 181-A/2014,

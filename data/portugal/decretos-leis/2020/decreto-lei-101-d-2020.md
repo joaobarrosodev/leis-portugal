@@ -234,10 +234,6 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/113/2015
-  label: null
-  source: http://data.dre.pt/eli/port/113/2015
-- type: cites
   target: pt:dre:117202785:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/108/2018/12/03/p/dre
@@ -265,6 +261,10 @@ relationships:
   target: pt:dre:655682:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: pt:dre:67051303:por
+  label: null
+  source: http://data.dre.pt/eli/port/113/2015
 - type: cites
   target: pt:dre:67123272:por
   label: null

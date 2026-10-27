@@ -72,13 +72,9 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/9-a/2017/01/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/9-a/2017/01/05/p/dre
-- type: cites
   target: pt:dre:105711795:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/9-a/2017/01/05/p/dre
 - type: cites
   target: pt:dre:175545:por
   label: null

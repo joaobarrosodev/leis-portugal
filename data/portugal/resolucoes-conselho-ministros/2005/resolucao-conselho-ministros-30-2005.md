@@ -74,37 +74,17 @@ subjects:
 - Zona Industrial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/166/1995/12/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/166/1995/12/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2003/02/19/p/dre
+  target: pt:dre:190593:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2003/02/19/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/34/2003/03/10/p/dre
+  target: pt:dre:221145:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/34/2003/03/10/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/2003/03/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/2003/03/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/57/1997/04/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/57/1997/04/01/p/dre
-- type: cites
-  target: pt:dre:190593:por
-  label: null
-  source: null
-- type: cites
-  target: pt:dre:221145:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:232954:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/46/2003/03/26/p/dre
 - type: cites
   target: pt:dre:232958:por
   label: null
@@ -116,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:527423:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/57/1997/04/01/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null
@@ -124,7 +104,7 @@ relationships:
 - type: cites
   target: pt:dre:632459:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/166/1995/12/12/p/dre
 article_structure:
   article_count: 0
   section_count: 0

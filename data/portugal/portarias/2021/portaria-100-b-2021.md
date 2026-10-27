@@ -101,13 +101,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496
   date: '2023-12-13'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/78/2019/03/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/78/2019/03/14/p/dre
-- type: cites
   target: pt:dre:105658704:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-a/2016/12/29/p/dre
+- type: cites
+  target: pt:dre:120944157:por
+  label: null
+  source: http://data.dre.pt/eli/port/78/2019/03/14/p/dre
 - type: cites
   target: pt:dre:159432382:por
   label: null

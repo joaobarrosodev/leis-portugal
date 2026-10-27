@@ -74,49 +74,29 @@ subjects:
 - Trabalhador por Conta de Outrem
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/declretif/23/2018/07/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/23/2018/07/10/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/275/2020/12/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/275/2020/12/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/292/2021/12/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/292/2021/12/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/411-a/2019/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/411-a/2019/12/31/p/dre
-- type: cites
   target: pt:dre:115561641:por
   label: null
   source: http://data.dre.pt/eli/port/182/2018/06/22/p/dre
 - type: cites
   target: pt:dre:115674376:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/23/2018/07/10/p/dre
 - type: cites
   target: pt:dre:127621170:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/411-a/2019/12/31/p/dre
 - type: cites
   target: pt:dre:150368748:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/275/2020/12/04/p/dre
 - type: cites
   target: pt:dre:175595604:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
 - type: cites
   target: pt:dre:175780033:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/292/2021/12/13/p/dre
 - type: cites
   target: pt:dre:177451125:por
   label: null

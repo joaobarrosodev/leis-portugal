@@ -85,17 +85,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/38/2013/06/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/38/2013/06/14/p/dre
-- type: cites
   target: pt:dre:190615:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/254/2012/11/28/p/dre
 - type: cites
   target: pt:dre:496727:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/38/2013/06/14/p/dre
 article_structure:
   article_count: 2
   section_count: 0

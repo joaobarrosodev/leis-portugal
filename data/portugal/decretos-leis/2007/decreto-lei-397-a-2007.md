@@ -77,13 +77,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/2/2006/01/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/2/2006/01/06/p/dre
-- type: cites
   target: pt:dre:168222:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/2/2006/01/06/p/dre
 - type: cites
   target: pt:dre:320736:por
   label: null

@@ -82,25 +82,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/33/2015/07/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/33/2015/07/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/196/2017/06/23/p/dre
+  target: pt:dre:107549822:por
   label: null
   source: http://data.dre.pt/eli/port/196/2017/06/23/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
-- type: cites
-  target: pt:dre:107549822:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:176811777:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
 - type: cites
   target: pt:dre:183159328:por
   label: null
@@ -132,7 +120,7 @@ relationships:
 - type: cites
   target: pt:dre:69778943:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/33/2015/07/13/p/dre
 article_structure:
   article_count: 3
   section_count: 0

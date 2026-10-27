@@ -73,21 +73,13 @@ subjects:
 - Urbanismo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
-- type: cites
   target: pt:dre:234316:por
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
 - type: cites
   target: pt:dre:241455:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
 - type: cites
   target: pt:dre:346532:por
   label: null
@@ -95,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:431992:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
 - type: cites
   target: pt:dre:471173:por
   label: null

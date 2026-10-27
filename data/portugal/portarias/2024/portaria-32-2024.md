@@ -83,21 +83,13 @@ relationships:
   source: null
   date: '2024-01-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/164/2017/05/18/p/dre
+  target: pt:dre:107030010:por
   label: null
   source: http://data.dre.pt/eli/port/164/2017/05/18/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/225/2020/09/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/225/2020/09/29/p/dre
-- type: cites
-  target: pt:dre:107030010:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:144010962:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/225/2020/09/29/p/dre
 - type: cites
   target: pt:dre:344939:por
   label: null

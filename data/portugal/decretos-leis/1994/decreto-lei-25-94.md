@@ -81,17 +81,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
   date: '1996-05-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/15/1991/05/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/15/1991/05/09/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/5/1992/02/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/5/1992/02/06/p/dre
-- type: cites
   target: pt:dre:152502:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/5/1992/02/06/p/dre
 - type: cites
   target: pt:dre:283082:por
   label: null
@@ -115,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:667348:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/15/1991/05/09/p/dre
 - type: repealed_by
   target: pt:dre:186752:por
   label: "Revogado pelo DEC LEI.408/98.1998.12.21.MC, DR.IS-A [293], e extinto o Instituto Português da Arte Cinematográfica\

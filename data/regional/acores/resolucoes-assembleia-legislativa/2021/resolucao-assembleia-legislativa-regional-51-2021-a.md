@@ -72,10 +72,6 @@ subjects:
 - Recomendação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/4-a/2013/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/4-a/2013/01/18/p/dre
-- type: cites
   target: pt:dre:107458721:por
   label: null
   source: http://data.dre.pt/eli/lei/38/2017/06/02/p/dre
@@ -98,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:289588:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/4-a/2013/01/18/p/dre
 - type: cites
   target: pt:dre:343453:por
   label: null

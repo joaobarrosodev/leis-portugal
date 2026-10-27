@@ -89,17 +89,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2018/1999/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-- type: cites
   target: pt:dre:114832287:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/2018/03/08/p/dre
 - type: cites
   target: pt:dre:122777644:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites
   target: pt:dre:137618093:por
   label: null

@@ -112,10 +112,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2026-1058701616
   date: '2026-02-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/301/2019/09/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/301/2019/09/12/p/dre
-- type: cites
   target: pt:dre:108244274:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/125/2017/10/04/p/dre
@@ -123,6 +119,10 @@ relationships:
   target: pt:dre:123279819:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/95/2019/07/18/p/dre
+- type: cites
+  target: pt:dre:124642990:por
+  label: null
+  source: http://data.dre.pt/eli/port/301/2019/09/12/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null

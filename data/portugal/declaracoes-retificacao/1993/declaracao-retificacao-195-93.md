@@ -74,13 +74,9 @@ subjects:
 - Privatização
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/52/1993/08/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/52/1993/08/02/p/dre
-- type: cites
   target: pt:dre:151317:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/52/1993/08/02/p/dre
 article_structure:
   article_count: 0
   section_count: 0

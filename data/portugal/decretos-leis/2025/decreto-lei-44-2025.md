@@ -90,10 +90,6 @@ relationships:
   source: null
   date: '2018-06-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
-- type: cites
   target: pt:dre:115440317:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/37/2018/06/04/p/dre
@@ -124,7 +120,7 @@ relationships:
 - type: cites
   target: pt:dre:174614573:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
 - type: cites
   target: pt:dre:179064:por
   label: null

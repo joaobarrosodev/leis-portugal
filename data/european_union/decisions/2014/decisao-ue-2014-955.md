@@ -110,6 +110,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:70508973:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:75662181:por
   label: null
   source: null

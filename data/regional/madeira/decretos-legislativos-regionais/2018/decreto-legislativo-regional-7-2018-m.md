@@ -80,10 +80,6 @@ subjects:
 - Tempo de Serviço
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-- type: cites
   target: pt:dre:174791:por
   label: null
   source: http://data.dre.pt/eli/declegreg/20/2012/08/29/m/dre
@@ -130,7 +126,7 @@ relationships:
 - type: cites
   target: pt:dre:56303285:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
 - type: cites
   target: pt:dre:629666:por
   label: null

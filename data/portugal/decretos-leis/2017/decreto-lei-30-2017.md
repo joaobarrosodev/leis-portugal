@@ -102,10 +102,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/222/2016/08/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/222/2016/08/11/p/dre
-- type: cites
   target: pt:dre:25676932:por
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
@@ -144,7 +140,7 @@ relationships:
 - type: cites
   target: pt:dre:75132644:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/222/2016/08/11/p/dre
 - type: cites
   target: pt:dre:75319452:por
   label: null

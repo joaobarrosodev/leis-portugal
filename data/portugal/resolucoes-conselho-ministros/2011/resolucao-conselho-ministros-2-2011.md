@@ -76,17 +76,9 @@ subjects:
 - Plano Nacional de Acção para a Eficiência Energética (2008-2015)
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/93/2010/11/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/93/2010/11/26/p/dre
-- type: cites
   target: pt:dre:308983:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/93/2010/11/26/p/dre
 - type: cites
   target: pt:dre:309308:por
   label: null
@@ -98,7 +90,7 @@ relationships:
 - type: cites
   target: pt:dre:613675:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
 - type: repealed_by
   target: pt:dre:149220156:por
   label: Revogada, nos termos do n.º 12 e a partir de 25.11.2020, pelo(a) Resolução do Conselho de Ministros n.º 104/2020

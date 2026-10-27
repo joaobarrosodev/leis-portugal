@@ -111,17 +111,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2019-119556793
   date: '2019-02-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/122/2016/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/122/2016/05/04/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/129/2017/04/05/p/dre
+  target: pt:dre:106829420:por
   label: null
   source: http://data.dre.pt/eli/port/129/2017/04/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/242/2015/08/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/242/2015/08/13/p/dre
 - type: cites
   target: pt:dre:480708:por
   label: null
@@ -135,9 +127,17 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/60-a/2015/03/02/p/dre
 - type: cites
+  target: pt:dre:70007182:por
+  label: null
+  source: http://data.dre.pt/eli/port/242/2015/08/13/p/dre
+- type: cites
   target: pt:dre:70462181:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+- type: cites
+  target: pt:dre:74334113:por
+  label: null
+  source: http://data.dre.pt/eli/port/122/2016/05/04/p/dre
 article_structure:
   article_count: 45
   section_count: 11

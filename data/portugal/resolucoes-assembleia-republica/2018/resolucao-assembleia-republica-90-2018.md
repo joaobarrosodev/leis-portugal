@@ -74,7 +74,7 @@ subjects:
 - Recomendação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/28/2015/02/11/p/dre
+  target: pt:dre:66480823:por
   label: null
   source: http://data.dre.pt/eli/port/28/2015/02/11/p/dre
 article_structure:

@@ -87,17 +87,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
   date: '2012-01-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-- type: cites
   target: pt:dre:332037:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/59/2001/05/30/p/dre
 - type: cites
   target: pt:dre:464205:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
 - type: cites
   target: pt:dre:477827:por
   label: null

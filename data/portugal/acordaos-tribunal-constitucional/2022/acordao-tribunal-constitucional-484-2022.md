@@ -97,18 +97,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2014/89/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/280/1991/01/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/280/1991/01/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/330/1999/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/330/1999/07/01/p/dre
-- type: cites
   target: pt:dre:153519404:por
   label: null
   source: http://data.dre.pt/eli/lei/1/2021/01/11/p/dre
@@ -121,6 +109,14 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/17/2014/04/10/p/dre
 - type: cites
+  target: pt:dre:372067:por
+  label: null
+  source: http://data.dre.pt/eli/ac/330/1999/07/01/p/dre
+- type: cites
+  target: pt:dre:520648:por
+  label: null
+  source: http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
+- type: cites
   target: pt:dre:539401:por
   label: null
   source: http://data.dre.pt/eli/lei/34/2006/07/28/p/dre
@@ -132,6 +128,10 @@ relationships:
   target: pt:dre:629666:por
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:662758:por
+  label: null
+  source: http://data.dre.pt/eli/ac/280/1991/01/02/p/dre
 - type: cites
   target: pt:dre:66727183:por
   label: null

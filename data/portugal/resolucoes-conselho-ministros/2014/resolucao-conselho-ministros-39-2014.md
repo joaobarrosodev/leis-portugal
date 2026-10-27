@@ -91,10 +91,6 @@ subjects:
 - Ministro da Defesa Nacional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
-- type: cites
   target: pt:dre:175321:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/2012/08/16/p/dre
@@ -102,6 +98,10 @@ relationships:
   target: pt:dre:178845:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:247435:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
 - type: cites
   target: pt:dre:25345967:por
   label: null

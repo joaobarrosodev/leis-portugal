@@ -80,13 +80,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/202/2021/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/202/2021/12/31/p/dre
-- type: cites
   target: pt:dre:176907489:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/202/2021/12/31/p/dre
 - type: repealed_by
   target: pt:dre:1060895769:por
   label: Revogada, a partir de 27 de fevereiro de 2026, pelo(a) Resolução do Conselho de Ministros n.º 45/2026 - Diário da

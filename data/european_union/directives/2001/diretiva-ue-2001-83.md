@@ -713,6 +713,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:67540643:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:69956137:por
   label: null
   source: null

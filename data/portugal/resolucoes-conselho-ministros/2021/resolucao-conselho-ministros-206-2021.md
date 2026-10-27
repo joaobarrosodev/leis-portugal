@@ -98,25 +98,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/198-2024-901400371
   date: '2024-12-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10/2010/02/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10/2010/02/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/168/2018/12/07/p/dre
+  target: pt:dre:117279882:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/168/2018/12/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/2007/03/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/2007/03/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/70/2013/11/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/70/2013/11/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/71/2015/09/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/71/2015/09/09/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null
@@ -126,9 +110,25 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
 - type: cites
+  target: pt:dre:504976:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/70/2013/11/05/p/dre
+- type: cites
+  target: pt:dre:518600:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/46/2007/03/21/p/dre
+- type: cites
   target: pt:dre:520835:por
   label: null
   source: http://data.dre.pt/eli/dec/7/2007/05/08/p/dre
+- type: cites
+  target: pt:dre:617099:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/10/2010/02/05/p/dre
+- type: cites
+  target: pt:dre:70237681:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/71/2015/09/09/p/dre
 - type: cites
   target: pt:dre:70686126:por
   label: null

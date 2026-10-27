@@ -141,17 +141,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633
   date: '2023-05-26'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/35/2012/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/35/2012/03/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
+  target: pt:dre:146923:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
 - type: cites
   target: pt:dre:520986:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/140/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:553474:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/35/2012/03/16/p/dre
 - type: cites
   target: pt:dre:603478:por
   label: null

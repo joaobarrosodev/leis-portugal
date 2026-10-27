@@ -73,7 +73,7 @@ subjects:
 - Trás-os-montes
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
+  target: pt:dre:73268683:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
 article_structure:

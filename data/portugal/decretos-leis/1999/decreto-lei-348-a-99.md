@@ -75,10 +75,6 @@ subjects:
 - Subsídio
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/24-a/1998/02/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/24-a/1998/02/13/p/dre
-- type: cites
   target: pt:dre:231890:por
   label: null
   source: http://data.dre.pt/eli/despnorm/545/1994/07/29/p/dre
@@ -89,7 +85,7 @@ relationships:
 - type: cites
   target: pt:dre:297400:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/24-a/1998/02/13/p/dre
 - type: cites
   target: pt:dre:471157:por
   label: null

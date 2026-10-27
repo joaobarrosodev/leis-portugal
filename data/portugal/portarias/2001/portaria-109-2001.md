@@ -80,17 +80,13 @@ subjects:
 - Transferência de Serviços
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
-- type: cites
   target: pt:dre:274382:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/90/2000/05/18/p/dre
 - type: cites
   target: pt:dre:316939:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
 article_structure:
   article_count: 16
   section_count: 5

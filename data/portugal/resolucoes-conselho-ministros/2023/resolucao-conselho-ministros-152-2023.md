@@ -88,10 +88,6 @@ subjects:
 - Governo XXIII
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/139/2015/05/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/139/2015/05/20/p/dre
-- type: cites
   target: pt:dre:178845:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -107,6 +103,10 @@ relationships:
   target: pt:dre:542996:por
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:67250219:por
+  label: null
+  source: http://data.dre.pt/eli/port/139/2015/05/20/p/dre
 article_structure:
   article_count: 0
   section_count: 0

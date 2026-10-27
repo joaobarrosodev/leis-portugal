@@ -75,17 +75,13 @@ subjects:
 - Sociedade Anónima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/1992/06/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/1992/06/05/p/dre
-- type: cites
   target: pt:dre:1876917:por
   label: null
   source: null
 - type: cites
   target: pt:dre:300640:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/16/1992/06/05/p/dre
 - type: cites
   target: pt:dre:303602:por
   label: null

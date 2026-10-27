@@ -164,10 +164,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/51-2024-852762919
   date: '2024-02-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/231-a/2014/11/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/231-a/2014/11/12/p/dre
-- type: cites
   target: pt:dre:477130:por
   label: null
   source: http://data.dre.pt/eli/port/3/2012/01/02/p/dre
@@ -179,6 +175,10 @@ relationships:
   target: pt:dre:540387:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
+- type: cites
+  target: pt:dre:58849150:por
+  label: null
+  source: http://data.dre.pt/eli/port/231-a/2014/11/12/p/dre
 - type: cites
   target: pt:dre:600359:por
   label: null

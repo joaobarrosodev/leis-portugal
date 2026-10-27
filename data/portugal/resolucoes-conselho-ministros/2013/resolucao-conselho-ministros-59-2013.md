@@ -94,11 +94,11 @@ subjects:
 - Vouzela
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/64/2012/08/01/p/dre
+  target: pt:dre:179073:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/64/2012/08/01/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre
+  target: pt:dre:192419:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre
 - type: cites

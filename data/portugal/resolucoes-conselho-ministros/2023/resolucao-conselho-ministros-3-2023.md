@@ -83,17 +83,13 @@ subjects:
 - Recomendação CE
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/136/2021/10/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/136/2021/10/01/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2021/1004/oj
   label: null
   source: http://data.europa.eu/eli/reco/2021/1004/oj
 - type: cites
   target: pt:dre:172266413:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/136/2021/10/01/p/dre
 - type: cites
   target: pt:dre:176714553:por
   label: null

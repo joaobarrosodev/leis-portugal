@@ -109,13 +109,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6557-2017-107497624
   date: '2017-06-09'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/139/1997/08/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/139/1997/08/21/p/dre
-- type: cites
   target: pt:dre:196227:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/139/1997/08/21/p/dre
 - type: cites
   target: pt:dre:203859:por
   label: null

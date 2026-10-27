@@ -114,14 +114,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2015-70095696
   date: '2015-08-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
-- type: cites
   target: pt:dre:175321:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/2012/08/16/p/dre
@@ -129,6 +121,14 @@ relationships:
   target: pt:dre:190578:por
   label: null
   source: http://data.dre.pt/eli/decregul/51/2012/12/10/p/dre
+- type: cites
+  target: pt:dre:247435:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
+- type: cites
+  target: pt:dre:260395:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
 - type: cites
   target: pt:dre:345291:por
   label: null

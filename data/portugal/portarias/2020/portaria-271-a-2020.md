@@ -250,10 +250,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2020/460/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/96-b/2020/11/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/96-b/2020/11/12/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
@@ -265,6 +261,10 @@ relationships:
   target: pt:dre:147412974:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/92-a/2020/11/02/p/dre
+- type: cites
+  target: pt:dre:148444017:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/96-b/2020/11/12/p/dre
 - type: cites
   target: pt:dre:149103950:por
   label: null

@@ -168,7 +168,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:170934686:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:175558:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:176907491:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:178152679:por
   label: null
   source: null
 - type: cited_by
@@ -701,7 +713,15 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:114952498:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:122074192:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:122074197:por
   label: null
   source: null
 - type: transposed_by
@@ -774,6 +794,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:74711478:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:75025069:por
   label: null
   source: null
 - type: transposed_by

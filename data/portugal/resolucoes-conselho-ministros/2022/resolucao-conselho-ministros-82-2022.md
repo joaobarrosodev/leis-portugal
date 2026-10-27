@@ -127,7 +127,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2022/1369/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/14/2022/01/13/p/dre
+  target: pt:dre:177583957:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/14/2022/01/13/p/dre
 - type: cites

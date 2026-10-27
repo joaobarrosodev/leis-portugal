@@ -83,10 +83,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2020/739/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/170/2012/11/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/170/2012/11/28/p/dre
-- type: cites
   target: pt:dre:105756106:por
   label: null
   source: null
@@ -169,7 +165,7 @@ relationships:
 - type: cites
   target: pt:dre:190619:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/170/2012/11/28/p/dre
 - type: cites
   target: pt:dre:1936228:por
   label: null

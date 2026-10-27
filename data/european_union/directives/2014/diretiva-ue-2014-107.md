@@ -88,7 +88,15 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/516ae86a-21b6-4c96-9f18-f32bd0427f3b
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:108002087:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1129390702:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114771733:por
   label: null
   source: null
 - type: cited_by
@@ -151,6 +159,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:108051987:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:116734770:por
   label: null
   source: null
 - type: transposed_by

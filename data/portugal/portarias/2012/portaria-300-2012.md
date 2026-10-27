@@ -137,13 +137,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/295-2013-500408
   date: '2013-10-01'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
-- type: cites
   target: pt:dre:552034:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/101/2012/05/11/p/dre
+- type: cites
+  target: pt:dre:553946:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
 article_structure:
   article_count: 4
   section_count: 1

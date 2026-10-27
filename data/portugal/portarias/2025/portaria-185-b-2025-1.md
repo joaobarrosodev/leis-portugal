@@ -101,7 +101,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/297-2025-934454755
   date: '2025-09-08'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/143/2021/07/09/p/dre
+  target: pt:dre:166658250:por
   label: null
   source: http://data.dre.pt/eli/port/143/2021/07/09/p/dre
 - type: cites

@@ -75,21 +75,13 @@ subjects:
 - Segurança Pública
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/171/2004/11/29/p/dre
+  target: pt:dre:209829:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/171/2004/11/29/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/63/2003/04/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/63/2003/04/28/p/dre
-- type: cites
-  target: pt:dre:209829:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:240832:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/63/2003/04/28/p/dre
 - type: cites
   target: pt:dre:273671:por
   label: null

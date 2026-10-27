@@ -80,13 +80,9 @@ subjects:
 - Turismo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
-- type: cites
   target: pt:dre:302877:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
 - type: cites
   target: pt:dre:374423:por
   label: null

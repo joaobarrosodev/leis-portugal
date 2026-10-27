@@ -118,6 +118,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/36906ae9-7a61-4d58-b273-013e03ed5f72
   date: '2010-03-08'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 3

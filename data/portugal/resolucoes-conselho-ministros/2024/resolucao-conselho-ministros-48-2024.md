@@ -100,29 +100,17 @@ relationships:
   source: null
   date: '2024-03-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10/2013/02/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10/2013/02/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/189/2019/12/06/p/dre
+  target: pt:dre:126959277:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/189/2019/12/06/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/210/2021/12/31/p/dre
+  target: pt:dre:176907497:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/210/2021/12/31/p/dre
 - type: cites
-  target: pt:dre:126959277:por
-  label: null
-  source: null
-- type: cites
-  target: pt:dre:176907497:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:258513:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/10/2013/02/20/p/dre
 - type: cites
   target: pt:dre:58683382:por
   label: null

@@ -108,10 +108,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2025-904742818
   date: '2025-01-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/3/2020/12/24/a/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/3/2020/12/24/a/dre
-- type: cites
   target: pt:dre:128515586:por
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/2020/01/27/a/dre
@@ -119,6 +115,10 @@ relationships:
   target: pt:dre:150757510:por
   label: null
   source: http://data.dre.pt/eli/decregulreg/28/2020/12/10/a/dre
+- type: cites
+  target: pt:dre:152197941:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/3/2020/12/24/a/dre
 - type: cites
   target: pt:dre:170514957:por
   label: null

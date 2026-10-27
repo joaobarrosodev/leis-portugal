@@ -99,11 +99,7 @@ subjects:
 - Unidade Técnica de Acompanhamento e Monitorização do Sector Público Empresarial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/2/2012/01/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/2/2012/01/25/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/317-a/2021/12/23/p/dre
+  target: pt:dre:176519578:por
   label: null
   source: http://data.dre.pt/eli/port/317-a/2021/12/23/p/dre
 - type: cites
@@ -122,6 +118,10 @@ relationships:
   target: pt:dre:544415:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/8/2012/01/18/p/dre
+- type: cites
+  target: pt:dre:544418:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/2/2012/01/25/p/dre
 - type: cites
   target: pt:dre:570737:por
   label: null

@@ -107,7 +107,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684
   date: '2024-09-13'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/104/2019/04/09/p/dre
+  target: pt:dre:122050356:por
   label: null
   source: http://data.dre.pt/eli/port/104/2019/04/09/p/dre
 - type: cites

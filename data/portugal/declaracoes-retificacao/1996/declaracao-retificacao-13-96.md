@@ -78,13 +78,9 @@ subjects:
 - Visto do Tribunal de Contas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/7/1996/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/7/1996/07/26/p/dre
-- type: cites
   target: pt:dre:408362:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/7/1996/07/26/p/dre
 article_structure:
   article_count: 0
   section_count: 0

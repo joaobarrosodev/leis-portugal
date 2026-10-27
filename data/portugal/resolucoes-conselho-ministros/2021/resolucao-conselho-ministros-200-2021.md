@@ -109,17 +109,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-2022-186869047
   date: '2022-08-01'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/175/2015/06/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/175/2015/06/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/11/2021/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/11/2021/03/03/p/dre
-- type: cites
   target: pt:dre:122202602:por
   label: null
   source: http://data.dre.pt/eli/port/125-a/2019/04/30/p/dre
+- type: cites
+  target: pt:dre:158698041:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/11/2021/03/03/p/dre
 - type: cites
   target: pt:dre:25676932:por
   label: null
@@ -132,6 +128,10 @@ relationships:
   target: pt:dre:66041468:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+- type: cites
+  target: pt:dre:67468093:por
+  label: null
+  source: http://data.dre.pt/eli/port/175/2015/06/12/p/dre
 article_structure:
   article_count: 0
   section_count: 1

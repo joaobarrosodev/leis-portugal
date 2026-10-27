@@ -102,10 +102,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839
   date: '2020-07-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/13/1993/03/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/13/1993/03/06/p/dre
-- type: cites
   target: pt:dre:273821:por
   label: null
   source: http://data.dre.pt/eli/decregul/13/1993/05/05/p/dre
@@ -129,6 +125,10 @@ relationships:
   target: pt:dre:621681:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/287/1992/12/26/p/dre
+- type: cites
+  target: pt:dre:629144:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/13/1993/03/06/p/dre
 - type: cites
   target: pt:dre:642010:por
   label: null

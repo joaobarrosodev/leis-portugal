@@ -243,6 +243,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/7740f6fe-43ed-49d5-b0fa-516d890c02a0
   date: '1975-07-25'
 - type: transposed_by
+  target: pt:dre:66762671:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:73958532:por
   label: null
   source: null

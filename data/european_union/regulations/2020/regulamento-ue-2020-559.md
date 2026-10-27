@@ -90,7 +90,15 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/721e0bdf-801b-46c6-84c6-7c00e7f56e89
   date: '2016-06-09'
 - type: cited_by
+  target: pt:dre:156547110:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:177847670:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:177875731:por
   label: null
   source: null
 - type: cited_by

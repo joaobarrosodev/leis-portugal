@@ -77,17 +77,13 @@ subjects:
 - Vacinação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/200/2021/09/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/200/2021/09/21/p/dre
-- type: cites
   target: pt:dre:152639825:por
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
 - type: cites
   target: pt:dre:171672326:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/200/2021/09/21/p/dre
 - type: cites
   target: pt:dre:67356991:por
   label: null

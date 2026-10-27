@@ -134,10 +134,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/241/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
-- type: cites
   target: pt:dre:122393532:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/2019/05/24/p/dre
@@ -149,6 +145,10 @@ relationships:
   target: pt:dre:169001:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/1999/02/05/p/dre
+- type: cites
+  target: pt:dre:247255:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
 - type: cites
   target: pt:dre:424762:por
   label: null

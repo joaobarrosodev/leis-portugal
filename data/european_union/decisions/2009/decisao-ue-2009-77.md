@@ -71,6 +71,10 @@ subjects:
 - regularização do mercado
 - valores mobiliários
 relationships:
+- type: cited_by
+  target: pt:dre:175865932:por
+  label: null
+  source: null
 - type: cites
   target: celex:32001D0528
   label: null

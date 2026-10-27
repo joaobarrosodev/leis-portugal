@@ -88,13 +88,9 @@ subjects:
 - Vila Franca de Xira
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
-- type: cites
   target: pt:dre:150926:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
 - type: cites
   target: pt:dre:229310:por
   label: null

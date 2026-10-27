@@ -80,13 +80,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/706-2014-2147473
   date: '2014-01-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/34/1993/04/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/34/1993/04/28/p/dre
-- type: cites
   target: pt:dre:664770:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/34/1993/04/28/p/dre
 article_structure:
   article_count: 0
   section_count: 0

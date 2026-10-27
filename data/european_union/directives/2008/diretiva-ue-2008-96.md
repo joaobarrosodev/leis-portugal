@@ -116,6 +116,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/edeeae55-cfa0-11e9-b4bf-01aa75ed71a1
   date: '2019-09-05'
 - type: transposed_by
+  target: pt:dre:175865942:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:204552602:por
   label: null
   source: null

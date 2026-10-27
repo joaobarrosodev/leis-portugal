@@ -72,10 +72,6 @@ subjects:
 - Porto
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
-- type: cites
   target: pt:dre:176800051:por
   label: null
   source: null
@@ -94,7 +90,7 @@ relationships:
 - type: cites
   target: pt:dre:542993:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
 - type: cites
   target: pt:dre:553924:por
   label: null

@@ -81,10 +81,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1091-2012-1858706
   date: '2012-01-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/139/1995/11/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/139/1995/11/16/p/dre
-- type: cites
   target: pt:dre:332412:por
   label: null
   source: null
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:689024:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/139/1995/11/16/p/dre
 article_structure:
   article_count: 0
   section_count: 0

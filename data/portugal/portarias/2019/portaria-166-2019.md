@@ -100,10 +100,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/136-2021-166099797
   date: '2021-06-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/276/2015/09/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/276/2015/09/10/p/dre
-- type: cites
   target: pt:dre:114706489:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/12/2018/02/16/p/dre
@@ -119,6 +115,10 @@ relationships:
   target: pt:dre:603478:por
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:70241307:por
+  label: null
+  source: http://data.dre.pt/eli/port/276/2015/09/10/p/dre
 article_structure:
   article_count: 20
   section_count: 1

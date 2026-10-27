@@ -73,10 +73,6 @@ subjects:
 - Obras Públicas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/21/2022/02/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/21/2022/02/09/p/dre
-- type: cites
   target: pt:dre:130659000:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/13/2020/03/25/p/dre
@@ -87,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:178859288:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/21/2022/02/09/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null

@@ -97,6 +97,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/dd988ec8-21ab-4fd5-9ed1-0d6c5fd75f82
   date: '1974-07-23'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 1

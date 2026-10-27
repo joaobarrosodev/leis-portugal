@@ -80,13 +80,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/163-2007-641404
   date: '2007-10-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/53/1994/07/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/53/1994/07/13/p/dre
-- type: cites
   target: pt:dre:300255:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/53/1994/07/13/p/dre
 - type: cites
   target: pt:dre:332412:por
   label: null

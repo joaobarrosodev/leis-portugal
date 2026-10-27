@@ -106,14 +106,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/38/2020/05/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/38/2020/05/17/p/dre
-- type: cites
   target: pt:dre:130243053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
@@ -124,11 +116,11 @@ relationships:
 - type: cites
   target: pt:dre:132883344:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
 - type: cites
   target: pt:dre:133914977:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/38/2020/05/17/p/dre
 - type: cites
   target: pt:dre:134889278:por
   label: null

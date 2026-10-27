@@ -78,13 +78,9 @@ subjects:
 - Titularização de Créditos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/2017/06/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/2017/06/08/p/dre
-- type: cites
   target: pt:dre:107494009:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/81/2017/06/08/p/dre
 - type: cites
   target: pt:dre:75158988:por
   label: null

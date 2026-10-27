@@ -86,17 +86,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/3/1995/01/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/3/1995/01/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/av/5/2015/02/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/5/2015/02/24/p/dre
-- type: cites
   target: pt:dre:367252:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/3/1995/01/06/p/dre
 - type: cites
   target: pt:dre:519003:por
   label: null
@@ -104,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:66581998:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/5/2015/02/24/p/dre
 - type: cites
   target: pt:dre:75763561:por
   label: null

@@ -80,13 +80,9 @@ subjects:
 - Região Autónoma
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/2/1997/01/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/2/1997/01/10/p/dre
-- type: cites
   target: pt:dre:301673:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/2/1997/01/10/p/dre
 - type: cites
   target: pt:dre:469185:por
   label: null

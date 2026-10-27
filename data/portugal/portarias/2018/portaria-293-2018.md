@@ -107,10 +107,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907
   date: '2024-12-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/251-a/2015/08/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/251-a/2015/08/18/p/dre
-- type: cites
   target: pt:dre:115991688:por
   label: null
   source: http://data.dre.pt/eli/lei/45/2018/08/10/p/dre
@@ -142,6 +138,10 @@ relationships:
   target: pt:dre:604779:por
   label: null
   source: http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
+- type: cites
+  target: pt:dre:70042507:por
+  label: null
+  source: http://data.dre.pt/eli/port/251-a/2015/08/18/p/dre
 article_structure:
   article_count: 13
   section_count: 8

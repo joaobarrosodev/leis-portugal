@@ -78,17 +78,13 @@ subjects:
 - Sistema de Informação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/128/1997/08/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/128/1997/08/01/p/dre
-- type: cites
   target: pt:dre:141832:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/130/1997/08/01/p/dre
 - type: cites
   target: pt:dre:141838:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/128/1997/08/01/p/dre
 - type: cites
   target: pt:dre:141839:por
   label: null

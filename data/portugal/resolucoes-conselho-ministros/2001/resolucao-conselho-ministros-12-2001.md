@@ -86,10 +86,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/16-2002-239412
   date: '2002-01-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/1999/04/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/1999/04/07/p/dre
-- type: cites
   target: pt:dre:367855:por
   label: null
   source: null
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:549056:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/26/1999/04/07/p/dre
 - type: cites
   target: pt:dre:550586:por
   label: null

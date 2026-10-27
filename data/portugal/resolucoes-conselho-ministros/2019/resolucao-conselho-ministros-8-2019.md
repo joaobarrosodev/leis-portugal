@@ -86,17 +86,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1057-2019-118813190
   date: '2019-01-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
-- type: cites
   target: pt:dre:114109966:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
 - type: cites
   target: pt:dre:114380263:por
   label: null
@@ -108,7 +100,7 @@ relationships:
 - type: cites
   target: pt:dre:116747965:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

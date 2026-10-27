@@ -124,10 +124,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2021-162244837
   date: '2021-04-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
-- type: cites
   target: pt:dre:148000:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/161/2005/09/22/p/dre
@@ -135,6 +131,10 @@ relationships:
   target: pt:dre:247376:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/37/2008/03/05/p/dre
+- type: cites
+  target: pt:dre:260395:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
 - type: cites
   target: pt:dre:345291:por
   label: null

@@ -75,17 +75,13 @@ subjects:
 - Promoção de Emprego
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/67/1998/06/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/67/1998/06/08/p/dre
-- type: cites
   target: pt:dre:403292:por
   label: null
   source: http://data.dre.pt/eli/port/24-a/1999/01/15/p/dre
 - type: cites
   target: pt:dre:472715:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/67/1998/06/08/p/dre
 - type: cites
   target: pt:dre:534598:por
   label: null

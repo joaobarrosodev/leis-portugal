@@ -104,21 +104,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-b-2025-909384934
   date: '2025-02-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/303/2021/12/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/303/2021/12/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/366/2015/10/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
-- type: cites
   target: pt:dre:153138213:por
   label: null
   source: http://data.dre.pt/eli/port/8/2021/01/07/p/dre
 - type: cites
   target: pt:dre:176075689:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/303/2021/12/17/p/dre
 - type: cites
   target: pt:dre:185224662:por
   label: null
@@ -130,7 +122,7 @@ relationships:
 - type: cites
   target: pt:dre:70716381:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
 article_structure:
   article_count: 4
   section_count: 0

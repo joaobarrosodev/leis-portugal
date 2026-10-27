@@ -88,14 +88,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/18-2020-130776793
   date: '2020-03-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/196/2016/07/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/196/2016/07/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
-- type: cites
   target: pt:dre:398490:por
   label: null
   source: http://data.dre.pt/eli/port/20-b/2014/01/30/p/dre
@@ -108,9 +100,13 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
 - type: cites
+  target: pt:dre:73268683:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
+- type: cites
   target: pt:dre:74985437:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/196/2016/07/20/p/dre
 - type: cites
   target: pt:dre:75239711:por
   label: null

@@ -84,7 +84,7 @@ subjects:
 - Plano de Afetação para as Energias Renováveis Offshore
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/174/2017/11/24/p/dre
+  target: pt:dre:114248654:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/174/2017/11/24/p/dre
 - type: cites

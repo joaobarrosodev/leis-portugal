@@ -95,6 +95,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/28f00c0f-0727-49b3-8f07-a16ffe0f07b4
   date: '1966-08-09'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31969R1191
   label: null

@@ -74,17 +74,9 @@ subjects:
 - Queixa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/2/1992/07/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/2/1992/07/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/4/1994/11/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/4/1994/11/04/p/dre
-- type: cites
   target: pt:dre:291843:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/2/1992/07/02/p/dre
 - type: cites
   target: pt:dre:348326:por
   label: null
@@ -100,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:535800:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/4/1994/11/04/p/dre
 - type: cites
   target: pt:dre:599729:por
   label: null

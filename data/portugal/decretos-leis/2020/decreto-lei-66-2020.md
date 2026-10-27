@@ -117,10 +117,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/910/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/332-b/2015/10/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/332-b/2015/10/05/p/dre
-- type: cites
   target: pt:dre:115524262:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/43/2018/06/18/p/dre
@@ -155,7 +151,7 @@ relationships:
 - type: cites
   target: pt:dre:70462191:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/332-b/2015/10/05/p/dre
 - type: cites
   target: pt:dre:70508969:por
   label: null

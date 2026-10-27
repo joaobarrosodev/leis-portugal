@@ -87,10 +87,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2014/24/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/d
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/d
-- type: cites
   target: pt:dre:114832287:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/2018/03/08/p/dre
@@ -117,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:164590045:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/d
 - type: cites
   target: pt:dre:176907481:por
   label: null

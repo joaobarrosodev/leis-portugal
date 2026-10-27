@@ -73,10 +73,6 @@ subjects:
 - Regulamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/73/1997/05/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/73/1997/05/08/p/dre
-- type: cites
   target: pt:dre:241193:por
   label: null
   source: http://data.dre.pt/eli/lei/25/1992/08/31/p/dre
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:383451:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/73/1997/05/08/p/dre
 - type: cites
   target: pt:dre:438067:por
   label: null

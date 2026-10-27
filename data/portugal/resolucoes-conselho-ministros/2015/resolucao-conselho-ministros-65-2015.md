@@ -95,17 +95,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/375/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/17/2014/03/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/17/2014/03/07/p/dre
-- type: cites
   target: pt:dre:543919:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/21/2012/01/30/p/dre
 - type: cites
   target: pt:dre:572415:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/17/2014/03/07/p/dre
 article_structure:
   article_count: 0
   section_count: 0

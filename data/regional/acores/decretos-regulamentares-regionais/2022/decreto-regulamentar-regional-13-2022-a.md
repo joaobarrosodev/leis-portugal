@@ -93,10 +93,6 @@ subjects:
 - Vice-presidente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declegreg/2/2022/02/01/a/dre
-  label: null
-  source: http://data.dre.pt/eli/declegreg/2/2022/02/01/a/dre
-- type: cites
   target: pt:dre:114661388:por
   label: null
   source: http://data.dre.pt/eli/lei/4/2018/02/09/p/dre
@@ -112,6 +108,10 @@ relationships:
   target: pt:dre:153107:por
   label: null
   source: http://data.dre.pt/eli/declegreg/20/2002/05/28/a/dre
+- type: cites
+  target: pt:dre:178478637:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2022/02/01/a/dre
 - type: cites
   target: pt:dre:438181:por
   label: null

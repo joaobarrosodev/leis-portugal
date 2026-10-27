@@ -89,10 +89,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-2009-494187
   date: '2009-05-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
-- type: cites
   target: pt:dre:223070:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/209/1994/08/06/p/dre
@@ -103,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:233957:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
 - type: cites
   target: pt:dre:235927:por
   label: null

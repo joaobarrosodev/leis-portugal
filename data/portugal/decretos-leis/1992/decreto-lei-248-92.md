@@ -84,10 +84,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1994-262836
   date: '1994-05-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
-- type: cites
   target: pt:dre:548210:por
   label: null
   source: null
@@ -98,7 +94,7 @@ relationships:
 - type: cites
   target: pt:dre:675257:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
 - type: corrected_by
   target: pt:dre:449956:por
   label: "Rectificada a epígrafe pela DECL-RECT.205/92.31.12.1992.PCM, DR.IS-A [301]8ºSupl de 31.12.1992\0\0"

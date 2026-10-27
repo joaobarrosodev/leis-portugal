@@ -144,6 +144,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/446b2d8f-4f90-4c19-94c3-e8f0947a2593
   date: '2007-01-31'
 - type: cited_by
+  target: pt:dre:122253266:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:170880299:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:214100367:por
   label: null
   source: null

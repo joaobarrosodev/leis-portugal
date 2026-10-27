@@ -80,17 +80,13 @@ subjects:
 - Viana do Castelo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/6/2000/02/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/6/2000/02/22/p/dre
-- type: cites
   target: pt:dre:209047:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/19/2003/02/03/p/dre
 - type: cites
   target: pt:dre:413635:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/6/2000/02/22/p/dre
 - type: cites
   target: pt:dre:570108:por
   label: null

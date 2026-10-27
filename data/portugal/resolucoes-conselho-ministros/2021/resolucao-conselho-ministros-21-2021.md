@@ -91,17 +91,13 @@ subjects:
 - Vinha
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/301/2020/12/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
-- type: cites
   target: pt:dre:136678483:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/28-a/2020/06/26/p/dre
 - type: cites
   target: pt:dre:152197939:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -94,13 +94,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/732-2005-888762
   date: '2005-06-02'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
-- type: cites
   target: pt:dre:150926:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
 - type: cites
   target: pt:dre:666362:por
   label: null

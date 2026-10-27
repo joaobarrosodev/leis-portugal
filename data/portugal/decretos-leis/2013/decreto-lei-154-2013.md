@@ -106,10 +106,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-b-2017-114337013
   date: '2017-12-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/51/2013/08/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/51/2013/08/08/p/dre
-- type: cites
   target: pt:dre:191514:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/239/2012/11/02/p/dre
@@ -125,6 +121,10 @@ relationships:
   target: pt:dre:498122:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/96/2013/07/19/p/dre
+- type: cites
+  target: pt:dre:499185:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/51/2013/08/08/p/dre
 - type: cites
   target: pt:dre:531828:por
   label: null

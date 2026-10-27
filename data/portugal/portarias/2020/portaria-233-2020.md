@@ -89,13 +89,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2020-147101681
   date: '2020-10-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/41/2017/01/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/41/2017/01/27/p/dre
-- type: cites
   target: pt:dre:105637672:por
   label: null
   source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: pt:dre:105820581:por
+  label: null
+  source: http://data.dre.pt/eli/port/41/2017/01/27/p/dre
 - type: cites
   target: pt:dre:175361:por
   label: null

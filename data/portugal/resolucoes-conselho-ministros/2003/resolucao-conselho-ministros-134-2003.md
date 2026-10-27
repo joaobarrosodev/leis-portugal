@@ -78,21 +78,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2001/01/08/p/dre
+  target: pt:dre:239187:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2001/01/08/p/dre
 - type: cites
-  target: pt:dre:239187:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:451783:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
 - type: repealed_by
   target: pt:dre:545635:por
   label: "Revogada a Res 3/2001 de 08-Jan, alterada pelo presente diploma, pela RES.143/2006.12.10.2006.PCM, DR.IS [209] de\

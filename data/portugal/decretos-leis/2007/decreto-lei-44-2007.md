@@ -91,13 +91,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2009-493010
   date: '2009-08-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
-- type: cites
   target: pt:dre:233957:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
 - type: cites
   target: pt:dre:332425:por
   label: null

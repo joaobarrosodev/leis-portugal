@@ -91,17 +91,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2008-248501
   date: '2008-01-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/6/2000/02/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/6/2000/02/22/p/dre
-- type: cites
   target: pt:dre:332183:por
   label: null
   source: null
 - type: cites
   target: pt:dre:413635:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/6/2000/02/22/p/dre
 - type: cites
   target: pt:dre:570108:por
   label: null

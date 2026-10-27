@@ -94,17 +94,13 @@ subjects:
 - Vida Selvagem
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/86/2018/03/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/86/2018/03/27/p/dre
-- type: cites
   target: pt:dre:114457664:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/2/2018/01/05/p/dre
 - type: cites
   target: pt:dre:114913772:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/86/2018/03/27/p/dre
 - type: cites
   target: pt:dre:114937034:por
   label: null

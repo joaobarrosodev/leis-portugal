@@ -163,10 +163,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/1150/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/327/2015/10/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/327/2015/10/02/p/dre
-- type: cites
   target: pt:dre:453499:por
   label: null
   source: http://data.dre.pt/eli/port/983/2008/09/02/p/dre
@@ -178,6 +174,10 @@ relationships:
   target: pt:dre:670041:por
   label: null
   source: http://data.dre.pt/eli/port/227/2011/06/08/p/dre
+- type: cites
+  target: pt:dre:70427491:por
+  label: null
+  source: http://data.dre.pt/eli/port/327/2015/10/02/p/dre
 - type: cites
   target: pt:dre:72909765:por
   label: null

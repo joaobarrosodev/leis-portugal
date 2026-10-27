@@ -77,17 +77,13 @@ subjects:
 - Publicitação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
-- type: cites
   target: pt:dre:172277:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/188/2002/08/21/p/dre
 - type: cites
   target: pt:dre:197496:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
 - type: cites
   target: pt:dre:585182:por
   label: null

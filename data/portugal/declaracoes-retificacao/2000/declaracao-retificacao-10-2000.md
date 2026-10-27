@@ -81,25 +81,13 @@ subjects:
 - Tribunal de Contas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/1/1999/02/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/1/1999/02/13/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/3/1998/05/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/3/1998/05/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/3/1999/07/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/3/1999/07/10/p/dre
-- type: cites
   target: pt:dre:1408978:por
   label: null
   source: null
 - type: cites
   target: pt:dre:171108:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/1/1999/02/13/p/dre
 - type: cites
   target: pt:dre:193663:por
   label: null
@@ -107,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:375448:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/3/1999/07/10/p/dre
 - type: cites
   target: pt:dre:392382:por
   label: null
@@ -119,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:516745:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/3/1998/05/12/p/dre
 - type: cites
   target: pt:dre:570508:por
   label: null

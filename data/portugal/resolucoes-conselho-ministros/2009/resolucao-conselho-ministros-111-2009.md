@@ -73,17 +73,13 @@ subjects:
 - Instituto de Gestão da Tesouraria e do Crédito Público
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157/2006/11/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157/2006/11/27/p/dre
-- type: cites
   target: pt:dre:223628:por
   label: null
   source: http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
 - type: cites
   target: pt:dre:544997:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/157/2006/11/27/p/dre
 - type: cites
   target: pt:dre:570520:por
   label: null

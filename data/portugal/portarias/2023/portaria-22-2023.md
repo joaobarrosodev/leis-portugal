@@ -82,10 +82,6 @@ subjects:
 - Unidade Local de Saúde
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/264/2021/11/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/264/2021/11/24/p/dre
-- type: cites
   target: pt:dre:107669157:por
   label: null
   source: http://data.dre.pt/eli/port/207/2017/07/11/p/dre
@@ -104,7 +100,7 @@ relationships:
 - type: cites
   target: pt:dre:174824636:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/264/2021/11/24/p/dre
 - type: cites
   target: pt:dre:183159328:por
   label: null

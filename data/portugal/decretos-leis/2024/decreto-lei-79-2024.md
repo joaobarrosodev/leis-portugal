@@ -78,10 +78,6 @@ relationships:
   source: null
   date: '2002-05-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/17-b/2015/01/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/17-b/2015/01/30/p/dre
-- type: cites
   target: pt:dre:223628:por
   label: null
   source: http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
@@ -120,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:66384016:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/17-b/2015/01/30/p/dre
 article_structure:
   article_count: 43
   section_count: 4

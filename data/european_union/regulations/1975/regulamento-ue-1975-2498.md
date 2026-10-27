@@ -103,6 +103,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/88c06a27-9606-4c44-956d-9a4b33cdb99e
   date: '1972-05-20'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31969R0542
   label: null

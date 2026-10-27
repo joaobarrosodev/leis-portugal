@@ -73,10 +73,6 @@ subjects:
 - Universidade do Minho
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
-- type: cites
   target: pt:dre:1035169:por
   label: null
   source: null
@@ -91,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:175923959:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

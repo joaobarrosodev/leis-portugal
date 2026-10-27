@@ -100,11 +100,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/389-1999-316920
   date: '1999-05-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/8/1999/02/09/p/dre
+  target: pt:dre:169466:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/1999/02/09/p/dre
 - type: cites
@@ -115,6 +111,10 @@ relationships:
   target: pt:dre:422852:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/104/1996/07/09/p/dre
+- type: cites
+  target: pt:dre:516911:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
 article_structure:
   article_count: 0
   section_count: 7

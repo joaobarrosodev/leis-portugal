@@ -86,13 +86,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/13-2010-617077
   date: '2010-02-09'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/19/2008/02/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/19/2008/02/04/p/dre
-- type: cites
   target: pt:dre:248198:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/19/2008/02/04/p/dre
 - type: cites
   target: pt:dre:521257:por
   label: null

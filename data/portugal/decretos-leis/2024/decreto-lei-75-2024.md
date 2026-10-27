@@ -139,13 +139,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2018/1139/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/109/2017/03/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/109/2017/03/15/p/dre
-- type: cites
   target: pt:dre:106607299:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/109/2017/03/15/p/dre
 - type: cites
   target: pt:dre:144454620:por
   label: null

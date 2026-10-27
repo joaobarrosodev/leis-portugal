@@ -78,17 +78,9 @@ subjects:
 - Venda Directa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/57-b/2010/08/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/57-b/2010/08/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/80/2010/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/80/2010/10/12/p/dre
-- type: cites
   target: pt:dre:185484:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/57-b/2010/08/16/p/dre
 - type: cites
   target: pt:dre:330383:por
   label: null
@@ -100,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:342813:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/80/2010/10/12/p/dre
 - type: cites
   target: pt:dre:396877:por
   label: null

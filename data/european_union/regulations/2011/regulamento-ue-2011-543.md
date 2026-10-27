@@ -428,6 +428,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:73566367:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:73807561:por
   label: null
   source: null

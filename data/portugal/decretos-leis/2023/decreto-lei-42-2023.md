@@ -81,17 +81,13 @@ subjects:
 - Reestruturação de Serviços
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
-- type: cites
   target: pt:dre:143741480:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/2020/09/25/p/dre
 - type: cites
   target: pt:dre:262302:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
 - type: cites
   target: pt:dre:480709:por
   label: null

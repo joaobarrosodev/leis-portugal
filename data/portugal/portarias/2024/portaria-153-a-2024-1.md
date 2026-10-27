@@ -110,10 +110,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2023/2831/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/302/2019/09/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/302/2019/09/12/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2019/786/oj
   label: null
   source: http://data.europa.eu/eli/reco/2019/786/oj
@@ -124,7 +120,7 @@ relationships:
 - type: cites
   target: pt:dre:124642991:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/302/2019/09/12/p/dre
 - type: cites
   target: pt:dre:150570704:por
   label: null

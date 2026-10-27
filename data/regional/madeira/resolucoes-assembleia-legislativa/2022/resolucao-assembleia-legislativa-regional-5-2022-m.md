@@ -77,18 +77,6 @@ subjects:
 - Programa Regressar
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/23/2021/01/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/23/2021/01/28/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/36-a/2020/02/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/36-a/2020/02/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/373/2019/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/373/2019/10/15/p/dre
-- type: cites
   target: pt:dre:121665680:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/2019/03/28/p/dre
@@ -99,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:125290656:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/373/2019/10/15/p/dre
 - type: cites
   target: pt:dre:128366524:por
   label: null
@@ -107,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:128832423:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/36-a/2020/02/03/p/dre
 - type: cites
   target: pt:dre:152639810:por
   label: null
@@ -115,7 +103,7 @@ relationships:
 - type: cites
   target: pt:dre:155601285:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/23/2021/01/28/p/dre
 article_structure:
   article_count: 0
   section_count: 0

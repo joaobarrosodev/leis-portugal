@@ -118,13 +118,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2014/94/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/14/2017/01/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/14/2017/01/10/p/dre
-- type: cites
   target: pt:dre:105711791:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/6/2017/01/06/p/dre
+- type: cites
+  target: pt:dre:105711865:por
+  label: null
+  source: http://data.dre.pt/eli/port/14/2017/01/10/p/dre
 article_structure:
   article_count: 0
   section_count: 2

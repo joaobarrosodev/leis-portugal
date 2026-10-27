@@ -74,7 +74,7 @@ subjects:
 - Taxa de Alcoolemia
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/jurisprud/6/2002/07/18/p/dre
+  target: pt:dre:206661:por
   label: null
   source: http://data.dre.pt/eli/jurisprud/6/2002/07/18/p/dre
 article_structure:

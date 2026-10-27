@@ -80,17 +80,9 @@ subjects:
 - Orgânica
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/70/2016/11/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/70/2016/11/22/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
-- type: cites
   target: pt:dre:105283924:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
 - type: cites
   target: pt:dre:145192:por
   label: null
@@ -106,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:75784201:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/70/2016/11/22/p/dre
 article_structure:
   article_count: 4
   section_count: 0

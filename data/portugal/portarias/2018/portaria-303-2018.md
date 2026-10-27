@@ -101,27 +101,23 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2018-117343947
   date: '2018-12-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/184/2017/05/
-  label: null
-  source: http://data.dre.pt/eli/port/184/2017/05/
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/301-b/2016/11/30/p/dre
+  target: pt:dre:105283971:por
   label: null
   source: http://data.dre.pt/eli/port/301-b/2016/11/30/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/303-a/2016/12/05/p/dre
+  target: pt:dre:105315488:por
   label: null
   source: http://data.dre.pt/eli/port/303-a/2016/12/05/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/36/2017/01/23/p/dre
+  target: pt:dre:105791088:por
   label: null
   source: http://data.dre.pt/eli/port/36/2017/01/23/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/46/2018/02/12/p/dre
+  target: pt:dre:107106265:por
+  label: null
+  source: http://data.dre.pt/eli/port/184/2017/05/
+- type: cites
+  target: pt:dre:114682828:por
   label: null
   source: http://data.dre.pt/eli/port/46/2018/02/12/p/dre
 - type: cites
@@ -140,6 +136,10 @@ relationships:
   target: pt:dre:70462181:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+- type: cites
+  target: pt:dre:75341997:por
+  label: null
+  source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
 article_structure:
   article_count: 23
   section_count: 0

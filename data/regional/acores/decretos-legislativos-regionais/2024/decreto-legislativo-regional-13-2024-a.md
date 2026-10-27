@@ -97,10 +97,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2025-907097152
   date: '2025-02-12'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/4/2013/01/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/4/2013/01/18/p/dre
-- type: cites
   target: pt:dre:107458721:por
   label: null
   source: http://data.dre.pt/eli/lei/38/2017/06/02/p/dre
@@ -124,6 +120,10 @@ relationships:
   target: pt:dre:257040:por
   label: null
   source: http://data.dre.pt/eli/declretif/3/2013/01/18/p/dre
+- type: cites
+  target: pt:dre:257041:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/4/2013/01/18/p/dre
 - type: cites
   target: pt:dre:493012:por
   label: null

@@ -110,7 +110,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/2018/576/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/119/2019/04/22/p/dre
+  target: pt:dre:122145254:por
   label: null
   source: http://data.dre.pt/eli/port/119/2019/04/22/p/dre
 - type: cites

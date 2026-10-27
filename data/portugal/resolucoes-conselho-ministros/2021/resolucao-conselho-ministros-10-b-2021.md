@@ -78,21 +78,13 @@ subjects:
 - Televisão Digital Terrestre
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/2/2021/01/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/2/2021/01/05/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/37-c/2016/07/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/37-c/2016/07/08/p/dre
-- type: cites
   target: pt:dre:138461849:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53-d/2020/07/20/p/dre
 - type: cites
   target: pt:dre:152850635:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/2/2021/01/05/p/dre
 - type: cites
   target: pt:dre:154946853:por
   label: null
@@ -104,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:74903652:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/37-c/2016/07/08/p/dre
 article_structure:
   article_count: 0
   section_count: 0

@@ -78,10 +78,6 @@ subjects:
 - Programa Quadro Solidariedade e Gestão dos Fluxos Migratorios
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/75/2008/05/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/75/2008/05/08/p/dre
-- type: cites
   target: pt:dre:243747:por
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:249796:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/75/2008/05/08/p/dre
 - type: cites
   target: pt:dre:249865:por
   label: null

@@ -74,13 +74,9 @@ subjects:
 - SGPS
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/6/2003/01/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/6/2003/01/22/p/dre
-- type: cites
   target: pt:dre:172949:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/6/2003/01/22/p/dre
 - type: cites
   target: pt:dre:538622:por
   label: null

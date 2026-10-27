@@ -194,7 +194,39 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114515398:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114944613:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114952498:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:122074197:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:122279884:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:123328900:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:123328902:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:123436959:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:123513822:por
   label: null
   source: null
 - type: cited_by
@@ -207,6 +239,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:143067758:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:178714900:por
   label: null
   source: null
 - type: cited_by

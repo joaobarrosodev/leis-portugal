@@ -440,6 +440,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:107693728:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1082906724:por
   label: null
   source: null
@@ -448,7 +452,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:115172418:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:117343944:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:118562586:por
   label: null
   source: null
 - type: cited_by
@@ -489,6 +501,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:167904904:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:174696543:por
   label: null
   source: null
 - type: cited_by

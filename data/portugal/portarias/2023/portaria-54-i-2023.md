@@ -159,13 +159,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/2116/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/123/2021/06/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/123/2021/06/18/p/dre
-- type: cites
   target: pt:dre:124539914:por
   label: null
   source: http://data.dre.pt/eli/port/298/2019/09/09/p/dre
+- type: cites
+  target: pt:dre:165346915:por
+  label: null
+  source: http://data.dre.pt/eli/port/123/2021/06/18/p/dre
 - type: cites
   target: pt:dre:207760041:por
   label: null

@@ -74,10 +74,6 @@ subjects:
 - Zona de Proteção
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/50/2005/03/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/50/2005/03/02/p/dre
-- type: cites
   target: pt:dre:383996:por
   label: null
   source: null
@@ -108,7 +104,7 @@ relationships:
 - type: cites
   target: pt:dre:584190:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/50/2005/03/02/p/dre
 - type: cites
   target: pt:dre:608175:por
   label: null

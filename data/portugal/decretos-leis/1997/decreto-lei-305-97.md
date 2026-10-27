@@ -87,13 +87,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/445/1993/08/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/445/1993/08/13/p/dre
-- type: cites
   target: pt:dre:356104:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/445/1993/08/13/p/dre
 - type: cites
   target: pt:dre:369816:por
   label: null

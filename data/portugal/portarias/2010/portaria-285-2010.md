@@ -97,17 +97,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/886-2010-341577
   date: '2010-09-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/112/2009/11/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/112/2009/11/26/p/dre
-- type: cites
   target: pt:dre:426483:por
   label: null
   source: http://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre
 - type: cites
   target: pt:dre:482601:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/112/2009/11/26/p/dre
 - type: cites
   target: pt:dre:534598:por
   label: null

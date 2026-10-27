@@ -91,25 +91,17 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/1139/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/120/2021/09/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/120/2021/09/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-- type: cites
   target: pt:dre:143527213:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre
 - type: cites
   target: pt:dre:164590045:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
 - type: cites
   target: pt:dre:170591677:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/120/2021/09/01/p/dre
 - type: cites
   target: pt:dre:352173:por
   label: null

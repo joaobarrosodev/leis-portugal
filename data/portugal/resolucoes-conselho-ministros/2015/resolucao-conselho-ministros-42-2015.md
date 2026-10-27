@@ -107,10 +107,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/2009/992/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
-- type: cites
   target: pt:dre:146274:por
   label: null
   source: null
@@ -157,7 +153,7 @@ relationships:
 - type: cites
   target: pt:dre:543701:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
 - type: cites
   target: pt:dre:66997036:por
   label: null

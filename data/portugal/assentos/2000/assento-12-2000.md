@@ -73,17 +73,9 @@ subjects:
 - Prescrição
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/1/1998/01/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/1/1998/01/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/ac/1/1999/02/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/1/1999/02/13/p/dre
-- type: cites
   target: pt:dre:171108:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/1/1999/02/13/p/dre
 - type: cites
   target: pt:dre:185720:por
   label: null
@@ -91,7 +83,7 @@ relationships:
 - type: cites
   target: pt:dre:223836:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/1/1998/01/03/p/dre
 - type: cites
   target: pt:dre:286362:por
   label: null

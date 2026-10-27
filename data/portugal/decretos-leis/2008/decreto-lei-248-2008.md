@@ -83,13 +83,9 @@ subjects:
 - Países de Língua Portuguesa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-- type: cites
   target: pt:dre:464205:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
 article_structure:
   article_count: 9
   section_count: 0

@@ -129,10 +129,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2020-145440390
   date: '2020-10-15'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-- type: cites
   target: pt:dre:223469:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/1995/04/22/p/dre
@@ -160,6 +156,10 @@ relationships:
   target: pt:dre:544783:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/226/2006/11/15/p/dre
+- type: cites
+  target: pt:dre:545593:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
 - type: cites
   target: pt:dre:629449:por
   label: null

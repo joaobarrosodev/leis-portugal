@@ -81,17 +81,9 @@ relationships:
   source: null
   date: '2024-06-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/190/2017/06/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/190/2017/06/09/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/229-a/2015/08/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/229-a/2015/08/03/p/dre
-- type: cites
   target: pt:dre:107495702:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/190/2017/06/09/p/dre
 - type: cites
   target: pt:dre:484137:por
   label: null
@@ -107,7 +99,7 @@ relationships:
 - type: cites
   target: pt:dre:69933711:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/229-a/2015/08/03/p/dre
 - type: cites
   target: pt:dre:869623319:por
   label: null

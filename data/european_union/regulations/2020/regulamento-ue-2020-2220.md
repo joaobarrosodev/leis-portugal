@@ -163,11 +163,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:160510574:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:162025489:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:164321574:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:174824637:por
   label: null
   source: null
 - type: cited_by

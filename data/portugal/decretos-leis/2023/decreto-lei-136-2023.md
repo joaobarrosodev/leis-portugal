@@ -72,13 +72,9 @@ subjects:
 - Programa de Alargamento da Rede de Equipamentos Sociais
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
-- type: cites
   target: pt:dre:176907514:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
 - type: cites
   target: pt:dre:518425:por
   label: null

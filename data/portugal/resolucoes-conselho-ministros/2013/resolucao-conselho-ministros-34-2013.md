@@ -83,21 +83,13 @@ subjects:
 - Sistema de Informação
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/12/2013/03/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/12/2013/03/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2013/01/16/p/dre
+  target: pt:dre:256587:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2013/01/16/p/dre
 - type: cites
-  target: pt:dre:256587:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:258745:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2013/03/06/p/dre
 - type: cites
   target: pt:dre:373798:por
   label: null

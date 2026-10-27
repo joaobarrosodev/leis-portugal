@@ -78,21 +78,13 @@ subjects:
 - Ministro da Administração Interna
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/105/2021/05/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/105/2021/05/25/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/67/2015/03/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/67/2015/03/09/p/dre
-- type: cites
   target: pt:dre:151323162:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/111/2020/12/17/p/dre
 - type: cites
   target: pt:dre:163994095:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/105/2021/05/25/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null
@@ -124,7 +116,7 @@ relationships:
 - type: cites
   target: pt:dre:66689604:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/67/2015/03/09/p/dre
 article_structure:
   article_count: 0
   section_count: 0

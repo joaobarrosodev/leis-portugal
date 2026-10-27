@@ -104,6 +104,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/dac7b9d9-a3b3-448d-9747-18f842cbe930
   date: '1972-04-23'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 22

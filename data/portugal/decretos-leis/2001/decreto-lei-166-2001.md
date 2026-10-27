@@ -79,25 +79,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/52-a/1995/06/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/52-a/1995/06/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/71/2000/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/71/2000/07/01/p/dre
-- type: cites
   target: pt:dre:174312:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/1995/03/31/p/dre
 - type: cites
   target: pt:dre:301591:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/71/2000/07/01/p/dre
 - type: cites
   target: pt:dre:332183:por
   label: null
@@ -113,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:469202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
 - type: cites
   target: pt:dre:621113:por
   label: null
@@ -125,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:655339:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/52-a/1995/06/02/p/dre
 - type: repealed_by
   target: pt:dre:176529:por
   label: "Revogado pelo DEC LEI.6/2003.2003.01.15.MECO DR.IS-A [12]\0\0"

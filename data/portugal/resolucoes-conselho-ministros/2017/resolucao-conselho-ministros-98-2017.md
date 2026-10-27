@@ -102,13 +102,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2022-178264013
   date: '2022-01-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/89/2012/10/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/89/2012/10/29/p/dre
-- type: cites
   target: pt:dre:178845:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:192590:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/89/2012/10/29/p/dre
 - type: cites
   target: pt:dre:248178:por
   label: null

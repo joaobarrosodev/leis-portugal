@@ -74,10 +74,6 @@ subjects:
 - Trabalhador das Instituições de Previdência
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/641/1995/12/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/641/1995/12/26/p/dre
-- type: cites
   target: pt:dre:157052:por
   label: null
   source: null
@@ -160,7 +156,7 @@ relationships:
 - type: cites
   target: pt:dre:642914:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/641/1995/12/26/p/dre
 - type: cites
   target: pt:dre:654496:por
   label: null

@@ -120,17 +120,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2021-168697991
   date: '2021-07-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/142-a/1998/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/142-a/1998/12/15/p/dre
-- type: cites
   target: pt:dre:188948:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/33/2003/02/24/p/dre
 - type: cites
   target: pt:dre:218948:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/142-a/1998/12/15/p/dre
 - type: cites
   target: pt:dre:218957:por
   label: null

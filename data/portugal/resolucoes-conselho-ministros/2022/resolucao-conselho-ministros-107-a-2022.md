@@ -75,14 +75,6 @@ subjects:
 - Venda Directa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/128/2021/09/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/128/2021/09/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2022/02/25/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/2022/02/25/p/dre
-- type: cites
   target: pt:dre:137126910:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/33-a/2020/07/02/p/dre
@@ -97,11 +89,11 @@ relationships:
 - type: cites
   target: pt:dre:170934685:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/128/2021/09/08/p/dre
 - type: cites
   target: pt:dre:179671636:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2022/02/25/p/dre
 - type: cites
   target: pt:dre:332183:por
   label: null

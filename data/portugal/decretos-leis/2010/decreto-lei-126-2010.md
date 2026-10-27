@@ -76,10 +76,6 @@ subjects:
 - Recursos Hídricos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-- type: cites
   target: pt:dre:248178:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -110,7 +106,7 @@ relationships:
 - type: cites
   target: pt:dre:613675:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
 - type: cites
   target: pt:dre:636750:por
   label: null

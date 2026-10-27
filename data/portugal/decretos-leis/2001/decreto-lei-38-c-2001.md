@@ -83,13 +83,9 @@ subjects:
 - Obras Públicas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/11-a/2001/02/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/11-a/2001/02/07/p/dre
-- type: cites
   target: pt:dre:417450:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/11-a/2001/02/07/p/dre
 - type: cites
   target: pt:dre:549393:por
   label: null

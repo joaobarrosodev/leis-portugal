@@ -91,7 +91,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-a-2012-194660
   date: '2012-08-01'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
+  target: pt:dre:553946:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
 - type: cites

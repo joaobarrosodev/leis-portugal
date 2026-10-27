@@ -119,7 +119,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308
   date: '2023-08-22'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2011/01/12/p/dre
+  target: pt:dre:485641:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2011/01/12/p/dre
 - type: cites

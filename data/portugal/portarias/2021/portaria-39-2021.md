@@ -95,15 +95,15 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2021-159539835
   date: '2021-03-16'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/17/2017/01/11/p/dre
+  target: pt:dre:105746096:por
   label: null
   source: http://data.dre.pt/eli/port/17/2017/01/11/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/269/2018/09/26/p/dre
+  target: pt:dre:116508077:por
   label: null
   source: http://data.dre.pt/eli/port/269/2018/09/26/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/40/2020/02/06/p/dre
+  target: pt:dre:128907751:por
   label: null
   source: http://data.dre.pt/eli/port/40/2020/02/06/p/dre
 - type: cites

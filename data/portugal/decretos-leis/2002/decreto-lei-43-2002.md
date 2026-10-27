@@ -92,10 +92,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689
   date: '2009-09-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/39/2001/04/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/39/2001/04/09/p/dre
-- type: cites
   target: pt:dre:198907:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/185/1996/11/28/p/dre
@@ -103,6 +99,10 @@ relationships:
   target: pt:dre:223469:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/1995/04/22/p/dre
+- type: cites
+  target: pt:dre:354544:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/39/2001/04/09/p/dre
 - type: cites
   target: pt:dre:485026:por
   label: null

@@ -79,10 +79,6 @@ subjects:
 - Turismo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/43/1995/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/43/1995/05/04/p/dre
-- type: cites
   target: pt:dre:142171:por
   label: null
   source: null
@@ -93,7 +89,7 @@ relationships:
 - type: cites
   target: pt:dre:512980:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/43/1995/05/04/p/dre
 - type: cites
   target: pt:dre:531411:por
   label: null

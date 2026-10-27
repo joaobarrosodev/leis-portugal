@@ -85,10 +85,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1098-2020-128473353
   date: '2020-01-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/140/1999/11/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/140/1999/11/05/p/dre
-- type: cites
   target: pt:dre:175805:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
@@ -115,7 +111,7 @@ relationships:
 - type: cites
   target: pt:dre:693826:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/140/1999/11/05/p/dre
 article_structure:
   article_count: 3
   section_count: 0

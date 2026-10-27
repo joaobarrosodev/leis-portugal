@@ -124,10 +124,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692
   date: '2023-10-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/120/2021/06/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/120/2021/06/08/p/dre
-- type: cites
   target: pt:dre:122349220:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/66/2019/05/21/p/dre
@@ -143,6 +139,10 @@ relationships:
   target: pt:dre:140087205:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/2020/08/12/p/dre
+- type: cites
+  target: pt:dre:164798793:por
+  label: null
+  source: http://data.dre.pt/eli/port/120/2021/06/08/p/dre
 - type: cites
   target: pt:dre:274242:por
   label: null

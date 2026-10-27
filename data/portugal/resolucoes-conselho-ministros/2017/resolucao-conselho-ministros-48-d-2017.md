@@ -81,21 +81,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33/2009/04/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33/2009/04/22/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/86/2006/07/12/p/dre
+  target: pt:dre:537246:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/86/2006/07/12/p/dre
 - type: cites
-  target: pt:dre:537246:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:604240:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33/2009/04/22/p/dre
 - type: repealed_by
   target: pt:dre:935098429:por
   label: Revogada, a partir de 01 de outubro de 2025, a presente resolução, pelo(a) Decreto-Lei n.º 105/2025 - Diário da República

@@ -180,6 +180,10 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:122279883:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:204379871:por
   label: null
   source: null
@@ -189,6 +193,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:66372276:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:66558696:por
   label: null
   source: null
 article_structure:

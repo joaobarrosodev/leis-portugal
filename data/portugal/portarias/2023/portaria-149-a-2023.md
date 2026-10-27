@@ -82,13 +82,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/11797-2024-889940193
   date: '2024-10-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/329-a/2017/10/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/329-a/2017/10/30/p/dre
-- type: cites
   target: pt:dre:114127379:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/329-a/2017/10/30/p/dre
 - type: cites
   target: pt:dre:370864:por
   label: null

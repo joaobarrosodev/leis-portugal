@@ -93,10 +93,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-2026-1135578396
   date: '2026-06-23'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
-- type: cites
   target: pt:dre:115360036:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/2018/05/21/p/dre
@@ -108,6 +104,10 @@ relationships:
   target: pt:dre:148444002:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:170514954:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
 - type: cites
   target: pt:dre:176714553:por
   label: null

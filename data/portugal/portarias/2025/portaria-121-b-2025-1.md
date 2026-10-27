@@ -80,29 +80,17 @@ relationships:
   source: null
   date: '2015-03-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/144/2017/04/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/144/2017/04/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/39/2017/01/26/p/dre
+  target: pt:dre:105808929:por
   label: null
   source: http://data.dre.pt/eli/port/39/2017/01/26/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/83/2020/04/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/83/2020/04/01/p/dre
-- type: cites
-  target: pt:dre:105808929:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:106923197:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/144/2017/04/24/p/dre
 - type: cites
   target: pt:dre:130954976:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/83/2020/04/01/p/dre
 - type: cites
   target: pt:dre:553917:por
   label: null

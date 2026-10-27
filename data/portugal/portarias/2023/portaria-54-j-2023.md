@@ -162,10 +162,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2022/1475/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/108/2022/03/
-  label: null
-  source: http://data.dre.pt/eli/port/108/2022/03/
-- type: cites
   target: pt:dre:114099655:por
   label: null
   source: http://data.dre.pt/eli/port/323/2017/10/26/p/dre
@@ -173,6 +169,10 @@ relationships:
   target: pt:dre:120672708:por
   label: null
   source: http://data.dre.pt/eli/port/73/2019/03/07/p/dre
+- type: cites
+  target: pt:dre:180122112:por
+  label: null
+  source: http://data.dre.pt/eli/port/108/2022/03/
 - type: cites
   target: pt:dre:206478423:por
   label: null

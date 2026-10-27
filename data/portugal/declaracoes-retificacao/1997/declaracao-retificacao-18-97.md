@@ -79,7 +79,7 @@ subjects:
 - Títulos de Crédito
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/13/1997/06/18/p/dre
+  target: pt:dre:366181:por
   label: null
   source: http://data.dre.pt/eli/ac/13/1997/06/18/p/dre
 article_structure:

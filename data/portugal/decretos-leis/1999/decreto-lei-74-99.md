@@ -165,13 +165,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
   date: '2009-07-13'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
-- type: cites
   target: pt:dre:150926:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
 - type: cites
   target: pt:dre:518992:por
   label: null

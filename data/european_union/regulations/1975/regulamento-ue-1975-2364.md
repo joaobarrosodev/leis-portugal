@@ -107,6 +107,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/fb32e913-c349-4410-8ac7-44a530a55d03
   date: '1975-03-21'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

@@ -111,21 +111,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2022/890/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/31/2019/01/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/31/2019/01/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/331-d/2021/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/331-d/2021/12/31/p/dre
-- type: cites
   target: pt:dre:107725088:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/84/2017/07/21/p/dre
 - type: cites
   target: pt:dre:118406929:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/31/2019/01/24/p/dre
 - type: cites
   target: pt:dre:174543:por
   label: null
@@ -137,7 +129,7 @@ relationships:
 - type: cites
   target: pt:dre:176908209:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/331-d/2021/12/31/p/dre
 - type: cites
   target: pt:dre:177634016:por
   label: null

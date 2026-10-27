@@ -83,13 +83,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-2005-143330
   date: '2005-09-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
-- type: cites
   target: pt:dre:233957:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
 - type: cites
   target: pt:dre:322722:por
   label: null

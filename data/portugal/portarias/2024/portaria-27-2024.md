@@ -79,10 +79,6 @@ relationships:
   source: null
   date: '2012-01-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/231/2015/08/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/231/2015/08/06/p/dre
-- type: cites
   target: pt:dre:200907658:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2022/09/13/p/dre
@@ -105,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:69956140:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/231/2015/08/06/p/dre
 article_structure:
   article_count: 34
   section_count: 10

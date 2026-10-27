@@ -85,10 +85,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1459-2013-1857258
   date: '2013-01-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
-- type: cites
   target: pt:dre:243747:por
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
@@ -99,7 +95,7 @@ relationships:
 - type: cites
   target: pt:dre:247435:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
 - type: cites
   target: pt:dre:247991:por
   label: null

@@ -340,6 +340,26 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:124642995:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:131193444:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:136473330:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:149707142:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:166658187:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:187004276:por
   label: null
   source: null

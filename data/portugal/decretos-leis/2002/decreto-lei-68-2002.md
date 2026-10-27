@@ -75,17 +75,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/154/2001/10/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/154/2001/10/19/p/dre
-- type: cites
   target: pt:dre:374244:por
   label: null
   source: null
 - type: cites
   target: pt:dre:584617:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/154/2001/10/19/p/dre
 - type: repealed_by
   target: pt:dre:279427:por
   label: Revogado, a partir de 22.04.2011, pelo DEC LEI.34/2011.08.03.2011.MEID, DR.IS [47] de 08.03.2011, e sem prejuízo

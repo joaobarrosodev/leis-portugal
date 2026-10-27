@@ -74,17 +74,13 @@ subjects:
 - Serviço Nacional de Protecção Civil
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/9/1991/03/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/9/1991/03/21/p/dre
-- type: cites
   target: pt:dre:421388:por
   label: null
   source: null
 - type: cites
   target: pt:dre:471281:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/9/1991/03/21/p/dre
 - type: cites
   target: pt:dre:547018:por
   label: null

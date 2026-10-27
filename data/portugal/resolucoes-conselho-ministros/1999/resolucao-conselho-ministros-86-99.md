@@ -81,10 +81,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/170-2004-534651
   date: '2004-11-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/25/1994/04/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/25/1994/04/29/p/dre
-- type: cites
   target: pt:dre:164053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:302533:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/25/1994/04/29/p/dre
 - type: cites
   target: pt:dre:329816:por
   label: null

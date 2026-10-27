@@ -87,17 +87,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7430-2017-107617677
   date: '2017-07-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
-- type: cites
   target: pt:dre:222033:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
 - type: cites
   target: pt:dre:251620:por
   label: null
@@ -113,7 +105,7 @@ relationships:
 - type: cites
   target: pt:dre:431992:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

@@ -79,17 +79,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
-- type: cites
   target: pt:dre:432175:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/2002/10/22/p/dre
 - type: cites
   target: pt:dre:451783:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
 - type: cites
   target: pt:dre:660951:por
   label: null

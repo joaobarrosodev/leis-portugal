@@ -131,10 +131,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/187-2021-170880299
   date: '2021-09-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
-- type: cites
   target: pt:dre:116895169:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
@@ -146,6 +142,10 @@ relationships:
   target: pt:dre:130243053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+- type: cites
+  target: pt:dre:130243054:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/10-a/2020/03/13/p/dre
 - type: cites
   target: pt:dre:130399862:por
   label: null

@@ -102,6 +102,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/60780eb3-8bee-436f-8033-04341a614bc1
   date: '1967-06-26'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0

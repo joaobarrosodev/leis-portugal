@@ -76,13 +76,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/1998/03/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/1998/03/30/p/dre
-- type: cites
   target: pt:dre:198677:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/46/1998/03/30/p/dre
 - type: repealed_by
   target: pt:dre:481158:por
   label: "Revogado pelo DEC LEI.1/2003.2003.01.06.MS,DR.IS-A [4]\0\0"

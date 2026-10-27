@@ -132,10 +132,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2016-74502681
   date: '2016-05-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
-- type: cites
   target: pt:dre:178530:por
   label: null
   source: http://data.dre.pt/eli/declegreg/12/2012/07/02/m/dre
@@ -143,6 +139,10 @@ relationships:
   target: pt:dre:25676932:por
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
 - type: cites
   target: pt:dre:629666:por
   label: null

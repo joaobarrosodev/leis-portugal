@@ -75,18 +75,6 @@ subjects:
 - Renovação Urbana
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104/2003/08/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104/2003/08/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2004/03/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2004/03/03/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-- type: cites
   target: pt:dre:301786:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/104/2004/05/07/p/dre
@@ -97,15 +85,15 @@ relationships:
 - type: cites
   target: pt:dre:551776:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2004/03/03/p/dre
 - type: cites
   target: pt:dre:609283:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
 - type: cites
   target: pt:dre:647111:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/104/2003/08/08/p/dre
 article_structure:
   article_count: 2
   section_count: 0

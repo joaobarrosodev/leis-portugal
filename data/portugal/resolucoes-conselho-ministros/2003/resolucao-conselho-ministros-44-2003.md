@@ -75,10 +75,6 @@ subjects:
 - Sintra
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/116/1999/10/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/116/1999/10/04/p/dre
-- type: cites
   target: pt:dre:274224:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
@@ -101,7 +97,7 @@ relationships:
 - type: cites
   target: pt:dre:672612:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/116/1999/10/04/p/dre
 article_structure:
   article_count: 21
   section_count: 7

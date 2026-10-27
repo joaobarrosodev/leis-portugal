@@ -95,13 +95,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2000-580978
   date: '2000-09-01'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/2/1997/01/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/2/1997/01/10/p/dre
-- type: cites
   target: pt:dre:301673:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/2/1997/01/10/p/dre
 article_structure:
   article_count: 4
   section_count: 0

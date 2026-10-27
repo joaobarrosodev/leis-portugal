@@ -144,26 +144,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2019/904/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/11-c/2015/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/11-c/2015/03/16/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/183/2021/12/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/183/2021/12/28/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/46/2018/04/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/46/2018/04/27/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reg/20
   label: null
   source: http://data.europa.eu/eli/reg/20
@@ -174,7 +154,7 @@ relationships:
 - type: cites
   target: pt:dre:107669156:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/100/2017/07/11/p/dre
 - type: cites
   target: pt:dre:107797867:por
   label: null
@@ -198,11 +178,11 @@ relationships:
 - type: cites
   target: pt:dre:115191272:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/46/2018/04/27/p/dre
 - type: cites
   target: pt:dre:122777644:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
 - type: cites
   target: pt:dre:1301985:por
   label: null
@@ -226,7 +206,7 @@ relationships:
 - type: cites
   target: pt:dre:176631058:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/183/2021/12/28/p/dre
 - type: cites
   target: pt:dre:181886178:por
   label: null
@@ -290,7 +270,7 @@ relationships:
 - type: cites
   target: pt:dre:66762671:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/11-c/2015/03/16/p/dre
 - type: cites
   target: pt:dre:670034:por
   label: null

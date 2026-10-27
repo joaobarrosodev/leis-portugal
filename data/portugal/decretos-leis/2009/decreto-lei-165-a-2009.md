@@ -80,13 +80,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/188/2008/11/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/188/2008/11/27/p/dre
-- type: cites
   target: pt:dre:440776:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/188/2008/11/27/p/dre
 - type: cites
   target: pt:dre:453975:por
   label: null

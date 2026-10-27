@@ -93,14 +93,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2014/83/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/109/2021/12/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/109/2021/12/07/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/3/2021/01/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/3/2021/01/14/p/dre
-- type: cites
   target: pt:dre:121260108:por
   label: null
   source: http://data.dre.pt/eli/acstj/1/2019/03/19/p/dre
@@ -119,7 +111,7 @@ relationships:
 - type: cites
   target: pt:dre:153917309:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2021/01/14/p/dre
 - type: cites
   target: pt:dre:154483161:por
   label: null
@@ -127,7 +119,7 @@ relationships:
 - type: cites
   target: pt:dre:175506672:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/109/2021/12/07/p/dre
 - type: cites
   target: pt:dre:205198396:por
   label: null

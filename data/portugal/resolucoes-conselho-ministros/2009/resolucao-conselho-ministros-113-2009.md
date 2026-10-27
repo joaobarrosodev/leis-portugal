@@ -90,10 +90,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8826-2014-25704408
   date: '2014-07-09'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/30/2009/04/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/30/2009/04/02/p/dre
-- type: cites
   target: pt:dre:386778:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/2008/01/04/p/dre
@@ -108,7 +104,7 @@ relationships:
 - type: cites
   target: pt:dre:603233:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/30/2009/04/02/p/dre
 - type: cites
   target: pt:dre:603475:por
   label: null

@@ -84,17 +84,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/anuncio/151-2018-116127330
   date: '2018-08-21'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
-- type: cites
   target: pt:dre:182874:por
   label: null
   source: null
 - type: cites
   target: pt:dre:256213:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
 - type: cites
   target: pt:dre:308715:por
   label: null

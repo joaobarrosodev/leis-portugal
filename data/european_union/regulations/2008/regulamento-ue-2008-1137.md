@@ -691,6 +691,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:152810682:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:490009:por
   label: null
   source: null

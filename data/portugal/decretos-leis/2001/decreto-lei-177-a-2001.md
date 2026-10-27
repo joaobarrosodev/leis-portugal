@@ -76,33 +76,9 @@ subjects:
 - Venda Directa
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/125/1998/10/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/125/1998/10/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/131/1998/11/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/131/1998/11/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/134/1998/11/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/134/1998/11/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/191-a/1997/10/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/191-a/1997/10/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/198/1997/11/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/198/1997/11/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
-- type: cites
   target: pt:dre:214559:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/191-a/1997/10/30/p/dre
 - type: cites
   target: pt:dre:222615:por
   label: null
@@ -110,15 +86,15 @@ relationships:
 - type: cites
   target: pt:dre:229522:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/134/1998/11/17/p/dre
 - type: cites
   target: pt:dre:233941:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/131/1998/11/12/p/dre
 - type: cites
   target: pt:dre:239976:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/125/1998/10/23/p/dre
 - type: cites
   target: pt:dre:301591:por
   label: null
@@ -146,7 +122,7 @@ relationships:
 - type: cites
   target: pt:dre:349924:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
 - type: cites
   target: pt:dre:659504:por
   label: null
@@ -154,7 +130,7 @@ relationships:
 - type: cites
   target: pt:dre:685660:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/198/1997/11/18/p/dre
 article_structure:
   article_count: 12
   section_count: 0

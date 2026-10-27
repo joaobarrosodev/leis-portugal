@@ -92,6 +92,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/141deaf1-cd73-11eb-ac72-01aa75ed71a1
   date: '2021-06-15'
+- type: cited_by
+  target: pt:dre:178716209:por
+  label: null
+  source: null
 - type: cites
   target: celex:32018R1725
   label: null

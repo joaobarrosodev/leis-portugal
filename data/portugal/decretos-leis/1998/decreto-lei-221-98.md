@@ -105,7 +105,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-d-1998-574719
   date: '1998-08-31'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+  target: pt:dre:150926:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
 - type: cites

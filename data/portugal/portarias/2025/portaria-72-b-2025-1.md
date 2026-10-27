@@ -119,10 +119,6 @@ relationships:
   source: null
   date: '2024-02-02'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/366/2015/10/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
-- type: cites
   target: pt:dre:207485804:por
   label: null
   source: http://data.dre.pt/eli/port/47/2023/02/15/p/dre
@@ -145,7 +141,7 @@ relationships:
 - type: cites
   target: pt:dre:70716381:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
 - type: cites
   target: pt:dre:835864042:por
   label: null

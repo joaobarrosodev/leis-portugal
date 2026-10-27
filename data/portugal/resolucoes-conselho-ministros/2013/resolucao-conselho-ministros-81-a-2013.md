@@ -79,17 +79,9 @@ subjects:
 - Telefone
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/50/2012/05/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/50/2012/05/22/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/66/2012/08/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/66/2012/08/06/p/dre
-- type: cites
   target: pt:dre:178997:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/66/2012/08/06/p/dre
 - type: cites
   target: pt:dre:200808:por
   label: null
@@ -121,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:551990:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/50/2012/05/22/p/dre
 - type: cites
   target: pt:dre:581061:por
   label: null

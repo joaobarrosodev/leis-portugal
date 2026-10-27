@@ -122,10 +122,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-s-1997-402104
   date: '1997-08-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
-- type: cites
   target: pt:dre:231890:por
   label: null
   source: http://data.dre.pt/eli/despnorm/545/1994/07/29/p/dre
@@ -137,6 +133,10 @@ relationships:
   target: pt:dre:290635:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
+- type: cites
+  target: pt:dre:291631:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
 article_structure:
   article_count: 13
   section_count: 2

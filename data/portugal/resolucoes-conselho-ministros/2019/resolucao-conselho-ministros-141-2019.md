@@ -84,13 +84,9 @@ subjects:
 - Tráfico de Pessoas
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/104/2017/07/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/104/2017/07/17/p/dre
-- type: cites
   target: pt:dre:107693728:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/104/2017/07/17/p/dre
 - type: cites
   target: pt:dre:115536003:por
   label: null

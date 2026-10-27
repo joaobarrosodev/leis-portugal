@@ -82,10 +82,6 @@ subjects:
 - Venda de Imóveis
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/349/2015/10/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/349/2015/10/13/p/dre
-- type: cites
   target: pt:dre:169132317:por
   label: null
   source: http://data.dre.pt/eli/acstj/2/2021/08/05/p/dre
@@ -105,6 +101,10 @@ relationships:
   target: pt:dre:66837100:por
   label: null
   source: http://data.dre.pt/eli/acstj/4/2015/03/24/p/dre
+- type: cites
+  target: pt:dre:70641445:por
+  label: null
+  source: http://data.dre.pt/eli/port/349/2015/10/13/p/dre
 article_structure:
   article_count: 0
   section_count: 0

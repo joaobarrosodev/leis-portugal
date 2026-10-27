@@ -231,10 +231,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2022/46/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
@@ -246,6 +242,10 @@ relationships:
   target: pt:dre:148444002:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
 - type: cites
   target: pt:dre:206478423:por
   label: null

@@ -74,17 +74,13 @@ subjects:
 - Programa Trabalhar no Interior
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
-- type: cites
   target: pt:dre:107541408:por
   label: null
   source: null
 - type: cites
   target: pt:dre:107684448:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
 - type: cites
   target: pt:dre:122960401:por
   label: null

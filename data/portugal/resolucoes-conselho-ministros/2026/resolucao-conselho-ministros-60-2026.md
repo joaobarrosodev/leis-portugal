@@ -102,14 +102,6 @@ relationships:
   source: null
   date: '2017-10-20'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/163/2007/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/163/2007/10/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/187/2007/12/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/187/2007/12/21/p/dre
-- type: cites
   target: pt:dre:108352214:por
   label: null
   source: null
@@ -132,11 +124,11 @@ relationships:
 - type: cites
   target: pt:dre:627822:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/187/2007/12/21/p/dre
 - type: cites
   target: pt:dre:641404:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/163/2007/10/12/p/dre
 - type: cites
   target: pt:dre:670061:por
   label: null

@@ -85,10 +85,6 @@ relationships:
   source: null
   date: '2006-12-14'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/161/2003/05/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/161/2003/05/06/p/dre
-- type: cites
   target: pt:dre:107541407:por
   label: null
   source: null
@@ -163,7 +159,7 @@ relationships:
 - type: cites
   target: pt:dre:572608:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/161/2003/05/06/p/dre
 - type: cites
   target: pt:dre:603274:por
   label: null

@@ -77,45 +77,25 @@ relationships:
   source: null
   date: '2012-08-27'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/22/2019/01/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/22/2019/01/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/253/2017/08/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/253/2017/08/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/5/2017/01/03/p/dre
+  target: pt:dre:105687068:por
   label: null
   source: http://data.dre.pt/eli/port/5/2017/01/03/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/52/2018/02/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/52/2018/02/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/65/2021/03/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/65/2021/03/17/p/dre
-- type: cites
-  target: pt:dre:105687068:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:107976097:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/253/2017/08/08/p/dre
 - type: cites
   target: pt:dre:114738297:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/52/2018/02/21/p/dre
 - type: cites
   target: pt:dre:117942335:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/22/2019/01/17/p/dre
 - type: cites
   target: pt:dre:159614842:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/65/2021/03/17/p/dre
 - type: cites
   target: pt:dre:174554:por
   label: null

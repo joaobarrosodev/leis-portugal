@@ -99,10 +99,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2021/1883/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/962/1996/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/962/1996/10/15/p/dre
-- type: cites
   target: pt:dre:115226940:por
   label: null
   source: null
@@ -153,7 +149,7 @@ relationships:
 - type: cites
   target: pt:dre:231536:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/962/1996/10/15/p/dre
 - type: cites
   target: pt:dre:2369978:por
   label: null

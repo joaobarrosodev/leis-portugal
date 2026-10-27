@@ -74,10 +74,6 @@ subjects:
 - Secretaria Regional da Saúde e Proteção Civil
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/21/2020/05/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/21/2020/05/26/p/dre
-- type: cites
   target: pt:dre:105657288:por
   label: null
   source: null
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:134505605:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/21/2020/05/26/p/dre
 - type: cites
   target: pt:dre:165605188:por
   label: null

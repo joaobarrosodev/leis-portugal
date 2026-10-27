@@ -150,10 +150,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2017/627/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2002/413/oj
   label: null
   source: http://data.europa.eu/eli/reco/2002/413/oj
@@ -165,6 +161,10 @@ relationships:
   target: pt:dre:106824982:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/2017/04/04/p/dre
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
 - type: cites
   target: pt:dre:234096:por
   label: null

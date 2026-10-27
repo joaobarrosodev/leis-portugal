@@ -97,25 +97,17 @@ subjects:
 - Urbanização
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/301/2019/09/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/301/2019/09/12/p/dre
-- type: cites
   target: pt:dre:123279819:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/95/2019/07/18/p/dre
 - type: cites
   target: pt:dre:124642990:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/301/2019/09/12/p/dre
 - type: cites
   target: pt:dre:176907514:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
 - type: cites
   target: pt:dre:518425:por
   label: null

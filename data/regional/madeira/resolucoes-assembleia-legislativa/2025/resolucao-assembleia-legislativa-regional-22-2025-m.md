@@ -76,17 +76,13 @@ subjects:
 - TVDE
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/25-a/2018/08/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/25-a/2018/08/10/p/dre
-- type: cites
   target: pt:dre:115991688:por
   label: null
   source: http://data.dre.pt/eli/lei/45/2018/08/10/p/dre
 - type: cites
   target: pt:dre:116029380:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/25-a/2018/08/10/p/dre
 - type: cites
   target: pt:dre:303585:por
   label: null

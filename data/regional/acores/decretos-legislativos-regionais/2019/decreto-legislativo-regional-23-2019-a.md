@@ -119,10 +119,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2002/91/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/34/2017/10/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/34/2017/10/09/p/dre
-- type: cites
   target: pt:dre:107541411:por
   label: null
   source: null
@@ -137,7 +133,7 @@ relationships:
 - type: cites
   target: pt:dre:108265121:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declretif/34/2017/10/09/p/dre
 - type: cites
   target: pt:dre:116130013:por
   label: null

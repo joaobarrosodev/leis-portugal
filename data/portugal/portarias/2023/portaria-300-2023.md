@@ -76,13 +76,9 @@ subjects:
 - TAXA de JURO
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/138/2021/06/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/138/2021/06/30/p/dre
-- type: cites
   target: pt:dre:166099799:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/138/2021/06/30/p/dre
 - type: cites
   target: pt:dre:177634016:por
   label: null

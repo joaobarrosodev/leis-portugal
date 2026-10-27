@@ -81,10 +81,6 @@ subjects:
 - PORTUGAL 2020
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/148/2016/05/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/148/2016/05/23/p/dre
-- type: cites
   target: pt:dre:248178:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -111,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:74498467:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/148/2016/05/23/p/dre
 article_structure:
   article_count: 0
   section_count: 0

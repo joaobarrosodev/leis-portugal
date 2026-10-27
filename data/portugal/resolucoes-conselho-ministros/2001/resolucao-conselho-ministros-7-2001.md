@@ -73,21 +73,13 @@ subjects:
 - Valongo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/168/1995/12/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/168/1995/12/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/70/1997/05/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/70/1997/05/05/p/dre
-- type: cites
   target: pt:dre:332412:por
   label: null
   source: null
 - type: cites
   target: pt:dre:383024:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/70/1997/05/05/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null
@@ -95,7 +87,7 @@ relationships:
 - type: cites
   target: pt:dre:632460:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/168/1995/12/12/p/dre
 article_structure:
   article_count: 0
   section_count: 0

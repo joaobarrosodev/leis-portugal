@@ -89,25 +89,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2000-406096
   date: '2000-02-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/14/1993/03/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/14/1993/03/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/38/1991/09/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/38/1991/09/18/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/61/1993/10/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/61/1993/10/18/p/dre
-- type: cites
   target: pt:dre:217373:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/274-c/1993/08/04/p/dre
 - type: cites
   target: pt:dre:301421:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/38/1991/09/18/p/dre
 - type: cites
   target: pt:dre:304533:por
   label: null
@@ -127,11 +115,11 @@ relationships:
 - type: cites
   target: pt:dre:629147:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/14/1993/03/06/p/dre
 - type: cites
   target: pt:dre:668725:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/61/1993/10/18/p/dre
 article_structure:
   article_count: 4
   section_count: 0

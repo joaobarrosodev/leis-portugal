@@ -79,10 +79,6 @@ subjects:
 - Supremo Tribunal de Justiça
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/5/1997/01/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/5/1997/01/14/p/dre
-- type: cites
   target: pt:dre:323075:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/168/1999/05/18/p/dre
@@ -94,6 +90,10 @@ relationships:
   target: pt:dre:438067:por
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:532258:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/5/1997/01/14/p/dre
 - type: cites
   target: pt:dre:558622:por
   label: null

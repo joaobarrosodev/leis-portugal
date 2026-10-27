@@ -73,10 +73,6 @@ subjects:
 - Política de Juventude
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/286/2020/12/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/286/2020/12/14/p/dre
-- type: cites
   target: pt:dre:116330692:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114-a/2018/09/04/p/dre
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:151036061:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/286/2020/12/14/p/dre
 - type: cites
   target: pt:dre:194794:por
   label: null

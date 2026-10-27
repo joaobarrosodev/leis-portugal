@@ -81,13 +81,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1025-2007-641117
   date: '2007-08-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/866/1996/12/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/866/1996/12/18/p/dre
-- type: cites
   target: pt:dre:197519:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/866/1996/12/18/p/dre
 - type: cites
   target: pt:dre:219134:por
   label: null

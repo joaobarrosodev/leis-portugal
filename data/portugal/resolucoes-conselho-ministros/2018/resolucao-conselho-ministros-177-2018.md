@@ -105,13 +105,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
   date: '2022-05-09'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/157/2017/10/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/157/2017/10/19/p/dre
-- type: cites
   target: pt:dre:108323924:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/157/2017/10/19/p/dre
 - type: cites
   target: pt:dre:520259:por
   label: null

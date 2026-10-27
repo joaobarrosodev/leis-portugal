@@ -99,10 +99,6 @@ relationships:
   source: null
   date: '2026-03-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/366/2015/10/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
-- type: cites
   target: pt:dre:1066993467:por
   label: null
   source: http://data.dre.pt/eli/port/104/2026/03/05/p/dre
@@ -113,7 +109,7 @@ relationships:
 - type: cites
   target: pt:dre:70716381:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/366/2015/10/16/p/dre
 - type: cites
   target: pt:dre:840061965:por
   label: null

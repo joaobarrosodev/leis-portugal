@@ -103,14 +103,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2022-177455550
   date: '2022-01-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/128/2021/06/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/128/2021/06/24/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/302/2020/12/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/302/2020/12/24/p/dre
-- type: cites
   target: pt:dre:130956136:por
   label: null
   source: http://data.dre.pt/eli/port/82-c/2020/03/31/p/dre
@@ -126,6 +118,14 @@ relationships:
   target: pt:dre:142961486:por
   label: null
   source: http://data.dre.pt/eli/port/218/2020/09/16/p/dre
+- type: cites
+  target: pt:dre:152197940:por
+  label: null
+  source: http://data.dre.pt/eli/port/302/2020/12/24/p/dre
+- type: cites
+  target: pt:dre:165723204:por
+  label: null
+  source: http://data.dre.pt/eli/port/128/2021/06/24/p/dre
 - type: cites
   target: pt:dre:66325237:por
   label: null

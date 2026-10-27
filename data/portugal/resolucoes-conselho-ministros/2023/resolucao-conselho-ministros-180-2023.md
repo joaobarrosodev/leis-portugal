@@ -81,14 +81,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/1060/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/140/2021/10/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/140/2021/10/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
-- type: cites
   target: pt:dre:148444001:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2020/11/13/p/dre
@@ -99,11 +91,11 @@ relationships:
 - type: cites
   target: pt:dre:172878294:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/140/2021/10/15/p/dre
 - type: cites
   target: pt:dre:543034:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
 - type: cites
   target: pt:dre:603475:por
   label: null

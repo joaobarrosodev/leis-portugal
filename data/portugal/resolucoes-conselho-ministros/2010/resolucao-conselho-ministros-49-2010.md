@@ -77,14 +77,6 @@ subjects:
 - Ren-redes Energéticas Nacionais
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
-- type: cites
   target: pt:dre:386865:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/2008/01/08/p/dre
@@ -99,11 +91,11 @@ relationships:
 - type: cites
   target: pt:dre:545593:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/163/2006/12/12/p/dre
 - type: cites
   target: pt:dre:613675:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
 article_structure:
   article_count: 0
   section_count: 9

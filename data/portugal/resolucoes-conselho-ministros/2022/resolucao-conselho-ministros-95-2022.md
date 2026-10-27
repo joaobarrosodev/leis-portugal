@@ -106,17 +106,17 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2008/1008/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/26/2019/02/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/26/2019/02/06/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/87/2018/07/09/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/87/2018/07/09/p/dre
-- type: cites
   target: pt:dre:106549658:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/35/2017/03/03/p/dre
+- type: cites
+  target: pt:dre:115660004:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/87/2018/07/09/p/dre
+- type: cites
+  target: pt:dre:119236501:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2019/02/06/p/dre
 - type: cites
   target: pt:dre:175659858:por
   label: null

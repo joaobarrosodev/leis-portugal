@@ -116,17 +116,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/679/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/61/2012/10/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/61/2012/10/30/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/38/2020/02/05/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/38/2020/02/05/p/dre
-- type: cites
   target: pt:dre:123815982:por
   label: null
   source: http://data.dre.pt/eli/lei/58/2019/08/0
+- type: cites
+  target: pt:dre:128865462:por
+  label: null
+  source: http://data.dre.pt/eli/port/38/2020/02/05/p/dre
 - type: cites
   target: pt:dre:165129790:por
   label: null
@@ -135,6 +131,10 @@ relationships:
   target: pt:dre:175541:por
   label: null
   source: http://data.dre.pt/eli/port/296/2012/09/28/p/dre
+- type: cites
+  target: pt:dre:191536:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/61/2012/10/30/p/dre
 - type: cites
   target: pt:dre:243736:por
   label: null

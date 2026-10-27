@@ -91,10 +91,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2022/2407/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/99/2021/11/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/99/2021/11/17/p/dre
-- type: cites
   target: pt:dre:108086598:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/111-a/2017/08/31/p/dre
@@ -117,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:174480990:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/99/2021/11/17/p/dre
 - type: cites
   target: pt:dre:176127184:por
   label: null

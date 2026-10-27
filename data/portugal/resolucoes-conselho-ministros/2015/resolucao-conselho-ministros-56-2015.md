@@ -118,25 +118,21 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2013/525/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/187-a/2014/09/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/187-a/2014/09/17/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/20/2015/04/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/20/2015/04/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/93/2010/11/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/93/2010/11/26/p/dre
-- type: cites
   target: pt:dre:25676885:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/90/2014/06/11/p/dre
 - type: cites
+  target: pt:dre:308983:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/93/2010/11/26/p/dre
+- type: cites
   target: pt:dre:332037:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/59/2001/05/30/p/dre
+- type: cites
+  target: pt:dre:56928479:por
+  label: null
+  source: http://data.dre.pt/eli/port/187-a/2014/09/17/p/dre
 - type: cites
   target: pt:dre:574359:por
   label: null
@@ -149,6 +145,10 @@ relationships:
   target: pt:dre:66022084:por
   label: null
   source: http://data.dre.pt/eli/lei/82-d/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:66970762:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2015/04/14/p/dre
 - type: cites
   target: pt:dre:67120682:por
   label: null

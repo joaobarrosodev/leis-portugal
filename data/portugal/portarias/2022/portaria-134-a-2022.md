@@ -117,13 +117,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2021/241/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
-- type: cites
   target: pt:dre:150570704:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/101-d/2020/12/07/p/dre
+- type: cites
+  target: pt:dre:175923961:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
 - type: cites
   target: pt:dre:353934:por
   label: null

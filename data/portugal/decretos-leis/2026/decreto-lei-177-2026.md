@@ -201,10 +201,6 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/372/2017/12/14/p/d
-  label: null
-  source: http://data.dre.pt/eli/port/372/2017/12/14/p/d
-- type: cites
   target: eli:http://data.europa.eu/eli/dir/19
   label: null
   source: http://data.europa.eu/eli/dir/19
@@ -215,7 +211,7 @@ relationships:
 - type: cites
   target: pt:dre:114350958:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/372/2017/12/14/p/d
 - type: cites
   target: pt:dre:163728569:por
   label: null

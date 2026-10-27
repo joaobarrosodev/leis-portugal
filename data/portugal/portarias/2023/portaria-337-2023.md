@@ -75,17 +75,13 @@ subjects:
 - Pagamento de Contribuições
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/58/2021/03/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/58/2021/03/16/p/dre
-- type: cites
   target: pt:dre:144272499:por
   label: null
   source: http://data.dre.pt/eli/port/232/2020/10/01/p/dre
 - type: cites
   target: pt:dre:159539837:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/58/2021/03/16/p/dre
 - type: cites
   target: pt:dre:185224662:por
   label: null

@@ -80,17 +80,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/20-2006-553619
   date: '2006-01-19'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/166/1995/12/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/166/1995/12/12/p/dre
-- type: cites
   target: pt:dre:559019:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
 - type: cites
   target: pt:dre:632459:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/166/1995/12/12/p/dre
 article_structure:
   article_count: 0
   section_count: 0

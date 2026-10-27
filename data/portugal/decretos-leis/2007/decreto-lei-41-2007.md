@@ -149,7 +149,7 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209
   date: '2023-06-05'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
+  target: pt:dre:262302:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
 - type: cites

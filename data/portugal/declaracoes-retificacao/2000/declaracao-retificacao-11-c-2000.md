@@ -79,13 +79,9 @@ subjects:
 - Tribunal de Justiça CE
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/171/2000/08/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/171/2000/08/22/p/dre
-- type: cites
   target: pt:dre:324284:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/171/2000/08/22/p/dre
 article_structure:
   article_count: 0
   section_count: 0

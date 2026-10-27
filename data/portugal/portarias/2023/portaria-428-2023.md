@@ -81,17 +81,13 @@ relationships:
   source: null
   date: '2021-03-17'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/229/2018/08/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/229/2018/08/14/p/dre
-- type: cites
   target: eli:http://data.europa.eu/eli/reco/2021/1004/oj
   label: null
   source: http://data.europa.eu/eli/reco/2021/1004/oj
 - type: cites
   target: pt:dre:116043539:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/229/2018/08/14/p/dre
 - type: cites
   target: pt:dre:140087205:por
   label: null

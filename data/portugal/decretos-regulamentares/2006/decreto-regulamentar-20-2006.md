@@ -91,33 +91,17 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13106-2014-59009027
   date: '2014-11-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10/2002/01/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10/2002/01/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/105/2002/08/21/p/dre
+  target: pt:dre:172315:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/105/2002/08/21/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/18/2006/02/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/18/2006/02/01/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/35/2003/03/12/p/dre
+  target: pt:dre:214724:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/35/2003/03/12/p/dre
 - type: cites
-  target: pt:dre:172315:por
-  label: null
-  source: null
-- type: cites
-  target: pt:dre:214724:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:234510:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/10/2002/01/15/p/dre
 - type: cites
   target: pt:dre:429407:por
   label: null
@@ -125,7 +109,7 @@ relationships:
 - type: cites
   target: pt:dre:545190:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2006/02/01/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

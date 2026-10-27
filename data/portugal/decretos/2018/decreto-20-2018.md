@@ -72,13 +72,13 @@ subjects:
 - Serra da Malcata
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/80/2005/03/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/80/2005/03/29/p/dre
-- type: cites
   target: pt:dre:406293:por
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:565402:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/80/2005/03/29/p/dre
 - type: cites
   target: pt:dre:66432466:por
   label: null

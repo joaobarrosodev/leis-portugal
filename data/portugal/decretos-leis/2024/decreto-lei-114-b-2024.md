@@ -102,10 +102,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662
   date: '2025-03-28'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/287/2015/09
-  label: null
-  source: http://data.dre.pt/eli/port/287/2015/09
-- type: cites
   target: pt:dre:107094720:por
   label: null
   source: http://data.dre.pt/eli/lei/25/2017/05/30/p/dre
@@ -129,6 +125,10 @@ relationships:
   target: pt:dre:69839463:por
   label: null
   source: http://data.dre.pt/eli/decregul/5/2015/07/20/p/dre
+- type: cites
+  target: pt:dre:70309900:por
+  label: null
+  source: http://data.dre.pt/eli/port/287/2015/09
 - type: cites
   target: pt:dre:870757938:por
   label: null

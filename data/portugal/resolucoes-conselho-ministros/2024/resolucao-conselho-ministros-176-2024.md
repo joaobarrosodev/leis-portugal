@@ -89,10 +89,6 @@ subjects:
 - Ministro do Ambiente e Energia
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
-- type: cites
   target: pt:dre:122747583:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/84/2019/06/28/p/dre
@@ -100,6 +96,10 @@ relationships:
   target: pt:dre:150908012:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/102-d/2020/12/10/p/dre
+- type: cites
+  target: pt:dre:175923959:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
 - type: cites
   target: pt:dre:178845:por
   label: null

@@ -83,17 +83,13 @@ subjects:
 - Sistema de Incentivos à Inovação na Gestão Pública
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/186/2018/06/27/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/186/2018/06/27/p/dre
-- type: cites
   target: pt:dre:114425586:por
   label: null
   source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
 - type: cites
   target: pt:dre:115596624:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/186/2018/06/27/p/dre
 article_structure:
   article_count: 4
   section_count: 0

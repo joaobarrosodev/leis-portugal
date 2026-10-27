@@ -86,10 +86,6 @@ subjects:
 - Urbanismo
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/252/2015/08/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/252/2015/08/19/p/dre
-- type: cites
   target: pt:dre:107541411:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/2017/06/21/p/dre
@@ -152,7 +148,7 @@ relationships:
 - type: cites
   target: pt:dre:70055493:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/252/2015/08/19/p/dre
 - type: cites
   target: pt:dre:75216373:por
   label: null

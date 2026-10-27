@@ -74,13 +74,9 @@ subjects:
 - Saúde Animal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/146/2017/04/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/146/2017/04/26/p/dre
-- type: cites
   target: pt:dre:106926976:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/146/2017/04/26/p/dre
 - type: cites
   target: pt:dre:130893436:por
   label: null

@@ -104,10 +104,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/211-2025-992627258
   date: '2025-12-24'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
-- type: cites
   target: pt:dre:145045:por
   label: null
   source: http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
@@ -139,6 +135,10 @@ relationships:
   target: pt:dre:603475:por
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:626231:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
 - type: cites
   target: pt:dre:72909765:por
   label: null

@@ -76,7 +76,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/1991/17/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/27/1991/07/12/p/dre
+  target: pt:dre:673184:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/27/1991/07/12/p/dre
 article_structure:

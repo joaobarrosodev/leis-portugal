@@ -124,10 +124,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2005/68/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/1/1999/01/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/av/1/1999/01/04/p/dre
-- type: cites
   target: pt:dre:396962:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/2009/01/05/p/dre
@@ -138,7 +134,7 @@ relationships:
 - type: cites
   target: pt:dre:492269:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/av/1/1999/01/04/p/dre
 - type: cites
   target: pt:dre:521257:por
   label: null

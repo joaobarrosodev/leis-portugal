@@ -81,10 +81,6 @@ subjects:
 - Supremo Tribunal da Justiça
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/2/1994/05/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/2/1994/05/07/p/dre
-- type: cites
   target: pt:dre:124457181:por
   label: null
   source: null
@@ -111,7 +107,7 @@ relationships:
 - type: cites
   target: pt:dre:256436:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/ac/2/1994/05/07/p/dre
 - type: cites
   target: pt:dre:257008:por
   label: null

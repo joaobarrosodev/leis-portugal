@@ -98,10 +98,6 @@ subjects:
 - Situação de Calamidade
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88-b/2020/10/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/88-b/2020/10/22/p/dre
-- type: cites
   target: pt:dre:130243053:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
@@ -113,6 +109,10 @@ relationships:
   target: pt:dre:145440403:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/88-a/2020/10/14/p/dre
+- type: cites
+  target: pt:dre:146244086:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/88-b/2020/10/22/p/dre
 - type: cites
   target: pt:dre:362699:por
   label: null

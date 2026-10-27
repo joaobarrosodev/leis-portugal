@@ -72,10 +72,6 @@ subjects:
 - Zona Industrial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/107/1994/10/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/107/1994/10/28/p/dre
-- type: cites
   target: pt:dre:426692:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/310/1999/08/10/p/dre
@@ -90,7 +86,7 @@ relationships:
 - type: cites
   target: pt:dre:621155:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/107/1994/10/28/p/dre
 article_structure:
   article_count: 4
   section_count: 0

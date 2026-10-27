@@ -405,6 +405,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:136053636:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:158460:por
   label: null
   source: null
@@ -510,6 +514,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:693449:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70297425:por
   label: null
   source: null
 - type: cited_by

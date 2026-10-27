@@ -100,13 +100,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2023/955/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/91-a/2019/03/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/91-a/2019/03/26/p/dre
-- type: cites
   target: pt:dre:117008017:por
   label: null
   source: http://data.dre.pt/eli/port/298/2018/11/19/p/dre
+- type: cites
+  target: pt:dre:121626426:por
+  label: null
+  source: http://data.dre.pt/eli/port/91-a/2019/03/26/p/dre
 - type: cites
   target: pt:dre:25344768:por
   label: null

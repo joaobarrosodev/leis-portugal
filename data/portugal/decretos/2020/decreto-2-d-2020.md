@@ -81,10 +81,6 @@ subjects:
 - Serviços de Segurança
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
-- type: cites
   target: pt:dre:131908497:por
   label: null
   source: http://data.dre.pt/eli/decpresrep/20-a/2020/04/17/p/dre
@@ -95,7 +91,7 @@ relationships:
 - type: cites
   target: pt:dre:132883344:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
 - type: cites
   target: pt:dre:221696:por
   label: null

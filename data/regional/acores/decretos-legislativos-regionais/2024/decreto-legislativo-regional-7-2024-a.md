@@ -78,10 +78,6 @@ subjects:
 - Proteção ao Deficiente
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/1/2022/01/03/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/1/2022/01/03/p/dre
-- type: cites
   target: pt:dre:147674:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/174/1997/07/19/p/dre
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:176907537:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/1/2022/01/03/p/dre
 - type: cites
   target: pt:dre:226809:por
   label: null

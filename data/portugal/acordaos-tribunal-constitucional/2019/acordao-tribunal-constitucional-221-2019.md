@@ -84,10 +84,6 @@ subjects:
 - Responsabilidade Civil
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/ac/62/1991/04/19/p/dre
-  label: null
-  source: http://data.dre.pt/eli/ac/62/1991/04/19/p/dre
-- type: cites
   target: pt:dre:449200:por
   label: null
   source: http://data.dre.pt/eli/port/377/2008/05/26/p/dre
@@ -95,6 +91,10 @@ relationships:
   target: pt:dre:455419:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/153/2008/08/06/p/dre
+- type: cites
+  target: pt:dre:592573:por
+  label: null
+  source: http://data.dre.pt/eli/ac/62/1991/04/19/p/dre
 - type: cites
   target: pt:dre:640637:por
   label: null

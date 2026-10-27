@@ -77,13 +77,9 @@ subjects:
 - Tribunal
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/161/2020/06/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/161/2020/06/30/p/dre
-- type: cites
   target: pt:dre:136900601:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/161/2020/06/30/p/dre
 - type: cites
   target: pt:dre:502394:por
   label: null

@@ -114,13 +114,9 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2006/123/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/122/2017/03/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/122/2017/03/24/p/dre
-- type: cites
   target: pt:dre:106654349:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/122/2017/03/24/p/dre
 - type: cites
   target: pt:dre:116068877:por
   label: null

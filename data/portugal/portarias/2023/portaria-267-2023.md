@@ -99,10 +99,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2022/1630/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/201/2021/09/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/201/2021/09/23/p/dre
-- type: cites
   target: pt:dre:123815982:por
   label: null
   source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
@@ -113,7 +109,7 @@ relationships:
 - type: cites
   target: pt:dre:171783818:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/201/2021/09/23/p/dre
 - type: cites
   target: pt:dre:260899:por
   label: null

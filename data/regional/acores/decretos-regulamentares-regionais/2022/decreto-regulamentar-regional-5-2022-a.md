@@ -123,13 +123,9 @@ subjects:
 - Zona Tributária Privilegiada
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/declegreg/38/2021/12/23/a/dre
-  label: null
-  source: http://data.dre.pt/eli/declegreg/38/2021/12/23/a/dre
-- type: cites
   target: pt:dre:176412614:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/declegreg/38/2021/12/23/a/dre
 - type: cites
   target: pt:dre:218712:por
   label: null

@@ -78,10 +78,6 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/167/2026/08/17/p/dre
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/146/2021/07/13/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/146/2021/07/13/p/dre
-- type: cites
   target: pt:dre:1131865535:por
   label: null
   source: http://data.dre.pt/eli/lei/28/2026/06/15/p/dre
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:167133020:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/146/2021/07/13/p/dre
 - type: cites
   target: pt:dre:222421861:por
   label: null

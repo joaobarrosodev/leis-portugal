@@ -109,13 +109,9 @@ subjects:
 - Substituição de Funções
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
-- type: cites
   target: pt:dre:342800:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
 - type: cites
   target: pt:dre:521257:por
   label: null

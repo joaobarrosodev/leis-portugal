@@ -110,10 +110,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/69-2015-66702114
   date: '2015-03-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
-- type: cites
   target: pt:dre:152703:por
   label: null
   source: http://data.dre.pt/eli/port/1192-a/2006/11/03/p/dre
@@ -121,6 +117,10 @@ relationships:
   target: pt:dre:175305:por
   label: null
   source: http://data.dre.pt/eli/lei/31/2012/08/14/p/dre
+- type: cites
+  target: pt:dre:406279:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
 - type: cites
   target: pt:dre:538623:por
   label: null

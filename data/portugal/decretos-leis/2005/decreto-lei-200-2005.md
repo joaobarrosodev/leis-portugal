@@ -88,13 +88,9 @@ subjects:
 - VELA
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/24/2005/01/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/24/2005/01/28/p/dre
-- type: cites
   target: pt:dre:620930:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/24/2005/01/28/p/dre
 - type: cites
   target: pt:dre:655312:por
   label: null

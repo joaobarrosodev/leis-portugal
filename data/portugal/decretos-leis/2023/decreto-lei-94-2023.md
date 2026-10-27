@@ -88,10 +88,6 @@ subjects:
 - Regulamentação de Atos Legislativos
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/119/2018/05/04/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/119/2018/05/04/p/dre
-- type: cites
   target: pt:dre:114825661:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/15/2018/03/07/p/dre
@@ -102,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:115221287:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/119/2018/05/04/p/dre
 - type: cites
   target: pt:dre:178492:por
   label: null

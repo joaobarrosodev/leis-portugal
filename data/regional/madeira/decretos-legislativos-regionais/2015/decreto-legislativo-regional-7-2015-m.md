@@ -117,10 +117,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533
   date: '2019-09-10'
 - type: cites
-  target: eli:http://data.dre.pt/eli/declretif/31/2013/07/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/declretif/31/2013/07/24/p/dre
-- type: cites
   target: pt:dre:179793:por
   label: null
   source: http://data.dre.pt/eli/declegreg/15/2012/07/19/m/dre
@@ -136,6 +132,10 @@ relationships:
   target: pt:dre:496729:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2013/06/14/p/dre
+- type: cites
+  target: pt:dre:498766:por
+  label: null
+  source: http://data.dre.pt/eli/declretif/31/2013/07/24/p/dre
 - type: cites
   target: pt:dre:58752835:por
   label: null

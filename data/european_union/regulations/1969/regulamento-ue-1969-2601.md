@@ -119,6 +119,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/228a274b-b610-448b-87dc-84b009c723c4
   date: '1964-02-27'
 - type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:570523:por
   label: null
   source: null

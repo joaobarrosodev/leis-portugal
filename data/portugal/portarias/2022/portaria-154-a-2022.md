@@ -105,10 +105,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/84/2015/03/20/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
-- type: cites
   target: pt:dre:107541408:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/2017/06/21/p/dre
@@ -131,7 +127,7 @@ relationships:
 - type: cites
   target: pt:dre:66818377:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
 - type: repealed_by
   target: pt:dre:839926119:por
   label: Revogada, a partir de 2 de fevereiro de 2024, pelo(a) Portaria n.º 39-A/2024 - Diário da República n.º 23/2024, 1º

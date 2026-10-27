@@ -80,13 +80,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
-- type: cites
   target: pt:dre:175595604:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
 - type: cites
   target: pt:dre:602073:por
   label: null

@@ -89,13 +89,13 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
-- type: cites
   target: pt:dre:65949853:por
   label: null
   source: http://data.dre.pt/eli/lei/81/2014/12/19/p/dre
+- type: cites
+  target: pt:dre:75239710:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
 article_structure:
   article_count: 0
   section_count: 0

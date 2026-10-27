@@ -81,17 +81,13 @@ subjects:
 - Qualificação Profissional
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
-- type: cites
   target: pt:dre:246301:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/63/2008/04/07/p/dre
 - type: cites
   target: pt:dre:464205:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
 - type: cites
   target: pt:dre:534598:por
   label: null

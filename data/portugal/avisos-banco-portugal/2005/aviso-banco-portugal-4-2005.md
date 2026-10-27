@@ -93,7 +93,7 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2002/1606/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/av/12/2001/02/27/p/dre
+  target: pt:dre:384651:por
   label: null
   source: http://data.dre.pt/eli/av/12/2001/02/27/p/dre
 article_structure:

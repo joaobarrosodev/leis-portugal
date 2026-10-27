@@ -155,6 +155,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:106550906:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:107677706:por
   label: null
   source: null
@@ -163,11 +167,27 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114190329:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:117222795:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:123183041:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:136237689:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:140821548:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:166658252:por
   label: null
   source: null
 - type: cited_by

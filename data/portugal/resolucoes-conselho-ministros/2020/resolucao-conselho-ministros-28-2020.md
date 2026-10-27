@@ -86,10 +86,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/161-2023-229857682
   date: '2023-12-11'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/14/2015/03/31/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/14/2015/03/31/p/dre
-- type: cites
   target: pt:dre:551186:por
   label: null
   source: http://data.dre.pt/eli/decpresrep/80/2004/11/16/p/dre
@@ -100,7 +96,7 @@ relationships:
 - type: cites
   target: pt:dre:66888638:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/14/2015/03/31/p/dre
 article_structure:
   article_count: 0
   section_count: 0

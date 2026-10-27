@@ -90,13 +90,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/45-e-2015-69736237
   date: '2015-07-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/67-a/1999/07/06/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/67-a/1999/07/06/p/dre
-- type: cites
   target: pt:dre:240979:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/67-a/1999/07/06/p/dre
 - type: cites
   target: pt:dre:551862:por
   label: null

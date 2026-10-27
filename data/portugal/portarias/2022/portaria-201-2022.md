@@ -84,21 +84,13 @@ subjects:
 - Unidade Territorial
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/263/2019/08/26/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/263/2019/08/26/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/49/2021/05/11/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/49/2021/05/11/p/dre
-- type: cites
   target: pt:dre:122498959:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/78/2019/06/05/p/dre
 - type: cites
   target: pt:dre:124171141:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/263/2019/08/26/p/dre
 - type: cites
   target: pt:dre:162756795:por
   label: null
@@ -106,7 +98,7 @@ relationships:
 - type: cites
   target: pt:dre:163092607:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/49/2021/05/11/p/dre
 - type: cites
   target: pt:dre:164712109:por
   label: null

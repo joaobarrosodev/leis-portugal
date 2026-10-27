@@ -83,13 +83,9 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/64-2006-633527
   date: '2006-05-04'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/82/2005/04/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/82/2005/04/15/p/dre
-- type: cites
   target: pt:dre:547044:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/82/2005/04/15/p/dre
 article_structure:
   article_count: 0
   section_count: 0

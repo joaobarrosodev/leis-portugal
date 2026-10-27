@@ -114,6 +114,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/fce23605-a790-44ae-9631-b6d7eb83c91c
   date: '1976-06-25'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31975R2042
   label: null

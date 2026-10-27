@@ -116,10 +116,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/portaria/22-2022-177160323
   date: '2022-01-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-- type: cites
   target: pt:dre:130779506:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/10-g/2020/03/26/p/dre
@@ -131,6 +127,10 @@ relationships:
   target: pt:dre:139209038:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/46-a/2020/07/30/p/dre
+- type: cites
+  target: pt:dre:152512121:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
 - type: cites
   target: pt:dre:154202310:por
   label: null

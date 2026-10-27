@@ -103,10 +103,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-2009-1503930
   date: '2009-08-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/189/2003/12/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/189/2003/12/16/p/dre
-- type: cites
   target: pt:dre:239219:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
@@ -117,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:430629:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/189/2003/12/16/p/dre
 - type: cites
   target: pt:dre:652279:por
   label: null

@@ -82,10 +82,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10083-2015-70179123
   date: '2015-09-03'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/94/1995/09/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/94/1995/09/29/p/dre
-- type: cites
   target: pt:dre:228186:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
@@ -96,7 +92,7 @@ relationships:
 - type: cites
   target: pt:dre:575370:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/94/1995/09/29/p/dre
 article_structure:
   article_count: 26
   section_count: 0

@@ -75,13 +75,9 @@ subjects:
 - Programa de Gestão do Património Imobiliário Público
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/1/2006/01/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/1/2006/01/02/p/dre
-- type: cites
   target: pt:dre:202671:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/1/2006/01/02/p/dre
 - type: cites
   target: pt:dre:637402:por
   label: null

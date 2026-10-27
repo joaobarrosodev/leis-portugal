@@ -90,17 +90,13 @@ subjects:
 - REDE Escolar
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-- type: cites
   target: pt:dre:135391594:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
 - type: cites
   target: pt:dre:152512121:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
 - type: cites
   target: pt:dre:159115:por
   label: null

@@ -87,14 +87,6 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2023/1976/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/141/2021/07/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/141/2021/07/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/306/2019/09/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/306/2019/09/12/p/dre
-- type: cites
   target: pt:dre:116877128:por
   label: null
   source: http://data.dre.pt/eli/port/295-a/2018/11/02/p/dre
@@ -105,11 +97,11 @@ relationships:
 - type: cites
   target: pt:dre:124642995:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/306/2019/09/12/p/dre
 - type: cites
   target: pt:dre:166658187:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/141/2021/07/08/p/dre
 - type: cites
   target: pt:dre:183159328:por
   label: null

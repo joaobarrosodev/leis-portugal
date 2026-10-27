@@ -79,17 +79,13 @@ subjects:
 - Serviços Sociais
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/329/2019/09/24/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/329/2019/09/24/p/dre
-- type: cites
   target: pt:dre:122728685:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/2019/06/27/p/dre
 - type: cites
   target: pt:dre:124952003:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/329/2019/09/24/p/dre
 - type: cites
   target: pt:dre:202127498:por
   label: null

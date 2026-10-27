@@ -79,10 +79,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/13662-2015-71092232
   date: '2015-11-25'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/138/2008/09/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/138/2008/09/16/p/dre
-- type: cites
   target: pt:dre:1313203:por
   label: null
   source: null
@@ -105,7 +101,7 @@ relationships:
 - type: cites
   target: pt:dre:453837:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/138/2008/09/16/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

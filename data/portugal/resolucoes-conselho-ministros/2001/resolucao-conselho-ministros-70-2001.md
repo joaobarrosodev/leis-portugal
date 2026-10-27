@@ -78,10 +78,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/48/1995/05/18/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/48/1995/05/18/p/dre
-- type: cites
   target: pt:dre:241193:por
   label: null
   source: http://data.dre.pt/eli/lei/25/1992/08/31/p/dre
@@ -92,7 +88,7 @@ relationships:
 - type: cites
   target: pt:dre:502429:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/48/1995/05/18/p/dre
 - type: cites
   target: pt:dre:559019:por
   label: null

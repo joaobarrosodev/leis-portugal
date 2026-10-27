@@ -81,22 +81,6 @@ subjects:
 - Sociedade Anónima
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/68/1997/05/02/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/68/1997/05/02/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/82/1997/05/23/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/82/1997/05/23/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/95/1997/06/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/95/1997/06/17/p/dre
-- type: cites
   target: pt:dre:262841:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/131/1994/05/19/p/dre
@@ -107,19 +91,19 @@ relationships:
 - type: cites
   target: pt:dre:366669:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/95/1997/06/17/p/dre
 - type: cites
   target: pt:dre:382185:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/68/1997/05/02/p/dre
 - type: cites
   target: pt:dre:400388:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/82/1997/05/23/p/dre
 - type: cites
   target: pt:dre:469202:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
 - type: cites
   target: pt:dre:621113:por
   label: null

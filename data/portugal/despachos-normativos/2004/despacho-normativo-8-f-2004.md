@@ -103,10 +103,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-a-2005-157992
   date: '2005-07-06'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/189/2003/12/16/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/189/2003/12/16/p/dre
-- type: cites
   target: pt:dre:239219:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
@@ -117,7 +113,7 @@ relationships:
 - type: cites
   target: pt:dre:430629:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/189/2003/12/16/p/dre
 - type: cites
   target: pt:dre:584862:por
   label: null

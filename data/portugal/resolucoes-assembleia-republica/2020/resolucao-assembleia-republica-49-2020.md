@@ -75,10 +75,6 @@ subjects:
 - Serviço Nacional de Saúde
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/10-c/2020/03/17/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/10-c/2020/03/17/p/dre
-- type: cites
   target: pt:dre:124417108:por
   label: null
   source: http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
@@ -86,6 +82,10 @@ relationships:
   target: pt:dre:130326108:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/10-b/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:130366466:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/10-c/2020/03/17/p/dre
 - type: cites
   target: pt:dre:130366467:por
   label: null

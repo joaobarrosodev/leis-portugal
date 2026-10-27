@@ -76,21 +76,13 @@ subjects:
 - Regulamento para Atribuição de Bolsas de Criação Literária
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/dec-lei/111/2021/12/14/p/dre
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/111/2021/12/14/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/123/2017/03/27/p/dre
+  target: pt:dre:106657701:por
   label: null
   source: http://data.dre.pt/eli/port/123/2017/03/27/p/dre
 - type: cites
-  target: pt:dre:106657701:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:175865936:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/dec-lei/111/2021/12/14/p/dre
 - type: repeals
   target: pt:numero:portaria:123/2017
   label: Revoga, a partir de 15 de fevereiro de 2025, a Portaria n.º 123/2017, de 27 de março, Diário da República n.º 61/2017,

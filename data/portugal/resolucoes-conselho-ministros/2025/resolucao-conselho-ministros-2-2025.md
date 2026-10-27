@@ -80,13 +80,9 @@ relationships:
   source: null
   date: '2019-12-30'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/202/2019/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/202/2019/12/30/p/dre
-- type: cites
   target: pt:dre:127582932:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/202/2019/12/30/p/dre
 - type: cites
   target: pt:dre:629433:por
   label: null

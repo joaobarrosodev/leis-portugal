@@ -81,10 +81,6 @@ subjects:
 - Transporte de Doentes
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/194/2015/06/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/194/2015/06/30/p/dre
-- type: cites
   target: pt:dre:178556:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55/2012/07/04/p/dre
@@ -115,7 +111,7 @@ relationships:
 - type: cites
   target: pt:dre:67641475:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/194/2015/06/30/p/dre
 article_structure:
   article_count: 0
   section_count: 0

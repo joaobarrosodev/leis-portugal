@@ -93,10 +93,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/17672-2019-125933632
   date: '2019-11-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/118/1994/11/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/118/1994/11/29/p/dre
-- type: cites
   target: pt:dre:217119:por
   label: null
   source: http://data.dre.pt/eli/decregul/9/1992/04/28/p/dre
@@ -147,7 +143,7 @@ relationships:
 - type: cites
   target: pt:dre:548046:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/118/1994/11/29/p/dre
 - type: cites
   target: pt:dre:566071:por
   label: null

@@ -83,17 +83,13 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2016/791/oj
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/94/2019/03/28/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/94/2019/03/28/p/dre
-- type: cites
   target: pt:dre:115200303:por
   label: null
   source: http://data.dre.pt/eli/port/113/2018/04/30/p/dre
 - type: cites
   target: pt:dre:121665683:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/94/2019/03/28/p/dre
 - type: cites
   target: pt:dre:303585:por
   label: null

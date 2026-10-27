@@ -157,13 +157,13 @@ relationships:
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527
   date: '2021-09-29'
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/359/2019/10/08/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/359/2019/10/08/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/port/69/2019/02/26/p/dre
+  target: pt:dre:120272926:por
   label: null
   source: http://data.dre.pt/eli/port/69/2019/02/26/p/dre
+- type: cites
+  target: pt:dre:125085420:por
+  label: null
+  source: http://data.dre.pt/eli/port/359/2019/10/08/p/dre
 - type: cites
   target: pt:dre:130243053:por
   label: null

@@ -80,13 +80,9 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
-- type: cites
   target: pt:dre:423040:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
 - type: repealed_by
   target: pt:dre:223660:por
   label: "Revogada pela RES.56/2003.2003.03.19.PCM DR.IS-B [83] DE 08/ABR/2003\0\0"

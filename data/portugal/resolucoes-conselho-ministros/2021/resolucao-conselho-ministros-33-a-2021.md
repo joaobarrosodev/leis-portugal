@@ -113,14 +113,6 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 - type: cites
-  target: eli:http://data.dre.pt/eli/port/15-b/2021/01/15/p/dre
-  label: null
-  source: http://data.dre.pt/eli/port/15-b/2021/01/15/p/dre
-- type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
-- type: cites
   target: pt:dre:149104781:por
   label: null
   source: http://data.dre.pt/eli/resolconsmin/101/2020/11/20/p/dre
@@ -131,7 +123,7 @@ relationships:
 - type: cites
   target: pt:dre:152512121:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
 - type: cites
   target: pt:dre:154361180:por
   label: null
@@ -139,7 +131,7 @@ relationships:
 - type: cites
   target: pt:dre:154361181:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/port/15-b/2021/01/15/p/dre
 - type: cites
   target: pt:dre:157397604:por
   label: null

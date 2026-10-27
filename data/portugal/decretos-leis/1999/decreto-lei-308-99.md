@@ -98,10 +98,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
   date: '2004-12-07'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
-- type: cites
   target: pt:dre:199846:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre
@@ -136,7 +132,7 @@ relationships:
 - type: cites
   target: pt:dre:468869:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
 - type: cites
   target: pt:dre:474145:por
   label: null

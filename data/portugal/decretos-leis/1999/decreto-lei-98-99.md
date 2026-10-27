@@ -90,10 +90,6 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2000-408374
   date: '2000-03-02'
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
-- type: cites
   target: pt:dre:298836:por
   label: null
   source: http://data.dre.pt/eli/port/640/1994/07/15/p/dre
@@ -104,7 +100,7 @@ relationships:
 - type: cites
   target: pt:dre:609283:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
 - type: cites
   target: pt:dre:664336:por
   label: null

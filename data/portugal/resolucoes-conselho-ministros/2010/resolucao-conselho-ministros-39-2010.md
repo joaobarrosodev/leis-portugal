@@ -74,17 +74,13 @@ subjects:
 - Igualdade de Tratamento
 relationships:
 - type: cites
-  target: eli:http://data.dre.pt/eli/resolconsmin/82/2007/06/22/p/dre
-  label: null
-  source: http://data.dre.pt/eli/resolconsmin/82/2007/06/22/p/dre
-- type: cites
   target: pt:dre:344943:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/115/2006/06/14/p/dre
 - type: cites
   target: pt:dre:638880:por
   label: null
-  source: null
+  source: http://data.dre.pt/eli/resolconsmin/82/2007/06/22/p/dre
 article_structure:
   article_count: 6
   section_count: 0
