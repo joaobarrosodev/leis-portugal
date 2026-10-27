@@ -25,6 +25,15 @@ publication:
   pages: 3223 - 3234
   pdf_url: https://files.diariodarepublica.pt/1s/1984/10/24100/32233234.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para cada Membro 12 meses após a data em que tiver sido registada a sua ratificação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

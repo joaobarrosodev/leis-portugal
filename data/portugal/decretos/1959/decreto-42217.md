@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/04/08600/03970399.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:117919458:por'
+    detail: Revogada pelo(a) Decreto n.º 1/2019 - Diário da República n.º 13/2019, Série I de 2019-01-18
 notes: []
 language: por
 version:

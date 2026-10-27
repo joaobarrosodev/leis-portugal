@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3525 - 3534
   pdf_url: https://files.diariodarepublica.pt/1s/2014/06/12200/0352503534.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-28'
+entry_into_force:
+  date: '2014-06-28'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

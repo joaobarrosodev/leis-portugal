@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2472 - 2475
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/13600/24722475.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-06-20'
+entry_into_force:
+  date: '1988-06-20'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: '1990-12-31'
+  end_rule: até 31 de Dezembro de 1990, exceptuado o n.º 3 do n.º 8.º, que
 end_of_validity_date: null
 legal_status: in_force
 notes: []

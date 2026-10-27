@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 589 - 590
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/038b00/05890590.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-02-15'
+entry_into_force:
+  date: '1998-02-15'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '1996-01-01'
+  effects_rule: a partir de 1 de Janeiro de 1996
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

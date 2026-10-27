@@ -24,6 +24,16 @@ publication:
   pages: 3854 - 3855
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/183a00/38543855.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas por este efeito pela ordem jurídica de cada
+    uma das Partes Contratantes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

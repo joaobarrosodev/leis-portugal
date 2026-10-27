@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2375 - 2375
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19600/23752375.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-08-27'
+entry_into_force:
+  date: '1980-08-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

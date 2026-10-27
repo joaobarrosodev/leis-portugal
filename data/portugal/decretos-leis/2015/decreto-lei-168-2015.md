@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6235 - 6237
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16300/0623506237.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-19'
+entry_into_force:
+  date: '2015-12-19'
+  rule: no prazo de 120 dias após a data da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

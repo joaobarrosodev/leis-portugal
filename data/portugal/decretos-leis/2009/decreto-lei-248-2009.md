@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6761 - 6765
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/18400/0676106765.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-23'
+entry_into_force:
+  date: '2009-09-23'
+  rule: no dia seguinte ao da sua publicação, à excepção do disposto nos artigos 14.º, 15.º e 24.º, os quais
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

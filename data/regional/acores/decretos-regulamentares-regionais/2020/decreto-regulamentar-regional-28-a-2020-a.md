@@ -24,6 +24,15 @@ publication:
   pages: 121-(7) a 121-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24501/0000700009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00h00 do dia 19 de dezembro
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

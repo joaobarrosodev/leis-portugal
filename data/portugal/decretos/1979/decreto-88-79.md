@@ -24,6 +24,16 @@ publication:
   pages: 2019 - 2029
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19200/20192029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: noventa dias depois da data em que os governos de quinze Estados ou a tenham assinado sem reservas quanto à ratificação,
+    aceitação ou aprovação, ou tenham entregue um documento de ratificação, aceitaç
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

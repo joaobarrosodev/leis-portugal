@@ -1,0 +1,114 @@
+{
+  "id": "pt:dre:226629:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Conteúdo funcional das categorias da carreira de investigação científica",
+      "texto": "1 - Cabe ao estagiário de investigação executar, sob orientação de um investigador ou professor do ensino superior, tarefas correspondentes a uma fase formativa de introdução a actividades de investigação científica e desenvolvimento integradas em projectos científicos.\n\n2 - Cabe ao assistente de investigação executar, desenvolver e participar em projectos de investigação e desenvolvimento, sob orientação de investigadores ou professores do ensino superior, podendo eventualmente colaborar na formação de estagiários ao nível da aprendizagem da metodologia e técnicas auxiliares de investigação.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)"
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Conselho responsável pelas actividades de formação",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Recrutamento de estagiários de investigação",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Acesso à categoria de investigador auxiliar",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Acesso à categoria de investigador principal",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Acesso à categoria de investigador-coordenador",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Outras formas de recrutamento de pessoal de investigação",
+      "texto": "1 - (Revogado.)\n\n2 - Podem ainda ser recrutados mediante concurso meramente documental:\n\na) (Revogada.)\n\nb) Para a categoria de investigador auxiliar, os professores auxiliares ou os candidatos com o grau de doutor, conferido por universidade portuguesa ou estrangeira, na área científica em causa;\n\nc) Para a categoria de investigador principal, os professores associados ou os candidatos habilitados com o título de agregado na área científica em que for aberto o concurso;\n\nd) Para a categoria de investigador-coordenador, os professores catedráticos.\n\n3 - (Revogado.)\n\n4 - (Revogado.)"
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Quadros",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Serviço prestado em outras funções públicas",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Regime de tempo integral",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Regime de dedicação exclusiva",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Obrigações a assumir",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Dirigentes",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Colaboração com outros organismos de investigação",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Especialistas e investigadores",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "CRAF dos serviços e organismos com quadros de pessoal investigador já aprovados",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Quadros actuais",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Regime transitório",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Legislação revogada",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Produção de efeitos",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Aplicada a revogação do DL 219/92 pelo n.º 1 do artigo 70.º do DL 124/99 a tudo o que não ficou transitoriamente mantido: artigos 1.º, 4.º, 5.º, 7.º a 9.º e 22.º a 34.º revogados; n.os 3 a 5 do artigo 3.º; n.os 1, 3 e 4 e alínea a) do n.º 2 do artigo 10.º. Ficam como no original os artigos 2.º, 6.º e 11.º a 21.º e os n.os 1 e 2 do artigo 3.º. Não aplicado: a revogação da parte final das alíneas b) e c) do n.º 2 do artigo 10.º (só se mantém a 'parte inicial', sem texto que diga onde acaba), que ficam inteiras como no original. A manutenção em vigor é só transitória (artigo 62.º do DL 124/99) e para certo pessoal.",
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

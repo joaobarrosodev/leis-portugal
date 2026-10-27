@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 108-(18) a 108-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/25302/0001800019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-01-01'
+entry_into_force:
+  date: '2022-01-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2022-01-01'
+  effects_rule: a 1 de janeiro de 2022
+  end_date: null
+  end_rule: até à entrada em vigor da Lei do Orçamento do Estado para 2022
 end_of_validity_date: null
 legal_status: unknown
 notes: []

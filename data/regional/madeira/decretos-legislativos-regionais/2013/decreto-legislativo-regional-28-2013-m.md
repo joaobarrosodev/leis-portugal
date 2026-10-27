@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4652 - 4690
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-07'
+entry_into_force:
+  date: '2013-08-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2013-01-01'
+  effects_rule: desde 1 de janeiro de 2013, sem prejuízo do disposto no número seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

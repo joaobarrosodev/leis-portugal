@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:419803:por",
+  "artigos": [
+    {
+      "chave": "75.º",
+      "epigrafe": "",
+      "texto": "O programa das operações estatísticas básicas será aprovado por resolução do Conselho Nacional de Estatística, a homologar, nos termos do artigo 4.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto, pelo Primeiro-Ministro."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -25,6 +25,16 @@ publication:
   pages: 2594 - 2595
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/113a00/25942595.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que as Partes Contratantes tenham procedido à notificação recíproca de que se encontram preenchidos
+    os respectivos requisitos para a sua entrada em vigor
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

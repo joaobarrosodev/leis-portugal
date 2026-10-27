@@ -24,6 +24,15 @@ publication:
   pages: 4647 - 4648
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/166a00/46474648.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do ano lectivo de 1995-1996, mas
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

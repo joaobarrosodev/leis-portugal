@@ -25,6 +25,16 @@ publication:
   pages: 1460 - 1461
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/03400/0146001461.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: observando-se os mesmos procedimentos e na mesma data do Acordo acima referido, com o efeito que este último conterá
+    a redacção alterada na data da sua entrada em vigor
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

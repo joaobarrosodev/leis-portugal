@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3688-(2) a 3688-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/244a01/00020005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-10-22'
+entry_into_force:
+  date: '1996-10-22'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 4468 - 4469
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/174a00/44684469.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à data em que três Estados membros da CPLP tenham depositado na sede da CPLP, junto ao
+    Secretariado Executivo, os respectivos instrumentos de ratificação ou documentos equiv
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

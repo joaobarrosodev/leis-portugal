@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2503 - 2508
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/08400/0250302508.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-05-01'
+entry_into_force:
+  date: '2009-05-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: na data da entrada em vigor do Decreto-Lei n.º 91/2009, de 9 de Abril
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

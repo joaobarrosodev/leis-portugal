@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 7
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14000/0000300007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-22'
+entry_into_force:
+  date: '2021-07-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: a partir da data de início do ano letivo de 2021-2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

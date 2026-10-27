@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2734-(2) a 2734-(69)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15501/00020069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-08-07'
+entry_into_force:
+  date: '1989-08-07'
+  rule: no trigésimo dia posterior ao da sua publicação no Diário da República, sem prejuízo da sua aplicação imediata, para
+    efeitos do disposto no artigo anterior
+  method: clausula
+  article: art-208
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

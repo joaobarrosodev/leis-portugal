@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 69 - 86
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23400/0006900086.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-01'
+entry_into_force:
+  date: '2024-01-01'
+  rule: no dia 1 de janeiro de 2024, sem prejuízo do previsto no n.º 2 do artigo 12.º do Decreto-Lei n.º 36/2023, de 26 de
+    maio
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

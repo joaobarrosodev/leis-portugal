@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4165 - 4176
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/13600/0416504176.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-07-18'
+entry_into_force:
+  date: '2013-07-18'
+  rule: no dia seguinte ao da sua publicação e é aplicável aos concursos relativos ao ano escolar 2013-2014 e aos posteriores
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes:

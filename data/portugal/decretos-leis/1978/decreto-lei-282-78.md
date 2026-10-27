@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1876 - 1877
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/20700/18761877.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-10-08'
+entry_into_force:
+  date: '1978-10-08'
+  rule: trinta dias após a publicação da portaria a que se refere o artigo anterior
+  method: clausula
+  article: art-9-o
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

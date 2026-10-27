@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6 - 11
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21700/0000600011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-04'
+entry_into_force:
+  date: '2021-02-04'
+  rule: no prazo de 90 dias após a sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

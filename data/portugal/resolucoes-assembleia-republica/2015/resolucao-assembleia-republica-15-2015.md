@@ -24,6 +24,15 @@ publication:
   pages: 770 - 777
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02700/0077000777.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para as Partes que o ratifiquem, a partir do dia seguinte ao depósito do segundo instrumento de ratificação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

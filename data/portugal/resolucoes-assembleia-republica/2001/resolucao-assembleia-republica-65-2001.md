@@ -24,6 +24,15 @@ publication:
   pages: 6722 - 6731
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/246a00/67226731.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para cada membro, 12 meses após a data em que a sua ratificação tiver sido registada
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

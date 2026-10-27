@@ -24,6 +24,16 @@ publication:
   pages: 5721 - 5724
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/198a00/57215724.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que vier a ser recebida a última das notas através das quais cada uma das Partes comunique à outra que
+    se encontram cumpridas as formalidades constitucionais exigidas para o efeito por cada
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

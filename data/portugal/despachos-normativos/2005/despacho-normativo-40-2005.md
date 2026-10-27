@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4475 - 4476
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/147b00/44754476.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-08-07'
+entry_into_force:
+  date: '2005-08-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2005-08-03'
+  effects_rule: 'a partir do dia seguinte ao da sua publicação, aplicando-se, ainda, aos procedimentos administrativos para
+    equiparação a bolseiro que à data da sua entrada em vigor não tenham sido objecto de decisão '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 7-(9) a 7-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07601/0000900028.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00h de 18 de abril de 2020
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

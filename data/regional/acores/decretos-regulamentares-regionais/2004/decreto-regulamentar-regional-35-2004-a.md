@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5954 - 5957
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/214b00/59545957.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-09-11'
+entry_into_force:
+  date: '2004-09-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

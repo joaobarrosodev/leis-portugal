@@ -26,7 +26,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1958/08/17300/07760776.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:238820:por#n-5'
+    detail: 5.º Fica revogada a [Portaria n.º 16806], de 8 de Agosto de 1958.
 notes: []
 language: por
 version:

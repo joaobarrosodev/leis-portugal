@@ -24,9 +24,29 @@ publication:
   supplement: null
   pages: 26 - 28
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/071000000/0002600028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-04-12'
+entry_into_force:
+  date: '2023-04-12'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: '2023-01-01'
+  effects_rule: a 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:898866988:por#art-5'
+    detail: É revogado o [Despacho Normativo n.º 5/2023], de 11 de abril.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:898866988:por'
+    detail: Revogado, a partir de 5 de dezembro de 2024, pelo(a) Despacho Normativo n.º 18/2024 - Diário da República n.º
+      235/2024, Série II de 2024-12-04 nos termos do artigo 5.º deste
 notes: []
 language: por
 version:

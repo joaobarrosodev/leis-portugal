@@ -23,6 +23,16 @@ publication:
   pages: 2 - 12
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01500/0000200012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data da receção da última notificação, por escrito e por via diplomática, de que foram cumpridos
+    os requisitos de Direito Interno das Partes necessários para a entrada em vigor do p
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

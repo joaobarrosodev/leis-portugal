@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1656 - 1656
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/09400/0165601656.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-15'
+entry_into_force:
+  date: '2010-05-15'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-5
+  effects_date: '2009-12-19'
+  effects_rule: a 19 de Dezembro de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

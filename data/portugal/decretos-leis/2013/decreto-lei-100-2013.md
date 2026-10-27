@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4391 - 4392
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/14200/0439104392.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-24'
+entry_into_force:
+  date: '2013-08-24'
+  rule: 30 dias após a respetiva publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

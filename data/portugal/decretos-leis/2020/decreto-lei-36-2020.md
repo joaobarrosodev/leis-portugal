@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13600/0000300009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-16'
+entry_into_force:
+  date: '2020-07-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: '2020-03-13'
+  effects_rule: a 13 de março de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

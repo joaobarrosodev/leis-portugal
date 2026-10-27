@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1208 - 1273
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/053a00/12081273.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-03-04'
+entry_into_force:
+  date: '1999-03-04'
+  rule: na data da sua publicação, integrando o orçamento por ele aprovado a parte do orçamento que tenha sido executada nos
+    termos do artigo 15.º da Lei n.º 28/92, de 1 de Setembro (Lei de Enquadramento do O
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

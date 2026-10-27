@@ -25,6 +25,16 @@ publication:
   pages: 1853 - 1856
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/07300/0185301856.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos
+    de direito interno das Partes
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

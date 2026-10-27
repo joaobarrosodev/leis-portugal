@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:322683:por",
+  "artigos": [
+    {
+      "chave": "56.º",
+      "epigrafe": "",
+      "texto": "1. Os lugares de auxiliar social serão providos, por meio de contrato e em regime de estágio, entre indivíduos habilitados com o curso respectivo da Escola Prática de Ciências Criminais.\n\n2. Na falta de candidatos com a habilitação necessária, podem ser contratados no mesmo regime os que tiverem a habilitação mínima do 2.º ciclo dos liceus ou equivalente e a idoneidade necessária.\n\n3. Só podem ser providos vitalìciamente no cargo de auxiliar social os candidatos que, além de possuírem o curso respectivo da Escola Prática de Ciências Criminais, revelem ao fim de dois anos de estágio especial aptidão para o lugar, atestada pelo inspector. Quando as circunstâncias o aconselhem, pode o Ministro da Justiça, por simples despacho, prorrogar este prazo por mais dois anos.\n\n4. Aos auxiliares sociais reprovados no curso da Escola Prática ou que, durante o período de estágio, mostrem falta de idoneidade, será imediatamente rescindido o contrato.\n\n5. Os agentes de assistência e vigilância social podem ser providos vitalìciamente no cargo de auxiliar social, desde que tenham frequentado com aproveitamento algum curso de especialização da Escola Prática de Ciências Criminais."
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "",
+      "texto": "Os lugares de psicólogo serão providos, em regime de estágio por dois anos, em licenciados em Medicina ou em Letras, com reconhecida competência e idoneidade para o exercício das funções."
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "",
+      "texto": "1. As receitas da Federação, constantes do subsídio inscrito no Orçamento Geral do Estado destinam-se à satisfação das respectivas despesas e das da Direcção-Geral dos Serviços Tutelares de Menores, e designadamente das que se referem a:\n\na) Subsídios para obras, apetrechamento e funcionamento dos serviços dependentes;\n\nb) Serviço social e patronato de internados, de ex-internados e de quaisquer outros menores que cumpram medidas decretadas pelos tribunais de menores;\n\nc) Internamento, tratamento ou observação de menores em serviços hospitalares, assistenciais, de educação ou outros, oficiais ou particulares;\n\nd) Subsídios a famílias próprias ou alheias, que tenham a seu cargo menores sujeitos à jurisdição dos tribunais tutelares;\n\ne) Estudos, trabalhos, reuniões, estágios, frequência de cursos, congressos e representações nacionais ou internacionais.\n\n2. Poderão ser concedidos subsídios a entidades particulares especializadas que tenham entre os seus fins os de prevenção, tratamento, ou recuperação de menores e que, para o efeito, estabeleçam acordos com a Direcção-Geral dos Serviços Tutelares de Menores."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

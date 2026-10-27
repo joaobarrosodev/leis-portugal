@@ -24,6 +24,15 @@ publication:
   pages: 11-(5) a 11-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05701/0000500017.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 do dia 22 de março de 2020
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

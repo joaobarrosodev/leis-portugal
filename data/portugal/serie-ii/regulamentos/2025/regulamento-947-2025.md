@@ -23,6 +23,15 @@ publication:
   pages: 637 - 645
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/145000000/0063700645.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil após a sua publicação pelos meios legalmente definidos, e
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2024-2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

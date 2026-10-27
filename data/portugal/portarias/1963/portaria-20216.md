@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1903 - 1904
   pdf_url: https://files.diariodarepublica.pt/1s/1963/12/28400/19031904.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1964-02-02'
+entry_into_force:
+  date: '1964-02-02'
+  rule: 60 dias após a data da sua publicação
+  method: clausula
+  article: n-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

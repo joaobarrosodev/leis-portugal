@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9300-(412) a 9300-(415)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/25203/0041200415.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-31'
+entry_into_force:
+  date: '2009-03-31'
+  rule: 90 dias após a data da sua publicação
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

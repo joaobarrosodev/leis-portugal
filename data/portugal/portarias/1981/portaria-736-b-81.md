@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2286-(2) a 2286-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19701/00020008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-09-01'
+entry_into_force:
+  date: '1981-09-01'
+  rule: em 1 de Setembro de 1981
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

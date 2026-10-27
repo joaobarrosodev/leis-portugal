@@ -25,6 +25,16 @@ publication:
   pages: 877 - 878
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/09600/08770878.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando as Altas Partes Contratantes tenham comunicado pela via diplomática o cumprimento dos respectivos requisitos
+    constitucionais
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

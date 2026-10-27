@@ -23,6 +23,17 @@ publication:
   pages: 1336 - 1350
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09000/13361350.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quanto a remunerações e contagem de tempo, no dia seguinte ao da sua publicação, salvo quando se trate de aplicação
+    de legislação com produção de efeitos especificamente determinada
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: quanto a remunerações e contagem de tempo, no dia seguinte ao da sua publicação, salvo quando se trate de
+    aplicação de legislação com produção de efeitos especificamente determinada
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

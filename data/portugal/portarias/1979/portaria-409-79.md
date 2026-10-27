@@ -23,6 +23,16 @@ publication:
   pages: 1857 - 1859
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18200/18571859.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o plano preliminar de ordenamento e será completado com regulamentos especificados, à medida que forem sendo oportunos,
+    como sejam os regulamentos de caça, de pesca, de ocupação dos apoios para ca
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

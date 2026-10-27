@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4499 - 4501
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/181a00/44994501.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-08-06'
+entry_into_force:
+  date: '1994-08-06'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

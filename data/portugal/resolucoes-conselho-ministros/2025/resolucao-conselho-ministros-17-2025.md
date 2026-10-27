@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/02500/0000800009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-06'
+entry_into_force:
+  date: '2025-02-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-7
+  effects_date: '2024-12-30'
+  effects_rule: a 30 de dezembro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

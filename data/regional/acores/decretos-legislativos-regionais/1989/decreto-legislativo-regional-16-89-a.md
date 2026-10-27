@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-06-22'
+version_history:
+  file: decreto-legislativo-regional-16-89-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-06-22'
+    amending: pt:dre:303583:por
+    amending_title: Decreto Legislativo Regional n.º 16/2000/A
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    16/2000/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1989/decreto-legislativo-regional-16-89-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,7 +194,9 @@ f) Estudos da evolução da procura e das actividades e tipologia de recreio, co
 
 ###### Artigo 4.º — Contra-ordenações e coimas
 
-Comete contra-ordenação punível com coima de 1000$00 a 10000$00 quem violar os preceitos regulamentares das reservas, designadamente os relativos aos períodos de funcionamento, ao exercício de campismo, de comércio e de outras actividades, ao trânsito de veículos e à circulação de animais, à conservação da fauna e da flora, ao uso e manutenção das infra-estruturas, aos aspectos sanitários, higiénicos e de segurança e ao sossego dos utentes.
+Comete contra-ordenação punível com coima de 5000$00 a 50000$00 quem violar os preceitos regulamentares das reservas, designadamente os relativos aos períodos de funcionamento, ao exercício de campismo, de comércio e de outras actividades, ao trânsito de veículos e à circulação de animais, à conservação da fauna e da flora, ao uso e manutenção das infra-estruturas, aos aspectos sanitários, higiénicos e de segurança e ao sossego dos utentes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-303583), publicado em 2000-06-21.
 
 ###### Artigo 5.º — Fiscalização
 

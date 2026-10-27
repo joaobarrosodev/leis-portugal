@@ -24,6 +24,16 @@ publication:
   pages: 5 - 13
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16500/0000500013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte após a data em que três Estados Parte tenham depositado na sede da CPLP, junto do
+    seu Secretariado Executivo, os respetivos instrumentos de aprovação, ratificação ou ac
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

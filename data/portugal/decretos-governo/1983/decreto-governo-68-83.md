@@ -24,6 +24,15 @@ publication:
   pages: 2881 - 2884
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/18300/28812884.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ambas as Partes se notifiquem do cumprimento dos respectivos requisitos constitucionais
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

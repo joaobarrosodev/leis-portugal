@@ -23,6 +23,16 @@ publication:
   pages: 3430 - 3432
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24000/34303432.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de trinta dias a contar da data da sua publica ção, com excepção das disposições constantes dos n.os 4 e
+    5 do artigo 9.º e dos n.os 4 e 5 do artigo 11.º, os quais
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

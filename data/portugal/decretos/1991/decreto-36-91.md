@@ -23,6 +23,16 @@ publication:
   pages: 2661 - 2664
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/113a00/26612664.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca de notas declarando que ele foi aprovado em conformidade com os requisitos legais necessários das
+    duas Partes
+  method: clausula
+  article: art-xvii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

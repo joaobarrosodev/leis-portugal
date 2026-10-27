@@ -24,6 +24,15 @@ publication:
   pages: 6685 - 6686
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/290a00/66856686.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data de entrada em execução do Orçamento da Região para 1988
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

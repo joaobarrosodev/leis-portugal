@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3940-(2) a 3940-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-07-24'
+entry_into_force:
+  date: '2014-07-24'
+  rule: no dia seguinte ao da sua publicação e retroage os seus efeitos a 1 de janeiro de 2014, sendo aplicável aos períodos
+    de tributação que se iniciem, em ou após a referida data
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

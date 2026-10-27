@@ -23,9 +23,25 @@ publication:
   supplement: null
   pages: 5477 - 5477
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/237b00/54775477.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-10-18'
+entry_into_force:
+  date: '1997-10-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1997-04-29'
+  effects_rule: a partir de 29 de Abril de 1997
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:628306:por#art-29'
+    detail: É revogada a [Resolução do Conselho de Ministros n.º 171/97], de 13 de Outubro.
 notes: []
 language: por
 version:

@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 4542-(11) a 4542-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/12501/0001100015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-07-01'
+entry_into_force:
+  date: '2015-07-01'
+  rule: no dia 1 de julho de 2015
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

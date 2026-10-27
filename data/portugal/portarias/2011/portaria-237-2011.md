@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3169 - 3170
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-10-13'
+entry_into_force:
+  date: '2011-10-13'
+  rule: 120 dias após a sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

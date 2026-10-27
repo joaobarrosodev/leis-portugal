@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 4191 - 4215
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/13800/0419104215.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-03'
+entry_into_force:
+  date: '2013-08-03'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2335-2335
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/06/18/136053655.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-06-19'
+entry_into_force:
+  date: '2020-06-19'
+  rule: no dia 19 de junho de 2020
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

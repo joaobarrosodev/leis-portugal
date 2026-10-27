@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/043000000/0002500026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:858094047:por#n-4'
+    detail: 4 - Determinar que a presente portaria revoga a [Portaria n.º 100/2023], publicada no Diário da República, 2.ª
+      série, n.º 43, de 1 de março de 2023.
 notes: []
 language: por
 version:

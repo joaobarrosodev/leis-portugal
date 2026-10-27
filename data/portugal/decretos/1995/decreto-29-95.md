@@ -24,6 +24,16 @@ publication:
   pages: 4964 - 4971
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/182a00/49644971.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a última das notificações pelas quais as Partes Contratantes comuniquem ter cumprido os respectivos requisitos
+    constitucionais necessários para a entrada em vigor do Acordo
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

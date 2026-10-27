@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1489 - 1495
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/15900/14891495.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-09-10'
+entry_into_force:
+  date: '1979-09-10'
+  rule: sessenta dias após a sua publicação
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

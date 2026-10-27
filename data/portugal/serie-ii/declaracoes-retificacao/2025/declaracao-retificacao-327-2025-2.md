@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 319 - 330
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/063000000/0031900330.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-04-01'
+entry_into_force:
+  date: '2025-04-01'
+  rule: no dia seguinte ao da sua publicação no Diário da República, e
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: na data da entrada em vigor do Decreto-Lei n.º 12/2024, de 10 de janeiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

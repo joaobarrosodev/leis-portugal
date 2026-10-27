@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1190-1190
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/04/02/130822289.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-02'
+entry_into_force:
+  date: '2020-04-02'
+  rule: na data da respetiva publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

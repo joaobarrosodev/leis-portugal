@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:199975:por",
+  "artigos": [
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "Junto dos serviços provinciais de saúde e assistência funcionarão, com carácter permanente, serviços especializados, que poderão dispor de autonomia administrativa:\n\na) Serviço de estudo e combate a outras endemias;\n\nb) Serviço de combate à tuberculose;\n\nc) Serviço de combate à lepra;\n\nd) Serviço de combate ao sezonismo;\n\ne) Missão de combate às tripanossomíases;\n\nf) Serviço de saúde mental;\n\ng) Serviço de estudo e combate ao câncer;\n\nh) Serviço de assistência materno-infantil;\n\ni) Comissão provincial de nutrição;\n\nj) Serviço de saúde escolar.\n\n§ 1.º São desde já dotados de autonomia administrativa os serviços:\n\na) Das missões de combate às tripanossomíases;\n\nb) Das Missões de Erradicação do Paludismo de Cabo Verde, de Moçambique e de S. Tomé e Príncipe;\n\nc) Dos Serviços de Combate à Lepra e Tuberculose de Angola e de Moçambique.\n\n§ 2.º Os serviços enumerados no parágrafo anterior continuam a reger-se pelos respectivos diplomas orgânicos, com as alterações determinadas pelo presente decreto.\n\n§ 4.º A Missão de Combate às Tripanossomíases da Guiné e as Missões de Erradicação do Paludismo de Cabo Verde e de S. Tomé e Príncipe encarregar-se-ão também do estudo e combate a outras endemias existentes nas respectivas províncias."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

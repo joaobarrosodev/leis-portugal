@@ -23,6 +23,15 @@ publication:
   pages: 6822 - 6825
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/263a00/68226825.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início da vigência do regulamento de execução
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

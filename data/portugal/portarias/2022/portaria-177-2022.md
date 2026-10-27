@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 11 - 12
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13000/0001100012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-08'
+entry_into_force:
+  date: '2022-07-08'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 338/2019, de 30 de setembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

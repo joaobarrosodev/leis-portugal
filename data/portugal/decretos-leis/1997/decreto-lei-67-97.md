@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1489 - 1493
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/078a00/14891493.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-04-04'
+entry_into_force:
+  date: '1997-04-04'
+  rule: no dia seguinte ao da sua publicação, com excepção das normas que integram o capítulo IV, as quais
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

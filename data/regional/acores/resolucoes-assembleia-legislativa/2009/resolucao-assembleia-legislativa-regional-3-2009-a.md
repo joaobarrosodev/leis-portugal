@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 295 - 296
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00900/0029500296.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-15'
+entry_into_force:
+  date: '2009-01-15'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data da sua aprovação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

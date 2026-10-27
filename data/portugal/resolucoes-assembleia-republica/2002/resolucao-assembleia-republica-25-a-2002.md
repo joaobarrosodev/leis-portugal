@@ -25,6 +25,16 @@ publication:
   pages: 3244-(8) a 3244-(237)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data de depósito dos instrumentos de ratificação dos Estados membros e de, pelo menos,
+    dois terços dos Estados ACP, bem como do instrumento de aprovação do presente Ac
+  method: clausula
+  article: art-93
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

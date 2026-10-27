@@ -24,6 +24,15 @@ publication:
   pages: 1182 - 1194
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19800/11821194.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que pelo menos cinco dos signatários tenham depositado os seus instrumentos de ratificação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

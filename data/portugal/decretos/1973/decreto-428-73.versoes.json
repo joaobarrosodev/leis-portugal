@@ -1,0 +1,1321 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:419803:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0582fdda4852aea0",
+    "0e4f7a76aa13c6a8",
+    "2e1662317238239f",
+    "eee2e423ffacdb15",
+    "4a5d540c721e9cf0",
+    "f29b5b2d3db5aa5e",
+    "12a6ddbf5b7f46d9",
+    "4147a9bd377aec89",
+    "9cb8432d65d7ef82",
+    "04342d95d79f8bcc",
+    "c425f1db71e8025a",
+    "d3830bec698d60df",
+    "cdf9e47111146184",
+    "e7f85cf85a9c1aae",
+    "83fef0d414f47398",
+    "ce0a027b173d26a0",
+    "8080ac980ca81b11",
+    "93d2ea58a3a07999",
+    "01884a41e87e4891",
+    "0496db0efe1abeb4",
+    "63ca47d54efb9bc1",
+    "f83c0dce9928cfa7"
+   ]
+  },
+  {
+   "date": "1977-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:255994:por",
+     "title": "Decreto-Lei n.º 349/77",
+     "published": "1977-08-25",
+     "dre_path": "/dr/detalhe/decreto-lei/349-1977-255994"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 75.º"
+   ],
+   "fragments": [
+    "0582fdda4852aea0",
+    "b002469a18d594fa",
+    "61dbdc71568139d3",
+    "7ed3e4dfc495326d",
+    "69f78c2b6c3de487",
+    "74e0973e9f05fef5",
+    "b92f4d6c35710822",
+    "01fac189eb113235",
+    "847ee4139ae45f92",
+    "eee2e423ffacdb15",
+    "4a5d540c721e9cf0",
+    "e38ebf338616c124",
+    "d52074eb230235d3",
+    "01678e187ee05030",
+    "a2c110cd50f7ec1f",
+    "d557e5ba39773013",
+    "22170bbc686ccd24",
+    "7073052f132a5605",
+    "f1869269b11c4f22",
+    "6529f4b57babbd32",
+    "39652de630d228f9",
+    "1315460be6cbb0f4",
+    "ea11810c88176691",
+    "a48ecff1027e5d74",
+    "40e8a4b1192bd89a",
+    "d33144d397c016b7",
+    "4229f99d0569f3c1",
+    "cc8af16423601544",
+    "f5dda933c1b69a61",
+    "bc52d65fe20fa27d",
+    "24e9427dbc0780b2",
+    "bb77e777891ac787",
+    "49d8901176cfb274",
+    "7f72bcebe4c76e4a",
+    "156055f17910e8a0",
+    "a936d4381cbd5ced",
+    "49a75ba2454bb56a",
+    "e0ddfd0bfb43623a",
+    "3573ed8408dd9f7a",
+    "82fb46fd6f02d6b9",
+    "f9a368900c526fb3",
+    "95ef765fa4e1640d",
+    "448232f5adb07237",
+    "3ab99f97e70a4e75",
+    "d7a5c99f2eb8d7ef",
+    "d2e9ac52b09f1fad",
+    "9c5df44f46346b66",
+    "8dbb3ebd29590fee",
+    "ae75e2294c5eba6d",
+    "6fb1d207d9ecc1ea",
+    "46ed29ce6aaccc92",
+    "2a01dea5d594ab75",
+    "c6bd93678b1093e4",
+    "b9c96e658ac426ba",
+    "6845b3d73c3eba36",
+    "d3830bec698d60df",
+    "23d48a8c98691b59",
+    "279d8e60233b2b7b",
+    "aaec87d75ffafaf6",
+    "9f81f934d7c5e807",
+    "30d1fc45f6af7d19",
+    "5c24ae9da9580c2e",
+    "4ce600a0e19271ec",
+    "e14eda57de164ce4",
+    "6183653093591799",
+    "1ede800bc2aaf9e4",
+    "c7934b95c86e2d9c",
+    "c7c5b8895f4eb524",
+    "ad3e6ce25eed030b",
+    "095d84fca5733fd9",
+    "8b3a73bd37c6c058",
+    "f8a96fc5a15d5a91",
+    "64452d23c73b8656",
+    "88e281274e291560",
+    "88ee8d08d05797ae",
+    "48ef30ed2178260a",
+    "aecc9b2503e76d43",
+    "a6d3cdb7a8b6f87c",
+    "9c2b5f5dbdcb5c6c",
+    "c2057f285ea1dbc6",
+    "781d80305a11901c",
+    "b9e752fef213986c",
+    "38ad077a8afe0bb1",
+    "f119dde535b1d921",
+    "9658f5d18c0c340c",
+    "26bbfe7af72fef6d",
+    "8948f69f76b9e977",
+    "f98fa2f2fd69e750",
+    "10fb5ef848968cd9",
+    "065a8f917d4176d0",
+    "8080ac980ca81b11",
+    "232532f27693ee91",
+    "c5d20fb14372c4ff",
+    "d3da96a346d8f4cf",
+    "b3103b363369a8ba",
+    "d48ed2f707a97424",
+    "a9697c091dd55864",
+    "62e2061ffb773dd3",
+    "ff23359578bda76c",
+    "a40202551ab03926",
+    "f1f9bd620a52524e",
+    "94c424134f428d8a",
+    "98315b86bf728835",
+    "8ea7be5d8cfc3d14",
+    "a1cf7fbd2f8fc680",
+    "0994591d2255cb91",
+    "dbdb4e25d7022519",
+    "07ce43c13282a22c",
+    "a08f6cac32cfbf9e",
+    "047cf8e76184b52d",
+    "194f320856b9f1ce",
+    "bd070cc030d50cd6",
+    "e495eecec5c28770",
+    "198e8fb432d3d5fc",
+    "65155242447e766d",
+    "de9a1fe364c82948",
+    "852257a664d47a0b",
+    "093755a55fa98d40",
+    "1eab75affb635fb4",
+    "cbf41f6ae86966f5",
+    "c07ef0a08d3064f9",
+    "7a75d2db6f851434",
+    "5dc7d62fe96c45cb",
+    "05f71fc001b01c65",
+    "19817d481492bf3d"
+   ]
+  }
+ ],
+ "fragments": {
+  "0582fdda4852aea0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Agosto\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nREGULAMENTO DO SISTEMA ESTATÍSTICO NACIONAL"
+  },
+  "0e4f7a76aa13c6a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do Conselho Nacional de Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do Conselho Nacional de Estatística\n\nArtigo 1.º - 1. Para o desempenho das atribuições que lhe são conferidas pelo artigo 3.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, o Conselho Nacional de Estatística terá as reuniões que forem convocadas pelo respectivo presidente.\n\n2. As convocações devem enumerar os assuntos a tratar na reunião e podem ser acompanhadas dos documentos a apreciar e de notas explicativas.\n\n3. Qualquer dos vogais pode propor ao presidente, por escrito, a convocação do Conselho para apreciar determinado assunto, e, ainda, desde que o faça com a necessária antecedência, a inclusão na agenda de trabalhos da reunião de questões nela não incluídas.\n\n4. O presidente pode delegar no vice-presidente a convocação e a presidência das reuniões.\n\nArt. 2.º Com o acordo do presidente, os membros do Conselho poderão ser assistidos, durante as reuniões, por técnicos, sem direito de voto, para o esclarecimento dos assuntos a apreciar.\n\nArt. 3.º - 1. O Conselho só pode funcionar quando estiver presente a maioria dos seus membros, incluindo o presidente ou o vice-presidente.\n\n2. As resoluções do Conselho são tomadas por maioria de votos dos membros presentes na reunião, tendo o presidente, ou vice-presidente, quando o substituir, voto de qualidade.\n\n3. De cada reunião lavrar-se-á acta em livro próprio, a qual, depois de aprovada pelo Conselho, será assinada pelo presidente e pelo secretário.\n\n4. As resoluções são numeradas por ordem e registadas na íntegra em livro especial, sendo assinadas nos termos referidos no número anterior.\n\nArt. 4.º Para serem eficazes as resoluções estão sujeitas a homologação do Presidente do Conselho e serão publicadas no Boletim Mensal do Instituto Nacional de Estatística.\n\nArt. 5.º As funções de secretário do Conselho, sem direito a voto, são exercidas pelo chefe da Divisão de Coordenação Estatística ou, na falta deste, por quem o director do Instituto designar."
+  },
+  "2e1662317238239f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Das comissões consultivas de estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Das comissões consultivas de estatística\n\nArt. 6.º - 1. Para o desempenho das atribuições que lhe são conferidas pelo artigo 8.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, as comissões consultivas de estatística terão as reuniões que forem convocadas pelo respectivo presidente.\n\n2. É aplicável às comissões consultivas de estatística o disposto nos n.os 2 e 3 do artigo 1.º, no artigo 2.º e nos n.os 1 a 3 do artigo 3.º"
+  },
+  "eee2e423ffacdb15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Do Instituto Nacional de Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Do Instituto Nacional de Estatística"
+  },
+  "4a5d540c721e9cf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO 1.ª — Da organização dos serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1.ª — Da organização dos serviços centrais"
+  },
+  "f29b5b2d3db5aa5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 1.ª — Centro de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 1.ª — Centro de Informática\n\nArt. 7.º O Centro de Informática compreende:\n\na) O Serviço de Coordenação e Verificação;\n\nb) O Serviço de Análise e Programação;\n\nc) O Serviço de Registo e Processamento de Dados.\n\nArt. 8.º Ao Serviço de Coordenação e Verificação, dirigido por um funcionário com a categoria de chefe de secção, compete:\n\na) Coordenar os trabalhos a executar pelo Centro, incluindo o estabelecimento dos calendários das suas operações;\n\nb) Verificar a entrada de dados para registo e a saída dos apuramentos efectuados;\n\nc) Arquivar as bandas e os discos magnéticos e os cartões perfurados;\n\nd) Assegurar o expediente do Centro.\n\nArt. 9.º Ao Serviço de Análise e Programação, dirigido pelo analista-chefe, compete:\n\na) Colaborar com os diferentes serviços do Instituto no estabelecimento de instrumentos de notação mapas de apuramento e elaborar as rotinas de trabalho destinadas a tratamento electrónico;\n\nb) Colaborar na preparação e execução de censos e inquéritos, assim como em outros trabalhos determinados superiormente, quando destinados a tratamento electrónico;\n\nc) Estabelecer as rotinas de processamento, definindo as diferentes fases e programas a empregar e os processos de exploração, incluindo multiprogramação;\n\nd) Executar os programas destinados às várias rotinas, especificar os elementos para testes e analisar estes;\n\ne) Estimar custos de estudos e processamentos electrónicos para elaboração de orçamentos, quando solicitados;\n\nf) Actualizar o arquivo de programas;\n\ng) Manter actualizados os programas e conjuntos de programas necessários para o trabalho do equipamento electrónico e as normas de confecção desses programas.\n\nArt. 10.º Ao Serviço de Registo e Processamento de Dados, dirigido pelo chefe de exploração, compete:\n\na) Registar dados em suporte mecanográfico e proceder às respectivas verificações, conferências e rectificações;\n\nb) Executar os processamentos determinados pelos calendários estabelecidos;\n\nc) Testar, segundo as directivas correspondentes, os programas recebidos do Serviço de Análise e Programação;\n\nd) Reparar, afinar e conservar o seu equipamento e as máquinas de escritório do Instituto."
+  },
+  "12a6ddbf5b7f46d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 2.ª — Gabinete de Planeamento e Contrôle Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 2.ª — Gabinete de Planeamento e Contrôle Geral\n\nArt. 11.º - 1. Ao Gabinete de Planeamento e Contrôle Geral competirá, entre outras tarefas que lhe venham a ser atribuídas, organizar os planos de actividade e os programas de trabalho do Instituto e respectivos calendários de execução, vigiar e acompanhar a execução dos mesmos, verificar a adequação dos seus resultados aos planos e programas e elaborar os relatórios gerais necessários.\n\n2. O Gabinete de Planeamento e Contrôle Geral será dirigido por um funcionário com a categoria de director de serviços."
+  },
+  "4147a9bd377aec89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 3.ª — Direcção dos Serviços de Estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 3.ª — Direcção dos Serviços de Estudos\n\nArt. 12.º A Direcção dos Serviços de Estudos compreende:\n\na) A Divisão de Metodologia Estatística;\n\nb) A Divisão de Análise e Estudos Económicos e Sociais;\n\nc) A Divisão de Contas Nacionais;\n\nd) A Secção Auxiliar.\n\nArt. 13.º À Divisão de Metodologia Estatística compete:\n\na) Realizar os estudos de estatística pura e aplicada que se mostrem convenientes;\n\nb) Prestar o apoio técnico-estatístico que for necessário a todos os recenseamentos, inquéritos, trabalhos especiais e estatísticas correntes;\n\nc) Prestar assistência técnico-estatística às delegações do Instituto ou outras entidades que dela careçam, fornecendo pessoal especializado ou realizando os estudos especiais adequados, nos termos e condições que forem autorizados;\n\nd) Colaborar na formação profissional do pessoal, designadamente pela organização da parte de metodologia dos respectivos cursos.\n\nArt. 14.º - À Divisão de Análise e Estudos Económicos e Sociais compete:\n\na) Construir os sistemas estatísticos fundamentais para o planeamento sócio-económico;\n\nb) Realizar os estudos econométricos e outros encomendados pelo Governo ou por outras entidades ou de sua iniciativa;\n\nc) Analisar as séries compiladas pelo Instituto;\n\nd) Construir índices da evolução conjuntural e realizar estudos de conjuntura;\n\ne) Realizar estimativas e projecções demográficas e outros estudos dentro desse domínio;\n\nf) Prestar colaboração técnica aos diferentes serviços do Instituto, às suas delegações e aos órgãos delegados.\n\nArt. 15.º À Divisão de Contas Nacionais compete organizar a contabilidade nacional de cada uma das parcelas do território nacional e a do seu conjunto, assumindo, pela forma e na data julgadas mais convenientes, a responsabilidade pelo cumprimento das tarefas a cargo da Missão de Estudos do Rendimento Nacional do Ultramar.\n\nArt. 16.º Compete à Secção Auxiliar prestar o apoio executivo de que a Direcção dos Serviços de Estudos careça para a realização das respectivas tarefas."
+  },
+  "9cb8432d65d7ef82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 4.ª — Direcção dos Serviços de Coordenação e Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 4.ª — Direcção dos Serviços de Coordenação e Administração Geral\n\nArt. 17.º A Direcção dos Serviços de Coordenação e Administração Geral compreende:\n\na) A Divisão de Coordenação Estatística;\n\nb) A Divisão de Pessoal;\n\nc) A Repartição de Contabilidade e Património;\n\nd) O Serviço de Contencioso;\n\ne) O Serviço de Documentação;\n\nf) O Serviço de Informações e Relações Públicas.\n\nArt. 18.º A Divisão de Coordenação Estatística compreende:\n\na) O Serviço de Gestão de Ficheiros;\n\nb) A Secção de Coordenação Estatística.\n\nArt. 19.º Ao Serviço de Gestão de Ficheiros compete criar e manter actualizados os ficheiros necessários ao I. N. E. e a entidades estranhas, bem como a satisfação dos pedidos que lhe forem feitos.\n\nArt. 20.º À Secção de Coordenação Estatística compete:\n\na) A realização das operações de coordenação estatística a que se referem os artigos 16.º a 19.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data;\n\nb) O expediente do Conselho Nacional de Estatística.\n\nArt. 21.º A Divisão de Pessoal compreende:\n\na) O Serviço de Selecção e Formação do Pessoal;\n\nb) A Secção de Administração do Pessoal.\n\nArt. 22.º Compete ao Serviço de Selecção e Formação do Pessoal:\n\na) Proceder ao recrutamento e selecção do pessoal;\n\nb) Acolher o pessoal recém-entrado;\n\nc) Promover e organizar a realização de cursos de formação e aperfeiçoamento a que se refere o artigo 69.º\n\nArt. 23.º Compete à Secção de Administração do Pessoal:\n\na) A organização dos processos de admissão, concursos, promoção e exoneração do pessoal;\n\nb) A organização e permanente actualização do registo do pessoal;\n\nc) O registo da assiduidade dos servidores do I. N E. e dos demais elementos de informação que interessem para a classificação do serviço dos funcionários;\n\nd) Assegurar as relações com os serviços de segurança social.\n\nArt. 24.º A Repartição de Contabilidade e Património compreende:\n\na) A Secção de Contabilidade e Tesouraria;\n\nb) A Secção de Património e Economato;\n\nc) A Secção de Reprografia.\n\nArt. 25.º Compete à Secção de Contabilidade e Tesouraria:\n\na) A elaboração do projecto do orçamento do Instituto com os elementos fornecidos pelo Gabinete de Planeamento e Contrôle Geral;\n\nb) A organização de propostas de alterações orçamentais;\n\nc) O processamento e a liquidação das despesas do I. N. E.;\n\nd) A fiscalização e a contabilização das receitas e despesas do Instituto;\n\ne) O recebimento e movimentação das receitas cobradas directamente;\n\nf) As relações com a Fazenda Nacional respeitantes a instrumentos de notação pagos;\n\ng) Os pagamentos de vencimentos e outras remunerações, fornecimentos e serviços.\n\nArt. 26.º Compete à Secção de Património e Economato:\n\na) A reparação, conservação e limpeza das instalações e logradouros;\n\nb) A organização de medidas de segurança contra incêndios e outras que as circunstâncias aconselhem;\n\nc) A aquisição, depósito e distribuição dos móveis e material de consumo corrente;\n\nd) A conservação e reparação dos móveis e outros bens;\n\ne) A organização e manutenção do inventário e cadastro de bens;\n\nf) O depósito e distribuição de instrumentos de notação e outros impressos;\n\ng) A venda de publicações e outros artigos.\n\nArt. 27.º Compete à Secção de Reprografia:\n\na) Programar a execução dos trabalhos tipográficos necessários ao Instituto;\n\nb) Editar publicações, instrumentos de notação e outros impressos nas suas instalações;\n\nc) Promover as consultas e estudar as propostas para a execução de trabalhos tipográficos fora do Instituto;\n\nd) Controlar os prazos e a qualidade dos trabalhos executados;\n\ne) Registar documentos pelo processo da microfilmagem;\n\nf) Reproduzir documentos pelos processos ao seu dispor.\n\nArt. 28.º Ao Serviço de Contencioso, a cargo de um jurista, compete a organização dos processos de transgressão estatística, incluindo todas as diligências necessárias ao seu andamento e finalização, bem como o apoio jurídico a todos os serviços do Instituto.\n\nArt. 29.º Ao Serviço de Documentação, chefiado por um primeiro-bibliotecário-arquivista, compete:\n\na) Ordenar, catalogar, classificar e conservar toda a documentação entrada na biblioteca e no arquivo geral;\n\nb) Receber as publicações editadas pelo Instituto e proceder à sua distribuição;\n\nc) Manter as relações com os organismos internacionais e estrangeiros para estabelecer os intercâmbios convenientes e fazer a aquisição de publicações;\n\nd) Explorar o fundo bibliográfico existente e dele extrair informações a fornecer aos interessados nessas matérias;\n\ne) Manter o contacto com serviços congéneres, tanto do sector público como do sector privado, colaborando com eles na difusão da informação técnica, científica, económica e social de interesse para o País.\n\nArt. 30.º Ao Serviço de Informações e Relações Públicas, compete:\n\na) Prestar informações a entidades nacionais, estrangeiras e internacionais e organizar o registo das informações prestadas;\n\nb) Atender directamente o público, satisfazendo ou encaminhando os seus pedidos;\n\nc) Exercer permanente acção informativa junto do público interessado na acção do I. N. E., directamente ou com recurso aos meios de comunicação social, designadamente em campanhas de informação e esclarecimento relativamente a censos e outras operações estatísticas em que isso se justifique;\n\nd) Auscultar o público, directamente ou por intermédio de informação, estudar as suas reclamações, sugestões e opiniões e encaminhá-las para os departamentos competentes do Instituto.\n\nSUBSECÇAO 5.ª\n\nDirecção dos Serviços de Estatísticas Correntes\n\nArt. 31.º A Direcção dos Serviços de Estatísticas Correntes compreende:\n\na) O Serviço de Coordenação;\n\nb) A Divisão de Estatísticas Agrícolas e Alimentares;\n\nc) A Divisão de Estatísticas Industriais;\n\nd) A Divisão de Estatísticas da Distribuição e Serviços;\n\ne) A Divisão de Estatísticas Financeiras;\n\nf) A Divisão de Estatísticas Demográficas e Sociais;\n\ng) A Divisão de Estatísticas Gerais e Regionais.\n\nArt. 32.º Ao Serviço de Coordenação, sob a chefia imediata e directa do director dos Serviços de Estatísticas Correntes, compete:\n\na) Coordenar as operações a executar pela direcção de serviços, incluindo o estabelecimento dos planos de acção e respectivos calendários;\n\nb) Elaborar a estimativa das despesas e determinar os custos dos diversos tipos de estatística elaborados na direcção de serviços;\n\nc) Criar e manter os sistemas necessários para contrôle do tempo e dos custos dos diferentes tipos de estatística elaborados pela direcção de serviços;\n\nd) Estimar custos e elaborar orçamentos para os trabalhos especiais solicitados à direcção de serviços;\n\ne) Centralizar os materiais necessários à redacção dos relatórios anuais ou outros da competência da direcção de serviços.\n\nArt. 33.º Compete à Divisão de Estatísticas Agrícolas e Alimentares:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos e inquéritos de base à agricultura, silvicultura, pecuária, caça e pesca;\n\nb) Elaborar as estatísticas correntes da produção vegetal dos sectores agrícola e florestal, da produção animal, da caça e pesca, as estatísticas económicas e sociais ligadas àqueles sectores, nomeadamente as da população e mão-de-obra, dos preços e dos meios de produção adquiridos pelos empresários, incluindo o cálculo dos respectivos números índices, do crédito e seguros, e os relativos à utilização dos produtos desses sectores.\n\nArt. 34.º Compete à Divisão de Estatísticas Industriais:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos e inquéritos de base às indústrias extractivas e transformadoras e da construção civil, à produção, transporte e distribuição de electricidade e gás e ao abastecimento de água;\n\nb) Elaborar as estatísticas correntes respeitantes ao sector e, designadamente, as da produção, existência de mercadorias, consumos e meios de produção, preços dos produtos fabricados e consumidos e da população e mão-de-obra, incluindo o cálculo dos respectivos números índices.\n\nArt. 35.º Compete à Divisão de Estatísticas da Distribuição e Serviços:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos gerais e dos inquéritos de base relativos à distribuição e à prestação de serviços, incluindo os transportes, comunicações e turismo;\n\nb) Elaborar as estatísticas da importação, exportação, reexportação, baldeação, trânsito internacional e cabotagem, e a das mercadorias entradas em armazém, bem como calcular todos os indicadores respeitantes a este sector;\n\nc) Elaborar as estatísticas do sector da distribuição e da prestação de serviços em geral e, em especial, dos estabelecimentos, pessoal e respectivas remunerações, capitais investidos, existências de mercadorias, compras e vendas, dos preços por grosso e a retalho, dos transportes marítimos, fluviais, ferroviários, rodoviários e aéreos, dos correios e telecomunicações e do turismo.\n\nArt. 36.º Compete à Divisão de Estatísticas Financeiras:\n\na) A elaboração das estatísticas financeiras do sector público, designadamente as das receitas e despesas do Estado, das autarquias locais e dos respectivos serviços autónomos;\n\nb) A elaboração das estatísticas financeiras do sector privado, designadamente as da constituição, dissolução, fusão e movimento das sociedades, as do mercado cambial, monetário e financeiro, e as da balança de pagamentos.\n\nArt. 37.º Compete à Divisão de Estatísticas Demográficas e Sociais:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos gerais e dos inquéritos de base sobre as matérias da sua competência definidas na alínea seguinte;\n\nb) Elaborar as estatísticas correntes de demografia quantitativa e qualitativa, saúde e acidentes, actividades judiciárias, ensino, ciência, actividades culturais, desportivas e recreativas, tempo livre, condições de vida da família e dos agrupamentos sociais, da população activa em geral, nomeadamente do emprego, das remunerações e outras condições de trabalho, da organização corporativa, da vida política, e da previdência e assistência sociais.\n\nArt. 38.º Compete à Divisão de Estatísticas Gerais e Regionais:\n\na) A organização das publicações que interessem a mais de um dos serviços do Instituto;\n\nb) A organização das estatísticas que interessem às regiões do País e a sua eventual publicação;\n\nc) A centralização das relações com as delegações do Instituto e a organização do apoio técnico de que estas careçam."
+  },
+  "04342d95d79f8bcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 6.ª — Direcção dos Serviços de Censos e inquéritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 6.ª — Direcção dos Serviços de Censos e inquéritos\n\nArt. 39.º A Direcção dos Serviços de Censos e Inquéritos compreende:\n\na) O Serviço de Coordenação;\n\nb) A Divisão de Preparação de Censos e Inquéritos e de Análise de Resultados;\n\nc) A Divisão de Execução de Censos e Inquéritos.\n\nArt. 40.º Compete ao Serviço de Coordenação, sob a chefia imediata e directa do director dos Serviços de Censos e Inquéritos:\n\na) Coordenar as operações a executar pela direcção de serviços, incluindo o estabelecimento dos planos de acção e respectivos calendários;\n\nb) Elaborar a estimativa das despesas e determinar os custos de todas as actividades que integram os recenseamentos e inquéritos;\n\nc) Criar e manter os sistemas necessários para contrôle do tempo e dos custos das operações realizadas pela direcção de serviços;\n\nd) Estimar custos e elaborar os orçamentos para os trabalhos especiais solicitados à direcção de serviços;\n\ne) Centralizar os materiais necessários à redacção dos relatórios finais de cada censo ou inquérito e dos relatórios anuais ou outros da competência da direcção de serviços.\n\nArt. 41.º Compete à Divisão de Preparação de Censos e Inquéritos e de Análise de Resultados:\n\na) Elaborar, em conjunto com os serviços do I. N. E. especializados nas respectivas matérias e com representantes de entidades estranhas ao I. N. E., os programas dos censos e inquéritos especiais, incluindo o projecto das disposições legais eventualmente necessárias;\n\nb) Preparar os instrumentos de notação e os impressos auxiliares;\n\nc) Colaborar na elaboração das campanhas publicitárias das operações a realizar ou em realização;\n\nd) Elaborar as instruções e manuais dos cursos de formação e aperfeiçoamento dos agentes de censos e inquéritos e do pessoal com funções de codificação e de validação da informação;\n\ne) Elaborar as especificações necessárias para o processamento dos quadros de apuramento;\n\nf) Analisar os apuramentos efectuados;\n\ng) Publicar os resultados obtidos;\n\nh) Arquivar os dados disponíveis e os publicados;\n\ni) Assegurar a prestação de informações relativas aos censos e inquéritos realizados.\n\nArt. 42.º Compete à Divisão de Execução de Censos e Inquéritos:\n\na) Programar e efectivar os cursos de formação e de aperfeiçoamento dos agentes de censos e inquéritos e do pessoal afecto à codificação e validação da informação;\n\nb) Distribuir e recolher os instrumentos de notação e impressos auxiliares utilizados nas diversas operações;\n\nc) Recrutar o pessoal externo necessário para a efectivação dos censos e inquéritos;\n\nd) Distribuir as peças relativas às campanhas publicitárias planeadas para as diversas operações e vigiar a execução dessas campanhas;\n\ne) Preparar para cada operação contrôles de qualidade;\n\nf) Analisar e codificar os instrumentos de notação recolhidos;\n\ng) Elaborar, com a colaboração dos serviços especializados nas respectivas matérias, as normas para a validação automática da informação.\n\nArt. 43.º A distribuição de tarefas constantes dos artigos anteriores poderá ser modificada por despacho do Presidente do Conselho, mediante proposta fundamentada do director do Instituto."
+  },
+  "c425f1db71e8025a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO 2.ª — Da organização das delegações metropolitanas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2.ª — Da organização das delegações metropolitanas\n\nArt. 44.º Às delegações metropolitanas compete:\n\na) Colher, dentro das áreas respectivas, as informações estatísticas indicadas pelo director e necessárias para o bom andamento dos serviços;\n\nb) Colaborar com os serviços centrais na consecução dos objectivos de natureza estatística respeitantes às áreas da sua jurisdição;\n\nc) Apoiar os serviços centrais, nas áreas da sua competência, quer na realização das operações do tipo censitário, quer na resolução de casos difíceis ou demorados no domínio das estatísticas correntes;\n\nd) Aproveitar os dados estatísticos existentes para a elaboração de estudos de natureza económica e social com interesse para fins de planeamento e programação do desenvolvimento a nível regional;\n\ne) Organizar o fornecimento de informações estatísticas e o esclarecimento dos respectivos utentes."
+  },
+  "d3830bec698d60df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO 3.ª — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3.ª — Do pessoal"
+  },
+  "cdf9e47111146184": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 1.ª — Do provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 1.ª — Do provimento\n\nArt. 45.º - 1. Os lugares de director e subdirectores serão providos, por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado e de reconhecida competência.\n\n2. O provimento dos restantes lugares do Instituto será feito mediante proposta do director.\n\nArt. 46.º - 1. Os lugares de director de serviços, director e subdirector do Centro de Informática, chefe de divisão e analista-chefe serão providos, por escolha, de entre indivíduos com curso superior adequado ao exercício das respectivas funções.\n\n2. O lulgar de chefe de repartição será provido, por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado ou chefes de secção do quadro do Instituto com mais de cinco anos de efectivo serviço nessa categoria e informação de serviço não inferior a Bom.\n\nArt. 47.º O pessoal técnico e administrativo adiante designado será recrutado, por escolha, da forma seguinte:\n\na) Os técnicos estatísticos principais e de 1.ª classe de entre, respectivamente, os técnicos estatísticos de 1.ª e 2.ª classes;\n\nb) Os técnicos estatísticos de 2.ª classe, de entre os técnicos estagiários que hajam feito pelo menos um ano de estágio com boa informação final e os chefes de secção ou os técnicos auxiliares principais com curso superior;\n\nc) Os técnicos estagiários, de entre indivíduos com curso superior adequado e em função das classificações escolares obtidas, as quais poderão ser aumentadas até três valores quando os candidatos apresentem trabalhos de sua autoria sobre matéria de interesse para as funções a exercer e nos quais revelem conhecimentos ou aptidões especiais justificativas daquela valorização;\n\nd) O jurista de 2.ª classe, de entre licenciados em Direito;\n\ne) O primeiro-bibliotecário-arquivista e o segundo-bibliotecário-arquivista, de entre indivíduos possuidores das habilitações legais necessárias, tendo em conta as classificações escolares obtidas, as quais poderão ser aumentadas até três valores quando os candidatos apresentem trabalhos de sua autoria sobre matéria de interesse para as funções a exercer e nos quais revelem conhecimentos ou aptidões especiais justificativas daquela valorização;\n\nf) Os técnicos auxiliares principais, de entre indivíduos possuidores de um curso superior adequado, técnicos auxiliares de 1.ª classe e primeiros-mecanógrafos do quadro;\n\ng) O tesoureiro de 2.ª classe, de entre funcionários administrativos com a habilitação legal e reconhecidas condições para o desempenho do cargo;\n\nh) Os telefonistas de 1.ª e 2.ª classes, de acordo com o [Decreto-Lei n.º 116/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1971-445908), de 2 de Abril.\n\nArt. 48.º O pessoal do Centro de Informática adiante indicado será recrutado, por escolha, pela forma seguinte:\n\na) O programador principal e o analista de multiprogramação, de entre os programadores de multiprogramação e os analistas de sistemas;\n\nb) O chefe de exploração, de entre os analistas de sistemas, os programadores de multiprogramação, os programadores e os operadores-chefes;\n\nc) Os programadores de multiprogramação e os analistas de sistemas, de entre os programadores;\n\nd) Os programadores, de entre os indivíduos que, satisfazendo as condições gerais para provimento nas categorias correspondentes, possuam os cursos de programação necessários, ministrados por entidade considerada idónea;\n\ne) O operador-chefe, os primeiros-operadores e os segundos-operadores, respectivamente, de entre os primeiros-operadores, segundos-operadores e terceiros-operadores, habilitados com os cursos a que se refere a alínea c) do n.º 1 do artigo 69.º;\n\nf) Os primeiros-mecanógrafos, primeiros-mecanógrarfos-adjuntos, segundos-mecanógrafos e segundos-mecanógrafos-adjuntos, respectivamente, de entre os primeiros-mecanógrafos-adjuntos, os segundos-mecanógrafos, os segundos-mecanógrafos-adjuntos e os terceiros-mecanógrafos, habilitados com os cursos a que se refere a alínea c) do n.º 1 do artigo 69.º;\n\ng) Os terceiros-mecanógrafos e os terceiros-operadores, de entre indivíduos de idade não inferior a 18 anos, habilitados com o 2.º ciclo dos liceus, o curso industrial, o curso comercial ou outras habilitações equivalentes, tendo preferência os possuidores da preparação correspondente às funções a desempenhar, comprovada por documento emitido por entidade considerada idónea;\n\nh) Os mecânicos de 1.ª e 2.ª classes, de entre, respectivamente, os mecânicos de 2.ª e 3.ª classes;\n\ni) O mecânico de 3.ª classe, de entre indivíduos de idade não inferior a 18 anos, habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes.\n\nArt. 49.º O pessoal da Divisão de Censos e Inquéritos adiante indicado será recrutado por escolha, nos termos seguintes:\n\na) Os supervisores de censos e inquéritos, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe e os agentes de censos e inquéritos de 2.ª classe, de entre, respectivamente, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe, os agentes de censos e inquéritos de 2.ª classe e os agentes de censos e inquéritos de 3.ª classe;\n\nb) Os agentes de censos e inquéritos de 3.ª classe, de entre indivíduos com a idade mínima de 18 anos e as habilitações legais, tendo preferência os que, com boas informações de serviço, embora noutras situações, tenham desempenhado essas funções;\n\nc) O topógrafo-chefe, de entre indivíduos de idade não inferior a 18 anos, habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes.\n\nArt. 50.º O pessoal do serviço de reprografia será recrutado, por escolha, da forma seguinte:\n\na) O desenhador-chefe e os desenhadores de 1.ª e 2.ª classes de entre, respectivamente, os desenhadores de 1.ª classe e os desenhadores de 2.ª e 3.ª classes;\n\nb) O planificador-montador, de entre o controlador-apontador, o fotógrafo de 1.ª classe, o operador de microfilmagem e os dactilógrafos-compositores de offset de 1.ª classe;\n\nc) O controlador-apontador, o fotógrafo de 1.ª classe e o operador de microfilmagem, de entre os desenhadores de 2.ª classe e os operadores de reprografia de 1.ª classe;\n\nd) O operador de reprografia de 1.ª classe, de entre os operadores de reprografia de 2.ª classe;\n\ne) O operador de reprorafia de 2.ª classe, de entre os operadores de reprografia de 3.ª classe;\n\nf) O operador de reprografia de 3.ª classe, de entre indivíduos de, pelo menos, 18 anos de idade e com a escolaridade obrigatória;\n\ng) O desenhador de 3.ª classe, de entre indivíduos de idade não inferior a 18 anos, habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes;\n\nh) Os dactilógrafos-compositores de offset de 1.ª classe, de entre os dactilógrafos-composito de offset de 2.ª classe;\n\ni) Os dactilógrafos-compositores de offset de 2.ª classe, de entre os escriturários-dactilógrafos de 1.ª classe com a escolaridade obrigatória.\n\nArt. 51.º - 1. A escolha será feita, mediante proposta do director, tendo em conta a classificação de serviço, a antiguidade e a aptidão para assumir responsabilidades de chefia, quando seja caso disso.\n\n2. No caso de informação de serviço de Muito bom durante dois anos consecutivos, o prazo de três anos a que se refere o artigo 22.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, é reduzido de um ano.\n\nArt. 52.º O serviço dos funcionários do Instituto Nacional de Estatística será objecto de classificação anual, a estabelecer na conformidade de normas a aprovar pelo Presidente do Conselho no que se refere aos funcionários dos serviços centrais e das delegações metropolitanas.\n\nArt. 53.º Se não houver pessoal nas condições legalmente exigidas e com os requisitos julgados necessários, poderá a escolha incidir em indivíduos estranhos ao Instituto, de reconhecida competência e que satisfaçam as condições da lei geral para provimento nas respectivas categorias.\n\nArt. 54.º Sempre que se verifiquem vagas no quadro do pessoal do Instituto, poderão ser providos, em cada carreira e em categorias mais baixas, tantos lugares quantos os dessas vagas.\n\nArt. 55.º Mediante proposta do director, poderá o funcionário provido no lugar de jurista de 2.ª classe ser promovido à 1.ª classe quando tiver completado três anos de serviço classificado de Bom.\n\nArt. 56.º - 1. Os lugares de chefe de secção serão providos, por escolha, de entre os técnicos auxiliares principais e os primeiros-oficiais com boa classificação de serviço.\n\n2. O lugar de chefe da Secção de Contabilidade e Tesouraria poderá ser provido nos termos do artigo 12.º do [Decreto-Lei n.º 32886](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32886-1943-398140), de 30 de Junho de 1943.\n\nArt. 57.º - 1. Os lugares de primeiro-oficial e de técnico auxiliar de 1.ª classe serão providos por concurso de promoção, a que podem concorrer os segundos-oficiais e os técnicos auxiliares de 2.ª classe, com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.\n\n2. Os lugares de técnico auxiliar de 2.ª classe serão providos por concurso de promoção a que podem concorrer os técnicos auxiliares de 3.ª classe com aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 69.º e mais condições da lei geral.\n\n3. Os lugares de segundo-oficial e de técnico auxiliar de 3.ª classe serão providos por concurso de promoção a que podem concorrer os terceiros-oficiais e os auxiliares técnicos com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.\n\n4. Os lugares de terceiro-oficial e de auxiliar técnico serão providos por concurso, com prestação de provas, nos termos da lei geral.\n\nArt. 58.º O recrutamento dos escriturários-dactilógrafos de 1.ª e 2.ª classes far-se-á nos termos da lei geral.\n\nArt. 59.º Os lugares de pessoal auxiliar serão providos, por escolha, da forma seguinte:\n\na) O de motorista de 2.ª classe, de entre indivíduos possuidores de carta de condução e que obedeçam à lei geral;\n\nb) Os de contínuo de 1.ª classe, de entre os contínuos de 2.ª classe;\n\nc) O de guarda-nocturno de 1.ª classe, de entre os contínuos de 2.ª classe ou de indivíduos estranhos ao Instituto e que obedeçam à lei geral;\n\nd) Os de contínuos de 2.ª classe e de paquete, nos termos da lei geral.\n\nArt. 60.º O pessoal a contratar nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, será recrutado, por escolha, de entre os indivíduos de idade não inferior a 18 anos e com as habilitações exigidas pela lei geral."
+  },
+  "e7f85cf85a9c1aae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 2.ª — Das remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 2.ª — Das remunerações\n\nArt. 61.º - 1. Ao pessoal em serviço nas delegações das ilhas adjacentes que à data do provimento não resida no respectivo arquipélago é concedido um subsídio mensal correspondente a 20% do respectivo vencimento.\n\n2. O pessoal auxiliar em serviço nas delegações metropolitanas tem direito à concessão de fardamento.\n\nArt. 62.º Os funcionários que exerçam a chefia das delegações das ilhas adjacentes terão direito a uma gratificação mensal de 1000$00.\n\nArt. 63.º - 1. O pessoal permanente que preste serviço nas delegações tem direito ao abono das despesas de transporte e de ajudas de custo quando tenha de se deslocar para efeito de concursos.\n\n2. Tem direito aos mesmos abonos o pessoal permanente das delegações que se desloque da sua resiciência oficial para a frequência dos cursos de preparação ou aperfeiçoamento profissional, quando não beneficie do disposto no n.º 2 do artigo 70.º\n\nArt. 64.º - 1. O pessoal que, por virtude do primeiro provimento, transferência ou promoção, tiver de deslocar a sua residência para a sede de qualquer das delegações, ou de uma para outra delegação, ou destas para os serviços centrais, tem direito ao abono de despesas de transportes, para si e para as pessoas de sua família, nos termos do [Decreto-Lei n.º 44932](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44932-1963-195269), de 25 de Março de 1963.\n\n2. O abono será regulado pelo Estatuto do Funcionalismo Ultramarino, quando a deslocação se efectuar entre a metrópole e as províncias ultramarinas, ou inversamente, ou entre aquelas províncias.\n\nArt. 65.º Aos funcionários do Instituto que colaborem no Boletim Mensal de Estatística será atribuída, por essa colaboração, a gratificação que vier a ser fixada por despacho ministerial.\n\nArt. 66.º O funcionário a cargo de quem estiver a tesouraria terá direito a abono para falhas.\n\nArt. 67.º O despacho que autorizar o pessoal permanente e o contratado, nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, a colaborar na realização de recenseamentos, inquéritos e outros trabalhos, ao abrigo do artigo 72.º, fixará também as remunerações devidas por tal colaboração.\n\nArt. 68.º - 1. Os indivíduos admitidos ao abrigo do artigo 29.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, receberão as remunerações fixadas por despacho ministerial, de harmonia com os trabalhos de que foram encarregados, as quais não poderão ser superiores:\n\na) Para os que sejam simples executantes, à correspondente à letra S do quadro do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969;\n\nb) Para os restantes, à correspondente à letra L do mesmo quadro.\n\n2. As remunerações dos indivíduos encarregados das funções referidas no artigo 30.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, poderão deixar de referir-se a períodos de tempo e ser fixadas em bases diferentes.\n\n3. A fixação das remunerações na metrópole será feita com o acordo do Ministro das Finanças."
+  },
+  "83fef0d414f47398": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 3.ª — Da preparação e aperfeiçoamento profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 3.ª — Da preparação e aperfeiçoamento profissionais\n\nArt. 69.º - 1. Para a preparação e aperfeiçoamento do seu pessoal, organizará o Instituto, com a frequência conveniente, os seguintes cursos:\n\na) Cursos elementares de estatística, destinados ao pessoal admitido nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data;\n\nb) Cursos complementares de estatística, destinados a ministrar aos candidatos a concurso de promoção os conhecimentos para isso necessários;\n\nc) Cursos de divulgação e preparação informática, destinados a ministrar ao pessoal do Instituto os conhecimentos indispensáveis a uma boa utilização dos meios electrónicos de processamento e ao eficiente desempenho das suas funções;\n\nd) Cursos de aperfeiçoamento profissional, destinados a dar aos funcionários os conhecimentos relativos às matérias em que trabalham;\n\ne) Cursos de preparação para censos e inquéritos, destinados a fornecer ao pessoal a utilizar na sua execução os conhecimentos básicos necessários ao desempenho das respectivas funções.\n\n2. Os cursos poderão ser frequentados por funcionários de outros serviços, mediante acordo entre o director do Instituto e os dirigentes dos serviços interessados.\n\n3. Os cursos serão professados por funcionários do Instituto, ou por indivíduos estranhos com especial competência nas matérias a tratar, sendo as respectivas remunerações fixadas por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.\n\nArt. 70.º - 1. Os cursos poderão realizar-se na sede do Instituto, ou em algumas das delegações, conforme for julgado mais conveniente.\n\n2. Os funcionários das delegações ultramarinas que forem admitidos à frequência dos cursos gozam do regime aplicável aos funcionários que frequentem o curso complementar do Instituto Superior de Ciências Sociais e Política Ultramarina."
+  },
+  "ce0a027b173d26a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 4.ª — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 4.ª — Disposições diversas\n\nArt. 71.º A chefia das delegações metropolitanas será confiada, mediante proposta do director, a funcionário de categoria igual ou superior a chefe de secção.\n\nArt. 72.º O pessoal permanente e o contratado nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, poderá ser utilizado na realização de recenseamentos, inquéritos e outros trabalhos estatísticos, fixando-se, por despacho ministerial, sob proposta do director, o pessoal a utilizar e os respectivos horários de trabalho.\n\nArt. 73.º O pessoal dos serviços centrais e das delegações metropolitanas é distribuído, consoante as respectivas necessidades, por despacho do director do Instituto.\n\nArt. 74.º - 1. O pessoal permanente, com excepção dos escriturários-dactilógrafos, telefonistas e pessoal auxiliar, pode ser transferido dos serviços centrais para as delegações, ou inversamente, ou de uma para outra delegação, a seu pedido ou por conveniência de serviço.\n\n2. O pessoal colocado numa delegação não pode requerer transferência antes de nela ter prestado dois anos de efectivo serviço.\n\n3. Nas transferências de funcionários entre os serviços centrais e as delegações, ou entre as delegações, quando não sejam determinadas por conveniência de serviço, observar-se-á a seguinte ordem de preferências:\n\na) Ser cônjuge de funcionário público ou administrativo colocado na área da delegação onde existir a vaga, ou no distrito de Lisboa, se a vaga for nos serviços centrais;\n\nb) Ser natural do território onde existir a vaga;\n\nc) Possuir melhor classificação de serviço;\n\nd) Ter maior tempo de serviço no lugar donde pretende ser transferido;\n\ne) Ter maior antiguidade na categoria.\n\n4. Só se atenderá à segunda preferência no caso de igualdade de condições em face da primeira, e assim sucessivamente."
+  },
+  "8080ac980ca81b11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO 4.ª — Do funcionamento do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4.ª — Do funcionamento do Instituto"
+  },
+  "93d2ea58a3a07999": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 1.ª — Do plano de recenseamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 1.ª — Do plano de recenseamentos\n\nArt. 75.º O Instituto procederá, com carácter regular e em todo o território nacional, à realização dos seguintes recenseamentos básicos:\n\na) Da população, nos anos terminados em zero;\n\nb) Da agricultura, nos anos terminados em dois;\n\nc) Das indústrias extractivas e transformadoras, nos anos terminados em quatro;\n\nd) Da habitação, nos anos terminados em cinco;\n\ne) Da distribuição e prestação de serviços, nos anos terminados em sete;\n\nf) Dos transportes, nos anos terminados em nove.\n\nArt. 76.º Além dos recenseamentos previstos no artigo anterior, efectuará ainda o Instituto os recenseamentos gerais e os inquéritos e trabalhos estatísticos especiais cuja realização for ordenada ou aprovada pelo Governo."
+  },
+  "01884a41e87e4891": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 2.ª — Da recolha directa de dados estatísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 2.ª — Da recolha directa de dados estatísticos\n\nArt. 77.º O despacho que ordenar a recolha directa de dados estatísticos será notificado à pessoa ou entidade a quem incumbe fornecer ou facilitar os elementos desejados, com indicação das razões da recolha directa, da natureza dos elementos a obter, dos funcionários encarregados da diligência e do dia e hora do seu início.\n\nArt. 78.º - 1. A notificação a que se refere o artigo anterior será feita por carta registada com aviso de recepção.\n\n2. Se não for devolvido o aviso de recepção, ou se a carta vier devolvida sem nenhuma indicação, ou com a nota de ser desconhecido o destinatário ou dele se não saber, o Instituto solicitará a notificação à autoridade policial competente.\n\n3. Se for recusada a recepção da carta, considera-se feita a notificação no segundo dia posterior àquele em que tiver sido efectuado o registo.\n\n4. A notificação considera-se feita à própria pessoa sempre que o aviso de recepção tenha sido assinado por familiar ou empregado da pessoa a notificar.\n\nArt. 79.º - 1. Os funcionários encarregados da recolha directa receberão guias para a realização da diligência e apresentar-se-ão no serviço, escritório ou residência onde a mesma deva ter lugar, consoante os casos, no dia e hora designados para o seu início.\n\n2. Se a diligência não se iniciar no dia e hora designados por os funcionários dela encarregados não poderem comparecer em virtude de caso de força maior, ou por o notificado se recusar à diligência quando os mesmos se apresentarem, será solicitada nova notificação à autoridade policial competente para, em novo dia, se proceder ao início dos trabalhos.\n\n3. Os funcionários encarregados da diligência devem justificar superiormente qualquer demora no seu início e comunicar todos os impedimentos ou dificuldades que encontrem na sua execução.\n\nArt. 80.º - 1 Sempre que as pessoas que forneçam dados estatísticos prestem informações susceptíveis de ser corroboradas por prova documental ou testemunhal, ficarão essas informações a constar de auto.\n\n2. Os funcionários encarregados da recolha directa procederão a todas as diligências indispensáveis para verificar a exactidão dos factos declarados, ouvindo sempre, no dia, hora e local que designarem, as testemunhas que os declarantes apresentem para o mesmo fim, em número não inferior a duas nem superior a cinco por cada facto.\n\nArt. 81.º Findos os trabalhos, devem os funcionários apresentar superiormente relatório circunstanciado, juntando os elementos estatísticos recolhidos e indicando, com a respectiva justificação, todas as despesas efectuadas.\n\nArt. 82.º - 1 A cobrança das quantias devidas pela recolha directa será ordenada por despacho do director do Instituto.\n\n2. Posteriormente ao despacho, serão passadas guias em triplicado e enviadas ao chefe da repartição de finanças do concelho ou bairro da residência do responsável, para cobrança, nos termos legais.\n\n3. No caso de pagamento voluntário, será devolvido ao Instituto um dos exemplares das guias, no prazo de seis dias.\n\n4. Na falta de pagamento voluntário serão as quantias cobradas coercivamente, devendo os tribunais do contencioso das contribuições e impostos comunicar ao Instituto o resultado da execução, com a indicação da data do pagamento, se este tiver lugar.\n\n5. As importâncias cobradas darão entrada nos cofres do Estado, em rubrica adequada."
+  },
+  "0496db0efe1abeb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 3.ª — Dos pedidos de realização de inquéritos estatísticos e registo de instrumentos de notação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 3.ª — Dos pedidos de realização de inquéritos estatísticos e registo de instrumentos de notação\n\nArt. 83.º - 1. O pedido de realização de inquéritos estatísticos feito ao abrigo do artigo 17.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, deverá ser sempre acompanhado de um relatório justificativo.\n\n2. Aos recursos das decisões do director do Instituto sobre pedidos de realização de inquéritos estatísticos é aplicável o preceituado nos n.os 2 a 4 do artigo 85.º\n\nArt. 84.º - 1. O registo dos instrumentos de notação estatística exigido pelo artigo 18.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, deverá ser requerido ao instituto pelas entidades que pretendam utilizá-los, juntando duas cópias do respectivo modelo e um relatório justificativo da necessidade do inquérito a que se referem.\n\n2. O instituto poderá solicitar todos os esclarecimentos que considere convenientes para apreciar o pedido.\n\n3. O director do Instituto proferirá a decisão no prazo de trinta dias, a contar da entrada do pedido do registo, ou, quando tenham sido solicitados esclarecimentos, a contar do recebimento dos mesmos.\n\nArt. 85.º - 1. Por despacho devidamente fundamentado, deve o director do Instituto:\n\na) Recusar o registo, quando os instrumentos se destinem à notação de dados contidos noutros instrumentos já aprovados;\n\nb) Propor as alterações que se mostrem convenientes nos modelos de instrumentos, quando os mesmos não se harmonizem com os requisitos técnicos adequados ou com as exigências de fácil preenchimento.\n\n2. Dos despachos que recusem registos de instrumentos de notação ou proponham alterações aos modelos apresentados cabe recurso para o Conselho Nacional de Estatística, interposto no prazo de oito dias, a contar do recebimento da comunicação do respectivo despacho.\n\n3. Se a entidade interessada no registo tiver sede ou instalação nas ilhas adjacentes, mas em ilha diferente daquela onde estiver situada a respectiva delegação do Instituto, o prazo para o recurso será fixado no ofício que comunicar a decisão, atendendo à maior ou menor facilidade de comunicações, mas não poderá ser inferior a vinte dias para a Madeira e a trinta para os Açores.\n\n4. Das deliberações do Conselho Nacional de Estatística cabe ainda recurso para o Presidente do Conselho, interposto nos termos dos n.os 2 e 3 deste artigo.\n\nArt. 86.º - 1. Os instrumentos de notação serão classificados em duas categorias:\n\na) Emitidos pelos órgãos do sistema estatístico nacional;\n\nb) Emitidos por outras entidades, para satisfação das suas necessidades específicas, e que serão designados por «declarações».\n\n2. Só é obrigatória a resposta aos instrumentos de notação referidos na alínea a) do número anterior.\n\n3. Os despachos que concedam os registos serão comunicados às entidades que apresentaram o pedido, devendo mencionar a classificação do instrumento, de harmonia com o n.º 1 deste artigo, o número do registo e o respectivo período de validade.\n\n4. Os impressos dos instrumentos de notação deverão conter as indicações referidas no n.º 3 do presente artigo.\n\nArt. 87.º Todos aqueles a quem for pedido o preenchimento de instrumentos de notação que não contenham as indicações mencionadas no n.º 3 do artigo antecedente deverão recusar o seu preenchimento e dar conhecimento do facto ao Instituto, indicando a entidade emissora e juntando, se possível, um exemplar do instrumento.\n\nArt. 88.º - 1. Os despachos de anulação dos registos dos instrumentos de notação devem ser fundamentados e comunicados à entidade interessada, com a indicação expressa dos respectivos fundamentos.\n\n2. É aplicável a estas decisões o regime de recursos estabelecido nos n.os 2 a 4 do artigo 85.º\n\nArt. 89.º As respostas a questionários orais ou a pedidos de declarações, na realização de censos e inquéritos estatísticos, só são obrigatórias quando os agentes que as solicitem exibam credenciais passadas pelo Instituto, devendo as pessoas inquiridas, no caso contrário, recusar as respostas e comunicar o facto ao Instituto\n\nArt. 90.º - 1. As despesas necessárias à execução dos recenseamentos, inquéritos ou trabalhos especiais previstos nas alíneas b) e c) do artigo 13.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, serão processadas por conta da verba global especialmente inscrita para esse fim no orçamento do Instituto Nacional de Estatística.\n\n2. As quantias a pagar pelas entidades que tenham solicitado a realização dos inquéritos ou trabalhos estatísticos previstos na primeira parte da alínea c) do mesmo preceito darão entrada nos cofres do Estado em rubrica adequada."
+  },
+  "63ca47d54efb9bc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 4. — Das delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 4. — Das delegações\n\nArt. 91.º - 1. As pessoas residentes nas ilhas adjacentes e as entidades com sede nas mesmas, ou que nelas exerçam funções, devem apresentar nas respectivas delegações do Instituto todos os documentos e requerimentos que a este devam enviar.\n\n2. As decisões do Instituto serão sempre comunicadas aos interessados através dessas delegações.\n\nArt. 92.º Nas delegações metropolitanas compete aos respectivos chefes a admissão e a dispensa do pessoal eventual a que se refere o artigo 30.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, dentro dos limites autorizados pelo director do Instituto.\n\nArt. 93.º As delegações do Instituto podem corresponder-se directamente com os serviços centrais e, dentro das suas áreas, com todas as entidades que nestas exerçam funções."
+  },
+  "f83c0dce9928cfa7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Das transgressões estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Das transgressões estatísticas\n\nArt. 94.º Serão punidas com multa de 50$00 a 1000$00 as transgressões seguintes:\n\na) Preenchimento incompleto de instrumentos de notação estatística;\n\nb) Inobservância de norma expressa de notação estatística;\n\nc) Falta de cumprimento de prazos fixados;\n\nd) Todas as transgressões são expressamente previstas neste artigo e nos seguintes.\n\nArt. 95.º Serão punidas com multa de 100$00 a 3000$00 as transgressões seguintes:\n\na) Falta de distribuição ou recolha de instrumentos de notação estatística, ou de peças de processo de transgressão, por quem tenha a obrigação legal de auxiliar os serviços de estatística;\n\nb) Uso de impressos estatísticos diferentes dos oficialmente aprovados.\n\nArt. 96.º - 1. Serão punidas com multa de 200$00 a 6000$00 as transgressões seguintes:\n\na) Prestação de informações inexactas;\n\nb) Expressa denegação de informações estatísticas;\n\nc) Falta de prestação das informações estatísticas pedidas, depois de o arguido ter sido notificado para o fazer em prazo certo;\n\nd) Publicação de elementos estatísticos sem prévia aprovação do Instituto ou em contrário de quaisquer normas dele emanadas;\n\ne) Publicação de dados estatísticos fornecidos pelo Sistema Estatístico Nacional sem as observações que as tenham acompanhado;\n\nf) Realização de inquéritos por anotação directa, por entidades estranhas ao Instituto, sem prévia autorização deste;\n\ng) Não exibição de credenciais passadas pelo Instituto nos inquéritos a que se refere a alínea anterior;\n\nh) Emissão de instrumentos de notação sem prévio registo do Instituto.\n\n2. Considera-se expressa denegação de informações a recusa, por parte do destinatário, de receber documentos enviados pelo Instituto, sob registo do correio e com aviso de recepção.\n\nArt. 97.º Serão punidas com multa de 300$00 a 10000$00 as transgressões seguintes:\n\na) Falta de desempenho de funções de natureza estatística, atribuídas, por disposição legal, a qualquer serviço ou organismo;\n\nb) Não fornecimento, nos prazos estabelecidos, de elementos apurados por órgãos delegados do Instituto.\n\nArt. 98.º As multas serão graduadas segundo a gravidade das faltas, atendendo-se especialmente às seguintes circunstâncias:\n\na) Pertencer o transgressor a um órgão estatístico delegado;\n\nb) Ter o mesmo a qualidade de agente do Estado, das autarquias locais ou dos organismos corporativos;\n\nc) Importância da actividade desenvolvida pelo transgressor;\n\nd) Importância dos elementos não fornecidos relativamente ao conjunto das informações a prestar;\n\ne) Ter o transgressor sido avisado de que se encontrava em falta;\n\nf) Falta de resposta aos ofícios enviados pelo Instituto;\n\ng) Ter a infracção atrasado ou impedido qualquer publicação de dados estatísticos.\n\nArt. 99.º - 1. Conhecida a prática de uma transgressão estatística, será notificado o infractor para, no prazo de quinze dias, a contar da notificação, apresentar, querendo, a sua defesa.\n\n2. Da notificação deve constar a indicação da falta cometida, da multa que lhe corresponde e de quaisquer esclarecimentos que sejam convenientes.\n\n3. É aplicável à notificação ordenada neste artigo o disposto no artigo 78.º\n\n4. Se o infractor residir nas ilhas adjacentes em ilha diferente daquela em que estiver situada a respectiva delegação do Instituto, é aplicável à fixação do prazo para a defesa o disposto no n.º 3 do artigo 85.º\n\nArt. 100.º - 1. Recebida a defesa do transgressor, ou decorrido o prazo para a sua apresentação, será o processo submetido a julgamento.\n\n2. Antes da decisão final, poderá o Serviço do Contencioso proceder a quaisquer diligências que repute convenientes ao esclarecimento da verdade.\n\nArt. 101.º - 1. A decisão será notificada ao transgressor, com a advertência de poder recorrer para o director do Instituto, no prazo de quinze dias, a contar da notificação.\n\n2. É aplicável à notificação ordenada neste artigo e ao prazo para o recurso o disposto, respectivamente, no artigo 78.º e no n.º 3 do artigo 85.º\n\n3. Na decisão do recurso poderá ser anulada, mantida, agravada ou diminuída a multa aplicada.\n\nArt. 102.º - 1. Não sendo interposto recurso, ou tendo a decisão deste mantido a aplicação da multa, proceder-se-á à cobrança do seu quantitativo.\n\n2. Posteriormente ao julgamento ou à decisão do recurso proceder-se-á nos termos dos n.os 2 a 5 do artigo 82.º, servindo a própria guia de título executivo.\n\nArt. 103.º Nas delegações ultramarinas observar-se-ão, quanto a transgressões estatísticas, as normas constantes dos artigos anteriores, com as seguintes adaptações:\n\na) Nos Estados de Angola e Moçambique, a participação será feita pelo chefe da repartição onde se verificar a infracção e todo o expediente, incluindo o julgamento, correrá pela Repartição de Estudos e Coordenação Estatística; das decisões condenatórias cabe recurso hierárquico para o director de serviços, que decidirá definitivamente;\n\nb) Nas restantes províncias, todo o expediente, desde a participação até ao julgamento da transgressão, é feito pela delegação; o recurso é interposto para o governador da província e será julgado por ele ou por quem, para tal, dele receba delegação.\n\nMarcello Caetano - João Mota Pereira de Campos - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.\n\nPromulgado em 22 de Agosto de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha."
+  },
+  "b002469a18d594fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do Conselho Nacional de Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do Conselho Nacional de Estatística"
+  },
+  "61dbdc71568139d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para o desempenho das atribuições que lhe são conferidas pelo artigo 3.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, o Conselho Nacional de Estatística terá as reuniões que forem convocadas pelo respectivo presidente.\n\n2. As convocações devem enumerar os assuntos a tratar na reunião e podem ser acompanhadas dos documentos a apreciar e de notas explicativas.\n\n3. Qualquer dos vogais pode propor ao presidente, por escrito, a convocação do Conselho para apreciar determinado assunto, e, ainda, desde que o faça com a necessária antecedência, a inclusão na agenda de trabalhos da reunião de questões nela não incluídas.\n\n4. O presidente pode delegar no vice-presidente a convocação e a presidência das reuniões."
+  },
+  "7ed3e4dfc495326d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCom o acordo do presidente, os membros do Conselho poderão ser assistidos, durante as reuniões, por técnicos, sem direito de voto, para o esclarecimento dos assuntos a apreciar."
+  },
+  "69f78c2b6c3de487": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O Conselho só pode funcionar quando estiver presente a maioria dos seus membros, incluindo o presidente ou o vice-presidente.\n\n2. As resoluções do Conselho são tomadas por maioria de votos dos membros presentes na reunião, tendo o presidente, ou vice-presidente, quando o substituir, voto de qualidade.\n\n3. De cada reunião lavrar-se-á acta em livro próprio, a qual, depois de aprovada pelo Conselho, será assinada pelo presidente e pelo secretário.\n\n4. As resoluções são numeradas por ordem e registadas na íntegra em livro especial, sendo assinadas nos termos referidos no número anterior."
+  },
+  "74e0973e9f05fef5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara serem eficazes as resoluções estão sujeitas a homologação do Presidente do Conselho e serão publicadas no Boletim Mensal do Instituto Nacional de Estatística."
+  },
+  "b92f4d6c35710822": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs funções de secretário do Conselho, sem direito a voto, são exercidas pelo chefe da Divisão de Coordenação Estatística ou, na falta deste, por quem o director do Instituto designar."
+  },
+  "01fac189eb113235": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Das comissões consultivas de estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Das comissões consultivas de estatística"
+  },
+  "847ee4139ae45f92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para o desempenho das atribuições que lhe são conferidas pelo artigo 8.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, as comissões consultivas de estatística terão as reuniões que forem convocadas pelo respectivo presidente.\n\n2. É aplicável às comissões consultivas de estatística o disposto nos n.os 2 e 3 do artigo 1.º, no artigo 2.º e nos n.os 1 a 3 do artigo 3.º"
+  },
+  "e38ebf338616c124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 1.ª — Centro de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 1.ª — Centro de Informática"
+  },
+  "d52074eb230235d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO Centro de Informática compreende:\n\na) O Serviço de Coordenação e Verificação;\n\nb) O Serviço de Análise e Programação;\n\nc) O Serviço de Registo e Processamento de Dados."
+  },
+  "01678e187ee05030": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAo Serviço de Coordenação e Verificação, dirigido por um funcionário com a categoria de chefe de secção, compete:\n\na) Coordenar os trabalhos a executar pelo Centro, incluindo o estabelecimento dos calendários das suas operações;\n\nb) Verificar a entrada de dados para registo e a saída dos apuramentos efectuados;\n\nc) Arquivar as bandas e os discos magnéticos e os cartões perfurados;\n\nd) Assegurar o expediente do Centro."
+  },
+  "a2c110cd50f7ec1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAo Serviço de Análise e Programação, dirigido pelo analista-chefe, compete:\n\na) Colaborar com os diferentes serviços do Instituto no estabelecimento de instrumentos de notação mapas de apuramento e elaborar as rotinas de trabalho destinadas a tratamento electrónico;\n\nb) Colaborar na preparação e execução de censos e inquéritos, assim como em outros trabalhos determinados superiormente, quando destinados a tratamento electrónico;\n\nc) Estabelecer as rotinas de processamento, definindo as diferentes fases e programas a empregar e os processos de exploração, incluindo multiprogramação;\n\nd) Executar os programas destinados às várias rotinas, especificar os elementos para testes e analisar estes;\n\ne) Estimar custos de estudos e processamentos electrónicos para elaboração de orçamentos, quando solicitados;\n\nf) Actualizar o arquivo de programas;\n\ng) Manter actualizados os programas e conjuntos de programas necessários para o trabalho do equipamento electrónico e as normas de confecção desses programas."
+  },
+  "d557e5ba39773013": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAo Serviço de Registo e Processamento de Dados, dirigido pelo chefe de exploração, compete:\n\na) Registar dados em suporte mecanográfico e proceder às respectivas verificações, conferências e rectificações;\n\nb) Executar os processamentos determinados pelos calendários estabelecidos;\n\nc) Testar, segundo as directivas correspondentes, os programas recebidos do Serviço de Análise e Programação;\n\nd) Reparar, afinar e conservar o seu equipamento e as máquinas de escritório do Instituto."
+  },
+  "22170bbc686ccd24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 2.ª — Gabinete de Planeamento e Contrôle Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 2.ª — Gabinete de Planeamento e Contrôle Geral"
+  },
+  "7073052f132a5605": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Ao Gabinete de Planeamento e Contrôle Geral competirá, entre outras tarefas que lhe venham a ser atribuídas, organizar os planos de actividade e os programas de trabalho do Instituto e respectivos calendários de execução, vigiar e acompanhar a execução dos mesmos, verificar a adequação dos seus resultados aos planos e programas e elaborar os relatórios gerais necessários.\n\n2. O Gabinete de Planeamento e Contrôle Geral será dirigido por um funcionário com a categoria de director de serviços."
+  },
+  "f1869269b11c4f22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 3.ª — Direcção dos Serviços de Estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 3.ª — Direcção dos Serviços de Estudos"
+  },
+  "6529f4b57babbd32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA Direcção dos Serviços de Estudos compreende:\n\na) A Divisão de Metodologia Estatística;\n\nb) A Divisão de Análise e Estudos Económicos e Sociais;\n\nc) A Divisão de Contas Nacionais;\n\nd) A Secção Auxiliar."
+  },
+  "39652de630d228f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nÀ Divisão de Metodologia Estatística compete:\n\na) Realizar os estudos de estatística pura e aplicada que se mostrem convenientes;\n\nb) Prestar o apoio técnico-estatístico que for necessário a todos os recenseamentos, inquéritos, trabalhos especiais e estatísticas correntes;\n\nc) Prestar assistência técnico-estatística às delegações do Instituto ou outras entidades que dela careçam, fornecendo pessoal especializado ou realizando os estudos especiais adequados, nos termos e condições que forem autorizados;\n\nd) Colaborar na formação profissional do pessoal, designadamente pela organização da parte de metodologia dos respectivos cursos."
+  },
+  "1315460be6cbb0f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nÀ Divisão de Análise e Estudos Económicos e Sociais compete:\n\na) Construir os sistemas estatísticos fundamentais para o planeamento sócio-económico;\n\nb) Realizar os estudos econométricos e outros encomendados pelo Governo ou por outras entidades ou de sua iniciativa;\n\nc) Analisar as séries compiladas pelo Instituto;\n\nd) Construir índices da evolução conjuntural e realizar estudos de conjuntura;\n\ne) Realizar estimativas e projecções demográficas e outros estudos dentro desse domínio;\n\nf) Prestar colaboração técnica aos diferentes serviços do Instituto, às suas delegações e aos órgãos delegados."
+  },
+  "ea11810c88176691": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nÀ Divisão de Contas Nacionais compete organizar a contabilidade nacional de cada uma das parcelas do território nacional e a do seu conjunto, assumindo, pela forma e na data julgadas mais convenientes, a responsabilidade pelo cumprimento das tarefas a cargo da Missão de Estudos do Rendimento Nacional do Ultramar."
+  },
+  "a48ecff1027e5d74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nCompete à Secção Auxiliar prestar o apoio executivo de que a Direcção dos Serviços de Estudos careça para a realização das respectivas tarefas."
+  },
+  "40e8a4b1192bd89a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 4.ª — Direcção dos Serviços de Coordenação e Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 4.ª — Direcção dos Serviços de Coordenação e Administração Geral"
+  },
+  "d33144d397c016b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA Direcção dos Serviços de Coordenação e Administração Geral compreende:\n\na) A Divisão de Coordenação Estatística;\n\nb) A Divisão de Pessoal;\n\nc) A Repartição de Contabilidade e Património;\n\nd) O Serviço de Contencioso;\n\ne) O Serviço de Documentação;\n\nf) O Serviço de Informações e Relações Públicas."
+  },
+  "4229f99d0569f3c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA Divisão de Coordenação Estatística compreende:\n\na) O Serviço de Gestão de Ficheiros;\n\nb) A Secção de Coordenação Estatística."
+  },
+  "cc8af16423601544": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAo Serviço de Gestão de Ficheiros compete criar e manter actualizados os ficheiros necessários ao I. N. E. e a entidades estranhas, bem como a satisfação dos pedidos que lhe forem feitos."
+  },
+  "f5dda933c1b69a61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nÀ Secção de Coordenação Estatística compete:\n\na) A realização das operações de coordenação estatística a que se referem os artigos 16.º a 19.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data;\n\nb) O expediente do Conselho Nacional de Estatística."
+  },
+  "bc52d65fe20fa27d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nA Divisão de Pessoal compreende:\n\na) O Serviço de Selecção e Formação do Pessoal;\n\nb) A Secção de Administração do Pessoal."
+  },
+  "24e9427dbc0780b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nCompete ao Serviço de Selecção e Formação do Pessoal:\n\na) Proceder ao recrutamento e selecção do pessoal;\n\nb) Acolher o pessoal recém-entrado;\n\nc) Promover e organizar a realização de cursos de formação e aperfeiçoamento a que se refere o artigo 69.º"
+  },
+  "bb77e777891ac787": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nCompete à Secção de Administração do Pessoal:\n\na) A organização dos processos de admissão, concursos, promoção e exoneração do pessoal;\n\nb) A organização e permanente actualização do registo do pessoal;\n\nc) O registo da assiduidade dos servidores do I. N E. e dos demais elementos de informação que interessem para a classificação do serviço dos funcionários;\n\nd) Assegurar as relações com os serviços de segurança social."
+  },
+  "49d8901176cfb274": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nA Repartição de Contabilidade e Património compreende:\n\na) A Secção de Contabilidade e Tesouraria;\n\nb) A Secção de Património e Economato;\n\nc) A Secção de Reprografia."
+  },
+  "7f72bcebe4c76e4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nCompete à Secção de Contabilidade e Tesouraria:\n\na) A elaboração do projecto do orçamento do Instituto com os elementos fornecidos pelo Gabinete de Planeamento e Contrôle Geral;\n\nb) A organização de propostas de alterações orçamentais;\n\nc) O processamento e a liquidação das despesas do I. N. E.;\n\nd) A fiscalização e a contabilização das receitas e despesas do Instituto;\n\ne) O recebimento e movimentação das receitas cobradas directamente;\n\nf) As relações com a Fazenda Nacional respeitantes a instrumentos de notação pagos;\n\ng) Os pagamentos de vencimentos e outras remunerações, fornecimentos e serviços."
+  },
+  "156055f17910e8a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nCompete à Secção de Património e Economato:\n\na) A reparação, conservação e limpeza das instalações e logradouros;\n\nb) A organização de medidas de segurança contra incêndios e outras que as circunstâncias aconselhem;\n\nc) A aquisição, depósito e distribuição dos móveis e material de consumo corrente;\n\nd) A conservação e reparação dos móveis e outros bens;\n\ne) A organização e manutenção do inventário e cadastro de bens;\n\nf) O depósito e distribuição de instrumentos de notação e outros impressos;\n\ng) A venda de publicações e outros artigos."
+  },
+  "a936d4381cbd5ced": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nCompete à Secção de Reprografia:\n\na) Programar a execução dos trabalhos tipográficos necessários ao Instituto;\n\nb) Editar publicações, instrumentos de notação e outros impressos nas suas instalações;\n\nc) Promover as consultas e estudar as propostas para a execução de trabalhos tipográficos fora do Instituto;\n\nd) Controlar os prazos e a qualidade dos trabalhos executados;\n\ne) Registar documentos pelo processo da microfilmagem;\n\nf) Reproduzir documentos pelos processos ao seu dispor."
+  },
+  "49a75ba2454bb56a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nAo Serviço de Contencioso, a cargo de um jurista, compete a organização dos processos de transgressão estatística, incluindo todas as diligências necessárias ao seu andamento e finalização, bem como o apoio jurídico a todos os serviços do Instituto."
+  },
+  "e0ddfd0bfb43623a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nAo Serviço de Documentação, chefiado por um primeiro-bibliotecário-arquivista, compete:\n\na) Ordenar, catalogar, classificar e conservar toda a documentação entrada na biblioteca e no arquivo geral;\n\nb) Receber as publicações editadas pelo Instituto e proceder à sua distribuição;\n\nc) Manter as relações com os organismos internacionais e estrangeiros para estabelecer os intercâmbios convenientes e fazer a aquisição de publicações;\n\nd) Explorar o fundo bibliográfico existente e dele extrair informações a fornecer aos interessados nessas matérias;\n\ne) Manter o contacto com serviços congéneres, tanto do sector público como do sector privado, colaborando com eles na difusão da informação técnica, científica, económica e social de interesse para o País."
+  },
+  "3573ed8408dd9f7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nAo Serviço de Informações e Relações Públicas, compete:\n\na) Prestar informações a entidades nacionais, estrangeiras e internacionais e organizar o registo das informações prestadas;\n\nb) Atender directamente o público, satisfazendo ou encaminhando os seus pedidos;\n\nc) Exercer permanente acção informativa junto do público interessado na acção do I. N. E., directamente ou com recurso aos meios de comunicação social, designadamente em campanhas de informação e esclarecimento relativamente a censos e outras operações estatísticas em que isso se justifique;\n\nd) Auscultar o público, directamente ou por intermédio de informação, estudar as suas reclamações, sugestões e opiniões e encaminhá-las para os departamentos competentes do Instituto.\n\nSUBSECÇAO 5.ª\n\nDirecção dos Serviços de Estatísticas Correntes"
+  },
+  "82fb46fd6f02d6b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nA Direcção dos Serviços de Estatísticas Correntes compreende:\n\na) O Serviço de Coordenação;\n\nb) A Divisão de Estatísticas Agrícolas e Alimentares;\n\nc) A Divisão de Estatísticas Industriais;\n\nd) A Divisão de Estatísticas da Distribuição e Serviços;\n\ne) A Divisão de Estatísticas Financeiras;\n\nf) A Divisão de Estatísticas Demográficas e Sociais;\n\ng) A Divisão de Estatísticas Gerais e Regionais."
+  },
+  "f9a368900c526fb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nAo Serviço de Coordenação, sob a chefia imediata e directa do director dos Serviços de Estatísticas Correntes, compete:\n\na) Coordenar as operações a executar pela direcção de serviços, incluindo o estabelecimento dos planos de acção e respectivos calendários;\n\nb) Elaborar a estimativa das despesas e determinar os custos dos diversos tipos de estatística elaborados na direcção de serviços;\n\nc) Criar e manter os sistemas necessários para contrôle do tempo e dos custos dos diferentes tipos de estatística elaborados pela direcção de serviços;\n\nd) Estimar custos e elaborar orçamentos para os trabalhos especiais solicitados à direcção de serviços;\n\ne) Centralizar os materiais necessários à redacção dos relatórios anuais ou outros da competência da direcção de serviços."
+  },
+  "95ef765fa4e1640d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nCompete à Divisão de Estatísticas Agrícolas e Alimentares:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos e inquéritos de base à agricultura, silvicultura, pecuária, caça e pesca;\n\nb) Elaborar as estatísticas correntes da produção vegetal dos sectores agrícola e florestal, da produção animal, da caça e pesca, as estatísticas económicas e sociais ligadas àqueles sectores, nomeadamente as da população e mão-de-obra, dos preços e dos meios de produção adquiridos pelos empresários, incluindo o cálculo dos respectivos números índices, do crédito e seguros, e os relativos à utilização dos produtos desses sectores."
+  },
+  "448232f5adb07237": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nCompete à Divisão de Estatísticas Industriais:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos e inquéritos de base às indústrias extractivas e transformadoras e da construção civil, à produção, transporte e distribuição de electricidade e gás e ao abastecimento de água;\n\nb) Elaborar as estatísticas correntes respeitantes ao sector e, designadamente, as da produção, existência de mercadorias, consumos e meios de produção, preços dos produtos fabricados e consumidos e da população e mão-de-obra, incluindo o cálculo dos respectivos números índices."
+  },
+  "3ab99f97e70a4e75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nCompete à Divisão de Estatísticas da Distribuição e Serviços:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos gerais e dos inquéritos de base relativos à distribuição e à prestação de serviços, incluindo os transportes, comunicações e turismo;\n\nb) Elaborar as estatísticas da importação, exportação, reexportação, baldeação, trânsito internacional e cabotagem, e a das mercadorias entradas em armazém, bem como calcular todos os indicadores respeitantes a este sector;\n\nc) Elaborar as estatísticas do sector da distribuição e da prestação de serviços em geral e, em especial, dos estabelecimentos, pessoal e respectivas remunerações, capitais investidos, existências de mercadorias, compras e vendas, dos preços por grosso e a retalho, dos transportes marítimos, fluviais, ferroviários, rodoviários e aéreos, dos correios e telecomunicações e do turismo."
+  },
+  "d7a5c99f2eb8d7ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nCompete à Divisão de Estatísticas Financeiras:\n\na) A elaboração das estatísticas financeiras do sector público, designadamente as das receitas e despesas do Estado, das autarquias locais e dos respectivos serviços autónomos;\n\nb) A elaboração das estatísticas financeiras do sector privado, designadamente as da constituição, dissolução, fusão e movimento das sociedades, as do mercado cambial, monetário e financeiro, e as da balança de pagamentos."
+  },
+  "d2e9ac52b09f1fad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nCompete à Divisão de Estatísticas Demográficas e Sociais:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos gerais e dos inquéritos de base sobre as matérias da sua competência definidas na alínea seguinte;\n\nb) Elaborar as estatísticas correntes de demografia quantitativa e qualitativa, saúde e acidentes, actividades judiciárias, ensino, ciência, actividades culturais, desportivas e recreativas, tempo livre, condições de vida da família e dos agrupamentos sociais, da população activa em geral, nomeadamente do emprego, das remunerações e outras condições de trabalho, da organização corporativa, da vida política, e da previdência e assistência sociais."
+  },
+  "9c5df44f46346b66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nCompete à Divisão de Estatísticas Gerais e Regionais:\n\na) A organização das publicações que interessem a mais de um dos serviços do Instituto;\n\nb) A organização das estatísticas que interessem às regiões do País e a sua eventual publicação;\n\nc) A centralização das relações com as delegações do Instituto e a organização do apoio técnico de que estas careçam."
+  },
+  "8dbb3ebd29590fee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 6.ª — Direcção dos Serviços de Censos e inquéritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 6.ª — Direcção dos Serviços de Censos e inquéritos"
+  },
+  "ae75e2294c5eba6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nA Direcção dos Serviços de Censos e Inquéritos compreende:\n\na) O Serviço de Coordenação;\n\nb) A Divisão de Preparação de Censos e Inquéritos e de Análise de Resultados;\n\nc) A Divisão de Execução de Censos e Inquéritos."
+  },
+  "6fb1d207d9ecc1ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nCompete ao Serviço de Coordenação, sob a chefia imediata e directa do director dos Serviços de Censos e Inquéritos:\n\na) Coordenar as operações a executar pela direcção de serviços, incluindo o estabelecimento dos planos de acção e respectivos calendários;\n\nb) Elaborar a estimativa das despesas e determinar os custos de todas as actividades que integram os recenseamentos e inquéritos;\n\nc) Criar e manter os sistemas necessários para contrôle do tempo e dos custos das operações realizadas pela direcção de serviços;\n\nd) Estimar custos e elaborar os orçamentos para os trabalhos especiais solicitados à direcção de serviços;\n\ne) Centralizar os materiais necessários à redacção dos relatórios finais de cada censo ou inquérito e dos relatórios anuais ou outros da competência da direcção de serviços."
+  },
+  "46ed29ce6aaccc92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nCompete à Divisão de Preparação de Censos e Inquéritos e de Análise de Resultados:\n\na) Elaborar, em conjunto com os serviços do I. N. E. especializados nas respectivas matérias e com representantes de entidades estranhas ao I. N. E., os programas dos censos e inquéritos especiais, incluindo o projecto das disposições legais eventualmente necessárias;\n\nb) Preparar os instrumentos de notação e os impressos auxiliares;\n\nc) Colaborar na elaboração das campanhas publicitárias das operações a realizar ou em realização;\n\nd) Elaborar as instruções e manuais dos cursos de formação e aperfeiçoamento dos agentes de censos e inquéritos e do pessoal com funções de codificação e de validação da informação;\n\ne) Elaborar as especificações necessárias para o processamento dos quadros de apuramento;\n\nf) Analisar os apuramentos efectuados;\n\ng) Publicar os resultados obtidos;\n\nh) Arquivar os dados disponíveis e os publicados;\n\ni) Assegurar a prestação de informações relativas aos censos e inquéritos realizados."
+  },
+  "2a01dea5d594ab75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nCompete à Divisão de Execução de Censos e Inquéritos:\n\na) Programar e efectivar os cursos de formação e de aperfeiçoamento dos agentes de censos e inquéritos e do pessoal afecto à codificação e validação da informação;\n\nb) Distribuir e recolher os instrumentos de notação e impressos auxiliares utilizados nas diversas operações;\n\nc) Recrutar o pessoal externo necessário para a efectivação dos censos e inquéritos;\n\nd) Distribuir as peças relativas às campanhas publicitárias planeadas para as diversas operações e vigiar a execução dessas campanhas;\n\ne) Preparar para cada operação contrôles de qualidade;\n\nf) Analisar e codificar os instrumentos de notação recolhidos;\n\ng) Elaborar, com a colaboração dos serviços especializados nas respectivas matérias, as normas para a validação automática da informação."
+  },
+  "c6bd93678b1093e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nA distribuição de tarefas constantes dos artigos anteriores poderá ser modificada por despacho do Presidente do Conselho, mediante proposta fundamentada do director do Instituto."
+  },
+  "b9c96e658ac426ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO 2.ª — Da organização das delegações metropolitanas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2.ª — Da organização das delegações metropolitanas"
+  },
+  "6845b3d73c3eba36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nÀs delegações metropolitanas compete:\n\na) Colher, dentro das áreas respectivas, as informações estatísticas indicadas pelo director e necessárias para o bom andamento dos serviços;\n\nb) Colaborar com os serviços centrais na consecução dos objectivos de natureza estatística respeitantes às áreas da sua jurisdição;\n\nc) Apoiar os serviços centrais, nas áreas da sua competência, quer na realização das operações do tipo censitário, quer na resolução de casos difíceis ou demorados no domínio das estatísticas correntes;\n\nd) Aproveitar os dados estatísticos existentes para a elaboração de estudos de natureza económica e social com interesse para fins de planeamento e programação do desenvolvimento a nível regional;\n\ne) Organizar o fornecimento de informações estatísticas e o esclarecimento dos respectivos utentes."
+  },
+  "23d48a8c98691b59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 1.ª — Do provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 1.ª — Do provimento"
+  },
+  "279d8e60233b2b7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1. Os lugares de director e subdirectores serão providos, por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado e de reconhecida competência.\n\n2. O provimento dos restantes lugares do Instituto será feito mediante proposta do director."
+  },
+  "aaec87d75ffafaf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. Os lugares de director de serviços, director e subdirector do Centro de Informática, chefe de divisão e analista-chefe serão providos, por escolha, de entre indivíduos com curso superior adequado ao exercício das respectivas funções.\n\n2. O lulgar de chefe de repartição será provido, por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado ou chefes de secção do quadro do Instituto com mais de cinco anos de efectivo serviço nessa categoria e informação de serviço não inferior a Bom."
+  },
+  "9f81f934d7c5e807": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nO pessoal técnico e administrativo adiante designado será recrutado, por escolha, da forma seguinte:\n\na) Os técnicos estatísticos principais e de 1.ª classe de entre, respectivamente, os técnicos estatísticos de 1.ª e 2.ª classes;\n\nb) Os técnicos estatísticos de 2.ª classe, de entre os técnicos estagiários que hajam feito pelo menos um ano de estágio com boa informação final e os chefes de secção ou os técnicos auxiliares principais com curso superior;\n\nc) Os técnicos estagiários, de entre indivíduos com curso superior adequado e em função das classificações escolares obtidas, as quais poderão ser aumentadas até três valores quando os candidatos apresentem trabalhos de sua autoria sobre matéria de interesse para as funções a exercer e nos quais revelem conhecimentos ou aptidões especiais justificativas daquela valorização;\n\nd) O jurista de 2.ª classe, de entre licenciados em Direito;\n\ne) O primeiro-bibliotecário-arquivista e o segundo-bibliotecário-arquivista, de entre indivíduos possuidores das habilitações legais necessárias, tendo em conta as classificações escolares obtidas, as quais poderão ser aumentadas até três valores quando os candidatos apresentem trabalhos de sua autoria sobre matéria de interesse para as funções a exercer e nos quais revelem conhecimentos ou aptidões especiais justificativas daquela valorização;\n\nf) Os técnicos auxiliares principais, de entre indivíduos possuidores de um curso superior adequado, técnicos auxiliares de 1.ª classe e primeiros-mecanógrafos do quadro;\n\ng) O tesoureiro de 2.ª classe, de entre funcionários administrativos com a habilitação legal e reconhecidas condições para o desempenho do cargo;\n\nh) Os telefonistas de 1.ª e 2.ª classes, de acordo com o [Decreto-Lei n.º 116/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1971-445908), de 2 de Abril."
+  },
+  "30d1fc45f6af7d19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nO pessoal do Centro de Informática adiante indicado será recrutado, por escolha, pela forma seguinte:\n\na) O programador principal e o analista de multiprogramação, de entre os programadores de multiprogramação e os analistas de sistemas;\n\nb) O chefe de exploração, de entre os analistas de sistemas, os programadores de multiprogramação, os programadores e os operadores-chefes;\n\nc) Os programadores de multiprogramação e os analistas de sistemas, de entre os programadores;\n\nd) Os programadores, de entre os indivíduos que, satisfazendo as condições gerais para provimento nas categorias correspondentes, possuam os cursos de programação necessários, ministrados por entidade considerada idónea;\n\ne) O operador-chefe, os primeiros-operadores e os segundos-operadores, respectivamente, de entre os primeiros-operadores, segundos-operadores e terceiros-operadores, habilitados com os cursos a que se refere a alínea c) do n.º 1 do artigo 69.º;\n\nf) Os primeiros-mecanógrafos, primeiros-mecanógrarfos-adjuntos, segundos-mecanógrafos e segundos-mecanógrafos-adjuntos, respectivamente, de entre os primeiros-mecanógrafos-adjuntos, os segundos-mecanógrafos, os segundos-mecanógrafos-adjuntos e os terceiros-mecanógrafos, habilitados com os cursos a que se refere a alínea c) do n.º 1 do artigo 69.º;\n\ng) Os terceiros-mecanógrafos e os terceiros-operadores, de entre indivíduos de idade não inferior a 18 anos, habilitados com o 2.º ciclo dos liceus, o curso industrial, o curso comercial ou outras habilitações equivalentes, tendo preferência os possuidores da preparação correspondente às funções a desempenhar, comprovada por documento emitido por entidade considerada idónea;\n\nh) Os mecânicos de 1.ª e 2.ª classes, de entre, respectivamente, os mecânicos de 2.ª e 3.ª classes;\n\ni) O mecânico de 3.ª classe, de entre indivíduos de idade não inferior a 18 anos, habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes."
+  },
+  "5c24ae9da9580c2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nO pessoal da Divisão de Censos e Inquéritos adiante indicado será recrutado por escolha, nos termos seguintes:\n\na) Os supervisores de censos e inquéritos, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe e os agentes de censos e inquéritos de 2.ª classe, de entre, respectivamente, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe, os agentes de censos e inquéritos de 2.ª classe e os agentes de censos e inquéritos de 3.ª classe;\n\nb) Os agentes de censos e inquéritos de 3.ª classe, de entre indivíduos com a idade mínima de 18 anos e as habilitações legais, tendo preferência os que, com boas informações de serviço, embora noutras situações, tenham desempenhado essas funções;\n\nc) O topógrafo-chefe, de entre indivíduos de idade não inferior a 18 anos, habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes."
+  },
+  "4ce600a0e19271ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nO pessoal do serviço de reprografia será recrutado, por escolha, da forma seguinte:\n\na) O desenhador-chefe e os desenhadores de 1.ª e 2.ª classes de entre, respectivamente, os desenhadores de 1.ª classe e os desenhadores de 2.ª e 3.ª classes;\n\nb) O planificador-montador, de entre o controlador-apontador, o fotógrafo de 1.ª classe, o operador de microfilmagem e os dactilógrafos-compositores de offset de 1.ª classe;\n\nc) O controlador-apontador, o fotógrafo de 1.ª classe e o operador de microfilmagem, de entre os desenhadores de 2.ª classe e os operadores de reprografia de 1.ª classe;\n\nd) O operador de reprografia de 1.ª classe, de entre os operadores de reprografia de 2.ª classe;\n\ne) O operador de reprorafia de 2.ª classe, de entre os operadores de reprografia de 3.ª classe;\n\nf) O operador de reprografia de 3.ª classe, de entre indivíduos de, pelo menos, 18 anos de idade e com a escolaridade obrigatória;\n\ng) O desenhador de 3.ª classe, de entre indivíduos de idade não inferior a 18 anos, habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes;\n\nh) Os dactilógrafos-compositores de offset de 1.ª classe, de entre os dactilógrafos-composito de offset de 2.ª classe;\n\ni) Os dactilógrafos-compositores de offset de 2.ª classe, de entre os escriturários-dactilógrafos de 1.ª classe com a escolaridade obrigatória."
+  },
+  "e14eda57de164ce4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n1. A escolha será feita, mediante proposta do director, tendo em conta a classificação de serviço, a antiguidade e a aptidão para assumir responsabilidades de chefia, quando seja caso disso.\n\n2. No caso de informação de serviço de Muito bom durante dois anos consecutivos, o prazo de três anos a que se refere o artigo 22.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, é reduzido de um ano."
+  },
+  "6183653093591799": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nO serviço dos funcionários do Instituto Nacional de Estatística será objecto de classificação anual, a estabelecer na conformidade de normas a aprovar pelo Presidente do Conselho no que se refere aos funcionários dos serviços centrais e das delegações metropolitanas."
+  },
+  "1ede800bc2aaf9e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nSe não houver pessoal nas condições legalmente exigidas e com os requisitos julgados necessários, poderá a escolha incidir em indivíduos estranhos ao Instituto, de reconhecida competência e que satisfaçam as condições da lei geral para provimento nas respectivas categorias."
+  },
+  "c7934b95c86e2d9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nSempre que se verifiquem vagas no quadro do pessoal do Instituto, poderão ser providos, em cada carreira e em categorias mais baixas, tantos lugares quantos os dessas vagas."
+  },
+  "c7c5b8895f4eb524": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nMediante proposta do director, poderá o funcionário provido no lugar de jurista de 2.ª classe ser promovido à 1.ª classe quando tiver completado três anos de serviço classificado de Bom."
+  },
+  "ad3e6ce25eed030b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1. Os lugares de chefe de secção serão providos, por escolha, de entre os técnicos auxiliares principais e os primeiros-oficiais com boa classificação de serviço.\n\n2. O lugar de chefe da Secção de Contabilidade e Tesouraria poderá ser provido nos termos do artigo 12.º do [Decreto-Lei n.º 32886](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32886-1943-398140), de 30 de Junho de 1943."
+  },
+  "095d84fca5733fd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n1. Os lugares de primeiro-oficial e de técnico auxiliar de 1.ª classe serão providos por concurso de promoção, a que podem concorrer os segundos-oficiais e os técnicos auxiliares de 2.ª classe, com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.\n\n2. Os lugares de técnico auxiliar de 2.ª classe serão providos por concurso de promoção a que podem concorrer os técnicos auxiliares de 3.ª classe com aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 69.º e mais condições da lei geral.\n\n3. Os lugares de segundo-oficial e de técnico auxiliar de 3.ª classe serão providos por concurso de promoção a que podem concorrer os terceiros-oficiais e os auxiliares técnicos com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.\n\n4. Os lugares de terceiro-oficial e de auxiliar técnico serão providos por concurso, com prestação de provas, nos termos da lei geral."
+  },
+  "8b3a73bd37c6c058": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nO recrutamento dos escriturários-dactilógrafos de 1.ª e 2.ª classes far-se-á nos termos da lei geral."
+  },
+  "f8a96fc5a15d5a91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nOs lugares de pessoal auxiliar serão providos, por escolha, da forma seguinte:\n\na) O de motorista de 2.ª classe, de entre indivíduos possuidores de carta de condução e que obedeçam à lei geral;\n\nb) Os de contínuo de 1.ª classe, de entre os contínuos de 2.ª classe;\n\nc) O de guarda-nocturno de 1.ª classe, de entre os contínuos de 2.ª classe ou de indivíduos estranhos ao Instituto e que obedeçam à lei geral;\n\nd) Os de contínuos de 2.ª classe e de paquete, nos termos da lei geral."
+  },
+  "64452d23c73b8656": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nO pessoal a contratar nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, será recrutado, por escolha, de entre os indivíduos de idade não inferior a 18 anos e com as habilitações exigidas pela lei geral."
+  },
+  "88e281274e291560": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 2.ª — Das remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 2.ª — Das remunerações"
+  },
+  "88ee8d08d05797ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\n1. Ao pessoal em serviço nas delegações das ilhas adjacentes que à data do provimento não resida no respectivo arquipélago é concedido um subsídio mensal correspondente a 20% do respectivo vencimento.\n\n2. O pessoal auxiliar em serviço nas delegações metropolitanas tem direito à concessão de fardamento."
+  },
+  "48ef30ed2178260a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nOs funcionários que exerçam a chefia das delegações das ilhas adjacentes terão direito a uma gratificação mensal de 1000$00."
+  },
+  "aecc9b2503e76d43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\n1. O pessoal permanente que preste serviço nas delegações tem direito ao abono das despesas de transporte e de ajudas de custo quando tenha de se deslocar para efeito de concursos.\n\n2. Tem direito aos mesmos abonos o pessoal permanente das delegações que se desloque da sua resiciência oficial para a frequência dos cursos de preparação ou aperfeiçoamento profissional, quando não beneficie do disposto no n.º 2 do artigo 70.º"
+  },
+  "a6d3cdb7a8b6f87c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\n1. O pessoal que, por virtude do primeiro provimento, transferência ou promoção, tiver de deslocar a sua residência para a sede de qualquer das delegações, ou de uma para outra delegação, ou destas para os serviços centrais, tem direito ao abono de despesas de transportes, para si e para as pessoas de sua família, nos termos do [Decreto-Lei n.º 44932](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44932-1963-195269), de 25 de Março de 1963.\n\n2. O abono será regulado pelo Estatuto do Funcionalismo Ultramarino, quando a deslocação se efectuar entre a metrópole e as províncias ultramarinas, ou inversamente, ou entre aquelas províncias."
+  },
+  "9c2b5f5dbdcb5c6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\nAos funcionários do Instituto que colaborem no Boletim Mensal de Estatística será atribuída, por essa colaboração, a gratificação que vier a ser fixada por despacho ministerial."
+  },
+  "c2057f285ea1dbc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\nO funcionário a cargo de quem estiver a tesouraria terá direito a abono para falhas."
+  },
+  "781d80305a11901c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\nO despacho que autorizar o pessoal permanente e o contratado, nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, a colaborar na realização de recenseamentos, inquéritos e outros trabalhos, ao abrigo do artigo 72.º, fixará também as remunerações devidas por tal colaboração."
+  },
+  "b9e752fef213986c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\n1. Os indivíduos admitidos ao abrigo do artigo 29.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, receberão as remunerações fixadas por despacho ministerial, de harmonia com os trabalhos de que foram encarregados, as quais não poderão ser superiores:\n\na) Para os que sejam simples executantes, à correspondente à letra S do quadro do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969;\n\nb) Para os restantes, à correspondente à letra L do mesmo quadro.\n\n2. As remunerações dos indivíduos encarregados das funções referidas no artigo 30.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, poderão deixar de referir-se a períodos de tempo e ser fixadas em bases diferentes.\n\n3. A fixação das remunerações na metrópole será feita com o acordo do Ministro das Finanças."
+  },
+  "38ad077a8afe0bb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 3.ª — Da preparação e aperfeiçoamento profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 3.ª — Da preparação e aperfeiçoamento profissionais"
+  },
+  "f119dde535b1d921": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º\n\n1. Para a preparação e aperfeiçoamento do seu pessoal, organizará o Instituto, com a frequência conveniente, os seguintes cursos:\n\na) Cursos elementares de estatística, destinados ao pessoal admitido nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data;\n\nb) Cursos complementares de estatística, destinados a ministrar aos candidatos a concurso de promoção os conhecimentos para isso necessários;\n\nc) Cursos de divulgação e preparação informática, destinados a ministrar ao pessoal do Instituto os conhecimentos indispensáveis a uma boa utilização dos meios electrónicos de processamento e ao eficiente desempenho das suas funções;\n\nd) Cursos de aperfeiçoamento profissional, destinados a dar aos funcionários os conhecimentos relativos às matérias em que trabalham;\n\ne) Cursos de preparação para censos e inquéritos, destinados a fornecer ao pessoal a utilizar na sua execução os conhecimentos básicos necessários ao desempenho das respectivas funções.\n\n2. Os cursos poderão ser frequentados por funcionários de outros serviços, mediante acordo entre o director do Instituto e os dirigentes dos serviços interessados.\n\n3. Os cursos serão professados por funcionários do Instituto, ou por indivíduos estranhos com especial competência nas matérias a tratar, sendo as respectivas remunerações fixadas por despacho do Presidente do Conselho, ouvido o Ministro das Finanças."
+  },
+  "9658f5d18c0c340c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º\n\n1. Os cursos poderão realizar-se na sede do Instituto, ou em algumas das delegações, conforme for julgado mais conveniente.\n\n2. Os funcionários das delegações ultramarinas que forem admitidos à frequência dos cursos gozam do regime aplicável aos funcionários que frequentem o curso complementar do Instituto Superior de Ciências Sociais e Política Ultramarina."
+  },
+  "26bbfe7af72fef6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 4.ª — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 4.ª — Disposições diversas"
+  },
+  "8948f69f76b9e977": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º\n\nA chefia das delegações metropolitanas será confiada, mediante proposta do director, a funcionário de categoria igual ou superior a chefe de secção."
+  },
+  "f98fa2f2fd69e750": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º\n\nO pessoal permanente e o contratado nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, poderá ser utilizado na realização de recenseamentos, inquéritos e outros trabalhos estatísticos, fixando-se, por despacho ministerial, sob proposta do director, o pessoal a utilizar e os respectivos horários de trabalho."
+  },
+  "10fb5ef848968cd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º\n\nO pessoal dos serviços centrais e das delegações metropolitanas é distribuído, consoante as respectivas necessidades, por despacho do director do Instituto."
+  },
+  "065a8f917d4176d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º\n\n1. O pessoal permanente, com excepção dos escriturários-dactilógrafos, telefonistas e pessoal auxiliar, pode ser transferido dos serviços centrais para as delegações, ou inversamente, ou de uma para outra delegação, a seu pedido ou por conveniência de serviço.\n\n2. O pessoal colocado numa delegação não pode requerer transferência antes de nela ter prestado dois anos de efectivo serviço.\n\n3. Nas transferências de funcionários entre os serviços centrais e as delegações, ou entre as delegações, quando não sejam determinadas por conveniência de serviço, observar-se-á a seguinte ordem de preferências:\n\na) Ser cônjuge de funcionário público ou administrativo colocado na área da delegação onde existir a vaga, ou no distrito de Lisboa, se a vaga for nos serviços centrais;\n\nb) Ser natural do território onde existir a vaga;\n\nc) Possuir melhor classificação de serviço;\n\nd) Ter maior tempo de serviço no lugar donde pretende ser transferido;\n\ne) Ter maior antiguidade na categoria.\n\n4. Só se atenderá à segunda preferência no caso de igualdade de condições em face da primeira, e assim sucessivamente."
+  },
+  "232532f27693ee91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 1.ª — Do plano de recenseamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 1.ª — Do plano de recenseamentos"
+  },
+  "c5d20fb14372c4ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º",
+   "in_force_from": "1977-08-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 349/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1977-255994), publicado em 1977-08-25."
+   ],
+   "markdown": "###### Artigo 75.º\n\nO programa das operações estatísticas básicas será aprovado por resolução do Conselho Nacional de Estatística, a homologar, nos termos do artigo 4.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto, pelo Primeiro-Ministro.\n\n> Alterado pelo/a [Decreto-Lei n.º 349/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1977-255994), publicado em 1977-08-25."
+  },
+  "d3da96a346d8f4cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º\n\nAlém dos recenseamentos previstos no artigo anterior, efectuará ainda o Instituto os recenseamentos gerais e os inquéritos e trabalhos estatísticos especiais cuja realização for ordenada ou aprovada pelo Governo."
+  },
+  "b3103b363369a8ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 2.ª — Da recolha directa de dados estatísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 2.ª — Da recolha directa de dados estatísticos"
+  },
+  "d48ed2f707a97424": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º\n\nO despacho que ordenar a recolha directa de dados estatísticos será notificado à pessoa ou entidade a quem incumbe fornecer ou facilitar os elementos desejados, com indicação das razões da recolha directa, da natureza dos elementos a obter, dos funcionários encarregados da diligência e do dia e hora do seu início."
+  },
+  "a9697c091dd55864": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º\n\n1. A notificação a que se refere o artigo anterior será feita por carta registada com aviso de recepção.\n\n2. Se não for devolvido o aviso de recepção, ou se a carta vier devolvida sem nenhuma indicação, ou com a nota de ser desconhecido o destinatário ou dele se não saber, o Instituto solicitará a notificação à autoridade policial competente.\n\n3. Se for recusada a recepção da carta, considera-se feita a notificação no segundo dia posterior àquele em que tiver sido efectuado o registo.\n\n4. A notificação considera-se feita à própria pessoa sempre que o aviso de recepção tenha sido assinado por familiar ou empregado da pessoa a notificar."
+  },
+  "62e2061ffb773dd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º\n\n1. Os funcionários encarregados da recolha directa receberão guias para a realização da diligência e apresentar-se-ão no serviço, escritório ou residência onde a mesma deva ter lugar, consoante os casos, no dia e hora designados para o seu início.\n\n2. Se a diligência não se iniciar no dia e hora designados por os funcionários dela encarregados não poderem comparecer em virtude de caso de força maior, ou por o notificado se recusar à diligência quando os mesmos se apresentarem, será solicitada nova notificação à autoridade policial competente para, em novo dia, se proceder ao início dos trabalhos.\n\n3. Os funcionários encarregados da diligência devem justificar superiormente qualquer demora no seu início e comunicar todos os impedimentos ou dificuldades que encontrem na sua execução."
+  },
+  "ff23359578bda76c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º\n\n1 Sempre que as pessoas que forneçam dados estatísticos prestem informações susceptíveis de ser corroboradas por prova documental ou testemunhal, ficarão essas informações a constar de auto.\n\n2. Os funcionários encarregados da recolha directa procederão a todas as diligências indispensáveis para verificar a exactidão dos factos declarados, ouvindo sempre, no dia, hora e local que designarem, as testemunhas que os declarantes apresentem para o mesmo fim, em número não inferior a duas nem superior a cinco por cada facto."
+  },
+  "a40202551ab03926": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º\n\nFindos os trabalhos, devem os funcionários apresentar superiormente relatório circunstanciado, juntando os elementos estatísticos recolhidos e indicando, com a respectiva justificação, todas as despesas efectuadas."
+  },
+  "f1f9bd620a52524e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º\n\n1 A cobrança das quantias devidas pela recolha directa será ordenada por despacho do director do Instituto.\n\n2. Posteriormente ao despacho, serão passadas guias em triplicado e enviadas ao chefe da repartição de finanças do concelho ou bairro da residência do responsável, para cobrança, nos termos legais.\n\n3. No caso de pagamento voluntário, será devolvido ao Instituto um dos exemplares das guias, no prazo de seis dias.\n\n4. Na falta de pagamento voluntário serão as quantias cobradas coercivamente, devendo os tribunais do contencioso das contribuições e impostos comunicar ao Instituto o resultado da execução, com a indicação da data do pagamento, se este tiver lugar.\n\n5. As importâncias cobradas darão entrada nos cofres do Estado, em rubrica adequada."
+  },
+  "94c424134f428d8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 3.ª — Dos pedidos de realização de inquéritos estatísticos e registo de instrumentos de notação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 3.ª — Dos pedidos de realização de inquéritos estatísticos e registo de instrumentos de notação"
+  },
+  "98315b86bf728835": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º\n\n1. O pedido de realização de inquéritos estatísticos feito ao abrigo do artigo 17.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, deverá ser sempre acompanhado de um relatório justificativo.\n\n2. Aos recursos das decisões do director do Instituto sobre pedidos de realização de inquéritos estatísticos é aplicável o preceituado nos n.os 2 a 4 do artigo 85.º"
+  },
+  "8ea7be5d8cfc3d14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º\n\n1. O registo dos instrumentos de notação estatística exigido pelo artigo 18.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, deverá ser requerido ao instituto pelas entidades que pretendam utilizá-los, juntando duas cópias do respectivo modelo e um relatório justificativo da necessidade do inquérito a que se referem.\n\n2. O instituto poderá solicitar todos os esclarecimentos que considere convenientes para apreciar o pedido.\n\n3. O director do Instituto proferirá a decisão no prazo de trinta dias, a contar da entrada do pedido do registo, ou, quando tenham sido solicitados esclarecimentos, a contar do recebimento dos mesmos."
+  },
+  "a1cf7fbd2f8fc680": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º\n\n1. Por despacho devidamente fundamentado, deve o director do Instituto:\n\na) Recusar o registo, quando os instrumentos se destinem à notação de dados contidos noutros instrumentos já aprovados;\n\nb) Propor as alterações que se mostrem convenientes nos modelos de instrumentos, quando os mesmos não se harmonizem com os requisitos técnicos adequados ou com as exigências de fácil preenchimento.\n\n2. Dos despachos que recusem registos de instrumentos de notação ou proponham alterações aos modelos apresentados cabe recurso para o Conselho Nacional de Estatística, interposto no prazo de oito dias, a contar do recebimento da comunicação do respectivo despacho.\n\n3. Se a entidade interessada no registo tiver sede ou instalação nas ilhas adjacentes, mas em ilha diferente daquela onde estiver situada a respectiva delegação do Instituto, o prazo para o recurso será fixado no ofício que comunicar a decisão, atendendo à maior ou menor facilidade de comunicações, mas não poderá ser inferior a vinte dias para a Madeira e a trinta para os Açores.\n\n4. Das deliberações do Conselho Nacional de Estatística cabe ainda recurso para o Presidente do Conselho, interposto nos termos dos n.os 2 e 3 deste artigo."
+  },
+  "0994591d2255cb91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º\n\n1. Os instrumentos de notação serão classificados em duas categorias:\n\na) Emitidos pelos órgãos do sistema estatístico nacional;\n\nb) Emitidos por outras entidades, para satisfação das suas necessidades específicas, e que serão designados por «declarações».\n\n2. Só é obrigatória a resposta aos instrumentos de notação referidos na alínea a) do número anterior.\n\n3. Os despachos que concedam os registos serão comunicados às entidades que apresentaram o pedido, devendo mencionar a classificação do instrumento, de harmonia com o n.º 1 deste artigo, o número do registo e o respectivo período de validade.\n\n4. Os impressos dos instrumentos de notação deverão conter as indicações referidas no n.º 3 do presente artigo."
+  },
+  "dbdb4e25d7022519": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º\n\nTodos aqueles a quem for pedido o preenchimento de instrumentos de notação que não contenham as indicações mencionadas no n.º 3 do artigo antecedente deverão recusar o seu preenchimento e dar conhecimento do facto ao Instituto, indicando a entidade emissora e juntando, se possível, um exemplar do instrumento."
+  },
+  "07ce43c13282a22c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º\n\n1. Os despachos de anulação dos registos dos instrumentos de notação devem ser fundamentados e comunicados à entidade interessada, com a indicação expressa dos respectivos fundamentos.\n\n2. É aplicável a estas decisões o regime de recursos estabelecido nos n.os 2 a 4 do artigo 85.º"
+  },
+  "a08f6cac32cfbf9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º\n\nAs respostas a questionários orais ou a pedidos de declarações, na realização de censos e inquéritos estatísticos, só são obrigatórias quando os agentes que as solicitem exibam credenciais passadas pelo Instituto, devendo as pessoas inquiridas, no caso contrário, recusar as respostas e comunicar o facto ao Instituto"
+  },
+  "047cf8e76184b52d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º\n\n1. As despesas necessárias à execução dos recenseamentos, inquéritos ou trabalhos especiais previstos nas alíneas b) e c) do artigo 13.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, serão processadas por conta da verba global especialmente inscrita para esse fim no orçamento do Instituto Nacional de Estatística.\n\n2. As quantias a pagar pelas entidades que tenham solicitado a realização dos inquéritos ou trabalhos estatísticos previstos na primeira parte da alínea c) do mesmo preceito darão entrada nos cofres do Estado em rubrica adequada."
+  },
+  "194f320856b9f1ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO 4. — Das delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO 4. — Das delegações"
+  },
+  "bd070cc030d50cd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º\n\n1. As pessoas residentes nas ilhas adjacentes e as entidades com sede nas mesmas, ou que nelas exerçam funções, devem apresentar nas respectivas delegações do Instituto todos os documentos e requerimentos que a este devam enviar.\n\n2. As decisões do Instituto serão sempre comunicadas aos interessados através dessas delegações."
+  },
+  "e495eecec5c28770": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º\n\nNas delegações metropolitanas compete aos respectivos chefes a admissão e a dispensa do pessoal eventual a que se refere o artigo 30.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, dentro dos limites autorizados pelo director do Instituto."
+  },
+  "198e8fb432d3d5fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º\n\nAs delegações do Instituto podem corresponder-se directamente com os serviços centrais e, dentro das suas áreas, com todas as entidades que nestas exerçam funções."
+  },
+  "65155242447e766d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Das transgressões estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Das transgressões estatísticas"
+  },
+  "de9a1fe364c82948": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º\n\nSerão punidas com multa de 50$00 a 1000$00 as transgressões seguintes:\n\na) Preenchimento incompleto de instrumentos de notação estatística;\n\nb) Inobservância de norma expressa de notação estatística;\n\nc) Falta de cumprimento de prazos fixados;\n\nd) Todas as transgressões são expressamente previstas neste artigo e nos seguintes."
+  },
+  "852257a664d47a0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º\n\nSerão punidas com multa de 100$00 a 3000$00 as transgressões seguintes:\n\na) Falta de distribuição ou recolha de instrumentos de notação estatística, ou de peças de processo de transgressão, por quem tenha a obrigação legal de auxiliar os serviços de estatística;\n\nb) Uso de impressos estatísticos diferentes dos oficialmente aprovados."
+  },
+  "093755a55fa98d40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 96.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º\n\n1. Serão punidas com multa de 200$00 a 6000$00 as transgressões seguintes:\n\na) Prestação de informações inexactas;\n\nb) Expressa denegação de informações estatísticas;\n\nc) Falta de prestação das informações estatísticas pedidas, depois de o arguido ter sido notificado para o fazer em prazo certo;\n\nd) Publicação de elementos estatísticos sem prévia aprovação do Instituto ou em contrário de quaisquer normas dele emanadas;\n\ne) Publicação de dados estatísticos fornecidos pelo Sistema Estatístico Nacional sem as observações que as tenham acompanhado;\n\nf) Realização de inquéritos por anotação directa, por entidades estranhas ao Instituto, sem prévia autorização deste;\n\ng) Não exibição de credenciais passadas pelo Instituto nos inquéritos a que se refere a alínea anterior;\n\nh) Emissão de instrumentos de notação sem prévio registo do Instituto.\n\n2. Considera-se expressa denegação de informações a recusa, por parte do destinatário, de receber documentos enviados pelo Instituto, sob registo do correio e com aviso de recepção."
+  },
+  "1eab75affb635fb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 97.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º\n\nSerão punidas com multa de 300$00 a 10000$00 as transgressões seguintes:\n\na) Falta de desempenho de funções de natureza estatística, atribuídas, por disposição legal, a qualquer serviço ou organismo;\n\nb) Não fornecimento, nos prazos estabelecidos, de elementos apurados por órgãos delegados do Instituto."
+  },
+  "cbf41f6ae86966f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 98.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º\n\nAs multas serão graduadas segundo a gravidade das faltas, atendendo-se especialmente às seguintes circunstâncias:\n\na) Pertencer o transgressor a um órgão estatístico delegado;\n\nb) Ter o mesmo a qualidade de agente do Estado, das autarquias locais ou dos organismos corporativos;\n\nc) Importância da actividade desenvolvida pelo transgressor;\n\nd) Importância dos elementos não fornecidos relativamente ao conjunto das informações a prestar;\n\ne) Ter o transgressor sido avisado de que se encontrava em falta;\n\nf) Falta de resposta aos ofícios enviados pelo Instituto;\n\ng) Ter a infracção atrasado ou impedido qualquer publicação de dados estatísticos."
+  },
+  "c07ef0a08d3064f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 99.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º\n\n1. Conhecida a prática de uma transgressão estatística, será notificado o infractor para, no prazo de quinze dias, a contar da notificação, apresentar, querendo, a sua defesa.\n\n2. Da notificação deve constar a indicação da falta cometida, da multa que lhe corresponde e de quaisquer esclarecimentos que sejam convenientes.\n\n3. É aplicável à notificação ordenada neste artigo o disposto no artigo 78.º\n\n4. Se o infractor residir nas ilhas adjacentes em ilha diferente daquela em que estiver situada a respectiva delegação do Instituto, é aplicável à fixação do prazo para a defesa o disposto no n.º 3 do artigo 85.º"
+  },
+  "7a75d2db6f851434": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 100.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º\n\n1. Recebida a defesa do transgressor, ou decorrido o prazo para a sua apresentação, será o processo submetido a julgamento.\n\n2. Antes da decisão final, poderá o Serviço do Contencioso proceder a quaisquer diligências que repute convenientes ao esclarecimento da verdade."
+  },
+  "5dc7d62fe96c45cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 101.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º\n\n1. A decisão será notificada ao transgressor, com a advertência de poder recorrer para o director do Instituto, no prazo de quinze dias, a contar da notificação.\n\n2. É aplicável à notificação ordenada neste artigo e ao prazo para o recurso o disposto, respectivamente, no artigo 78.º e no n.º 3 do artigo 85.º\n\n3. Na decisão do recurso poderá ser anulada, mantida, agravada ou diminuída a multa aplicada."
+  },
+  "05f71fc001b01c65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 102.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º\n\n1. Não sendo interposto recurso, ou tendo a decisão deste mantido a aplicação da multa, proceder-se-á à cobrança do seu quantitativo.\n\n2. Posteriormente ao julgamento ou à decisão do recurso proceder-se-á nos termos dos n.os 2 a 5 do artigo 82.º, servindo a própria guia de título executivo."
+  },
+  "19817d481492bf3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 103.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º\n\nNas delegações ultramarinas observar-se-ão, quanto a transgressões estatísticas, as normas constantes dos artigos anteriores, com as seguintes adaptações:\n\na) Nos Estados de Angola e Moçambique, a participação será feita pelo chefe da repartição onde se verificar a infracção e todo o expediente, incluindo o julgamento, correrá pela Repartição de Estudos e Coordenação Estatística; das decisões condenatórias cabe recurso hierárquico para o director de serviços, que decidirá definitivamente;\n\nb) Nas restantes províncias, todo o expediente, desde a participação até ao julgamento da transgressão, é feito pela delegação; o recurso é interposto para o governador da província e será julgado por ele ou por quem, para tal, dele receba delegação.\n\nMarcello Caetano - João Mota Pereira de Campos - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.\n\nPromulgado em 22 de Agosto de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha."
+  }
+ }
+}

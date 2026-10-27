@@ -23,6 +23,15 @@ publication:
   pages: 1359 - 1360
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/14100/13591360.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após a data em que tenha sido depositado o segundo instrumento de ratificação, adesão ou aprovação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

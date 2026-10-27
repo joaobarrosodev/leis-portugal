@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 98 - 98
   pdf_url: https://files.diariodarepublica.pt/1s/1973/01/01800/00980098.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-04-02'
+entry_into_force:
+  date: '1973-04-02'
+  rule: no dia 2 de Abril de 1973
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

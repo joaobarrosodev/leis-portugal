@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2009 - 2010
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21900/20092010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-09-23'
+entry_into_force:
+  date: '1978-09-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2162 - 2167
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/050a00/21622167.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-07-01'
+entry_into_force:
+  date: '2005-07-01'
+  rule: em 1 de Julho de 2005, desde que se mostre observado o disposto no artigo 17.º da Directiva n.º 2003/48/CE, de 3 de
+    Junho
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

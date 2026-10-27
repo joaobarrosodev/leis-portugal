@@ -23,6 +23,15 @@ publication:
   pages: 760-(2) a 760-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/038a01/00020005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data do seu regulamento de aplicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3037 - 3039
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/08900/30373039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-10'
+entry_into_force:
+  date: '2007-05-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1909 - 1913
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10500/19091913.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-05-06'
+entry_into_force:
+  date: '1988-05-06'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

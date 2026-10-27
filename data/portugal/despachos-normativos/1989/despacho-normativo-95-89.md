@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4484-(4) a 4484-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23602/00040005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-10-18'
+entry_into_force:
+  date: '1989-10-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1989-10-01'
+  effects_rule: a partir do dia 1 de Outubro de 1989
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

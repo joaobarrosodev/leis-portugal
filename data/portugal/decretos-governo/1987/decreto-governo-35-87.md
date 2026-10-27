@@ -23,6 +23,16 @@ publication:
   pages: 4363 - 4383
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29300/43634383.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'a título definitivo no dia 1 de Julho de 1983, ou em qualquer data ulterior, se a essa data três governos totalizando
+    pelo menos 85% das exportações líquidas indicadas no anexo A do presente Acordo e '
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: 2º Suplemento
   pages: 4292-(13) a 4292-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11802/0001300017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-20'
+entry_into_force:
+  date: '2015-06-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

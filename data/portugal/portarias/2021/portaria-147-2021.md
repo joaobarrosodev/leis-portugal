@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 18 - 19
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13500/0001800019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-15'
+entry_into_force:
+  date: '2021-07-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2021-07-26'
+  effects_rule: a partir de 26 de julho de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

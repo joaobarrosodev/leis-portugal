@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/20100/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-18'
+entry_into_force:
+  date: '2025-10-18'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: com a entrada em vigor do Orçamento da Região Autónoma dos Açores para o ano de 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

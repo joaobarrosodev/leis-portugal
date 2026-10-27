@@ -89,6 +89,7 @@ A fase 2 é a que mais aumenta a fiabilidade; o detalhe de cada fase segue abaix
    - Usar as republicações onde existem (100 diplomas; 56 ficam com o texto atual completo). São uma fonte auxiliar, não a principal.
    - Consolidar os 2.139 diplomas em vigor alterados com 10 ou mais citações: aplicar as alterações com ajuda de um LLM, a começar pelos que têm uma só alteração, verificar artigo a artigo e rever à mão os mais importantes.
    - Nos restantes, avisar sempre "texto original; alterado por X e Y" e juntar os artigos que alteram, ou não responder.
+   - Piloto (2026-10-27, [`consolidacao/`](consolidacao/README.md)) nos 671 com uma só alteração: em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto; 25 consolidados por regra e 20 com o LLM (numa sessão do Claude), todos verificados às cegas, já estão no acervo; dos 77 que foram ao LLM, 57 ainda não.
 3. **Fase 3: estrutura, vigência e datas**
    - Identificadores e partição por artigo em todos os diplomas com texto.
    - Datas de entrada em vigor a partir das cláusulas "entra em vigor…".
@@ -141,6 +142,77 @@ Estes valores são estimativas, não medições. O primeiro número real sai da 
 - **O conector do DRE usa endpoints internos** sem API pública documentada e pode falhar após um deploy do DRE.
 - **As consolidações não têm valor jurídico.** A resposta tem de dizer se o texto é o publicado no Diário da República ou uma consolidação.
 - **Não medido ainda:** a fiabilidade atual e a completude das relações de alteração. Medem-se nas fases 1 e 2.
+
+## Plano de execução para alta fiabilidade (2026-10-27)
+
+Escrito depois da primeira medição (fase 4) e das consolidações da fase 2. Os números são do export de 26/10 e do índice de 27/10.
+
+### O que medimos
+
+| Facto | Número | O que quer dizer |
+| --- | --: | --- |
+| Perguntas reais com o artigo certo em 1.º | 46% (63/136) | A pesquisa é o maior erro nas perguntas que as pessoas fazem |
+| Perguntas reais cuja fonte é um diploma consolidado pelo DRE | 136/136 (99 no Código do Trabalho) | O texto desatualizado não é o que nos faz errar nas reais que temos; mas o conjunto é enviesado (FAQ de trabalho e impostos) |
+| Perguntas sintéticas cuja fonte é texto original de um diploma alterado | 55/407 | A única parte do conjunto que mede o risco do texto desatualizado; nunca foi medida à parte |
+| Fiabilidade sem LLM, limiar 3 | 87% com 13% de "não sei" | Um teto: "certa" é só o artigo certo em 1.º |
+| Passo do LLM | não medido | Sem chave da API; sem ele não há resposta escrita nem recusa do fora de âmbito |
+| Legislação consolidada do DRE | 5.689 diplomas, todo o sitemap recolhido | O DRE não tem mais texto em vigor para dar; o resto temos de o fazer nós |
+| Em vigor, alterados, sem consolidação, com texto | 25.940 (8.975 com uma só alteração; 2.185 com 10 ou mais citações) | No piloto, 75% das alterações não mudavam o texto |
+| Em vigor só com PDF ou metadados | 15.230 (PT) + 14.829 (regional) | Fora do índice de texto; não dá para calibrar o "não sei" na cauda |
+| Vigência desconhecida | 108 mil (52 mil com texto) | O índice baixa-os no ranking; não sabe se são lei |
+
+### Os cinco limites, por ordem
+
+1. **Pesquisa nas perguntas reais.** Vocabulário do dia a dia contra texto jurídico; em 28 das 136 o artigo certo nem chega aos 10 candidatos. O reranker não corrige o que não entra.
+2. **Sem passo do LLM.** Não há resposta escrita, não há "não sei" para aconselhamento, jurisprudência e lei estrangeira, e a fiabilidade real nunca foi medida. Precisa de uma chave da API ou de uma sessão do Claude a fazer de LLM (lento, mas já se fez na fase 2).
+3. **Conjunto de avaliação demasiado fácil e pequeno.** 457 perguntas escritas a partir do artigo; 136 reais de FAQ de duas áreas. Não mede perguntas com 2 ou 3 artigos (regra, exceção, transitória), premissas erradas, nem o texto desatualizado.
+4. **Erra com confiança.** A pontuação do reranker separa o fora de âmbito, mas não o artigo certo de um parecido do diploma errado. Falta um segundo travão antes de responder.
+5. **Texto desatualizado na cauda.** 25.940 diplomas em vigor com texto original; 45 consolidados por nós. Não aparece nas reais que temos, mas aparece assim que as perguntas saírem dos códigos.
+
+### Frentes de trabalho
+
+Cada frente corre numa sessão própria, em worktree, e só toca na sua pasta. `data/` só muda a partir do `main`, depois de verificação. Cada frente acaba com uma medição (`rag.avaliar`, ~1,5 h) e só entra o que não piora nenhum tipo de pergunta.
+
+| Frente | O que faz | Pasta | Como se mede | Depende de |
+| --- | --- | --- | --- | --- |
+| **A. Pesquisa nas reais** (a correr: `fase4-reais`) | Diagnóstico das 73 falhadas; pesquisa por diploma com embeddings; diplomas candidatos; reescrita da pergunta quando houver chave | `rag/` | artigo@1 nas reais sem baixar os outros tipos nem subir o "não sei" nas que têm resposta | nada |
+| **B. Triagem e texto em vigor em escala** | Correr a seleção e as regras do piloto nos 25.940 (CPU, horas): separar "alteração sem mudança de texto" de "muda o texto"; aplicar por regra os que dão; ordenar o resto por citações para o LLM; alterações múltiplas por ordem de data | `consolidacao/` | quantos dos 25.940 ficam com estado certo; os aplicados verificados às cegas; as 55 sintéticas em texto alterado | nada |
+| **C. Conjunto de avaliação duro** | Mais 300 reais de FAQ de outras áreas (Segurança Social, Justiça, Habitação, Consumidor, Empresas); 100 com 2 ou 3 artigos; 50 com premissa errada; 100 sobre texto alterado sem consolidação; tudo verificado às cegas por outro modelo | `avaliacao/` | o conjunto novo medido à parte; as reais privadas ficam fora do git | nada |
+| **D. Passo do LLM** | Com chave: `rag.avaliar` sem `--sem-llm`. Sem chave: exportar os 8 candidatos por pergunta, uma sessão do Claude responde com as instruções de `rag/resposta.py`, importar e medir | `rag/` (ficheiro novo) | fiabilidade das respostas escritas e "não sei" no fora de âmbito | A no `main` |
+| **E. Segundo travão** | Recusar quando o 1.º e o 2.º são de diplomas diferentes com pontuações próximas; quando o 1.º é texto original alterado e B não garante que o artigo não mudou; exigir ao LLM uma frase literal do artigo | `rag/` | fiabilidade sobe sem o "não sei" nas que têm resposta passar de 15% | A, B, D |
+| **F. Acervo na cauda** | OCR dos 15 mil PT só com PDF em vigor; vigência dos 108 mil desconhecidos pelas relações e normas revogatórias; recolha da 2.ª Série só do que for citado | `src/`, `data/` | registos com texto e estado; cobertura dos diplomas citados | nada; longo (dias de CPU e rede) |
+
+### Ordem
+
+1. **Agora, em paralelo:** A (a correr), B e C. Não dependem umas das outras nem partilham ficheiros.
+2. **Quando A entrar no `main`:** D. É o número que falta: a fiabilidade das respostas escritas.
+3. **Com D medido:** E. É o que leva de 87% a 95%, à custa de responder menos.
+4. **Sempre que houver máquina livre:** F. Retorno lento, mas é o teto de tudo.
+
+### Riscos e mitigação
+
+| Risco | Mitigação |
+| --- | --- |
+| Sessões a escrever nos mesmos ficheiros | Uma pasta por frente; `rag/` só A e, depois, D e E, uma de cada vez; `data/` só do `main` |
+| O gerador das perguntas vê o sistema e escreve perguntas fáceis | A sessão C não lê `rag/`; verificação às cegas por outro modelo, como na fase 1 |
+| O LLM via sessão do Claude é lento | Primeiro as 136 reais e as 50 sem resposta; o resto quando houver chave |
+| Consolidar em escala introduz erros escondidos | Só entra em `data/` o que passa a verificação às cegas com todos os artigos `certo` e sem problemas no diploma, como hoje (`consolidacao/acervo.py`) |
+| Melhorar as reais estraga as literais | Cada mudança mede os 4 tipos; regra: nada entra se baixar um tipo |
+| Baixar erros à custa de "não sei" a mais | Meta dupla: 95% nas respondidas e "não sei" abaixo de 15% nas que têm resposta |
+| Trabalhos de horas morrem quando o computador adormece | Correr em background com log e progresso retomável; pedir ao sistema para não adormecer |
+| Texto das perguntas reais sai para o git | `avaliacao/privado/` e `rag/resultados/privado/` fora do git; só contagens nos README |
+| Medir leva 1,5 h e trava a iteração | Medição por amostra (reais + 100) para iterar; a completa antes do commit |
+
+### Metas desta ronda
+
+| Medida | Hoje | Meta |
+| --- | --: | --: |
+| Artigo certo em 1.º nas reais | 46% | 70% |
+| Fiabilidade sem LLM (certas/respondidas) | 87% | 92% |
+| Fiabilidade com LLM | não medida | 95% |
+| "Não sei" nas perguntas com resposta | 6% | até 15% |
+| Dos 25.940 alterados, com estado certo (sem mudança de texto / consolidado / para LLM) | 671 triados | todos triados, 2.185 mais citados consolidados ou com aviso certo |
+| Perguntas no conjunto | 593 | 1.100, com os tipos novos medidos à parte |
 
 ## Próximos passos
 

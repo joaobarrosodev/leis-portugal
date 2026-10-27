@@ -1,0 +1,49 @@
+{
+  "id": "pt:dre:201053:por",
+  "artigos": [
+    {
+      "chave": "BASE VIII",
+      "epigrafe": "(Funções de previdência social e assistência)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "BASE XXII",
+      "epigrafe": "(Âmbito)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "BASE XXIII",
+      "epigrafe": "(Direitos e obrigações dos beneficiários e contribuintes)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "BASE XXIV",
+      "epigrafe": "(Âmbito e esquema das prestações)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "BASE XXV",
+      "epigrafe": "(Âmbito)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "BASE XXVI",
+      "epigrafe": "(Disposições específicas)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "BASE XXVII",
+      "epigrafe": "(Financiamento)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "BASE XXVIII",
+      "epigrafe": "(Definição de trabalhadores permanentes)",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Aplicada só a revogação expressa das bases VIII e XXII a XXVIII. Fica de fora a revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo»: alvo indeterminado (revogação por conteúdo, não por número).",
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

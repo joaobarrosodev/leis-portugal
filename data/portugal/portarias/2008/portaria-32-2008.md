@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 357 - 368
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00800/0035700368.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-02-10'
+entry_into_force:
+  date: '2008-02-10'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

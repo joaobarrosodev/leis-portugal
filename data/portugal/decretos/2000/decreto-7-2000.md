@@ -24,6 +24,16 @@ publication:
   pages: 1710 - 1715
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/096a00/17101715.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ambas as Partes se houverem notificado do cumprimento das respectivas normas internas sobre a aprovação
+    de convenções internacionais
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

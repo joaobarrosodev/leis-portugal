@@ -28,10 +28,38 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-12-28'
+version_history:
+  file: decreto-lei-371-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-12-28'
+    amending: pt:dre:541444:por
+    amending_title: Decreto-Lei n.º 415/93
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:45:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 415/93. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-371-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,27 +180,35 @@ Ao abrigo do artigo 78.º do [Decreto-Lei n.º 413/71](https://diariodarepublica
 
 ### CAPÍTULO I
 
-Artigo 1.º - 1 - São criadas as Escolas Técnicas dos Serviços de Saúde de Lisboa, de Coimbra e do Porto, que se sucedem aos centros de formação previstos nas Portarias n.os 18523, de 12 de Junho de 1961, e 19397, de 20 de Setembro de 1962, e reestruturados pela [Portaria n.º 709/80](https://diariodarepublica.pt/dr/detalhe/portaria/709-1980-461860), de 23 de Setembro.
+###### Artigo 1.º
 
-2 - Às Escolas referidas e, bem assim, à Escola de Reabilitação do Alcoitão, criada pela [Portaria n.º 22034](https://diariodarepublica.pt/dr/detalhe/portaria/22034-1966-471574), de 4 de Junho de 1966, competirá desenvolver as actividades relacionadas com a formação e aperfeiçoamento do pessoal técnico auxiliar dos serviços de saúde.
+(Revogado.)
 
-3 - As escolas poderão reconhecer a entidades privadas situadas na respectiva área geográfica, correspondente à área de jurisdição das comissões inter-hospitalares, competência para organizar e manter cursos de formação e aperfeiçoamento, que ficarão sujeitos à sua tutela pedagógica.
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
-Art. 2.º - 1 - As Escolas são dotadas de personalidade jurídica, gozam de autonomia técnica, administrativa e pedagógica e regem-se por regulamento a aprovar por portaria do Ministro dos Assuntos Sociais.
+###### Artigo 2.º
 
-2 - As Escolas disporão de sedes próprias e funcionarão em ligação com os estabelecimentos e serviços de saúde através dos centros de formação a que se refere o capítulo II deste decreto-lei.
+(Revogado.)
 
-3 - A Escola de Reabilitação do Alcoitão manterá as suas instalações actuais e funcionará em ligação com o Centro de Medicina de Reabilitação do Alcoitão.
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
-Art. 3.º Compete ao Departamento de Recursos Humanos a coordenação central dos cursos de formação profissional ministrados nas Escolas.
+###### Artigo 3.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
 ### CAPÍTULO II — Dos centros de formação
 
-Art. 4.º - 1 - Os núcleos de formação, criados pela [Portaria n.º 217/80](https://diariodarepublica.pt/dr/detalhe/portaria/217-1980-475137), de 3 de Maio, e que funcionam nos vários estabelecimentos e serviços de saúde, passam a designar-se «centros de formação» e cumpre-lhes prestar toda a colaboração às Escolas no desenvolvimento das suas actividades, tendo por finalidade o ensino prático e o estágio.
+###### Artigo 4.º
+
+1 - Os núcleos de formação, criados pela [Portaria n.º 217/80](https://diariodarepublica.pt/dr/detalhe/portaria/217-1980-475137), de 3 de Maio, e que funcionam nos vários estabelecimentos e serviços de saúde, passam a designar-se «centros de formação» e cumpre-lhes prestar toda a colaboração às Escolas no desenvolvimento das suas actividades, tendo por finalidade o ensino prático e o estágio.
 
 2 - Para efeitos pedagógicos, os centros de formação dependem das escolas a que estejam vinculados, em conformidade com o regulamento destas.
 
-Art. 5.º - 1 - Os centros de formação serão constituídos pelos serviços de saúde e hospitalares, que ministrarão a parte que lhes caiba no ensino teórico-prático ou estágio, por acordo entre a escola e o órgão de gestão do respectivo estabelecimento a que estão subordinados.
+###### Artigo 5.º
+
+1 - Os centros de formação serão constituídos pelos serviços de saúde e hospitalares, que ministrarão a parte que lhes caiba no ensino teórico-prático ou estágio, por acordo entre a escola e o órgão de gestão do respectivo estabelecimento a que estão subordinados.
 
 2 - Os serviços dos Hospitais Civis de Lisboa, do Hospital de Santa Maria, do Hospital de Egas Moniz, do Hospital de Santa Cruz e da sede do Instituto Nacional de Saúde Dr. Ricardo Jorge darão apoio à Escola Técnica dos Serviços de Saúde de Lisboa.
 
@@ -181,61 +218,87 @@ Art. 5.º - 1 - Os centros de formação serão constituídos pelos serviços de
 
 5 - Os serviços do Centro de Medicina de Reabilitação do Alcoitão darão apoio à respectiva Escola de Reabilitação.
 
-Art. 6.º Os estabelecimentos e serviços dependentes da Secretaria de Estado da Segurança Social que tiveram actividades conexas com a formação deste pessoal devem prestar às Escolas a colaboração e apoio convenientes.
+###### Artigo 6.º
+
+Os estabelecimentos e serviços dependentes da Secretaria de Estado da Segurança Social que tiveram actividades conexas com a formação deste pessoal devem prestar às Escolas a colaboração e apoio convenientes.
 
 ### CAPÍTULO III — Dos órgãos de direcção das escolas
 
-Art. 7.º São órgãos de direcção das Escolas:
+###### Artigo 7.º
 
-a) A direcção;
+(Revogado.)
 
-b) O conselho escolar.
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
-Art. 8.º - 1 - A direcção é nomeada pelo Secretário de Estado da Saúde, por proposta do director-geral do Departamento de Recursos Humanos, e constituída por 1 director, 1 subdirector e 3 vogais.
+###### Artigo 8.º
 
-2 - O director e o subdirector deverão ser, de preferência, médicos, enquanto os vogais serão escolhidos preferentemente entre o pessoal não médico.
+(Revogado.)
 
-Art. 9.º O conselho escolar é presidido por um dos membros da direcção, por ela designado anualmente, sendo constituído pelos docentes e monitores dos cursos, por um representante do órgão de gestão de cada estabelecimento de que dependem os centros e por um aluno de cada um dos cursos ministrados.
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
-Art. 10.º À direcção compete, em especial:
+###### Artigo 9.º
 
-a) Dar cumprimento às linhas gerais de ensino que forem estabelecidas superiormente;
+(Revogado.)
 
-b) Propor a admissão do pessoal docente e administrativo considerado necessário à execução dos programas de ensino estabelecidos;
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
-c) Zelar pela observância das normas legais e regulamentares de funcionamento da escola.
+###### Artigo 10.º
 
-Art. 11.º - 1 - Ao conselho escolar compete, em especial:
+(Revogado.)
 
-a) Dar parecer em tudo o que respeite às actividades de ensino da escola e dos centros de formação;
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
-b) Homologar as actas dos exames finais;
+###### Artigo 11.º
 
-c) Apreciar os relatórios dos encarregados de regência das disciplinas;
+(Revogado.)
 
-d) Exercer toda a competência que por lei não seja atribuída a outro órgão.
-
-2 - O conselho escolar funcionará em plenário ou por curso, conforme a natureza dos assuntos a tratar.
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
 ### CAPÍTULO IV — Dos serviços administrativos e do financiamento
 
-Art. 12.º - 1 - O Ministro dos Assuntos Sociais poderá, por despacho, afectar às Escolas o pessoal indispensável ao seu regular funcionamento.
+###### Artigo 12.º
 
-2 - O pessoal referido no número anterior mantém os direitos, deveres e regalias dos serviços de origem, nomeadamente no que respeita à natureza do vínculo, designação funcional, e vencimento.
+(Revogado.)
 
-Art. 13.º A remuneração do pessoal docente dos centros será estabelecida por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Reforma Administrativa e dos Assuntos Sociais.
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
-Art. 14.º As despesas decorrentes da realização de cursos de formação serão suportadas por conta da dotação orçamental destinada à formação de técnicos auxiliares dos serviços complementares de diagnóstico e terapêutica.
+###### Artigo 13.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
+
+###### Artigo 14.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-Art. 15.º As Escolas criadas pelo presente diploma são colocadas em regime de instalação, ao abrigo dos artigos 19.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+###### Artigo 15.º
 
-Art. 16.º A Escola de Reabilitação do Alcoitão mantém a composição actual dos órgãos de direcção enquanto não for publicado novo regulamento de actividades.
+(Revogado.)
 
-Art. 17.º As dúvidas suscitadas pela aplicação do presente diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Assuntos Sociais e da Reforma Administrativa, conforme os casos.
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
-Art. 18.º São revogados o [Decreto-Lei n.º 45759](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45759-1964-577306), de 12 de Junho de 1964, a [Portaria n.º 694/70](https://diariodarepublica.pt/dr/detalhe/portaria/694-1970-414420), de 31 de Dezembro, e os capítulos I a V da [Portaria n.º 709/80](https://diariodarepublica.pt/dr/detalhe/portaria/709-1980-461860), de 23 de Setembro.
+###### Artigo 16.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
+
+###### Artigo 17.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
+
+###### Artigo 18.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), publicado em 1993-12-23.
 
 Aprovado em Conselho de Ministros de 15 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 

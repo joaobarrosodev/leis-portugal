@@ -24,6 +24,16 @@ publication:
   pages: 1811 - 1914
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/072a00/18111914.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no 1.º dia do 3.º mês que se segue àquele em que o depositário provisório haja notificado os Estados membros do depósito
+    do instrumento por meio do qual são preenchidos os requisitos previstos no n.º '
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

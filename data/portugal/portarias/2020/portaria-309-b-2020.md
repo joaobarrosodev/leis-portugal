@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 171-(4) a 171-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/25302/0000400016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-11'
+entry_into_force:
+  date: '2021-01-11'
+  rule: no dia 11 de janeiro de 2021
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 277 - 279
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03200/02770279.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-02-07'
+entry_into_force:
+  date: '1976-02-07'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7726 - 7734
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/21500/0772607734.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-11-06'
+entry_into_force:
+  date: '2008-11-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

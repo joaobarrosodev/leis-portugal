@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4259 - 4261
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/188a00/42594261.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-03-01'
+entry_into_force:
+  date: '1998-03-01'
+  rule: em 1 de Março de 1998, aplicando-se a todos os contratos celebrados a partir desse momento, bem como aos contratos
+    anteriormente celebrados a partir da data dos respectivos vencimentos
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

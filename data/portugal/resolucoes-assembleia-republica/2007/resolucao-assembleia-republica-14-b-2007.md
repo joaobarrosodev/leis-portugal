@@ -24,6 +24,15 @@ publication:
   pages: 2084-(2) a 2084-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06501/00020016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que for aceite pela maioria dos Estados representados na Sétima Sessão
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

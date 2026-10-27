@@ -23,6 +23,15 @@ publication:
   pages: 1994 - 1996
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19000/19941996.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início da vigência da Lei n.º 21-A/79, de 25 de Junho
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5254 - 5277
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15000/0525405277.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-08-06'
+entry_into_force:
+  date: '2008-08-06'
+  rule: no dia imediato ao da sua publicação, excepto o capítulo xiii, que
+  method: clausula
+  article: art-85
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

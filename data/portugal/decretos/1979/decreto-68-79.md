@@ -24,6 +24,16 @@ publication:
   pages: 1541 - 1544
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16100/15411544.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e permanecerá válido até que ambos os Governos tenham cumprido as obrigações respectivas,
+    ou seis meses após notificação escrita, feita por qualquer das Partes
+  method: clausula
+  article: art-vii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

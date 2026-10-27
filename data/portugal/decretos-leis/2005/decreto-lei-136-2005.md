@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4770 - 4771
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/157a00/47704771.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-08-22'
+entry_into_force:
+  date: '2005-08-22'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo prazo de dois anos
 end_of_validity_date: null
 legal_status: in_force
 notes: []

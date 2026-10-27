@@ -23,6 +23,15 @@ publication:
   pages: 3529 - 3529
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/27000/35293529.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data do Decreto-Lei n.º 172-G/86, de 30 de Junho
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

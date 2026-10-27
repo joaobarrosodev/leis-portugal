@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4532 - 4536
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15100/0453204536.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-09-06'
+entry_into_force:
+  date: '2017-09-06'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

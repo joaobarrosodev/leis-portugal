@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1742 - 1742
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/16100/17421742.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-07-17'
+entry_into_force:
+  date: '1981-07-17'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-5
+  effects_date: '1981-10-31'
+  effects_rule: até 31 de Outubro de 1981
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

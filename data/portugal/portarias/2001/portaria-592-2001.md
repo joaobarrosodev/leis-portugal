@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3509 - 3510
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/133b00/35093510.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-06-13'
+entry_into_force:
+  date: '2001-06-13'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2000-07-09'
+  effects_rule: a partir do dia 9 de Julho de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

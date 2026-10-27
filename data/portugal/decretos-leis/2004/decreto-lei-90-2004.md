@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2377 - 2379
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/093a00/23772379.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-04-21'
+entry_into_force:
+  date: '2004-04-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

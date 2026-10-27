@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2452 - 2453
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/122b00/24522453.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-31'
+entry_into_force:
+  date: '2000-05-31'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2000-01-01'
+  effects_rule: desde 1 de Janeiro de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

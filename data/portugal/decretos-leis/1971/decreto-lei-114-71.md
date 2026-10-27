@@ -24,6 +24,16 @@ publication:
   pages: 440 - 442
   pdf_url: https://files.diariodarepublica.pt/1s/1971/03/07600/04400442.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'na data em que tenham sido depositados os instrumentos de ratificação ou aprovação junto do Governo dos Estados Unidos
+    da América, ou recebidas por este Governo as notificações escritas de adesão, de '
+  method: clausula
+  article: art-iv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

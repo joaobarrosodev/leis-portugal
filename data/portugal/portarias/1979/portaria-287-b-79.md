@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1350-(2) a 1350-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14001/00020004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-06-21'
+entry_into_force:
+  date: '1979-06-21'
+  rule: em 21 de Junho de 1979
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

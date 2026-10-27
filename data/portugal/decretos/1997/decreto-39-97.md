@@ -24,6 +24,16 @@ publication:
   pages: 3867 - 3867
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/173a00/38673867.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas para este efeito pela ordem jurídica de cada
+    uma das Partes Contratantes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 5919 - 5923
   pdf_url: https://files.diariodarepublica.pt/1s/2002/08/192b00/59195923.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua publicitação e
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até à sua revisão ou suspensão nos termos legais
 end_of_validity_date: null
 legal_status: in_force
 notes: []

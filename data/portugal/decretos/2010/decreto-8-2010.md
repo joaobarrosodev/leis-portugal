@@ -24,6 +24,16 @@ publication:
   pages: 1425 - 1444
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/08100/0142501444.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no 1.º dia do 2.º mês seguinte à data de recepção da última notificação, por escrito e por via diplomática, de que
+    foram cumpridos todos os requisitos de direito interno dos Estados Contratantes para '
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo período de um ano, tacitamente renovável por sucessivos períodos de igual duração
 end_of_validity_date: null
 legal_status: in_force
 notes: []

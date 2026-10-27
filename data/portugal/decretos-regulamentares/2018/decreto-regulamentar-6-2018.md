@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2851 - 2869
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12500/0285102869.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-07-03'
+entry_into_force:
+  date: '2018-07-03'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: '2019-01-01'
+  effects_rule: em 1 de janeiro de 2019, sem prejuízo do disposto no número seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

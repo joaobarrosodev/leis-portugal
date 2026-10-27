@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1043 - 1044
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/105a00/10431044.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-05-11'
+entry_into_force:
+  date: '1996-05-11'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 5502 - 5506
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/16200/0550205506.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a recepção, pelas Partes Contratantes, da última nota informando que os procedimentos, exigidos pelas
+    respectivas ordens jurídicas, foram cumpridos
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

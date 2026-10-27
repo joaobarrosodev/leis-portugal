@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6319 - 6319
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/260a00/63196319.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-11-11'
+entry_into_force:
+  date: '2000-11-11'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

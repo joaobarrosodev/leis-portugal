@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8298 - 8299
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/290a00/82988299.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-12-22'
+entry_into_force:
+  date: '2001-12-22'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2002-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2002
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

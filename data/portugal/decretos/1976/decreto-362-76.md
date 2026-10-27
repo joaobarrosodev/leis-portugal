@@ -24,6 +24,15 @@ publication:
   pages: 1084 - 1085
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11300/10841085.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da última notificação respeitante ao cumprimento das formalidades necessárias à sua entrada em vigor
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

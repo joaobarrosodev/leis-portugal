@@ -24,6 +24,15 @@ publication:
   pages: 3375-3380
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/09/01/200580467.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das 00:00 do dia 2 de setembro de 2022
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

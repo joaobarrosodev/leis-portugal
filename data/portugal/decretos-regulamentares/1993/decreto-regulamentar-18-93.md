@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3512 - 3513
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/149b00/35123513.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-07-01'
+entry_into_force:
+  date: '1993-07-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação e é o diploma a que se refere o n.º 2 do artigo 27.º da Lei n.º 113/91,
+    de 29 de Agosto
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

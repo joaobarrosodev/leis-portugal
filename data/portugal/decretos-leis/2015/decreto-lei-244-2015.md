@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 9086 - 9108
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20400/0908609108.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-17'
+entry_into_force:
+  date: '2016-01-17'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

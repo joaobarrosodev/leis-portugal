@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2082 - 2082
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/170b00/20822082.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-08-23'
+entry_into_force:
+  date: '1996-08-23'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10 - 21
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22900/0001000021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-28'
+entry_into_force:
+  date: '2022-12-28'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

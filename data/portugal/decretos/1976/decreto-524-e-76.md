@@ -24,6 +24,15 @@ publication:
   pages: 1476-(8) a 1476-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15501/00080010.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da assinatura e terá uma duração de três anos, renováveis por períodos iguais e sucessivos
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

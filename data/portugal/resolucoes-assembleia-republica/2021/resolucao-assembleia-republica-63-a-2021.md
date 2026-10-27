@@ -23,6 +23,15 @@ publication:
   pages: 52-(6) a 52-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02901/0000600009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o decreto do Presidente da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: nos mesmos termos
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

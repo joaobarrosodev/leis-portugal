@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 30-(4) a 30-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/12/24601/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-01'
+entry_into_force:
+  date: '2020-01-01'
+  rule: em 1 de janeiro de 2020
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

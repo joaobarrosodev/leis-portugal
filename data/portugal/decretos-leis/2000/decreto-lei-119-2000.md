@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2893 - 2897
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/152a00/28932897.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-07-05'
+entry_into_force:
+  date: '2000-07-05'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

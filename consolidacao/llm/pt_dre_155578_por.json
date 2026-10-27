@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:155578:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "É concedida autonomia administrativa e financeira à Obra Social da Polícia de Segurança Pública da província de Macau, a partir de Janeiro de 1963, ficando revogado o disposto nos artigos 45.º e 49.º do [Decreto n.º 44058](https://diariodarepublica.pt/dr/detalhe/decreto/44058-1961-185326), de 23 de Novembro de 1961.\n\n§ único. As condições de funcionamento da instituição serão reguladas em diploma legislativo do Governo na província."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": [
+    "9.º: parágrafo que não está no alterador nem no original: § único. As condições de funcionamento da instituição serão reguladas em diploma"
+  ]
+}

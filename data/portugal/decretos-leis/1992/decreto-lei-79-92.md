@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2083 - 2095
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/104a00/20832095.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-05-11'
+entry_into_force:
+  date: '1992-05-11'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1992-01-01'
+  effects_rule: desde 1 de Janeiro de 1992
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

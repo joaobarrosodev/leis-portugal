@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1404 - 1406
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/064a00/14041406.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-09-14'
+entry_into_force:
+  date: '1991-09-14'
+  rule: 180 dias após a sua publicação, excepto o disposto no artigo 1.º e no n.º 1 do artigo 11.º
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

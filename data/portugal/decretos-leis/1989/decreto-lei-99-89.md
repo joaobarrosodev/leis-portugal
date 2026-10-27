@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1330 - 1332
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07300/13301332.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-03-30'
+entry_into_force:
+  date: '1989-03-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-26-a
+  effects_date: null
+  effects_rule: no que se refere às reclassificações e revalorizações nele estabelecidas, desde 1 de Janeiro de 1988, nos
+    termos do artigo 15.º do Decreto-Lei n.º 265/88, de 28 de Julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

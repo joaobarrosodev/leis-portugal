@@ -25,6 +25,16 @@ publication:
   pages: 5892 - 5895
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/22400/0589205895.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de receção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos
+    de Direito Interno de ambas as Partes necessários para o efeito
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo período de um ano, automaticamente renovável por iguais períodos
 end_of_validity_date: null
 legal_status: unknown
 notes: []

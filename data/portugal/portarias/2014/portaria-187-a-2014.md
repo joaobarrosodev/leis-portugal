@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5004-(2) a 5004-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17901/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-09-18'
+entry_into_force:
+  date: '2014-09-18'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2014-09-17'
+  effects_rule: desde 17 de setembro de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

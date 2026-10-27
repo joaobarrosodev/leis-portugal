@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2566-(1) a 2566-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/20101/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-09-01'
+entry_into_force:
+  date: '1982-09-01'
+  rule: no dia 1 de Setembro de 1982 e revoga o que sobre juízes de direito está contemplado no mapa II a que se refere a
+    Portaria n.º 778/76, de 31 de Dezembro
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

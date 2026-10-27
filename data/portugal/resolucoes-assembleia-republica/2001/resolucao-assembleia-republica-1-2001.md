@@ -26,6 +26,16 @@ publication:
   pages: 14 - 36
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/002a00/00140036.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao termo de um período de três meses após a data em que cinco Estados, incluindo pelo menos
+    quatro Estados membros do Conselho da Europa, tenham expressado o seu consentimen
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

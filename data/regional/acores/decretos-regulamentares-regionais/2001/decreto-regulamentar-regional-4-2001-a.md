@@ -23,6 +23,15 @@ publication:
   pages: 3449 - 3457
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/131b00/34493457.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

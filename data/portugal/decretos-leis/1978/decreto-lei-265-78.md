@@ -24,6 +24,16 @@ publication:
   pages: 1738 - 1739
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19900/17381739.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do ano económico de 1979, devendo a norma do artigo 7.º ser aplicada já no Orçamento Geral do Estado para
+    o mesmo ano
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

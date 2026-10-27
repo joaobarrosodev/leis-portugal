@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4069 - 4069
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/142b00/40694069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-06-01'
+entry_into_force:
+  date: '1995-06-01'
+  rule: a partir de 1 de Junho de 1995
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

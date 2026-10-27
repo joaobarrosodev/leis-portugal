@@ -23,6 +23,15 @@ publication:
   pages: 4552 - 4553
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/021000000/0455204553.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação em reunião da CDPC
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

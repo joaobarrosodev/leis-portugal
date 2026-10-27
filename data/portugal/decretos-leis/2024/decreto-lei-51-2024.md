@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16600/0000200008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-08-29'
+entry_into_force:
+  date: '2024-08-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: '2028-07-31'
+  end_rule: até 31 de julho de 2028
 end_of_validity_date: null
 legal_status: in_force
 notes: []

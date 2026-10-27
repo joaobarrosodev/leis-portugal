@@ -22,9 +22,28 @@ publication:
   supplement: null
   pages: 1747 - 1749
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/087b00/17471749.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-04-18'
+entry_into_force:
+  date: '1992-04-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:544844:por#n-7'
+    detail: b) A [Portaria n.º 342/92], de 13 de Abril.
+  - status: partially_repealed
+    provenance: 'norma revogatória: pt:dre:545039:por#n-7'
+    detail: 7.º Pela presente é revogada a [Portaria n.º 342/92], de 13 de Abril, nas partes que àquele curso respeitam.
 notes: []
 language: por
 version:

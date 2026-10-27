@@ -24,6 +24,16 @@ publication:
   pages: 819 - 824
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05000/08190824.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que os dois Governos notifiquem que as formalidades constitucionais necessárias para a entrada em vigor
+    de acordos internacionais estão cumpridas
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

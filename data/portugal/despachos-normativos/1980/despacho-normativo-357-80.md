@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3867 - 3868
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/26300/38673868.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-10-27'
+entry_into_force:
+  date: '1980-10-27'
+  rule: no dia 27 de Outubro de 1980
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

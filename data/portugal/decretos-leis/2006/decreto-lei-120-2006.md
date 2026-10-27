@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4413 - 4414
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/119a00/44134414.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-06-23'
+entry_into_force:
+  date: '2006-06-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

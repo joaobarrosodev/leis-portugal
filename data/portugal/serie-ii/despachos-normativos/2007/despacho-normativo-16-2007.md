@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 8007 - 8007
   pdf_url: https://files.diariodarepublica.pt/2s/2007/03/060000000/0800708007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-03-27'
+entry_into_force:
+  date: '2007-03-27'
+  rule: no dia seguinte ao da sua publicação e é aplicável a todas as candidaturas que dêem entrada na Direcção-Geral das
+    Pescas e Aquicultura até 15 de Maio do ano em curso
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

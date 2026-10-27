@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3229 - 3236
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18800/32293236.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-09-01'
+entry_into_force:
+  date: '1987-09-01'
+  rule: no dia 1 do mês seguinte à data da sua publicação
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

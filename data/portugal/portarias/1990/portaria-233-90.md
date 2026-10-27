@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1510 - 1513
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/07400/15101513.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-05-01'
+entry_into_force:
+  date: '1990-05-01'
+  rule: no dia 1 de Maio de 1990
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até à integração do Fundo Especial em regime profissional complementar de segurança social, constituído de acordo
+    com o disposto no artigo 33.º do Decreto-Lei n.º 225/89, de 6 de Julho
 end_of_validity_date: null
 legal_status: in_force
 notes: []

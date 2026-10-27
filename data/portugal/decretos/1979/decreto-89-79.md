@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2039 - 2041
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19300/20392041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-01-01'
+entry_into_force:
+  date: '1976-01-01'
+  rule: no dia 1 de Janeiro de 1976 o vigorará por tempo indeterminado
+  method: clausula
+  article: art-iv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

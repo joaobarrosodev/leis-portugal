@@ -24,6 +24,15 @@ publication:
   pages: 3799 - 3802
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28800/37993802.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da troca dos instrumentos de ratificação e será válido durante 1 ano
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

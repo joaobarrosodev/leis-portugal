@@ -25,6 +25,16 @@ publication:
   pages: 4790 - 4795
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após notificação ao Comité Misto de Readmissão, em conformidade com o n.º 2 do artigo 20.º do Acordo, 10 dias úteis
+    após a data da receção da última notificação mencionada no n.º 1 do presente artigo
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

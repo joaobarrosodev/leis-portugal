@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3120 - 3120
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/17000/0312003120.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-06'
+entry_into_force:
+  date: '2016-09-06'
+  rule: no dia seguinte ao da sua publicação e os seus efeitos retroagem à data da entrada em vigor da Portaria n.º 112/2016,
+    de 28 de abril
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

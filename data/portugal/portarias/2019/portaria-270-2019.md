@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 332 - 367
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16300/0033200367.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-08-28'
+entry_into_force:
+  date: '2019-08-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: 'a partir do ano letivo de:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

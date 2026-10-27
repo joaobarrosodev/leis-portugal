@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5418 - 5418
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/22800/0541805418.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-11-28'
+entry_into_force:
+  date: '2018-11-28'
+  rule: no dia seguinte ao da sua publicação e os seus efeitos retroagem à data da entrada em vigor da Portaria n.º 50/2016,
+    de 23 de março
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

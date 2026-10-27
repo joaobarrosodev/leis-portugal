@@ -23,6 +23,15 @@ publication:
   pages: 2269 - 2271
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14300/22692271.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês seguinte àquele em que se completarem 60 dias sobre a data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

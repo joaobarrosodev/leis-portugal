@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 10 - 13
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14300/0001000013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-25'
+entry_into_force:
+  date: '2020-07-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo prazo de cinco anos contados da data da sua publicação
 end_of_validity_date: null
 legal_status: unknown
 notes: []

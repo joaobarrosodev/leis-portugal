@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1694 - 1694
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/089b00/16941694.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-04-17'
+entry_into_force:
+  date: '1998-04-17'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: 'quanto à aplicação dos novos valores da taxa de segurança 60 dias após o início de vigência, ficando nessa
+    data revogadas as Portarias n.os 1172/92, de 22 de Dezembro, com a redacção introduzida pela '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

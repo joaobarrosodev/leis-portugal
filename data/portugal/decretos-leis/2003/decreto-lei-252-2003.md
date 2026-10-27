@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 6938 - 6959
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/241a00/69386959.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-01-01'
+entry_into_force:
+  date: '2004-01-01'
+  rule: no dia 1 de Janeiro de 2004
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

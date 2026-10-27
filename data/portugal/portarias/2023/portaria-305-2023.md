@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 172 - 174
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19600/0017200174.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-10-11'
+entry_into_force:
+  date: '2023-10-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: '2023-10-16'
+  effects_rule: a 16 de outubro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

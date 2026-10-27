@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 516-(1) a 516-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/08501/00010006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-04-15'
+entry_into_force:
+  date: '1974-04-15'
+  rule: no dia 15 de Abril de 1974
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

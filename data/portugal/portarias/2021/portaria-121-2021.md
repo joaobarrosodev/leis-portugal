@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 38 - 45
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11100/0003800045.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-12-09'
+entry_into_force:
+  date: '2021-12-09'
+  rule: seis meses após a sua publicação e
+  method: clausula
+  article: art-23
+  effects_date: '2022-06-01'
+  effects_rule: a 1 de junho de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

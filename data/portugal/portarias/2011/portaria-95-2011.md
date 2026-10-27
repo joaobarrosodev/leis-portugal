@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1311 - 1312
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/04600/0131101312.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-03-12'
+entry_into_force:
+  date: '2011-03-12'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2011-09-01'
+  effects_rule: a 1 de Setembro de 2011, sem prejuízo da aplicação do disposto no n.º 2 do artigo 4.º relativamente à avaliação
+    final realizada no final do ano lectivo de 2010-2011
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

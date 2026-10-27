@@ -23,6 +23,16 @@ publication:
   pages: 60875 - 60880
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/241000000/6087560880.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte à sua publicação, ficando automaticamente revogada a estrutura e organização dos serviços
+    municipais publicados no Diário da República, 2.ª série, n.º 130, de 6 de Junho de 20
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

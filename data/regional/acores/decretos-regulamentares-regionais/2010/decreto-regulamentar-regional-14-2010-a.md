@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2873 - 2877
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/14400/0287302877.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-28'
+entry_into_force:
+  date: '2010-07-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

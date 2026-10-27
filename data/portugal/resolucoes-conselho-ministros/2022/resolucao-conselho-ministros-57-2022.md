@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2 - 2
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/12900/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-04'
+entry_into_force:
+  date: '2022-10-04'
+  rule: 90 dias após a sua publicação, podendo, por razões operacionais, ser adiada a data da entrada em vigor por despacho
+    do membro do Governo responsável pela área da aviação civil
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

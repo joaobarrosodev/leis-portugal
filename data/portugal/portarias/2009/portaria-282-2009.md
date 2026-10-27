@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1750 - 1751
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/05500/0175001751.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-20'
+entry_into_force:
+  date: '2009-03-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2009-02-27'
+  effects_rule: desde 27 de Fevereiro de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2481 - 2481
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/13700/24812481.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-12-16'
+entry_into_force:
+  date: '1988-12-16'
+  rule: seis meses após a sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

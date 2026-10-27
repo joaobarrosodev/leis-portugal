@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5368 - 5369
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/22600/0536805369.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-11-24'
+entry_into_force:
+  date: '2018-11-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: '2018-11-26'
+  effects_rule: a 26 de novembro de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

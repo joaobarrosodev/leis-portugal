@@ -24,6 +24,16 @@ publication:
   pages: 1183 - 1193
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/066a00/11831193.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia após a data de depósito junto do depositário do 22.º instrumento de ratificação, aceitação ou adopção,
+    incluindo os instrumentos de 17 Estados, cada um tendo pelo menos uma instalação nucl
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

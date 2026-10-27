@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3658-(21) a 3658-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-12-15'
+entry_into_force:
+  date: '1986-12-15'
+  rule: em 15 de Dezembro de 1986, podendo a sua aplicação ser escalonada a partir daquela data, se razões técnicas o impuseram
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

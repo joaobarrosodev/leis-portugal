@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/060000000/0007900080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:208087579:por#n-6'
+    detail: 6 - É revogada a [Portaria n.º 394/2022], de 15 de março, publicada no Diário da República, 2.ª série, n.º 60,
+      de 25 de março de 2022.
 notes: []
 language: por
 version:

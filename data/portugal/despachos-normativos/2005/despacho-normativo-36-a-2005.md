@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4374-(2) a 4374-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/142b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-07-27'
+entry_into_force:
+  date: '2005-07-27'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

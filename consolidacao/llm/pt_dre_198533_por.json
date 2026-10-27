@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:198533:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. Cada gabinete de planeamento disporá de um quadro de pessoal técnico e do necessário pessoal administrativo, além de um representante do Secretariado Técnico da Presidência do Conselho.\n\n2. Junto da cada gabinete de planeamento poderá funcionar um conselho consultivo, presidido pelo director do gabinete, do qual farão parte representantes dos principais serviços responsáveis pela preparação e execução dos planos sectoriais.\n\n3. Os gabinetes de planeamento poderão ser apoiados por núcleos de planeamento, a constituir, quando as circunstâncias o justifiquem, nas direcções-gerais, ou serviços equiparados, que tenham ligações com a preparação ou execução do planeamento."
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "1. Os lugares dos quadros técnicos dos gabinetes de planeamento serão providos em funcionários da categoria correspondente, do quadro do Secretariado Técnico da Presidência do Conselho, destacados para esse efeito.\n\n2. O pessoal técnico deste quadro pode ser livremente destacado para qualquer dos gabinetes de planeamento, transferido entre eles e mandado regressar ao Secretariado, de harmonia com as conveniências de serviço, mediante portaria do Presidente do Conselho.\n\n3. O pessoal destacado nos termos do n.º 1 será remunerado por conta das dotações orçamentais dos departamentos onde estiver colocado e beneficiará do disposto na última parte do n.º 2 do artigo 12.º\n\n4. Quando não for possível efectuar o provimento nos termos do n.º 1 por a Presidência do Conselho não poder destacar funcionários, serão os lugares providos por escolha do Ministro ou Secretário de Estado, sob proposta do director do gabinete de planeamento, entre indivíduos habilitados com curso superior adequado ao exercício das respectivas funções.\n\n5. O provimento previsto no n.º 4 poderá também ser feito por contrato ou em comissão de serviço, com aplicação, neste caso, do disposto na primeira parte do n.º 1 e no n.º 2 do artigo 12.º\n\n6. Poderão ser providas interinamente as vagas resultantes do destacamento previsto no n.º 1 deste artigo ou n.º 1 do artigo 5.º"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

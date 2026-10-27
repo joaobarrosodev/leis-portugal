@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 20762 - 20764
   pdf_url: https://files.diariodarepublica.pt/2s/2000/12/299000000/2076220764.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-01-01'
+entry_into_force:
+  date: '2001-01-01'
+  rule: no dia 1 de Janeiro de 2001
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1833759:por#art-14'
+    detail: É revogado o [Regulamento da CMVM n.º 35/2000], de 14 de Dezembro.
 notes: []
 language: por
 version:

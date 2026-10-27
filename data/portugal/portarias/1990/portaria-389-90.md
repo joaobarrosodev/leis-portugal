@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2332 - 2333
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11800/23322333.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-05-24'
+entry_into_force:
+  date: '1990-05-24'
+  rule: no dia seguinte ao da sua publicação, aplicando-se apenas aos processos iniciados após esse momento
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

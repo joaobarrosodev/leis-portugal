@@ -23,6 +23,15 @@ publication:
   pages: 1907 - 1908
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/099b00/19071908.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 2.º mês seguinte ao da sua publicação, com excepção da disposição aplicável ao subsídio escolar, que
+  method: clausula
+  article: n-2
+  effects_date: '1997-09-01'
+  effects_rule: a partir de 1 de Setembro de 1997
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

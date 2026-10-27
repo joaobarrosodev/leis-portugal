@@ -24,6 +24,15 @@ publication:
   pages: 2849 - 2863
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/25900/28492863.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia que se seguir à troca dos instrumentos de ratificação, que se fará no dia 30 de Novembro de 1977
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

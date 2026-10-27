@@ -23,16 +23,40 @@ publication:
   supplement: null
   pages: 2294 - 2294
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/17300/22942294.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-08-01'
+entry_into_force:
+  date: '1984-08-01'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1984-01-01'
+  effects_rule: desde 1 de Janeiro de 1984
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-04-10'
+version_history:
+  file: decreto-lei-254-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-04-10'
+    amending: pt:dre:196229:por
+    amending_title: Decreto-Lei n.º 70/86
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:58:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 70/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1984/decreto-lei-254-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,17 +141,29 @@ Dada a necessidade de se proceder em termos semelhantes relativamente aos milita
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º As ajudas de custo diárias a abonar aos militares da Armada, do Exército e da Força Aérea que se desloquem em missão oficial ao estrangeiro ou no estrangeiro passam a ser as da tabela seguinte:
+###### Artigo 1.º
+
+As ajudas de custo diárias a abonar aos militares da Armada, do Exército e da Força Aérea que se desloquem em missão oficial ao estrangeiro ou no estrangeiro passam a ser as da tabela seguinte:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17300/22942294.pdf)
 
-Art. 2.º Nas missões oficiais que sejam presididas por um membro do Governo, pelo Chefe do Estado-Maior-General das Forças Armadas ou pelos chefes de estado-maior dos ramos, os oficiais integrados nessa missão serão abonados de ajudas de custo de quantitativo igual ao de oficial general.
+###### Artigo 2.º
 
-Art. 3.º Os quantitativos da tabela constante do artigo 1.º poderão ser actualizados por portaria do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças e do Plano.
+Nas missões oficiais, as ajudas de custo a abonar aos oficiais que integram a missão serão de quantitativo igual às do elemento que a ela presidir.
 
-Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1984.
+> Alterado pelo/a [Decreto-Lei n.º 70/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1986-196229), publicado em 1986-04-05.
 
-Art. 5.º Fica revogado o [Decreto-Lei n.º 434-R/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-r-1982-243547), de 29 de Outubro.
+###### Artigo 3.º
+
+Os quantitativos da tabela constante do artigo 1.º poderão ser actualizados por portaria do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças e do Plano.
+
+###### Artigo 4.º
+
+O presente diploma produz efeitos desde 1 de Janeiro de 1984.
+
+###### Artigo 5.º
+
+Fica revogado o [Decreto-Lei n.º 434-R/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-r-1982-243547), de 29 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes.
 

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1618 - 1618
   pdf_url: https://files.diariodarepublica.pt/1s/1973/09/21300/16181618.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-10-01'
+entry_into_force:
+  date: '1973-10-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

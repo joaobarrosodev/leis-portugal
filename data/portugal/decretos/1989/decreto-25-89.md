@@ -24,6 +24,15 @@ publication:
   pages: 2422 - 2423
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/14200/24222423.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após o cumprimento das formalidades constitucionais e legais exigidas pelo ordenamento jurídico de cada uma das Partes
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

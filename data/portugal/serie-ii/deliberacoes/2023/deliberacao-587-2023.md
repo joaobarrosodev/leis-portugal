@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/110000000/0007800081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:862906336:por#n-1'
+    detail: É revogada a [Deliberação n.º 587/2023], de 7 de junho, da Comissão Nacional de Acesso ao Ensino Superior.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:862906336:por'
+    detail: Revogada pelo(a) Deliberação n.º 555/2024 - Diário da República n.º 82/2024, Série II de 2024-04-26, nos termos
+      dos artigos 4.º e 5.º desta
 notes: []
 language: por
 version:

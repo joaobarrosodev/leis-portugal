@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4970 - 4970
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/27900/49704970.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-01-03'
+entry_into_force:
+  date: '1991-01-03'
+  rule: 30 dias depois da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

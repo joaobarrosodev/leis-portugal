@@ -23,6 +23,15 @@ publication:
   pages: 2546-(2) a 2546-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13601/00020002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 18 do corrente mês
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

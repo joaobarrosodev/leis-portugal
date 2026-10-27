@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1281 - 1282
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/12200/12811282.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-05-29'
+entry_into_force:
+  date: '1986-05-29'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-173-f
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

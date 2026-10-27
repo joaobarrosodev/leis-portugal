@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3350 - 3377
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/136a00/33503377.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-11-29'
+entry_into_force:
+  date: '1999-11-29'
+  rule: 'no dia 29 de Novembro de 1999, deixando nessa data de vigorar os diplomas que regem estas matérias:'
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

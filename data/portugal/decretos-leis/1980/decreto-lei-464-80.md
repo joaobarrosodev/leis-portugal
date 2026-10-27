@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3357 - 3360
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23700/33573360.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-12-01'
+entry_into_force:
+  date: '1980-12-01'
+  rule: no primeiro dia do segundo mês posterior ao da sua publicação, com ressalva das situações previstas no artigo 19.º
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

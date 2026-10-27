@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5050-(2) a 5050-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/180b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-08-05'
+entry_into_force:
+  date: '1999-08-05'
+  rule: em 5 de Agosto de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 22 - 22
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/211000000/0002200022.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

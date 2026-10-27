@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 13 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14500/0001300020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-29'
+entry_into_force:
+  date: '2020-07-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: 'nos termos do disposto no artigo 37.º do Decreto-Lei n.º 10-A/2020, de 13 de março, com exceção:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

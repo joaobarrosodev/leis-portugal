@@ -24,9 +24,26 @@ publication:
   supplement: null
   pages: 11036 - 11041
   pdf_url: https://files.diariodarepublica.pt/2s/2007/04/082000000/1103611041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-04-27'
+entry_into_force:
+  date: '2007-04-27'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:74425670:por'
+    detail: Revogado a partir de 30.06.2016 pelo(a) Aviso do Banco de Portugal n.º 5/2016 - Diário da República n.º 92/2016,
+      Série II de 2016-05-12
 notes: []
 language: por
 version:

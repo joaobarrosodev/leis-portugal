@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4116 - 4117
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18200/0411604117.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-09-22'
+entry_into_force:
+  date: '2010-09-22'
+  rule: no 5.º dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

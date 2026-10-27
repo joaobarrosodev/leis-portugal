@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 107 - 107
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/00900/01070107.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-01-12'
+entry_into_force:
+  date: '1989-01-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

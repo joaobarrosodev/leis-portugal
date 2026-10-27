@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 46 - 49
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24100/0004600049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-16'
+entry_into_force:
+  date: '2023-12-16'
+  rule: no dia seguinte ao da sua publicação, devendo a DE-SNS organizar o início da sua efetiva implementação até 31 de dezembro
+    de 2023
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

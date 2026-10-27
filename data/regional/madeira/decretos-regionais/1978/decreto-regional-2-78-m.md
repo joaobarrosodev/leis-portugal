@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 345 - 345
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/03600/03450345.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-02-14'
+entry_into_force:
+  date: '1978-02-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-23
+  effects_date: '1977-10-01'
+  effects_rule: a partir de 1 de Outubro de 1977
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

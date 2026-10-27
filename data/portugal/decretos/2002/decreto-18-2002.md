@@ -25,6 +25,15 @@ publication:
   pages: 4193 - 4225
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/102a00/41934225.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente a estes Governos e
+  method: clausula
+  article: art-x
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

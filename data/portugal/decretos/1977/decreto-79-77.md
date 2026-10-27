@@ -23,6 +23,15 @@ publication:
   pages: 1282 - 1293
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/12600/12821293.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no momento da assinatura e continuará em vigor até que seja denunciado de acordo com o parágrafo 3 infra
+  method: clausula
+  article: art-xiii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

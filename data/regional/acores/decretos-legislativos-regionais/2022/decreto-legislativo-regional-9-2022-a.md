@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4 - 11
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09900/0000400011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-24'
+entry_into_force:
+  date: '2022-05-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: '2022-01-01'
+  effects_rule: a 1 de janeiro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

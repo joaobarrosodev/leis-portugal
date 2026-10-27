@@ -28,6 +28,16 @@ publication:
   pages: 3545 - 3549
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/142a00/35453549.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no 1.º dia do 3.º mês seguinte à data em que dois Estados signatários, dos quais um deverá ser a República da Áustria,
+    a República da Finlândia ou o Reino da Suécia, tiverem depositado os respectivos '
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: a contar do 1.º dia do 3.º mês seguinte à data do depósito do respectivo instrumento de ratificação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

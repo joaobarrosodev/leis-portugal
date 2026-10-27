@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5336 - 5337
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/24200/0533605337.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-06-17'
+entry_into_force:
+  date: '2012-06-17'
+  rule: no prazo de 180 dias a contar da respectiva publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

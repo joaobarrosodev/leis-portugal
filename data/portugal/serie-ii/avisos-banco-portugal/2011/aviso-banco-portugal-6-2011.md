@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 40057 - 40058
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/194000000/4005740058.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-10-11'
+entry_into_force:
+  date: '2011-10-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2011-09-30'
+  effects_rule: a 30 de Setembro de 2011
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

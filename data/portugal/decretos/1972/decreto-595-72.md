@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2144-(1) a 2144-(73)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-01-01'
+entry_into_force:
+  date: '1973-01-01'
+  rule: em 1 de Janeiro de 1973
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

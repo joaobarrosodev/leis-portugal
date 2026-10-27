@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6188-(2) a 6188-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/026000001/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-02-09'
+entry_into_force:
+  date: '2010-02-09'
+  rule: no dia seguinte ao da sua publicação e é aplicável às avaliações por ponderação curricular efectuadas a partir de
+    1 de Janeiro de 2010
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

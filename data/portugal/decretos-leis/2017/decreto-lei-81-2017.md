@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3339 - 3347
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/12500/0333903347.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-01'
+entry_into_force:
+  date: '2017-07-01'
+  rule: no dia 1 de julho de 2017
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

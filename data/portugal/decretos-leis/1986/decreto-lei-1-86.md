@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/1986/01/00100/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-01-02'
+entry_into_force:
+  date: '1986-01-02'
+  rule: com a publicação da nova regulamentação do registo feita pelo Ministério do Comércio e Turismo
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 273 - 273
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/02800/02730273.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-02-18'
+entry_into_force:
+  date: '1982-02-18'
+  rule: 15 dias após a data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

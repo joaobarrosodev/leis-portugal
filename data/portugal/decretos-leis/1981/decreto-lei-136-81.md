@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1235 - 1237
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12300/12351237.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-05-30'
+entry_into_force:
+  date: '1981-05-30'
+  rule: no dia imediato ao da sua publicação e as suas disposições aplicam-se aos impostos respeitantes aos rendimentos dos
+    anos de 1980 e seguintes
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 2328-(2) a 2328-(190)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/063a01/00020190.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-06-30'
+entry_into_force:
+  date: '2006-06-30'
+  rule: no dia 30 de Junho de 2006
+  method: clausula
+  article: art-64
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

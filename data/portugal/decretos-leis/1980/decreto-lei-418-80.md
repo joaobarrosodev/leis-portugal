@@ -23,6 +23,15 @@ publication:
   pages: 3021 - 3029
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22500/30213029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data da sua aplicação
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

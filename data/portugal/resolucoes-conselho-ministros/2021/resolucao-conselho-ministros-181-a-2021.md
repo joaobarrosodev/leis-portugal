@@ -23,6 +23,15 @@ publication:
   pages: 79-(8) a 79-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/24701/0000800011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 24 de dezembro de 2021
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

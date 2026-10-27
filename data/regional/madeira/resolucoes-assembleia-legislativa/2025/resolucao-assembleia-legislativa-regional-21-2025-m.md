@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 14 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2025/11/21800/0001400016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-11-12'
+entry_into_force:
+  date: '2025-11-12'
+  rule: no dia seguinte ao da sua publicação e aplica-se às situações de incapacidade temporária para o trabalho iniciadas
+    ou renovadas a partir da data da entrada em vigor do próximo Orçamento do Estado
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

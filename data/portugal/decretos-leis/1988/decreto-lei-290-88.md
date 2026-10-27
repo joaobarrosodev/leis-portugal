@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3500 - 3501
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/19500/35003501.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-09-15'
+entry_into_force:
+  date: '1988-09-15'
+  rule: no dia 15 de Setembro de 1988
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

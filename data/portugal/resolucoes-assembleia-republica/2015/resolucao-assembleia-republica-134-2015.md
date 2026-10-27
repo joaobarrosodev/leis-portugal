@@ -24,6 +24,16 @@ publication:
   pages: 8689 - 8697
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19700/0868908697.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua ratificação, aceitação ou aprovação por todos os Estados Signatários, igualmente signatários do Protocolo
+    que consolida a Convenção, e pelos quais este último Protocolo deverá ter sido rati
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 2075 - 2080
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/15800/20752080.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do quarto mês a partir da data em que dois terços dos Estados que são Partes contratantes da Convenção
+    na data em que o presente Protocolo é aberto para assinatura o assinarem sem rese
+  method: clausula
+  article: art-6-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

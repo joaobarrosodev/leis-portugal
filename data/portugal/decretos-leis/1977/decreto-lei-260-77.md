@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1506 - 1508
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/14100/15061508.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-06-22'
+entry_into_force:
+  date: '1977-06-22'
+  rule: no dia imediato ao da sua publicação e revoga os Decretos-Leis n.os 407-B/75, de 30 de Julho, e 521/76, de 5 de Julho
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

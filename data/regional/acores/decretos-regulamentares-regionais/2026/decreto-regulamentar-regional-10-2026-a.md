@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 12 - 26
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/12800/0001200026.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-07'
+entry_into_force:
+  date: '2026-07-07'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto no artigo 45.º
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

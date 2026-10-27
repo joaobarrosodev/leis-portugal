@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4149 - 4155
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/113a00/41494155.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-06-13'
+entry_into_force:
+  date: '2006-06-13'
+  rule: no dia seguinte ao da sua publicação e reporta os seus efeitos à data da entrada em vigor da Lei n.º 13/2006, de 17
+    de Abril
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

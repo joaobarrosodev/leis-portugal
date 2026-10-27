@@ -24,6 +24,16 @@ publication:
   pages: 4500-4516
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/09/17/171522695.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das 00:00 horas do dia 18 de setembro de 2021, cessando às 23:59 horas do dia 28 de setembro de 2021, sem
+    prejuízo das eventuais renovações necessárias
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

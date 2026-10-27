@@ -26,7 +26,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1948/05/12000/04530455.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:535175:por#art-4'
+    detail: É revogado o [Decreto n.º 36885], de 25 de Maio de 1948.
 notes: []
 language: por
 version:

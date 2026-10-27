@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1048 - 1048
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/18500/10481048.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-10-01'
+entry_into_force:
+  date: '1972-10-01'
+  rule: em 1 de Outubro de 1972
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

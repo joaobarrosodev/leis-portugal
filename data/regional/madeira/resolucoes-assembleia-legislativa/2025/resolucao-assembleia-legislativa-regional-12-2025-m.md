@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 41 - 42
   pdf_url: https://files.diariodarepublica.pt/1s/2025/07/14600/0004100042.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-01'
+entry_into_force:
+  date: '2025-08-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: na data da entrada em vigor da lei do Orçamento do Estado para 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

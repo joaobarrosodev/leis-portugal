@@ -25,6 +25,15 @@ publication:
   pages: 1362 - 1364
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/07900/0136201364.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'trinta dias após a recepção da última notificação, por escrito e por via diplomática, de que:'
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

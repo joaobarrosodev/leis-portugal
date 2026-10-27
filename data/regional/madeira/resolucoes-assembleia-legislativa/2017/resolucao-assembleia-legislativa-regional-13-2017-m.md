@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2733 - 2739
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10600/0273302739.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-02'
+entry_into_force:
+  date: '2017-06-02'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2017-06-01'
+  effects_rule: com a publicação do Orçamento de Estado posterior à sua aprovação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

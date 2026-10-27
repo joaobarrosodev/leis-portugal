@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 363 - 369
   pdf_url: https://files.diariodarepublica.pt/1s/1998/01/023a00/03630369.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-01-29'
+entry_into_force:
+  date: '1998-01-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-46
+  effects_date: '1998-01-01'
+  effects_rule: a 1 de Janeiro de 1998
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

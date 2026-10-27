@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4320-4321
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/09/25/143886712.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-01'
+entry_into_force:
+  date: '2020-10-01'
+  rule: no dia 1 de outubro de 2020
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

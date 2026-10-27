@@ -23,6 +23,16 @@ publication:
   pages: 745 - 746
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/07400/07450746.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que se iniciar a vigência do decreto regulamentar regional que estabelecer a orgânica da Direcção Regional
+    de Saneamento Básico
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

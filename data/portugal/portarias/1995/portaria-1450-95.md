@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7642 - 7642
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/281b00/76427642.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-12-11'
+entry_into_force:
+  date: '1995-12-11'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: à data de entrada em vigor da Portaria n.º 258/95, de 31 de Março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

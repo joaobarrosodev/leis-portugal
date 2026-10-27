@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2987 - 2990
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26000/29872990.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-12-01'
+entry_into_force:
+  date: '1981-12-01'
+  rule: no dia 1 de Dezembro de 1981, salvo o disposto no n.º 2
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 4674-4681
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/10/11/172625740.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-12'
+entry_into_force:
+  date: '2021-10-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: a partir do ano letivo 2021/2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

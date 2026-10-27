@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1069 - 1079
   pdf_url: https://files.diariodarepublica.pt/1s/1966/06/13300/10691079.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-09-07'
+entry_into_force:
+  date: '1966-09-07'
+  rule: três meses depois da data da publicação no Diário do Governo
+  method: clausula
+  article: art-115
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

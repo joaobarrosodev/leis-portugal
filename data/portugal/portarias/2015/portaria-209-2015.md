@@ -22,9 +22,29 @@ publication:
   supplement: null
   pages: 4880 - 4887
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13700/0488004887.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-01'
+entry_into_force:
+  date: '2015-08-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1175177139:por#art-2'
+    detail: É revogada a [Portaria n.º 209/2015], de 16 de julho.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1175177139:por'
+    detail: Revogada, a partir de 1 de outubro de 2026, pelo(a) Portaria n.º 445/2026/1 - Diário da República n.º 190/2026,
+      Série I de 2026-09-30
 notes: []
 language: por
 version:

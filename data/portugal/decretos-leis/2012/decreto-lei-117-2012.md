@@ -24,6 +24,15 @@ publication:
   pages: 2934 - 2936
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/10900/0293402936.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia um do segundo mês posterior à data da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 7996 - 8010
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/296a00/79968010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-01-22'
+entry_into_force:
+  date: '2003-01-22'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

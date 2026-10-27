@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2670 - 2673
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/195b00/26702673.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-07-01'
+entry_into_force:
+  date: '1996-07-01'
+  rule: a 1 de Julho de 1996
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

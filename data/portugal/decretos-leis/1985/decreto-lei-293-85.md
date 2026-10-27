@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2182 - 2184
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16800/21822184.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-08-01'
+entry_into_force:
+  date: '1985-08-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

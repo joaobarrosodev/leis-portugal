@@ -24,6 +24,16 @@ publication:
   pages: 5468 - 5479
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/23100/0546805479.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês após a data de depósito do vigésimo segundo instrumento de ratificação, aceitação,
+    aprovação ou adesão junto do Depositário
+  method: clausula
+  article: art-xxiii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

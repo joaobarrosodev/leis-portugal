@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3568 - 3570
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24800/35683570.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-12-27'
+entry_into_force:
+  date: '1985-12-27'
+  rule: 60 dias após a data da sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

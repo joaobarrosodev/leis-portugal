@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 10 - 12
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/04600/0001000012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-07'
+entry_into_force:
+  date: '2023-03-07'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-9
+  effects_date: '2023-01-24'
+  effects_rule: a 24 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

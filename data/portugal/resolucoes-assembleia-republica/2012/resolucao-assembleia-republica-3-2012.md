@@ -24,6 +24,16 @@ publication:
   pages: 119 - 133
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/01000/0011900133.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à data em que as Partes se tiverem notificado reciprocamente da conclusão das formalidades
+    legais necessárias para o efeito
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

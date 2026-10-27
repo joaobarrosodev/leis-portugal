@@ -24,6 +24,15 @@ publication:
   pages: 194-(2) a 194-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/015b01/00020002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 0 horas do dia 20 de Janeiro de 2000
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

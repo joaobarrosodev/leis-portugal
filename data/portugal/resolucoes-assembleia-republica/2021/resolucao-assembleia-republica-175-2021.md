@@ -24,6 +24,16 @@ publication:
   pages: 4 - 1251
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: entre a Parte UE e cada País Andino signatário no primeiro dia do mês seguinte à data de receção pelo Depositário
+    da última notificação referida no n.º 2 no que se refere à Parte UE e ao País Andino s
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

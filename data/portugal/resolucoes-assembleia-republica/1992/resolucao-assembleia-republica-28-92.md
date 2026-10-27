@@ -23,6 +23,16 @@ publication:
   pages: 3920 - 3922
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que ambas as Partes tiverem informado por via diplomática que se encontram concluídas as formalidades constitucionais
+    necessárias para o efeito
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

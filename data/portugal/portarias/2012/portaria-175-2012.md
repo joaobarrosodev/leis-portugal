@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2810 - 2816
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/10400/0281002816.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-05-30'
+entry_into_force:
+  date: '2012-05-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até ao dia 31 de dezembro de 2012
 end_of_validity_date: null
 legal_status: in_force
 notes: []

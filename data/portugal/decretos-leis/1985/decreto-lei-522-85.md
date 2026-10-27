@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4260-(84) a 4260-(91)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30106/00840091.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-01-01'
+entry_into_force:
+  date: '1986-01-01'
+  rule: em 1 de Janeiro de 1986, aplicando-se a partir daquele momento a todos os contratos que venham a ser celebrados, bem
+    como aos contratos vigentes àquela data
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

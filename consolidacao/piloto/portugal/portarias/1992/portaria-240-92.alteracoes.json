@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO::27.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 27.º — Definição das características dos óleos usados\n\nAs características a que devem obedecer os óleos usados ou as misturas destes com outros combustíveis para instalações de potência térmica inferior a 3 MW com base no poder calorífico inferior, «PCI», serão definidas por despacho conjunto dos directores-gerais de Energia e da Qualidade do Ambiente, não podendo a emissão de partículas ser superior a 300 mg/m3, medidas nas condições fixadas no anexo II.",
+    "depois": "###### Artigo 27.º — Definição das características dos óleos usados\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 85/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2005-532798), publicado em 2005-04-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:188357:por",
+    "alterador": "pt:dre:532798:por"
+  }
+]

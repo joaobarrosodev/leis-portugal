@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 6845 - 6887
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/287a00/68456887.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-06-10'
+entry_into_force:
+  date: '1994-06-10'
+  rule: seis meses após a data da sua publicação e só será aplicável às obras postas a concurso após essa data, sem prejuízo
+    de aplicação às empreitadas em curso das disposições do título VII sobre contencios
+  method: clausula
+  article: art-241
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

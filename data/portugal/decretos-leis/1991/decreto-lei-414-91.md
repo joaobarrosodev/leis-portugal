@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5448 - 5459
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/243a00/54485459.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-10-27'
+entry_into_force:
+  date: '1991-10-27'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

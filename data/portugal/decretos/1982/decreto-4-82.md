@@ -23,6 +23,15 @@ publication:
   pages: 143 - 148
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/01600/01430148.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 1 mês após a data do depósito do terceiro instrumento de ratificação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

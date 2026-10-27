@@ -28,7 +28,17 @@ publication:
   supplement: null
   pages: 5370-(2) a 5370-(183)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-01-01'
+entry_into_force:
+  date: '2007-01-01'
+  rule: em 1 de Janeiro de 2007, desde que todos os instrumentos de ratificação tenham sido depositados antes dessa data
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

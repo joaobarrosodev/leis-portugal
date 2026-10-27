@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7362 - 7364
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/270b00/73627364.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-11-23'
+entry_into_force:
+  date: '2002-11-23'
+  rule: no dia seguinte ao da sua publicação, reunindo o Conselho nos 30 dias posteriores, para efeitos do previsto no artigo
+    anterior
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

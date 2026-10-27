@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 109-(2) a 109-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13101/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-08'
+entry_into_force:
+  date: '2023-07-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: '2023-01-01'
+  effects_rule: a 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

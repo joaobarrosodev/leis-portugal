@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4940 - 4958
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-09-16'
+entry_into_force:
+  date: '2014-09-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

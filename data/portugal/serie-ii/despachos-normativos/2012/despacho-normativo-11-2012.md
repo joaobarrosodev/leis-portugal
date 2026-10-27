@@ -24,6 +24,15 @@ publication:
   pages: 15294 - 15294
   pdf_url: https://files.diariodarepublica.pt/2s/2012/05/085000000/1529415294.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua assinatura e deve ser divulgado, de imediato pelo Turismo de Portugal, I
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

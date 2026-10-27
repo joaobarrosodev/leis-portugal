@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15 - 18
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18900/0001500018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-01'
+entry_into_force:
+  date: '2025-01-01'
+  rule: a 1 de janeiro de 2025
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

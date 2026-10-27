@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5802 - 5804
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/16900/0580205804.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-02'
+entry_into_force:
+  date: '2009-09-02'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

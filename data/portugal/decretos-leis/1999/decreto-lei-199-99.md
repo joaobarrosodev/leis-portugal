@@ -23,6 +23,15 @@ publication:
   pages: 3211 - 3216
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/132a00/32113216.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 30.º mês após a sua publicação, com excepção do artigo 19.º
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

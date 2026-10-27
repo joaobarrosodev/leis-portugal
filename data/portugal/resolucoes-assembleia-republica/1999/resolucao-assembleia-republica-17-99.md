@@ -25,6 +25,15 @@ publication:
   pages: 1365 - 1368
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/059a00/13651368.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para esses Estados
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

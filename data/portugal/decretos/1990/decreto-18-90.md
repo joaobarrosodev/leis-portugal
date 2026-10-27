@@ -23,6 +23,16 @@ publication:
   pages: 2477 - 2478
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13100/24772478.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: pela efectivação de troca de notas diplomáticas confirmando que se encontram cumpridas as formalidades de direito
+    interno, é válido por um período de dois anos, automaticamente prorrogado por sucessiv
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

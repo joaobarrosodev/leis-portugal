@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6318-(2) a 6318-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/20901/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-11-03'
+entry_into_force:
+  date: '2013-11-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2013-07-24'
+  effects_rule: desde 24 de julho de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

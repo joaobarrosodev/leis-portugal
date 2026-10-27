@@ -24,6 +24,16 @@ publication:
   pages: 5002 - 5018
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/180a00/50025018.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 3.º mês após a data em que pelo menos sete Estados costeiros da área do Acordo ou organizações regionais
+    de integração económica, compreendendo pelo menos duas da sub-região do mar Negro
+  method: clausula
+  article: art-xiv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 708 - 718
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/07500/07080718.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 3 meses após o depósito do 6.º instrumento de ratificação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

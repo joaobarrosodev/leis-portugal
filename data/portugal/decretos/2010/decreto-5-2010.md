@@ -24,6 +24,17 @@ publication:
   pages: 1173 - 1177
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/07000/0117301177.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última notificação pelas Partes, feita por via diplomática, indicando que foram cumpridos os
+    respectivos procedimentos legais internos exigidos para a sua entrada em vigor
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: sobre os direitos e obrigações das Partes derivados de tais acordos ou outros tratados internacionais de que
+    fazem ou poderão vir a fazer parte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

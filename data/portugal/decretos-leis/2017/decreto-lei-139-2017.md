@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6002 - 6008
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21700/0600206008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-11'
+entry_into_force:
+  date: '2017-11-11'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

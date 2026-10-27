@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 65 - 90
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/19300/0006500090.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-10-09'
+entry_into_force:
+  date: '2019-10-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2018/2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

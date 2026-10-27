@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 286 - 287
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10100/0028600287.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-26'
+entry_into_force:
+  date: '2021-05-26'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2019-10-01'
+  effects_rule: a partir de 1 de outubro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

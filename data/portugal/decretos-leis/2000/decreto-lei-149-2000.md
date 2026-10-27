@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3339 - 3341
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/165a00/33393341.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-10-17'
+entry_into_force:
+  date: '2000-10-17'
+  rule: 90 dias após a data da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

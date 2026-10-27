@@ -24,6 +24,16 @@ publication:
   pages: 6281 - 6518
   pdf_url: https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data em que as Partes tiverem procedido à notificação recíproca do cumprimento
+    das formalidades referidas no primeiro parágrafo
+  method: clausula
+  article: art-138
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

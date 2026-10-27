@@ -23,6 +23,16 @@ publication:
   pages: 4365 - 4372
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/177a00/43654372.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas pelo estatuto do Grupo e pela ordem jurídica
+    portuguesa
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: a partir da data da instalação do Grupo e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

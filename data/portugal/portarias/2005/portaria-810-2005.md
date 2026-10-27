@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5505 - 5506
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/174b00/55055506.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-15'
+entry_into_force:
+  date: '2005-09-15'
+  rule: no dia 15 de Setembro de 2005
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

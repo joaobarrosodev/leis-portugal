@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2 - 37
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/15701/0000200037.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-15'
+entry_into_force:
+  date: '2026-08-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: na data da sua assinatura
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

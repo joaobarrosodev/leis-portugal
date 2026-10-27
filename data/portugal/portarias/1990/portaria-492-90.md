@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2764 - 2764
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14900/27642764.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-12-27'
+entry_into_force:
+  date: '1990-12-27'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

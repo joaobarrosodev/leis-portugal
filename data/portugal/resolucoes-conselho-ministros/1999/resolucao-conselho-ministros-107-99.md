@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6650 - 6650
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/224b00/66506650.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-09-29'
+entry_into_force:
+  date: '1999-09-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir da data da entrada em vigor da Resolução do Conselho de Ministros n.º 179/96, de 12 de Setembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

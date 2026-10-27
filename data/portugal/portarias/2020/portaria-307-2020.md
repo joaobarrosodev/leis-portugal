@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 15 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/25200/0001500016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-31'
+entry_into_force:
+  date: '2020-12-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: entre 18 de março de 2020 e 31 de março de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4329 - 4329
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/12900/0432904329.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-08-10'
+entry_into_force:
+  date: '2009-08-10'
+  rule: no dia 10 de Agosto de 2009
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

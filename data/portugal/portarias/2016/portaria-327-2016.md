@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4759 - 4760
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24200/0475904760.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-25'
+entry_into_force:
+  date: '2016-12-25'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

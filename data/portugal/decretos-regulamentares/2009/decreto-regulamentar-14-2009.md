@@ -24,6 +24,15 @@ publication:
   pages: 5534 - 5535
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/16200/0553405535.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do ano escolar de 2009-2010
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

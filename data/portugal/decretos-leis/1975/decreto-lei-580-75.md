@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1616 - 1617
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/23600/16161617.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-10-01'
+entry_into_force:
+  date: '1975-10-01'
+  rule: no dia 1 de Outubro de 1975
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

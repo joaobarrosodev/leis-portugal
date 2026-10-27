@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 476 - 478
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/05100/04760478.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-04-02'
+entry_into_force:
+  date: '1982-04-02'
+  rule: no prazo de 30 dias após a sua publicação, com excepção do estabelecido no artigo 12.º, que apenas
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

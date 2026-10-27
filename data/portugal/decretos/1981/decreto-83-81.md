@@ -24,6 +24,15 @@ publication:
   pages: 1544 - 1545
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/14800/15441545.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data em que se proceda às respectivas notificações
+  method: clausula
+  article: art-viii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

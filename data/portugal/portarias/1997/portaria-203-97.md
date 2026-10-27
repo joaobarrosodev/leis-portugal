@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1339 - 1339
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/071b00/13391339.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-03-30'
+entry_into_force:
+  date: '1997-03-30'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1997-03-25'
+  effects_rule: a partir da data da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

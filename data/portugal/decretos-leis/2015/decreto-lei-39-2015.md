@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1559 - 1573
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/05200/0155901573.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-04-01'
+entry_into_force:
+  date: '2015-04-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

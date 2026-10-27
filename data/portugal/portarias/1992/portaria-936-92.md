@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4554 - 4554
   pdf_url: https://files.diariodarepublica.pt/1s/1992/09/222b00/45544554.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-09-26'
+entry_into_force:
+  date: '1992-09-26'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

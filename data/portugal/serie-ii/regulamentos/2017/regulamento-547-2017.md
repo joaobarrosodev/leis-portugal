@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 23168 - 23169
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/197000000/2316823169.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-10-13'
+entry_into_force:
+  date: '2017-10-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:901659209:por#art-23'
+    detail: É revogado o [Regulamento n.º 547/2017], de 12 de outubro.
 notes: []
 language: por
 version:

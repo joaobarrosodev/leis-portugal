@@ -24,6 +24,16 @@ publication:
   pages: 3995 - 3999
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/28200/39953999.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 30 dias após a data da sua publicação, excepto no que concerne às alíneas a) e c) do artigo 13.º, cujo
+    prazo será de 1 ano
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

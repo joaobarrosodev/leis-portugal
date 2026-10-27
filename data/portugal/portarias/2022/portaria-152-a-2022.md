@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 9-(2) a 9-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/10301/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-30'
+entry_into_force:
+  date: '2022-05-30'
+  rule: no dia 30 de maio de 2022 e
+  method: clausula
+  article: art-4
+  effects_date: '2022-06-05'
+  effects_rule: até dia 5 de junho de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:180398388:por#art-5'
+    detail: '[Artigo 3.º, Portaria n.º 152-A/2022 - Diário da República n.º 103/2022, 1º Suplemento, Série I de 2022-05-27]
+      mantém em vigor o art. 4.º da Portaria n.º 140-A/2022, de 29 de abril, o qual mantém em vigor os arts. 4.º e 5.º do
+      presente diploma, a partir de 30.05.2022 e com efeitos até 05.06.2022.'
 notes: []
 language: por
 version:

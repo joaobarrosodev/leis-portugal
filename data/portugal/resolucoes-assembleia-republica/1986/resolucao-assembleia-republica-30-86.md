@@ -24,6 +24,16 @@ publication:
   pages: 3691 - 3695
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/28300/36913695.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um prazo de três meses a partir da data em que todas as Partes na Convenção
+    tenham expresso o seu consentimento a estar vinculadas pelo Protocolo nos termos
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

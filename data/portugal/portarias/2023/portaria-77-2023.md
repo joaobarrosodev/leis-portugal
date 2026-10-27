@@ -24,6 +24,15 @@ publication:
   pages: 2 - 18
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: dez dias úteis após a sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

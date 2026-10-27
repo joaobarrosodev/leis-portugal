@@ -24,6 +24,15 @@ publication:
   pages: 1342 - 1352
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/076a00/13421352.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da troca dos instrumentos de ratificação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

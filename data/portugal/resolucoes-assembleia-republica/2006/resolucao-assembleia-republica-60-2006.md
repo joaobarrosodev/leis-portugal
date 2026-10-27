@@ -24,6 +24,15 @@ publication:
   pages: 8098 - 8105
   pdf_url: https://files.diariodarepublica.pt/1s/2006/11/22900/80988105.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data do depósito do décimo instrumento de ratificação, aprovação, aceitação ou adesão
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,8 +23,23 @@ publication:
   pages: 10713 - 10714
   pdf_url: https://files.diariodarepublica.pt/2s/2000/06/145000000/1071310714.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1855525:por#art-101'
+    detail: k) [Regulamento da CMVM n.º 20/2000], de 26 de Junho
 notes: []
 language: por
 version:

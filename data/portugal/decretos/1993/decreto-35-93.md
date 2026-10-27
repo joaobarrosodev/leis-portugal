@@ -23,6 +23,16 @@ publication:
   pages: 5672 - 5678
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/237a00/56725678.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ambas as Partes Contratantes forem reciprocamente notificadas do cumprimento dos requisitos legais
+    para a entrada em vigor de acordos internacionais
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

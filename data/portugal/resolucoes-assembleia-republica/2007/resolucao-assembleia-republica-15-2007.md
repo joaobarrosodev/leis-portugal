@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2221 - 2223
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06900/22212223.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-11-01'
+entry_into_force:
+  date: '2004-11-01'
+  rule: em 1 de Novembro de 2004 desde que até essa data todos os Estados membros tenham notificado o Secretariado-Geral do
+    Conselho do cumprimento das formalidades internas necessárias à execução, definitiva
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

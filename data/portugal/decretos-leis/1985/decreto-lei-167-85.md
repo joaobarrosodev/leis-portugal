@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1335 - 1335
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11300/13351335.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-05-18'
+entry_into_force:
+  date: '1985-05-18'
+  rule: no dia imediato ao da sua publicação e os seus efeitos contar-se-ão a partir de 2 de Janeiro de 1985
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

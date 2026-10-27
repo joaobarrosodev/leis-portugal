@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4352-(2) a 4352-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29001/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-12-19'
+entry_into_force:
+  date: '1987-12-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

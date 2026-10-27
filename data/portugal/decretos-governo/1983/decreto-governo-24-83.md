@@ -23,6 +23,16 @@ publication:
   pages: 1294 - 1304
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/08600/12941304.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após o depósito dos instrumentos de ratificação, aceitação ou aprovação de, pelo menos, 7 signatários, dos quais pelo
+    menos 3 exerçam jurisdição em matéria de pesca, na área da Convenção
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

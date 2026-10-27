@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3700 - 3703
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/245b00/37003703.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-10-23'
+entry_into_force:
+  date: '1996-10-23'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

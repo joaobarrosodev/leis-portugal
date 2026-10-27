@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3650 - 3651
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/156b00/36503651.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-08-01'
+entry_into_force:
+  date: '1994-08-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

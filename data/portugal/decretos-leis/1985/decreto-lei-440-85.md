@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3525 - 3527
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24500/35253527.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-03-23'
+entry_into_force:
+  date: '1985-03-23'
+  rule: no dia 23 de Março de 1985, exceptuando os casos de recipientes reutilizáveis com rotulagem pirogravada, para os quais
+    a referida data será 1 de Janeiro de 1989
+  method: clausula
+  article: art-33
+  effects_date: '1985-03-23'
+  effects_rule: desde 23 de Março de 1985
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

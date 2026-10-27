@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2015 - 2015
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/088a00/20152015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-04-16'
+entry_into_force:
+  date: '1999-04-16'
+  rule: no dia seguinte ao da sua publicação, aplicando-se, porém, aos concursos para colocação de professores que já se encontrem
+    abertos àquela data
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

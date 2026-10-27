@@ -24,6 +24,16 @@ publication:
   pages: 1164 - 1165
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/07900/11641165.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando ambos os Governos se tenham notificado mutuamente, mediante troca de notas, do cumprimento dos requisitos constitucionais
+    para a entrada em vigor do Acordo
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

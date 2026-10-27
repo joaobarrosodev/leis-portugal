@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31 - 34
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/12200/0003100034.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-06-27'
+entry_into_force:
+  date: '2026-06-27'
+  rule: no dia seguinte ao da sua publicação e cessa a sua vigência a 30 de junho de 2027
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

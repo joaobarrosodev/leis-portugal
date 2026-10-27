@@ -23,6 +23,16 @@ publication:
   pages: 5390 - 5471
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após o depósito de 20 instrumentos de ratificação, incluindo os dos depositários e os dos Estados Partes cuja
+    atribuição individual de quotas passivas, conforme está especificado no anexo A, é
+  method: clausula
+  article: art-xvii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 194 - 203
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/013b00/01940203.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-01-17'
+entry_into_force:
+  date: '1994-01-17'
+  rule: à data da sua publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

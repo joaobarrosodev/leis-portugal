@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 27336 - 27338
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-10-30'
+entry_into_force:
+  date: '2014-10-30'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo período de concessão do apoio previsto na regulamentação europeia aplicável, salvo o disposto no número seguinte
 end_of_validity_date: null
 legal_status: unknown
 notes: []

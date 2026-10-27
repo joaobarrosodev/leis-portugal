@@ -24,6 +24,15 @@ publication:
   pages: 7339 - 7343
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19900/0733907343.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à recepção da última das modificações referidas no segundo parágrafo
+  method: clausula
+  article: art-11
+  effects_date: '2007-01-01'
+  effects_rule: desde 1 de Janeiro de 2007
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

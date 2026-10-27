@@ -24,7 +24,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1937/01/01300/00380038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:314394:por#art-unico'
+    detail: É revogado o [Decreto n.º 27491], de 16 de Janeiro de 1937.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:401708:por#art-unico'
+    detail: É revogado o [Decreto n.º 27491], de 16 de Janeiro de 1937.
 notes: []
 language: por
 version:

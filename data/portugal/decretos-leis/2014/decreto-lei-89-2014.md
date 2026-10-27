@@ -23,6 +23,15 @@ publication:
   pages: 3080 - 3096
   pdf_url: https://files.diariodarepublica.pt/1s/2014/06/11100/0308003096.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 60 dias, a contar da data da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

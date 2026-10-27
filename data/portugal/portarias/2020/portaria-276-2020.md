@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 8 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23600/0000800009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-05'
+entry_into_force:
+  date: '2020-12-05'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2020-01-01'
+  effects_rule: a 1 de janeiro de 2020, data da entrada em vigor do regime do justo impedimento de curta duração, previsto
+    no artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados, nos termos prescritos n
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

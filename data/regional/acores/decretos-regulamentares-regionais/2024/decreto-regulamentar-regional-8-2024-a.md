@@ -22,7 +22,19 @@ publication:
   supplement: null
   pages: 8 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/12700/0000800016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-07-03'
+entry_into_force:
+  date: '2024-07-03'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto Legislativo Regional n.º 2/2024/A, de 24 de junho, que aprova o orçamento
+    da Região Autónoma dos Açores para o ano de 2024, desde que compatível com as normas del
+  end_date: null
+  end_rule: até à data de entrada em vigor do decreto regulamentar regional que executa o orçamento da Região Autónoma dos
+    Açores para o ano de 2025
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,9 +23,30 @@ publication:
   supplement: null
   pages: 3926-(2) a 3926-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11601/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-18'
+entry_into_force:
+  date: '2015-06-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:116043539:por#art-6'
+    detail: É revogada a [Portaria n.º 179-B/2015], de 17 de junho.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:116043539:por'
+    detail: Revogada, a partir de 15.08.2018, o presente diploma, sem prejuízo da sua aplicação aos CLDS-3G, aprovados e em
+      curso, até à conclusão dos respetivos processos, pelo(a) Portaria n.º 229/2018 - Diário da República n.º 156/2018, Série
+      I de 2018-08-14
 notes: []
 language: por
 version:

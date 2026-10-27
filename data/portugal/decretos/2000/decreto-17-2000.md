@@ -24,6 +24,17 @@ publication:
   pages: 3610 - 3613
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/171a00/36103613.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da última comunicação, por via diplomática, de que foram cumpridas as formalidades legais vigentes
+    para a aprovação do mesmo
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: sobre os direitos e obrigações das Partes Contratantes derivadas da participação em acordos ou tratados internacionais
+    de que possam vir a ser parte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

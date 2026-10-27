@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 326 - 326
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01900/03260326.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-01-28'
+entry_into_force:
+  date: '1990-01-28'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: desde a data da entrada em vigor da Portaria n.º 425/89, de 12 de Junho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

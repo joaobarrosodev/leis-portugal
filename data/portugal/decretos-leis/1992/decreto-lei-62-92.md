@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1865 - 1870
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/093a00/18651870.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-04-26'
+entry_into_force:
+  date: '1992-04-26'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: desde a data da entrada em vigor da Lei n.º 2/92, de 9 de Março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

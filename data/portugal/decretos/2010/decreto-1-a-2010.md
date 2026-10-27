@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 504-(2) a 504-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/02/03601/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-02-23'
+entry_into_force:
+  date: '2010-02-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '2010-02-22'
+  effects_rule: a partir do dia 22 de Fevereiro de 2010 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

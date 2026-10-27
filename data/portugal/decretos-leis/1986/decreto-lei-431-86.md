@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3849 - 3851
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29900/38493851.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-01-29'
+entry_into_force:
+  date: '1987-01-29'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

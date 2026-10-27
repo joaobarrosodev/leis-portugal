@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 432 - 433
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/02700/0043200433.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-10'
+entry_into_force:
+  date: '2016-02-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

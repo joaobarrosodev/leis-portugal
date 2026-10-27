@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 37 - 51
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15500/0003700051.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-02-10'
+entry_into_force:
+  date: '2020-02-10'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

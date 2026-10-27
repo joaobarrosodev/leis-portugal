@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4980-(2) a 4980-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16201/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-08-24'
+entry_into_force:
+  date: '2017-08-24'
+  rule: no dia seguinte ao da sua publicação e os seus efeitos retroagem à data de 26 de julho de 2017
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

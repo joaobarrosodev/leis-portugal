@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2699 - 2700
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15500/26992700.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-07-09'
+entry_into_force:
+  date: '1987-07-09'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

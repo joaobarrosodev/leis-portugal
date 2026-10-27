@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1055 - 1069
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/06300/0105501069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-04-01'
+entry_into_force:
+  date: '2010-04-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

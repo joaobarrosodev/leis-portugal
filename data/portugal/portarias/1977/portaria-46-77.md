@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 156 - 156
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/02300/01560156.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-02-27'
+entry_into_force:
+  date: '1977-02-27'
+  rule: trinta dias após a publicação
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

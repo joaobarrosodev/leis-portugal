@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 40-(2) a 40-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12001/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-06-24'
+entry_into_force:
+  date: '2020-06-24'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: após publicação do regulamento delegado da Comissão, de 4 de maio de 2020, que derroga, para o ano de 2020,
+    o disposto no Regulamento Delegado (UE) 2017/891 da Comissão no que respeita ao setor das fr
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

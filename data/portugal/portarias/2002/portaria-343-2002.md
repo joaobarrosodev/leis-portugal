@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2945 - 2945
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/077b00/29452945.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-07-01'
+entry_into_force:
+  date: '2002-07-01'
+  rule: em 1 de Julho de 2002
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

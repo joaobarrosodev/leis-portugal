@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 285 - 285
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/03000/02850285.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-02-06'
+entry_into_force:
+  date: '1982-02-06'
+  rule: no dia imediato ao da sua publicação, mas a alteração estabelecida na parte final da alínea a) do artigo 12.º do Código
+    do Imposto de Mais-Valias aplica-se à determinação da matéria colectável efectua
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

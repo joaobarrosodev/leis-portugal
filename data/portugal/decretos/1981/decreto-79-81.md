@@ -23,6 +23,16 @@ publication:
   pages: 1390 - 1428
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses depois de cinco dos Estados referidos no parágrafo 1 do artigo 11.º a terem assinado sem reserva de ratificação
+    ou terem depositado o seu instrumento de ratificação ou de adesão
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

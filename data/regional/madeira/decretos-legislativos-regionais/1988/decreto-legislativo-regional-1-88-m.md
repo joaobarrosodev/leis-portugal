@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1326-(2) a 1326-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/07601/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-04-01'
+entry_into_force:
+  date: '1988-04-01'
+  rule: no dia 1 de Abril de 1988
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

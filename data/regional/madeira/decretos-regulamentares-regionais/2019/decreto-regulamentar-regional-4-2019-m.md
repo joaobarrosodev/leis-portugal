@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1820 - 1824
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/06500/0182001824.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-03'
+entry_into_force:
+  date: '2019-04-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: na data da entrada em vigor da portaria referida no artigo 4.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

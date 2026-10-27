@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5250-(2) a 5250-(1891)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16801/0000201891.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-09-30'
+entry_into_force:
+  date: '2017-09-30'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 2734 - 2735
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/108a00/27342735.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a data da sua publicação e só será aplicável às obras postas a concurso após essa data
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

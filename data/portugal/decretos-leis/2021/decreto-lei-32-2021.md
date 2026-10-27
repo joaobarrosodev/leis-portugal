@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09200/0000300005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-13'
+entry_into_force:
+  date: '2021-05-13'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2021-05-01'
+  effects_rule: desde 1 de maio de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

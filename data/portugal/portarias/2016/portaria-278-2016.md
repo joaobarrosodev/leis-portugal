@@ -25,6 +25,15 @@ publication:
   pages: 3796 - 3797
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/20400/0379603797.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da respetiva publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2016-09-30'
+  effects_rule: desde 30 de setembro de 2016
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

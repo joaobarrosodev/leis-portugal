@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1819 - 1823
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/10200/0181901823.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-27'
+entry_into_force:
+  date: '2010-05-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: desde a data da entrada em vigor do Orçamento da Região Autónoma da Madeira para 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

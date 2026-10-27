@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 62 - 63
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/017000000/0006200063.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-01-27'
+entry_into_force:
+  date: '2026-01-27'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: n-3
+  effects_date: '2025-12-31'
+  effects_rule: a 31 de dezembro de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

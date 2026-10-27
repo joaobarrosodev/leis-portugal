@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "24.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 24.º\n\nAs dúvidas resultantes do presente decreto-lei serão resolvidas, conforme os casos, por despacho do Ministro da Administração Interna ou por despacho conjunto deste e do Ministro de Estado e das Finanças e do Plano.\n\n> Aditado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606481:por",
+    "alterador": "pt:dre:376060:por"
+  }
+]

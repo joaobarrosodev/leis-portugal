@@ -25,6 +25,16 @@ publication:
   pages: 4661 - 4673
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/186a00/46614673.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a data em que 15 Estados tenham assinado a Convenção sem reserva de ratificação, aceitação ou aprovação,
+    ou tenham depositado um instrumento de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

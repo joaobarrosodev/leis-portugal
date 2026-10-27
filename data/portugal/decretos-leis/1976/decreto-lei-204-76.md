@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 571 - 571
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06800/05710571.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-03-20'
+entry_into_force:
+  date: '1976-03-20'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

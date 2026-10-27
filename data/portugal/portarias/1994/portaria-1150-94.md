@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7383 - 7383
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298b00/73837383.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-01-01'
+entry_into_force:
+  date: '1995-01-01'
+  rule: a 1 de Janeiro de 1995 e
+  method: clausula
+  article: n-11
+  effects_date: null
+  effects_rule: null
+  end_date: '1995-06-30'
+  end_rule: 'até 30 de Junho de 1995, após o que se manterá a obrigatoriedade de redução a escrito dos contratos celebrados
+    entre as entidades prestadoras do serviço de pagamento automático e os seus clientes e a '
 end_of_validity_date: null
 legal_status: in_force
 notes: []

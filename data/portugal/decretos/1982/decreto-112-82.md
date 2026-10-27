@@ -23,6 +23,15 @@ publication:
   pages: 3305 - 3310
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/23500/33053310.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que as ratificações de 2 membros da Organização Internacional do Trabalho tenham sido registadas pelo director-geral
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

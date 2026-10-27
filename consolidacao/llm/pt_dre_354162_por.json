@@ -1,0 +1,54 @@
+{
+  "id": "pt:dre:354162:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "São aplicáveis na balizagem dos terrenos submetidos a regime cinegético especial os modelos do anexo a seguir indicados:\n\na) (Revogada.)\n\nb) Zonas de caça sociais - modelo 2;\n\nc) (Revogada.)\n\nd) (Revogada.)"
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Aplicada a revogação dos n.os 1.º a 9.º, mantendo a alínea b) do n.º 2.º (e o proémio do n.º 2.º, de que a alínea depende). A ressalva é transitória ('até à extinção das zonas de caça sociais', n.º 2 do artigo 165.º do DL 227-B/2000), pelo que a alínea b) cairá também nessa data. O anexo (modelos de tabuletas, revogado exceto o modelo 2) só existe em PDF e não foi tratado.",
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

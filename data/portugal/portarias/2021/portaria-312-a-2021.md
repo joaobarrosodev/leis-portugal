@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 81-(2) a 81-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/24502/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-12-22'
+entry_into_force:
+  date: '2021-12-22'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2021-12-01'
+  effects_rule: desde o dia 1 de dezembro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

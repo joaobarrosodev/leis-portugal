@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5 - 11
   pdf_url: https://files.diariodarepublica.pt/1s/2026/01/00301/0000500011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-01-07'
+entry_into_force:
+  date: '2026-01-07'
+  rule: no dia seguinte à sua publicação, sem prejuízo de a data de entrada em funcionamento da plataforma eletrónica ser
+    divulgada no Portal Único de Serviços Digitais - o gov.pt e noutros locais que se reve
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

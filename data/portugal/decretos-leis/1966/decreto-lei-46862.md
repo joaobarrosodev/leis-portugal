@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 212 - 212
   pdf_url: https://files.diariodarepublica.pt/1s/1966/02/03200/02120212.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-01-01'
+entry_into_force:
+  date: '1966-01-01'
+  rule: em 1 de Janeiro de 1966 e os encargos resultantes da sua execução serão suportados pelas disponibilidades das respectivas
+    dotações do orçamento privativo do Arsenal do Alfeite e da tabela orçamental d
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

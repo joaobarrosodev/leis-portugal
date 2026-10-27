@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2739 - 2739
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21100/27392739.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-09-12'
+entry_into_force:
+  date: '1982-09-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

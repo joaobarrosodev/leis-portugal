@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 121 - 121
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/236000000/0012100121.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-08'
+entry_into_force:
+  date: '2023-12-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

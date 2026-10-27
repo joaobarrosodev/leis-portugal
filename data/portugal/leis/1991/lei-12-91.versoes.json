@@ -1,0 +1,587 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:640075:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f24a4cf7019c12d0",
+    "983f9cf2d2b7d6ee",
+    "bf06ad5dd2362423",
+    "65f3e85bc253f95f",
+    "4864a55862db72e9",
+    "8579c7bfb4eadf16",
+    "cfc0050657d0df76",
+    "f767d4782908246c",
+    "65e6091dfd768213",
+    "7ee66655f1b2eea4",
+    "4a3a16f3f602867f",
+    "20e3e8638794f044",
+    "2b1dbc1e50e00db5",
+    "346c349e73317197",
+    "5123815de71591f9",
+    "008fb4a6003a9607",
+    "32aa807601ad85b8",
+    "b680779db4f5a7ef",
+    "61d713c4776dc7a0",
+    "6c306be65b49d9aa",
+    "fc58fe37aa007863",
+    "802d48b96cf61915",
+    "11218b36769642ab",
+    "57b4cc4dfe1a61be",
+    "37e8ad33dd4f5842",
+    "5e42617602069242",
+    "2029281c91a7d22c",
+    "6cba479e66fe4169",
+    "d6e05196bb156973",
+    "3d35d9b1eabb16db",
+    "7cdbf53658bb8515",
+    "bd59dfa64f719407",
+    "736d19ec811f9025",
+    "512a1b49fbc57ce5",
+    "1e2554fa1d552605",
+    "37c0509b9ea78924",
+    "aed9f9b1f10a8993",
+    "f29526ec74fe59f1",
+    "1cf526b4bc896b0e",
+    "0b6dd4d5c0e36737",
+    "39cba43aa15722dd",
+    "716b9b897202d3fc",
+    "b5f98aff668bb73c",
+    "c5a6bf84d9e19b29",
+    "03c58f8ea52d11f8",
+    "7daba1e38cc6bdef",
+    "4b82ffdb2a109b1d",
+    "d617a7c229359779",
+    "6b75dd035e0de6ff",
+    "8b8d2f0e0446488e",
+    "cce66a7cabc995a9",
+    "451dde75884f33d0",
+    "31e2c788c8453b7a"
+   ]
+  },
+  {
+   "date": "2001-01-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:239249:por",
+     "title": "Decreto-Lei n.º 4/2001",
+     "published": "2001-01-10",
+     "dre_path": "/dr/detalhe/decreto-lei/4-2001-239249"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "f24a4cf7019c12d0",
+    "983f9cf2d2b7d6ee",
+    "bf06ad5dd2362423",
+    "65f3e85bc253f95f",
+    "1f84b3d612b31616",
+    "8579c7bfb4eadf16",
+    "cfc0050657d0df76",
+    "f767d4782908246c",
+    "9e4d3558d36326ec",
+    "7ee66655f1b2eea4",
+    "4a3a16f3f602867f",
+    "20e3e8638794f044",
+    "2b1dbc1e50e00db5",
+    "346c349e73317197",
+    "5123815de71591f9",
+    "008fb4a6003a9607",
+    "32aa807601ad85b8",
+    "b680779db4f5a7ef",
+    "61d713c4776dc7a0",
+    "6c306be65b49d9aa",
+    "fc58fe37aa007863",
+    "802d48b96cf61915",
+    "11218b36769642ab",
+    "57b4cc4dfe1a61be",
+    "37e8ad33dd4f5842",
+    "5e42617602069242",
+    "2029281c91a7d22c",
+    "6cba479e66fe4169",
+    "d6e05196bb156973",
+    "3d35d9b1eabb16db",
+    "7cdbf53658bb8515",
+    "bd59dfa64f719407",
+    "736d19ec811f9025",
+    "512a1b49fbc57ce5",
+    "1e2554fa1d552605",
+    "37c0509b9ea78924",
+    "aed9f9b1f10a8993",
+    "f29526ec74fe59f1",
+    "1cf526b4bc896b0e",
+    "0b6dd4d5c0e36737",
+    "39cba43aa15722dd",
+    "716b9b897202d3fc",
+    "b5f98aff668bb73c",
+    "c5a6bf84d9e19b29",
+    "03c58f8ea52d11f8",
+    "7daba1e38cc6bdef",
+    "4b82ffdb2a109b1d",
+    "d617a7c229359779",
+    "6b75dd035e0de6ff",
+    "8b8d2f0e0446488e",
+    "cce66a7cabc995a9",
+    "451dde75884f33d0",
+    "31e2c788c8453b7a"
+   ]
+  }
+ ],
+ "fragments": {
+  "f24a4cf7019c12d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Maio\n\nLei da Identificação Civil e Criminal\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "983f9cf2d2b7d6ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Identificação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Identificação civil"
+  },
+  "bf06ad5dd2362423": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A identificação civil consiste na recolha, tratamento e conservação dos elementos identificadores de cada cidadão com o fim de estabelecer a sua identidade, nos termos e para efeitos da presente lei.\n\n2 - Serão garantidos na identificação civil os princípios da autenticidade, veracidade, univocidade e segurança dos elementos identificadores."
+  },
+  "65f3e85bc253f95f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Ficheiro central. Bilhete de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ficheiro central. Bilhete de identidade\n\n1 - Os elementos da identificação civil são organizados em ficheiro central, com recurso preferencial a meios informáticos, sendo a emissão do bilhete de identidade o seu principal objectivo.\n\n2 - A concepção, a organização e a manutenção dos ficheiros informatizados da identificação civil são estabelecidas pelos serviços de identificação e pelos serviços de informática do Ministério da Justiça.\n\n3 - O bilhete de identidade é emitido pelos serviços de identificação, constituindo documento bastante para provar a identidade do seu titular perante quaisquer autoridades, entidades públicas ou privadas, sendo válido em todo o território nacional, sem prejuízo da eficácia decorrente de convenções internacionais de que Portugal faz parte."
+  },
+  "4864a55862db72e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Posse do bilhete de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Posse do bilhete de identidade\n\n1 - A posse do bilhete de identidade é obrigatória quando imposta por lei especial e ainda nos seguintes casos:\n\na) Para exercício de cargo público civil e admissão ao respectivo concurso;\n\nb) Para obtenção de passaportes, salvo os diplomáticos e especiais;\n\nc) Para obtenção de carta de caçador ou licença de caça ou licença de uso ou porte de arma;\n\nd) Para obtenção de carta ou licença de condução de veículos motorizados ou aeronaves;\n\ne) Para os obrigados a declarações fiscais ou sujeitos ao pagamento de contribuições e impostos;\n\nf) Para os nubentes, nos termos previstos na lei do registo civil;\n\ng) Para exame de admissão e matrícula em escola de ensino preparatório, secundário, médio ou superior;\n\nh) Para estrangeiros com residência habitual em Portugal há mais de seis meses.\n\n2 - Quando os funcionários públicos não puderem obter o bilhete de identidade antes da investidura no cargo, esta ser-lhes-á conferida provisoriamente, cumprindo aos interessados apresentá-lo no prazo de 60 dias para que se converta em definitiva.\n\n3 - No caso de o bilhete de identidade não ser apresentado dentro do prazo indicado no número anterior, a investidura provisória considera-se sem efeito.\n\n4 - A não apresentação do bilhete de identidade não impede a matrícula a que se refere a alínea g) do n.º 1, com carácter provisório, e fica sem efeito se o interessado não apresentar o bilhete na secretaria da escola dentro do prazo de 60 dias."
+  },
+  "8579c7bfb4eadf16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Elementos da identificação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elementos da identificação civil\n\nO bilhete de identidade, além da data da emissão, do prazo de validade, da autenticação pelos serviços e do respectivo número, contém os seguintes elementos de identificação do seu titular:\n\na) Nacionalidade;\n\nb) Nome completo;\n\nc) Filiação;\n\nd) Estado civil;\n\ne) Naturalidade;\n\nf) Data de nascimento;\n\ng) Sexo;\n\nh) Residência;\n\ni) Altura;\n\nj) Fotografia;\n\nl) Assinatura."
+  },
+  "cfc0050657d0df76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Filiação e impressão digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Filiação e impressão digital\n\nA filiação e impressão digital são recolhidas tendo em vista garantir a observância dos princípios a que se refere o n.º 2 do artigo 1.º"
+  },
+  "f767d4782908246c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Número do bilhete de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Número do bilhete de identidade\n\n1 - O número atribuído na primeira emissão do bilhete de identidade mantém-se na renovação e é o mesmo do processo individual correspondente.\n\n2 - O número do bilhete de identidade é seguido de um dígito de controlo, atribuído automaticamente."
+  },
+  "65e6091dfd768213": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Bilhete de identidade de estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Bilhete de identidade de estrangeiros\n\nOs cidadãos estrangeiros, de nacionalidade desconhecida, ou apátridas, não podem requerer bilhete de identidade se residirem há menos de seis meses em território português, salvo se, por força do artigo 3.º ou de lei especial, for obrigatória a sua posse."
+  },
+  "7ee66655f1b2eea4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Cidadãos brasileiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cidadãos brasileiros\n\nAos cidadãos brasileiros a que, nos termos da Convenção Luso-Brasileira, aprovada por resolução de 29 de Dezembro de 1971, tenha sido concedido o estatuto geral de igualdade de direitos e deveres é atribuído bilhete de identidade de acordo com as disposições do Decreto-Lei n.º 126/72, de 22 de Abril."
+  },
+  "4a3a16f3f602867f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Acesso à informação sobre identificação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acesso à informação sobre identificação civil\n\nO titular da informação, ou quem prove efectuar o pedido em nome ou no interesse daquele, tem o direito de tomar conhecimento dos dados que ao mesmo disserem respeito constantes do ficheiro de identificação civil, podendo exigir a sua rectificação e actualização."
+  },
+  "20e3e8638794f044": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Acesso de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acesso de terceiros\n\n1 - Podem ainda aceder à informação sobre identificação civil:\n\na) Os descendentes, ascendentes, o cônjuge, tutor ou curador do titular da informação ou, em caso de falecimento deste, os presumíveis herdeiros, desde que mostrem interesse legítimo e daí não resulte ofensa para a intimidade da vida privada do titular da informação;\n\nb) Os magistrados judiciais e do Ministério Público, quando se levantem dúvidas ou se mostrem incompletos os elementos de identificação de intervenientes em processos a seu cargo e esses elementos não possam ou não devam ser obtidos das pessoas a que respeitam, gozando de igual faculdade as entidades autorizadas a proceder a inquéritos ou a actos de instrução nos termos da lei de processo penal.\n\n2 - Mediante proposta fundamentada do dirigente dos serviços de identificação pode o Ministro da Justiça autorizar o acesso à informação sobre identificação civil a outras entidades, desde que daí não resulte ofensa para a intimidade da vida privada e fique assegurado o não uso para fins sem conexão com os motivos que determinaram a recolha da informação."
+  },
+  "2b1dbc1e50e00db5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Formas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formas de acesso\n\n1 - O conhecimento da informação sobre identificação civil pode ser obtido pelas formas seguintes:\n\na) Informação escrita;\n\nb) Certidão, fotocópia, reprodução de microfilme ou de registo informático, autenticados;\n\nc) Consulta do processo individual de bilhete de identidade;\n\nd) Acesso directo ao ficheiro central informatizado, nos termos legalmente previstos.\n\n2 - O condicionalismo administrativo e técnico necessário à viabilização do acesso directo, previsto na alínea d) do número anterior, deve ser definido em articulação da entidade interessada com os serviços de identificação e os serviços de informática do Ministério da Justiça."
+  },
+  "346c349e73317197": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Acesso directo à informação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acesso directo à informação civil\n\n1 - As entidades autorizadas a aceder directamente ao ficheiro central informatizado adoptam as medidas administrativas técnicas necessárias a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.\n\n2 - As pesquisas ou as tentativas de pesquisas directas de informação sobre identificação civil ficam registadas informaticamente durante um período razoável, podendo o seu registo ser objecto de controlo adequado pelos serviços de identificação, que, para o efeito, poderão solicitar os esclarecimentos convenientes às entidades respectivas.\n\n3 - A informação obtida por acesso directo não pode ter conteúdo mais lato do que teria quando fornecida pelas outras formas previstas no artigo 11.º, providenciando os serviços de identificação pela salvaguarda dos limites de acesso."
+  },
+  "5123815de71591f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Identificação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Identificação criminal"
+  },
+  "008fb4a6003a9607": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Registo criminal"
+  },
+  "32aa807601ad85b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Objecto\n\n1 - A identificação criminal consiste na recolha, tratamento e conservação dos extractos das decisões criminais proferidas por tribunais portugueses contra os indivíduos neles acusados, com o fim de permitir o conhecimento dos seus antecedentes criminais.\n\n2 - São também recolhidos os extractos de decisões da mesma natureza proferidas contra cidadãos portugueses por tribunais estrangeiros.\n\n3 - São ainda objecto de recolha as impressões digitais dos arguidos condenados nos tribunais portugueses para organização do ficheiro dactiloscópico, sendo arquivadas pela ordem da respectiva fórmula."
+  },
+  "b680779db4f5a7ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Ficheiro central. Certificado do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ficheiro central. Certificado do registo criminal\n\n1 - Os elementos de identificação criminal são organizados em ficheiro central, com recurso preferencial a meios informáticos, sendo a emissão do certificado do registo criminal o seu principal objectivo.\n\n2 - O registo criminal é constituído pela informação sobre a identidade civil do titular e pelo conjunto das decisões criminais sobre o mesmo proferidas e registadas nos termos da presente lei.\n\n3 - O certificado do registo criminal é emitido pelos serviços de identificação, constituindo documento bastante para provar os antecedentes criminais do titular da informação.\n\n4 - É aplicável à identificação criminal o disposto no n.º 2 do artigo 2.º, com as necessárias adaptações."
+  },
+  "61d713c4776dc7a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Âmbito do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Âmbito do registo criminal\n\nEstão sujeitos a registo criminal as seguintes decisões judiciais e factos:\n\na) Os despachos de pronúncia ou decisões equivalentes;\n\nb) As decisões que revoguem as referidas na alínea anterior;\n\nc) As decisões absolutórias, nos casos em que tenha havido despacho de pronúncia ou decisão equivalente;\n\nd) As decisões condenatórias referentes a crimes, a contravenções puníveis com pena de prisão ou a contravenções puníveis com multa, quando em reincidência lhes corresponda prisão;\n\ne) As decisões que revoguem a suspensão da execução da pena ou o regime de prova;\n\nf) As decisões que apliquem medidas de segurança, determinem o seu reexame ou suspensão, ou revogação da suspensão, bem como as decisões relativas a imputáveis portadores de anomalia psíquica ou a expulsão de estrangeiros inimputáveis;\n\ng) As decisões que concedam ou deneguem a extradição;\n\nh) As decisões que concedam ou revoguem a liberdade condicional, a reabilitação ou o cancelamento no registo;\n\ni) As decisões que apliquem amnistias, nos casos em que tenha havido despacho de pronúncia ou decisões equivalentes, ou apliquem perdões de penas, as que as alterem, bem como as que concedam indultos ou comutações de penas;\n\nj) As decisões que determinem a não transcrição em certificados do registo criminal de condenações que tenham aplicado;\n\nl) Os acórdãos que concedam a revisão extraordinária de decisões;\n\nm) Os despachos de admissão de recurso das decisões sujeitas a registo;\n\nn) As datas de início, termo, suspensão ou extinção das penas de prisão, ainda que em alternativa à pena de multa, das penas acessórias e medidas de segurança;\n\no) O cumprimento das penas de multa;\n\np) O falecimento dos titulares do registo criminal."
+  },
+  "6c306be65b49d9aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Acesso à informação sobre identificação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acesso à informação sobre identificação criminal\n\nO titular da informação ou quem prove efectuar o pedido em seu nome ou no interesse daquele tem o direito de tomar conhecimento dos dados que ao mesmo disserem respeito constantes do ficheiro da identificação criminal, podendo exigir a sua rectificação e actualização."
+  },
+  "fc58fe37aa007863": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Acesso de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acesso de terceiros\n\nPodem ainda aceder à informação sobre identificação criminal:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais, de execução de penas ou individuais de reclusos;\n\nb) As entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;\n\nc) As entidades com competência legal para a instrução dos processos individuais dos reclusos e para esse fim;\n\nd) Os serviços de reinserção social, no âmbito da prossecução dos seus fins;\n\ne) Outras entidades oficiais para a prossecução de fins públicos a seu cargo não abrangidos pelas alíneas anteriores e que não possam ser obtidos dos próprios interessados, mediante autorização do Ministro da Justiça, precedida de proposta fundamentada dos serviços de identificação;\n\nf) As autoridades ou entidades diplomáticas e consulares estrangeiras, mediante autorização do Ministro da Justiça e nas mesmas condições das correspondentes autoridades nacionais, para instrução de processos criminais;\n\ng) As entidades oficiais de Estados membros das Comunidades Europeias, nas mesmas condições das correspondentes entidades nacionais, mediante autorização do Ministro da Justiça, para os fins constantes do artigo 5.º da Directiva do Conselho n.º [64/221/CEE](http://data.europa.eu/eli/dir/1964/221/oj?locale=pt), de 25 de Fevereiro de 1964."
+  },
+  "802d48b96cf61915": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Formas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Formas de acesso\n\n1 - O conhecimento da informação sobre identificação criminal pode ser obtido pelas formas seguintes:\n\na) Certificado do registo criminal;\n\nb) Reprodução autenticada do registo informático;\n\nc) Acesso directo ao ficheiro central informatizado, nos termos legalmente previstos.\n\n2 - O certificado de registo criminal e a reprodução autenticada do registo informático são emitidos a requerimento ou requisição.\n\n3 - É aplicável à identificação criminal o disposto no n.º 2 do artigo 11.º, com as necessárias adaptações."
+  },
+  "11218b36769642ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Acesso directo à informação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acesso directo à informação criminal\n\nÉ aplicável à identificação criminal o disposto no artigo 12.º, com as necessárias adaptações."
+  },
+  "57b4cc4dfe1a61be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Emissão\n\nA emissão de extractos de registo criminal, negativos ou positivos, efectuada mediante terminais de computador colocados nos tribunais ou em instalações de outras entidades referidas no artigo 17.º e para os fins nele previstos, é regulada em diploma próprio."
+  },
+  "37e8ad33dd4f5842": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Certificados do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Certificados do registo criminal\n\n1 - O conteúdo do registo criminal é certificado face ao registo individual.\n\n2 - Não pode constar dos certificados qualquer indicação ou referência donde se possa depreender a existência, no registo, de outros elementos para além dos que devam ser expressamente certificados nos termos da lei."
+  },
+  "5e42617602069242": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Certificados requisitados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Certificados requisitados\n\n1 - Os certificados requisitados para os fins referidos nas alíneas a), b), c) e d) do artigo 17.º conterão a transcrição integral do registo criminal, salvo a informação cancelada ao abrigo do artigo 25.º\n\n2 - Só em certificados requisitados nos termos do número anterior constarão as decisões proferidas por tribunais estrangeiros, sendo-lhes também aplicável o disposto nos artigos 25.º e 26.º deste diploma."
+  },
+  "2029281c91a7d22c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Certificados para fins de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Certificados para fins de emprego\n\n1 - Os certificados requeridos para fins de emprego, público ou privado, ou para o exercício de qualquer profissão ou actividade cujo exercício dependa de um título público ou de uma autorização ou homologação da autoridade pública devem conter apenas:\n\na) As decisões que decretem a demissão da função pública e interdição do exercício de profissão ou actividade, nos termos dos artigos 66.º, 69.º e 97.º do Código Penal;\n\nb) As decisões que sejam consequência, complemento ou execução das indicadas na alínea anterior e não tenham como efeito o cancelamento do registo.\n\n2 - Nos casos em que, por força de lei especial, se exija ausência de quaisquer antecedentes criminais ou apenas de alguns para o exercício de determinada profissão ou actividade, os certificados são emitidos em conformidade com o disposto no artigo 24.º, salvo se a exigência for compatível com conteúdo mais restrito, devendo o requerente especificar a profissão ou actividade a exercer."
+  },
+  "6cba479e66fe4169": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Certificados para outros fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Certificados para outros fins\n\nOs certificados requeridos para fins não previstos no artigo anterior têm o conteúdo referido no artigo 22.º, exceptuando-se:\n\na) Os despachos de pronúncia;\n\nb) As condenações por contravenção, decorridos seis meses após o cumprimento da pena, e todas as que não respeitem ao fim a que o certificado se destina;\n\nc) As decisões canceladas nos termos do artigo 25.º, ainda que tão-só relativamente ao fim para que se destine o certificado, bem como a sua revogação, anulação ou extinção;\n\nd) As decisões que declararem uma interdição profissional ao abrigo do artigo 97.º do Código Penal, quando o período de interdição tenha chegado ao seu termo;\n\ne) As condenações por crime relativas a delinquentes primários em pena não superior a seis meses de prisão ou outra pena equivalente, salvo se lhe corresponder qualquer interdição prevista na lei; neste último caso, a sentença só deixará de ser transcrita quando findo o período de interdição ou de incapacidade;\n\nf) As decisões que concedam ou deneguem a extradição;\n\ng) Qualquer outra decisão que, por força da lei, não deva ser transcrita nos certificados passados para os fins acima indicados;\n\nh) As decisões intermédias, quando já constar decisão final."
+  },
+  "d6e05196bb156973": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Cancelamento definitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cancelamento definitivo\n\n1 - São canceladas no registo criminal:\n\na) As condenações em penas declaradas extintas;\n\nb) As decisões a que se aplique a reabilitação prevista no artigo 26.º;\n\nc) As decisões que dispensem ou isentem da pena;\n\nd) As decisões consideradas sem efeito por disposição legal.\n\n2 - São igualmente cancelados factos ou decisões que sejam consequência, complemento ou execução de decisões que devam ser omitidas nos termos do número anterior."
+  },
+  "3d35d9b1eabb16db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Reabilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reabilitação\n\n1 - A reabilitação tem lugar, automaticamente, decorridos cinco anos sobre a extinção da pena ou medida de segurança, se, entretanto, não houver lugar a nova condenação por crime.\n\n2 - A reabilitação não aproveita ao condenado quanto às perdas definitivas que lhe resultarem da condenação, não prejudica os direitos que desta advierem para o ofendido ou para terceiros, nem sana, de per si, a nulidade dos actos praticados pelo condenado durante a sua incapacidade.\n\n3 - A reabilitação prevista no presente artigo é irrevogável."
+  },
+  "7cdbf53658bb8515": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Cancelamento provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cancelamento provisório\n\n1 - Estando em causa qualquer dos fins a que se destina o certificado requerido nos termos dos artigos 23.º e 24.º da presente lei, e sem prejuízo do disposto no n.º 2 do artigo 23.º, pode o tribunal de execução das penas determinar o cancelamento, total ou parcial, das decisões que dele deveriam constar, com excepção das que hajam imposto período de interdição ou de incapacidade.\n\n2 - O disposto no número anterior só se aplica se o interessado se tiver comportado de forma que seja razoável supor encontrar-se readaptado à vida social e ainda que se encontre em liberdade condicional e só tem lugar quando o requerente haja cumprido a obrigação de indemnizar o ofendido, justificado a sua extinção por qualquer meio legal, ou se prove a impossibilidade do seu cumprimento.\n\n3 - O cancelamento previsto no n.º 1 é revogado automaticamente no caso de o interessado incorrer em nova condenação por crime doloso.\n\n4 - Quando ocorrer a hipótese do artigo 70.º do Código Penal, o cancelamento supõe a verificação das condições aí exigidas."
+  },
+  "bd59dfa64f719407": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Decisões não transcritas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Decisões não transcritas\n\n1 - Os tribunais que condenem em pena de prisão até um ano, em outra pena equivalente ou em pena não detentiva podem determinar na sentença ou em despacho posterior, sempre que das circunstâncias que acompanharam o crime não se puder induzir perigo de prática de novos crimes, a não transcrição da respectiva sentença nos certificados a que se refere o artigo 24.º deste diploma.\n\n2 - No caso de ter sido aplicada qualquer interdição, apenas será observado o disposto no número anterior findo o prazo da mesma.\n\n3 - O cancelamento previsto no n.º 1 é revogado automaticamente no caso de o interessado incorrer em nova condenação por crime doloso."
+  },
+  "736d19ec811f9025": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Registo especial de menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Registo especial de menores"
+  },
+  "512a1b49fbc57ce5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Objecto\n\nEstão sujeitas ao registo especial de menores as decisões dos tribunais de menores ou de família e menores que apliquem ou alterem medidas de colocação em instituto médico-psicológico ou internamento em estabelecimento de reeducação."
+  },
+  "1e2554fa1d552605": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Ficheiro central e registo especial de menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Ficheiro central e registo especial de menores\n\n1 - O registo especial de menores, organizado em ficheiro central e autónomo, com recurso preferencial a meios informáticos, é secreto e dele só poderão ser passados, na observância da Constituição e das leis, certificados requisitados pela Direcção-Geral dos Serviços Tutelares de Menores, pelos tribunais de menores, de família e menores, de execução das penas e pelo Instituto de Reinserção Social.\n\n2 - Do disposto no número anterior exceptuam-se os casos em que o menor titular da informação tiver cometido, depois dos 16 anos de idade, crime doloso a que corresponda, em concreto, pena superior a dois anos de prisão ou vier a incorrer em pena relativamente indeterminada, nos termos dos artigos 83.º a 90.º do Código Penal, ficando em tal hipótese a informação sujeita às regras gerais do registo criminal."
+  },
+  "37c0509b9ea78924": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Registo de contumazes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Registo de contumazes"
+  },
+  "aed9f9b1f10a8993": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Natureza e fim",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Natureza e fim\n\n1 - O registo de contumazes, organizado em ficheiro central informatizado, consiste na recolha, tratamento e divulgação da informação sobre arguidos contumazes com vista a garantir a eficácia das medidas de desmotivação da ausência, sendo seu principal objectivo a emissão do certificado de contumácia.\n\n2 - Estão sujeitas a registo as decisões dos tribunais que, nos termos das leis de processo penal, declarem a contumácia, alterem essa declaração ou a façam cessar."
+  },
+  "f29526ec74fe59f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Acesso\n\n1 - Têm acesso à informação contida no registo de contumazes o titular da informação ou quem prove efectuar o pedido em nome ou no interesse daquele, bem como as entidades referidas no artigo 17.º\n\n2 - Podem ainda aceder ao registo de contumazes:\n\na) As entidades públicas a quem incumba assegurar a execução dos efeitos da contumácia;\n\nb) Os terceiros que provem efectuar o pedido com a finalidade de acautelarem intereses ligados à celebração de negócio jurídico com indivíduo declarado contumaz ou para instruir processo da sua anulação, sendo, neste caso, a informação restrita ao despacho a que se refere o n.º 6 do artigo 337.º do Código de Processo Penal.\n\n3 - Ao registo de contumazes é aplicável o disposto no artigo 18.º, com as necessárias adaptações."
+  },
+  "1cf526b4bc896b0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Transcrição no certificado do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Transcrição no certificado do registo criminal\n\nA declaração de contumácia consta obrigatoriamente dos certificados do registo criminal requisitados para os fins referidos no artigo 22.º"
+  },
+  "0b6dd4d5c0e36737": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições penais"
+  },
+  "39cba43aa15722dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Desvio de dados ou informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Desvio de dados ou informações\n\n1 - Quem dos ficheiros de identificação civil, criminal, de menores ou de contumazes, indevidamente, obtiver ou fornecer a outrem dados ou informações, desviando-os da finalidade legal, será punido:\n\na) Com a pena de prisão de 3 meses a 1 ano ou multa até 100 dias, tratando-se de dados ou informações sobre a identificação criminal, nomeadamente a relativa a menores, obtidos de ficheiro informatizado;\n\nb) Com a pena de prisão até 1 ano ou multa até 60 dias, tratando-se de dados ou informações sobre a identificação civil ou a contumácia, obtidos de ficheiro informatizado;\n\nc) Com as mesmas penas especialmente atenuadas, tratando-se de dados ou informações obtidos de ficheiros manuais.\n\n2 - Com as mesmas penas será punido quem fizer uso dos dados ou informações obtidos ou fornecidos pela forma indevida prevista no número anterior.\n\n3 - As penas dos crimes previstos nos números anteriores serão elevadas ao dobro, nos seus limites mínimo e máximo, quando os mesmos sejam praticados com a intenção de obter benefício ilegítimo para si ou para terceiro ou para causar um prejuízo patrimonial ou moral a interesse público ou de terceiros.\n\n4 - A tentativa é punível."
+  },
+  "716b9b897202d3fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Crimes cometidos por funcionário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Crimes cometidos por funcionário\n\n1 - Os crimes previstos no artigo anterior, se cometidos por funcionário no exercício das suas funções, serão punidos:\n\na) Nos casos das alíneas a) e b) do n.º 1, com as mesmas penas, agravadas em um terço nos seus limites mínimo e máximo;\n\nb) Nos casos da alínea c) do n.º 1 não haverá lugar à atenuação especial da pena;\n\nc) Nos casos previstos no n.º 3, com a pena do n.º 1 do artigo 433.º do Código Penal.\n\n2 - A tentativa é punível."
+  },
+  "b5f98aff668bb73c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Falsificação de impressos oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Falsificação de impressos oficiais\n\n1 - A falsificação de impressos do bilhete de identidade, de certificados de registo criminal e de certificado de contumácia, de modelo oficial, praticada pelas formas previstas no n.º 1 do artigo 228.º do Código Penal, e o uso dos mesmos impressos falsificados serão punidos com a pena prevista no n.º 2 do mesmo artigo.\n\n2 - A falsificação de outros impressos oficiais da identificação civil ou criminal será punida com a pena prevista no n.º 1 do mesmo artigo."
+  },
+  "c5a6bf84d9e19b29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Falsas declarações\n\n1 - Quem declarar ou atestar, falsamente, à autoridade pública ou a funcionário no exercício das suas funções identidade, estado ou outra qualidade a que a lei atribua efeitos jurídicos, próprios ou alheios, será punido com prisão até 2 anos ou multa até 100 dias.\n\n2 - Quando as declarações se destinem a ser exaradas em documento oficial, a pena de prisão terá o limite mínimo de 6 meses e a multa de 30 dias.\n\n3 - Tratando-se de declarações ou atestados com vista à obtenção do bilhete de identidade e referindo-se à identificação civil, a pena será de prisão até 1 ano ou multa até 90 dias.\n\n4 - No caso de negligência, será aplicada somente a pena de multa."
+  },
+  "03c58f8ea52d11f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Usurpação de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Usurpação de identidade\n\nQuem induzir alguém em erro, atribuindo, falsamente, a si ou a terceiro, nome, estado ou qualidade que por lei produza efeitos jurídicos, para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem será punido com prisão até 2 anos ou multa até 100 dias, se o facto não constituir crime mais grave."
+  },
+  "7daba1e38cc6bdef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Uso de bilhete de identidade alheio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Uso de bilhete de identidade alheio\n\nO uso de bilhete de identidade alheio será punido nos termos do artigo 235.º do Código Pengal."
+  },
+  "4b82ffdb2a109b1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Venda não autorizada de impressos exclusivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Venda não autorizada de impressos exclusivos\n\n1 - A venda de impressos exclusivos dos serviços de identificação, sem que tenha havido despacho de autorização, constitui contra-ordenação, punível com coima de 10000$00 a 50000$00 e apreensão dos impressos e do produto da venda indevida.\n\n2 - A organização do processo e a decisão sobre aplicação da coima competem ao dirigente dos serviços de identificação.\n\n3 - O produto das coimas destina-se ao Cofre Geral dos Tribunais do Ministério da Justiça."
+  },
+  "d617a7c229359779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais"
+  },
+  "6b75dd035e0de6ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Reclamações e recursos\n\n1 - Compete ao dirigente dos serviços de identificação decidir sobre as reclamações respeitantes ao acesso à informação em matéria de identificação civil, criminal ou registo de contumácia e seu conteúdo, cabendo recurso da sua decisão.\n\n2 - O recurso sobre a legalidade da transcrição nos certificados do registo criminal é interposto para o tribunal de execução das penas, que decidirá em definitivo."
+  },
+  "8b8d2f0e0446488e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Regime aplicável\n\nO disposto na presente lei não prejudica regime mais estrito estabelecido na lei de protecção de dados pessoais face à informática."
+  },
+  "cce66a7cabc995a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Parecer prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Parecer prévio\n\nA aprovação de diplomas em que se exija a ausência de antecedentes criminais para o exercício de determinada profissão ou actividade será precedida, necessariamente, de parecer do Instituto de Reinserção Social."
+  },
+  "451dde75884f33d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Regulamentação\n\nA presente lei será regulamentada por decreto-lei no prazo de 90 dias."
+  },
+  "31e2c788c8453b7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Entrada em vigor. Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Entrada em vigor. Norma revogatória\n\n1 - A presente lei entra em vigor com o decreto-lei que a regulamentar.\n\n2 - Ficam revogados, a partir da entrada em vigor do regulamento previsto no número anterior, os seguintes diplomas ou dispositivos legais:\n\na) Artigos 22.º, 23.º e 24.º do Decreto-Lei n.º 33725, de 21 de Junho de 1944;\n\nb) Decreto-Lei n.º 64/76, de 24 de Janeiro;\n\nc) Decreto-Lei n.º 408/76, de 27 de Maio;\n\nd) Decreto-Lei n.º 787/76, de 2 de Novembro;\n\ne) Artigo 2.º do Decreto-Lei n.º 851/76, de 17 de Dezembro;\n\nf) Decreto-Lei n.º 511/77, de 14 de Dezembro;\n\ng) Decreto-Lei n.º 29/79, de 22 de Fevereiro;\n\nh) Decreto-Lei n.º 295/81, de 24 de Outubro;\n\ni) Decreto-Lei n.º 39/83, de 25 de Janeiro;\n\nj) Decreto-Lei n.º 357/86, de 25 de Outubro;\n\nl) Artigos 3.º e 4.º do Decreto-Lei n.º 29/87, de 14 de Janeiro;\n\nm) Decreto-Lei n.º 60/87, de 2 de Fevereiro;\n\nn) Decreto-Lei n.º 102/87, de 6 de Março;\n\no) Decreto-Lei n.º 305/88, de 2 de Setembro;\n\np) Decreto-Lei n.º 325/89, de 26 de Setembro.\n\nAprovada em 2 de Abril de 1991.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 24 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 30 de Abril de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1f84b3d612b31616": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Posse do bilhete de identidade",
+   "in_force_from": "2001-01-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10."
+   ],
+   "markdown": "###### Artigo 3.º — Posse do bilhete de identidade\n\n1 - A posse do bilhete de identidade é obrigatória quando imposta por lei especial e ainda nos seguintes casos:\n\na) Para exercício de cargo público civil e admissão ao respectivo concurso;\n\nb) Para obtenção de passaportes, salvo os diplomáticos e especiais;\n\nc) Para obtenção de carta de caçador ou licença de caça ou licença de uso ou porte de arma;\n\nd) Para obtenção de carta ou licença de condução de veículos motorizados ou aeronaves;\n\ne) Para os obrigados a declarações fiscais ou sujeitos ao pagamento de contribuições e impostos;\n\nf) Para os nubentes, nos termos previstos na lei do registo civil;\n\ng) Para exame de admissão e matrícula em escola de ensino preparatório, secundário, médio ou superior;\n\nh) (Revogada.)\n\n2 - Quando os funcionários públicos não puderem obter o bilhete de identidade antes da investidura no cargo, esta ser-lhes-á conferida provisoriamente, cumprindo aos interessados apresentá-lo no prazo de 60 dias para que se converta em definitiva.\n\n3 - No caso de o bilhete de identidade não ser apresentado dentro do prazo indicado no número anterior, a investidura provisória considera-se sem efeito.\n\n4 - A não apresentação do bilhete de identidade não impede a matrícula a que se refere a alínea g) do n.º 1, com carácter provisório, e fica sem efeito se o interessado não apresentar o bilhete na secretaria da escola dentro do prazo de 60 dias.\n\n> Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10."
+  },
+  "9e4d3558d36326ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Bilhete de identidade de estrangeiros",
+   "in_force_from": "2001-01-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10."
+   ],
+   "markdown": "###### Artigo 7.º — Bilhete de identidade de estrangeiros\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10."
+  }
+ }
+}

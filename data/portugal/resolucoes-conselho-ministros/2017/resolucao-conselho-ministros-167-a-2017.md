@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5866-(6) a 5866-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21102/0000600007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-07'
+entry_into_force:
+  date: '2017-11-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: imediatos, nos termos do n.º 1 do artigo 12.º da Lei de Bases da Proteção Civil, sem prejuízo da necessidade
+    de publicação, ressalvando-se os efeitos já produzidos pelo despacho de reconhecimento ante
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

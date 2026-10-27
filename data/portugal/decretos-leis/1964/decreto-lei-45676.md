@@ -26,6 +26,15 @@ publication:
   pages: 547 - 551
   pdf_url: https://files.diariodarepublica.pt/1s/1964/04/09800/05470551.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas ilhas adjacentes na mesma data em que começar a vigorar no território do continente
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

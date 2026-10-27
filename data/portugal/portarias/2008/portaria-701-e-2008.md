@@ -24,6 +24,15 @@ publication:
   pages: 5106-(19) a 5106-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14501/0001900023.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de entrada em vigor do Código dos Contratos Públicos
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

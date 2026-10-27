@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2784-(2) a 2784-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/19601/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-08-28'
+entry_into_force:
+  date: '1985-08-28'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

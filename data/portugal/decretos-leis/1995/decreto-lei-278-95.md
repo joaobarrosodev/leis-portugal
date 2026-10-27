@@ -23,6 +23,15 @@ publication:
   pages: 6619 - 6621
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/247a00/66196621.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: conjuntamente com a regulamentação prevista naquele artigo
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

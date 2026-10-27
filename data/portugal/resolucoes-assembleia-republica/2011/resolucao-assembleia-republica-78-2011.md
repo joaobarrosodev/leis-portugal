@@ -25,6 +25,16 @@ publication:
   pages: 2024 - 2027
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/06700/0202402027.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: se possível, em 1 de Dezembro de 2010, se tiverem sido depositados todos os instrumentos de ratificação ou, na falta
+    desse depósito, no 1.º dia do mês seguinte ao do depósito do instrumento de ratific
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

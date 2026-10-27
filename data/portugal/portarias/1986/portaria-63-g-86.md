@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 516-(14) a 516-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05001/00140017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-03-01'
+entry_into_force:
+  date: '1986-03-01'
+  rule: em 1 de Março de 1986
+  method: clausula
+  article: n-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

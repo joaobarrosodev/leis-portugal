@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 18 - 21
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/002a00/00180021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-01-19'
+entry_into_force:
+  date: '2005-01-19'
+  rule: no prazo de 15 dias após a data da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

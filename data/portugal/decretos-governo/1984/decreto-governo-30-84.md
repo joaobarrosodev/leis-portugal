@@ -23,6 +23,16 @@ publication:
   pages: 2015 - 2019
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/15300/20152019.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após a troca de notas em que as Partes Contratantes se dêem conhecimento recíproco de que estão cumpridos
+    os requisitos da legislação interna para início da sua vigência
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4196 - 4197
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/12800/0419604197.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-21'
+entry_into_force:
+  date: '2008-07-21'
+  rule: no dia 21 de Julho de 2008
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/10/23600/13191322.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:512793:por#n-7'
+    detail: 18.º Fica revogada a [Portaria n.º 17393], de 14 de Outubro de 1959.
 notes: []
 language: por
 version:

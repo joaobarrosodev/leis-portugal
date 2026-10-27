@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6462 - 6463
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/280a00/64626463.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-12-05'
+entry_into_force:
+  date: '1997-12-05'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '1997-10-26'
+  effects_rule: a partir de 26 de Outubro de 1997
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

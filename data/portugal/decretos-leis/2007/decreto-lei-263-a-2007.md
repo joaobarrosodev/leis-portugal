@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 4666-(2) a 4666-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14001/0000200008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-07-24'
+entry_into_force:
+  date: '2007-07-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

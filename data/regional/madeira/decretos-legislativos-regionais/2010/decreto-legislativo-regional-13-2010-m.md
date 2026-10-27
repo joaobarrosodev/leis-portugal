@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3230 - 3238
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15100/0323003238.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-10-04'
+entry_into_force:
+  date: '2010-10-04'
+  rule: no prazo de 60 dias após a sua publicação
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

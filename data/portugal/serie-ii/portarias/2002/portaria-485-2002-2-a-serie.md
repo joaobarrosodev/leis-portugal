@@ -23,6 +23,15 @@ publication:
   pages: 4964 - 4966
   pdf_url: https://files.diariodarepublica.pt/2s/2002/03/062000000/0496404966.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura
+  method: clausula
+  article: n-11
+  effects_date: null
+  effects_rule: null
+  end_date: '2030-10-26'
+  end_rule: até 26 de Outubro de 2030 e não poderá ser alterado sem o acordo formal dos sucessores do Prof
 end_of_validity_date: null
 legal_status: in_force
 notes: []

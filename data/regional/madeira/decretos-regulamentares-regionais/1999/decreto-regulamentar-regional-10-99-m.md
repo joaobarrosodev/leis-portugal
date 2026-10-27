@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5369 - 5369
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/188b00/53695369.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-08-14'
+entry_into_force:
+  date: '1999-08-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '1999-07-01'
+  effects_rule: a partir de 1 de Julho de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

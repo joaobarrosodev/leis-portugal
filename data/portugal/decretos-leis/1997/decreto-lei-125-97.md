@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2557 - 2561
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/119a00/25572561.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-06-22'
+entry_into_force:
+  date: '1997-06-22'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

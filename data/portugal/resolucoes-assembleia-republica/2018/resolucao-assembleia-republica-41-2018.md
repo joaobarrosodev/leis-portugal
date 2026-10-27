@@ -24,6 +24,15 @@ publication:
   pages: 883 - 898
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/02900/0088300898.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após o depósito de vinte instrumentos de ratificação, aceitação, aprovação ou adesão
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

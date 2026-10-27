@@ -24,6 +24,16 @@ publication:
   pages: 500 - 506
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01800/0050000506.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de três meses após a data do depósito do terceiro instrumento
+    de ratificação, aceitação ou aprovação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 2278-(4) a 2278-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/099b02/00040004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na Região Autónoma da Madeira no dia 29 de Abril de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

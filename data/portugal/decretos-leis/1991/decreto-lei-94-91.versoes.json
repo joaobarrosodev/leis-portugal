@@ -1,0 +1,180 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:484416:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-02-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "550bc2d7cc0927eb",
+    "627a1ec9cbda054d",
+    "f780cd93ceae853f",
+    "80c524c93e213dae",
+    "23f71bd0a549e068",
+    "81f3cea9f4e48156",
+    "ce803ab74c4c89dc",
+    "953b9dad5190ef60",
+    "50b7eb0e4bbbfdd8"
+   ]
+  },
+  {
+   "date": "2004-09-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:480522:por",
+     "title": "Decreto-Lei n.º 206/2004",
+     "published": "2004-08-19",
+     "dre_path": "/dr/detalhe/decreto-lei/206-2004-480522"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "550bc2d7cc0927eb",
+    "e547a834fdb507b4",
+    "53832da0cd3206ea",
+    "388b6d3ac06d8770",
+    "3e11e28819aa4d33",
+    "81f3cea9f4e48156",
+    "ce803ab74c4c89dc",
+    "953b9dad5190ef60",
+    "1b23e68c2b463b93"
+   ]
+  }
+ ],
+ "fragments": {
+  "550bc2d7cc0927eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Fevereiro\n\nA natureza específica do ensino da medicina implica, forçosamente, que algumas das disciplinas que integram os respectivos planos de estudo hajam de ser ministradas em instituições hospitalares ou centros de saúde. Desta circunstância decorre a necessidade de existência de mecanismos que permitam a conjugação das actividades dos estabelecimentos de ensino e das instituições hospitalares e demais estabelecimentos de saúde, bem como de um sistema de articulação entre a carreira docente universitária e a carreira médica.\n\nO [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, veio trazer uma solução para estes problemas, a qual assenta, em primeira linha, na autonomia das instituições em causa no que concerne à coordenação das suas actividades, elegendo como mecanismo privilegiado o estabelecimento de protocolos de cooperação. Esse diploma veio, aliás, a ser alterado por diversa legislação superveniente, sem que o sentido geral tenha sido inflectido.\n\nMostra-se, porém, conveniente, para situações em que não se revele plenamente adequado o mecanismo previsto no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), estabelecer um regime de articulação institucional entre os estabelecimentos de ensino e as instituições hospitalares ou outros estabelecimentos de saúde. Trata-se, pois, de uma simples derrogação a esse preceito, o qual se mantém, para os demais casos, plenamente aplicável.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "627a1ec9cbda054d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Articulação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Articulação institucional\n\nPara efeitos de leccionação de disciplinas constantes dos planos de estudos em vigor nas faculdades de medicina e de ciências médicas, os Ministros da Educação e da Saúde podem, por portaria conjunta, considerar articulados os referidos estabelecimentos de ensino com instituições hospitalares ou outros estabelecimentos de saúde."
+  },
+  "f780cd93ceae853f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Comissão mista permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comissão mista permanente\n\n1 - A coordenação das actividades das faculdades de medicina ou de ciências médicas e das instituições hospitalares ou outros estabelecimentos de saúde é assegurada por uma comissão mista permanente.\n\n2 - Integram a comissão mista permanente:\n\na) O director da instituição hospitalar ou o presidente do órgão de gestão da administração regional de saúde;\n\nb) O presidente do conselho directivo do estabelecimento de ensino;\n\nc) O director clínico da instituição hospitalar ou um adjunto deste, no caso de o director assumir também as funções referidas na alínea a), ou um elemento a designar pela administração regional de saúde;\n\nd) O presidente do conselho científico do estabelecimento de ensino.\n\n3 - Os membros da comissão mista permanente escolherão, entre si, o respectivo presidente.\n\n4 - O presidente da comissão mista permanente possui voto de qualidade."
+  },
+  "80c524c93e213dae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competência da comissão mista permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência da comissão mista permanente\n\nCompete à comissão mista permanente, designadamente:\n\na) Deliberar sobre todas as matérias pertinentes ao regime de articulação institucional;\n\nb) Definir a correspondência entre novas áreas ou disciplinas com os serviços hospitalares já existentes e, bem assim, entre os novos serviços hospitalares e as áreas ou disciplinas hoje existentes;\n\nc) Submeter ao conselho científico do estabelecimento de ensino propostas de alterações curriculares que se repercutam significativamente na actividade das instituições hospitalares ou centros de saúde;\n\nd) Sugerir a atribuição de verbas de investimento para actividades assistenciais, de educação e de investigação científica e apreciar os respectivos planos;\n\ne) Pronunciar-se sobre quaisquer matérias do interesse dos estabelecimentos e instituições articulados."
+  },
+  "23f71bd0a549e068": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Departamentos ou serviços abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamentos ou serviços abrangidos\n\nOs departamentos ou serviços das instituições hospitalares ou outros estabelecimentos de saúde onde podem ser realizadas actividades para efeitos de leccionação de disciplinas constantes dos planos de estudo em vigor nas faculdades de medicina e de ciências médicas são indicados por despacho conjunto dos Ministros da Educação e da Saúde."
+  },
+  "81f3cea9f4e48156": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Pessoal médico docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pessoal médico docente\n\nAo pessoal médico docente é aplicada a legislação vigente em matéria de articulação entre a carreira docente universitária e a carreira médica."
+  },
+  "ce803ab74c4c89dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Administração do património utilizado em comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Administração do património utilizado em comum\n\nOs equipamentos científicos, áudio-visuais, de informática e de secretariado adquiridos pelos estabelecimentos de ensino, pertencentes ao seu inventário, são propriedade desses estabelecimentos, sendo a respectiva manutenção e conservação da sua exclusiva responsabilidade."
+  },
+  "953b9dad5190ef60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Encargos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Encargos financeiros\n\n1 - São suportados pelos estabelecimentos de ensino todos os encargos com o pessoal de apoio às actividades de índole pedagógica que entendam manter nas instituições hospitalares ou outros estabelecimentos de saúde com ensino médico.\n\n2 - Os bens de consumo corrente destinados exclusivamente às actividades docentes e de investigação são adquiridos pelos estabelecimentos de ensino.\n\n3 - É da competência própria de cada uma das entidades a definição dos respectivos planos de investimento nas instalações compartilhadas."
+  },
+  "50b7eb0e4bbbfdd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Remissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Remissões\n\nEm relação aos estabelecimentos e instituições abrangidos por este regime de articulação institucional, as remissões constantes da legislação vigente para o disposto no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 25 de Setembro, consideram-se feitas para o presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 20 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro - Arlindo Gomes de Carvalho.\n\nPromulgado em 10 de Novembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Novembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "e547a834fdb507b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Articulação institucional",
+   "in_force_from": "2004-09-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+   ],
+   "markdown": "###### Artigo 1.º — Articulação institucional\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+  },
+  "53832da0cd3206ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Comissão mista permanente",
+   "in_force_from": "2004-09-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+   ],
+   "markdown": "###### Artigo 2.º — Comissão mista permanente\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+  },
+  "388b6d3ac06d8770": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competência da comissão mista permanente",
+   "in_force_from": "2004-09-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+   ],
+   "markdown": "###### Artigo 3.º — Competência da comissão mista permanente\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+  },
+  "3e11e28819aa4d33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Departamentos ou serviços abrangidos",
+   "in_force_from": "2004-09-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+   ],
+   "markdown": "###### Artigo 4.º — Departamentos ou serviços abrangidos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+  },
+  "1b23e68c2b463b93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Remissões",
+   "in_force_from": "2004-09-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+   ],
+   "markdown": "###### Artigo 8.º — Remissões\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19.\n\nVisto e aprovado em Conselho de Ministros de 20 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro - Arlindo Gomes de Carvalho.\n\nPromulgado em 10 de Novembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Novembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

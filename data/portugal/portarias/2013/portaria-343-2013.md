@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6556 - 6556
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/22800/0655606556.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-11-26'
+entry_into_force:
+  date: '2013-11-26'
+  rule: no dia seguinte ao da sua publicação e aplica-se à campanha vitivinícola de 2013-2014
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

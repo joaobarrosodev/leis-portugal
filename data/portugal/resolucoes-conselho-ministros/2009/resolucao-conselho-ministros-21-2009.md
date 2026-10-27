@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1277 - 1277
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03800/0127701277.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-01'
+entry_into_force:
+  date: '2009-03-01'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

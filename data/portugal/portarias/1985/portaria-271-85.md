@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1281 - 1292
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10700/12811292.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-05-15'
+entry_into_force:
+  date: '1985-05-15'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

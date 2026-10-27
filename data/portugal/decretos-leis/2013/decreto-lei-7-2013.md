@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 349 - 351
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/01200/0034900351.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-18'
+entry_into_force:
+  date: '2013-01-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até à data da publicação das listas definitivas dos concursos, para o ano escolar de 2013-2014, realizados ao
+    abrigo do artigo 5.º do Decreto-Lei n.º 132/2012, de 27 de junho
 end_of_validity_date: null
 legal_status: in_force
 notes: []

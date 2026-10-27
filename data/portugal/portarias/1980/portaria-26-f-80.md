@@ -23,6 +23,16 @@ publication:
   pages: 26-(11) a 26-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00702/00110016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Plano Preliminar de Ordenamento e será completado com regulamentos específicos à medida que forem sendo oportunos,
+    como sejam os regulamentos de caça, de pesca, de ocupação dos apoios para campi
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

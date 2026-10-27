@@ -23,6 +23,16 @@ publication:
   pages: 4072 - 4074
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/169a00/40724074.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo do prazo de três meses contado da data em que três Estados membros do Conselho
+    da Europa tenham expressado o seu consentimento em ficar obrigados pelo Protocol
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

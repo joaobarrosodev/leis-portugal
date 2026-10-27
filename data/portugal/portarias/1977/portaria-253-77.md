@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1028 - 1029
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10900/10281029.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-05-11'
+entry_into_force:
+  date: '1977-05-11'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

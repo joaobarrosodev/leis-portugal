@@ -23,6 +23,16 @@ publication:
   pages: 1022 - 1024
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/043a00/10221024.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas para o efeito pela ordem jurídica de cada uma
+    das Partes
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

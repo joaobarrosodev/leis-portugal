@@ -24,6 +24,16 @@ publication:
   pages: 4583 - 4586
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação pela qual cada uma das Partes comunique à outra o cumprimento dos respectivos requisitos
+    internos necessários para a sua entrada em vigor
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

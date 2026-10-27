@@ -23,9 +23,25 @@ publication:
   supplement: null
   pages: 4012-4013
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/08/31/141382346.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-01'
+entry_into_force:
+  date: '2020-09-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: '2020-12-31'
+  end_rule: até 31 de dezembro de 2020
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: art-5'
+    detail: até 31 de dezembro de 2020
 notes: []
 language: por
 version:

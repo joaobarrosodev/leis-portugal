@@ -22,16 +22,40 @@ publication:
   supplement: null
   pages: 4852 - 4854
   pdf_url: https://files.diariodarepublica.pt/1s/2011/11/21800/0485204854.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-11-15'
+entry_into_force:
+  date: '2011-11-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-12-28'
+version_history:
+  file: decreto-regulamentar-regional-8-2011-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-28'
+    amending: pt:dre:190271:por
+    amending_title: Decreto Regulamentar Regional n.º 37/2012/M
+    changes:
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/8/2011/11/14/m/dre/pt/html
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:47:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    37/2012/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/2011/decreto-regulamentar-regional-8-2011-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -429,6 +454,10 @@ e) Escola Profissional de São Martinho.
 2 - As competências, os direitos e as obrigações de que eram titulares os departamentos, organismos ou serviços são automaticamente transferidos para os correspondentes novos departamentos, organismos ou serviços que os substituem, sem dependência de quaisquer formalidades.
 
 3 - A superintendência e a tutela da administração pública regional indirecta das empresas do sector público regional, das sociedades participadas ou a elas equiparadas são exercidas pelo membro do Governo Regional que tenha a seu cargo o sector em que se integram, nos termos do presente diploma.
+
+4 - Ficam cometidas à Secretaria Regional da Educação e Recursos Humanos as atribuições referentes à manutenção e gestão dos recursos humanos bem como dos encargos respeitantes ao funcionamento do Parque Desportivo dos Trabalhadores, assim como o apoio à gestão das Casas da Madeira de Lisboa, Porto e Coimbra em território continental e na Região Autónoma dos Açores.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 37/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-2012-190271), publicado em 2012-12-27.
 
 ###### Artigo 12.º — Transferência de pessoal
 

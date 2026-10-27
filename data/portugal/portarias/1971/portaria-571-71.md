@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1552 - 1554
   pdf_url: https://files.diariodarepublica.pt/1s/1971/10/24500/15521554.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1971-12-02'
+entry_into_force:
+  date: '1971-12-02'
+  rule: quarenta e cinco dias após a data da sua publicação
+  method: clausula
+  article: n-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

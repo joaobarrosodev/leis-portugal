@@ -24,6 +24,15 @@ publication:
   pages: 418 - 424
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/023a00/04180424.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data em que dois ou mais Estados se tornem partes no Protocolo
+  method: clausula
+  article: art-v
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

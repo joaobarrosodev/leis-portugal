@@ -24,6 +24,16 @@ publication:
   pages: 9 - 37
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data da notificação pela última Parte da conclusão dos procedimentos jurídicos
+    necessários para o efeito
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

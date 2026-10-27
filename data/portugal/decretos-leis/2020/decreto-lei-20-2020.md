@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/085a00/0000200010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-05-02'
+entry_into_force:
+  date: '2020-05-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: '2020-05-03'
+  effects_rule: a 3 de maio de 2020, salvo no que concerne ao disposto no artigo 15.º-A do Decreto-Lei n.º 10-A/2020, de 13
+    de março, com a redação dada pelo presente decreto-lei, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

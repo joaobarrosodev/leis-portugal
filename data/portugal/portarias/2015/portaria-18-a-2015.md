@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 646-(71) a 646-(72)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02201/0007100072.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-02-03'
+entry_into_force:
+  date: '2015-02-03'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: '2015-06-30'
+  effects_rule: até 30 de junho de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

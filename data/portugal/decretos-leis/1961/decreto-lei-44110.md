@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1668 - 1669
   pdf_url: https://files.diariodarepublica.pt/1s/1961/12/29400/16681669.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1962-01-20'
+entry_into_force:
+  date: '1962-01-20'
+  rule: 30 dias após a data da sua publicação, transitando nessa data para cargo da nova Comissão as obras em curso nas Comissões
+    extintas, bem como todos os seus bens patrimoniais e os saldos das dotações qu
+  method: clausula
+  article: art-16-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

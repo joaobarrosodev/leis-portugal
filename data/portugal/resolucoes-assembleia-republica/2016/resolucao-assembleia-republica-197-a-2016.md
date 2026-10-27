@@ -24,6 +24,16 @@ publication:
   pages: 3374-(2) a 3374-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/18901/0000200018.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia após a data em que, pelo menos 55 Partes da Convenção, contabilizando no total, pelo menos, 55 por
+    cento do total das emissões globais de gases com efeito de estufa, tenham depositado
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

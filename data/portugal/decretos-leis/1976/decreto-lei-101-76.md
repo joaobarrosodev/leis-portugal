@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 248-(2) a 248-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/02801/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-02-03'
+entry_into_force:
+  date: '1976-02-03'
+  rule: na data da publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

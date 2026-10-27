@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 943 - 943
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/02400/0094300943.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-02-05'
+entry_into_force:
+  date: '2014-02-05'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2014-01-01'
+  effects_rule: desde 1 de janeiro de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

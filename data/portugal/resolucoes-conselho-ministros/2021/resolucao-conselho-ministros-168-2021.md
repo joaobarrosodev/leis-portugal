@@ -24,6 +24,15 @@ publication:
   pages: 3 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/23900/0000300003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no da seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

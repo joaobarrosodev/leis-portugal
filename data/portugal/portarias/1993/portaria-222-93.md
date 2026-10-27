@@ -24,6 +24,15 @@ publication:
   pages: 785 - 788
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/047b00/07850788.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a eventual revisão no dia útil seguinte à sua autorização
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

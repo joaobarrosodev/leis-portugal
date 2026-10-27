@@ -24,6 +24,15 @@ publication:
   pages: 852-(2) a 852-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/053b01/00020002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na Região Autónoma da Madeira em 5 de Março de 1998
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

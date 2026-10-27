@@ -24,6 +24,15 @@ publication:
   pages: 349 - 351
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05100/03490351.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até seis meses após a data em que for denunciado por uma das Partes contratantes
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1900 - 1908
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30200/19001908.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-02-22'
+entry_into_force:
+  date: '1969-02-22'
+  rule: sessenta dias depois da sua publicação no Diário do Governo, ficando os governadores autorizados a abrir os créditos
+    necessários para a sua execução
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 331 - 353
   pdf_url: https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas províncias de Angola, Moçambique e Macau, 60 dias depois da sua publicação no Diário do Governo
+  method: clausula
+  article: art-108
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4130 - 4132
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/100a00/41304132.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da última notificação pelas Partes, por escrito, cumpridos os respectivos procedimentos legais
+    internos exigidos para a sua entrada em vigor
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

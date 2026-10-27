@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 298-(2) a 298-(45)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/01/013a01/00020045.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-01-16'
+entry_into_force:
+  date: '1992-01-16'
+  rule: à data da publicação, integrando o orçamento por ele aprovado a parte do orçamento que tenha sido executada nos termos
+    do artigo 15.º da Lei n.º 6/91, de 20 de Fevereiro
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

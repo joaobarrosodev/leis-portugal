@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2536 - 2537
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/11500/0253602537.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-23'
+entry_into_force:
+  date: '2018-06-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2018-05-25'
+  effects_rule: a 25 de maio de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

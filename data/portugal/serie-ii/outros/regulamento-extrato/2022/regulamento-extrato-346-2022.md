@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 263 - 267
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/069000000/0026300267.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-08'
+entry_into_force:
+  date: '2022-04-08'
+  rule: no dia seguinte à data da publicação no Diário da República da deliberação do Plenário do Conselho Superior da Magistratura
+    que o aprove, sendo também publicitado no sítio da Internet do Conselho Supe
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

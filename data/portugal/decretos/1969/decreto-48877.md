@@ -24,6 +24,15 @@ publication:
   pages: 218 - 218
   pdf_url: https://files.diariodarepublica.pt/1s/1969/02/04500/02180218.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data fixada, para o início da vigência do Decreto n.º 48792, de 24 de Dezembro de 1968
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

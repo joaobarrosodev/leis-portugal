@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 8 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11500/0000800010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-16'
+entry_into_force:
+  date: '2023-06-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2022-10-01'
+  effects_rule: reportados a 1 de outubro de 2022, sem prejuízo dos casos de remunerações já pagas ou processadas em valores
+    superiores aos previstos no presente diploma
+  end_date: '2026-12-31'
+  end_rule: até 31 de dezembro de 2026
 end_of_validity_date: null
 legal_status: in_force
 notes: []

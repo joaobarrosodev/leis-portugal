@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 35 - 44
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16700/0003500044.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-28'
+entry_into_force:
+  date: '2021-08-28'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto no artigo seguinte
+  method: clausula
+  article: art-22
+  effects_date: '2021-08-16'
+  effects_rule: reportados a 16 de agosto de 2021, considerando-se ratificados ou confirmados todos os atos que tenham sido
+    praticados desde aquela data e cuja regularidade dependa da conformidade com o disposto no p
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

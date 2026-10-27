@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 70 - 71
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/249000000/0007000071.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-29'
+entry_into_force:
+  date: '2022-12-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 46-(2) a 46-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/22401/0000200004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 19 de novembro e
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até ao dia 30 de abril de 2022, sem prejuízo da sua eventual prorrogação
 end_of_validity_date: null
 legal_status: in_force
 notes: []

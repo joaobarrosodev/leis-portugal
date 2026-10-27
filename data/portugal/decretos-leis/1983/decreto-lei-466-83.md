@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4172-(181) a 4172-(182)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/30109/01810182.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-01-01'
+entry_into_force:
+  date: '1984-01-01'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

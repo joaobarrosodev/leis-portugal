@@ -25,6 +25,16 @@ publication:
   pages: 2498 - 2522
   pdf_url: https://files.diariodarepublica.pt/1s/1960/11/27000/24982522.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando tiver sido assinado em nome de governos cujas subscrições mínimas representem, pelo menos, 65 por cento do
+    total das subscrições enumeradas no anexo A e quando os instrumentos a que se refere a
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

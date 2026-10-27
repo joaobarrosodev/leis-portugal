@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2794-(2) a 2794-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/108b01/00020012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-11'
+entry_into_force:
+  date: '2001-05-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2001-05-01'
+  effects_rule: a partir de 1 de Maio de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

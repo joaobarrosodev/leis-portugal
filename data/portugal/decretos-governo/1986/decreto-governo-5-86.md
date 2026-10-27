@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1077 - 1078
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10500/10771078.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-05-09'
+entry_into_force:
+  date: '1986-05-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

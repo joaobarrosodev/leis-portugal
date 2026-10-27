@@ -1,0 +1,1122 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:322683:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-04-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a3a2de008536594b",
+    "8282d7c26a176f0c",
+    "86e07e8672df273a",
+    "95df842081a54f1f",
+    "d8199b298c482556",
+    "a8ef752ba477e57a",
+    "69538e0cfe9541df",
+    "c3e8ae6ce5346eca",
+    "8ff7b1ab1d8ab969",
+    "d0798c94b793ad69",
+    "75d1a15bc13a13bb",
+    "62b5a9f933441949",
+    "76f87c7452f844f9",
+    "e3ad3b40166c75ce",
+    "6e756caa514d4fbe",
+    "385d1965755b6965",
+    "6becf4c61a365be4",
+    "9c0980b0f05f99eb",
+    "3c6f47fcffa458e0",
+    "4bf051cacffaa560",
+    "3ee21cc12e7a3420"
+   ]
+  },
+  {
+   "date": "1967-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:312817:por",
+     "title": "Decreto n.º 47728",
+     "published": "1967-05-23",
+     "dre_path": "/dr/detalhe/decreto/47728-1967-312817"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 56.º",
+    "Altera Artigo 64.º",
+    "Altera Artigo 81.º"
+   ],
+   "fragments": [
+    "561ee5f7cad7bc9a",
+    "e73abae50ff7a9ed",
+    "95c74480e94c9b2a",
+    "2915d2c7fa9be5a7",
+    "fc6856a7dfdc3057",
+    "adeb08fc471dd4a7",
+    "b9cd4e814cdad1a0",
+    "86e07e8672df273a",
+    "d38dd2462876cf30",
+    "78684a1680682508",
+    "84f7ed7fc93605ec",
+    "d90277d3d3862cfb",
+    "bf41d860bfd2f094",
+    "3f92638b904586d8",
+    "7348087a95df7cf1",
+    "c6f42f732e9c84ba",
+    "8d268d0470741481",
+    "a6e0ff5ef19756cd",
+    "92049d901763cf53",
+    "ddf1dbe56ebc74e7",
+    "afa06c6bacde07d8",
+    "4313c5f9c1c285c1",
+    "160d67c1dbc81f23",
+    "0c4f405541f3fd8b",
+    "aa8cd28c4c613984",
+    "d620ba037959db89",
+    "fa8a577671ba69f6",
+    "f49f05a508fe9ae0",
+    "d5c34b4c2cf6545e",
+    "9fe65624840b86bd",
+    "0c9f5cf25d709b0e",
+    "d0798c94b793ad69",
+    "51163573397b6142",
+    "8fbfc756b48d0d74",
+    "2802b164d47d30c0",
+    "b73361b4a3bd6342",
+    "8e7e935d20789feb",
+    "5f27242cbc311d63",
+    "cf97611dd616c354",
+    "81173db69d51cb2b",
+    "37aa95ebdbfbad68",
+    "b88fb98508817d19",
+    "c34a933ababb49f7",
+    "f2c3f50645a8dd8b",
+    "76f87c7452f844f9",
+    "e3ad3b40166c75ce",
+    "23ef6a37e5d47a41",
+    "faf1a649899ea2ce",
+    "9904c2f621673de0",
+    "2978977b905afbf1",
+    "46917daf8c613af8",
+    "624e62e1852943b1",
+    "cbfe81ddd6ac8bbc",
+    "7c1494e5ddc0a5ad",
+    "de4c6703779d9150",
+    "26dda35220683887",
+    "61faabf2ca461ad7",
+    "e5391a4a2f7558f7",
+    "bdf058a85f56004a",
+    "5c78d6a18346cea0",
+    "75851f41e01be538",
+    "f23d19ec29431989",
+    "2289316b63b437de",
+    "dc07507142bdbcba",
+    "46b05efecd4ea117",
+    "533ae8643ac6f7eb",
+    "ef952c11ccf36e20",
+    "030b41e8b1aece7e",
+    "6becf4c61a365be4",
+    "23ef6a37e5d47a41",
+    "596601e3613de7a8",
+    "e5a5b055fc00a065",
+    "a1a754ecd63d66bd",
+    "43358dacd93fb33c",
+    "35a9859af008757b",
+    "a4f9fab7eb5edc3a",
+    "46917daf8c613af8",
+    "e77e4b2437e8d6e4",
+    "c06f7cd099d8f146",
+    "52ed19a3ef85ee45",
+    "407ab58a7f6cd7c9",
+    "10ad46a673bf0a42",
+    "56009c57c07fa5c1",
+    "ec55eec435265abb",
+    "22406811722c4042",
+    "9cb598d0ec550ccc",
+    "8ad7bc3a9e34798c",
+    "acc9883ec78d995d",
+    "8698994d94d7a894",
+    "1b1b6e27af3cf715",
+    "1d0a49b83d080105",
+    "fa3b32b807d3a021",
+    "a4bb4762b7f0608b",
+    "74e2f2f3adb2cc37",
+    "d19e587f3be1fbbe",
+    "45fd14904656bcde",
+    "630804cecae5342e",
+    "e17df0d8345cbaa3",
+    "a5a6aa1d1c387fe7",
+    "bebe96dca0c57989",
+    "dad8d56b2ba9f9da",
+    "52250fbdde2b82f6",
+    "876e37fd75a139e9",
+    "6ab9082e78586e7f",
+    "cc7a02c22a267482"
+   ]
+  }
+ ],
+ "fragments": {
+  "a3a2de008536594b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo único. É aprovado o Regulamento da Direcção-Geral dos Serviços Tutelares de Menores, que segue assinado pelo Ministro da Justiça.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 20 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela.\n\nRegulamento da Direcção-Geral dos Serviços Tutelares de Menores"
+  },
+  "8282d7c26a176f0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Da competência, organização e distribuição dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Da competência, organização e distribuição dos serviços\n\nArtigo 1.º Compete à Direcção-Geral dos Serviços Tutelares de Menores dirigir os serviços de justiça relativos aos menores sujeitos a jurisdição especializada, promover a execução das medidas decretadas pelos tribunais de menores, orientar os serviços de assistência social e superintender nos estabelecimentos dependentes.\n\nArt. 2.º A Direcção-Geral dos Serviços Tutelares de Menores compreende:\n\na) Os serviços centrais;\n\nb) Os serviços dependentes.\n\nArt. 3.º - 1. Os serviços centrais são constituídos por uma repartição com duas secções, o gabinete de estudos, os serviços de assistência social e o serviço de inspecção.\n\n2. Junto dos serviços centrais funcionam o conselho administrativo e o conselho da Direcção-Geral.\n\nArt. 4.º - 1. Os serviços dependentes compreendem os tribunais e os estabelecimentos tutelares de menores.\n\n2. Nos estabelecimentos estão abrangidos:\n\na) Os centros de observação anexos aos tribunais centrais de menores;\n\nb) Os institutos médico-psicológicos;\n\nc) Os institutos de reeducação;\n\nd) Os lares de semi-internato;\n\ne) Os lares de semiliberdade;\n\nf) Os lares de patronato."
+  },
+  "86e07e8672df273a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Dos serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Dos serviços centrais"
+  },
+  "95df842081a54f1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Da repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Da repartição\n\nArt. 5.º - 1. Compete à repartição da Direcção-Geral, por intermédio da 1.ª secção:\n\na) Organizar e manter actualizados o cadastro e registo biográfico dos funcionários dos serviços dependentes;\n\nb) Realizar o expediente relativo ao pessoal dos serviços dependentes;\n\nc) Lavrar os autos de posse dos funcionários integrados em quadro único e que não sejam autorizados pelo director-geral a tomar posse perante os directores dos estabelecimentos onde vão prestar serviço;\n\nd) Fornecer à Secretaria-Geral os elementos necessários à organização dos processos de nomeação, transferência, promoção, concessão de licenças e aposentação respeitantes aos funcionários dos serviços centrais;\n\ne) Estudar e informar os processos relativos a menores sujeitos à acção tutelar dos tribunais de menores, dando execução às decisões por estes proferidas e propondo ao Ministro da Justiça o estabelecimento em que devam ser cumpridas as medidas decretadas;\n\nf) Organizar e manter constantemente actualizados os processos individuais e os ficheiros dos menores afectos aos tribunais de menores e colocados em quaisquer estabelecimentos tutelares ou sujeitos ao regime de liberdade assistida ou condicional;\n\ng) Organizar os processos e realizar o expediente de todos os assuntos que tenham de ser presentes ao Conselho Superior dos Serviços Criminais e dar execução às suas decisões, depois de homologadas pelo Ministro da Justiça.\n\n2. Compete-lhe ainda, por intermédio da 2.ª secção:\n\na) Organizar o expediente do conselho administrativo da Direcção-Geral, preparando os assuntos da sua competência e dando execução às suas deliberações;\n\nb) Elaborar os projectos dos orçamentos, tanto da Direcção-Geral e da Federação Nacional das Instituições de Protecção à Infância, como dos serviços dependentes sem autonomia administrativa;\n\nc) Elaborar o inventário da Direcção-Geral;\n\nd) Conferir, registar e processar as despesas dos serviços dependentes sem autonomia, administrativa, designadamente as relativas a vencimentos e demais remunerações do pessoal;\n\ne) Processar as despesas relativas a transportes, ajudas de custo e deslocação do pessoal e as de transferências e remoções de menores;\n\nf) Propor a atribuição de subsídios aos estabelecimentos, pelo orçamento da Federação;\n\ng) Efectuar o serviço de contabilidade da Federação;\n\nh) Estudar e informar os projectos dos orçamentos das receitas próprias e respectivas alterações, bem como os projectos respeitantes ao Orçamento Geral do Estado e respectivas alterações dos serviços dependentes com autonomia administrativa;\n\ni) Propor a atribuição de subsídios em conta de receitas próprias arrecadadas pelos estabelecimentos.\n\nArt. 6.º Para os efeitos do disposto na alínea h) do n.º 2 do artigo anterior, devem os directores dos serviços dependentes remeter à Direcção-Geral, até 31 de Maio de cada ano, os projectos dos orçamentos privativos respeitantes ao Orçamento Geral do Estado para o ano imediato e, até 31 de Outubro, os projectos dos orçamentos das receitas próprias.\n\nArt. 7.º - 1. O director-geral é substituído nas suas faltas ou impedimentos pelo chefe da repartição.\n\n2. O director-geral pode delegar no chefe da repartição a assinatura das folhas de vencimentos e outras despesas, o visto das requisições de fundos e a autorização para o processamento de despesas resultantes de contratos ou sancionadas superiormente."
+  },
+  "d8199b298c482556": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Do gabinete de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Do gabinete de estudos\n\nArt. 8.º O gabinete de estudos da Direcção-Geral dos Serviços Tutelares de Menores funcionará na imediata dependência do director-geral.\n\nArt. 9.º Compete ao gabinete de estudos:\n\na) Organizar e manter actualizada, sob a orientação técnica do bibliotecário-arquivista do Ministério, uma biblioteca especializada em matérias de direito tutelar de menores e de psicologia, pedagogia e psiquiatria infantis e juvenis;\n\nb) Fazer o registo e sinopse geral da legislação e dos despachos, instruções e circulares que interessem aos serviços;\n\nc) Organizar os processos relativos à resolução das dúvidas e consultas suscitadas na execução das leis e regulamentos dos serviços tutelares de menores;\n\nd) Coligir e coordenar os acórdãos dos tribunais superiores em matéria de recursos das decisões dos tribunais de menores, assim como os despachos e sentenças destes tribunais, de carácter doutrinário ou interpretativo;\n\ne) Organizar e manter actualizados ficheiros ou verbetes alfabetados de temas doutrinários e de legislação comparada constantes de livros, publicações periódicas, diplomas legais ou de quaisquer outros documentos que interessem ao direito tutelar de menores;\n\nf) Promover, por meio de assinatura ou de permuta, a aquisição de publicações periódicas nacionais e estrangeiras que se ocupem da protecção social e jurídica de menores;\n\ng) Coligir os elementos relativos aos trabalhos e às recomendações e conclusões dos congressos e reuniões nacionais e estrangeiros em que sejam versados os problemas da infância e da juventude;\n\nh) Recolher e coordenar os dados estatísticos referentes aos tribunais de menores e aos estabelecimentos, designadamente no que se refere a decisões, medidas aplicadas, auxílio social e patronato, o os demais elementos capazes de facilitar a preparação do relatório anual que o director-geral deve submeter à apreciação do Conselho Superior dos Serviços Criminais;\n\ni) Cuidar, em colaboração com a Escola Prática de Ciências Criminais da formação e aperfeiçoamento técnico e moral do funcionalismo dos serviços tutelares de menores, mediante a organização de reuniões periódicas de estudos para o pessoal superior e de cursos ou estágios, nos próprios estabelecimentos, para o pessoal que tenha a seu cargo o ensino, a reeducação ou a vigilância dos menores;\n\nj) Estudar as directrizes gerais que devem orientar, no sentido do seu constante aperfeiçoamento, a vida em internato, designadamente quanto aos métodos pedagógicos a seguir, ao ensino escolar e profissional, à assistência médica e religiosa, à educação física e às práticas desportivas e à melhor ocupação dos tempos livres;\n\nl) Colaborar e permutar elementos com os Serviços oficiais de países estrangeiros e bem assim com as associações ou fundações nacionais e estrangeiras que se dediquem ao estudo dos problemas respeitantes à jurisdição de menores;\n\nm) Assegurar o expediente relativo às relações resultantes da representação a que se refere o artigo 79.º\n\nn) Publicar, como órgão da Direcção-Geral e da Federação e pelas verbas do orçamento desta, o boletim informativo da actividade dos serviços, destinado ao estudo e divulgação dos temas doutrinários do direito tutelar de menores;\n\no) Assegurar as relações com as entidades nacionais filiadas na Federação, a que se refere o artigo 80.º;\n\np) Promover, em colaboração com o Boletim do Ministério da Justiça, a edição dos textos legais mais importantes relativos aos serviços tutelares de menores."
+  },
+  "a8ef752ba477e57a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Dos serviços de assistência social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Dos serviços de assistência social\n\nArt. 10.º Os serviços de assistência social, dirigidos pelo inspector, funcionam na imediata dependência do director-geral.\n\nArt. 11.º Aos serviços de assistência social incumbe especialmente:\n\na) Realizar os estudos e inquéritos sociais necessários ao conhecimento dos menores, em ordem à fixação da medida a aplicar pelo tribunal, à individualização do seu tratamento e à preparação da sua readaptação à vida livre;\n\nb) Estabelecer com as famílias dos menores em observação ou internados nos estabelecimentos as necessárias relações de auxílio e de esclarecimento, procurando remediar as causas familiares que hajam dado lugar à intervenção do tribunal;\n\nc) Vigiar e orientar os menores em liberdade assistida e condicional;\n\nd) Orientar o patronato dos menores sujeitos à jurisdição dos tribunais tutelares e dos antigos internados dos estabelecimentos, procurando durante o período necessário à sua readaptação social ampará-los moral e materialmente;\n\ne) Organizar os lares de patronato destinados aos antigos internados que necessitem ainda de amparo moral ou protecção especial e assegurar o respectivo serviço social;\n\nf) Procurar junto das entidades patronais a obtenção de trabalho para os menores em regime de semi-internato e de semiliberdade ou na situação de liberdade assistida ou condicional e pós-internato;\n\ng) Proceder a inquéritos e à elaboração de relatórios destinados a instruir os processos cíveis da competência dos tribunais de menores;\n\nh) Orientar e vigiar as pessoas em relação às quais tenha sido instituído o regime da assistência educativa;\n\ni) Fiscalizar a assistência de menores a espectáculos públicos, nos termos da legislação respectiva;\n\nj) Dar parecer, a solicitação da Direcção-Geral do Trabalho e Corporações, sobre os pedidos de autorização do trabalho de menores e bem assim fiscalizar as condições em que é exercido;\n\nl) Fomentar a constituição das instituições particulares que se dediquem a rectificação ou regeneração de menores e estudar os critérios a observar na colaboração e cooperação entre a assistência social dos serviços tutelares de menores e os particulares ou entidades particulares especializadas;\n\nm) Organizar em termos eficientes a colaboração da assistência social dos serviços tutelares de menores com os organismos oficiais ou particulares que tenham a seu cargo a resolução dos problemas de assistência, saúde, educação e trabalho, e designadamente com o Instituto de Assistência à Família e o Instituto de Assistência aos Menores."
+  },
+  "69538e0cfe9541df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Do serviço de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Do serviço de inspecção\n\nArt. 12.º As inspecções têm como principal objectivo revelar o grau de eficiência dos serviços, a fim de as entidades competentes mais eficazmente os poderem orientar, uniformizando os critérios de actuação do funcionalismo, corrigindo as imperfeições e suprimindo as deficiências, tanto de organização como de funcionamento, dos diversos estabelecimentos. Simultâneamente, destinam-se a coligir os elementos necessários para a classificação dos funcionários e para a justa punição das irregularidades apuradas.\n\nArt. 13.º A Direcção-Geral providenciará para que sejam inspeccionados, pelo menos de dois em dois anos, os estabelecimentos dependentes, sem exclusão dos lares de semi-internato, de semiliberdade e de patronato.\n\nArt. 14.º Está sujeita a inspecção normal a actividade de todos os funcionários dos estabelecimentos dependentes da Direcção-Geral, devendo ser classificado o pessoal pertencente às categorias que vierem a ser fixadas por despacho do Ministro da Justiça.\n\nArt. 15.º - 1. O serviço dos funcionários inspeccionados será classificado, consoante o seu merecimento, com as notas de Muito bom, Bom, Suficiente, Medíocre e Mau.\n\n2. A nota de Muito bom não pode ser concedida a funcionários com menos de três anos de serviço inspeccionado nem aos que há menos de três anos tenham tido classificação inferior à de Bom.\n\n3. Tanto aos funcionários classificados de Mau como àqueles que, em duas classificações seguidas ou em três interpoladas, hajam obtido a nota de Medíocre é imediatamente instaurado processo disciplinar por incompetência para o exercício do cargo.\n\nArt. 16.º Se nas inspecções, inquéritos ou sindicâncias forem apuradas quaisquer infracções disciplinares, o director-geral mandará instaurar o processo disciplinar correspondente.\n\nArt. 17.º Nos serviços de inspecções, inquéritos, sindicâncias e processos disciplinares os instrutores podem ser auxiliados por secretários da sua confiança, cuja nomeação será proposta ao director-geral."
+  },
+  "c3e8ae6ce5346eca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO V — Do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO V — Do conselho administrativo\n\nArt. 18.º - 1. O conselho administrativo é composto pelo director-geral, que preside, pelo chefe da repartição e pelo representante do Ministério das Finanças.\n\n2. O conselho administrativo reúne semanalmente e, mediante convocação do presidente, sempre que se torne necessário.\n\n3. Serve de secretário, sem direito a voto, o chefe da 2.ª secção.\n\nArt. 19.º Cabe ao conselho administrativo:\n\na) Propor à aprovação superior os orçamentos da Federação correspondentes aos subsídios inscritos no Orçamento Geral do Estado e administrar as respectivas verbas;\n\nb) Dar parecer sobre a atribuição de subsídios em conta das receitas próprias dos serviços dependentes e sobre os respectivos orçamentos;\n\nc) Zelar pelos interesses patrimoniais da Federação;\n\nd) Informar as propostas de alteração dos quadros de pessoal a pagar por força dos orçamentos de receitas próprias.\n\nArt. 20.º - 1. Pode ser atribuída ao conselho administrativo, por determinação do Ministro da Justiça, a administração das verbas das obras de construção, reparação ou conservação de edifícios destinados à instalação de estabelecimentos tutelares de menores, quando entregues ao trabalho prisional, nos termos do § 2.º do artigo 13.º do [Decreto-Lei n.º 40876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40876-1956-298634), de 24 de Novembro de 1956.\n\n2. O conselho administrativo tem a faculdade de delegar nos conselhos administrativos dos serviços dependentes a administração das verbas a que se refere o número anterior e recorrer aos serviços de funcionários ou de pessoas estranhas particularmente qualificadas, aos quais poderá ser atribuída uma gratificação correspondente às tarefas exigidas e à duração provável da obra.\n\n3. Nos casos previstos na alínea a) do artigo anterior e no n.º 1 deste artigo, o conselho administrativo prestará directamente contas ao Tribunal de Contas ou ao Ministro da Justiça, consoante a determinação da lei."
+  },
+  "8ff7b1ab1d8ab969": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO VI — Do conselho da Direcção-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO VI — Do conselho da Direcção-Geral\n\nArt. 21.º - 1. O conselho da Direcção-Geral, ao qual compete classificar os funcionários referidos no artigo 14.º, é constituído pelo director-geral, que preside, pelo chefe da repartição e pelo inspector.\n\n2. O conselho reúne-se quando convocado pelo presidente."
+  },
+  "d0798c94b793ad69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Dos serviços dependentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Dos serviços dependentes"
+  },
+  "75d1a15bc13a13bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Dos tribunais tutelares de menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Dos tribunais tutelares de menores\n\nArt. 22.º Os tribunais tutelares de menores regem-se pelas disposições da Organização Tutelar de Menores e dependem da Direcção-Geral respectiva nos mesmos termos em que os tribunais comuns dependem da Direcção-Geral da Justiça."
+  },
+  "62b5a9f933441949": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Dos estabelecimentos\n\nArt. 23.º Em cada estabelecimento tutelar de menores com autonomia administrativa haverá serviços de secretaria, de contabilidade e de economato, um conselho administrativo e um conselho pedagógico, com as atribuições que por lei lhes forem conferidas.\n\nArt. 24.º São estabelecimentos com autonomia administrativa:\n\na) Os centros de observação anexos aos Tribunais Centrais de Menores de Lisboa, Porto e Coimbra;\n\nb) O Instituto de Reeducação Padre António de Oliveira, para o sexo masculino, em Caxias;\n\nc) O Instituto de S. Domingos de Benfica, para o sexo feminino, em Lisboa;\n\nd) O Instituto de Reeducação de S. Fiel, para o sexo masculino, em Louriçal do Campo;\n\ne) O Instituto de Reeducação da Guarda, para o sexo masculino, na Guarda;\n\nf) O Instituto de Reeducação de Vila Fernando, para o sexo masculino, em Vila. Fernando;\n\ng) O Instituto de Reeducação de S. Bernardino, para o sexo feminino, em Atouguia da Baleia (Peniche).\n\n1) Do conselho administrativo\n\nArt. 25.º - 1. O conselho administrativo é constituído pelo director, que preside, pelo secretário e pelo ecónomo.\n\n2. O contabilista e o funcionário encarregado da tesouraria podem assistir às sessões do conselho, quando convocados pelo director, mas com voto meramente consultivo.\n\n3. Nas suas faltas ou impedimentos, o secretário e o ecónomo são substituídos pelos funcionários mais graduados dos serviços administrativos e de contabilidade propostos pela direcção do estabelecimento.\n\nNos estabelecimentos em cujos quadros não esteja previsto o lugar de ecónomo, faz parte do conselho administrativo, em seu lugar, o funcionário designado pela Direcção-Geral, sob proposta do director do estabelecimento.\n\n4. O director pode, excepcionalmente e sob sua exclusiva responsabilidade, decidir contra o voto do conselho e determinar também, sem prévia consulta, a realização de qualquer despesa em caso de urgência.\n\nSe estas resoluções não forem sancionadas na primeira reunião do conselho administrativo, será o facto comunicado à Direcção-Geral, que, não podendo decidir, submeterá a resolução, conforme os casos, mas sempre com a devida informação, à aprovação dos Ministros da Justiça ou das Finanças, por intermédio da 4. ª Repartição da Direcção-Geral da Contabilidade Pública.\n\nArt. 26.º - 1. Ao conselho administrativo compete providenciar sobre todos os assuntos de carácter administrativo cuja apreciação lhe seja cometida pela lei, pelos regulamentos ou pela Direcção-Geral, e designadamente:\n\na) Examinar as contas, ordenar os respectivos pagamentos e fornecer os fundos necessários para eles;\n\nb) Cobrar e arrecadar as receitas;\n\nc) Examinar os documentos das despesas efectuadas e decidir sobre a sua aprovação;\n\nd) Deliberar sobre os preços dos géneros e artefactos produzidos no estabelecimento e a oportunidade da sua venda;\n\ne) Remeter à Direcção-Geral, nos prazos devidos, os projectos dos orçamentos;\n\nf) Efectuar, no fim de cada mês, o balanço do cofre e promover o depósito, na delegação da Caixa Geral de Depósitos da sede do concelho em que esteja instalado o estabelecimento, dos fundos cuja existência no cofre não seja necessária para despesas urgentes;\n\ng) Remeter a conta de gerência, ao Tribunal de Contas até 31 do Maio do ano seguinte àquele a que a conta respeite;\n\nh) Administrar a cantina;\n\n2. Os fundos dispensáveis são depositados por meio de guias passadas pelo secretário e assinadas pelo presidente e ficam à ordem do conselho administrativo, que só os pode levantar por meio de cheques assinados pelos seus membros.\n\n2) Do conselho pedagógico\n\nArt. 27.º - 1. O conselho pedagógico dos centros de observação é constituído pelo director, que preside, pelo médico, pelo psicólogo, por um assistente ou auxiliar social e pelo educador adjunto.\n\n2. Do conselho pedagógico do Centro de Observação anexo ao Tribunal Central de Menores de Lisboa faz parte um dos psicólogos do Instituto Navarro de Paiva.\n\nArt. 28.º O conselho pedagógico dos institutos de reeducação é constituído pelo director, que preside, pelo médico, pelo assistente religioso, pelo chefe de oficinas e pelo educador adjunto.\n\nArt. 29.º O conselho pedagógico dos institutos médico-psicológicos é constituído pelo director, que preside, pelo médico-psiquiatra, por um dos psicólogos e pelo assistente social.\n\nArt. 30.º Sempre que as circunstâncias o aconselhem, pode o Ministro da Justiça, sob proposta da Direcção-Geral, determinar constituição diferente para o conselho pedagógico dos estabelecimentos.\n\nArt. 31.º Ao conselho pedagógico como órgão consultivo, compete pronunciar-se sobre todos os assuntos que respeitem ao tratamento dos menores com vista à sua melhor recuperação social e designadamente:\n\na) Sobre os programas das actividades pedagógicas do estabelecimento, a submeter à aprovação superior;\n\nb) Sobre as propostas de revisão da situação dos menores e sobre todos os assuntos que devam ser submetidos à apreciação dos tribunais tutelares;\n\nc) Sobre a colocação dos internados em lar de semiliberdade."
+  },
+  "76f87c7452f844f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Do pessoal"
+  },
+  "e3ad3b40166c75ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Das atribuições do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Das atribuições do pessoal"
+  },
+  "6e756caa514d4fbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Dos serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Dos serviços centrais\n\nArt. 32.º São aplicáveis às atribuições dos funcionários da Direcção-Geral, na falta de disposição especial, as normas constantes da lei orgânica da Direcção-Geral da Justiça e respectivo regulamento.\n\nArt. 33.º Além das funções próprias da inspecção, compete ao inspector dirigir coordenar e fiscalizar a actividade dos assistentes e auxiliares sociais e bem assim estudar e propor a sua distribuição pelos serviços centrais e dependentes.\n\nArt. 34.º - 1. Aos assistentes e auxiliares sociais incumbe a execução das tarefas próprias do serviço de assistência social dos serviços tutelares de menores.\n\n2. Cada assistente ou auxiliar social anotará em livro próprio, fornecido pela Direcção-Geral, a descrição sucinta das diligências, tanto internas como externas, diàriamente executadas, com menção do local e das pessoas junto de quem foram efectuadas."
+  },
+  "385d1965755b6965": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Dos estabelecimentos dependentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Dos estabelecimentos dependentes\n\nArt. 35.º As atribuições do pessoal dos estabelecimentos dependentes da Direcção-Geral são as fixadas na lei, nos regulamentos privativos ou em ordem de serviço, superiormente homologada.\n\nArt. 36.º - 1. A todo o pessoal em serviço nos estabelecimentos cumpre, em geral:\n\na) Exercer com zelo, competência, e assiduidade as funções que lhe estejam confiadas;\n\nb) Guardar sigilo sobre os assuntos de serviço que não esteja expressamente autorizado a revelar;\n\nc) Proceder, tanto no serviço, como na vida, privada, com irrepreensível correcção e aprumo, de modo a constituir em todas as circunstâncias um exemplo de compostura, moralidade e civismo;\n\nd) Informar com escrúpulo, isenção e justiça a respeito dos seus inferiores hierárquicos e tratar, em todas as circunstâncias, com a devida deferência e respeito, os seus superiores na escala hierárquica;\n\ne) Abster-se de manifestar pùblicamente qualquer discordância sobre o funcionamento dos serviços;\n\nf) Tratar os menores com espírito humanitário e sempre em termos correctos;\n\ng) Prestar leal e activa colaboração aos superiores e colegas de trabalho.\n\n2. O pessoal é obrigado ao desempenho não só dos serviços que lhe competirem nos termos do presente decreto e dos regulamentos privativos dos estabelecimentos, mas também de quaisquer outros que lhe forem incumbidos por determinação superior, de acordo com a sua categoria, aptidão e habilitações.\n\nArt. 37.º - 1. Aos directores dos estabelecimentos incumbe, em geral:\n\na) Superintender em todos os serviços que lhes estão subordinados, zelar pelo seu bom funcionamento e propor superiormente as medidas que reputem convenientes para o seu aperfeiçoamento;\n\nb) Assegurar o exacto cumprimento da lei e regulamentos, das decisões e despachos dos tribunais tutelares e das instruções da Direcção-Geral;\n\nc) Promover e fiscalizar a execução das deliberações do conselho administrativo;\n\nd) Coordenar os diferentes serviços do estabelecimento e a acção de todos os funcionários;\n\ne) Exercer acção disciplinar sobre o pessoal, nos termos legais;\n\nf) Promover a formação e o aperfeiçoamento profissionais dos funcionários;\n\ng) Classificar anualmente o serviço do pessoal que lhes está subordinado, remetendo as respectivas informações à Direcção-Geral até ao dia 15 do mês de Janeiro do ano imediato;\n\nh) Orientar, em harmonia com as directivas fixadas superiormente, a educação e o ensino escolar e profissional dos menores, bem como as diferentes formas de aproveitamento do tempo livre;\n\ni) Requisitar a quaisquer entidades as informações e inquéritos necessários ao estudo da personalidade, carácter e antecedentes dos menores ou à investigação das condições do meio donde provêm;\n\nj) Preparar o regresso dos menores à vida livre e promover a sua colocação, em cooperação com as famílias e com os serviços de assistência social;\n\nl) Submeter à Direcção-Geral, devidamente informados, todos os assuntos que careçam de resolução superior;\n\nm) Elaborar um relatório anual sobre as diferentes actividades do estabelecimento, enviando-o à Direcção-Geral até ao dia 31 de Março do ano imediato;\n\nn) Elaborar e propor superiormente os regulamentos internos indispensáveis à boa organização e funcionamento dos serviços.\n\n2. Nas suas faltas ou impedimentos, o director é substituído pelo funcionário que, sob proposta da Direcção-Geral, for designado pelo Ministro da Justiça.\n\nArt. 38.º Aos secretários compete, em geral:\n\na) Executar e fazer executar o expediente da secretaria;\n\nb) Organizar e manter em ordem o arquivo e a biblioteca do estabelecimento;\n\nc) Manter permanentemente actualizado o cadastro dos funcionários e elaborar os respectivos mapas de assiduidade;\n\nd) Preparar os elementos requeridos para a organização dos processos de nomeação, promoção, transferência e aposentação;\n\ne) Manter devidamente escriturados os necessários livros de registo e passar certidões sobre assuntos da sua competência, depois de autorizadas superiormente.\n\nArt. 39.º Aos contabilistas compete, em geral:\n\na) Organizar o projecto do Orçamento Geral do Estado na parte respeitante ao estabelecimento, os projectos dos orçamentos de receitas próprias e escriturar as despesas realizadas;\n\nb) Processar folhas de vencimentos e salários e mais abonos do pessoal;\n\nc) Elaborar a conta de gerência e os mapas de previsão de receitas;\n\nd) Efectuar as requisições de fundos necessárias em conta dos orçamentos;\n\ne) Coligir e organizar elementos estatísticos relativos às diferentes actividades económicas do estabelecimento.\n\nArt. 40.º Compete aos ecónomos e fiscais de oficinas:\n\na) Providenciar sobre a conservação e segurança dos bens afectos ao estabelecimento e elaborar os respectivos mapas de inventário;\n\nb) Registar as entradas e saídas de géneros e proceder à sua distribuição para a preparação das refeições, fiscalizando a confecção destas;\n\nc) Requisitar aos fornecedores, mediante visto do director, todos os artigos necessários ao estabelecimento;\n\nd) Satisfazer as requisições das secções e oficinas, depois de visadas;\n\ne) Fiscalizar a actividade económica das oficinas e explorações agrícolas, designadamente quanto ao rendimento e aproveitamento de materiais;\n\nf) Proceder à venda dos produtos do estabelecimento, mediante autorização do conselho administrativo;\n\ng) Fornecer à contabilidade os elementos necessários à escrituração respectiva.\n\nArt. 41.º Aos educadores incumbe, em geral:\n\na) Ministrar o ensino segundo os programas oficiais, mediante o emprego dos métodos pedagógicos mais apropriados;\n\nb) Exercer sobre os menores uma acção pedagógica individualizada, de forma a obter o melhor rendimento escolar compatível com as aptidões de cada um deles;\n\nc) Observar, individualmente e em grupo, os menores que lhes estão confiados, com vista a fornecer ao conselho pedagógico os elementos necessários para a fixação da orientação educativa mais adequada;\n\nd) Exercer sobre cada menor uma acção educativa pessoal semelhante à de um bom pai de família;\n\ne) Orientar os monitores da respectiva secção na sua actuação junto dos menores;\n\nf) Orientar as actividades extra escolares ou extra profissionais no sentido da maior valorização física, moral e intelectual dos menores;\n\ng) Respeitar e fazer respeitar a índole cristã do ensino e da educação;\n\nh) Ser afáveis no trato com os menores, sem deixarem de ser exigentes quanto ao cumprimento das obrigações escolares ou outras e, particularmente, quanto ao acatamento das normas essenciais à disciplina do estabelecimento;\n\ni) Manter permanentemente actualizado e coordenado um registo objectivo das observações do pessoal da secção sobre a conduta e aproveitamento de cada menor e bem assim das diferentes manifestações que possam interessar para conhecimento do seu carácter e tendências;\n\nj) Efectuar os inquéritos sociais que lhes sejam ordenados pelo director relativos aos menores internados no estabelecimento;\n\nl) Zelar pela boa conservação e racional utilização das instalações afectas à sua secção, equipamento, roupas e utensílios.\n\nArt. 42.º - 1. Em cada estabelecimento pode haver um educador adjunto, designado por despacho ministerial de entre os educadores do quadro, o qual será incumbido de assegurar o regular funcionamento e o aperfeiçoamento dos serviços escolares, educativos e disciplinares do estabelecimento, servindo ao mesmo tempo de secretário do conselho pedagógico.\n\n2. As funções de educador adjunto podem ser retribuídas por gratificação, que será fixada por despacho do Ministro da Justiça, nos termos do artigo 25.º do [Decreto-Lei n.º 44287](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44287-1962-322681), de 20 de Abril de 1962.\n\nArt. 43.º Aos monitores incumbe, em geral:\n\na) Acompanhar, vigiar e orientar os menores fora das horas de aula ou de trabalho;\n\nb) Respeitar a índole cristã da educação;\n\nc) Ser afáveis no trato com os menores, sem deixarem de ser exigentes relativamente à observância das normas essenciais à disciplina;\n\nd) Velar pelo asseio, ordem e arranjo pessoal dos menores e das instalações materiais que estes ocupam.\n\nArt. 44.º - 1. Aos assistentes religiosos compete assegurar a prática dos actos do culto católico, a assistência espiritual aos internados e funcionários que a desejem e o ensino da religião e da moral.\n\n2. De acordo com a direcção dos estabelecimentos, podem os assistentes religiosos organizar associações de piedade, de estudo e de acção, quer entre os menores, quer entre o pessoal.\n\nArt. 45.º - 1. Durante os impedimentos, os assistentes religiosos assegurarão a sua substituição por outros sacerdotes.\n\n2. Quando o impedimento for motivado pelo cumprimento de obrigações decorrentes do seu múnus religioso, a substituição dos assistentes deve ser assegurada pela autoridade eclesiástica competente.\n\nArt. 46.º Aos médicos incumbe, em geral:\n\na) Proceder a um exame completo de cada menor na altura da sua admissão no estabelecimento e da saída em liberdade condicional ou definitiva ou por motivo de transferência;\n\nb) Efectuar ou promover a observação e os exames necessários ao estudo psicossomático dos menores e à instrução dos respectivos processos, nesse aspecto especial;\n\nc) Vigiar o estado de saúde e o desenvolvimento físico e psíquico dos menores, prestar-lhes a assistência médica necessária ou promover à sua observação e tratamento em serviços especializados, quando necessário;\n\nd) Efectuar as vacinações e outros tratamentos profilácticos que se mostrem necessários ou que obedeçam às prescrições da Direcção-Geral de Saúde;\n\ne) Estudar e propor o regime geral de alimentação, fiscalizando as condições de higiene dos alimentos e da sua preparação, e bem assim fixar os regimes dietéticos especiais;\n\nf) Organizar o ficheiro clínico dos internados preenchendo-o com todas as indicações necessárias ao perfeito conhecimento de cada um deles;\n\ng) Superintender nas enfermarias e anexos e no respectivo pessoal, assim como na guarda dos medicamentos e sua utilização;\n\nh) Proceder à verificação do estado de doença dos funcionários e dar parecer sobre os requerimentos de licença para tratamento;\n\ni) Examinar os candidatos admitidos aos concursos para o provimento de lugares dos quadros dos serviços tutelares de menores, nos casos previstos no presente diploma.\n\nArt. 47.º Aos enfermeiros compete anotar e executar rigorosamente as prescrições dos médicos, designadamente os curativos e tratamentos que lhes sejam determinados, velar pela boa ordem, higiene e asseio das enfermarias e suas dependências, e ainda zelar pela boa conservação dos medicamentos em depósito e pela sua utilização em rigorosa harmonia com as prescrições clínicas.\n\nArt. 48.º Aos psicólogos incumbe assegurar o cumprimento das funções que na Organização Tutelar de Menores são especificadamente conferidas ao serviço de observação psicológica e de orientação profissional, e ainda colaborar na orientação do trabalho dos educadores e dos mestres.\n\nArt. 49.º Aos mestres e contramestres compete:\n\na) Ministrar o ensino teórico e prático da respectiva modalidade profissional, procurando inculcar e desenvolver hábitos de trabalho nos menores que lhes estão confiados;\n\nb) Tomar as precauções necessárias para evitar acidentes e instruir os menores sobre as normas de segurança a observar;\n\nc) Propor os prémios e salários que devam ser atribuídos aos menores;\n\nd) Manter permanentemente actualizado um registo da conduta dos menores durante a sua permanência nos locais de trabalho e do seu aproveitamento profissional;\n\ne) Velar pela manutenção e conservação das máquinas, ferramentas e materiais e bem assim pelo arranjo e limpeza dos locais de trabalho;\n\nf) Registar as entradas e saídas de materiais, bem como a sua utilização.\n\nArt. 50.º - 1. Nos estabelecimentos em que a importância do ensino oficinal o justifique pode haver um chefe de oficinas, designado por despacho ministerial de entre os respectivos mestres, o qual será incumbido de assegurar o regular funcionamento e aperfeiçoamento de todos os serviços oficinais e do ensino neles ministrado.\n\n2. As funções específicas de chefe de oficinas podem ser remuneradas por gratificação fixada pelo Ministro da Justiça, nos termos do artigo 25.º do [Decreto-Lei n.º 44287](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44287-1962-322681), de 20 de Abril de 1962.\n\nArt. 51.º Aos professores de Educação Física incumbe ministrar o ensino da ginástica, iniciar os alunos na prática do desporto e observar a conduta e reacções dos alunos durante a prática das diferentes actividades de educação física, exercendo sobre eles a necessária acção educativa."
+  },
+  "6becf4c61a365be4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Do provimento dos cargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Do provimento dos cargos"
+  },
+  "9c0980b0f05f99eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Dos serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Dos serviços centrais\n\nArt. 52.º Os lugares de inspector e de chefes de secção do gabinete de estudos são livremente providos pelo Ministro da Justiça em licenciados em Direito com reconhecida competência para o bom desempenho da função.\n\nArt. 53.º - 1. O lugar de chefe da 2.ª secção da repartição da Direcção-Geral será provido, por livre escolha do Ministro, entre indivíduos com reconhecida competência para o exercício do cargo.\n\n2. Os restantes lugares da 2.ª secção serão providos mediante concurso de provas públicas entre os funcionários que tenham condições de promoção.\n\nArt. 54.º - 1. Os lugares de aspirante são providos, por contrato, entre indivíduos com a habilitação mínima do 1.º ciclo dos liceus ou equivalente.\n\n2. No provimento dos lugares de terceiro-oficial da Direcção-Geral, aos aspirantes com mais de três anos de bom e efectivo serviço habilitados com o respectivo concurso é reconhecida preferência legal sobre os candidatos com igual classificação.\n\nArt. 55.º Os assistentes sociais são escolhidos entre os auxiliares sociais definitivamente providos no cargo, preferindo na nomeação os que tenham melhor classificação de serviço.\n\nArt. 56.º - 1. Os lugares de auxiliar social serão providos, por meio de contrato e em regime de estágio, entre indivíduos habilitados com o curso respectivo da Escola Prática de Ciências Criminais.\n\n2. Na falta de candidatos com a habilitação necessária, podem ser contratados no mesmo regime os que tiverem a habilitação mínima do 2.º ciclo dos liceus ou equivalente e a idoneidade necessária.\n\n3. Só podem ser providos vitalìciamente no cargo de auxiliar social os candidatos que, além de possuírem o curso respectivo da Escola Prática de Ciências Criminais, revelem ao fim de dois anos de estágio especial aptidão para o lugar, atestada pelo inspector. Quando as circunstâncias o aconselhem, pode o Ministro da Justiça, por simples despacho, prorrogar este prazo por mais dois anos.\n\n4. Aos auxiliares sociais reprovados no curso da Escola Prática ou que, durante o período de estágio, mostrem falta de idoneidade, será imediatamente rescindido o contrato.\n\nArt. 57.º É de livre. escolha do Ministro da Justiça o primeiro provimento do lugar de primeiro-oficial da 2.ª secção, resultante da fixação do quadro a que se refere o artigo 17.º do [Decreto-Lei n.º 44287](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44287-1962-322681), de 20 de Abril de 1962."
+  },
+  "3c6f47fcffa458e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Dos estabelecimentos dependentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Dos estabelecimentos dependentes\n\nArt. 58.º - 1. Os lugares de director serão providos livremente pelo Ministro da Justiça em indivíduos de reconhecida competência, habilitados com qualquer curso superior.\n\n2. As funções de director do Instituto Navarro de Paiva serão exercidas, em regime de acumulação e mediante a gratificação fixada no mapa n.º 2 anexo ao [Decreto-Lei n.º 44287](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44287-1962-322681), pelo funcionário do quadro do estabelecimento ou dos quadros únicos da Direcção-Geral que o Ministro da Justiça designar.\n\nA designação feita pelo Ministro é válida por dois anos, é renovável no termo de cada período e não pode ser recusada.\n\nArt. 59.º - 1. Os lugares de secretário de 2.ª classe serão providos em secretários de 3.ª classe com mais de três anos de exercício no cargo e classificação de serviço não inferior a Bom.\n\n2. Os lugares de secretário de 3.ª classe serão preenchidos de entre os terceiros-oficiais e aspirantes, com mais de três anos de exercício no cargo e classificação de serviço não inferior a Bom.\n\n3. Na falta de concorrentes com as condições exigidas nos números anteriores, podem os lugares de secretário ser preenchidos por indivíduos com a habilitação mínima do 2.º ciclo dos liceus ou equivalente e a idoneidade necessária.\n\nArt. 60.º As vagas de educador de 1.ª classe serão preenchidas por educadores de 2.ª com mais de três anos de exercício no cargo, constituindo motivo de preferência a melhor classificação de serviço.\n\nArt. 61.º Os lugares de educador de 2.ª classe serão providos, mediante concurso documental e em regime de estágio por dois anos, entre indivíduos habilitados com o curso do Magistério Primário ou com o curso adequado da Escola Prática de Ciências Criminais.\n\nArt. 62.º Os lugares de monitor-vigilante de 1.ª, 2.ª e 3.ª classes serão providos em funcionários da mesma categoria e de classe imediatamente inferior com mais de três anos de exercício no cargo e classificação de serviço não inferior a Bom.\n\nArt. 63.º Os lugares de monitor-vigilante auxiliar serão providos, mediante concurso documental e em regime de estágio por dois anos, entre indivíduos habilitados, pelo menos, com o exame de instrução primária.\n\nArt. 64.º Os lugares de psicólogo serão providos, em regime de estágio por dois anos, em licenciados em Medicina ou em licenciados em Letras, que, em qualquer dos casos, possuam o curso de Ciências Pedagógicas da Faculdade de Letras ou especialização equivalente.\n\nArt. 65.º - 1. Os lugares de professor de Desenho e Trabalhos Manuais serão providos, mediante concurso documental e em regime de estágio por dois anos, em indivíduos habilitados com os cursos adequados.\n\n2. Os lugares de professor de Educação Física serão providos, nas condições previstas no número anterior, em indivíduos habilitados com o curso do Instituto Nacional de Educação Física.\n\n3. Na falta de candidatos com as habilitações exigidas, podem ser contratados, por períodos renováveis de um ano, indivíduos com reconhecida idoneidade para o desempenho das funções. Neste caso, o cargo é remunerado por gratificação paga por força do vencimento orçamentado.\n\nArt. 66.º - 1. Os lugares de mestre e contramestre de oficinas serão providos, mediante concurso documental e de provas práticas e em regime de estágio por dois anos, em indivíduos habilitados com os respectivos cursos de escolas técnicas.\n\n2. Na falta de candidatos com as habilitações exigidas ou sempre que se trate de arte ou oficio cujo ensino não seja professado nas escolas técnicas oficiais, poderá ser aberto concurso documental e de provas práticas entre profissionais com três anos, pelo menos, de trabalho efectivo na respectiva modalidade e que possuam a habilitação mínima da 4.ª classe do ensino primário.\n\nArt. 67.º Os lugares de regente agrícola serão providos, mediante concurso documental e em regime de estágio por dois anos, entre indivíduos habilitados com o respectivo curso.\n\nArt. 68.º - 1. Os lugares de ecónomo de 1.ª e 2.ª classes, de contabilista e de terceiro-oficial serão providos, mediante concurso de provas públicas, em indivíduos com a habilitação mínima do 2.º ciclo dos liceus ou equivalente. O provimento dos lugares de ecónomo de 3.ª classe e de aspirante serão feitos nos mesmos termos, mas bastará a habilitação mínima do 1.º ciclo dos liceus ou equivalente.\n\n2. No provimento dos lugares de terceiro-oficial de qualquer estabelecimento, os aspirantes com mais de três anos de bom e efectivo serviço têm preferência sobre os restantes concorrentes com igual classificação no concurso.\n\nArt. 69.º Os lugares de assistente religioso serão providos por contrato, depois de ouvido o ordinário da respectiva diocese.\n\nArt. 70.º Os lugares de médico são de livre escolha do Ministro da Justiça de entre os licenciados em Medicina com reconhecida competência e idoneidade para o exercício das funções.\n\nArt. 71.º Os lugares de enfermeiro de qualquer classe serão providos, mediante concurso documental e de provas práticas, entre os indivíduos habilitados com o curso de enfermagem ou, na sua falta, entre auxiliares de enfermagem diplomados.\n\nArt. 72.º Os candidatos aos lugares de educador, monitor-vigilante, mestre e contramestre serão submetidos a exame pelos médicos privativos dos serviços tutelares de menores, tendente a investigar das condições psicossomáticas de cada um com vista às especiais exigências dos respectivos cargos.\n\nArt. 73.º Os restantes lugares dos estabelecimentos dependentes serão providos livremente de entre os indivíduos que reúnam as condições requeridas pela lei geral, com excepção daqueles que pela sua natureza pressuponham habilitação especial.\n\nArt. 74.º Além dos casos expressamente referidos no presente diploma, o Ministro da Justiça poderá determinar a abertura de concurso documental ou de provas públicas para provimento de outros lugares dos serviços tutelares de menores.\n\nArt. 75.º - 1. Para os serviços das explorações económicas ou do ensino profissional dos estabelecimentos pode ser contratado ou assalariado o pessoal de carácter permanente ou eventual que seja indispensável, mas as despesas com vencimentos salários e outros abonos constituirão encargo dos respectivos orçamentos, em conta de receitas próprias.\n\n2. Só podem ser contratados indivíduos para funções caracterizadamente técnicas.\n\n3. A criação de lugares de contratados ou assalariados de carácter permanente, assim como a sua extinção será feita por simples portaria do Ministro da Justiça.\n\n4. Em casos excepcionais, com o acordo do Ministro das Finanças, poderão ser fixados vencimentos ou remunerações especiais a indivíduos contratados para o exercício de funções que pela sua natureza exijam uma técnica especializada.\n\nArt. 76.º O pessoal assalariado pode ser admitido e despedido pelo director do respectivo estabelecimento, depois de obtido, por intermédio da Direcção-Geral, despacho ministerial de concordância.\n\nArt. 77.º Fora das condições estabelecidas neste diploma não é permitida a admissão nos respectivos serviços de outro pessoal a custear quer pelo orçamento do Ministério da Justiça, quer pelos orçamentos em conta de receitas próprias."
+  },
+  "4bf051cacffaa560": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da Federação Nacional das Instituições de Protecção à Infância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da Federação Nacional das Instituições de Protecção à Infância\n\nArt. 78.º Incumbe à Federação, como organismo coordenador das actividades em prol da juventude, colaborar com instituições nacionais, estrangeiras e internacionais que se ocupem dos problemas da protecção moral, social e jurídica da infância.\n\nArt. 79.º A Federação é o organismo representante de Portugal na Union Internationale de Protection de l'Enfance, com sede em Genebra.\n\nArt. 80.º - 1. Poderão filiar-se na Federação as instituições públicas ou particulares que tenham por fim principal a defesa e a protecção, sob qualquer aspecto, da infância e da juventude.\n\n2. A filiação não envolve subordinação à Federação nem colide com a hierarquia administrativa em que se integrem as entidades filiadas.\n\n3. A Federação fornecerá às entidades filiadas informações sobre as actividades da Union Internationale de Protection de l'Enfance ou de outros organismos internacionais com os quais esteja em contacto e distribuir-lhes-á gratuitamente a revista ou boletim dos serviços.\n\n4. As instituições federadas podem tomar parte, com a qualidade de membros da Federação, nas reuniões do Conselho Geral da Union Internationale de Protection de l'Enfance e do Congresso Mundial de Protecção à Infância.\n\nArt. 81.º - 1. As receitas da Federação, constantes do subsídio inscrito no Orçamento Geral do Estado destinam-se à satisfação das respectivas despesas e das da Direcção-Geral dos Serviços Tutelares de Menores, e designadamente das que se referem a:\n\na) Subsídios para obras, apetrechamento e funcionamento dos serviços dependentes;\n\nb) Serviço social e patronato de internados, de ex-internados e de quaisquer outros menores que cumpram medidas decretadas pelos tribunais de menores;\n\nc) Internamento, tratamento ou observação de menores em serviços hospitalares, assistenciais, de educação ou outros, oficiais ou particulares;\n\nd) Subsídios a famílias próprias ou adoptivas que tenham a seu cargo menores sujeitos à jurisdição dos tribunais tutelares;\n\ne) Estudos, trabalhos, reuniões, estágios, frequência de cursos, congressos e representações nacionais ou internacionais.\n\n2. Poderão ser concedidos subsídios a entidades particulares especializadas que tenham entre os seus fins os de prevenção, tratamento, ou recuperação de menores e que, para o efeito, estabeleçam acordos com a Direcção-Geral dos Serviços Tutelares de Menores."
+  },
+  "3ee21cc12e7a3420": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições gerais\n\nArt. 82.º Aos funcionários que o requeiram ou que por exigência do serviço ou determinação superior tenham de permanecer nos estabelecimentos pode ser fornecida alimentação confeccionada para os internados, mediante a importância do seu custo, a qual constituirá receita do Estado.\n\nArt. 83.º Na falta de regulamentação especial contida neste diploma, nomeadamente sobre provimento de cargos, organização e funcionamento dos serviços, são de observar, na parte aplicável, as disposições da lei orgânica da Direcção-Geral da Justiça e respectivo regulamento.\n\nMinistério da Justiça, 20 de Abril de 1962. - O Ministro da Justiça, João de Matos Antunes Varela."
+  },
+  "561ee5f7cad7bc9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "e73abae50ff7a9ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nÉ aprovado o Regulamento da Direcção-Geral dos Serviços Tutelares de Menores, que segue assinado pelo Ministro da Justiça.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 20 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela.\n\nRegulamento da Direcção-Geral dos Serviços Tutelares de Menores"
+  },
+  "95c74480e94c9b2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Da competência, organização e distribuição dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Da competência, organização e distribuição dos serviços"
+  },
+  "2915d2c7fa9be5a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nCompete à Direcção-Geral dos Serviços Tutelares de Menores dirigir os serviços de justiça relativos aos menores sujeitos a jurisdição especializada, promover a execução das medidas decretadas pelos tribunais de menores, orientar os serviços de assistência social e superintender nos estabelecimentos dependentes."
+  },
+  "fc6856a7dfdc3057": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Direcção-Geral dos Serviços Tutelares de Menores compreende:\n\na) Os serviços centrais;\n\nb) Os serviços dependentes."
+  },
+  "adeb08fc471dd4a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os serviços centrais são constituídos por uma repartição com duas secções, o gabinete de estudos, os serviços de assistência social e o serviço de inspecção.\n\n2. Junto dos serviços centrais funcionam o conselho administrativo e o conselho da Direcção-Geral."
+  },
+  "b9cd4e814cdad1a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os serviços dependentes compreendem os tribunais e os estabelecimentos tutelares de menores.\n\n2. Nos estabelecimentos estão abrangidos:\n\na) Os centros de observação anexos aos tribunais centrais de menores;\n\nb) Os institutos médico-psicológicos;\n\nc) Os institutos de reeducação;\n\nd) Os lares de semi-internato;\n\ne) Os lares de semiliberdade;\n\nf) Os lares de patronato."
+  },
+  "d38dd2462876cf30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Da repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Da repartição"
+  },
+  "78684a1680682508": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Compete à repartição da Direcção-Geral, por intermédio da 1.ª secção:\n\na) Organizar e manter actualizados o cadastro e registo biográfico dos funcionários dos serviços dependentes;\n\nb) Realizar o expediente relativo ao pessoal dos serviços dependentes;\n\nc) Lavrar os autos de posse dos funcionários integrados em quadro único e que não sejam autorizados pelo director-geral a tomar posse perante os directores dos estabelecimentos onde vão prestar serviço;\n\nd) Fornecer à Secretaria-Geral os elementos necessários à organização dos processos de nomeação, transferência, promoção, concessão de licenças e aposentação respeitantes aos funcionários dos serviços centrais;\n\ne) Estudar e informar os processos relativos a menores sujeitos à acção tutelar dos tribunais de menores, dando execução às decisões por estes proferidas e propondo ao Ministro da Justiça o estabelecimento em que devam ser cumpridas as medidas decretadas;\n\nf) Organizar e manter constantemente actualizados os processos individuais e os ficheiros dos menores afectos aos tribunais de menores e colocados em quaisquer estabelecimentos tutelares ou sujeitos ao regime de liberdade assistida ou condicional;\n\ng) Organizar os processos e realizar o expediente de todos os assuntos que tenham de ser presentes ao Conselho Superior dos Serviços Criminais e dar execução às suas decisões, depois de homologadas pelo Ministro da Justiça.\n\n2. Compete-lhe ainda, por intermédio da 2.ª secção:\n\na) Organizar o expediente do conselho administrativo da Direcção-Geral, preparando os assuntos da sua competência e dando execução às suas deliberações;\n\nb) Elaborar os projectos dos orçamentos, tanto da Direcção-Geral e da Federação Nacional das Instituições de Protecção à Infância, como dos serviços dependentes sem autonomia administrativa;\n\nc) Elaborar o inventário da Direcção-Geral;\n\nd) Conferir, registar e processar as despesas dos serviços dependentes sem autonomia, administrativa, designadamente as relativas a vencimentos e demais remunerações do pessoal;\n\ne) Processar as despesas relativas a transportes, ajudas de custo e deslocação do pessoal e as de transferências e remoções de menores;\n\nf) Propor a atribuição de subsídios aos estabelecimentos, pelo orçamento da Federação;\n\ng) Efectuar o serviço de contabilidade da Federação;\n\nh) Estudar e informar os projectos dos orçamentos das receitas próprias e respectivas alterações, bem como os projectos respeitantes ao Orçamento Geral do Estado e respectivas alterações dos serviços dependentes com autonomia administrativa;\n\ni) Propor a atribuição de subsídios em conta de receitas próprias arrecadadas pelos estabelecimentos."
+  },
+  "84f7ed7fc93605ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPara os efeitos do disposto na alínea h) do n.º 2 do artigo anterior, devem os directores dos serviços dependentes remeter à Direcção-Geral, até 31 de Maio de cada ano, os projectos dos orçamentos privativos respeitantes ao Orçamento Geral do Estado para o ano imediato e, até 31 de Outubro, os projectos dos orçamentos das receitas próprias."
+  },
+  "d90277d3d3862cfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O director-geral é substituído nas suas faltas ou impedimentos pelo chefe da repartição.\n\n2. O director-geral pode delegar no chefe da repartição a assinatura das folhas de vencimentos e outras despesas, o visto das requisições de fundos e a autorização para o processamento de despesas resultantes de contratos ou sancionadas superiormente."
+  },
+  "bf41d860bfd2f094": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Do gabinete de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Do gabinete de estudos"
+  },
+  "3f92638b904586d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO gabinete de estudos da Direcção-Geral dos Serviços Tutelares de Menores funcionará na imediata dependência do director-geral."
+  },
+  "7348087a95df7cf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCompete ao gabinete de estudos:\n\na) Organizar e manter actualizada, sob a orientação técnica do bibliotecário-arquivista do Ministério, uma biblioteca especializada em matérias de direito tutelar de menores e de psicologia, pedagogia e psiquiatria infantis e juvenis;\n\nb) Fazer o registo e sinopse geral da legislação e dos despachos, instruções e circulares que interessem aos serviços;\n\nc) Organizar os processos relativos à resolução das dúvidas e consultas suscitadas na execução das leis e regulamentos dos serviços tutelares de menores;\n\nd) Coligir e coordenar os acórdãos dos tribunais superiores em matéria de recursos das decisões dos tribunais de menores, assim como os despachos e sentenças destes tribunais, de carácter doutrinário ou interpretativo;\n\ne) Organizar e manter actualizados ficheiros ou verbetes alfabetados de temas doutrinários e de legislação comparada constantes de livros, publicações periódicas, diplomas legais ou de quaisquer outros documentos que interessem ao direito tutelar de menores;\n\nf) Promover, por meio de assinatura ou de permuta, a aquisição de publicações periódicas nacionais e estrangeiras que se ocupem da protecção social e jurídica de menores;\n\ng) Coligir os elementos relativos aos trabalhos e às recomendações e conclusões dos congressos e reuniões nacionais e estrangeiros em que sejam versados os problemas da infância e da juventude;\n\nh) Recolher e coordenar os dados estatísticos referentes aos tribunais de menores e aos estabelecimentos, designadamente no que se refere a decisões, medidas aplicadas, auxílio social e patronato, o os demais elementos capazes de facilitar a preparação do relatório anual que o director-geral deve submeter à apreciação do Conselho Superior dos Serviços Criminais;\n\ni) Cuidar, em colaboração com a Escola Prática de Ciências Criminais da formação e aperfeiçoamento técnico e moral do funcionalismo dos serviços tutelares de menores, mediante a organização de reuniões periódicas de estudos para o pessoal superior e de cursos ou estágios, nos próprios estabelecimentos, para o pessoal que tenha a seu cargo o ensino, a reeducação ou a vigilância dos menores;\n\nj) Estudar as directrizes gerais que devem orientar, no sentido do seu constante aperfeiçoamento, a vida em internato, designadamente quanto aos métodos pedagógicos a seguir, ao ensino escolar e profissional, à assistência médica e religiosa, à educação física e às práticas desportivas e à melhor ocupação dos tempos livres;\n\nl) Colaborar e permutar elementos com os Serviços oficiais de países estrangeiros e bem assim com as associações ou fundações nacionais e estrangeiras que se dediquem ao estudo dos problemas respeitantes à jurisdição de menores;\n\nm) Assegurar o expediente relativo às relações resultantes da representação a que se refere o artigo 79.º\n\nn) Publicar, como órgão da Direcção-Geral e da Federação e pelas verbas do orçamento desta, o boletim informativo da actividade dos serviços, destinado ao estudo e divulgação dos temas doutrinários do direito tutelar de menores;\n\no) Assegurar as relações com as entidades nacionais filiadas na Federação, a que se refere o artigo 80.º;\n\np) Promover, em colaboração com o Boletim do Ministério da Justiça, a edição dos textos legais mais importantes relativos aos serviços tutelares de menores."
+  },
+  "c6f42f732e9c84ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Dos serviços de assistência social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Dos serviços de assistência social"
+  },
+  "8d268d0470741481": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs serviços de assistência social, dirigidos pelo inspector, funcionam na imediata dependência do director-geral."
+  },
+  "a6e0ff5ef19756cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAos serviços de assistência social incumbe especialmente:\n\na) Realizar os estudos e inquéritos sociais necessários ao conhecimento dos menores, em ordem à fixação da medida a aplicar pelo tribunal, à individualização do seu tratamento e à preparação da sua readaptação à vida livre;\n\nb) Estabelecer com as famílias dos menores em observação ou internados nos estabelecimentos as necessárias relações de auxílio e de esclarecimento, procurando remediar as causas familiares que hajam dado lugar à intervenção do tribunal;\n\nc) Vigiar e orientar os menores em liberdade assistida e condicional;\n\nd) Orientar o patronato dos menores sujeitos à jurisdição dos tribunais tutelares e dos antigos internados dos estabelecimentos, procurando durante o período necessário à sua readaptação social ampará-los moral e materialmente;\n\ne) Organizar os lares de patronato destinados aos antigos internados que necessitem ainda de amparo moral ou protecção especial e assegurar o respectivo serviço social;\n\nf) Procurar junto das entidades patronais a obtenção de trabalho para os menores em regime de semi-internato e de semiliberdade ou na situação de liberdade assistida ou condicional e pós-internato;\n\ng) Proceder a inquéritos e à elaboração de relatórios destinados a instruir os processos cíveis da competência dos tribunais de menores;\n\nh) Orientar e vigiar as pessoas em relação às quais tenha sido instituído o regime da assistência educativa;\n\ni) Fiscalizar a assistência de menores a espectáculos públicos, nos termos da legislação respectiva;\n\nj) Dar parecer, a solicitação da Direcção-Geral do Trabalho e Corporações, sobre os pedidos de autorização do trabalho de menores e bem assim fiscalizar as condições em que é exercido;\n\nl) Fomentar a constituição das instituições particulares que se dediquem a rectificação ou regeneração de menores e estudar os critérios a observar na colaboração e cooperação entre a assistência social dos serviços tutelares de menores e os particulares ou entidades particulares especializadas;\n\nm) Organizar em termos eficientes a colaboração da assistência social dos serviços tutelares de menores com os organismos oficiais ou particulares que tenham a seu cargo a resolução dos problemas de assistência, saúde, educação e trabalho, e designadamente com o Instituto de Assistência à Família e o Instituto de Assistência aos Menores."
+  },
+  "92049d901763cf53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Do serviço de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Do serviço de inspecção"
+  },
+  "ddf1dbe56ebc74e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs inspecções têm como principal objectivo revelar o grau de eficiência dos serviços, a fim de as entidades competentes mais eficazmente os poderem orientar, uniformizando os critérios de actuação do funcionalismo, corrigindo as imperfeições e suprimindo as deficiências, tanto de organização como de funcionamento, dos diversos estabelecimentos. Simultâneamente, destinam-se a coligir os elementos necessários para a classificação dos funcionários e para a justa punição das irregularidades apuradas."
+  },
+  "afa06c6bacde07d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA Direcção-Geral providenciará para que sejam inspeccionados, pelo menos de dois em dois anos, os estabelecimentos dependentes, sem exclusão dos lares de semi-internato, de semiliberdade e de patronato."
+  },
+  "4313c5f9c1c285c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nEstá sujeita a inspecção normal a actividade de todos os funcionários dos estabelecimentos dependentes da Direcção-Geral, devendo ser classificado o pessoal pertencente às categorias que vierem a ser fixadas por despacho do Ministro da Justiça."
+  },
+  "160d67c1dbc81f23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. O serviço dos funcionários inspeccionados será classificado, consoante o seu merecimento, com as notas de Muito bom, Bom, Suficiente, Medíocre e Mau.\n\n2. A nota de Muito bom não pode ser concedida a funcionários com menos de três anos de serviço inspeccionado nem aos que há menos de três anos tenham tido classificação inferior à de Bom.\n\n3. Tanto aos funcionários classificados de Mau como àqueles que, em duas classificações seguidas ou em três interpoladas, hajam obtido a nota de Medíocre é imediatamente instaurado processo disciplinar por incompetência para o exercício do cargo."
+  },
+  "0c4f405541f3fd8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nSe nas inspecções, inquéritos ou sindicâncias forem apuradas quaisquer infracções disciplinares, o director-geral mandará instaurar o processo disciplinar correspondente."
+  },
+  "aa8cd28c4c613984": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nNos serviços de inspecções, inquéritos, sindicâncias e processos disciplinares os instrutores podem ser auxiliados por secretários da sua confiança, cuja nomeação será proposta ao director-geral."
+  },
+  "d620ba037959db89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO V — Do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO V — Do conselho administrativo"
+  },
+  "fa8a577671ba69f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O conselho administrativo é composto pelo director-geral, que preside, pelo chefe da repartição e pelo representante do Ministério das Finanças.\n\n2. O conselho administrativo reúne semanalmente e, mediante convocação do presidente, sempre que se torne necessário.\n\n3. Serve de secretário, sem direito a voto, o chefe da 2.ª secção."
+  },
+  "f49f05a508fe9ae0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nCabe ao conselho administrativo:\n\na) Propor à aprovação superior os orçamentos da Federação correspondentes aos subsídios inscritos no Orçamento Geral do Estado e administrar as respectivas verbas;\n\nb) Dar parecer sobre a atribuição de subsídios em conta das receitas próprias dos serviços dependentes e sobre os respectivos orçamentos;\n\nc) Zelar pelos interesses patrimoniais da Federação;\n\nd) Informar as propostas de alteração dos quadros de pessoal a pagar por força dos orçamentos de receitas próprias."
+  },
+  "d5c34b4c2cf6545e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Pode ser atribuída ao conselho administrativo, por determinação do Ministro da Justiça, a administração das verbas das obras de construção, reparação ou conservação de edifícios destinados à instalação de estabelecimentos tutelares de menores, quando entregues ao trabalho prisional, nos termos do § 2.º do artigo 13.º do [Decreto-Lei n.º 40876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40876-1956-298634), de 24 de Novembro de 1956.\n\n2. O conselho administrativo tem a faculdade de delegar nos conselhos administrativos dos serviços dependentes a administração das verbas a que se refere o número anterior e recorrer aos serviços de funcionários ou de pessoas estranhas particularmente qualificadas, aos quais poderá ser atribuída uma gratificação correspondente às tarefas exigidas e à duração provável da obra.\n\n3. Nos casos previstos na alínea a) do artigo anterior e no n.º 1 deste artigo, o conselho administrativo prestará directamente contas ao Tribunal de Contas ou ao Ministro da Justiça, consoante a determinação da lei."
+  },
+  "9fe65624840b86bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO VI — Do conselho da Direcção-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO VI — Do conselho da Direcção-Geral"
+  },
+  "0c9f5cf25d709b0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. O conselho da Direcção-Geral, ao qual compete classificar os funcionários referidos no artigo 14.º, é constituído pelo director-geral, que preside, pelo chefe da repartição e pelo inspector.\n\n2. O conselho reúne-se quando convocado pelo presidente."
+  },
+  "51163573397b6142": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Dos tribunais tutelares de menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Dos tribunais tutelares de menores"
+  },
+  "8fbfc756b48d0d74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs tribunais tutelares de menores regem-se pelas disposições da Organização Tutelar de Menores e dependem da Direcção-Geral respectiva nos mesmos termos em que os tribunais comuns dependem da Direcção-Geral da Justiça."
+  },
+  "2802b164d47d30c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Dos estabelecimentos"
+  },
+  "b73361b4a3bd6342": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nEm cada estabelecimento tutelar de menores com autonomia administrativa haverá serviços de secretaria, de contabilidade e de economato, um conselho administrativo e um conselho pedagógico, com as atribuições que por lei lhes forem conferidas."
+  },
+  "8e7e935d20789feb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nSão estabelecimentos com autonomia administrativa:\n\na) Os centros de observação anexos aos Tribunais Centrais de Menores de Lisboa, Porto e Coimbra;\n\nb) O Instituto de Reeducação Padre António de Oliveira, para o sexo masculino, em Caxias;\n\nc) O Instituto de S. Domingos de Benfica, para o sexo feminino, em Lisboa;\n\nd) O Instituto de Reeducação de S. Fiel, para o sexo masculino, em Louriçal do Campo;\n\ne) O Instituto de Reeducação da Guarda, para o sexo masculino, na Guarda;\n\nf) O Instituto de Reeducação de Vila Fernando, para o sexo masculino, em Vila. Fernando;\n\ng) O Instituto de Reeducação de S. Bernardino, para o sexo feminino, em Atouguia da Baleia (Peniche).\n\n1) Do conselho administrativo"
+  },
+  "5f27242cbc311d63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. O conselho administrativo é constituído pelo director, que preside, pelo secretário e pelo ecónomo.\n\n2. O contabilista e o funcionário encarregado da tesouraria podem assistir às sessões do conselho, quando convocados pelo director, mas com voto meramente consultivo.\n\n3. Nas suas faltas ou impedimentos, o secretário e o ecónomo são substituídos pelos funcionários mais graduados dos serviços administrativos e de contabilidade propostos pela direcção do estabelecimento.\n\nNos estabelecimentos em cujos quadros não esteja previsto o lugar de ecónomo, faz parte do conselho administrativo, em seu lugar, o funcionário designado pela Direcção-Geral, sob proposta do director do estabelecimento.\n\n4. O director pode, excepcionalmente e sob sua exclusiva responsabilidade, decidir contra o voto do conselho e determinar também, sem prévia consulta, a realização de qualquer despesa em caso de urgência.\n\nSe estas resoluções não forem sancionadas na primeira reunião do conselho administrativo, será o facto comunicado à Direcção-Geral, que, não podendo decidir, submeterá a resolução, conforme os casos, mas sempre com a devida informação, à aprovação dos Ministros da Justiça ou das Finanças, por intermédio da 4. ª Repartição da Direcção-Geral da Contabilidade Pública."
+  },
+  "cf97611dd616c354": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. Ao conselho administrativo compete providenciar sobre todos os assuntos de carácter administrativo cuja apreciação lhe seja cometida pela lei, pelos regulamentos ou pela Direcção-Geral, e designadamente:\n\na) Examinar as contas, ordenar os respectivos pagamentos e fornecer os fundos necessários para eles;\n\nb) Cobrar e arrecadar as receitas;\n\nc) Examinar os documentos das despesas efectuadas e decidir sobre a sua aprovação;\n\nd) Deliberar sobre os preços dos géneros e artefactos produzidos no estabelecimento e a oportunidade da sua venda;\n\ne) Remeter à Direcção-Geral, nos prazos devidos, os projectos dos orçamentos;\n\nf) Efectuar, no fim de cada mês, o balanço do cofre e promover o depósito, na delegação da Caixa Geral de Depósitos da sede do concelho em que esteja instalado o estabelecimento, dos fundos cuja existência no cofre não seja necessária para despesas urgentes;\n\ng) Remeter a conta de gerência, ao Tribunal de Contas até 31 do Maio do ano seguinte àquele a que a conta respeite;\n\nh) Administrar a cantina;\n\n2. Os fundos dispensáveis são depositados por meio de guias passadas pelo secretário e assinadas pelo presidente e ficam à ordem do conselho administrativo, que só os pode levantar por meio de cheques assinados pelos seus membros.\n\n2) Do conselho pedagógico"
+  },
+  "81173db69d51cb2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. O conselho pedagógico dos centros de observação é constituído pelo director, que preside, pelo médico, pelo psicólogo, por um assistente ou auxiliar social e pelo educador adjunto.\n\n2. Do conselho pedagógico do Centro de Observação anexo ao Tribunal Central de Menores de Lisboa faz parte um dos psicólogos do Instituto Navarro de Paiva."
+  },
+  "37aa95ebdbfbad68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nO conselho pedagógico dos institutos de reeducação é constituído pelo director, que preside, pelo médico, pelo assistente religioso, pelo chefe de oficinas e pelo educador adjunto."
+  },
+  "b88fb98508817d19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO conselho pedagógico dos institutos médico-psicológicos é constituído pelo director, que preside, pelo médico-psiquiatra, por um dos psicólogos e pelo assistente social."
+  },
+  "c34a933ababb49f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nSempre que as circunstâncias o aconselhem, pode o Ministro da Justiça, sob proposta da Direcção-Geral, determinar constituição diferente para o conselho pedagógico dos estabelecimentos."
+  },
+  "f2c3f50645a8dd8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nAo conselho pedagógico como órgão consultivo, compete pronunciar-se sobre todos os assuntos que respeitem ao tratamento dos menores com vista à sua melhor recuperação social e designadamente:\n\na) Sobre os programas das actividades pedagógicas do estabelecimento, a submeter à aprovação superior;\n\nb) Sobre as propostas de revisão da situação dos menores e sobre todos os assuntos que devam ser submetidos à apreciação dos tribunais tutelares;\n\nc) Sobre a colocação dos internados em lar de semiliberdade."
+  },
+  "23ef6a37e5d47a41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Dos serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Dos serviços centrais"
+  },
+  "faf1a649899ea2ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nSão aplicáveis às atribuições dos funcionários da Direcção-Geral, na falta de disposição especial, as normas constantes da lei orgânica da Direcção-Geral da Justiça e respectivo regulamento."
+  },
+  "9904c2f621673de0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nAlém das funções próprias da inspecção, compete ao inspector dirigir coordenar e fiscalizar a actividade dos assistentes e auxiliares sociais e bem assim estudar e propor a sua distribuição pelos serviços centrais e dependentes."
+  },
+  "2978977b905afbf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1. Aos assistentes e auxiliares sociais incumbe a execução das tarefas próprias do serviço de assistência social dos serviços tutelares de menores.\n\n2. Cada assistente ou auxiliar social anotará em livro próprio, fornecido pela Direcção-Geral, a descrição sucinta das diligências, tanto internas como externas, diàriamente executadas, com menção do local e das pessoas junto de quem foram efectuadas."
+  },
+  "46917daf8c613af8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Dos estabelecimentos dependentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Dos estabelecimentos dependentes"
+  },
+  "624e62e1852943b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nAs atribuições do pessoal dos estabelecimentos dependentes da Direcção-Geral são as fixadas na lei, nos regulamentos privativos ou em ordem de serviço, superiormente homologada."
+  },
+  "cbfe81ddd6ac8bbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1. A todo o pessoal em serviço nos estabelecimentos cumpre, em geral:\n\na) Exercer com zelo, competência, e assiduidade as funções que lhe estejam confiadas;\n\nb) Guardar sigilo sobre os assuntos de serviço que não esteja expressamente autorizado a revelar;\n\nc) Proceder, tanto no serviço, como na vida, privada, com irrepreensível correcção e aprumo, de modo a constituir em todas as circunstâncias um exemplo de compostura, moralidade e civismo;\n\nd) Informar com escrúpulo, isenção e justiça a respeito dos seus inferiores hierárquicos e tratar, em todas as circunstâncias, com a devida deferência e respeito, os seus superiores na escala hierárquica;\n\ne) Abster-se de manifestar pùblicamente qualquer discordância sobre o funcionamento dos serviços;\n\nf) Tratar os menores com espírito humanitário e sempre em termos correctos;\n\ng) Prestar leal e activa colaboração aos superiores e colegas de trabalho.\n\n2. O pessoal é obrigado ao desempenho não só dos serviços que lhe competirem nos termos do presente decreto e dos regulamentos privativos dos estabelecimentos, mas também de quaisquer outros que lhe forem incumbidos por determinação superior, de acordo com a sua categoria, aptidão e habilitações."
+  },
+  "7c1494e5ddc0a5ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. Aos directores dos estabelecimentos incumbe, em geral:\n\na) Superintender em todos os serviços que lhes estão subordinados, zelar pelo seu bom funcionamento e propor superiormente as medidas que reputem convenientes para o seu aperfeiçoamento;\n\nb) Assegurar o exacto cumprimento da lei e regulamentos, das decisões e despachos dos tribunais tutelares e das instruções da Direcção-Geral;\n\nc) Promover e fiscalizar a execução das deliberações do conselho administrativo;\n\nd) Coordenar os diferentes serviços do estabelecimento e a acção de todos os funcionários;\n\ne) Exercer acção disciplinar sobre o pessoal, nos termos legais;\n\nf) Promover a formação e o aperfeiçoamento profissionais dos funcionários;\n\ng) Classificar anualmente o serviço do pessoal que lhes está subordinado, remetendo as respectivas informações à Direcção-Geral até ao dia 15 do mês de Janeiro do ano imediato;\n\nh) Orientar, em harmonia com as directivas fixadas superiormente, a educação e o ensino escolar e profissional dos menores, bem como as diferentes formas de aproveitamento do tempo livre;\n\ni) Requisitar a quaisquer entidades as informações e inquéritos necessários ao estudo da personalidade, carácter e antecedentes dos menores ou à investigação das condições do meio donde provêm;\n\nj) Preparar o regresso dos menores à vida livre e promover a sua colocação, em cooperação com as famílias e com os serviços de assistência social;\n\nl) Submeter à Direcção-Geral, devidamente informados, todos os assuntos que careçam de resolução superior;\n\nm) Elaborar um relatório anual sobre as diferentes actividades do estabelecimento, enviando-o à Direcção-Geral até ao dia 31 de Março do ano imediato;\n\nn) Elaborar e propor superiormente os regulamentos internos indispensáveis à boa organização e funcionamento dos serviços.\n\n2. Nas suas faltas ou impedimentos, o director é substituído pelo funcionário que, sob proposta da Direcção-Geral, for designado pelo Ministro da Justiça."
+  },
+  "de4c6703779d9150": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nAos secretários compete, em geral:\n\na) Executar e fazer executar o expediente da secretaria;\n\nb) Organizar e manter em ordem o arquivo e a biblioteca do estabelecimento;\n\nc) Manter permanentemente actualizado o cadastro dos funcionários e elaborar os respectivos mapas de assiduidade;\n\nd) Preparar os elementos requeridos para a organização dos processos de nomeação, promoção, transferência e aposentação;\n\ne) Manter devidamente escriturados os necessários livros de registo e passar certidões sobre assuntos da sua competência, depois de autorizadas superiormente."
+  },
+  "26dda35220683887": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nAos contabilistas compete, em geral:\n\na) Organizar o projecto do Orçamento Geral do Estado na parte respeitante ao estabelecimento, os projectos dos orçamentos de receitas próprias e escriturar as despesas realizadas;\n\nb) Processar folhas de vencimentos e salários e mais abonos do pessoal;\n\nc) Elaborar a conta de gerência e os mapas de previsão de receitas;\n\nd) Efectuar as requisições de fundos necessárias em conta dos orçamentos;\n\ne) Coligir e organizar elementos estatísticos relativos às diferentes actividades económicas do estabelecimento."
+  },
+  "61faabf2ca461ad7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nCompete aos ecónomos e fiscais de oficinas:\n\na) Providenciar sobre a conservação e segurança dos bens afectos ao estabelecimento e elaborar os respectivos mapas de inventário;\n\nb) Registar as entradas e saídas de géneros e proceder à sua distribuição para a preparação das refeições, fiscalizando a confecção destas;\n\nc) Requisitar aos fornecedores, mediante visto do director, todos os artigos necessários ao estabelecimento;\n\nd) Satisfazer as requisições das secções e oficinas, depois de visadas;\n\ne) Fiscalizar a actividade económica das oficinas e explorações agrícolas, designadamente quanto ao rendimento e aproveitamento de materiais;\n\nf) Proceder à venda dos produtos do estabelecimento, mediante autorização do conselho administrativo;\n\ng) Fornecer à contabilidade os elementos necessários à escrituração respectiva."
+  },
+  "e5391a4a2f7558f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nAos educadores incumbe, em geral:\n\na) Ministrar o ensino segundo os programas oficiais, mediante o emprego dos métodos pedagógicos mais apropriados;\n\nb) Exercer sobre os menores uma acção pedagógica individualizada, de forma a obter o melhor rendimento escolar compatível com as aptidões de cada um deles;\n\nc) Observar, individualmente e em grupo, os menores que lhes estão confiados, com vista a fornecer ao conselho pedagógico os elementos necessários para a fixação da orientação educativa mais adequada;\n\nd) Exercer sobre cada menor uma acção educativa pessoal semelhante à de um bom pai de família;\n\ne) Orientar os monitores da respectiva secção na sua actuação junto dos menores;\n\nf) Orientar as actividades extra escolares ou extra profissionais no sentido da maior valorização física, moral e intelectual dos menores;\n\ng) Respeitar e fazer respeitar a índole cristã do ensino e da educação;\n\nh) Ser afáveis no trato com os menores, sem deixarem de ser exigentes quanto ao cumprimento das obrigações escolares ou outras e, particularmente, quanto ao acatamento das normas essenciais à disciplina do estabelecimento;\n\ni) Manter permanentemente actualizado e coordenado um registo objectivo das observações do pessoal da secção sobre a conduta e aproveitamento de cada menor e bem assim das diferentes manifestações que possam interessar para conhecimento do seu carácter e tendências;\n\nj) Efectuar os inquéritos sociais que lhes sejam ordenados pelo director relativos aos menores internados no estabelecimento;\n\nl) Zelar pela boa conservação e racional utilização das instalações afectas à sua secção, equipamento, roupas e utensílios."
+  },
+  "bdf058a85f56004a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. Em cada estabelecimento pode haver um educador adjunto, designado por despacho ministerial de entre os educadores do quadro, o qual será incumbido de assegurar o regular funcionamento e o aperfeiçoamento dos serviços escolares, educativos e disciplinares do estabelecimento, servindo ao mesmo tempo de secretário do conselho pedagógico.\n\n2. As funções de educador adjunto podem ser retribuídas por gratificação, que será fixada por despacho do Ministro da Justiça, nos termos do artigo 25.º do [Decreto-Lei n.º 44287](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44287-1962-322681), de 20 de Abril de 1962."
+  },
+  "5c78d6a18346cea0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nAos monitores incumbe, em geral:\n\na) Acompanhar, vigiar e orientar os menores fora das horas de aula ou de trabalho;\n\nb) Respeitar a índole cristã da educação;\n\nc) Ser afáveis no trato com os menores, sem deixarem de ser exigentes relativamente à observância das normas essenciais à disciplina;\n\nd) Velar pelo asseio, ordem e arranjo pessoal dos menores e das instalações materiais que estes ocupam."
+  },
+  "75851f41e01be538": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1. Aos assistentes religiosos compete assegurar a prática dos actos do culto católico, a assistência espiritual aos internados e funcionários que a desejem e o ensino da religião e da moral.\n\n2. De acordo com a direcção dos estabelecimentos, podem os assistentes religiosos organizar associações de piedade, de estudo e de acção, quer entre os menores, quer entre o pessoal."
+  },
+  "f23d19ec29431989": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1. Durante os impedimentos, os assistentes religiosos assegurarão a sua substituição por outros sacerdotes.\n\n2. Quando o impedimento for motivado pelo cumprimento de obrigações decorrentes do seu múnus religioso, a substituição dos assistentes deve ser assegurada pela autoridade eclesiástica competente."
+  },
+  "2289316b63b437de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nAos médicos incumbe, em geral:\n\na) Proceder a um exame completo de cada menor na altura da sua admissão no estabelecimento e da saída em liberdade condicional ou definitiva ou por motivo de transferência;\n\nb) Efectuar ou promover a observação e os exames necessários ao estudo psicossomático dos menores e à instrução dos respectivos processos, nesse aspecto especial;\n\nc) Vigiar o estado de saúde e o desenvolvimento físico e psíquico dos menores, prestar-lhes a assistência médica necessária ou promover à sua observação e tratamento em serviços especializados, quando necessário;\n\nd) Efectuar as vacinações e outros tratamentos profilácticos que se mostrem necessários ou que obedeçam às prescrições da Direcção-Geral de Saúde;\n\ne) Estudar e propor o regime geral de alimentação, fiscalizando as condições de higiene dos alimentos e da sua preparação, e bem assim fixar os regimes dietéticos especiais;\n\nf) Organizar o ficheiro clínico dos internados preenchendo-o com todas as indicações necessárias ao perfeito conhecimento de cada um deles;\n\ng) Superintender nas enfermarias e anexos e no respectivo pessoal, assim como na guarda dos medicamentos e sua utilização;\n\nh) Proceder à verificação do estado de doença dos funcionários e dar parecer sobre os requerimentos de licença para tratamento;\n\ni) Examinar os candidatos admitidos aos concursos para o provimento de lugares dos quadros dos serviços tutelares de menores, nos casos previstos no presente diploma."
+  },
+  "dc07507142bdbcba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nAos enfermeiros compete anotar e executar rigorosamente as prescrições dos médicos, designadamente os curativos e tratamentos que lhes sejam determinados, velar pela boa ordem, higiene e asseio das enfermarias e suas dependências, e ainda zelar pela boa conservação dos medicamentos em depósito e pela sua utilização em rigorosa harmonia com as prescrições clínicas."
+  },
+  "46b05efecd4ea117": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nAos psicólogos incumbe assegurar o cumprimento das funções que na Organização Tutelar de Menores são especificadamente conferidas ao serviço de observação psicológica e de orientação profissional, e ainda colaborar na orientação do trabalho dos educadores e dos mestres."
+  },
+  "533ae8643ac6f7eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nAos mestres e contramestres compete:\n\na) Ministrar o ensino teórico e prático da respectiva modalidade profissional, procurando inculcar e desenvolver hábitos de trabalho nos menores que lhes estão confiados;\n\nb) Tomar as precauções necessárias para evitar acidentes e instruir os menores sobre as normas de segurança a observar;\n\nc) Propor os prémios e salários que devam ser atribuídos aos menores;\n\nd) Manter permanentemente actualizado um registo da conduta dos menores durante a sua permanência nos locais de trabalho e do seu aproveitamento profissional;\n\ne) Velar pela manutenção e conservação das máquinas, ferramentas e materiais e bem assim pelo arranjo e limpeza dos locais de trabalho;\n\nf) Registar as entradas e saídas de materiais, bem como a sua utilização."
+  },
+  "ef952c11ccf36e20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1. Nos estabelecimentos em que a importância do ensino oficinal o justifique pode haver um chefe de oficinas, designado por despacho ministerial de entre os respectivos mestres, o qual será incumbido de assegurar o regular funcionamento e aperfeiçoamento de todos os serviços oficinais e do ensino neles ministrado.\n\n2. As funções específicas de chefe de oficinas podem ser remuneradas por gratificação fixada pelo Ministro da Justiça, nos termos do artigo 25.º do [Decreto-Lei n.º 44287](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44287-1962-322681), de 20 de Abril de 1962."
+  },
+  "030b41e8b1aece7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nAos professores de Educação Física incumbe ministrar o ensino da ginástica, iniciar os alunos na prática do desporto e observar a conduta e reacções dos alunos durante a prática das diferentes actividades de educação física, exercendo sobre eles a necessária acção educativa."
+  },
+  "596601e3613de7a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nOs lugares de inspector e de chefes de secção do gabinete de estudos são livremente providos pelo Ministro da Justiça em licenciados em Direito com reconhecida competência para o bom desempenho da função."
+  },
+  "e5a5b055fc00a065": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1. O lugar de chefe da 2.ª secção da repartição da Direcção-Geral será provido, por livre escolha do Ministro, entre indivíduos com reconhecida competência para o exercício do cargo.\n\n2. Os restantes lugares da 2.ª secção serão providos mediante concurso de provas públicas entre os funcionários que tenham condições de promoção."
+  },
+  "a1a754ecd63d66bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n1. Os lugares de aspirante são providos, por contrato, entre indivíduos com a habilitação mínima do 1.º ciclo dos liceus ou equivalente.\n\n2. No provimento dos lugares de terceiro-oficial da Direcção-Geral, aos aspirantes com mais de três anos de bom e efectivo serviço habilitados com o respectivo concurso é reconhecida preferência legal sobre os candidatos com igual classificação."
+  },
+  "43358dacd93fb33c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nOs assistentes sociais são escolhidos entre os auxiliares sociais definitivamente providos no cargo, preferindo na nomeação os que tenham melhor classificação de serviço."
+  },
+  "35a9859af008757b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": "1967-05-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 47728](https://diariodarepublica.pt/dr/detalhe/decreto/47728-1967-312817), publicado em 1967-05-23."
+   ],
+   "markdown": "###### Artigo 56.º\n\n1. Os lugares de auxiliar social serão providos, por meio de contrato e em regime de estágio, entre indivíduos habilitados com o curso respectivo da Escola Prática de Ciências Criminais.\n\n2. Na falta de candidatos com a habilitação necessária, podem ser contratados no mesmo regime os que tiverem a habilitação mínima do 2.º ciclo dos liceus ou equivalente e a idoneidade necessária.\n\n3. Só podem ser providos vitalìciamente no cargo de auxiliar social os candidatos que, além de possuírem o curso respectivo da Escola Prática de Ciências Criminais, revelem ao fim de dois anos de estágio especial aptidão para o lugar, atestada pelo inspector. Quando as circunstâncias o aconselhem, pode o Ministro da Justiça, por simples despacho, prorrogar este prazo por mais dois anos.\n\n4. Aos auxiliares sociais reprovados no curso da Escola Prática ou que, durante o período de estágio, mostrem falta de idoneidade, será imediatamente rescindido o contrato.\n\n5. Os agentes de assistência e vigilância social podem ser providos vitalìciamente no cargo de auxiliar social, desde que tenham frequentado com aproveitamento algum curso de especialização da Escola Prática de Ciências Criminais.\n\n> Alterado pelo/a [Decreto n.º 47728](https://diariodarepublica.pt/dr/detalhe/decreto/47728-1967-312817), publicado em 1967-05-23."
+  },
+  "a4f9fab7eb5edc3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\nÉ de livre. escolha do Ministro da Justiça o primeiro provimento do lugar de primeiro-oficial da 2.ª secção, resultante da fixação do quadro a que se refere o artigo 17.º do [Decreto-Lei n.º 44287](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44287-1962-322681), de 20 de Abril de 1962."
+  },
+  "e77e4b2437e8d6e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\n1. Os lugares de director serão providos livremente pelo Ministro da Justiça em indivíduos de reconhecida competência, habilitados com qualquer curso superior.\n\n2. As funções de director do Instituto Navarro de Paiva serão exercidas, em regime de acumulação e mediante a gratificação fixada no mapa n.º 2 anexo ao [Decreto-Lei n.º 44287](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44287-1962-322681), pelo funcionário do quadro do estabelecimento ou dos quadros únicos da Direcção-Geral que o Ministro da Justiça designar.\n\nA designação feita pelo Ministro é válida por dois anos, é renovável no termo de cada período e não pode ser recusada."
+  },
+  "c06f7cd099d8f146": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\n1. Os lugares de secretário de 2.ª classe serão providos em secretários de 3.ª classe com mais de três anos de exercício no cargo e classificação de serviço não inferior a Bom.\n\n2. Os lugares de secretário de 3.ª classe serão preenchidos de entre os terceiros-oficiais e aspirantes, com mais de três anos de exercício no cargo e classificação de serviço não inferior a Bom.\n\n3. Na falta de concorrentes com as condições exigidas nos números anteriores, podem os lugares de secretário ser preenchidos por indivíduos com a habilitação mínima do 2.º ciclo dos liceus ou equivalente e a idoneidade necessária."
+  },
+  "52ed19a3ef85ee45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nAs vagas de educador de 1.ª classe serão preenchidas por educadores de 2.ª com mais de três anos de exercício no cargo, constituindo motivo de preferência a melhor classificação de serviço."
+  },
+  "407ab58a7f6cd7c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nOs lugares de educador de 2.ª classe serão providos, mediante concurso documental e em regime de estágio por dois anos, entre indivíduos habilitados com o curso do Magistério Primário ou com o curso adequado da Escola Prática de Ciências Criminais."
+  },
+  "10ad46a673bf0a42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nOs lugares de monitor-vigilante de 1.ª, 2.ª e 3.ª classes serão providos em funcionários da mesma categoria e de classe imediatamente inferior com mais de três anos de exercício no cargo e classificação de serviço não inferior a Bom."
+  },
+  "56009c57c07fa5c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nOs lugares de monitor-vigilante auxiliar serão providos, mediante concurso documental e em regime de estágio por dois anos, entre indivíduos habilitados, pelo menos, com o exame de instrução primária."
+  },
+  "ec55eec435265abb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º",
+   "in_force_from": "1967-05-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 47728](https://diariodarepublica.pt/dr/detalhe/decreto/47728-1967-312817), publicado em 1967-05-23."
+   ],
+   "markdown": "###### Artigo 64.º\n\nOs lugares de psicólogo serão providos, em regime de estágio por dois anos, em licenciados em Medicina ou em Letras, com reconhecida competência e idoneidade para o exercício das funções.\n\n> Alterado pelo/a [Decreto n.º 47728](https://diariodarepublica.pt/dr/detalhe/decreto/47728-1967-312817), publicado em 1967-05-23."
+  },
+  "22406811722c4042": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\n1. Os lugares de professor de Desenho e Trabalhos Manuais serão providos, mediante concurso documental e em regime de estágio por dois anos, em indivíduos habilitados com os cursos adequados.\n\n2. Os lugares de professor de Educação Física serão providos, nas condições previstas no número anterior, em indivíduos habilitados com o curso do Instituto Nacional de Educação Física.\n\n3. Na falta de candidatos com as habilitações exigidas, podem ser contratados, por períodos renováveis de um ano, indivíduos com reconhecida idoneidade para o desempenho das funções. Neste caso, o cargo é remunerado por gratificação paga por força do vencimento orçamentado."
+  },
+  "9cb598d0ec550ccc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\n1. Os lugares de mestre e contramestre de oficinas serão providos, mediante concurso documental e de provas práticas e em regime de estágio por dois anos, em indivíduos habilitados com os respectivos cursos de escolas técnicas.\n\n2. Na falta de candidatos com as habilitações exigidas ou sempre que se trate de arte ou oficio cujo ensino não seja professado nas escolas técnicas oficiais, poderá ser aberto concurso documental e de provas práticas entre profissionais com três anos, pelo menos, de trabalho efectivo na respectiva modalidade e que possuam a habilitação mínima da 4.ª classe do ensino primário."
+  },
+  "8ad7bc3a9e34798c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\nOs lugares de regente agrícola serão providos, mediante concurso documental e em regime de estágio por dois anos, entre indivíduos habilitados com o respectivo curso."
+  },
+  "acc9883ec78d995d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\n1. Os lugares de ecónomo de 1.ª e 2.ª classes, de contabilista e de terceiro-oficial serão providos, mediante concurso de provas públicas, em indivíduos com a habilitação mínima do 2.º ciclo dos liceus ou equivalente. O provimento dos lugares de ecónomo de 3.ª classe e de aspirante serão feitos nos mesmos termos, mas bastará a habilitação mínima do 1.º ciclo dos liceus ou equivalente.\n\n2. No provimento dos lugares de terceiro-oficial de qualquer estabelecimento, os aspirantes com mais de três anos de bom e efectivo serviço têm preferência sobre os restantes concorrentes com igual classificação no concurso."
+  },
+  "8698994d94d7a894": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º\n\nOs lugares de assistente religioso serão providos por contrato, depois de ouvido o ordinário da respectiva diocese."
+  },
+  "1b1b6e27af3cf715": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º\n\nOs lugares de médico são de livre escolha do Ministro da Justiça de entre os licenciados em Medicina com reconhecida competência e idoneidade para o exercício das funções."
+  },
+  "1d0a49b83d080105": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º\n\nOs lugares de enfermeiro de qualquer classe serão providos, mediante concurso documental e de provas práticas, entre os indivíduos habilitados com o curso de enfermagem ou, na sua falta, entre auxiliares de enfermagem diplomados."
+  },
+  "fa3b32b807d3a021": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º\n\nOs candidatos aos lugares de educador, monitor-vigilante, mestre e contramestre serão submetidos a exame pelos médicos privativos dos serviços tutelares de menores, tendente a investigar das condições psicossomáticas de cada um com vista às especiais exigências dos respectivos cargos."
+  },
+  "a4bb4762b7f0608b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º\n\nOs restantes lugares dos estabelecimentos dependentes serão providos livremente de entre os indivíduos que reúnam as condições requeridas pela lei geral, com excepção daqueles que pela sua natureza pressuponham habilitação especial."
+  },
+  "74e2f2f3adb2cc37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º\n\nAlém dos casos expressamente referidos no presente diploma, o Ministro da Justiça poderá determinar a abertura de concurso documental ou de provas públicas para provimento de outros lugares dos serviços tutelares de menores."
+  },
+  "d19e587f3be1fbbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º\n\n1. Para os serviços das explorações económicas ou do ensino profissional dos estabelecimentos pode ser contratado ou assalariado o pessoal de carácter permanente ou eventual que seja indispensável, mas as despesas com vencimentos salários e outros abonos constituirão encargo dos respectivos orçamentos, em conta de receitas próprias.\n\n2. Só podem ser contratados indivíduos para funções caracterizadamente técnicas.\n\n3. A criação de lugares de contratados ou assalariados de carácter permanente, assim como a sua extinção será feita por simples portaria do Ministro da Justiça.\n\n4. Em casos excepcionais, com o acordo do Ministro das Finanças, poderão ser fixados vencimentos ou remunerações especiais a indivíduos contratados para o exercício de funções que pela sua natureza exijam uma técnica especializada."
+  },
+  "45fd14904656bcde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º\n\nO pessoal assalariado pode ser admitido e despedido pelo director do respectivo estabelecimento, depois de obtido, por intermédio da Direcção-Geral, despacho ministerial de concordância."
+  },
+  "630804cecae5342e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º\n\nFora das condições estabelecidas neste diploma não é permitida a admissão nos respectivos serviços de outro pessoal a custear quer pelo orçamento do Ministério da Justiça, quer pelos orçamentos em conta de receitas próprias."
+  },
+  "e17df0d8345cbaa3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da Federação Nacional das Instituições de Protecção à Infância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da Federação Nacional das Instituições de Protecção à Infância"
+  },
+  "a5a6aa1d1c387fe7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º\n\nIncumbe à Federação, como organismo coordenador das actividades em prol da juventude, colaborar com instituições nacionais, estrangeiras e internacionais que se ocupem dos problemas da protecção moral, social e jurídica da infância."
+  },
+  "bebe96dca0c57989": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º\n\nA Federação é o organismo representante de Portugal na Union Internationale de Protection de l'Enfance, com sede em Genebra."
+  },
+  "dad8d56b2ba9f9da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º\n\n1. Poderão filiar-se na Federação as instituições públicas ou particulares que tenham por fim principal a defesa e a protecção, sob qualquer aspecto, da infância e da juventude.\n\n2. A filiação não envolve subordinação à Federação nem colide com a hierarquia administrativa em que se integrem as entidades filiadas.\n\n3. A Federação fornecerá às entidades filiadas informações sobre as actividades da Union Internationale de Protection de l'Enfance ou de outros organismos internacionais com os quais esteja em contacto e distribuir-lhes-á gratuitamente a revista ou boletim dos serviços.\n\n4. As instituições federadas podem tomar parte, com a qualidade de membros da Federação, nas reuniões do Conselho Geral da Union Internationale de Protection de l'Enfance e do Congresso Mundial de Protecção à Infância."
+  },
+  "52250fbdde2b82f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º",
+   "in_force_from": "1967-05-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 47728](https://diariodarepublica.pt/dr/detalhe/decreto/47728-1967-312817), publicado em 1967-05-23."
+   ],
+   "markdown": "###### Artigo 81.º\n\n1. As receitas da Federação, constantes do subsídio inscrito no Orçamento Geral do Estado destinam-se à satisfação das respectivas despesas e das da Direcção-Geral dos Serviços Tutelares de Menores, e designadamente das que se referem a:\n\na) Subsídios para obras, apetrechamento e funcionamento dos serviços dependentes;\n\nb) Serviço social e patronato de internados, de ex-internados e de quaisquer outros menores que cumpram medidas decretadas pelos tribunais de menores;\n\nc) Internamento, tratamento ou observação de menores em serviços hospitalares, assistenciais, de educação ou outros, oficiais ou particulares;\n\nd) Subsídios a famílias próprias ou alheias, que tenham a seu cargo menores sujeitos à jurisdição dos tribunais tutelares;\n\ne) Estudos, trabalhos, reuniões, estágios, frequência de cursos, congressos e representações nacionais ou internacionais.\n\n2. Poderão ser concedidos subsídios a entidades particulares especializadas que tenham entre os seus fins os de prevenção, tratamento, ou recuperação de menores e que, para o efeito, estabeleçam acordos com a Direcção-Geral dos Serviços Tutelares de Menores.\n\n> Alterado pelo/a [Decreto n.º 47728](https://diariodarepublica.pt/dr/detalhe/decreto/47728-1967-312817), publicado em 1967-05-23."
+  },
+  "876e37fd75a139e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições gerais"
+  },
+  "6ab9082e78586e7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º\n\nAos funcionários que o requeiram ou que por exigência do serviço ou determinação superior tenham de permanecer nos estabelecimentos pode ser fornecida alimentação confeccionada para os internados, mediante a importância do seu custo, a qual constituirá receita do Estado."
+  },
+  "cc7a02c22a267482": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º\n\nNa falta de regulamentação especial contida neste diploma, nomeadamente sobre provimento de cargos, organização e funcionamento dos serviços, são de observar, na parte aplicável, as disposições da lei orgânica da Direcção-Geral da Justiça e respectivo regulamento.\n\nMinistério da Justiça, 20 de Abril de 1962. - O Ministro da Justiça, João de Matos Antunes Varela."
+  }
+ }
+}

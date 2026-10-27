@@ -24,6 +24,16 @@ publication:
   pages: 1736 - 1737
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/087a00/17361737.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação de que se encontram cumpridas as formalidades para tal efeito exigidas pela ordem jurídica
+    interna de cada uma das Partes
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

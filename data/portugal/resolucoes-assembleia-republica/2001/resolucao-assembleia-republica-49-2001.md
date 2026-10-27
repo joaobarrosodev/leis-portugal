@@ -25,6 +25,15 @@ publication:
   pages: 4274 - 4293
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/161a00/42744293.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'aos 30 dias posteriores ao envio da última notificação a que se refere o n.º 1 e as suas disposições serão aplicáveis:'
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

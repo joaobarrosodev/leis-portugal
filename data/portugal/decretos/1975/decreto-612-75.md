@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1781 - 1782
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26100/17811782.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-11-11'
+entry_into_force:
+  date: '1975-11-11'
+  rule: na data da publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

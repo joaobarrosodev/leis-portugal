@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 3527 - 3528
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/13100/0352703528.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-11'
+entry_into_force:
+  date: '2017-07-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:886514233:por'
+    detail: Revogada, a partir de 7 de setembro de 2024, pelo(a) Resolução do Conselho de Ministros n.º 121/2024 - Diário
+      da República n.º 169/2024, Série I de 2024-09-02 nos termos do n.º 11 desta
 notes: []
 language: por
 version:

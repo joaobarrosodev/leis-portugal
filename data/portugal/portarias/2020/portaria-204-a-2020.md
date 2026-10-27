@@ -23,7 +23,18 @@ publication:
   supplement: 1º Suplemento
   pages: 23-(2) a 23-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/16501/0000200009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-26'
+entry_into_force:
+  date: '2020-08-26'
+  rule: no dia seguinte ao da sua publicação e os seus efeitos retroagem à data da entrada em vigor dos regulamentos objeto
+    de alteração
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

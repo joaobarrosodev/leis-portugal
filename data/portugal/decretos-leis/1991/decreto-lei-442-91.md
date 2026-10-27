@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5852 - 5871
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/263a00/58525871.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-05-15'
+entry_into_force:
+  date: '1992-05-15'
+  rule: seis meses após a data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes:

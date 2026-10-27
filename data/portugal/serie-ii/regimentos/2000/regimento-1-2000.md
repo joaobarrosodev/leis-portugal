@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 12064 - 12069
   pdf_url: https://files.diariodarepublica.pt/2s/2000/07/166000000/1206412069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-07-21'
+entry_into_force:
+  date: '2000-07-21'
+  rule: 'no dia imediato ao da sua publicação na 2.ª série do Diário da República e revoga o regimento publicado no Diário
+    da República, 2.ª série, n.º 134, de 14 de Junho de 1991, bem como as suas alterações '
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

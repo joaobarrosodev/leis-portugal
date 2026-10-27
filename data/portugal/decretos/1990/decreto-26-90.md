@@ -24,6 +24,16 @@ publication:
   pages: 2854 - 2860
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/15500/28542860.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'a partir da data da conclusão da troca de notas pelas quais cada uma das Partes contratantes comunicará à outra que
+    se encontram cumpridas as formalidades constitucionais exigidas para a sua vigência '
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

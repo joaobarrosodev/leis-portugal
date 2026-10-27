@@ -24,6 +24,16 @@ publication:
   pages: 2493 - 2494
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13200/24932494.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última das notas diplomáticas trocadas entre as Partes dando conta de que se encontram cumpridas
+    as formalidades exigidas pela respectiva ordem jurídica interna
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

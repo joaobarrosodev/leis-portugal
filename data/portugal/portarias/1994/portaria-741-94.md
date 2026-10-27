@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4699 - 4700
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/187b00/46994700.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-09-01'
+entry_into_force:
+  date: '1994-09-01'
+  rule: no dia 1 do mês seguinte à sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

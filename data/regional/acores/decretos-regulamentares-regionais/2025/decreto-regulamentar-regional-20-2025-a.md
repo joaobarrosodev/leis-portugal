@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 45 - 50
   pdf_url: https://files.diariodarepublica.pt/1s/2025/07/13300/0004500050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-07-15'
+entry_into_force:
+  date: '2025-07-15'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2024-12-11'
+  effects_rule: a 11 de dezembro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

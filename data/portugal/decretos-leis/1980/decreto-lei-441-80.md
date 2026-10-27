@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3111 - 3111
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/22900/31113111.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-10-04'
+entry_into_force:
+  date: '1980-10-04'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

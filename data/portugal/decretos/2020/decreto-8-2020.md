@@ -23,6 +23,15 @@ publication:
   pages: 2 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/217a00/0000200008.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 9 de novembro de 2020
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

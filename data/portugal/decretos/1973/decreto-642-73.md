@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2371 - 2372
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/28600/23712372.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-01-01'
+entry_into_force:
+  date: '1974-01-01'
+  rule: em 1 de Janeiro de 1974, excepto quanto às disposições dos artigos 3.º, 7.º, 15.º e 17.º, que são de aplicação imediata
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

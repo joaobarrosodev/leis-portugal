@@ -22,7 +22,17 @@ publication:
   supplement: 9º Suplemento
   pages: 3446-(179) a 3446-(192)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29909/01790192.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-04-01'
+entry_into_force:
+  date: '1980-04-01'
+  rule: em 1 de Abril de 1980, data até à qual terá de ser publicado o seu regulamento
+  method: clausula
+  article: art-96
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

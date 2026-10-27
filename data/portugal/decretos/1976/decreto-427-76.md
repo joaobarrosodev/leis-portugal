@@ -24,6 +24,16 @@ publication:
   pages: 1230 - 1232
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/12800/12301232.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de recepção da segunda das notas pelas quais as Partes Contratantes se informam reciprocamente quanto à sua
+    aprovação, em concordância com as formalidades constitucionais de ambos os países
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 507 - 508
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/020b00/05070508.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato a seguir ao da sua publicação
+  method: clausula
+  article: n-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

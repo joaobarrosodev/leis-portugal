@@ -23,6 +23,15 @@ publication:
   pages: 8690 - 8690
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/24200/0869008690.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Orçamento do Estado para 2011
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

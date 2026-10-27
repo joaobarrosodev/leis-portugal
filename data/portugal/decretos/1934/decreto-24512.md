@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1934/09/22800/17691770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:228813:por#art-2'
+    detail: Fica revogado o [Decreto n.º 24512], de 27 de Setembro de 1934.
 notes: []
 language: por
 version:

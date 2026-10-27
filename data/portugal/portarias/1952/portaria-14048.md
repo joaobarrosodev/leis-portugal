@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1952/08/18000/08270828.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:671602:por'
+    detail: Revogada pelo(a) Portaria n.º 14082 - Diário do Governo n.º 201/1952, Série I de 1952-09-10
 notes: []
 language: por
 version:

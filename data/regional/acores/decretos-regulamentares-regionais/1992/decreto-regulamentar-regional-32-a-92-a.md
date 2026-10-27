@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3604-(4) a 3604-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/175b02/00040004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-08-01'
+entry_into_force:
+  date: '1992-08-01'
+  rule: no dia 1 de Agosto de 1992
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1948/11/27900/13211321.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:511595:por#art-7'
+    detail: Fica revogado o [Decreto n.º 37200], de 30 de Novembro de 1948.
 notes: []
 language: por
 version:

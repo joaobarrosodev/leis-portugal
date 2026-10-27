@@ -23,9 +23,25 @@ publication:
   supplement: null
   pages: 1560-1561
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/04/14/182167193.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-18'
+entry_into_force:
+  date: '2022-04-18'
+  rule: no dia 18 de abril de 2022
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: '2022-04-30'
+  end_rule: até 30 de abril de 2022
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: n-14'
+    detail: até 30 de abril de 2022
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1684 - 1704
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-05-01'
+entry_into_force:
+  date: '1985-05-01'
+  rule: em 1 de Maio de 1985
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

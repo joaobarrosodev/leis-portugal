@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 226 - 229
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01300/02260229.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-01-17'
+entry_into_force:
+  date: '1990-01-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

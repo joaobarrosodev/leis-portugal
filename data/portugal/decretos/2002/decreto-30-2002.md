@@ -25,6 +25,16 @@ publication:
   pages: 6352 - 6353
   pdf_url: https://files.diariodarepublica.pt/1s/2002/09/209a00/63526353.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data da última notificação, por via diplomática, dando conta de que foram cumpridos os procedimentos
+    constitucionalmente exigidos para a respectiva aprovação na sua ordem jurídica i
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

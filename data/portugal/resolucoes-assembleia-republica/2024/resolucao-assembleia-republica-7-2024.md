@@ -25,6 +25,15 @@ publication:
   pages: 39 - 51
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00700/0003900051.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ''
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

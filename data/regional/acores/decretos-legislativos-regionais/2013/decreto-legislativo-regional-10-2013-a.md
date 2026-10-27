@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4851 - 4856
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15500/0485104856.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-18'
+entry_into_force:
+  date: '2013-08-18'
+  rule: cinco dias após a sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

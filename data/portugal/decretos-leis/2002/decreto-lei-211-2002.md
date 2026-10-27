@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6811 - 6814
   pdf_url: https://files.diariodarepublica.pt/1s/2002/10/240a00/68116814.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-02-01'
+entry_into_force:
+  date: '2003-02-01'
+  rule: no 1.º dia do 4.º mês subsequente à sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

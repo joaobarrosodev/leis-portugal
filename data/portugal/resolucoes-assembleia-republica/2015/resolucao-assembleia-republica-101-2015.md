@@ -23,6 +23,16 @@ publication:
   pages: 4944 - 4958
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14200/0494404958.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de três meses após a data em que seis Signatários, dos quais
+    pelo menos quatro sejam membros do Conselho da Europa, tenham exprimido o seu consen
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

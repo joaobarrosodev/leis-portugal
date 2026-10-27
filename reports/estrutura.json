@@ -1,0 +1,398 @@
+{
+ "gerado_em": "2026-10-27",
+ "artigos": {
+  "registos": 304801,
+  "com_texto": 212164,
+  "por_unidade": {
+   "artigos": 63662,
+   "nenhum": 89751,
+   "numeros": 58220,
+   "so_anexos": 531
+  },
+  "com_artigos": 63662,
+  "com_artigos_ou_numeros": 121882,
+  "em_vigor_com_texto": 128778,
+  "em_vigor_com_artigos": 37050,
+  "em_vigor_com_artigos_ou_numeros": 76353,
+  "artigos_identificados": 967031,
+  "numeros_identificados": 285117,
+  "com_anexos": 6429,
+  "com_numeracao_repetida": 878,
+  "ids_duplicados": 0,
+  "so_texto_corrido": 82048,
+  "com_titulos": 40365,
+  "artigos_antes": 38933
+ },
+ "entrada_em_vigor": {
+  "com_texto": 212164,
+  "por_metodo": {
+   "clausula_com_data": 30926,
+   "clausula_so_regra": 4064,
+   "sem_clausula": 124782,
+   "supletiva": 52392
+  },
+  "calculadas_do_texto": 30926,
+  "so_regra": 4064,
+  "supletivas": 52392,
+  "sem_clausula": 124782,
+  "com_data_de_efeitos": 12179,
+  "com_regra_de_efeitos_sem_data": 5071,
+  "com_fim_de_vigencia": 227,
+  "com_clausulas_parciais": 17928,
+  "regras_mais_frequentes_sem_data": [
+   [
+    "no dia seguinte ao da sua assinatura",
+    126
+   ],
+   [
+    "no dia útil seguinte ao da sua publicação",
+    113
+   ],
+   [
+    "na data da sua assinatura",
+    106
+   ],
+   [
+    "no N.º dia útil seguinte ao da sua publicação",
+    82
+   ],
+   [
+    "no primeiro dia útil seguinte ao da sua publicação",
+    82
+   ],
+   [
+    "no N.º dia útil do mês seguinte ao da sua publicação",
+    67
+   ],
+   [
+    "no primeiro dia útil do mês seguinte ao da sua publicação",
+    63
+   ],
+   [
+    "na data da assinatura",
+    46
+   ],
+   [
+    "na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica",
+    41
+   ],
+   [
+    "decorridos N dias após a data da sua publicação",
+    28
+   ],
+   [
+    "imediatamente",
+    26
+   ],
+   [
+    "no dia útil seguinte ao da sua publicação e",
+    20
+   ],
+   [
+    ":",
+    19
+   ],
+   [
+    "com o orçamento do estado subsequente à sua publicação",
+    19
+   ],
+   [
+    "N dias após a recepção da última notificação, por escrito e por via diplomática, de que fo",
+    18
+   ]
+  ],
+  "por_jurisdicao_e_serie": {
+   "portugal / série I": {
+    "clausula_com_data": 23177,
+    "clausula_so_regra": 3321,
+    "sem_clausula": 76502,
+    "supletiva": 52392
+   },
+   "portugal / série II": {
+    "clausula_com_data": 2940,
+    "clausula_so_regra": 409,
+    "sem_clausula": 41995
+   },
+   "regional / série ?": {
+    "sem_clausula": 4
+   },
+   "regional / série I": {
+    "clausula_com_data": 4753,
+    "clausula_so_regra": 333,
+    "sem_clausula": 6065
+   },
+   "regional / série II": {
+    "clausula_com_data": 56,
+    "clausula_so_regra": 1,
+    "sem_clausula": 216
+   }
+  }
+ },
+ "vigencia": {
+  "desconhecidos": 113906,
+  "por_categoria": {
+   "caducado": 22,
+   "conflito": 7,
+   "historico_so_pdf": 55742,
+   "revogacao_parcial": 120,
+   "revogacao_por_confirmar": 47,
+   "revogado": 349,
+   "sem_prova": 57619
+  },
+  "estado_proposto": {
+   "not_in_force": 22,
+   "repealed": 349
+  },
+  "resolvidos": 371,
+  "revogacoes_lidas_no_texto": 18452,
+  "diplomas_revogados_no_texto": 15987,
+  "precisao_nos_estados_conhecidos": {
+   "texto": {
+    "repealed": 326,
+    "not_in_force": 10382,
+    "em_vigor": 1360,
+    "concordam": 10708,
+    "total": 12068,
+    "taxa": 0.8873
+   },
+   "relacao": {
+    "repealed": 0,
+    "not_in_force": 20387,
+    "em_vigor": 1086,
+    "concordam": 20387,
+    "total": 21473,
+    "taxa": 0.9494
+   }
+  }
+ },
+ "validacao": {
+  "amostra": 265,
+  "consolidados_no_acervo": 5664,
+  "atual": {
+   "diplomas": 265,
+   "mesmo_numero_de_artigos": 258,
+   "tudo_igual": 254,
+   "partes_iguais": 261,
+   "artigos_dre": 10826,
+   "artigos_parser": 10814,
+   "epigrafes_iguais": 10578
+  },
+  "original": {
+   "diplomas": 228,
+   "mesmo_numero_de_artigos": 223,
+   "tudo_igual": 221,
+   "partes_iguais": 222,
+   "artigos_dre": 8801,
+   "artigos_parser": 8811,
+   "epigrafes_iguais": 8607
+  },
+  "diferencas": [
+   {
+    "path": "data/portugal/decretos-governo/1984/decreto-governo-28-84.md",
+    "artigos_parser": 1,
+    "artigos_dre": 1,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 0,
+    "epigrafes_iguais": 1,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 0,
+     "parser": [
+      "",
+      "único",
+      ""
+     ],
+     "dre": [
+      "",
+      "Annexe 6.º",
+      ""
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/decretos-leis/2013/decreto-lei-154-2013.md",
+    "artigos_parser": 35,
+    "artigos_dre": 34,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 19,
+    "epigrafes_iguais": 19,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 19,
+     "parser": [
+      "",
+      "20.º",
+      "Efeitos do reconhecimento como projeto PIN"
+     ],
+     "dre": [
+      "",
+      "21.º",
+      "Simultaneidade dos procedimentos"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/decretos-leis/2014/decreto-lei-187-2014.md",
+    "artigos_parser": 39,
+    "artigos_dre": 37,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 5,
+    "epigrafes_iguais": 6,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 5,
+     "parser": [
+      "",
+      "6.º",
+      "Estrutura orgânica"
+     ],
+     "dre": [
+      "",
+      "8.º",
+      "Competência do Chefe do Estado-Maior da Força Aérea"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/decretos-leis/2016/decreto-lei-64-2016.md",
+    "artigos_parser": 147,
+    "artigos_dre": 143,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 39,
+    "epigrafes_iguais": 40,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 39,
+     "parser": [
+      "Anexo II — (a que se refere o artigo 6.º)",
+      "4.º",
+      "Âmbito de aplicação"
+     ],
+     "dre": [
+      "Anexo II — (a que se refere o artigo 6.º)",
+      "6.º",
+      "Procedimentos de diligência devida para as contas de menor valor"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/decretos-leis/2017/decreto-lei-18-2017.md",
+    "artigos_parser": 120,
+    "artigos_dre": 117,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 44,
+    "epigrafes_iguais": 45,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 44,
+     "parser": [
+      "Anexo II — ESTATUTOS DOS HOSPITAIS, CENTROS HOSPITALARES E INSTITUTOS PORTUGUESES DE ONCOLOGIA, E. P. E.",
+      "5.º",
+      "Órgãos"
+     ],
+     "dre": [
+      "Anexo II — ESTATUTOS DOS HOSPITAIS, CENTROS HOSPITALARES E INSTITUTOS PORTUGUESES DE ONCOLOGIA, E. P. E.",
+      "6.º",
+      "Composição e mandato"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/decretos-leis/2022/decreto-lei-15-2022.md",
+    "artigos_parser": 463,
+    "artigos_dre": 463,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 463,
+    "epigrafes_iguais": 461,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 385,
+     "parser": [
+      "ANEXO III — Bases da concessão da Rede Nacional de Distribuição de Eletricidade em Média e Alta Tensão",
+      "V",
+      ""
+     ],
+     "dre": [
+      "ANEXO III — Bases da concessão da Rede Nacional de Distribuição de Eletricidade em Média e Alta Tensão",
+      "V",
+      "Princípios aplicáveis às relações com a concessionária da rede nacional de transporte de eletricidade, produtores, distribuidores em baixa tensão, comercializadores, agregadores e outros utilizadores das redes"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/decretos-leis/2023/decreto-lei-10-2023.md",
+    "artigos_parser": 162,
+    "artigos_dre": 162,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 162,
+    "epigrafes_iguais": 160,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 46,
+     "parser": [
+      "",
+      "47.º",
+      ""
+     ],
+     "dre": [
+      "",
+      "47.º",
+      "Assunção de compromissos plurianuais relativos a contratos financiados pelo Fundo Europeu de Desenvolvimento Regional, pelo Fundo Social Europeu, pelo Fundo de Coesão e pelo Fundo para uma Transição Justa"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/decretos/1980/decreto-50-80.md",
+    "artigos_parser": 51,
+    "artigos_dre": 51,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 26,
+    "epigrafes_iguais": 51,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 26,
+     "parser": [
+      "Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+      "I",
+      "Definitions"
+     ],
+     "dre": [
+      "Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+      "Article I",
+      "Definitions"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/portarias/1986/portaria-55-c-86.md",
+    "artigos_parser": 0,
+    "artigos_dre": 11,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 0,
+    "epigrafes_iguais": 0,
+    "partes_iguais": false,
+    "primeira_diferenca": null
+   },
+   {
+    "path": "data/portugal/portarias/2000/portaria-1226-du-2000.md",
+    "artigos_parser": 0,
+    "artigos_dre": 12,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 0,
+    "epigrafes_iguais": 0,
+    "partes_iguais": false,
+    "primeira_diferenca": null
+   },
+   {
+    "path": "data/portugal/regimentos/2007/regimento-assembleia-republica-1-2007.md",
+    "artigos_parser": 271,
+    "artigos_dre": 270,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 270,
+    "epigrafes_iguais": 270,
+    "partes_iguais": true,
+    "primeira_diferenca": null
+   }
+  ]
+ }
+}

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5151 - 5153
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/189b00/51515153.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-09-16'
+entry_into_force:
+  date: '1995-09-16'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

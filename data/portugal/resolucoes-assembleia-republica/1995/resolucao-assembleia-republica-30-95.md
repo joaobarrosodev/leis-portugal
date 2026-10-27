@@ -24,6 +24,15 @@ publication:
   pages: 3580 - 3589
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/130a00/35803589.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.° dia após a data em que 10 Partes na Convenção tenham preenchido os requisitos do parágrafo 2 do artigo 19.°
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

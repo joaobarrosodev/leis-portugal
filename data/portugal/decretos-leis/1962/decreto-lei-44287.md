@@ -23,6 +23,15 @@ publication:
   pages: 479 - 512
   pdf_url: https://files.diariodarepublica.pt/1s/1962/04/08901/04790512.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 24 de Abril do ano corrente
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

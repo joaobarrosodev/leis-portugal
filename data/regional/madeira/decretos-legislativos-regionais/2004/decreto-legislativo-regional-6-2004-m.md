@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2673 - 2675
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/101a00/26732675.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-04-30'
+entry_into_force:
+  date: '2004-04-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2004-01-01'
+  effects_rule: a partir do dia 1 de Janeiro de 2004
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

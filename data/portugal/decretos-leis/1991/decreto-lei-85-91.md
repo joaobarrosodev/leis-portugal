@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 918 - 919
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/045a00/09180919.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-02-28'
+entry_into_force:
+  date: '1991-02-28'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1990-07-01'
+  effects_rule: desde 1 de Julho de 1990
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

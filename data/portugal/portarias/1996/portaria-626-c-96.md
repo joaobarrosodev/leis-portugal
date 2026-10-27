@@ -23,6 +23,15 @@ publication:
   pages: 3904-(6) a 3904-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/255b02/00060009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data da Lei n.º 48/96, de 4 de Setembro
+  method: clausula
+  article: n-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

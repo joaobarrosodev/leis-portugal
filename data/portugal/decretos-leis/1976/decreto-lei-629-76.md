@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1729 - 1730
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17500/17291730.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-07-28'
+entry_into_force:
+  date: '1976-07-28'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

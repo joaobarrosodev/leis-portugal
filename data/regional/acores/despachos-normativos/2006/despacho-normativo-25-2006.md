@@ -25,6 +25,15 @@ publication:
   pages: '759'
   pdf_url: null
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às zero horas do dia 19 de Maio de 2006
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

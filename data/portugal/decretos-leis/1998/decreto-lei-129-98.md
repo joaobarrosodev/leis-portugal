@@ -23,6 +23,15 @@ publication:
   pages: 2228 - 2242
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/110a00/22282242.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês seguinte ao decurso de 30 dias sobre a data da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

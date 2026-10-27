@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 668 - 675
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/030a00/06680675.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-03-07'
+entry_into_force:
+  date: '1999-03-07'
+  rule: 30 dias após a sua publicação, só se aplicando aos procedimentos iniciados depois dessa data
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

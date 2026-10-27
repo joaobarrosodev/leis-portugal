@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 861 - 861
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/041b00/08610861.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-02-19'
+entry_into_force:
+  date: '1999-02-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

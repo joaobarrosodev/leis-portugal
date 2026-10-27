@@ -23,9 +23,27 @@ publication:
   supplement: null
   pages: 3059 - 3060
   pdf_url: https://files.diariodarepublica.pt/2s/2008/01/015000000/0305903060.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-02-18'
+entry_into_force:
+  date: '2008-02-18'
+  rule: no dia 18 de Fevereiro de 2008, ou na data da efectiva migração do TARGET2-PTpara a Plataforma Única Partilhada do
+    TARGET2 se a referida migração só puder ocorrer em data posterior
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:3516249:por#art-2'
+    detail: É revogado o [Aviso do Banco de Portugal n.º 1/2008], publicado no Diário da República n.º 15, Série II Parte
+      E, de 22 de Janeiro.
 notes: []
 language: por
 version:

@@ -23,6 +23,16 @@ publication:
   pages: 608 - 610
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/05800/06080610.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 60 dias após a data da sua publicação, excepto no que respeita ao disposto no artigo 10.º e no n.º 1 do
+    artigo 11.º, cujo prazo será de 1 ano
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

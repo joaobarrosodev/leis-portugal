@@ -24,6 +24,16 @@ publication:
   pages: 3758 - 3771
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/145a00/37583771.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao decurso de um período de três meses após a data em que 12 Estados membros do Conselho
+    da Europa tenham manifestado o seu consentimento a vincular-se pela Convenção Quadro
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 2316 - 2317
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/095a00/23162317.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca dos instrumentos de ratificação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

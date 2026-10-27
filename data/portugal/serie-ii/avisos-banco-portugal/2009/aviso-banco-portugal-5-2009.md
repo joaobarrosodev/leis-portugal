@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 34018 - 34022
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/161000000/3401834022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-18'
+entry_into_force:
+  date: '2009-11-18'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

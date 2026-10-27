@@ -24,6 +24,16 @@ publication:
   pages: 4 - 13
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13300/0000400013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da receção da última notificação das Partes, por escrito e por via diplomática, de que foram cumpridos
+    os procedimentos jurídicos internos
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

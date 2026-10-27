@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2492 - 2493
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/123b00/24922493.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-05-29'
+entry_into_force:
+  date: '1998-05-29'
+  rule: no dia imediatamente a seguir ao da sua publicação
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5360 - 5367
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/210b00/53605367.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-09-10'
+entry_into_force:
+  date: '1994-09-10'
+  rule: a partir da data da sua publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

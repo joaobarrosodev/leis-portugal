@@ -24,6 +24,15 @@ publication:
   pages: 4424-(42) a 4424-(43)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29802/00420043.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data em que começar a vigorar o Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de Fevereiro
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

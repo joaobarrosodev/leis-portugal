@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2950 - 2950
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16800/29502950.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-07-23'
+entry_into_force:
+  date: '1988-07-23'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

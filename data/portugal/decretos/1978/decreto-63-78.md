@@ -23,6 +23,16 @@ publication:
   pages: 1195 - 1197
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15100/11951197.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da sua assinatura e permanecerá válido por um período de dois anos a contar dessa data, e será automaticamente
+    prorrogado por períodos sucessivos de um ano, excepto no caso em que uma das Parte
+  method: clausula
+  article: art-x
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

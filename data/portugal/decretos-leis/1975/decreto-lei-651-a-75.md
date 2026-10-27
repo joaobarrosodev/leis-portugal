@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1844-(1) a 1844-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26801/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-11-19'
+entry_into_force:
+  date: '1975-11-19'
+  rule: na data da publicação
+  method: clausula
+  article: art-unico
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

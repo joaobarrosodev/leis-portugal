@@ -24,6 +24,16 @@ publication:
   pages: 546 - 548
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/026a00/05460548.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que a República Portuguesa comunique à República do Panamá que foram concluídas as formalidades
+    necessárias exigidas pelo ordenamento jurídico interno
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

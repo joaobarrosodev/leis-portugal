@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 229 - 234
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/075000000/0022900234.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-04-17'
+entry_into_force:
+  date: '2025-04-17'
+  rule: no dia seguinte ao da sua publicação na 2.ª série do Diário da República e aplica-se à inscrição nas provas especialmente
+    destinadas a avaliar a capacidade para a frequência para ingresso no ano letiv
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 55 - 63
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00400/00550063.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-02-05'
+entry_into_force:
+  date: '1987-02-05'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

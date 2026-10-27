@@ -24,6 +24,15 @@ publication:
   pages: 6121 - 6121
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/258b00/61216121.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do 1.º concurso do Totoloto do ano de 1998
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

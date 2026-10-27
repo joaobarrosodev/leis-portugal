@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05900/0000200010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-03-25'
+entry_into_force:
+  date: '2022-03-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: '2025-03-31'
+  end_rule: até 31 de março de 2025
 end_of_validity_date: null
 legal_status: repealed
 notes: []

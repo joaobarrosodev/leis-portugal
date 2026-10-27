@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2268 - 2270
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/07300/0226802270.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-06-30'
+entry_into_force:
+  date: '2011-06-30'
+  rule: no dia 30 de Junho de 2011
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

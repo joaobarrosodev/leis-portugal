@@ -24,6 +24,15 @@ publication:
   pages: 1138 - 1139
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/04100/0113801139.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil após a sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

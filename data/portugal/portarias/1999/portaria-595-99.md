@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4980 - 4981
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/178b00/49804981.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-08-07'
+entry_into_force:
+  date: '1999-08-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1999-06-01'
+  effects_rule: a partir do dia 1 de Junho de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

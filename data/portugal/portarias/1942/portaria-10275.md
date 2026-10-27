@@ -26,7 +26,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1942/12/27900/14631464.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:440491:por'
+    detail: Revogada pelo(a) Dec Lei 42604 - Diário do Governo n.º 242/1959, Série I de 1959-10-21
 notes: []
 language: por
 version:

@@ -24,6 +24,16 @@ publication:
   pages: 4336 - 4340
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/159a00/43364340.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando as duas Partes se notificarem mutuamente, por via diplomática, do cumprimento das formalidades exigidas para
+    o efeito pela ordem jurídica de cada uma das Partes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

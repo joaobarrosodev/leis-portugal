@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8806 - 8808
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/23600/0880608808.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-01'
+entry_into_force:
+  date: '2008-01-01'
+  rule: no dia 1 de Janeiro de 2008
+  method: clausula
+  article: art-13
+  effects_date: '2007-12-08'
+  effects_rule: no dia seguinte à publicação da respectiva regulamentação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

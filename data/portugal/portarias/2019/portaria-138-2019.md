@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2393 - 2400
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/09000/0239302400.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-11'
+entry_into_force:
+  date: '2019-05-11'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 127 - 127
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00400/0012700127.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-06'
+entry_into_force:
+  date: '2018-01-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2017-10-01'
+  effects_rule: a partir do dia 1 de outubro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

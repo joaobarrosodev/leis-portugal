@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 6736-(2) a 6736-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/231a01/00020006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-10-03'
+entry_into_force:
+  date: '1999-10-03'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

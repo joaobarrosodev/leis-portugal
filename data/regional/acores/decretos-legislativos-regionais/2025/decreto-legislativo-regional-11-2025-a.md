@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 56 - 64
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03600/0005600064.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-21'
+entry_into_force:
+  date: '2025-02-21'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1988 - 1988
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28400/19881988.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-12-10'
+entry_into_force:
+  date: '1975-12-10'
+  rule: na data da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: a partir da data do início de exercício de funções da primeira comissão administrativa nomeada
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

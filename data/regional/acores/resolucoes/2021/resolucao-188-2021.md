@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3808-3808
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/08/10/169418547.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-11'
+entry_into_force:
+  date: '2021-08-11'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

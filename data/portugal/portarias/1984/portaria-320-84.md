@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1706 - 1706
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12200/17061706.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-07-01'
+entry_into_force:
+  date: '1984-07-01'
+  rule: em 1 de Julho de 1984
+  method: clausula
+  article: art-52-h
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

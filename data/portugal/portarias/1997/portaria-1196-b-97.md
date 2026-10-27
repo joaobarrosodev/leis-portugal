@@ -24,6 +24,15 @@ publication:
   pages: 6384-(2) a 6384-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/274b01/00020002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na Região Autónoma da Madeira em 27 de Novembro de 1997
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

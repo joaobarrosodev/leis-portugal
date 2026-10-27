@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2281 - 2285
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19100/22812285.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-08-20'
+entry_into_force:
+  date: '1981-08-20'
+  rule: doze meses após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

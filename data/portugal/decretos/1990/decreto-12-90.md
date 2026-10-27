@@ -24,6 +24,15 @@ publication:
   pages: 2051 - 2071
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10000/20512071.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês posterior ao da troca dos instrumentos referidos no número anterior
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

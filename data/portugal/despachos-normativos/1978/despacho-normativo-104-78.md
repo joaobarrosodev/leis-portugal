@@ -24,6 +24,15 @@ publication:
   pages: 850 - 856
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/10600/08500856.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à medida que forem sendo esgotados os impressos existentes, porém impreterivelmente até 31 de Dezembro de 1978
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

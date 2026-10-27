@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2058 - 2058
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/22500/20582058.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-09-30'
+entry_into_force:
+  date: '1978-09-30'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

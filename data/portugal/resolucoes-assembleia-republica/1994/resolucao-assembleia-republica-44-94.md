@@ -27,6 +27,16 @@ publication:
   pages: 4040 - 4048
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data em que cada um destes Estados tenha manifestado o seu consentimento
+    em ficar vinculado, desde que o presente Protocolo tenha entrado em vigor, em conform
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

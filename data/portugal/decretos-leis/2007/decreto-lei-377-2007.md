@@ -26,6 +26,16 @@ publication:
   pages: 8346 - 8349
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21600/0834608349.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a entrada em vigor da regulamentação referida no n.º 2 do artigo 4.º, com excepção do disposto no artigo 4.º,
+    que
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

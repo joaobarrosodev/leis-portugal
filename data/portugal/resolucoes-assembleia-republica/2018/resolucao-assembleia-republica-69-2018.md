@@ -24,6 +24,16 @@ publication:
   pages: 1289 - 1298
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/05300/0128901298.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: '30 dias após a receção pelo Secretário-Geral da notificação da República Portuguesa, por escrito e por via diplomática,
+    de que foram cumpridos os seus requisitos de direito interno necessários para o '
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

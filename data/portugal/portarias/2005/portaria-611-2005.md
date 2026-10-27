@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4376 - 4376
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/143b00/43764376.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-07-28'
+entry_into_force:
+  date: '2005-07-28'
+  rule: no dia seguinte ao da sua publicação, sendo apenas aplicável aos processos apresentados no INR em data posterior à
+    da sua entrada em vigor
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

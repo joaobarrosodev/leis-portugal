@@ -22,7 +22,18 @@ publication:
   supplement: 1º Suplemento
   pages: 1448-(3) a 1448-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/15101/00030023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-06-30'
+entry_into_force:
+  date: '1976-06-30'
+  rule: na data da sua publicação e, salvo o disposto nos seus artigos 4.º 5.º e 8.º e nos números seguintes, as disposições
+    que modificam o Código aplicar-se-ão à contribuição ainda não liquidada dos anos de
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

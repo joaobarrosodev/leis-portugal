@@ -24,6 +24,15 @@ publication:
   pages: 616 - 619
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/040a00/06160619.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando as Partes se notificarem do cumprimento dos respectivos requisitos constitucionais
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3430 - 3431
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24000/34303431.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-10-19'
+entry_into_force:
+  date: '1985-10-19'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: apenas para as operações especiais de crédito contratadas durante a sua vigência
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1687 - 1713
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia subsequente à última das datas das comunicações feitas, por escrito, pelos Governos respectivos relativamente
+    ao cumprimento das formalidades exigidas constitucionalmente pelos respectivos
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

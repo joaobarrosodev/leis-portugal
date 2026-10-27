@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3977 - 3977
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/17600/0397703977.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-09-14'
+entry_into_force:
+  date: '2010-09-14'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2010-08-11'
+  effects_rule: a partir de 11 de Agosto de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

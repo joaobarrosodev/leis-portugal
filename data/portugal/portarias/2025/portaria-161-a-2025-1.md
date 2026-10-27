@@ -25,6 +25,15 @@ publication:
   pages: 3 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06902/0000300005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data de entrada em vigor da Portaria n.º 110/2025/1, de 13 de março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

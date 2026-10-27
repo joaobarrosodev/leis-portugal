@@ -24,6 +24,16 @@ publication:
   pages: 997 - 998
   pdf_url: https://files.diariodarepublica.pt/1s/1973/06/13500/09970998.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao decurso do prazo de trinta dias após a data da sua publicação, com excepção das
+    disposições que se referem às taxas relativas aos lagares, as quais só
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

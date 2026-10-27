@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1128 - 1134
   pdf_url: https://files.diariodarepublica.pt/1s/1961/09/20700/11281134.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1961-10-06'
+entry_into_force:
+  date: '1961-10-06'
+  rule: 30 dias depois da sua publicação no Boletim Oficial de cada província
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

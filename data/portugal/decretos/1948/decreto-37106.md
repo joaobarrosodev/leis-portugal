@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1948/10/24200/10681068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:251210:por'
+    detail: Revogado pelo(a) Portaria n.º 458/77 - Diário da República n.º 171/1977, Série I de 1977-07-26
 notes: []
 language: por
 version:

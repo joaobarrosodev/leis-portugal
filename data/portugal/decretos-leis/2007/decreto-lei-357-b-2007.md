@@ -26,7 +26,17 @@ publication:
   supplement: 2º Suplemento
   pages: 7964-(178) a 7964-(182)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/21002/0017800182.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-11-01'
+entry_into_force:
+  date: '2007-11-01'
+  rule: no dia 1 de Novembro de 2007
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

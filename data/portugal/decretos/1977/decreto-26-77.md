@@ -24,6 +24,16 @@ publication:
   pages: 392 - 394
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05600/03920394.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a data do depósito, junto do Secretário-Geral das Nações Unidas, dos instrumentos de aceitação de todas
+    as Partes Contratantes
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

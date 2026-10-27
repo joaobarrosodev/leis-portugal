@@ -23,6 +23,16 @@ publication:
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/12000/0000200003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia de início de funções do presidente do MENAC e cessa a sua vigência na data da instalação definitiva do MENAC,
+    nos termos do artigo anterior
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

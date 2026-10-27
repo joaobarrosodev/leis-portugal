@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1654 - 1663
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07800/0165401663.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-21'
+entry_into_force:
+  date: '2018-04-21'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

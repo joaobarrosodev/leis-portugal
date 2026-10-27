@@ -23,6 +23,15 @@ publication:
   pages: 1045 - 1046
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05600/10451046.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data do diploma que revogar o Decreto Regulamentar n.º 10/87/A, de 9 de Abril
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

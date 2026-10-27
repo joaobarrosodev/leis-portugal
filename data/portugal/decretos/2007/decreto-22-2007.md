@@ -24,6 +24,16 @@ publication:
   pages: 7496 - 7510
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/20000/0749607510.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que a Comunidade Europeia e os seus Estados membros e os Estados Unidos da América informarem o depositário,
+    por meio de notas diplomáticas, de que os respectivos procedimentos internos nece
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

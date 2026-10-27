@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1955/06/13400/04760476.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:193630:por#art-7'
+    detail: É revogado o [Decreto n.º 40192], de 20 de Junho de 1955.
 notes: []
 language: por
 version:

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1111 - 1113
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/049a00/11111113.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-05-27'
+entry_into_force:
+  date: '1992-05-27'
+  rule: 90 dias após a data da sua publicação, devendo, neste prazo, a Ordem dos Advogados, a Câmara dos Solicitadores e a
+    Direcção-Geral dos Serviços Judiciários providenciar pelo cumprimento do disposto nos
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

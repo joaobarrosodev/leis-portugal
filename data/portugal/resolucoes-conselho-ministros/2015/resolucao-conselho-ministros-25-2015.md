@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2110 - 2111
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/08100/0211002111.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-05-02'
+entry_into_force:
+  date: '2015-05-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2015-04-27'
+  effects_rule: a partir da data da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

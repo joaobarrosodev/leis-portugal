@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3106 - 3107
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/17700/31063107.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-08-08'
+entry_into_force:
+  date: '1989-08-08'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: em relação aos convites e aos concursos formulados e realizados nos termos do Decreto-Lei n.º 143/89, de 29
+    de Abril, e em relação aos trabalhadores que não tenham optado pela indemnização
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1160 - 1165
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/052b00/11601165.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-03-03'
+entry_into_force:
+  date: '2001-03-03'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

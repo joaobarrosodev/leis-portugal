@@ -24,6 +24,15 @@ publication:
   pages: 4416 - 4421
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/16100/0441604421.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

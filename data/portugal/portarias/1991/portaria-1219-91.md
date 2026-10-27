@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 6742-(2) a 6742-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/297b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-01-02'
+entry_into_force:
+  date: '1992-01-02'
+  rule: em 2 de Janeiro de 1992, sem prejuízo do disposto na Portaria n.º 314-A/89, de 3 de Maio, para os certificados de
+    aforro emitidos até 31 de Dezembro de 1991
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

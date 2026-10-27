@@ -24,6 +24,16 @@ publication:
   pages: 2571 - 2573
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13900/25712573.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna de cada uma das
+    Partes
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

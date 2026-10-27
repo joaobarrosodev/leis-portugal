@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1235 - 1253
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-08-01'
+entry_into_force:
+  date: '1988-08-01'
+  rule: no 1.º dia do 5.º mês subsequente ao da data da sua publicação e só será aplicável aos processos entrados na Comissão
+    posteriormente à sua entrada em vigor
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

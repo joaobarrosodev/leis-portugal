@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1404 - 1405
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13400/14041405.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-06-14'
+entry_into_force:
+  date: '1986-06-14'
+  rule: na data da respectiva publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

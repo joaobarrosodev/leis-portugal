@@ -24,6 +24,15 @@ publication:
   pages: 2089 - 2100
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/15900/20892100.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após o depósito do 16.º instrumento de ratificação ou adesão (ver nota *)
+  method: clausula
+  article: art-xxxiv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

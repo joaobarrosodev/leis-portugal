@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:180993:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::28.º",
+      "epigrafe": "",
+      "texto": "A classificação das povoações é feita sobre processo organizado pelos serviços de agrimensura, do qual constem:\n\n1.º Proposta de classificação feita pela autoridade administrativa do distrito, concelho ou circunscrição, conforme os casos;\n\n2.º A planta ou o esboço referidos nos §§ 1.º e 2.º do artigo 33.º;\n\n3.º Pareceres dos serviços competentes sobre as condições económicas e sociais da povoação e sobre as obras já realizadas ou a realizar para a sua conveniente urbanização, sendo sempre obrigatória a audição da Repartição de Urbanismo da Direcção dos Serviços de Obras Públicas e Transportes.\n\n4.º A autorização do Ministro do Ultramar, quando necessária.\n\n§ 1.º Quando as povoações abranjam, no todo ou em parte, terrenos sobre os quais tenham jurisdição os serviços de marinha, os dos portos, caminhos de ferro e transportes ou os de aeronáutica, devem ser pedidos pareceres destes e em quaisquer casos o dos serviços de obras públicas e transportes.\n\n§ 2.º As plantas ou esboços aprovados para povoações classificadas, bem como quaisquer modificações que posteriormente lhes sejam introduzidas, estarão patentes ao público na sede dos serviços de agrimensura, bem como nas suas repartições distritais e nas secretarias dos postos e concelhos ou circunscrições administrativos em cuja área fique situada a povoação, publicando-se no Boletim Oficial aviso deste facto.\n\n§ 3.º No caso de os serviços de obras públicas e transportes reconhecerem a necessidade de prévia elaboração de plantas de divisão em talhões ou esboços para demarcação referidos no n.º 2.º, serão esses elementos preparados por aqueles serviços com base nas plantas ou esboços topográficos a fornecer pelos serviços geográficos e cadastrais.\n\n§ 4.º Os elementos para demarcação referidos no parágrafo anterior são exigíveis sempre que as povoações sejam pelo menos sedes de administração de circunscrição ou concelho ou outras que, não o sendo, apresentem iniciativas ou ocupação merecedoras de atenção especial em matéria urbanística."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

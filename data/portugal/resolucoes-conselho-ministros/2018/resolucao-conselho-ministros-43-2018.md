@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1697 - 1697
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/08000/0169701697.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-29'
+entry_into_force:
+  date: '2018-04-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2017-10-18'
+  effects_rule: a partir de 18 de outubro de 2017, considerando-se ratificados todos os atos que tenham sido, entretanto,
+    praticados no âmbito do procedimento decorrente da Resolução do Conselho de Ministros referida
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 1394 - 1397
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em simultâneo com o Decreto-Lei n.º 448/91, de 29 de Novembro
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 570-(1) a 570-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/06701/00010007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-03-22'
+entry_into_force:
+  date: '1977-03-22'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -26,6 +26,16 @@ publication:
   pages: 6766 - 6773
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17100/0676606773.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a assinatura das Partes, quando informarem mutuamente por escrito a outra Parte que todas as formalidades requeridas
+    pela legislação e pela regulamentação aplicáveis em Portugal e pelas regulamen
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

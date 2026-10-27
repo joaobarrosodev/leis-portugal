@@ -24,6 +24,16 @@ publication:
   pages: 802-(2) a 802-(1417)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à data em que as Partes procederem à notificação recíproca da conclusão dos procedimentos
+    jurídicos internos referidos no n.º 1
+  method: clausula
+  article: art-353
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

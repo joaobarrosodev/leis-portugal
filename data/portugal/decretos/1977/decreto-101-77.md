@@ -24,6 +24,16 @@ publication:
   pages: 1904 - 1905
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/17900/19041905.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para todos os Governos Contratantes decorridos cento e vinte dias sobre a data de notificação pelo Governo dos Estados
+    Unidos da América, na sua qualidade de Governo Depositário, da recepção da notifi
+  method: clausula
+  article: art-ii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

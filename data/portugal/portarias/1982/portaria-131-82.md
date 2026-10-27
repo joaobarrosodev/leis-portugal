@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 211 - 212
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/02400/02110212.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-02-01'
+entry_into_force:
+  date: '1982-02-01'
+  rule: em 1 de Fevereiro de 1982
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

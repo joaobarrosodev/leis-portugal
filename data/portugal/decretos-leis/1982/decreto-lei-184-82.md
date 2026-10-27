@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1265 - 1266
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11000/12651266.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-05-16'
+entry_into_force:
+  date: '1982-05-16'
+  rule: no dia imediato ao da sua publicação e aplica-se aos processos pendentes nesta data
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

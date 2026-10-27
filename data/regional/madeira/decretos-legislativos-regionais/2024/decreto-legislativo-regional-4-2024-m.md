@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 98 - 111
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06600/0009800111.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-04-04'
+entry_into_force:
+  date: '2024-04-04'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-36
+  effects_date: '2024-04-03'
+  effects_rule: na data da publicação da portaria que o regulamenta
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

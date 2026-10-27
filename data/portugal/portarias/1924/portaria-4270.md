@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1924/11/25100/16361636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:286334:por#n-7'
+    detail: 7.º É revogada a [Portaria n.º 4270], de 8 de Novembro de 1924.
 notes: []
 language: por
 version:

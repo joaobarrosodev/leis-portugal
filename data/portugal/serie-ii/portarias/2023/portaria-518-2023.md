@@ -26,6 +26,15 @@ publication:
   pages: 31 - 32
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/193000000/0003100032.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua assinatura
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

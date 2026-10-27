@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 1343 - 1343
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09400/13431343.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-04-26'
+entry_into_force:
+  date: '1984-04-26'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1984-07-01'
+  effects_rule: a partir de 1 de Julho de 1984
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

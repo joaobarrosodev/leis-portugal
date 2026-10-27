@@ -23,6 +23,16 @@ publication:
   pages: 1664 - 1673
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/15700/16641673.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após notificação recíproca das Partes Contratantes de que foram cumpridas as condições legais para a entrada
+    em vigor do presente Acordo
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

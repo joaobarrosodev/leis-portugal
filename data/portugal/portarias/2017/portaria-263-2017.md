@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5255 - 5258
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/16900/0525505258.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-10-01'
+entry_into_force:
+  date: '2017-10-01'
+  rule: 30 dias após a sua publicação e só se aplica à liquidação de taxas nos processos iniciados após essa data
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

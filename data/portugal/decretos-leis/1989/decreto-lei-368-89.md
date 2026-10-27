@@ -23,6 +23,15 @@ publication:
   pages: 4612 - 4612
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24200/46124612.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após o da publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

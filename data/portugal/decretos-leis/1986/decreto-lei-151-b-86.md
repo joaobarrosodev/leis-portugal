@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1438-(5) a 1438-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13702/00050006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-06-23'
+entry_into_force:
+  date: '1986-06-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1986-05-22'
+  effects_rule: desde o dia 22 de Maio de 1986
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

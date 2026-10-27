@@ -25,7 +25,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/177a00/22382244.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1017369036:por#art-119'
+    detail: a) [Decreto Legislativo Regional n.º 15/96/A], de 1 de agosto, que estabelece os princípios da organização do
+      setor elétrico e do regime jurídico da produção, transporte e distribuição de energia elétrica na Região Autónoma dos
+      Açores
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1017369036:por'
+    detail: Revogado, a partir de 20 de julho de 2026, pelo(a) Decreto Legislativo Regional n.º 2/2026/A - Diário da República
+      n.º 14/2026, Série I de 2026-01-21, nos termos do artigo 120.º deste
 notes: []
 language: por
 version:

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5056-(2) a 5056-(25)
   pdf_url: https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-02-15'
+entry_into_force:
+  date: '2018-02-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: a partir do ano escolar de 2017-2018 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

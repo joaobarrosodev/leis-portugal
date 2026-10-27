@@ -23,6 +23,15 @@ publication:
   pages: 5901 - 5917
   pdf_url: https://files.diariodarepublica.pt/1s/2013/09/18200/0590105917.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após o seu registo e a sua publicação no Diário da República
+  method: clausula
+  article: art-85
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2897 - 2898
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/10800/0289702898.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-06'
+entry_into_force:
+  date: '2019-06-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: '2019-05-01'
+  effects_rule: a 1 de maio de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

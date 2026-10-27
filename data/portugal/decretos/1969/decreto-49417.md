@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1695 - 1696
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/27600/16951696.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-11-25'
+entry_into_force:
+  date: '1969-11-25'
+  rule: 'na data da publicação do diploma regulamentar a que se refere o artigo 5.º, considerando-se revogados, nessa data:
+    a Diploma Legislativo Ministerial n.º 2, de 26 de Maio de 1967, o Diploma Legislativo'
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 1074 - 1106
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05700/10741106.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: seis meses após a data em que pelo menos 24 Estados cuja tonelagem global represente pelo menos 25% da tonelagem mundial
+    se tornarem Partes Contratantes da dita Convenção, em conformidade com o artigo
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

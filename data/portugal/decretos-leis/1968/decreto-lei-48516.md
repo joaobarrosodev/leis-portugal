@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1147 - 1148
   pdf_url: https://files.diariodarepublica.pt/1s/1968/08/18500/11471148.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1968-09-04'
+entry_into_force:
+  date: '1968-09-04'
+  rule: no dia 4 de Setembro de 1968
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

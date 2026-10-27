@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1931/05/10200/07570758.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:537044:por#art-19'
+    detail: Fica revogado o [Decreto n.º 19681], de 30 de Abril de 1931.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:611552:por#n-3'
+    detail: Estabelece o regime a que ficam sujeitas a servidões aeronáuticas as zonas confinantes com aeródromos civis e
+      instalações de apoio à aviação civil. Revoga o [Decreto n.º 19681] (1.2.20).
 notes: []
 language: por
 version:

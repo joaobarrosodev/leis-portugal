@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30821 - 30821
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/209000000/3082130821.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-27'
+entry_into_force:
+  date: '2015-10-27'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2015-2016
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

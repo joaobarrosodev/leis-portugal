@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5454 - 5454
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14600/54545454.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-08-01'
+entry_into_force:
+  date: '2006-08-01'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: a partir da data da entrada em vigor da Portaria n.º 714-C/2006, de 14 de Julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

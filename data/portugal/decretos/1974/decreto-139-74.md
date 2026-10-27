@@ -24,6 +24,15 @@ publication:
   pages: 493 - 496
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/08100/04930496.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que hajam sido cumpridos os trâmites legais necessários em cada país
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 4741 - 4745
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/207a00/47414745.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a notificação das Partes do cumprimento das formalidades exigidas para o efeito pela Constituição de cada uma
+    das Partes
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

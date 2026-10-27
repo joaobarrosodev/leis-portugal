@@ -23,6 +23,16 @@ publication:
   pages: 3854 - 3896
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'a título definitivo em 1 de Outubro de 1986, ou numa data seguinte qualquer, se nessa data os governos que representem
+    pelo menos cinco países exportadores que detenham pelo menos 80% das exportações '
+  method: clausula
+  article: art-70
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

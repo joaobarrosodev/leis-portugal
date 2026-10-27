@@ -23,6 +23,15 @@ publication:
   pages: 3439 - 3442
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/149a00/34393442.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data da portaria neste prevista
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

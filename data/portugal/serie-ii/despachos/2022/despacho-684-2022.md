@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/01/011000000/0014300144.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:206092965:por#n-7'
+    detail: 7 - É revogado o [Despacho n.º 684/2022], de 17 de janeiro, publicado na 2.ª série do Diário da República.
 notes: []
 language: por
 version:

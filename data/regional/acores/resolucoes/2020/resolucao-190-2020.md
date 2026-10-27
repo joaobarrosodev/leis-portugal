@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2824-2832
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/07/15/138054783.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-16'
+entry_into_force:
+  date: '2020-07-16'
+  rule: no dia seguinte ao da sua publicação sem prejuízo de ser aplicável às candidaturas já submetidas no âmbito do referido
+    Programa de Manutenção de Emprego
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

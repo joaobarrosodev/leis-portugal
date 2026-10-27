@@ -24,6 +24,16 @@ publication:
   pages: 1215 - 1219
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03200/0121501219.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de receção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos
+    do direito interno das Partes necessários para o efeito
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: ':'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5249 - 5250
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/190b00/52495250.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-16'
+entry_into_force:
+  date: '2001-05-16'
+  rule: no dia 16 de Maio de 2001 e a comissão de protecção de crianças e jovens inicia funções de imediato
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

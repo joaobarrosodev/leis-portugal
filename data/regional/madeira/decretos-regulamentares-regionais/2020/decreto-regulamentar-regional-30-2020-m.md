@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/09000/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-05-09'
+entry_into_force:
+  date: '2020-05-09'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo período de execução das medidas associadas ao combate à pandemia da doença COVID-19 na Região Autónoma da
+    Madeira
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

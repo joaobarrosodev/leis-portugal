@@ -24,6 +24,15 @@ publication:
   pages: 350 - 352
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/04200/03500352.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de decorridos noventa dias a contar da data da sua publicação no Diário do Governo
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

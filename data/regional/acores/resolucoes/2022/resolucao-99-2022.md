@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1961-1973
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/05/26/184105494.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-27'
+entry_into_force:
+  date: '2022-05-27'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: a partir dessa data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

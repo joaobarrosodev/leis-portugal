@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3 - 6
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19700/0000300006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-11'
+entry_into_force:
+  date: '2022-11-11'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

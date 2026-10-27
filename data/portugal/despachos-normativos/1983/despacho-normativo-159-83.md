@@ -24,6 +24,16 @@ publication:
   pages: 2615 - 2615
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16300/26152615.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no continente no dia imediato ao da sua publicação nas Regiões Autónomas dos Açores e Madeira 30 dias após a mesma
+    data
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

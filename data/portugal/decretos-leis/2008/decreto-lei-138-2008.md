@@ -26,6 +26,15 @@ publication:
   pages: 4529 - 4533
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13900/0452904533.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'para cada substância activa nos seguintes termos:'
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

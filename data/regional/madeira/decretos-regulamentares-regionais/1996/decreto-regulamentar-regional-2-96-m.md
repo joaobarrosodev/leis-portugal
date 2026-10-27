@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 366 - 372
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/047b00/03660372.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-03-01'
+entry_into_force:
+  date: '1996-03-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4296 - 4300
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/190b00/42964300.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-08-21'
+entry_into_force:
+  date: '1991-08-21'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2876 - 2879
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/25000/28762879.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-12-01'
+entry_into_force:
+  date: '1981-12-01'
+  rule: no dia 1 do segundo mês seguinte à sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

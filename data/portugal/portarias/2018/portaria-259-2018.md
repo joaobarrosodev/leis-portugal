@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4775 - 4776
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17700/0477504776.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-14'
+entry_into_force:
+  date: '2018-09-14'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

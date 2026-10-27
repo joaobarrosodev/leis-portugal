@@ -25,6 +25,15 @@ publication:
   pages: 7401 - 7406
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/19800/0740107406.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data que o Acordo que altera o Acordo ACP-CE (2), desde que o disposto no n.º 1 seja cumprido
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

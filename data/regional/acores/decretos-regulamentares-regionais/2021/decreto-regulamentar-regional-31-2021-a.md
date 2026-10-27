@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 51 - 57
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/23000/0005100057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-11-27'
+entry_into_force:
+  date: '2021-11-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

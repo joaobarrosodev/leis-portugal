@@ -23,6 +23,16 @@ publication:
   pages: 2118 - 2127
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em simultâneo com o diploma que aprove a criação de uma entidade, reguladora que enquadre a participação e actuação
+    dos operadores privados e sociais no âmbito da prestação de serviços públicos de saú
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4802-(2) a 4802-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/209a01/00020007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-09-10'
+entry_into_force:
+  date: '2000-09-10'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

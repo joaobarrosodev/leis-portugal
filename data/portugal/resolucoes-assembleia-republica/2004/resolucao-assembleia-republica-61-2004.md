@@ -23,6 +23,15 @@ publication:
   pages: 6072 - 6072
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/224a00/60726072.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação pela própria Comissão
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

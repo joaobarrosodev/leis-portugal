@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 120 - 127
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/195000000/0012000127.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-11'
+entry_into_force:
+  date: '2022-10-11'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

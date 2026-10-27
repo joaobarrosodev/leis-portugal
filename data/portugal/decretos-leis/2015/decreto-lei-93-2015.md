@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3282 - 3300
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10400/0328203300.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-30'
+entry_into_force:
+  date: '2015-06-30'
+  rule: no dia 30 de junho de 2015
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

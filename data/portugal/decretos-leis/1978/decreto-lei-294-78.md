@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-08-15'
+version_history:
+  file: decreto-lei-294-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-08-15'
+    amending: pt:dre:470819:por
+    amending_title: Decreto-Lei n.º 283/80
+    changes:
+    - Revoga Artigo 5.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:13:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 283/80. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1978/decreto-lei-294-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +152,9 @@ Esta modificação orgânica implica necessariamente igualdade de tratamento no 
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º São transferidas para a Região Autónoma da Madeira as seguintes competências:
+###### Artigo 1.º
+
+São transferidas para a Região Autónoma da Madeira as seguintes competências:
 
 a) Regulamentar, por via administrativa, nos termos da legislação nacional que vigorar, as condições de trabalho de sectores de actividade profissional ou económica circunscritos exclusivamente ao território da Região Autónoma;
 
@@ -157,47 +176,75 @@ i) Administrar e gerir o sistema de protecção no desemprego;
 
 j) Apoiar e levar a efeito acções da formação e reabilitação e criar as condições indispensáveis à sua realização.
 
-Art. 2.º - 1 - A vigência dos instrumentos de regulamentação de trabalho convencional ou não de âmbito territorial da Região depende da respectiva publicação no jornal oficial da Região Autónoma da Madeira, tendo em consideração o disposto no n.º 2.
+###### Artigo 2.º
+
+1 - A vigência dos instrumentos de regulamentação de trabalho convencional ou não de âmbito territorial da Região depende da respectiva publicação no jornal oficial da Região Autónoma da Madeira, tendo em consideração o disposto no n.º 2.
 
 2 - Sem prejuízo do disposto no número anterior, os instrumentos de regulamentação de trabalho devem ser publicados no Boletim do Trabalho e Emprego.
 
-Art. 3.º - 1 - Na regulamentação colectiva de trabalho de âmbito não regional deverá ser cumprido o disposto no n.º 2 do artigo 231.º da Constituição.
+###### Artigo 3.º
+
+1 - Na regulamentação colectiva de trabalho de âmbito não regional deverá ser cumprido o disposto no n.º 2 do artigo 231.º da Constituição.
 
 2 - Os instrumentos de regulamentação colectiva de trabalho referidos no número anterior serão obrigatoriamente publicados no jornal oficial da Região, sem prejuízo da sua entrada em vigor a partir da publicação no Boletim do Trabalho e Emprego.
 
-Art. 4.º - 1 - Mantém-se o legalmente estabelecido no que respeita aos tribunais do trabalho.
+###### Artigo 4.º
+
+1 - Mantém-se o legalmente estabelecido no que respeita aos tribunais do trabalho.
 
 2 - As atribuições das comissões de conciliação e julgamento consideram-se igualmente transferidas para a Secretaria Regional do Trabalho, logo que entre em vigor a nova lei reguladora.
 
-Art. 5.º - 1 - Em função da transferência de competências consagrada no artigo 1.º, são extintos a Delegação da Direcção-Geral das Relações Colectivas de Trabalho, da Secretaria de Estado do Trabalho, o Centro Permanente de Emprego e o Centro de Formação Profissional n.º 17, que funcionavam na Região Autónoma da Madeira, na dependência do Governo da República.
+###### Artigo 5.º
 
-2 - As atribuições e competências em matérias de inspecção do trabalho na Região Autónoma da Madeira continuam a caber à Inspecção do Trabalho, do Ministério do Trabalho.
+1 - Em função da transferência de competências consagrada no artigo 1.º, são extintos a Delegação da Direcção-Geral das Relações Colectivas de Trabalho, da Secretaria de Estado do Trabalho, o Centro Permanente de Emprego e o Centro de Formação Profissional n.º 17, que funcionavam na Região Autónoma da Madeira, na dependência do Governo da República.
 
-3 - Os órgãos do Governo Regional poderão solicitar directamente aos serviços da Inspecção do Trabalho situados na Região Autónoma as acções inerentes ao exercício das suas competências.
+2 - (Revogado.)
 
-Art. 6.º - 1 - O pessoal adstrito aos serviços extintos por força do disposto no artigo anterior transita para a Secretaria Regional do Trabalho, com dispensa de qualquer formalidade, nos termos gerais definidos quanto aos restantes serviços extintos ou integrados na Região Autónoma.
+3 - (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 283/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1980-470819), publicado em 1980-08-14.
+
+> Revogado pelo/a [Decreto-Lei n.º 283/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1980-470819), publicado em 1980-08-14.
+
+###### Artigo 6.º
+
+1 - O pessoal adstrito aos serviços extintos por força do disposto no artigo anterior transita para a Secretaria Regional do Trabalho, com dispensa de qualquer formalidade, nos termos gerais definidos quanto aos restantes serviços extintos ou integrados na Região Autónoma.
 
 2 - Não estão abrangidos pelo disposto no número anterior os delegados e subdelegados da Direcção-Geral das Relações Colectivas de Trabalho, da Secretaria de Estado do Trabalho, os quais poderão passar a prestar serviço no Governo Regional nos termos gerais da requisição, mediante as devidas formalidades.
 
-3 - Não estão igualmente abrangidos pelo disposto no n.º 1 os funcionários da Inspecção do Trabalho, os quais manterão a situação actual.
+3 - (Revogado.)
 
 4 - Enquanto não for definido o quadro de pessoal da Secretaria Regional do Trabalho, os funcionários e servidores integrados manterão a respectiva situação actual.
 
 5 - O pessoal integrado nos termos dos números anteriores ficará sujeito ao disposto no artigo 49.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril.
 
-Art. 7.º A administração de todos os bens e património em geral afectos aos serviços extintos por força do disposto no artigo 5.º transita para o Governo Regional, com dispensa de qualquer formalidade.
+> Revogado pelo/a [Decreto-Lei n.º 283/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1980-470819), publicado em 1980-08-14.
 
-Art. 8.º - 1 - Será assegurado pelo Ministério do Trabalho e pela Secretaria Regional do Trabalho o intercâmbio das informações técnicas sobre problemas de trabalho e emprego.
+###### Artigo 7.º
+
+A administração de todos os bens e património em geral afectos aos serviços extintos por força do disposto no artigo 5.º transita para o Governo Regional, com dispensa de qualquer formalidade.
+
+###### Artigo 8.º
+
+1 - Será assegurado pelo Ministério do Trabalho e pela Secretaria Regional do Trabalho o intercâmbio das informações técnicas sobre problemas de trabalho e emprego.
 
 2 - Será assegurado pelo Ministério do Trabalho e pela Secretaria de Estado da Administração Pública, quando solicitado pela Secretaria Regional do Trabalho, de acordo com as capacidades daquelas entidades, todo o apoio técnico relativo à definição das carreiras profissionais.
 
-Art. 9.º O Ministro da República garantirá a articulação entre os serviços dependentes do Ministério do Trabalho e os serviços da Secretaria Regional do Trabalho.
+###### Artigo 9.º
 
-Art. 10.º A partir de 1 de Janeiro de 1978, as despesas com os serviços agora integrados serão orçamentadas e garantidas pelo orçamento regional.
+O Ministro da República garantirá a articulação entre os serviços dependentes do Ministério do Trabalho e os serviços da Secretaria Regional do Trabalho.
 
-Art. 11.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para a Madeira e do Trabalho.
+###### Artigo 10.º
 
-Art. 12.º Fica revogado o [Decreto-Lei n.º 23/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1978-448938), de 27 de Janeiro.
+A partir de 1 de Janeiro de 1978, as despesas com os serviços agora integrados serão orçamentadas e garantidas pelo orçamento regional.
+
+###### Artigo 11.º
+
+As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para a Madeira e do Trabalho.
+
+###### Artigo 12.º
+
+Fica revogado o [Decreto-Lei n.º 23/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1978-448938), de 27 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Manuel Maldonado Gonelha - Lino Dias Miguel.
 

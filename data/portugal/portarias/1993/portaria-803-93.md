@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4704 - 4705
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/210b00/47044705.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-09-01'
+entry_into_force:
+  date: '1993-09-01'
+  rule: no dia 1 de Setembro de 1993
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

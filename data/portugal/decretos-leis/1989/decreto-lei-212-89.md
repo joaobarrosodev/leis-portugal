@@ -23,6 +23,15 @@ publication:
   pages: 2563 - 2570
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/14800/25632570.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a sua publicação e aplica-se aos processos pendentes
+  method: clausula
+  article: art-236
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

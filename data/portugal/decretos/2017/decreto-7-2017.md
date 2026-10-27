@@ -24,6 +24,16 @@ publication:
   pages: 1342 - 1360
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/05100/0134201360.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no nonagésimo dia após a data de depósito do quinquagésimo instrumento de ratificação, aceitação, aprovação ou adesão
+    pelos Estados ou pelas organizações regionais de integração económica que sejam Pa
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

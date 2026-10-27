@@ -23,6 +23,16 @@ publication:
   pages: 1476-(21) a 1476-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15503/00210023.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e durará pelo tempo necessário à regularização da transferência do departamento do Banco
+    de Fomento Nacional e dos créditos referidos no capítulo II
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

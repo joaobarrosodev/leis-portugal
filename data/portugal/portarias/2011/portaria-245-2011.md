@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3726 - 3730
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11900/0372603730.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-01'
+entry_into_force:
+  date: '2011-07-01'
+  rule: no dia 1 de Julho de 2011
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

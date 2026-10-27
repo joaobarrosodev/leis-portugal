@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 737 - 738
   pdf_url: https://files.diariodarepublica.pt/1s/1967/04/08800/07370738.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1967-06-12'
+entry_into_force:
+  date: '1967-06-12'
+  rule: 60 dias depois da sua publicação no Diário do Governo
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

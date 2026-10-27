@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6706 - 6709
   pdf_url: https://files.diariodarepublica.pt/1s/2006/09/17700/67066709.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-09-14'
+entry_into_force:
+  date: '2006-09-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-11
+  effects_date: '2006-09-01'
+  effects_rule: a partir de 1 de Setembro de 2006
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

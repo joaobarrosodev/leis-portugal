@@ -24,6 +24,15 @@ publication:
   pages: 794 - 796
   pdf_url: https://files.diariodarepublica.pt/1s/1966/05/12200/07940796.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

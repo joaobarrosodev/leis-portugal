@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4215 - 4217
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/23900/42154217.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-04-13'
+entry_into_force:
+  date: '1989-04-13'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

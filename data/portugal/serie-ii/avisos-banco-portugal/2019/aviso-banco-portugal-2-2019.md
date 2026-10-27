@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 16186 - 16187
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/100000000/1618616187.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-25'
+entry_into_force:
+  date: '2019-05-25'
+  rule: no dia seguinte à sua publicação, aplicando-se a partir de 31 de dezembro de 2020
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

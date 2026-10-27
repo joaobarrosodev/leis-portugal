@@ -25,6 +25,16 @@ publication:
   pages: 976 - 977
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/02600/0097600977.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: por tempo indeterminado, trinta dias após a receção da segunda notificação, por escrito e por via diplomática, de
+    que foram cumpridos os requisitos internos necessários para tanto
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

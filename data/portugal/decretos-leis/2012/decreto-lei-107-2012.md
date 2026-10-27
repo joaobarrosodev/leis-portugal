@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2595 - 2597
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09700/0259502597.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-09-15'
+entry_into_force:
+  date: '2012-09-15'
+  rule: 120 dias após a sua publicação, com exceção do n.º 5 do artigo 1.º, que
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

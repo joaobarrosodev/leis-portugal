@@ -25,6 +25,16 @@ publication:
   pages: 1896 - 1933
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/160a00/18961933.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data em que as Partes se notifiquem mutuamente do cumprimento das formalidades refer
+    das no primeiro parágrafo
+  method: clausula
+  article: art-112
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

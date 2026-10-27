@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2410 - 2410
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15000/24102410.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-07-03'
+entry_into_force:
+  date: '1983-07-03'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

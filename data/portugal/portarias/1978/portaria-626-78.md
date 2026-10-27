@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2209 - 2209
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24100/22092209.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-10-19'
+entry_into_force:
+  date: '1978-10-19'
+  rule: à data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

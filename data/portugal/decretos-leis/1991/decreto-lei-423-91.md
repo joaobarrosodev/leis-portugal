@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5576 - 5581
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/250a00/55765581.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-10-30'
+entry_into_force:
+  date: '1991-10-30'
+  rule: na data da publicação do decreto regulamentar naquele referido
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

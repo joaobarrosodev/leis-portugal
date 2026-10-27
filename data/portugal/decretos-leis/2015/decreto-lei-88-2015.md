@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3173 - 3178
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10300/0317303178.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-01'
+entry_into_force:
+  date: '2015-06-01'
+  rule: no dia 1 de junho de 2015
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

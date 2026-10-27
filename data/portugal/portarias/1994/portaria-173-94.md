@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1516 - 1517
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/073b00/15161517.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-04-02'
+entry_into_force:
+  date: '1994-04-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: '1996-12-31'
+  end_rule: até 31 de Dezembro de 1996, ou até à conclusão do plano de reestruturação e reconversão, se esta ocorrer primeiro
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 2227 - 2230
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/102a00/22272230.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da recepção da segunda das notas pelas quais as duas Partes comunicarem reciprocamente a sua aprovação
+    em conformidade com os processos constitucionais de ambos os países
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

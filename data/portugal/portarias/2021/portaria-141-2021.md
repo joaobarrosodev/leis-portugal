@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 34 - 37
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13100/0003400037.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-09'
+entry_into_force:
+  date: '2021-07-09'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

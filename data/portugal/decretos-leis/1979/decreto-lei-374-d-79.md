@@ -23,6 +23,15 @@ publication:
   pages: 2258-(28) a 2258-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20901/00280046.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos trinta dias após a sua publicação
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

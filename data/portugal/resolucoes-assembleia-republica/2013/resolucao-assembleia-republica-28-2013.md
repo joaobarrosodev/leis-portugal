@@ -25,6 +25,16 @@ publication:
   pages: 1324 - 1589
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte àquele no decurso do qual o último instrumento de ratificação, de aceitação ou de
+    aprovação tenha sido notificado aos depositários do acordo
+  method: clausula
+  article: art-98
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

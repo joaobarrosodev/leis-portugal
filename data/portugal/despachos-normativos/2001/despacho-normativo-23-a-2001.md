@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2928-(2) a 2928-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/115b01/00020006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-19'
+entry_into_force:
+  date: '2001-05-19'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

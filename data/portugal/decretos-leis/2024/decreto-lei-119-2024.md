@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 27 - 29
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25300/0002700029.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-01'
+entry_into_force:
+  date: '2025-01-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2025-01-01'
+  effects_rule: no dia 1 de janeiro de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

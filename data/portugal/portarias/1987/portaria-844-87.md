@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3823 - 3835
   pdf_url: https://files.diariodarepublica.pt/1s/1987/10/24800/38233835.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-10-28'
+entry_into_force:
+  date: '1987-10-28'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

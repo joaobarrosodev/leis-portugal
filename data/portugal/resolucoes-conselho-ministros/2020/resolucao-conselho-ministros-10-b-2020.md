@@ -24,6 +24,15 @@ publication:
   pages: 57-(2) a 57-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05301/0000200004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

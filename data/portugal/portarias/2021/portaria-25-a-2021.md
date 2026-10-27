@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 223-(2) a 223-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/02003/0000200009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-30'
+entry_into_force:
+  date: '2021-01-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: '2021-01-22'
+  effects_rule: a 22 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

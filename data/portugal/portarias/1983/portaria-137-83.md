@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 372 - 372
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03100/03720372.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-02-08'
+entry_into_force:
+  date: '1983-02-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

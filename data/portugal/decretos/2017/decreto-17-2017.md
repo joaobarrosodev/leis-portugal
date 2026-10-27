@@ -24,6 +24,16 @@ publication:
   pages: 2774 - 2778
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10800/0277402778.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a receção da última notificação, por escrito e por via diplomática, indicando que foram cumpridos
+    os requisitos de Direito interno das Partes necessários para o efeito
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

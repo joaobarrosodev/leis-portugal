@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5926 - 5930
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/200b00/59265930.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-08-27'
+entry_into_force:
+  date: '1999-08-27'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

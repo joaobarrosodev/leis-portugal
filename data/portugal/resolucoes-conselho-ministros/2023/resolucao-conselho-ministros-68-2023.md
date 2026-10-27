@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 60 - 62
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13100/0006000062.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-08'
+entry_into_force:
+  date: '2023-07-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

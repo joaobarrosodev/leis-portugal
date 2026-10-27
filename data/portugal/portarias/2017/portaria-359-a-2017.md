@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 6088-(2) a 6088-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22301/0000200007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-21'
+entry_into_force:
+  date: '2017-11-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

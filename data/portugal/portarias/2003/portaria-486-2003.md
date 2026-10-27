@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3568 - 3568
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/138b00/35683568.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-01'
+entry_into_force:
+  date: '2003-09-01'
+  rule: no dia 1 do 3.º mês seguinte à data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

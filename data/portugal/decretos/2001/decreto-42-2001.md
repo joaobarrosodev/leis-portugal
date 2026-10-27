@@ -24,6 +24,16 @@ publication:
   pages: 6215 - 6223
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/228a00/62156223.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última das notas em que cada Parte Contratante comunicar à outra que foram cumpridas as suas
+    próprias disposições legais
+  method: clausula
+  article: art-xiv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

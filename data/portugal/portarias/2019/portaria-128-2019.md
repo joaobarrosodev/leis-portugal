@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2318 - 2319
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/08600/0231802319.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-07'
+entry_into_force:
+  date: '2019-05-07'
+  rule: no dia seguinte ao da sua publicação e os seus efeitos retroagem à data da entrada em vigor da Portaria n.º 14/2019,
+    de 15 de janeiro
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

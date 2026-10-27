@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 157 - 157
   pdf_url: https://files.diariodarepublica.pt/1s/1969/02/03900/01570157.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-02-01'
+entry_into_force:
+  date: '1969-02-01'
+  rule: em 1 de Fevereiro de 1969 e os respectivos encargos serão suportados, neste ano, pelas disponibilidades das dotações
+    inscritas para remunerações certas ao pessoal em exercício da Guarda Nacional Repub
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

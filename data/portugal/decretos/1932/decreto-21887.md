@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1932/11/27300/22662269.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:611552:por#n-3'
+    detail: Autoriza a Administração-Geral dos Correios, Telégrafos e Telefones a remodelar o serviço de receptáculos domiciliários
+      de correspondência postal, de acordo com as normas estabelecidas no regulamento anexo ao presente diploma. Revoga o
+      [Decreto n.º 21887] e regulamento anexo (1.1.25).
 notes: []
 language: por
 version:

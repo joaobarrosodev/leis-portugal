@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 6368-(11) a 6368-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/232b02/00110011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-08-31'
+entry_into_force:
+  date: '2001-08-31'
+  rule: a partir do dia 31 de Agosto de 2001
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

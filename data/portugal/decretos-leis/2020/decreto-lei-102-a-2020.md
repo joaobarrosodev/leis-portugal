@@ -24,6 +24,15 @@ publication:
   pages: 36-(2) a 36-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

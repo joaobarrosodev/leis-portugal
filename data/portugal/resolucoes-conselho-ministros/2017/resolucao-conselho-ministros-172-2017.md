@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6173 - 6175
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22700/0617306175.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-25'
+entry_into_force:
+  date: '2017-11-25'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: n-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

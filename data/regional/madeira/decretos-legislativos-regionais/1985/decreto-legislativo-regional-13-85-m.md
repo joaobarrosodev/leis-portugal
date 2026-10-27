@@ -22,16 +22,44 @@ publication:
   supplement: null
   pages: 1602 - 1612
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/13700/16021612.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-07-01'
+entry_into_force:
+  date: '1985-07-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-12-01'
+version_history:
+  file: decreto-legislativo-regional-13-85-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-01'
+    amending: pt:dre:629387:por
+    amending_title: Decreto Legislativo Regional n.º 17/2007/M
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:37:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    17/2007/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1985/decreto-legislativo-regional-13-85-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,59 +201,21 @@ c) Ao pessoal das autarquias locais, nos casos em que as respectivas disposiçõ
 
 ###### Artigo 2.º — (Fundamentação e apreciação)
 
-1 - Depende de parecer da Secretaria Regional do Plano e do membro do Governo Regional que tiver a seu cargo a Administração Pública a aprovação dos projectos de diploma que visem:
+(Revogado.)
 
-a) A criação ou reorganização de serviços ou organismos e a especificação das respectivas atribuições, estrutura e competência;
-
-b) A criação ou alteração de quadros ou mapas de pessoal;
-
-c) A definição do regime a que deve submeter-se o respectivo pessoal.
-
-2 - Para a emissão do parecer referido no número anterior devem os projectos de diploma ser instruídos com:
-
-a) Estudo justificativo da sua necessidade, dos pontos de vista da racionalização orgânica, funcional e de pessoal, o qual incluirá uma previsão de custos e a sua cobertura, bem como do acréscimo de produtividade e ou eficácia esperado;
-
-b) Mapa do modelo I anexo, sempre que dos diplomas resulte a criação ou alteração de quadros ou mapas de pessoal;
-
-c) Parecer técnico dos serviços que nos respectivos departamentos governamentais têm competência em matéria de organização e gestão de pessoal, o qual, em caso de criação ou reorganização de serviços ou de aumento de quadros, analisará, designadamente, soluções alternativas de concentração, de absorção de serviços ou de mobilidade, respectivamente.
-
-3 - Os estudos preliminares e a preparação dos referidos projectos podem ser assessorados pelos serviços da Secretaria Regional do Plano e do membro do Governo Regional que tiver a seu cargo a Administração Pública.
-
-4 - A criação ou reorganização de serviços, em regra, não deve determinar acréscimo dos encargos globais do respectivo departamento governamental regional.
-
-5 - Sobre os projectos que não forem instruídos nos termos do n.º 2 deste artigo não será emitido parecer, devendo ser devolvidos para efeitos de conveniente instrução.
-
-6 - Quando se trate de projectos de decretos legislativos regionais, os pareceres a que se refere o n.º 1 deverão ser prévios à circulação para aprovação em Conselho de Governo Regional e devem ser emitidos no prazo de 20 dias a contar da data da sua entrada nos respectivos departamentos, prazo que será interrompido sempre que se solicitem elementos adicionais.
-
-7 - Os pareceres da Secretaria Regional do Plano e do membro do Governo Regional que tiver a seu cargo a Administração Pública devem pronunciar-se, de acordo com as respectivas competências, expressamente sobre:
-
-a) A eventual existência de serviços que prossigam objectivos complementares, paralelos ou sobrepostos;
-
-b) O custo dos projectos e a sua cobertura e adequação à política orçamental;
-
-c) A adequação da estrutura proposta aos objectivos;
-
-d) A adequação dos efectivos à estrutura proposta e aos objectivos a prosseguir, bem como à política de recursos humanos e de mobilidade do pessoal;
-
-e) A necessidade das soluções preconizadas, do ponto de vista da eficiência e da eficácia dos serviços e da sua compatibilização com o regime geral da função pública.
+> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12.
 
 ###### Artigo 3.º — (Extinção ou fusão de serviços)
 
-Quando, com base em levantamentos efectuados das estruturas orgânicas da administração regional, se detecte a existência de serviços cuja finalidade se encontre esgotada ou que prossigam objectivos complementares, paralelos ou sobrepostos deve o membro do Governo Regional que tiver a seu cargo a Administração Pública propor ao Conselho do Governo Regional, conjuntamente com o membro do Governo Regional competente, a sua fusão, absorção de atribuições ou extinção, consoante os casos.
+(Revogado.)
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12.
 
 ###### Artigo 4.º — (Sistematização dos diplomas orgânicos)
 
-1 - Os diplomas a que se refere a alínea a) do n.º 1 do artigo 2.º devem, em princípio, sistematizar-se da seguinte forma:
+(Revogado.)
 
-a) Natureza e atribuições;
-
-b) Órgãos, serviços e suas competências;
-
-c) Pessoal;
-
-d) Disposições transitórias e finais.
-
-2 - Quando se trate de serviços com autonomia administrativa e financeira, devem ainda ser incluídas disposições sobre administração financeira e patrimonial.
+> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12.
 
 ###### Artigo 5.º — (Preenchimento dos quadros)
 
@@ -258,13 +249,9 @@ e) Pessoal operário e ou auxiliar.
 
 ###### Artigo 7.º — (Tipos de quadros)
 
-Os serviços podem optar por organizar os seus quadros de acordo com os seguintes tipos:
+(Revogado.)
 
-a) Quadros privativos, sempre que se trate de funções cuja especialização se inscreva apenas no âmbito das atribuições de cada direcção regional ou unidade orgânica equivalente;
-
-b) Quadros departamentais, sempre que a natureza das funções não implique especialização que interesse exclusivamente a qualquer das unidades orgânicas existentes no âmbito de um departamento governamental;
-
-c) Quadros interdepartamentais, quando a natureza das funções não implique especialização e tal medida contribua para uma gestão mais eficiente dos recursos humanos de mais um departamento governamental.
+> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12.
 
 ###### Artigo 8.º — (Criação de novas carreiras e categorias)
 
@@ -274,31 +261,9 @@ A criação de carreiras e categorias de pessoal não previstas nos quadros da f
 
 ###### Artigo 9.º — (Estrutura de projecto)
 
-1 - Quando a realização de determinada missão com finalidade económica, dado o seu carácter interdepartamental e interdisciplinar, não possa ser eficazmente prosseguida através de estruturas orgânicas formais e seja aconselhável o seu desenvolvimento integrado, poderá ser criada uma estrutura de projecto.
+(Revogado.)
 
-2 - A estrutura de projecto deve ser constituída através de despacho conjunto do Secretário Regional do Plano, do membro do Governo Regional que tiver a seu cargo a Administração Pública e dos membros do Governo de que dependa a realização do projecto.
-
-3 - Do despacho constitutivo devem constar:
-
-a) A determinação dos objectivos do projecto;
-
-b) A orçamentação do projecto;
-
-c) A fixação do prazo de duração do projecto;
-
-d) A determinação dos organismos ou serviços intervenientes;
-
-e) A designação das chefias do projecto;
-
-f) A designação dos funcionários participantes na realização do projecto;
-
-g) A definição do estatuto remuneratório dos chefes do projecto;
-
-h) A descrição dos mecanismos de mobilidade a utilizar;
-
-i) A tipificação dos contratos, nesta compreendidos os contratos de trabalho a prazo certo, igual ou inferior ao do projecto, não renovável, que seja necessário celebrar.
-
-4 - Os contratos de trabalho referidos na alínea i) do número anterior não conferem ao particular outorgante a qualidade de agente.
+> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12.
 
 ### CAPÍTULO III — Controle de efectivos
 

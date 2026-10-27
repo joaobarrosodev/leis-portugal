@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4210 - 4215
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22800/0421004215.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-28'
+entry_into_force:
+  date: '2016-12-28'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

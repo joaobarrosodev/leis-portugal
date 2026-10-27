@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1404 - 1410
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05000/0140401410.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-03-13'
+entry_into_force:
+  date: '2011-03-13'
+  rule: no dia 13 de Março de 2011
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

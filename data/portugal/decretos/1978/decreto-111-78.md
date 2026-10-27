@@ -25,6 +25,15 @@ publication:
   pages: 2211 - 2216
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24100/22112216.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do ano lectivo de 1978-1979
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

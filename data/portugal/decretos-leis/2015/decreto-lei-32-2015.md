@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1308 - 1310
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04400/0130801310.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-03-05'
+entry_into_force:
+  date: '2015-03-05'
+  rule: no dia seguinte ao da sua publicação, com exceção da alteração ao artigo 7.º do Decreto-Lei n.º 211/99, de 14 de junho,
+    que
+  method: clausula
+  article: art-3
+  effects_date: '2015-06-01'
+  effects_rule: a partir de 1 de junho de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

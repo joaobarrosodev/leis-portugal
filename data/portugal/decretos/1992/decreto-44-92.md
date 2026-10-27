@@ -24,6 +24,16 @@ publication:
   pages: 4898 - 4900
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/243a00/48984900.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que se efectivar a troca de notas pelas quais cada uma das Partes comunique à outra que se encontram cumpridas
+    as formalidades exigidas pela respectiva ordem jurídica interna para a vigênci
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

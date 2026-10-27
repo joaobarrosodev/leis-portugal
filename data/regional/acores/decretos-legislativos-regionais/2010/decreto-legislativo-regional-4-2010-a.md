@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 500 - 502
   pdf_url: https://files.diariodarepublica.pt/1s/2010/02/03600/0050000502.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-01'
+entry_into_force:
+  date: '2010-01-01'
+  rule: no dia 1 de Janeiro de 2010
+  method: clausula
+  article: art-10
+  effects_date: '2010-02-23'
+  effects_rule: no dia seguinte à publicação da respectiva regulamentação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

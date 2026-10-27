@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1866-(2) a 1866-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/081a01/00020007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-04-13'
+entry_into_force:
+  date: '1991-04-13'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1991-04-09'
+  effects_rule: a partir do dia imediato ao da data da sua publicação, com excepção dos seus artigos 7.º a 16.º, cuja vigência
+    se inicia no 15.º dia após aquela mesma data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6024 - 6025
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/300a00/60246025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-01-01'
+entry_into_force:
+  date: '1993-01-01'
+  rule: no dia 1 do mês imediato ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

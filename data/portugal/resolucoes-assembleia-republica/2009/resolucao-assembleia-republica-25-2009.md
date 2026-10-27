@@ -27,6 +27,16 @@ publication:
   pages: 2230 - 2256
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07300/0223002256.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês que se seguir à data do depósito dos instrumentos de ratificação ou aprovação pela Comunidade
+    Europeia e pelos Estados membros da CE e, pelo menos, por uma Parte Associada
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

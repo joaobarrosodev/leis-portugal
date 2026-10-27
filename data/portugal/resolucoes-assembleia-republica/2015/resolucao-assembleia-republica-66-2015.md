@@ -24,6 +24,16 @@ publication:
   pages: 4308 - 4338
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11900/0430804338.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no nonagésimo dia após a data do depósito junto do Depositário do quadragésimo instrumento de ratificação, aceitação,
+    aprovação, confirmação formal ou adesão
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 2919 - 2925
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26300/29192925.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: numa data fixada por troca de notas diplomáticas
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

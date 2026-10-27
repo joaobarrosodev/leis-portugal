@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 5122-(10) a 5122-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/29901/00100017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-01-02'
+entry_into_force:
+  date: '1989-01-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1988-11-22'
+  effects_rule: a partir de 22 de Novembro de 1988
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

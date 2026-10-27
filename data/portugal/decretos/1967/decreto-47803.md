@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1374 - 1376
   pdf_url: https://files.diariodarepublica.pt/1s/1967/07/16800/13741376.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1967-08-19'
+entry_into_force:
+  date: '1967-08-19'
+  rule: 30 dias depois da sua publicação no Boletim Oficial das províncias ultramarinas
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

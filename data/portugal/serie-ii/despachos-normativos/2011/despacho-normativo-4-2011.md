@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9588 - 9588
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/039000000/0958809588.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-02-25'
+entry_into_force:
+  date: '2011-02-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

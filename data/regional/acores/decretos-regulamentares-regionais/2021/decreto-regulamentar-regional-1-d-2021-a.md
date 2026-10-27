@@ -24,6 +24,16 @@ publication:
   pages: 223-(2) a 223-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/02002/0000200013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00h00 do dia 30 de janeiro de 2021 e vigora enquanto vigorar o estado de emergência, sem prejuízo de eventuais
+    prorrogações do mesmo
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

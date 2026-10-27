@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 990 - 991
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/052a00/09900991.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-03-04'
+entry_into_force:
+  date: '1994-03-04'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

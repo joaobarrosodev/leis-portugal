@@ -24,6 +24,15 @@ publication:
   pages: 2245 - 2268
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13600/0224502268.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte ao mês em que a última dessas notificações foi recebida
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

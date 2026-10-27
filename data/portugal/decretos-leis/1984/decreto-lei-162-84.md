@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1615 - 1617
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11500/16151617.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-08-01'
+entry_into_force:
+  date: '1984-08-01'
+  rule: no primeiro dia do terceiro mês seguinte ao da data da sua publicação, aplicando-se, a partir daquele momento, a todos
+    os contratos que venham a ser celebrados, bem como aos contratos já celebrados, n
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

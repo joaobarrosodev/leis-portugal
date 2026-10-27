@@ -24,6 +24,16 @@ publication:
   pages: 2022 - 2024
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/29600/20222024.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que junto do Governo dos Estados Unidos da América tiverem sido depositados os instrumentos de ratificação
+    ou de aprovação, ou tiverem sido por ele recebidas notificações escritas de adesão
+  method: clausula
+  article: art-ii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

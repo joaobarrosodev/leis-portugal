@@ -24,6 +24,15 @@ publication:
   pages: 32 - 33
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21300/0003200033.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de novembro
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

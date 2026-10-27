@@ -24,6 +24,16 @@ publication:
   pages: 6245 - 6263
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/229b00/62456263.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da campanha de comercialização de 2002-2003, sem prejuízo de eventuais alterações posteriores na regulamentação
+    comunitária aplicável ao regime de apoio aos produtores de culturas arvenses
+  method: clausula
+  article: n-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

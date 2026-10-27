@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 542 - 548
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/01900/0054200548.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-27'
+entry_into_force:
+  date: '2013-02-27'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

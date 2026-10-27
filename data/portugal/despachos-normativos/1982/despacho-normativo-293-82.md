@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4326-(12) a 4326-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30101/00120012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-01-01'
+entry_into_force:
+  date: '1983-01-01'
+  rule: em 1 de Janeiro de 1983
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

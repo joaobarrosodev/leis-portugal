@@ -23,6 +23,15 @@ publication:
   pages: 4432-(3) a 4432-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29901/00030005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o Código de Processo Penal
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

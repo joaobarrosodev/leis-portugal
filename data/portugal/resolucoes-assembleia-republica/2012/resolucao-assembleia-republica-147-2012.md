@@ -24,6 +24,16 @@ publication:
   pages: 7132 - 7150
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/24500/0713207150.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de um mês a contar da data da última nota diplomática trocada entre as Partes Contratantes confirmando a
+    conclusão de todas as formalidades necessárias
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2444 - 2450
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09000/0244402450.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-05-10'
+entry_into_force:
+  date: '2012-05-10'
+  rule: no dia imediato ao da sua publicação e aplica-se aos pedidos que se encontrem em tramitação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

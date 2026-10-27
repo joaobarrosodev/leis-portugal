@@ -24,6 +24,16 @@ publication:
   pages: 95 - 122
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21400/0009500122.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data em que as Partes tenham procedido à notificação recíproca do cumprimentos das respetivas formalidades
+    jurídicas necessárias para o efeito
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

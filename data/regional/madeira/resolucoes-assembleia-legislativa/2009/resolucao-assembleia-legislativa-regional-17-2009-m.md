@@ -25,6 +25,15 @@ publication:
   pages: 8700 - 8701
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/24300/0870008701.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a aprovação do Orçamento do Estado para o ano de 2010
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

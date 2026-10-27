@@ -23,6 +23,16 @@ publication:
   pages: 1041 - 1051
   pdf_url: https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no nonagésimo dia após cinco dos países referidos no parágrafo 1 do artigo 12 a terem assinado sem reserva de ratificação
+    ou terem depositado os seus instrumentos de ratificação ou de adesão
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

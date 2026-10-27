@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/03/07100/03170318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:262112:por#art-4'
+    detail: É revogado o [Decreto n.º 42197], de 30 de Março de 1959.
 notes: []
 language: por
 version:

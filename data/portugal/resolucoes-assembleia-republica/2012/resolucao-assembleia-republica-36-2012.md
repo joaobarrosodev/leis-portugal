@@ -24,6 +24,16 @@ publication:
   pages: 1332 - 1338
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05900/0133201338.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: '30 dias após a data de recepção da última comunicação, por escrito e por via diplomática, de que foram cumpridos
+    todos os formalismos constitucionais ou legais exigíveis para cada uma das Partes para '
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

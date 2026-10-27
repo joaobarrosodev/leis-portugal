@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 9627 - 9628
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/23300/0962709628.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-28'
+entry_into_force:
+  date: '2015-11-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2015-09-23'
+  effects_rule: a partir de 23 de setembro de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

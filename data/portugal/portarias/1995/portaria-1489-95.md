@@ -24,6 +24,15 @@ publication:
   pages: 8268 - 8270
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/299b00/82688270.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 120 dias
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

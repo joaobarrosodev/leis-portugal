@@ -24,6 +24,16 @@ publication:
   pages: 5755 - 5758
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/23900/0575505758.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de receção, por via diplomática, da última notificação por escrito entre as Partes na qual confirmam mutuamente
+    o cumprimento dos seus requisitos legais internos necessários para a sua entrada
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

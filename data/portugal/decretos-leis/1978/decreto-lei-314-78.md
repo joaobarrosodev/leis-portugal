@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2256 - 2281
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24800/22562281.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-07-31'
+entry_into_force:
+  date: '1978-07-31'
+  rule: no dia 31 de Julho de 1978
+  method: clausula
+  article: art-214
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

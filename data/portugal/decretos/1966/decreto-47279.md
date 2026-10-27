@@ -24,6 +24,16 @@ publication:
   pages: 1743 - 1744
   pdf_url: https://files.diariodarepublica.pt/1s/1966/10/24800/17431744.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para execução total ou por fases em cada uma das províncias ultramarinas, quando as circunstâncias financeiras da
+    província permitirem a inclusão das correspondentes dotações orçamentais
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

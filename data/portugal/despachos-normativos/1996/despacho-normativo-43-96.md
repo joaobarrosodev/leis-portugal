@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3715 - 3719
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/246b00/37153719.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-10-23'
+entry_into_force:
+  date: '1996-10-23'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

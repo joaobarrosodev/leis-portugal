@@ -24,6 +24,16 @@ publication:
   pages: 2006 - 2012
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/073a00/20062012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da recepção da última notificação por escrito e por via diplomática de que foram cumpridos todos
+    os formalismos constitucionais e ou legais exigíveis para ambas as Partes
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

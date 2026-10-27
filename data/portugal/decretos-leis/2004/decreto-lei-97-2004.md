@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 2510 - 2537
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/096a00/25102537.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-04-24'
+entry_into_force:
+  date: '2004-04-24'
+  rule: no dia seguinte ao da sua publicação e é aplicável aos pedidos apresentados no INFARMED a partir de 1 de Julho de
+    2003
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

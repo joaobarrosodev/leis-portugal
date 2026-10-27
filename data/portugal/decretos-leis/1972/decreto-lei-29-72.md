@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 93 - 94
   pdf_url: https://files.diariodarepublica.pt/1s/1972/01/01900/00930094.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-03-24'
+entry_into_force:
+  date: '1972-03-24'
+  rule: sessenta dias após a sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

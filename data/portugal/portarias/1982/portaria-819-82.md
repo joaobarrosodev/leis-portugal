@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2538 - 2541
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/19900/25382541.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-08-29'
+entry_into_force:
+  date: '1982-08-29'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

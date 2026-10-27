@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 710 - 710
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/029a00/07100710.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-02-09'
+entry_into_force:
+  date: '2003-02-09'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: 'a partir da data em que entrou em vigor a Decisão do Conselho n.º 2000/597/CE, EURATOM, de 29 de Setembro,
+    relativa à retenção, a título de despesas de cobrança dos recursos próprios comunitários, da '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

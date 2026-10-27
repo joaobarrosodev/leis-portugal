@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1994-(3) a 1994-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/100b01/00030004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-05-15'
+entry_into_force:
+  date: '1997-05-15'
+  rule: no prazo de 15 dias a contar da data da sua publicação
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

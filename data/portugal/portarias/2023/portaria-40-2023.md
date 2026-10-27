@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4 - 6
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02600/0000400006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-07'
+entry_into_force:
+  date: '2023-02-07'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2022-08-01'
+  effects_rule: a partir de 1 de agosto de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

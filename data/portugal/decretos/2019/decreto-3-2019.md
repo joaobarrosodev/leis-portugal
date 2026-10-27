@@ -24,6 +24,16 @@ publication:
   pages: 978 - 988
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no trigésimo (30.º) dia após a receção da última notificação, por escrito e por via diplomática, informando que foram
+    cumpridos todos os requisitos de Direito interno das duas Partes necessários para '
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

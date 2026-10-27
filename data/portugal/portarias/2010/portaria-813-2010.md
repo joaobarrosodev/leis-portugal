@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3710 - 3711
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16700/0371003711.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-08-27'
+entry_into_force:
+  date: '2010-08-27'
+  rule: no dia da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 35 - 36
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/17700/0003500036.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-09-11'
+entry_into_force:
+  date: '2021-09-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: a partir do concurso ordinário n.º 39 do Totobola
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

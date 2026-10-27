@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6700 - 6700
   pdf_url: https://files.diariodarepublica.pt/1s/2004/11/265b00/67006700.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-11-12'
+entry_into_force:
+  date: '2004-11-12'
+  rule: no dia imediato ao da sua publicação, reportando os seus efeitos à data de aprovação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1881 - 1882
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/06100/0188101882.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-04-26'
+entry_into_force:
+  date: '2013-04-26'
+  rule: no prazo de 30 dias após a data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

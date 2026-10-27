@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 5122 - 5132
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-08-01'
+entry_into_force:
+  date: '2004-08-01'
+  rule: em 1 de Agosto de 2004, com excepção do anexo E, cujo modelo de certificado nele previsto é aplicável a partir de
+    1 de Janeiro de 2005 às trocas intracomunitárias de reservas de sémen colhido, armazen
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

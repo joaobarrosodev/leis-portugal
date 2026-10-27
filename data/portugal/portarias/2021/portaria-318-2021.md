@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 131 - 133
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/24800/0013100133.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-12-25'
+entry_into_force:
+  date: '2021-12-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

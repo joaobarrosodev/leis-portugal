@@ -24,6 +24,16 @@ publication:
   pages: 3210 - 3215
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/119a00/32103215.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da última nota que notifica a outra Parte de que se encontram concluídas as formalidades internas
+    necessárias à entrada em vigor deste Acordo
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5078-(6) a 5078-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/181a02/00060012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-09-04'
+entry_into_force:
+  date: '1999-09-04'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

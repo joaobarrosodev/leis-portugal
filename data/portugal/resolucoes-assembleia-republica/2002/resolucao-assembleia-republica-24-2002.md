@@ -27,6 +27,15 @@ publication:
   pages: 3042 - 3055
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/079a00/30423055.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à notificação da sua aprovação pelo último Estado-Membro
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

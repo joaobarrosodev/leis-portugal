@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4632-(10) a 4632-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/124a02/00100011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-06-30'
+entry_into_force:
+  date: '2006-06-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2006-06-30'
+  effects_rule: a partir de 30 de Junho de 2006
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

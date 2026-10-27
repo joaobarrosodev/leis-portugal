@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 164 - 166
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00400/0016400166.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-12'
+entry_into_force:
+  date: '2008-01-12'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir do início do ano lectivo de 2007-2008, sem prejuízo do disposto no n.º 3
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

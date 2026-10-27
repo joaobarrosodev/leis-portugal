@@ -24,6 +24,15 @@ publication:
   pages: 1540-(28) a 1540-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16102/00280030.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e durará pelo tempo necessário à estruturação de uma companhia de seguros no Estado de S
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

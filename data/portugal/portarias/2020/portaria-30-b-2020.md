@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 20-(4) a 20-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/02202/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-02-01'
+entry_into_force:
+  date: '2020-02-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2020-01-01'
+  effects_rule: desde 1 de janeiro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 2388 - 2397
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/12900/23882397.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dia após a data em que as Partes Contratantes tenham procedido à notificação recíproca por escrito de que se encontram
+    preenchidos os respectivos requisitos para a sua entrada em vigor
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

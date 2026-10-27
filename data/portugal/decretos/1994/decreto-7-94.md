@@ -24,6 +24,16 @@ publication:
   pages: 688 - 690
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/037a00/06880690.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para todas as Partes Contratantes, no 90.º dia após o depósito junto do director-geral da Organização da Alimentação
+    e da Agricultura (FAO) do último instrumento de aprovação, ratificação ou aceitação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

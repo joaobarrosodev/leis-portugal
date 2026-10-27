@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3606 - 3607
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/176a00/36063607.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-08-06'
+entry_into_force:
+  date: '1992-08-06'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: nos termos do n.º 1 do artigo 45.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

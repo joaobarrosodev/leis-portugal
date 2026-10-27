@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 1260-(32) a 1260-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04203/0003200033.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-03-03'
+entry_into_force:
+  date: '2015-03-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

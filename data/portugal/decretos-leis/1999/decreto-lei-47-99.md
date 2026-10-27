@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 805 - 818
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/039a00/08050818.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-02-17'
+entry_into_force:
+  date: '1999-02-17'
+  rule: no dia imediatamente a seguir ao da sua publicação
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4785 - 4789
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/14200/0478504789.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-07-25'
+entry_into_force:
+  date: '2009-07-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

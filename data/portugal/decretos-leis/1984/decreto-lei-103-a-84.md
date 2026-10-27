@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1084-(17) a 1084-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07602/00170026.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-04-01'
+entry_into_force:
+  date: '1984-04-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

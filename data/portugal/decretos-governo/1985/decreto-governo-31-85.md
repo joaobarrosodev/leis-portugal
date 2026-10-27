@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2558 - 2592
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/18500/25582592.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-01-01'
+entry_into_force:
+  date: '1981-01-01'
+  rule: em 1 de Janeiro de 1981 para os governos (ver nota 1) que o tenham aceite ou que a ele tenham aderido até esta data
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

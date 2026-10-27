@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 5487 - 5507
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16000/0548705507.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-10-20'
+entry_into_force:
+  date: '2007-10-20'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-95
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

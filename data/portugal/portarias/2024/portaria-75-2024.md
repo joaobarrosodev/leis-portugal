@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 20 - 23
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/04300/0002000023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-03-04'
+entry_into_force:
+  date: '2024-03-04'
+  rule: a 4 de março de 2024, data da entrada em vigor do Decreto-Lei n.º 10/2024, de 8 de janeiro
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

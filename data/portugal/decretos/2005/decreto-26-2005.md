@@ -24,6 +24,16 @@ publication:
   pages: 7017 - 7035
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/237a00/70177035.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da recepção da última notificação, por via diplomática, de que foram cumpridos os respectivos
+    requisitos de direito interno necessários para o efeito
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

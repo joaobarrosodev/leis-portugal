@@ -24,7 +24,17 @@ publication:
   supplement: 4º Suplemento
   pages: 20-(2) a 20-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/23204/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-05'
+entry_into_force:
+  date: '2023-12-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir da data da sua aprovação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

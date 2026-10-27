@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8602-(6) a 8602-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19402/0000600012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-06'
+entry_into_force:
+  date: '2015-10-06'
+  rule: a 6 de outubro de 2015
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

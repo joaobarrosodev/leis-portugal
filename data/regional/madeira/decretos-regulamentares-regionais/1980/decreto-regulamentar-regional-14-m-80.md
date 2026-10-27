@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4244-(93) a 4244-(96)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30105/00930096.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-01-01'
+entry_into_force:
+  date: '1981-01-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

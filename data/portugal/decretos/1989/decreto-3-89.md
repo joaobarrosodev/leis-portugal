@@ -23,6 +23,16 @@ publication:
   pages: 64 - 67
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/00600/00640067.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: desde que cumpridas as formalidades constitucionais de cada uma das Partes Contratantes e que tal facto seja comunicado
+    mutuamente pela via diplomática
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2904-(2) a 2904-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/080a01/00020015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-04-25'
+entry_into_force:
+  date: '2006-04-25'
+  rule: no dia seguinte ao da sua publicação e é aplicável aos concursos relativos ao ano escolar de 2006-2007 e aos posteriores
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

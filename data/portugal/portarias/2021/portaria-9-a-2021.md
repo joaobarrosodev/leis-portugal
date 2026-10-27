@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 207-(2) a 207-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00401/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-12'
+entry_into_force:
+  date: '2021-01-12'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2021-01-08'
+  effects_rule: no dia seguinte ao da sua publicação, caducando com a conclusão do processo referente à época normal de avaliação
+    da formação médica especializada de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

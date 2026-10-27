@@ -27,7 +27,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1944/09/19700/08830888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:632251:por#art-16'
+    detail: 1. São revogados o [Decreto-Lei n.º 33921], de 5 de Setembro de 1944, e o [Decreto-Lei n.º 35931], de 4 de Novembro
+      de 1946.
 notes: []
 language: por
 version:

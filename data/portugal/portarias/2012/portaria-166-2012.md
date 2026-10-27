@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2693 - 2695
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09900/0269302695.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-05-23'
+entry_into_force:
+  date: '2012-05-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2012-01-01'
+  effects_rule: a partir de 1 de janeiro de 2012
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

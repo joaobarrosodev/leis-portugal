@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 332 - 342
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/017b00/03320342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-01-20'
+entry_into_force:
+  date: '1995-01-20'
+  rule: na data da sua publicação no Diário da República e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo prazo de 10 anos, sendo revisto ou alterado de acordo com o estabelecido no Decreto-Lei n.º 69/90, de 2 de
+    Março, com a redacção do Decreto-Lei n.º 211/92
 end_of_validity_date: null
 legal_status: in_force
 notes: []

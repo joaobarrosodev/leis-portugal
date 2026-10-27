@@ -23,6 +23,16 @@ publication:
   pages: 3262 - 3268
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/28700/32623268.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo do prazo de 1 mês decorrido a partir da data em que 2 Estados Membros do
+    Conselho da Europa exprimirem a sua vinculação ao Acordo, nos termos do artigo 9.º
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 2390 - 2409
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07700/0239002409.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no 90.º dia seguinte à data de depósito, junto do Depositário, do 25.º instrumento de ratificação, aceitação ou aprovação,
+    incluindo os instrumentos de 15 Estados que disponham de uma central nuclear '
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

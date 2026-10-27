@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 363 - 427
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/078000000/0036300427.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-22'
+entry_into_force:
+  date: '2025-05-22'
+  rule: no trigésimo dia seguinte ao da sua publicação, não se aplicando aos processos pendentes a essa data
+  method: clausula
+  article: art-82
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

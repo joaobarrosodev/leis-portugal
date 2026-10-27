@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 82-(2) a 82-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20601/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-10-26'
+entry_into_force:
+  date: '2019-10-26'
+  rule: no dia seguinte à sua publicação, retroagindo os seus efeitos à data de entrada em vigor da Portaria n.º 325-A/2019,
+    de 20 de setembro
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 3081 - 3082
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/17000/30813082.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de troca de notas, pelas quais cada uma das Partes comunica à outra que se encontram cumpridas as formalidades
+    exigidas pela respectiva ordem jurídica interna
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -1,0 +1,649 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:548826:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-10-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6b4e9bb1d2074697",
+    "e82e298be73417b9",
+    "d39ae6018fc814cd",
+    "7518c47ce3fbea0e",
+    "9f84c9ecd0eb1cec",
+    "f951244b795d6f6c",
+    "11fc059702457b13",
+    "d354a8ff95ada741",
+    "fadba8aa9176060a",
+    "3d8da21333af6cd1",
+    "b434966e615e4fd6",
+    "6b84a8afe702d332",
+    "ed048aade747a582",
+    "f593b5c61c818741",
+    "68d36c042298a0f1",
+    "5d7aa9115eb7282e",
+    "1dcf4ab1ff7b560e",
+    "d12944980e1a6c91",
+    "f9c9f9ca0a5a916a",
+    "51a3c4cef779ca91",
+    "49710b841b4fca6b",
+    "b5353ffe6b404120",
+    "da8607f2b2f68c08",
+    "bd045aed97198783",
+    "fd3609894e0e89aa",
+    "e265e601bfc3feea",
+    "36c8da3a628de13b",
+    "6fef732e911be187",
+    "67a7385a3b0c2dc3",
+    "fc8fef9a0d9eb1f4",
+    "575a91db66ade3ea",
+    "bc7b1e3209a94fae",
+    "a85531bbcf246903",
+    "0af9369960bbf83a",
+    "df13ded76881af31",
+    "264d59e9beacf12e",
+    "260a9f4ecd4b5740",
+    "8a9a8701cb8db062",
+    "0ea60973f701c469",
+    "6663509fce295081",
+    "799139f82bf400b9",
+    "e7d6e2e5bc47d876",
+    "14ee8b00899c3915"
+   ]
+  },
+  {
+   "date": "2007-02-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517819:por",
+     "title": "Decreto-Lei n.º 43/2007",
+     "published": "2007-02-22",
+     "dre_path": "/dr/detalhe/decreto-lei/43-2007-517819"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 34.º"
+   ],
+   "fragments": [
+    "6b4e9bb1d2074697",
+    "e82e298be73417b9",
+    "d39ae6018fc814cd",
+    "7518c47ce3fbea0e",
+    "9f84c9ecd0eb1cec",
+    "d68e6e535ebf9ebf",
+    "11fc059702457b13",
+    "d354a8ff95ada741",
+    "fadba8aa9176060a",
+    "e73c01c4694a9de0",
+    "d4da49cb88ee75c9",
+    "c3831783f7e5d6fc",
+    "e83ca25a422763ee",
+    "dd19189f333f3c60",
+    "b756e6e9df42d53b",
+    "4c1327a2051475ef",
+    "b4c4c02565abb672",
+    "9bcef04c72edbac9",
+    "44bd20255ae28c11",
+    "e7d90f91e57a464b",
+    "f6cc380479e1047a",
+    "02f79d013b00c4d8",
+    "fb1b94c4f676af12",
+    "bd045aed97198783",
+    "fd3609894e0e89aa",
+    "e265e601bfc3feea",
+    "36c8da3a628de13b",
+    "6fef732e911be187",
+    "67a7385a3b0c2dc3",
+    "fc8fef9a0d9eb1f4",
+    "575a91db66ade3ea",
+    "bc7b1e3209a94fae",
+    "a85531bbcf246903",
+    "0af9369960bbf83a",
+    "df13ded76881af31",
+    "264d59e9beacf12e",
+    "260a9f4ecd4b5740",
+    "8a9a8701cb8db062",
+    "0ea60973f701c469",
+    "be3b74411eef8c82",
+    "799139f82bf400b9",
+    "e7d6e2e5bc47d876",
+    "14ee8b00899c3915"
+   ]
+  }
+ ],
+ "fragments": {
+  "6b4e9bb1d2074697": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Outubro\n\nA Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro) define a formação de educadores e de professores como um dos vectores fundamentais da nova educação que se quer para Portugal. Importa que tal formação seja rapidamente adaptada à nova orgânica do sistema de ensino, aos objectivos gerais prosseguidos globalmente por esse sistema e aos objectivos de cada nível de escolaridade.\n\nAssim, e em concordância com os objectivos definidos, o presente diploma constitui o ordenamento jurídico da formação de educadores de infância e de professores dos ensinos básico e secundário, tomando como quadro referencial a Lei de Bases do Sistema Educativo, em conjunção com a legislação adequada que na matéria se encontra em vigor.\n\nO presente diploma pretende conciliar duas vertentes fundamentais: o contributo da experiência vivida nos últimos anos e a criação de uma estrutura flexível e dinâmica que garanta a articulação dos diversos modelos de formação coexistentes no sistema.\n\nO ordenamento jurídico da formação dos referidos profissionais, de acordo com as grandes finalidades que orientam o sistema educativo nacional, enquadra-se numa política que procura articular, de forma sequencial e coerente, a formação dos docentes dos níveis de ensino não superior.\n\nO presente diploma define ainda o perfil profissional dos educadores e dos professores nos campos de competência científica na especialidade, da competência pedagógico-didáctica e da adequada formação pessoal e social, adquiridas numa perspectiva de integração. Igualmente traduz no seu normativo a importância atribuída à formação contínua, que considera indissociável da formação inicial.\n\nFinalmente, consagra também como vector fundamental o princípio de que a dimensão de investigação e de inovação constitui uma componente permanente na formação e na actividade profissional de educadores e professores de todos os escalões.\n\nTendo em consideração os grandes objectivos acima definidos e o disposto na alínea b) do n.º 1 do artigo 59.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "e82e298be73417b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Princípios gerais"
+  },
+  "d39ae6018fc814cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma aplica-se à educação e ensino não superior."
+  },
+  "7518c47ce3fbea0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\nO presente diploma estabelece o ordenamento jurídico da formação dos educadores de infância e dos professores dos ensinos básico e secundário."
+  },
+  "9f84c9ecd0eb1cec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nDe acordo com o n.º 1 do artigo 30.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, a formação de educadores de infância e de professores dos ensinos básico e secundário orienta-se pelos seguintes princípios gerais:\n\na) A formação inicial é de nível superior, devendo contemplar componentes de formação pessoal, social e cultural, de preparação científica na especialidade e de formação pedagógico-didáctica;\n\nb) A formação contínua deve, na sequência da preparação inicial, promover o desenvolvimento profissional permanente dos educadores e professores, designadamente numa perspectiva de auto-aprendizagem;\n\nc) A formação deve garantir a integração tanto de aspectos científicos e pedagógicos como das componentes teórica e prática e promover a aprendizagem das diferentes funções adequadas às exigências da carreira docente;\n\nd) A formação deve ser flexível, permitindo a reconversão e mobilidade dos docentes;\n\ne) A formação deve assentar em práticas metodológicas afins das que os educadores e professores vierem a utilizar no exercício da função docente;\n\nf) A formação deve favorecer práticas de análise crítica, investigação e inovação pedagógica, assim como o envolvimento construtivo com o meio."
+  },
+  "f951244b795d6f6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Docentes a formar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Docentes a formar\n\n1 - De acordo com a lei vigente, são os seguintes os docentes a formar:\n\na) Educadores de infância;\n\nb) Professores do ensino básico;\n\nc) Professores do ensino secundário.\n\n2 - A formação dos professores do ensino básico diversifica-se nas seguintes modalidades e em correspondência com o grau de polivalência docente definida na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro:\n\na) Professores para o 1.º ciclo do ensino básico;\n\nb) Professores para o 2.º ciclo do ensino básico;\n\nc) Professores para o 3.º ciclo do ensino básico.\n\n3 - Os professores que adquirirem formação para a docência no 2.º ciclo do ensino básico ficam também profissionalmente qualificados para a docência no 1.º ciclo do ensino básico.\n\n4 - Os professores que adquirirem formação para a docência no 3.º ciclo do ensino básico ficam também profissionalmente qualificados para a docência no 2.º ciclo do ensino básico.\n\n5 - Os professores do ensino secundário poderão também ficar profissionalmente qualificados para a docência do 3.º ciclo do ensino básico.\n\n6 - A possibilidade de mobilidade dos docentes referida nos números anteriores exercer-se-á à medida que os respectivos cursos estejam organizados e aprovados com essa finalidade."
+  },
+  "11fc059702457b13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Professores de áreas profissionais ou artísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Professores de áreas profissionais ou artísticas\n\nAs instituições superiores de formação devem assegurar a preparação de docentes destinados a áreas ou disciplinas de natureza vocacional, profissional ou artística."
+  },
+  "d354a8ff95ada741": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Docentes de educação e ensino especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Docentes de educação e ensino especial\n\nA formação de docentes para a educação e ensino especial realiza-se pela frequência, com aproveitamento, de cursos de especialização vocacionados para o efeito, aos quais terão acesso educadores de infância e professores dos ensinos básico e secundário com prática de educação ou de ensino regular ou especial."
+  },
+  "fadba8aa9176060a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Da formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Da formação inicial"
+  },
+  "3d8da21333af6cd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Definição\n\n1 - A formação inicial de educadores de infância e de professores dos ensinos básico e secundário é a que confere qualificação profissional para a docência.\n\n2 - Para efeitos do disposto no número anterior, entende-se por qualificação profissional a que permite o ingresso na carreira de educadores de infância e de professores dos ensinos básico e secundário.\n\n3 - A formação inicial terá como objectivos fundamentais:\n\na) A formação pessoal e social dos futuros docentes, favorecendo a adopção de atitudes de reflexão, autonomia, cooperação e participação, bem como a interiorização de valores deontológicos e a capacidade de percepção de princípios;\n\nb) A formação científica, tecnológica, técnica ou artística na respectiva especialidade;\n\nc) A formação científica no domínio pedagógico-didáctico;\n\nd) O desenvolvimento progressivo das competências docentes a integrar no exercício da prática pedagógica;\n\ne) O desenvolvimento de capacidades e atitudes de análise crítica, de inovação e investigação pedagógica.\n\n4 - Os objectivos referidos no número anterior desenvolvem-se segundo diferentes proporções, tendo em conta a sua adequação ao grupo etário e nível de ensino a que educadores e professores se destinam."
+  },
+  "b434966e615e4fd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Aquisição de qualificações profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aquisição de qualificações profissionais\n\n1 - A qualificação profissional de educadores de infância e professores dos ensinos básico e secundário é adquirida através da frequência, com aproveitamento, de cursos específicos de formação inicial, ministrados em escolas superiores ou em universidades que disponham de unidades de formação próprias para o efeito.\n\n2 - A qualificação profissional de professores do 3.º ciclo do ensino básico e do ensino secundário pode ainda ser adquirida pelos diplomados possuidores de habilitação científica para a docência da respectiva área ou especialidade, mediante a frequência, com aproveitamento, de um curso adequado de formação pedagógica."
+  },
+  "6b84a8afe702d332": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Entidades que promovem a formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entidades que promovem a formação\n\n1 - A formação de educadores de infância e de professores dos ensinos básico e secundário é assegurada, através de cursos específicos de formação inicial, pelas instituições de ensino superior que disponham de unidades de formação próprias para o efeito.\n\n2 - Consideram-se unidades de formação própria para a formação inicial, para efeitos do estabelecido no número anterior, aquelas que, como tal, sejam reconhecidas nos respectivos diplomas legais de criação."
+  },
+  "ed048aade747a582": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Formação de educadores de infância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Formação de educadores de infância\n\nA formação inicial de educadores de infância é feita em escolas superiores de educação ou em universidades com unidades de formação próprias, que, para o efeito, conferem o grau de bacharel em Educação."
+  },
+  "f593b5c61c818741": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Formação de professores do 1.º ciclo do ensino básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formação de professores do 1.º ciclo do ensino básico\n\nA formação inicial de professores do 1.º ciclo do ensino básico é realizada em escolas superiores de educação ou em universidades com unidades de formação próprias, que, para o efeito, conferem o grau de bacharel em Ensino."
+  },
+  "68d36c042298a0f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Formação de professores do 2.º ciclo do ensino básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Formação de professores do 2.º ciclo do ensino básico\n\nA formação inicial dos professores do 2.º ciclo do ensino básico é realizada em escolas superiores de educação ou em universidades com unidades de formação próprias, que, para o efeito, conferem o diploma de estudos superiores especializados e ou o grau de licenciado em Ensino, com a indicação da área disciplinar de docência."
+  },
+  "5d7aa9115eb7282e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Formação de professores do 3.º ciclo do ensino básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formação de professores do 3.º ciclo do ensino básico\n\nA formação inicial dos professores do 3.º ciclo do ensino básico é realizada em universidades com unidades de formação próprias, que, para o efeito, conferem o grau de licenciado em Ensino, com a indicação da disciplina ou grupo de disciplinas de docência."
+  },
+  "1dcf4ab1ff7b560e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Formação de professores do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formação de professores do ensino secundário\n\nA formação inicial dos professores do ensino secundário é realizada em universidades com unidades próprias de formação, que, para o efeito, conferem o grau de licenciado em Ensino, com a indicação da disciplina ou disciplinas de docência."
+  },
+  "d12944980e1a6c91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Estrutura curricular dos cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Estrutura curricular dos cursos de formação\n\n1 - Os cursos de formação inicial de educadores de infância e dos professores dos diferentes ciclos e graus de ensino não superior disporão de uma estrutura adequada, que incluirá, designadamente:\n\na) Uma componente de formação pessoal, social, cultural, científica, tecnológica, técnica ou artística ajustada à futura docência;\n\nb) Uma componente de ciências de educação;\n\nc) Uma componente de prática pedagógica orientada pela instituição formadora, com a colaboração do estabelecimento de ensino em que essa prática é realizada.\n\n2 - Os cursos regulares de formação de educadores de infância e de professores dos ensinos básico e secundário devem incluir preparação inicial no campo da educação especial.\n\n3 - A estrutura curricular dos cursos e de cada uma das suas componentes deve concretizar os princípios sobre a formação de educadores e professores enunciados no artigo 3.º deste diploma."
+  },
+  "f9c9f9ca0a5a916a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Prática pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prática pedagógica\n\n1 - Para efeitos do disposto no artigo anterior, a prática pedagógica deve constituir uma componente fundamental no processo de desenvolvimento das capacidades e competências que integram a função docente.\n\n2 - De acordo com mecanismos de cooperação a estabelecer, caso a caso, por despacho do Ministro da Educação, a cada instituição formadora poderá ser associada uma rede de escolas com o objectivo de facilitar a organização das actividades da prática pedagógica."
+  },
+  "51a3c4cef779ca91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Modalidades da prática pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Modalidades da prática pedagógica\n\n1 - Nos cursos específicos de formação de educadores de infância e de professores dos ensinos básico e secundário a prática pedagógica concretiza-se através de actividades diferenciadas ao longo do curso.\n\n2 - A prática pedagógica pode, na sua fase final, assumir a natureza de um estágio, em condições a regulamentar por portaria do Ministro da Educação."
+  },
+  "49710b841b4fca6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Organização dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Organização dos cursos\n\n1 - Na organização dos cursos de formação de educadores de infância e de professores dos ensinos básico e secundário, designadamente no que se refere ao relevo das componentes de formação a incluir, devem respeitar-se os princípios genéricos constantes das alíneas seguintes:\n\na) A natureza e o relevo da componente de formação científica na respectiva especialidade variam em função do nível de ensino em que o futuro docente vai exercer, devendo assumir importância crescente na formação dos professores dos graus de ensino mais elevados;\n\nb) A componente da formação pedagógico-didáctica, incluindo as didácticas específicas dos conteúdos a leccionar, deve adquirir maior relevo na formação dos educadores e professores do 1.º ciclo do ensino básico.\n\n2 - Nos cursos de educadores de infância e de professores do 1.º ciclo do ensino básico o conjunto das duas componentes de formação pedagógico-didáctica e de prática pedagógica deve manter-se em equilíbrio com a componente de formação cultural e científica, não devendo aquela ultrapassar os 60% da carga horária total, em qualquer caso.\n\n3 - Nos cursos de formação de professores do 2.º e 3.º ciclos do ensino básico a formação cultural e científica na respectiva especialidade não deve ultrapassar os 70% da carga horária total relativamente ao conjunto das outras duas componentes de formação.\n\n4 - Nos cursos de formação de professores do ensino secundário a formação cultural e científica na respectiva especialidade não deve ultrapassar os 80% da carga horária total, sem prejuízo de uma proporção diferente nos modelos de formação que exigem uma licenciatura científica para a admissão à frequência da componente pedagógica."
+  },
+  "b5353ffe6b404120": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Carga horária dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Carga horária dos cursos\n\nA carga horária total das disciplinas, seminários e actividades que integram os planos de estudo dos cursos de formação de educadores de infância e de professores dos ensinos básico e secundário constará dos documentos legais de criação dos respectivos cursos e desenvolver-se-á nos documentos legais que os regulamentem, de acordo com os princípios orientadores definidos no artigo 18.º"
+  },
+  "da8607f2b2f68c08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Segunda via de formação de professores do 3.º ciclo do ensino básico e de professores do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Segunda via de formação de professores do 3.º ciclo do ensino básico e de professores do ensino secundário\n\n1 - Os cursos de formação pedagógica a que se refere o n.º 2 do artigo 8.º do presente diploma deverão ser globalmente equivalentes à componente pedagógica dos cursos integrados de formação para o mesmo nível de ensino.\n\n2 - A organização dos cursos de formação pedagógica deve prever, obrigatoriamente, um estágio, a regulamentar por portaria do Ministro da Educação."
+  },
+  "bd045aed97198783": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Formação de professores de áreas vocacionais, profissionais ou artísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Formação de professores de áreas vocacionais, profissionais ou artísticas\n\n1 - A formação inicial dos professores de disciplinas de natureza vocacional, profissional ou artística dos ensinos básico e secundário é feita em instituições de ensino superior, através da frequência, com aproveitamento, de cursos profissionais adequados, os quais serão complementados por formação pedagógica, conferindo uma qualificação profissional equivalente à dos professores do respectivo nível de ensino.\n\n2 - A formação pedagógica referida no número anterior terá uma composição, no que respeita às componentes de formação, globalmente equivalente à definida no artigo 18.º\n\n3 - Em casos especiais, quando o curso de complemento de formação pedagógica referido no n.º 1 se realizar na mesma instituição do ensino superior que ministra o curso profissional ou artístico, o seu desenvolvimento pode iniciar-se antes de concluído este."
+  },
+  "fd3609894e0e89aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Disciplinas de formação vocacional, profissional ou artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disciplinas de formação vocacional, profissional ou artística\n\nAs disciplinas de natureza vocacional, profissional ou artística dos ensinos básico e secundário, a que correspondem os cursos profissionais adequados referidos no artigo 21.º, são aquelas que, como tal, constam dos planos curriculares dos ensinos básico e secundário."
+  },
+  "e265e601bfc3feea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Qualificação para a docência em educação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Qualificação para a docência em educação especial\n\nA qualificação para a docência em educação especial representa uma especialização, a que corresponde um diploma próprio."
+  },
+  "36c8da3a628de13b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Cursos de especialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cursos de especialização\n\n1 - Os cursos de especialização, a nível de pós-graduação, para educadores e professores visam a preparação de pessoal qualificado para o exercício de funções, tanto de natureza pedagógica como de natureza administrativa, requeridas pelo sistema educativo.\n\n2 - Na sequência do estabelecido no número anterior, poderão ser criados cursos de especialização, nomeadamente em:\n\na) Orientação pedagógica;\n\nb) Inspecção escolar;\n\nc) Administração escolar;\n\nd) Alfabetização e educação básica de adultos;\n\ne) Animação cultural."
+  },
+  "6fef732e911be187": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da formação contínua"
+  },
+  "67a7385a3b0c2dc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Natureza\n\nA formação contínua constitui um direito e um dever dos educadores de infância e dos professores dos ensinos básico e secundário, visando promover a actualização e aperfeiçoamento da actividade profissional, bem como a investigação aplicada e a divulgação da inovação educacional."
+  },
+  "fc8fef9a0d9eb1f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Objectivos e articulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Objectivos e articulação\n\n1 - A formação contínua tem como objectivos fundamentais:\n\na) Melhorar a competência profissional dos docentes nos vários domínios da sua actividade;\n\nb) Incentivar os docentes a participar activamente na inovação educacional e na melhoria da qualidade da educação e do ensino;\n\nc) Adquirir novas competências relativas à especialização exigida pela diferenciação e modernização do sistema educativo.\n\n2 - A formação contínua inicia-se por um período de indução, durante o qual são asseguradas pelas instituições de formação, de acordo com as suas disponibilidades, formas de apoio ao novo docente.\n\n3 - A regulamentação do período de indução será objecto de portaria do Ministro da Educação.\n\n4 - A formação contínua constitui ainda condição de progressão na carreira.\n\n5 - A formação contínua pode também contribuir para viabilizar a transição dos docentes entre os diversos níveis a graus de ensino e grupos de docência ou para o exercício de actividades especializadas de natureza paradocente."
+  },
+  "575a91db66ade3ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Iniciativa da organização de acções de formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Iniciativa da organização de acções de formação contínua\n\n1 - A formação contínua pode resultar de iniciativas de instituições para tanto vocacionadas, nomeadamente as de formação inicial de docentes, e ainda de iniciativas originárias de organismos nacionais, regionais ou locais do Ministério da Educação, de outros departamentos do Estado, de entidades e organismos empregadores, bem como de docentes, incluindo as suas associações profissionais e científicas.\n\n2 - A formação contínua pode também ser promovida e apoiada pelo próprio estabelecimento de educação ou ensino ou por vários estabelecimentos apoiados por um mesmo centro de recursos.\n\n3 - Para efeitos do disposto nos números anteriores podem ser concedidos períodos sabáticos e dispensas para formação."
+  },
+  "bc7b1e3209a94fae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Regime e creditação das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regime e creditação das acções\n\n1 - As acções de formação contínua podem ser objecto de creditação.\n\n2 - O regime de creditação das acções de formação, para efeitos de progressão na carreira, é definido por decreto regulamentar."
+  },
+  "a85531bbcf246903": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do planeamento e coordenação da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do planeamento e coordenação da formação"
+  },
+  "0af9369960bbf83a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Planeamento e coordenação a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Planeamento e coordenação a nível nacional\n\nÀ Direcção-Geral do Ensino Básico e Secundário, na qualidade de serviço central do Ministério da Educação responsável pela orientação e coordenação da educação e ensino não superior, compete determinar, de acordo com as necessidades de evolução do sistema educativo, as exigências qualitativas de formação inicial e contínua dos respectivos docentes a nível nacional."
+  },
+  "df13ded76881af31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Planeamento e coordenação aos níveis local e regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Planeamento e coordenação aos níveis local e regional\n\n1 - Aos estabelecimentos de ensino básico e secundário, no respeito pela sua autonomia, compete proceder ao levantamento das necessidades de formação dos seus docentes e elaborar o respectivo plano.\n\n2 - Às direcções regionais de educação compete apoiar e coordenar, a nível regional, a concretização da formação do pessoal docente, compatibilizando as necessidades e planos referidos no presente capítulo."
+  },
+  "264d59e9beacf12e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Articulação com as instituições superiores de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Articulação com as instituições superiores de formação\n\n1 - Aos órgãos de gestão e administração escolar, sob a coordenação e em estreita articulação com as direcções regionais de educação, e à Direcção-Geral do Ensino Básico e Secundário compete ainda estabelecer protocolos de formação com instituições superiores especialmente vocacionadas para o efeito, nos quais se estabelecem os parâmetros da encomenda de formação.\n\n2 - Para efeitos do disposto no número anterior, será apresentada às instituições formadoras a caracterização das necessidades e objectivos da formação a realizar, de modo a permitir o planeamento da oferta de formação."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "8a9a8701cb8db062": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Quadro de habilitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Quadro de habilitações\n\nNa sequência da reestruturação curricular dos ensinos básico e secundário, o Ministro da Educação aprovará, por portaria, a relação dos cursos superiores a que se referem o n.º 2 do artigo 8.º e o n.º 1 do artigo 21.º"
+  },
+  "0ea60973f701c469": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Obtenção de formação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Obtenção de formação complementar\n\n1 - A obtenção por parte dos educadores de infância e de professores dos ensinos básico e secundário de graus académicos superiores orientados para o reforço da competência profissional, para além da expectativa da mobilidade profissional, deverá favorecer a progressão na carreira.\n\n2 - As condições de aplicação do disposto no número anterior serão estabelecidas no diploma a que se refere a alínea c) do n.º 1 do artigo 59.º da Lei de Bases do Sistema Educativo."
+  },
+  "6663509fce295081": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Completamento de habilitações de professores vinculados com habilitação suficiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Completamento de habilitações de professores vinculados com habilitação suficiente\n\n1 - O completamento de habilitações de professores vinculados com habilitação suficiente compreende duas componentes, visando a primeira o complemento da formação científica e a segunda o complemento da formação pedagógica.\n\n2 - Os professores referidos no número anterior serão submetidos, para efeitos de ingresso na primeira componente, a provas de capacidade científica para os diversos níveis de ensino a que se destinam, organizadas pelas instituições superiores de formação.\n\n3 - Em função dos resultados obtidos, os professores serão agrupados nas seguintes categorias:\n\na) Na categoria A, os professores que provem possuir a capacidade científica exigível para a docência das áreas ou disciplinas a que se destinam, ficando desde logo dispensados do complemento de habilitações no que se refere à sua preparação científica;\n\nb) Nas categorias B, C ou D, os professores que podem completar a sua formação científica através da obtenção de um número de créditos correspondente à frequência de um semestre escolar, um ano lectivo ou dois anos lectivos, respectivamente.\n\n4 - A segunda componente reveste a forma da profissionalização em serviço.\n\n5 - As duas componentes referidas nos números anteriores são da responsabilidade das instituições de ensino superior para tanto habilitadas, podendo ser realizadas em simultâneo nos cursos que especialmente o prevejam."
+  },
+  "799139f82bf400b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Profissionalização em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Profissionalização em serviço\n\n1 - A profissionalização em serviço, a que se refere o n.º 2 do artigo 62.º da Lei de Bases do Sistema Educativo, é da competência das instituições de ensino superior, em articulação com as escolas em que os formandos prestarem serviço.\n\n2 - A profissionalização em serviço será objecto de regime legal próprio."
+  },
+  "e7d6e2e5bc47d876": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Aplicação temporal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Aplicação temporal\n\n1 - A aplicação no tempo do disposto no presente diploma far-se-á de acordo com calendário fixado por despacho do Ministro da Educação, publicado no Diário da República.\n\n2 - O calendário a que se refere o número anterior estabelecerá a articulação entre a aplicação do presente diploma e a dos previstos no n.º 1 do artigo 59.º da Lei de Bases do Sistema Educativo."
+  },
+  "14ee8b00899c3915": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Entrada em vigor\n\nO presente diploma entra em vigor 90 dias após a publicação.\n\nVisto e aprovado em Conselho de Ministros de 7 de Setembro de 1989. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro.\n\nPromulgado em 26 de Setembro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 1 de Outubro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "d68e6e535ebf9ebf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Docentes a formar",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.",
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.",
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.",
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.",
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 4.º — Docentes a formar\n\n1 - De acordo com a lei vigente, são os seguintes os docentes a formar:\n\na) Educadores de infância;\n\nb) Professores do ensino básico;\n\nc) Professores do ensino secundário.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "e73c01c4694a9de0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Definição",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 7.º — Definição\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "d4da49cb88ee75c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Aquisição de qualificações profissionais",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 8.º — Aquisição de qualificações profissionais\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "c3831783f7e5d6fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Entidades que promovem a formação",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 9.º — Entidades que promovem a formação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "e83ca25a422763ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Formação de educadores de infância",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 10.º — Formação de educadores de infância\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "dd19189f333f3c60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Formação de professores do 1.º ciclo do ensino básico",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 11.º — Formação de professores do 1.º ciclo do ensino básico\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "b756e6e9df42d53b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Formação de professores do 2.º ciclo do ensino básico",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 12.º — Formação de professores do 2.º ciclo do ensino básico\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "4c1327a2051475ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Formação de professores do 3.º ciclo do ensino básico",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 13.º — Formação de professores do 3.º ciclo do ensino básico\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "b4c4c02565abb672": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Formação de professores do ensino secundário",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 14.º — Formação de professores do ensino secundário\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "9bcef04c72edbac9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Estrutura curricular dos cursos de formação",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 15.º — Estrutura curricular dos cursos de formação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "44bd20255ae28c11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Prática pedagógica",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 16.º — Prática pedagógica\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "e7d90f91e57a464b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Modalidades da prática pedagógica",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 17.º — Modalidades da prática pedagógica\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "f6cc380479e1047a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Organização dos cursos",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 18.º — Organização dos cursos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "02f79d013b00c4d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Carga horária dos cursos",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 19.º — Carga horária dos cursos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "fb1b94c4f676af12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Segunda via de formação de professores do 3.º ciclo do ensino básico e de professores do ensino secundário",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 20.º — Segunda via de formação de professores do 3.º ciclo do ensino básico e de professores do ensino secundário\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  },
+  "be3b74411eef8c82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Completamento de habilitações de professores vinculados com habilitação suficiente",
+   "in_force_from": "2007-02-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+   ],
+   "markdown": "###### Artigo 34.º — Completamento de habilitações de professores vinculados com habilitação suficiente\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22."
+  }
+ }
+}

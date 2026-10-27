@@ -22,7 +22,17 @@ publication:
   supplement: 2º Suplemento
   pages: 168-(2) a 168-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/25202/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-31'
+entry_into_force:
+  date: '2020-12-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2021-01-01'
+  effects_rule: a partir de 1 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

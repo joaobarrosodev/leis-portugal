@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2148 - 2149
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18500/21482149.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-08-12'
+entry_into_force:
+  date: '1980-08-12'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4817-4817
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/04/28/182679711.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-01-01'
+entry_into_force:
+  date: '2022-01-01'
+  rule: com efeitos a 1 de janeiro de 2022
+  method: clausula
+  article: art-unico
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

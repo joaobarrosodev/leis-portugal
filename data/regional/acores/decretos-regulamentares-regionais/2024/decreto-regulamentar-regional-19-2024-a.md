@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 56 - 58
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22200/0005600058.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-16'
+entry_into_force:
+  date: '2024-11-16'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

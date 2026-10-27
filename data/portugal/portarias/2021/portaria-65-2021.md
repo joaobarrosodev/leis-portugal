@@ -24,9 +24,29 @@ publication:
   supplement: null
   pages: 24 - 35
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05300/0002400035.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-18'
+entry_into_force:
+  date: '2021-03-18'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: nos termos do artigo 24.º do Decreto-Lei n.º 55/2020, de 12 de agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1162304245:por#art-33'
+    detail: d) [Portaria n.º 65/2021], de 17 de março.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1162304245:por'
+    detail: Revogada, a partir de 28 de agosto de 2026, com efeitos a 31 de dezembro de 2026, pelo(a) Portaria n.º 394/2026/1
+      - Diário da República n.º 166/2026, Série I de 2026-08-27 nos termos da alínea d) do artigo 33.º desta
 notes: []
 language: por
 version:

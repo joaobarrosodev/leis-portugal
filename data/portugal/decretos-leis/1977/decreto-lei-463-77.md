@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2674-(97) a 2674-(98)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/25902/00970098.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-11-10'
+entry_into_force:
+  date: '1977-11-10'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

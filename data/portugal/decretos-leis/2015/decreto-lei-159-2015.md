@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5695 - 5699
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15400/0569505699.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-09'
+entry_into_force:
+  date: '2015-10-09'
+  rule: no prazo de 60 dias a contar da data da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

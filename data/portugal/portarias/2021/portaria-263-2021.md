@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 47 - 48
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/22800/0004700048.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-11-25'
+entry_into_force:
+  date: '2021-11-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da produção de efeitos da Portaria n.º 142-B/2021, de 8 de julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

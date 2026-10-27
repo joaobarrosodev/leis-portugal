@@ -23,6 +23,16 @@ publication:
   pages: 2672 - 2681
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/114a00/26722681.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês após a data em que todos os Estados referidos neste artigo e a Comunidade Económica
+    Europeia tenham procedido à sua assinatura sem reserva de ratificação, aceitação ou a
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

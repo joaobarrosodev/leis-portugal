@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4786 - 4789
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24800/47864789.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-12-01'
+entry_into_force:
+  date: '1989-12-01'
+  rule: em 1 de Dezembro de 1989 e caduca passados cinco anos sobre essa data
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

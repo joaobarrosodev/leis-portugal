@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 8698 - 8702
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19700/0869808702.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-01'
+entry_into_force:
+  date: '2016-01-01'
+  rule: no dia 1 de janeiro de 2016
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes:

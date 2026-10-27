@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1912 - 1924
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/06500/0191201924.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-04-02'
+entry_into_force:
+  date: '2011-04-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 9-(2) a 9-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/09301/0000200006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 horas do dia 14 de maio de 2020
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

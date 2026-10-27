@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1731 - 1731
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/10700/0173101731.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-08'
+entry_into_force:
+  date: '2016-06-08'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2016-06-04'
+  effects_rule: no dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

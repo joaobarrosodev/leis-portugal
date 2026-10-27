@@ -24,6 +24,16 @@ publication:
   pages: 2387 - 2399
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20200/23872399.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o diploma que o regulamentar, considerando-se revogados, a partir dessa data, os Decretos-Leis n.os 359/79, de
+    31 de Agosto, e 480/82, de 24 de Dezembro
+  method: clausula
+  article: art-103
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

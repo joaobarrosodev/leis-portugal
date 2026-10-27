@@ -23,6 +23,15 @@ publication:
   pages: 7213 - 7215
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/286a00/72137215.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da entrada em vigor da Lei n.º 36/94, de 29 de Setembro
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

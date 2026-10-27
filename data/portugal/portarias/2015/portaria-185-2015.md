@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4375 - 4385
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/12000/0437504385.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-09-21'
+entry_into_force:
+  date: '2015-09-21'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

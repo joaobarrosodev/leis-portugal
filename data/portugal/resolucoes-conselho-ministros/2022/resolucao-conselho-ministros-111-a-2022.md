@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 60-(2) a 60-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22701/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-29'
+entry_into_force:
+  date: '2022-11-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2022-01-01'
+  effects_rule: a 1 de janeiro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

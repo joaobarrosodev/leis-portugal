@@ -24,6 +24,16 @@ publication:
   pages: 2276 - 2278
   pdf_url: https://files.diariodarepublica.pt/1s/2014/04/06500/0227602278.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à data em que três Partes tenham depositado, na sede da CPLP, junto ao Secretariado
+    Executivo, os respectivos instrumentos de ratificação ou documentos equivalentes que
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

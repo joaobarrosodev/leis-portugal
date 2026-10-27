@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6118 - 6122
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/260b00/61186122.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-11-11'
+entry_into_force:
+  date: '1998-11-11'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

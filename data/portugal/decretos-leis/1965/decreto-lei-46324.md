@@ -24,6 +24,15 @@ publication:
   pages: 633 - 638
   pdf_url: https://files.diariodarepublica.pt/1s/1965/05/09900/06330638.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do depósito de três instrumentos de ratificação ou aceitação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

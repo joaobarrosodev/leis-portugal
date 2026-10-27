@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3141 - 3142
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09200/31413142.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-15'
+entry_into_force:
+  date: '2007-05-15'
+  rule: no dia imediatamente a seguir ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2007-04-20'
+  effects_rule: desde 20 de Abril de 2007
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

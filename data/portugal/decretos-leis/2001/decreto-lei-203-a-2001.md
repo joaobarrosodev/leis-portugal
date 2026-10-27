@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4504-(2) a 4504-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/168a01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-22'
+entry_into_force:
+  date: '2001-07-22'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: reportados ao dia 6 de Julho de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

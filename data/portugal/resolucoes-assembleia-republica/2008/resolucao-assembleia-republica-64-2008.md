@@ -24,6 +24,16 @@ publication:
   pages: 8712 - 8736
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/24000/0871208736.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título definitivo em 1 de Fevereiro de 2008, ou em data posterior caso 12 Governos de países produtores que detenham
+    pelo menos 60 % do total dos votos atribuídos nos termos do anexo A do presente A
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

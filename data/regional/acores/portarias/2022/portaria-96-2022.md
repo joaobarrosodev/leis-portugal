@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4192-4192
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/11/02/202935964.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-01'
+entry_into_force:
+  date: '2022-11-01'
+  rule: no dia 1 de novembro de 2022
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

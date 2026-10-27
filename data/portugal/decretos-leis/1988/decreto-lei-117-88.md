@@ -25,6 +25,15 @@ publication:
   pages: 1415 - 1418
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/08500/14151418.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 30 dias após a data da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

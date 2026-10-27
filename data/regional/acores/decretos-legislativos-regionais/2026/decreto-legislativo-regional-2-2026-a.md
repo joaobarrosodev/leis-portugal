@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 76 - 121
   pdf_url: https://files.diariodarepublica.pt/1s/2026/01/01400/0007600121.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-20'
+entry_into_force:
+  date: '2026-07-20'
+  rule: no prazo de 180 dias após a sua publicação
+  method: clausula
+  article: art-121
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

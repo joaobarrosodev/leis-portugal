@@ -24,6 +24,15 @@ publication:
   pages: 72-(52) a 72-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01003/00520053.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no próximo dia 1 de Fevereiro
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 48 - 69
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16600/0004800069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-01'
+entry_into_force:
+  date: '2020-01-01'
+  rule: em 1 de janeiro de 2020, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

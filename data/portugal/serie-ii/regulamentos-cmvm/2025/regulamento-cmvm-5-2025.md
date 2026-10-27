@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 259 - 270
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/152000000/0025900270.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-09-07'
+entry_into_force:
+  date: '2025-09-07'
+  rule: no prazo de 30 dias após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

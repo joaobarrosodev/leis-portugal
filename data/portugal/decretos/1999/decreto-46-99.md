@@ -24,6 +24,16 @@ publication:
   pages: 7664 - 7667
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/76647667.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última das notas através da qual cada uma das Partes Contratantes informa a outra de que se encontram concluídas
+    as necessárias formalidades constitucionais
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

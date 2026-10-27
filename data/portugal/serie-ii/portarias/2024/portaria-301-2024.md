@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 41 - 41
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/036000000/0004100041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-02-21'
+entry_into_force:
+  date: '2024-02-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: '2023-10-06'
+  effects_rule: reportados a 6 de outubro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

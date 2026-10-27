@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 24 - 169
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/25300/0002400169.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-01'
+entry_into_force:
+  date: '2021-01-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-104
+  effects_date: '2021-01-01'
+  effects_rule: desde 1 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

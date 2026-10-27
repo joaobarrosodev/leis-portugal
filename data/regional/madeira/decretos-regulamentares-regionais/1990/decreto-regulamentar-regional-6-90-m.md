@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1905 - 1905
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09100/19051905.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-04-20'
+entry_into_force:
+  date: '1990-04-20'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: à data de aplicação à Região do Decreto-Lei n.º 497/88, de 30 de Dezembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

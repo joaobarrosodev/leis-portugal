@@ -24,6 +24,15 @@ publication:
   pages: 747 - 748
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/09100/07470748.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura, podendo, com a concordância de ambas as Partes Contratantes, ser objecto de revisão
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

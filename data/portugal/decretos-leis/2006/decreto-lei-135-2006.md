@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5251 - 5251
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14300/52515251.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-07-31'
+entry_into_force:
+  date: '2006-07-31'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2006-07-03'
+  effects_rule: a partir de 3 de Julho de 2006, considerando-se ratificados todos os actos que tenham sido entretanto praticados
+    e cuja regularidade dependa da sua conformidade com o presente decreto-lei
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

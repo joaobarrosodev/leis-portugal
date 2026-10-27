@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 57 - 72
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/11200/0005700072.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-06-13'
+entry_into_force:
+  date: '2026-06-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: '2026-01-01'
+  effects_rule: desde 1 de janeiro de 2026, mantendo a sua vigência até à entrada em vigor do decreto regulamentar de execução
+    orçamental para 2027
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1312-(1) a 1312-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/08701/00010007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-10-15'
+entry_into_force:
+  date: '1983-10-15'
+  rule: 6 meses após a data da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes:

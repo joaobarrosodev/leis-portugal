@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 97 - 97
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/081000000/0009700097.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-28'
+entry_into_force:
+  date: '2022-04-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

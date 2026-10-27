@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 170-(2) a 170-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17501/0000200011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-09-14'
+entry_into_force:
+  date: '2022-09-14'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2022-09-09'
+  effects_rule: a partir da data da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

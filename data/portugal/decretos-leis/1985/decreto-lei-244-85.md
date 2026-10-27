@@ -23,6 +23,15 @@ publication:
   pages: 1964 - 1965
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15700/19641965.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia de execução do Orçamento do Estado para 1986
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

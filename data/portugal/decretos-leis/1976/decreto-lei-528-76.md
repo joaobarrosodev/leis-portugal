@@ -29,10 +29,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-11'
+version_history:
+  file: decreto-lei-528-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-11'
+    amending: pt:dre:304536:por
+    amending_title: Decreto-Lei n.º 332/91
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:55:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 332/91. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-528-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,65 +135,75 @@ Ao encerrar esta importante fase do processo de socialização dos sectores fund
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O cálculo das indemnizações a atribuir aos detentores de acções ou partes de capital de empresas nacionalizadas será apurado com base no valor do património líquido da respectiva empresa e ainda, consoante os casos, com base nos valores mencionados nos números seguintes.
+###### Artigo 1.º
 
-2. Sempre que se trate de sociedade anónima, tomar-se-á também em conta o valor das cotações a que as respectivas acções hajam sido efectivamente transaccionadas na Bolsa de Lisboa.
+(Revogado.)
 
-3. Tratando-se de sociedade anónima cujas acções não tenham sido objecto de cotações na Bolsa ou de empresas que não hajam revestido aquela forma social, tomar-se-á então em conta o valor da efectiva rendibilidade da empresa.
+> Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06.
 
-Art. 2.º - 1. O valor do património líquido de cada empresa será determinado a partir do balanço de gestão, na data da nacionalização, ou, na sua falta, em 31 de Dezembro de 1974, e, em ambos os casos após adequada análise dos critérios valorimétricos utilizados na respectiva feitura, bem como de cuidada apreciação de outras situações contabilísticas.
+###### Artigo 2.º
 
-2. Será objecto de análise especial a valorimetria dos stocks, dos bens ou valores mantidos como reserva ou para fruição, dos activos fixos e dos valores incorpóreos, dos débitos e dos créditos, devendo ainda ser apurados todos os ónus efectivos ou potenciais, encontrem-se ou não contabilizados.
+(Revogado.)
 
-3. Na análise a que se refere o n.º 1 serão tidas também em conta todas as situações supervenientes ao fecho dos balanços ali mencionados, desde que respeitem a anterior actividade da empresa e devam reflectir-se na respectiva contabilidade, quer isso resulte de expressa disposição legal, quer de prática contabilística considerada regular e corrente.
+> Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06.
 
-Art. 3.º - 1. O valor de cotação das acções de cada sociedade anónima será o que resultar da média ponderada das cotações máximas e mínimas em cada ano civil, no período compreendido entre 1 de Janeiro de 1964 e 24 de Abril de 1974, a apurar pela comissão directiva da Bolsa de Lisboa.
+###### Artigo 3.º
 
-2. Quando as acções não hajam sido cotadas durante todo o período de tempo referido no número anterior, a média apurada poderá ser objecto de ajustamento, segundo critérios a fixar com base no índice de cotações.
+(Revogado.)
 
-Art. 4.º - 1. O valor da rendibilidade, tratando-se de sociedades anónimas cujas acções não hajam sido cotadas na Bolsa, será aferido pela média dos dividendos cotados, por acção, nos anos de 1964 a 1973, inclusive, e, tratando-se de empresas que não tenham revestido aquela forma social, será calculado com base nos resultados líquidos dos correspondentes impostos empresariais apurados naquele mesmo período e corrigidos quando necessário, de acordo com os critérios fixados pelo artigo 2.º quanto aos balanços especiais.
+> Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06.
 
-2. Sempre que as empresas referidas no número anterior tenham tido duração inferior ao período de tempo nele mencionado, o valor da rendibilidade será ajustado segundo critérios a fixar, sempre que tal se mostre viável, com base na rendibilidade do respectivo sector.
+###### Artigo 4.º
 
-Art. 5.º - 1. Para o cálculo do valor da indemnização a atribuir por cada acção ou parte de capital adoptar-se-á a fórmula geral: V = (alfa)(índice 1) C(índice 1) + (alfa)(índice 2) C(índice 2).
+(Revogado.)
 
-2. Aos símbolos mencionados no número precedente são atribuídos os seguintes significados:
+> Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06.
 
-V - Valor da indemnização por acção ou valor do capital, quando se trate de empresas que não tenham revestido a forma de sociedade anónima;
+###### Artigo 5.º
 
-C(índice 1) - Valor que, para cada acção ou parte do capital, quando se trate de empresas que não tenham revestido a forma de sociedade anónima, resulte do balanço especial previsto nos termos do artigo 2.º;
+(Revogado.)
 
-C(índice 2) - Valor de cotação, determinado de acordo com o artigo 3.º, ou valor de capital, apurado segundo taxa adequada, em conformidade com o artigo 4.º;
+> Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06.
 
-(alfa)(índice 1) e (alfa)(índice 2) - Coeficiente de ponderação, cuja soma será igual a 1, devendo (alfa)(índice 1) ser maior que (alfa)(índice 2).
+###### Artigo 6.º
 
-3. Quando se trate de acções oferecidas à subscrição pública com pagamento de prémio de emissão e que não hajam sido admitidas à cotação na Bolsa, poderá ser tomado em consideração, para efeito da determinação de C(índice 2), o valor da emissão.
+(Revogado.)
 
-Art. 6.º - 1. Os valores a assumir pelos coeficientes de ponderação inseridos na fórmula mencionada no artigo anterior deverão ser fixados pelo Conselho de Ministros, mediante proposta conjunta do Ministro das Finanças e dos Ministros da tutela dos sectores a que as empresas pertençam.
+> Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06.
 
-2. As regras a que, quando necessário, obedecerá a elaboração dos balanços especiais de avaliação referidos no artigo 2.º, bem como os coeficientes de ponderação previstos no artigo 3.º, deverão ser definidos por portaria do Ministro das Finanças.
+###### Artigo 7.º
 
-3. A taxa ou taxas calculatórias do valor de rendimento deverão ser fixadas por portaria conjunta do Ministro das Finanças e dos Ministros da tutela do respectivo sector.
+(Revogado.)
 
-Art. 7.º - 1. Tratando-se de empresas concessionárias ou que usufruam de exclusivos ou privilégios especiais, concedidos pelo Estado, de duração limitada, ou ainda de quaisquer outras empresas com duração limitada, o Ministro das Finanças e os Ministros da tutela dos respectivos sectores poderão determinar a introdução de adequados factores de correcção à fórmula geral enunciada no artigo 5.º
+> Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06.
 
-2. O disposto no número anterior é igualmente aplicável quando seja notoriamente evidente, à data do fecho dos balanços mencionados no n.º 1 do artigo 2.º, a existência de riscos empresariais anormais.
+###### Artigo 8.º
 
-Art. 8.º - 1. As modalidades, os prazos de pagamento e as taxas de juro referentes às eventuais formas de titulação da respectiva dívida pública serão fixados em Conselho de Ministros, mediante proposta do Ministro das Finanças.
+1. As modalidades, os prazos de pagamento e as taxas de juro referentes às eventuais formas de titulação da respectiva dívida pública serão fixados em Conselho de Ministros, mediante proposta do Ministro das Finanças.
 
 2. Na fixação a que alude o número anterior serão considerados, para efeitos de tratamento diferenciado, diversos escalões, a estabelecer consoante o montante de acções ou partes de capital detidas pelos respectivos titulares.
 
-Art. 9.º A regularização da dívida às instituições de previdência, bem como à generalidade das pessoas colectivas de direito público e às instituições particulares de utilidade pública geral, poderá ficar sujeita ao estabelecimento de condições específicas.
+###### Artigo 9.º
 
-Art. 10.º - 1. Sem prejuízo da oportuna aplicação do disposto no artigo anterior, os créditos concedidos pelos bancos nacionalizados a accionistas ou detentores de partes de capital de empresas nacionalizadas poderão ser objecto de compensação provisória, mediante celebração de promessas de dação em cumprimento.
+A regularização da dívida às instituições de previdência, bem como à generalidade das pessoas colectivas de direito público e às instituições particulares de utilidade pública geral, poderá ficar sujeita ao estabelecimento de condições específicas.
+
+###### Artigo 10.º
+
+1. Sem prejuízo da oportuna aplicação do disposto no artigo anterior, os créditos concedidos pelos bancos nacionalizados a accionistas ou detentores de partes de capital de empresas nacionalizadas poderão ser objecto de compensação provisória, mediante celebração de promessas de dação em cumprimento.
 
 2. Para efeitos do estabelecido no número precedente, compete ao Ministro das Finanças fixar, por despacho, as regras de avaliação dos respectivos títulos, podendo igualmente determinar a inclusão nos correspondentes contratos de cláusulas específicas.
 
-Art. 11.º Será da competência do Conselho de Ministros a fixação das condições a que deverá obedecer a regularização da dívida respeitante às acções ou partes de capital detidas por indivíduos ligados à gestão das empresas nacionalizadas, sempre que, através da análise prevista no artigo 2.º, sejam denunciadas situações manifestamente resultantes da prática, por aqueles, de actos dolosos ou gravemente culposos.
+###### Artigo 11.º
 
-Art. 12.º Os detentores de acções que tenham sido oferecidas à subscrição pública com pagamento de prémio de emissão poderão, sempre que aquela haja sido devidamente autorizada pelos competentes serviços do Estado, ser reembolsados pelo valor de subscrição, desde que façam prova inequívoca de não terem as acções sido objecto de qualquer transacção.
+Será da competência do Conselho de Ministros a fixação das condições a que deverá obedecer a regularização da dívida respeitante às acções ou partes de capital detidas por indivíduos ligados à gestão das empresas nacionalizadas, sempre que, através da análise prevista no artigo 2.º, sejam denunciadas situações manifestamente resultantes da prática, por aqueles, de actos dolosos ou gravemente culposos.
 
-Art. 13.º Competirá ao Ministro das Finanças promover as diligências indispensáveis à realização dos estudos e demais tarefas inerentes à execução do programa de indemnização, devendo propor ao Conselho de Ministros a adopção das adequadas providências, designadamente as respeitantes à criação das estruturas institucionais que se mostrem necessárias para o efeito.
+###### Artigo 12.º
+
+Os detentores de acções que tenham sido oferecidas à subscrição pública com pagamento de prémio de emissão poderão, sempre que aquela haja sido devidamente autorizada pelos competentes serviços do Estado, ser reembolsados pelo valor de subscrição, desde que façam prova inequívoca de não terem as acções sido objecto de qualquer transacção.
+
+###### Artigo 13.º
+
+Competirá ao Ministro das Finanças promover as diligências indispensáveis à realização dos estudos e demais tarefas inerentes à execução do programa de indemnização, devendo propor ao Conselho de Ministros a adopção das adequadas providências, designadamente as respeitantes à criação das estruturas institucionais que se mostrem necessárias para o efeito.
 
 Visto e aprovado em Conselho da Revolução.
 

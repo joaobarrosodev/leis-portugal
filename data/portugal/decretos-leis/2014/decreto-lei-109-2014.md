@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3794 - 3794
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/13100/0379403794.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-07-11'
+entry_into_force:
+  date: '2014-07-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2014-06-30'
+  effects_rule: a partir de 30 de junho de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

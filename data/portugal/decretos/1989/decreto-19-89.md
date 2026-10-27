@@ -24,6 +24,15 @@ publication:
   pages: 1804 - 1807
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10100/18041807.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ambas as Partes se tenham comunicado haverem sido cumpridas as formalidades internas para a sua aprovação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

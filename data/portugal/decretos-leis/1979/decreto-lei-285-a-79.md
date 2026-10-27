@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1894-(1) a 1894-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18501/00010003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-08-13'
+entry_into_force:
+  date: '1979-08-13'
+  rule: em 13 de Agosto de 1979
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

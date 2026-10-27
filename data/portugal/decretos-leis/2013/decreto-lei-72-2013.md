@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3190 - 3199
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/10500/0319003199.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-06-01'
+entry_into_force:
+  date: '2013-06-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

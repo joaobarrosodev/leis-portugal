@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3446-(327) a 3446-(335)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29916/03270335.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-12-30'
+entry_into_force:
+  date: '1979-12-30'
+  rule: no dia imediato ao da sua publicação, retrotraindo-se os seus efeitos à data de 1 de Julho do corrente ano
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

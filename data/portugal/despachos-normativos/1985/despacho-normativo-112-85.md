@@ -24,6 +24,16 @@ publication:
   pages: 3904-(8) a 3904-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27001/00080009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no continente no dia imediato ao da sua publicação e nas Regiões Autónomas dos Açores e da Madeira nos 30 dias após
+    a mesma data
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

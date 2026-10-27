@@ -23,6 +23,15 @@ publication:
   pages: 20528 - 20540
   pdf_url: https://files.diariodarepublica.pt/2s/2012/06/109000000/2052820540.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do ano letivo 2012/2013, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

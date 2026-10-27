@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3442 - 3443
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/26100/34423443.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-11-15'
+entry_into_force:
+  date: '1984-11-15'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1983-07-01'
+  effects_rule: a partir de 1 de Julho de 1983
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

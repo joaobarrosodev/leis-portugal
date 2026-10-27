@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 1995 - 1996
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/12100/0199501996.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-27'
+entry_into_force:
+  date: '2016-06-27'
+  rule: após a publicação do Orçamento do Estado subsequente à sua aprovação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

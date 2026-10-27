@@ -24,6 +24,16 @@ publication:
   pages: 4010 - 4016
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21600/0401004016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a recepção da última notificação, por escrito e por via diplomática, do cumprimento de todas as formalidades
+    internas das Partes, exigidas para o efeito
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

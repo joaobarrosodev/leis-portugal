@@ -23,6 +23,15 @@ publication:
   pages: 3974 - 3975
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/187b00/39743975.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no concurso n.º 34, a realizar em 23 de Agosto de 1998
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

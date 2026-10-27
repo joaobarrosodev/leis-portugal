@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4660-4665
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/10/08/172565474.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-09'
+entry_into_force:
+  date: '2021-10-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

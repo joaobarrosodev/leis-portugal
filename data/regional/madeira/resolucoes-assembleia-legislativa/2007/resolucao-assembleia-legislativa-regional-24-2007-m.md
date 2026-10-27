@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 8573 - 8574
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/22300/0857308574.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-11-20'
+entry_into_force:
+  date: '2007-11-20'
+  rule: com a publicação da lei do Orçamento do Estado posterior à sua aprovação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

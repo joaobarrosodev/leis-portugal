@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1943/02/04100/01300130.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:474525:por#art-16'
+    detail: São revogadas todas as disposições ainda em vigor do [Decreto n.º 7248], de 25 de Janeiro de 1921, o artigo 8.º
+      do [Decreto n.º 19968], de 29 de Junho de 1931, o [Decreto-Lei n.º 32677] e o [Decreto n.º 32678], ambos de 20 de Fevereiro
+      de 1943, o [Decreto-Lei n.º 46495], de 18 de Agosto de 1965, e o
 notes: []
 language: por
 version:

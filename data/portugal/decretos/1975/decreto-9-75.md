@@ -23,6 +23,15 @@ publication:
   pages: 26 - 39
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/01100/00260039.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após a data em que esse Estado tenha praticado um dos actos previstos no artigo 14.º, 1)
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

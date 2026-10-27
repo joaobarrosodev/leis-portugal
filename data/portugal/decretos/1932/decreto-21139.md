@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1932/04/09500/07000701.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:550271:por#art-6'
+    detail: São revogados o [Decreto n.º 21139], de 22 de Abril de 1932, o [Decreto-Lei n.º 27902], de 29 de Julho de 1937,
+      e respectiva legislação complementar.
 notes: []
 language: por
 version:

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 10 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/23000/0001000020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-11-27'
+entry_into_force:
+  date: '2021-11-27'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

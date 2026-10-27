@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 98 - 99
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14400/0009800099.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-27'
+entry_into_force:
+  date: '2023-07-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: '2022-10-15'
+  effects_rule: a 15 de outubro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

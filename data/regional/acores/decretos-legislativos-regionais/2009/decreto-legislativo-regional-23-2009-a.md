@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8673 - 8682
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/24200/0867308682.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-12-17'
+entry_into_force:
+  date: '2009-12-17'
+  rule: no dia seguinte ao da publicação das portarias referidas no n.º 1 do artigo 46.º
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

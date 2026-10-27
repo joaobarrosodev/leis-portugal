@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1575 - 1578
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/04700/0157501578.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-10'
+entry_into_force:
+  date: '2009-03-10'
+  rule: no dia seguinte à data da sua publicação, sem prejuízo do disposto no n.º 2 do artigo 4.º da Portaria n.º 300/2008,
+    de 17 de Abril
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

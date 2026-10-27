@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 17-(2) a 17-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/06501/0000200017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-02'
+entry_into_force:
+  date: '2022-04-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2020-12-11'
+  effects_rule: a 11 de dezembro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

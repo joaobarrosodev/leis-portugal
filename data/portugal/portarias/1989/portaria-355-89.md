@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1983 - 1983
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/11400/19831983.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-05-19'
+entry_into_force:
+  date: '1989-05-19'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante a safra do corrente ano
 end_of_validity_date: null
 legal_status: in_force
 notes: []

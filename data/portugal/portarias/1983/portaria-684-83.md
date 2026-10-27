@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2162 - 2164
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-06-28'
+entry_into_force:
+  date: '1983-06-28'
+  rule: 10 dias após a sua publicação no Diário da República
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

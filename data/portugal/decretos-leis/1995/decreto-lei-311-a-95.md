@@ -23,6 +23,15 @@ publication:
   pages: 7176-(2) a 7176-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/269a01/00020002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o regulamento a que se refere o artigo 4.º
+  method: clausula
+  article: art-1
+  effects_date: '1995-10-30'
+  effects_rule: a partir de 30 de Outubro de 1995
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

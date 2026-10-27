@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3961 - 3963
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/120b00/39613963.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-10-01'
+entry_into_force:
+  date: '2005-10-01'
+  rule: no dia 1 de Outubro de 2005, com excepção do disposto no n.º 1 do artigo 2.º, que
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

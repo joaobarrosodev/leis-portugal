@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 32628-(20) a 32628-(22)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-01'
+entry_into_force:
+  date: '2017-01-01'
+  rule: a 1 de janeiro de 2017, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

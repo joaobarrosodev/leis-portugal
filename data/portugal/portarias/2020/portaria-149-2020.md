@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11900/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-06-23'
+entry_into_force:
+  date: '2020-06-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2020-09-30'
+  effects_rule: até 30 de setembro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

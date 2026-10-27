@@ -25,6 +25,15 @@ publication:
   pages: 6199 - 6208
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/228a00/61996208.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia de Janeiro de 1994 e permanecerá em vigor por tempo indeterminado
+  method: clausula
+  article: art-iii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 5096-(2) a 5096-(163)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-01-01'
+entry_into_force:
+  date: '1991-01-01'
+  rule: em 1 de Janeiro de 1991 e
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante tempo indeterminado
 end_of_validity_date: null
 legal_status: in_force
 notes: []

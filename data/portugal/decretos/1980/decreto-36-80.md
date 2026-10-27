@@ -24,6 +24,15 @@ publication:
   pages: 1272 - 1275
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12500/12721275.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca dos instrumentos de ratificação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: até um ano após a sua apresentação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

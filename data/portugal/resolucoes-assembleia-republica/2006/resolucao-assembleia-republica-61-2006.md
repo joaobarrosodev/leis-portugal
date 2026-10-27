@@ -25,6 +25,16 @@ publication:
   pages: 8220 - 8224
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/23400/82208224.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos oito Estados membros a que diz respeito 90 dias a contar da notificação a que se refere o n.º 2, pelo 8.º Estado
+    membro da União Europeia à data da adopção pelo Conselho do acto que estabelece o p
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

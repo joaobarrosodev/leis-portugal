@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 40598-(2) a 40598-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2008/09/187000001/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-09-27'
+entry_into_force:
+  date: '2008-09-27'
+  rule: dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

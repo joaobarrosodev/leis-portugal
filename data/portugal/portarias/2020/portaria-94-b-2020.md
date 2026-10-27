@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 7-(4) a 7-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07602/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-18'
+entry_into_force:
+  date: '2020-04-18'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: de 1 de março de 2020 a 30 de junho de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

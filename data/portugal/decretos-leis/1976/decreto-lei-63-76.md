@@ -23,6 +23,15 @@ publication:
   pages: 142 - 143
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02000/01420143.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês imediato àquele em que for publicado no Diário do Governo
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

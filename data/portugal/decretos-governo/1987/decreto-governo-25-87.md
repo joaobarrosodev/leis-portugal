@@ -24,6 +24,16 @@ publication:
   pages: 2740-(2) a 2740-(115)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 12 meses após a data em que pelo menos 15 Estados, cujas frotas mercantes combinadas constituam não menos de 50% da
+    tonelagem de arqueação bruta da marinha mercante mundial, se tenham tornado Partes n
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

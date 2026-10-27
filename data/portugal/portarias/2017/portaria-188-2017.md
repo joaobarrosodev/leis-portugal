@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2752 - 2754
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10700/0275202754.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-16'
+entry_into_force:
+  date: '2017-06-16'
+  rule: no dia 16 de junho de 2017
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

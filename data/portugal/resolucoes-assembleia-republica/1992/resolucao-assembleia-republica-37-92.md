@@ -23,6 +23,16 @@ publication:
   pages: 6007 - 6011
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/300a00/60076011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia seguinte à data em que todas as Partes Contratantes na Carta tenham expressado o seu consentimento em
+    ficar vinculadas pelo Protocolo em conformidade com as disposições do artigo 7.º
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

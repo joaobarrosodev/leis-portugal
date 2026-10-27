@@ -24,6 +24,16 @@ publication:
   pages: 2612 - 2616
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/25000/26122616.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'a partir da data de troca de notas confirmando a sua ratificação ou aprovação em conformidade com os requisitos constitucionais
+    de ambos os países, e permanecerá em vigor por um período de cinco anos '
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

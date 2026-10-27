@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3013 - 3015
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22400/30133015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-10-27'
+entry_into_force:
+  date: '1980-10-27'
+  rule: trinta dias após a sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

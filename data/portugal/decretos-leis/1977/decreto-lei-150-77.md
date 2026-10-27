@@ -25,6 +25,16 @@ publication:
   pages: 809 - 814
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08600/08090814.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos trinta dias sobre a data da publicação da lei que modifique o regime da tributação dos lucros auferidos
+    pelos sócios das sociedades e da transmissão das acções
+  method: clausula
+  article: art-63
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

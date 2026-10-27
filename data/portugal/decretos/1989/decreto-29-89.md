@@ -23,6 +23,16 @@ publication:
   pages: 2676 - 2680
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15200/26762680.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do momento em que as duas partes se notifiquem reciprocamente do cumprimento das condições requeridas para
+    tal fim
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3874-(543) a 3874-(553)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30011/05430553.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-01-01'
+entry_into_force:
+  date: '1987-01-01'
+  rule: no dia imediato ao da sua publicação, salvo o disposto no artigo 26.º, que
+  method: clausula
+  article: art-45
+  effects_date: '1987-01-01'
+  effects_rule: a partir de 1 de Janeiro de 1987
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2340 - 2340
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07900/0234002340.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-04-27'
+entry_into_force:
+  date: '2008-04-27'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2008-07-14'
+  effects_rule: a partir do dia 14 de Julho de 2008
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

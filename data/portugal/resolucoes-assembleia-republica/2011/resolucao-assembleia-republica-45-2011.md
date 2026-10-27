@@ -24,6 +24,16 @@ publication:
   pages: 1541 - 1545
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05500/0154101545.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a recepção da última notificação, por escrito e por via diplomática, informando que foram cumpridos os
+    requisitos do direito interno das Partes necessários para o efeito
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20776 - 20786
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/077000000/2077620786.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-04-22'
+entry_into_force:
+  date: '2010-04-22'
+  rule: no dia imediato ao da sua Publicação no Diário da República
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

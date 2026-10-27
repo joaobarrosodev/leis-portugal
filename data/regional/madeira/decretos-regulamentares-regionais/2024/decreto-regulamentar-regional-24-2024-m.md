@@ -22,9 +22,29 @@ publication:
   supplement: null
   pages: 119 - 125
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19800/0011900125.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-12'
+entry_into_force:
+  date: '2024-10-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1149265701:por#art-11'
+    detail: É revogado o [Decreto Regulamentar Regional n.º 24/2024/M], de 11 de outubro.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1149265701:por'
+    detail: Revogado, a partir de 21 de julho de 2026, o presente diploma, pelo(a) Decreto Regulamentar Regional n.º 14/2026/M
+      - Diário da República n.º 138/2026, Série I de 2026-07-20, nos termos do seu artigo 11.º
 notes: []
 language: por
 version:

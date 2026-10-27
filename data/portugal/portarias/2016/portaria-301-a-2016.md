@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4270-(2) a 4270-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/23001/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-01'
+entry_into_force:
+  date: '2016-12-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2017-01-01'
+  effects_rule: a 1 de janeiro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

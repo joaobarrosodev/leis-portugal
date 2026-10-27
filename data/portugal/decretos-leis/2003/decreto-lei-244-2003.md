@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6603 - 6606
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/232a00/66036606.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-10-22'
+entry_into_force:
+  date: '2003-10-22'
+  rule: no 15.º dia seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

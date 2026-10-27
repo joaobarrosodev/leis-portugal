@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3603 - 3607
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/27700/36033607.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-12-07'
+entry_into_force:
+  date: '1986-12-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

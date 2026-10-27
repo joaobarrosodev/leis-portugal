@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 39 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/095000000/0003900045.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-18'
+entry_into_force:
+  date: '2023-05-18'
+  rule: no dia seguinte ao da sua publicação e cessa a sua vigência após se esgotar o orçamento definido no artigo 2.º do
+    regulamento anexo ao presente Despacho Normativo
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

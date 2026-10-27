@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5025 - 5033
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/251a00/50255033.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-11-29'
+entry_into_force:
+  date: '1992-11-29'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

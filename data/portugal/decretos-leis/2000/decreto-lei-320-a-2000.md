@@ -24,6 +24,15 @@ publication:
   pages: 7342-(2) a 7342-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/288a01/00020011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início de vigência do Regulamento da Lei do Serviço Militar
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

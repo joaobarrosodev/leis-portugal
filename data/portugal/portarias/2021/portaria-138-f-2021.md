@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 128-(47) a 128-(48)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/12601/0004700048.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-02'
+entry_into_force:
+  date: '2021-07-02'
+  rule: no dia seguinte ao da sua publicação e os seus efeitos retroagem à data da entrada em vigor da Portaria n.º 48/2021,
+    de 4 de março
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

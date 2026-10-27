@@ -23,6 +23,17 @@ publication:
   pages: 425 - 469
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título definitivo em 30 de Abril de 1973, ou em qualquer data nos dois meses seguintes se, naquela data, os Governos
+    representando pelo menos cinco países exportadores detendo pelo menos 80% das quo
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até ao final do terceiro ano-quota completo que se seguir à sua entrada em vigor, a menos que seja prorrogado
+    pela aplicação do parágrafo 3 ou do parágrafo 4 ou que termine anteriormente pela aplicaçã
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 3 - 123
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15400/0000300123.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia da 2.ª sessão legislativa da XV Legislatura, sem prejuízo da entrada em vigor das normas que habilitam
+    a emissão de regulamentos e deliberações necessários à execução do Regimento, que
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

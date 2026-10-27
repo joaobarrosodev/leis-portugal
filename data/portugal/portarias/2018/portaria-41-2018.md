@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 754 - 815
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/02300/0075400815.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-02-02'
+entry_into_force:
+  date: '2018-02-02'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em
+    anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pelas Portarias n.os 181-C/2015, de 1
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 30 - 36
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/19000/0003000036.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de três meses após a data em que todas as Partes na Convenção
+    tenham manifestado o seu consentimento em ficarem vinculadas pelo Protocolo, em con
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

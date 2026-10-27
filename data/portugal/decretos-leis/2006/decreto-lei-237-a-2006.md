@@ -23,7 +23,18 @@ publication:
   supplement: 1º Suplemento
   pages: 8388-(2) a 8388-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/23901/00020016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-12-15'
+entry_into_force:
+  date: '2006-12-15'
+  rule: no dia 15 de Dezembro de 2006 e aplica-se aos processos pendentes, salvo no que respeita ao disposto no artigo 2.º
+    e às normas relativas à competência para a decisão dos pedidos de aquisição da nacion
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

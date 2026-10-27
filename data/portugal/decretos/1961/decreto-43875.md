@@ -22,16 +22,40 @@ publication:
   supplement: null
   pages: 1062 - 1065
   pdf_url: https://files.diariodarepublica.pt/1s/1961/08/19600/10621065.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1962-01-01'
+entry_into_force:
+  date: '1962-01-01'
+  rule: em 1 de Janeiro de 1962, salvo o disposto quanto aos fundos de fomento algodoeiro, que entra imediatamente em vigor
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-08-05'
+version_history:
+  file: decreto-43875.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-08-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-08-05'
+    amending: pt:dre:693412:por
+    amending_title: Decreto-Lei n.º 45179
+    changes:
+    - Altera Artigo 33.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:25:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 45179. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1961/decreto-43875.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,9 +135,13 @@ I
 
 Dos institutos do algodão
 
-Artigo 1.º Em cada uma das províncias de Angola e Moçambique é criado um instituto do algodão, organismo de coordenação económica, com personalidade jurídica e autonomia administrativa e financeira, com sede na capital da província respectiva.
+###### Artigo 1.º
 
-Art. 2.º Os institutos do algodão têm por objectivos:
+Em cada uma das províncias de Angola e Moçambique é criado um instituto do algodão, organismo de coordenação económica, com personalidade jurídica e autonomia administrativa e financeira, com sede na capital da província respectiva.
+
+###### Artigo 2.º
+
+Os institutos do algodão têm por objectivos:
 
 1.º Orientar, disciplinar e fiscalizar as actividades relacionadas com a produção, comércio e exportação do algodão da província;
 
@@ -120,7 +149,9 @@ Art. 2.º Os institutos do algodão têm por objectivos:
 
 3.º Criar a consciência corporativa e fomentar a solidariedade e compreensão dos interesses comuns entre os componentes das actividades que coordena.
 
-Art. 3.º Compete especialmente aos institutos do algodão:
+###### Artigo 3.º
+
+Compete especialmente aos institutos do algodão:
 
 1.º Coordenar a acção das actividades que se dediquem à produção e ao comércio do algodão;
 
@@ -144,11 +175,17 @@ Art. 3.º Compete especialmente aos institutos do algodão:
 
 § único. Pertence aos institutos do algodão a mesma competência que pertencia à extinta Junta de Exportação do Algodão, em tudo o que não esteja previsto neste diploma. As propostas de preços que competiam àquela Junta serão feitas por intermédio da Direcção-Geral de Economia do Ministério do Ultramar, que emitirá o seu parecer.
 
-Art. 4.º Os institutos do algodão serão obrigatòriamente consultados pelas instâncias oficiais e por quaisquer organismos públicos quanto aos assuntos que interessem ao exercício das actividades económicas em que os organismos superintendem ou que estejam relacionados com elas.
+###### Artigo 4.º
 
-Art. 5.º Os institutos do algodão corresponder-se-ão directamente com todas as entidades oficiais, organismos e autoridades da província, a quem solicitarão os esclarecimentos, auxílio e demais colaboração de que carecerem.
+Os institutos do algodão serão obrigatòriamente consultados pelas instâncias oficiais e por quaisquer organismos públicos quanto aos assuntos que interessem ao exercício das actividades económicas em que os organismos superintendem ou que estejam relacionados com elas.
 
-Art. 6.º Os governadores aprovarão por portaria o regulamento dos institutos do algodão.
+###### Artigo 5.º
+
+Os institutos do algodão corresponder-se-ão directamente com todas as entidades oficiais, organismos e autoridades da província, a quem solicitarão os esclarecimentos, auxílio e demais colaboração de que carecerem.
+
+###### Artigo 6.º
+
+Os governadores aprovarão por portaria o regulamento dos institutos do algodão.
 
 § 1.º Do regulamento constarão obrigatòriamente, além do mais, a organização dos serviços, os quadros do pessoal e as normas relativas aos processos de comercialização, venda e pagamento do algodão produzido na província, tendo em vista a defesa dos pequenos produtores, as transacções realizadas para o exterior e a articulação dos vários sectores da economia do algodão no espaço económico português.
 
@@ -162,7 +199,9 @@ Art. 6.º Os governadores aprovarão por portaria o regulamento dos institutos d
 
 4.º Serviços da armazéns gerais.
 
-Art. 7.º Os institutos do algodão terão um director e um director adjunto, ambos nomeados pelo Ministro do Ultramar.
+###### Artigo 7.º
+
+Os institutos do algodão terão um director e um director adjunto, ambos nomeados pelo Ministro do Ultramar.
 
 § 1.º O director e o director adjunto deverão ser escolhidos de entre indivíduos diplomados com um curso superior e cujas aptidões, nos sectores a que se reportam as actividades dos institutos, se tenham revelado por notória consagração.
 
@@ -170,17 +209,27 @@ Art. 7.º Os institutos do algodão terão um director e um director adjunto, am
 
 § 3.º Para efeitos de vencimentos, o director e director adjunto serão considerados como incluídos, respectivamente, nas letras D e E do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-Art. 8.º Existirá também um conselho geral, que será constituído pelo director do instituto, que preside, pelo director adjunto e por três vogais de nomeação dos governadores, escolhidos por forma a que no organismo tenham representação os sectores da produção e da exportação do algodão e os serviços económicos da província.
+###### Artigo 8.º
 
-Art. 9.º O conselho geral reunir-se-á ordinàriamente uma vez por mês e extraordináriamente quando for convocado por iniciativa do instituto ou a pedido da maioria dos seus membros.
+Existirá também um conselho geral, que será constituído pelo director do instituto, que preside, pelo director adjunto e por três vogais de nomeação dos governadores, escolhidos por forma a que no organismo tenham representação os sectores da produção e da exportação do algodão e os serviços económicos da província.
 
-Art. 10.º As deliberações do conselho geral serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
+###### Artigo 9.º
 
-Art. 11.º O director do instituto preside ao organismo, coordena toda a sua actividade e despacha directamente com o governador-geral da província.
+O conselho geral reunir-se-á ordinàriamente uma vez por mês e extraordináriamente quando for convocado por iniciativa do instituto ou a pedido da maioria dos seus membros.
+
+###### Artigo 10.º
+
+As deliberações do conselho geral serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
+
+###### Artigo 11.º
+
+O director do instituto preside ao organismo, coordena toda a sua actividade e despacha directamente com o governador-geral da província.
 
 § único. O director adjunto substitui o director nas suas faltas ou impedimentos, competindo-lhe igualmente coadjuvá-lo no desempenho de funções que por este lhe sejam cometidas.
 
-Art. 12.º Compete especialmente ao director do instituto:
+###### Artigo 12.º
+
+Compete especialmente ao director do instituto:
 
 1.º Representar o organismo em juízo e fora dele;
 
@@ -202,7 +251,9 @@ Art. 12.º Compete especialmente ao director do instituto:
 
 10.º Desempenhar outros serviços, relacionados com a actividade do instituto, de que for encarregado pelo Ministro do Ultramar ou pelo governador-geral da província.
 
-Art. 13.º Incumbe ao conselho geral:
+###### Artigo 13.º
+
+Incumbe ao conselho geral:
 
 1.º Propor ao director do instituto medidas reputadas convenientes à boa consecução dos fins do organismo;
 
@@ -218,9 +269,13 @@ Art. 13.º Incumbe ao conselho geral:
 
 7.º Informar sobre outros assuntos submetidos à sua apreciação.
 
-Art. 14.º Cada instituto do algodão terá um secretário nomeado pelo governador-geral de entre indivíduos diplomados com um curso superior ou funcionários de categoria não inferior à letra L do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374).
+###### Artigo 14.º
 
-Art. 15.º Constituem receitas próprias dos institutos do algodão:
+Cada instituto do algodão terá um secretário nomeado pelo governador-geral de entre indivíduos diplomados com um curso superior ou funcionários de categoria não inferior à letra L do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374).
+
+###### Artigo 15.º
+
+Constituem receitas próprias dos institutos do algodão:
 
 1.º As taxas sobre o algodão exportado da província;
 
@@ -242,21 +297,35 @@ Art. 15.º Constituem receitas próprias dos institutos do algodão:
 
 § único. O governador, nas alterações que introduzir por portaria no quantitativo das taxas fixadas, deverá ouvir prèviamente o instituto do algodão.
 
-Art. 16.º As alfândegas da província procederão à cobrança das taxas de exportação, devendo entregar as respectivas importâncias para crédito da conta do instituto, no prazo de oito dias, no banco emissor.
+###### Artigo 16.º
 
-Art. 17.º Todas as importâncias pertencentes aos institutos do algodão deverão ser depositadas no banco emissor da província, em conta corrente, à sua ordem.
+As alfândegas da província procederão à cobrança das taxas de exportação, devendo entregar as respectivas importâncias para crédito da conta do instituto, no prazo de oito dias, no banco emissor.
 
-Art. 18.º Os institutos do algodão poderão contrair os empréstimos indispensáveis à realização dos seus fins, mas sempre precedendo autorização do Ministro do Ultramar.
+###### Artigo 17.º
 
-Art. 19.º Os financiamentos feitos pelos institutos do algodão, na ausência de outras disposições legais que regulamentem o processo da sua efectivação, constarão de escritos particulares, devidamente autenticados, não podendo exceder o prazo de doze meses nem 80 por cento do valor, na província, do algodão dado em garantia.
+Todas as importâncias pertencentes aos institutos do algodão deverão ser depositadas no banco emissor da província, em conta corrente, à sua ordem.
 
-Art. 20.º O selo branco dos institutos do algodão produzirá efeitos idênticos aos dos selos brancos do Estado.
+###### Artigo 18.º
 
-Art. 21.º É obrigatória a inscrição no instituto do algodão de Angola de todos os produtores cuja lavra ultrapasse o limite fixado em regulamento, de todos os exportadores e dos comerciantes de algodão.
+Os institutos do algodão poderão contrair os empréstimos indispensáveis à realização dos seus fins, mas sempre precedendo autorização do Ministro do Ultramar.
+
+###### Artigo 19.º
+
+Os financiamentos feitos pelos institutos do algodão, na ausência de outras disposições legais que regulamentem o processo da sua efectivação, constarão de escritos particulares, devidamente autenticados, não podendo exceder o prazo de doze meses nem 80 por cento do valor, na província, do algodão dado em garantia.
+
+###### Artigo 20.º
+
+O selo branco dos institutos do algodão produzirá efeitos idênticos aos dos selos brancos do Estado.
+
+###### Artigo 21.º
+
+É obrigatória a inscrição no instituto do algodão de Angola de todos os produtores cuja lavra ultrapasse o limite fixado em regulamento, de todos os exportadores e dos comerciantes de algodão.
 
 § único. Só podem ser exportadores de algodão da província, além do instituto, as entidades como tal inscritas neste organismo.
 
-Art. 22.º São condições indispensáveis para a inscrição dos comerciantes:
+###### Artigo 22.º
+
+São condições indispensáveis para a inscrição dos comerciantes:
 
 1.º O pagamento de contribuição pelo exercício da actividade;
 
@@ -264,7 +333,9 @@ Art. 22.º São condições indispensáveis para a inscrição dos comerciantes:
 
 3.º A demonstração de que possuem idoneidade moral e capacidade financeira adequadas à seriedade das transacções e ao bom desempenho da função económica.
 
-Art. 23.º O não cumprimento das obrigações impostas por este decreto, regulamento e instruções dos institutos do algodão poderá dar lugar à aplicação das seguintes penalidades:
+###### Artigo 23.º
+
+O não cumprimento das obrigações impostas por este decreto, regulamento e instruções dos institutos do algodão poderá dar lugar à aplicação das seguintes penalidades:
 
 1.º Advertência;
 
@@ -276,7 +347,9 @@ Art. 23.º O não cumprimento das obrigações impostas por este decreto, regula
 
 5.º Proibição total do exercício da actividade na província.
 
-Art. 24.º Nenhuma penalidade poderá ser imposta sem que o inculpado seja notificado para deduzir por escrito a sua defesa, no prazo fixado, e sem que desta, quando apresentada em tempo competente, e das provas produzidas se haja tomado conhecimento.
+###### Artigo 24.º
+
+Nenhuma penalidade poderá ser imposta sem que o inculpado seja notificado para deduzir por escrito a sua defesa, no prazo fixado, e sem que desta, quando apresentada em tempo competente, e das provas produzidas se haja tomado conhecimento.
 
 § 1.º As notificações serão feitas por carta registada com aviso de recepção.
 
@@ -284,37 +357,59 @@ Art. 24.º Nenhuma penalidade poderá ser imposta sem que o inculpado seja notif
 
 § 3.º No caso de aplicação de multa superior a 5000$00 ou das penalidades previstas nos n.os 4.º e 5.º do artigo 23.º haverá sempre direito de recurso para o tribunal administrativo.
 
-Art. 25.º Os institutos do algodão poderão ocupar, independentemente de quaisquer formalidades, os terrenos do Estado que na província se tornem necessários para o desempenho das suas funções, designadamente para campos experimentais e de demonstração e selecção de sementes.
+###### Artigo 25.º
 
-Art. 26.º Ficam isentos de direitos de importação os maquinismos, sementes, insecticidas e adubos importados pelos institutos do algodão.
+Os institutos do algodão poderão ocupar, independentemente de quaisquer formalidades, os terrenos do Estado que na província se tornem necessários para o desempenho das suas funções, designadamente para campos experimentais e de demonstração e selecção de sementes.
 
-Art. 27.º Os agentes de fiscalização dos institutos do algodão são considerados agentes de autoridade e podem levantar autos das infracções verificadas, fazendo apreensões, nos casos previstos na lei ou quando necessárias para elementos de prova, de acordo com o regulamento do instituto.
+###### Artigo 26.º
 
-Art. 28.º Os funcionários dos serviços de fiscalização terão cartões de identidade, que deverão exibir quando, no desempenho das suas funções, tal lhes for exigido.
+Ficam isentos de direitos de importação os maquinismos, sementes, insecticidas e adubos importados pelos institutos do algodão.
 
-Art. 29.º Todos os funcionários civis e militares e as autoridades administrativas prestarão, dentro da esfera das suas atribuições, o melhor auxílio ao pessoal da fiscalização, sempre que tal lhes seja solicitado.
+###### Artigo 27.º
 
-Art. 30.º Os produtores e os negociantes de algodão prestarão ao instituto todas as informações de que este organismo carecer para bom desempenho das suas atribuições.
+Os agentes de fiscalização dos institutos do algodão são considerados agentes de autoridade e podem levantar autos das infracções verificadas, fazendo apreensões, nos casos previstos na lei ou quando necessárias para elementos de prova, de acordo com o regulamento do instituto.
+
+###### Artigo 28.º
+
+Os funcionários dos serviços de fiscalização terão cartões de identidade, que deverão exibir quando, no desempenho das suas funções, tal lhes for exigido.
+
+###### Artigo 29.º
+
+Todos os funcionários civis e militares e as autoridades administrativas prestarão, dentro da esfera das suas atribuições, o melhor auxílio ao pessoal da fiscalização, sempre que tal lhes seja solicitado.
+
+###### Artigo 30.º
+
+Os produtores e os negociantes de algodão prestarão ao instituto todas as informações de que este organismo carecer para bom desempenho das suas atribuições.
 
 § 1.º Os agentes de fiscalização e outros funcionários dos institutos do algodão, para o exercício das missões que lhes incumbem, têm livre acesso nas fazendas, armazéns e escritórios das entidades sujeitas à disciplina do instituto, e bem assim nos armazéns e demais instalações das alfândegas.
 
 § 2.º O director do instituto do algodão pode determinar o exame à escrita de qualquer entidade sujeita à disciplina do organismo. O resultado do exame é absolutamente secreto e só pode ser referido, por determinação do instituto, quando constitua indício seguro de falta grave.
 
-Art. 31.º Os que impedirem ou tentarem impedir o exercício da fiscalização, por parte do pessoal competente dos institutos do algodão, incorrem na sanção do artigo 88.º do Código Penal, sem prejuízo do procedimento disciplinar a que haja lugar.
+###### Artigo 31.º
+
+Os que impedirem ou tentarem impedir o exercício da fiscalização, por parte do pessoal competente dos institutos do algodão, incorrem na sanção do artigo 88.º do Código Penal, sem prejuízo do procedimento disciplinar a que haja lugar.
 
 II
 
 Dos fundos de fomento algodoeiro
 
-Art. 32.º A fim de promover o fomento da cultura do algodão, o seu melhoramento técnico e a assistência social e económica aos produtores, é criado em cada uma das províncias de Angola e Moçambique o fundo de fomento algodoeiro, junto do respectivo instituto do algodão.
+###### Artigo 32.º
 
-Art. 33.º Os fundos de fomento algodoeiro serão geridos, em cada uma das províncias, por uma comissão, presidida pelo governador ou seu delegado, e tendo como vogais dois dos chefes de serviços do instituto, a designar pelo governador. O delegado do governador será em regra o director do instituto.
+A fim de promover o fomento da cultura do algodão, o seu melhoramento técnico e a assistência social e económica aos produtores, é criado em cada uma das províncias de Angola e Moçambique o fundo de fomento algodoeiro, junto do respectivo instituto do algodão.
 
-§ único. Servirá de secretário da comissão o chefe dos serviços administrativos do instituto, e o expediente será executado pela respectiva secretaria.
+###### Artigo 33.º
 
-Art. 34.º Os fundos de fomento algodoeiro têm personalidade jurídica o gozam de autonomia administrativa e financeira. Não podem, porém, ter serviços próprios, salvo os estritamente necessários ao expediente, nem realizar por si quaisquer obras, cumprindo-lhes apenas, segundo os seus programas, atribuir aos institutos ou aos serviços provinciais competentes o encargo de as realizar e os subsídios a eles destinados.
+Os fundos de fomento algodoeiro serão geridos em cada uma das províncias por uma comissão presidida pelo governador da província ou seu delegado e cujos vogais serão o director do respectivo instituto (quando este não for, como em regra deverá ser, o próprio delegado) e um ou dois dos seus chefes de serviços, a designar pelo governador, por forma que a comissão, em qualquer dos casos, seja composta de três membros.
 
-Art. 35.º Os fundos de fomento algodoeiro destinam-se designadamente:
+> Alterado pelo/a [Decreto-Lei n.º 45179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45179-1963-693412), publicado em 1963-08-05.
+
+###### Artigo 34.º
+
+Os fundos de fomento algodoeiro têm personalidade jurídica o gozam de autonomia administrativa e financeira. Não podem, porém, ter serviços próprios, salvo os estritamente necessários ao expediente, nem realizar por si quaisquer obras, cumprindo-lhes apenas, segundo os seus programas, atribuir aos institutos ou aos serviços provinciais competentes o encargo de as realizar e os subsídios a eles destinados.
+
+###### Artigo 35.º
+
+Os fundos de fomento algodoeiro destinam-se designadamente:
 
 a) A conceder subsídios a entidades oficiais, com vista à melhoria da assistência técnica e social aos produtores de algodão;
 
@@ -332,9 +427,13 @@ g) A conceder subsídios ao produtor de algodão cujas culturas tenham sido dest
 
 h) A subsidiar o desbravamento de terras destinadas a explorações agrícolas algodoeiras.
 
-Art. 36.º As comissões dos fundos de fomento algodoeiro elaborarão os programas de acção e os planos anuais respectivos.
+###### Artigo 36.º
 
-Art. 37.º Constituem receitas dos fundos de fomento algodoeiro:
+As comissões dos fundos de fomento algodoeiro elaborarão os programas de acção e os planos anuais respectivos.
+
+###### Artigo 37.º
+
+Constituem receitas dos fundos de fomento algodoeiro:
 
 a) Uma taxa, a cobrar dos concessionários, tendo em conta as condições económicas de cada um dos contribuintes, sobre o preço do algodão-rama C. I. F. metrópole vigente à data da fixação do preço do algodão-caroço. A taxa, em regra, não será inferior a 3 por cento;
 
@@ -350,17 +449,29 @@ e) Outras quantias que lhes sejam atribuídas.
 
 § 2.º A taxa, no caso da exportação, será cobrada pelos serviços aduaneiros e depositada, à ordem dos fundos de fomento algodoeiro, no banco emissor respectivo. No caso da semente fornecida à indústria local, os concessionários procederão ao depósito das taxas no mesmo banco, à ordem do fundo de fomento algodoeiro respectivo, mediante guias emitidas pelo instituto do algodão, em face dos mapas de movimento mensal da semente, dentro do prazo de vinte dias, a contar das datas das guias respectivas.
 
-Art. 38.º As empresas concessionárias entregarão aos fundos de fomento algodoeiro, mediante guias emitidas pelos institutos do algodão, as importâncias correspondentes aos encargos considerados na formação do preço do algodão-caroço que não tenham suportado.
+###### Artigo 38.º
 
-Art. 39.º Serão fixadas anualmente, por portaria do governador-geral, ouvido o Conselho de Governo, as taxas a cobrar a favor dos fundos de fomento algodoeiro. A criação de taxas não previstas neste diploma só poderá ser feita por meio de diploma legislativo.
+As empresas concessionárias entregarão aos fundos de fomento algodoeiro, mediante guias emitidas pelos institutos do algodão, as importâncias correspondentes aos encargos considerados na formação do preço do algodão-caroço que não tenham suportado.
 
-Art. 40.º Passam a pertencer aos fundos de fomento algodoeiro os saldos e demais valores do Fundo do Algodão.
+###### Artigo 39.º
 
-Art. 41.º As comissões dos fundos de fomento algodoeiro elaborarão anualmente os orçamentos destes.
+Serão fixadas anualmente, por portaria do governador-geral, ouvido o Conselho de Governo, as taxas a cobrar a favor dos fundos de fomento algodoeiro. A criação de taxas não previstas neste diploma só poderá ser feita por meio de diploma legislativo.
 
-Art. 42.º As contas dos fundos de fomento algodoeiro ficam sujeitas ao julgamento do tribunal competente.
+###### Artigo 40.º
 
-Art. 43.º Os laboratórios dos serviços administrativos e florestais das respectivas províncias realizarão as análises de sementes que as delegações dos institutos do algodão lhes requisitarem, devendo do respectivo boletim de análise constar:
+Passam a pertencer aos fundos de fomento algodoeiro os saldos e demais valores do Fundo do Algodão.
+
+###### Artigo 41.º
+
+As comissões dos fundos de fomento algodoeiro elaborarão anualmente os orçamentos destes.
+
+###### Artigo 42.º
+
+As contas dos fundos de fomento algodoeiro ficam sujeitas ao julgamento do tribunal competente.
+
+###### Artigo 43.º
+
+Os laboratórios dos serviços administrativos e florestais das respectivas províncias realizarão as análises de sementes que as delegações dos institutos do algodão lhes requisitarem, devendo do respectivo boletim de análise constar:
 
 Teor do óleo.
 
@@ -372,37 +483,65 @@ Teor de humidade.
 
 Teor de ácidos gordos.
 
-Art. 44.º As empresas concessionárias ficam obrigadas a proceder, de harmonia com as indicações dos serviços técnicos dos institutos do algodão, à selecção e desinfecção da semente que lhes compete fornecer para as sementeiras e ressementeiras.
+###### Artigo 44.º
 
-Art. 45.º A comercialização, no todo ou em parte, da semente de algodão que não for requerida pelas sementeiras e ressementeiras pode ser entregue, pelo respectivo governador-geral, aos institutos do algodão, segundo o condicionalismo a fixar anualmente, ouvidos os serviços técnicos dos institutos do algodão.
+As empresas concessionárias ficam obrigadas a proceder, de harmonia com as indicações dos serviços técnicos dos institutos do algodão, à selecção e desinfecção da semente que lhes compete fornecer para as sementeiras e ressementeiras.
+
+###### Artigo 45.º
+
+A comercialização, no todo ou em parte, da semente de algodão que não for requerida pelas sementeiras e ressementeiras pode ser entregue, pelo respectivo governador-geral, aos institutos do algodão, segundo o condicionalismo a fixar anualmente, ouvidos os serviços técnicos dos institutos do algodão.
 
 § único. Os institutos do algodão pagarão a semente segundo a sua qualidade e grau de pureza, sendo da conta da empresa concessionária a armazenagem da semente em boas condições, o fornecimento de sacaria, o ensacamento, a carga dos veículos e os despachos para o local indicado pelos institutos.
 
-Art. 46.º Nos casos em que os institutos do algodão considerem conveniente a venda a granel, será descontado o custo da sacaria, conforme for fixado nas condições de comercialização da semente.
+###### Artigo 46.º
 
-Art. 47.º Para o efeito do estabelecimento de novas fábricas de óleos vegetais, a capacidade da indústria local será determinada pela quantidade da semente da campanha 1960-1961 que adquirir.
+Nos casos em que os institutos do algodão considerem conveniente a venda a granel, será descontado o custo da sacaria, conforme for fixado nas condições de comercialização da semente.
 
-Art. 48.º O licenciamento da exportação da semente de algodão e dos produtos provenientes da industrialização desta ficam a cargo dos institutos do algodão.
+###### Artigo 47.º
 
-Art. 49.º O Ministro do Ultramar fixará em portaria os direitos de exportação da semente de algodão.
+Para o efeito do estabelecimento de novas fábricas de óleos vegetais, a capacidade da indústria local será determinada pela quantidade da semente da campanha 1960-1961 que adquirir.
 
-Art. 50.º O algodão-rama cuja comercialização fique a cargo dos institutos do algodão pagará, na exportação para o estrangeiro, direitos iguais aos que oneram a exportação para a metrópole.
+###### Artigo 48.º
 
-Art. 51.º O não cumprimento das normas estabelecidas neste decreto, regulamentos e instruções respectivas dará lugar à aplicação das penalidades previstas no artigo 10.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936, considerando-se, porém, fixado em 50000$00 o montante da multa referida na alínea c) daquele artigo.
+O licenciamento da exportação da semente de algodão e dos produtos provenientes da industrialização desta ficam a cargo dos institutos do algodão.
+
+###### Artigo 49.º
+
+O Ministro do Ultramar fixará em portaria os direitos de exportação da semente de algodão.
+
+###### Artigo 50.º
+
+O algodão-rama cuja comercialização fique a cargo dos institutos do algodão pagará, na exportação para o estrangeiro, direitos iguais aos que oneram a exportação para a metrópole.
+
+###### Artigo 51.º
+
+O não cumprimento das normas estabelecidas neste decreto, regulamentos e instruções respectivas dará lugar à aplicação das penalidades previstas no artigo 10.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936, considerando-se, porém, fixado em 50000$00 o montante da multa referida na alínea c) daquele artigo.
 
 § único. Em caso de reincidência, quando seja aplicável multa, será o respectivo montante elevado ao dobro.
 
-Art. 52.º Nenhuma penalidade pode ser aplicada sem que o inculpado seja convidado a apresentar por escrito a sua defesa, cabendo sempre recurso para o tribunal administrativo.
+###### Artigo 52.º
 
-Art. 53.º Compete aos governadores-gerais fixar, por despacho, as condições de comercialização da semente, garantindo sempre a preferência à indústria nacional. A comercialização da semente da campanha de 1960-1961 será inteiramente feita pelas empresas concessionárias, dando preferência à indústria nacional.
+Nenhuma penalidade pode ser aplicada sem que o inculpado seja convidado a apresentar por escrito a sua defesa, cabendo sempre recurso para o tribunal administrativo.
 
-Art. 54.º Na presente campanha de 1980-1961 as empresas concessionárias deverão entregar aos fundos de fomento algodoeiro a importância correspondente à sacaria que não tenham distribuído aos produtores para o acondicionamento do algodão-caroço que adquiriram ou venham a adquirir.
+###### Artigo 53.º
 
-Art. 55.º Na presente campanha de 1960-1961 os concessionários pagarão a favor do fundo uma taxa de 20$00 por tonelada de algodão-caroço que adquirirem após a entrada em vigor do presente decreto.
+Compete aos governadores-gerais fixar, por despacho, as condições de comercialização da semente, garantindo sempre a preferência à indústria nacional. A comercialização da semente da campanha de 1960-1961 será inteiramente feita pelas empresas concessionárias, dando preferência à indústria nacional.
 
-Art. 56.º Os institutos do algodão são obrigados a seguir a orientação que, sob proposta da Direcção-Geral de Economia do Ministério do Ultramar, for fixada pelo Ministro do Ultramar para uniformização dos respectivos procedimentos.
+###### Artigo 54.º
 
-Art. 57.º Este decreto entra em vigor em 1 de Janeiro de 1962, salvo o disposto quanto aos fundos de fomento algodoeiro, que entra imediatamente em vigor.
+Na presente campanha de 1980-1961 as empresas concessionárias deverão entregar aos fundos de fomento algodoeiro a importância correspondente à sacaria que não tenham distribuído aos produtores para o acondicionamento do algodão-caroço que adquiriram ou venham a adquirir.
+
+###### Artigo 55.º
+
+Na presente campanha de 1960-1961 os concessionários pagarão a favor do fundo uma taxa de 20$00 por tonelada de algodão-caroço que adquirirem após a entrada em vigor do presente decreto.
+
+###### Artigo 56.º
+
+Os institutos do algodão são obrigados a seguir a orientação que, sob proposta da Direcção-Geral de Economia do Ministério do Ultramar, for fixada pelo Ministro do Ultramar para uniformização dos respectivos procedimentos.
+
+###### Artigo 57.º
+
+Este decreto entra em vigor em 1 de Janeiro de 1962, salvo o disposto quanto aos fundos de fomento algodoeiro, que entra imediatamente em vigor.
 
 Publique-se e cumpra-se como nele se contém
 

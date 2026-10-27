@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 12 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/08500/0001200014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-03'
+entry_into_force:
+  date: '2021-05-03'
+  rule: com a publicação da Lei do Orçamento do Estado posterior à sua aprovação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

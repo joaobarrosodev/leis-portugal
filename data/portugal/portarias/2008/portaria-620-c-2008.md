@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4452-(10) a 4452-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13602/0001000010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-17'
+entry_into_force:
+  date: '2008-07-17'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: desde a data de entrada em vigor da Portaria n.º 604-C/2008, de 9 de Julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

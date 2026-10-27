@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "70.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 70.º\n\nO quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e transportes do ultramar compreende as seguintes categorias, com o número de unidades e distribuição constantes do mapa II anexo a este diploma:\n\nEngenheiro-director;\n\nEngenheiro-chefe;\n\nEngenheiro de 1.ª classe;\n\nArquitecto de 1.ª classe;\n\nEngenheiro de 2.ª classe;\n\nArquitecto de 2.ª classe.\n\núnico. São desempenhados por engenheiros com a categoria de director os cargos de inspector provincial, de director de serviços e de subdirector de serviços (letra D do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro-chefe os cargos de chefe de Repartição dos Serviços Centrais, de director regional, de chefe do Parque e Oficinas, em Angola e Moçambique, e de chefe de Repartição Provincial (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro de 1.ª ou 2.ª classe os cargos de chefes de Repartição Distrital e de Divisão Técnica; com a categoria de arquitecto de 1.ª ou 2.ª classe os cargos de chefes de Divisão de Arquitectura, de Inquérito e Planificação e de Secção de Urbanização.",
+    "depois": "###### Artigo 70.º\n\nO quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e transportes do ultramar compreende as seguinte categorias com o número de unidades e distribuição constantes do mapa II anexo a este diploma:\n\nEngenheiro-director;\n\nEngenheiro-chefe;\n\nArquitecto-chefe;\n\nEngenheiro de 1.ª classe;\n\nArquitecto de 1.ª classe;\n\nEngenheiro-adjunto;\n\nArquitecto-adjunto.\n\n§ único. São desempenhados por técnicos com a categoria de engenheiro-director os cargos de inspector provincial, de director de serviços e de subdirector de serviços (letra D do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro-chefe, os cargos de chefe de repartição dos serviços centrais, de director regional, de chefe do parque e oficinas, em Angola e Moçambique, e de chefe de repartição provincial (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de arquitecto-chefe, os cargos de chefe da Divisão de Estudos da Repartição de Edifícios e Monumentos e da Divisão do Inquérito e Planificação da Repartição de Urbanismo (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro de 1.ª classe ou de engenheiro-adjunto, os cargos de chefes de repartição distrital e de divisão técnica; com a categoria de arquitecto de 1.ª classe ou de arquitecto-adjunto, os cargos de chefes de secção de urbanização.\n\n> Alterado pelo/a [Decreto n.º 48607](https://diariodarepublica.pt/dr/detalhe/decreto/48607-1968-264366), publicado em 1968-10-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:469853:por",
+    "alterador": "pt:dre:264366:por"
+  },
+  {
+    "artigo": "72.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 72.º\n\nAs vagas na categoria de engenheiro e de arquitecto de 1.ª classe são providas por meio de promoção, respectivamente, dos engenheiros e arquitectos de 2.ª classe, depois de cinco anos de serviço nesta classe com boas informações.",
+    "depois": "###### Artigo 72.º\n\nAs vagas na categoria de engenheiro e de arquitecto de 1.ª classe são providas por meio de promoção, respectivamente, dos engenheiros-adjuntos e arquitectos-adjuntos com, pelo menos, três anos do serviço nesta classe com boas informações.\n\n> Alterado pelo/a [Decreto n.º 48607](https://diariodarepublica.pt/dr/detalhe/decreto/48607-1968-264366), publicado em 1968-10-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:469853:por",
+    "alterador": "pt:dre:264366:por"
+  }
+]

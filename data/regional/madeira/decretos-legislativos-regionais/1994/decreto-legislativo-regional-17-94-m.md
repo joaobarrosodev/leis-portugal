@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5246 - 5248
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/206a00/52465248.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-09-07'
+entry_into_force:
+  date: '1994-09-07'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do estabelecido no n.º 2 do artigo 10.º e no n.º 1 do artigo 13.º,
+    respectivamente dos Decretos-Leis n.os 401/91 e 405/91, de 16 de Outubro
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

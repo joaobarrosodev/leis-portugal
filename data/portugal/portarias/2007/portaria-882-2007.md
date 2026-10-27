@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5115 - 5119
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/15300/0511505119.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-08-10'
+entry_into_force:
+  date: '2007-08-10'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante a época balnear de 2007
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

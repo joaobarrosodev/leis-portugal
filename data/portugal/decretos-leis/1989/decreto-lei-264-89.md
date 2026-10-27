@@ -22,16 +22,40 @@ publication:
   supplement: null
   pages: 3346 - 3347
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18900/33463347.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-08-23'
+entry_into_force:
+  date: '1989-08-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-12-18'
+version_history:
+  file: decreto-lei-264-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-12-18'
+    amending: pt:dre:188491:por
+    amending_title: Decreto-Lei n.º 237/96
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:52:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 237/96. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-264-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,19 +176,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - Aos funcionários e agentes civis dos serviços departamentais das forças armadas é aplicável o regime respeitante aos funcionários e agentes da administração central.
+###### Artigo 1.º
+
+1 - Aos funcionários e agentes civis dos serviços departamentais das forças armadas é aplicável o regime respeitante aos funcionários e agentes da administração central.
 
 2 - As referências feitas na legislação mencionada no número anterior, em matéria de competências, ao ministro ou membro do Governo responsável pelo respectivo departamento e ao director-geral são entendidas como feitas, respectivamente, aos chefes de estado-maior e aos oficiais generais que na estrutura das forças armadas desempenham cargos de comando, direcção ou chefia correspondentes a director-geral.
 
 3 - O disposto no número anterior não prejudica os poderes de superintendência do Ministro da Defesa Nacional nem aqueles que lhe são exclusivamente cometidos pela [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro.
 
-Art. 2.º Os serviços departamentais das forças armadas são as unidades, os organismos e os serviços das forças armadas, com ou sem personalidade jurídica, que não sejam estabelecimentos fabris.
+###### Artigo 2.º
 
-Art. 3.º - 1 - É revogada toda a legislação e regulamentação em contrário ao disposto no presente diploma, designadamente os Decretos-Leis n.os [33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, na parte que aprovou o Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas, e [434-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-a-1982-243349), de 29 de Outubro, que aprovou o Regulamento Disciplinar do mesmo Pessoal.
+Os serviços departamentais das forças armadas são as unidades, os organismos e os serviços das forças armadas, com ou sem personalidade jurídica, que não sejam estabelecimentos fabris.
 
-2 - Mantém-se transitoriamente em vigor o actual regime de classificação de serviço aplicável a este pessoal até à sua revisão, nos termos da lei geral.
+###### Artigo 3.º
 
-Art. 5.º A execução do presente diploma respeitará os direitos adquiridos, bem como os actos constitutivos praticados ao abrigo das normas revogadas pelo artigo anterior.
+1 - É revogada toda a legislação e regulamentação em contrário ao disposto no presente diploma, designadamente os Decretos-Leis n.os [33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, na parte que aprovou o Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas, e [434-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-a-1982-243349), de 29 de Outubro, que aprovou o Regulamento Disciplinar do mesmo Pessoal.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 237/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1996-188491), publicado em 1996-12-13.
+
+###### Artigo 5.º
+
+A execução do presente diploma respeitará os direitos adquiridos, bem como os actos constitutivos praticados ao abrigo das normas revogadas pelo artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 1989. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Miguel José Ribeiro Cadilhe.
 

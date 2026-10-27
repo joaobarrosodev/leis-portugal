@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 32 - 33
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23800/0003200033.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-10'
+entry_into_force:
+  date: '2020-12-10'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2020-10-01'
+  effects_rule: a 1 de outubro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

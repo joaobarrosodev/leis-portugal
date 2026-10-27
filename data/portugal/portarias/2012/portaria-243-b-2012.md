@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 4398-(19) a 4398-(39)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/15601/0001900039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-18'
+entry_into_force:
+  date: '2012-08-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2012/2013, sem prejuízo do disposto no número seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes:

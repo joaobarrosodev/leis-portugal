@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 26-(10) a 26-(36)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10401/0001000036.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-29'
+entry_into_force:
+  date: '2021-05-29'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do número seguinte
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

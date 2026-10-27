@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5069 - 5071
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/181a00/50695071.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-08-06'
+entry_into_force:
+  date: '1999-08-06'
+  rule: no dia imediato ao da sua publicação, sem prejuízo do disposto no artigo 24.º do Decreto-Lei n.º 239/97, de 9 de Setembro
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 935 - 938
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/07900/09350938.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 2 meses após a data em que as Partes Contratantes terão notificado uma à outra, por escrito, que foram satisfeitas
+    as exigências constitucionais aplicáveis nos seus respectivos países
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

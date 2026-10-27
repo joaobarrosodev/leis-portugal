@@ -24,6 +24,15 @@ publication:
   pages: 2278 - 2280
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/109a00/22782280.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do início de funcionamento do Tribunal Central Administrativo
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

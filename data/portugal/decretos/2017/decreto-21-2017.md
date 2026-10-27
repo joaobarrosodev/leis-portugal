@@ -24,6 +24,16 @@ publication:
   pages: 4313 - 4326
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14600/0431304326.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte ao da data de receção da última notificação, por escrito e por via diplomática,
+    informando que foram cumpridos os requisitos de direito interno das Partes neces
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,29 @@ publication:
   supplement: null
   pages: 237-(2) a 237-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24501/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-27'
+entry_into_force:
+  date: '2022-12-27'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2023-01-01'
+  effects_rule: no dia 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:224427489:por#art-4'
+    detail: É revogado o [Decreto-Lei n.º 85-A/2022], de 22 de dezembro.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:224427489:por'
+    detail: Revogado, com efeitos no dia 01.01.2024, pelo(a) Decreto-Lei n.º 107/2023 - Diário da República n.º 223/2023,
+      Série I de 2023-11-17 nos termos do art. 4.º deste
 notes: []
 language: por
 version:

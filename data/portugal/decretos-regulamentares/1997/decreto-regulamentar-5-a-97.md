@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1548-(2) a 1548-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/079b01/00020007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-04-05'
+entry_into_force:
+  date: '1997-04-05'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

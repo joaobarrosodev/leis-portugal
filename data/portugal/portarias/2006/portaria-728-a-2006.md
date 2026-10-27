@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5226-(2) a 5226-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14101/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-07-25'
+entry_into_force:
+  date: '2006-07-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: '2006-07-25'
+  effects_rule: desde o dia 25 de Julho de 2006
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

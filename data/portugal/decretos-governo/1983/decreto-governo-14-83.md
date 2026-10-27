@@ -24,6 +24,16 @@ publication:
   pages: 620 - 625
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04500/06200625.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ficar concluída a troca de notas pelas quais cada uma das Partes Contratantes comunicará outra que
+    se encontram cumpridas as formalidades constitucionais exigidas para a sua vigência na
+  method: clausula
+  article: art-xxix
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

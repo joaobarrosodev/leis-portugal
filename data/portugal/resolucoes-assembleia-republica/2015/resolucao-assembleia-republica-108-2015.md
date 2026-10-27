@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5416 - 5463
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-01'
+entry_into_force:
+  date: '2014-01-01'
+  rule: 'em 1 de janeiro de 2014, ou no 1.º dia do 4.º mês após o depósito do 13.º instrumento de ratificação ou adesão nos
+    termos do artigo 84.º, incluindo os três Estados membros que contavam o maior número '
+  method: clausula
+  article: art-89
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

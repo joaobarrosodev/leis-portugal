@@ -24,6 +24,15 @@ publication:
   pages: 4892 - 4909
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/219a00/48924909.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 30 dias contados a partir da data da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

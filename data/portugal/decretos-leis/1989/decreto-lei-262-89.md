@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3338 - 3342
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18800/33383342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-03-01'
+entry_into_force:
+  date: '1990-03-01'
+  rule: no dia 1 de Março de 1990
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4456 - 4457
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/25000/44564457.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-10-30'
+entry_into_force:
+  date: '1990-10-30'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

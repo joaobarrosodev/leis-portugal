@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/11/22/897543489.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-23'
+entry_into_force:
+  date: '2024-11-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

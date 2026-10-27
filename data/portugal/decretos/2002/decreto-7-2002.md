@@ -24,6 +24,16 @@ publication:
   pages: 2816 - 2836
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/071a00/28162836.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no nonagésimo dia após a data em que pelo menos 55 Partes da Convenção, englobando as Partes incluídas no anexo I
+    que contabilizaram no total um mínimo de 55% das emissões totais de dióxido de carbono
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

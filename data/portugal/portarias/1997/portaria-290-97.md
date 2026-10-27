@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2031 - 2032
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/101b00/20312032.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-04-01'
+entry_into_force:
+  date: '1997-04-01'
+  rule: em 1 de Abril de 1997
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

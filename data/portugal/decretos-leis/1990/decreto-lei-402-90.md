@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 5192 - 5199
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29300/51925199.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-12-22'
+entry_into_force:
+  date: '1990-12-22'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-56
+  effects_date: '1989-01-01'
+  effects_rule: desde 1 de Janeiro de 1989, devendo ser-lhe introduzidas as alterações exigidas pela aplicação da Convenção
+    Bilateral a partir de 31 de Dezembro de 1991
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

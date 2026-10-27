@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6038 - 6039
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/215a00/60386039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-18'
+entry_into_force:
+  date: '2003-09-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

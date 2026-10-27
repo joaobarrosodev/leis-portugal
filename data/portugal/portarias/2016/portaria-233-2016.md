@@ -25,6 +25,15 @@ publication:
   pages: 3016 - 3017
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/16500/0301603017.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no décimo segundo dia após a sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2016-07-01'
+  effects_rule: a partir de 1 de julho de 2016
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

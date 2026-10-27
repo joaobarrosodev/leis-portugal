@@ -23,6 +23,16 @@ publication:
   pages: 1014 - 1038
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11500/10141038.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título definitivo no dia 1 de Janeiro de 1980 ou em qualquer data no decurso dos doze meses seguintes, entre os
+    governos que o tenham assinado e, no caso de as suas normas constitucionais ou institu
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

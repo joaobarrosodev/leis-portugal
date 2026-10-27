@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3946 - 3960
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/30100/39463960.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-03-01'
+entry_into_force:
+  date: '1985-03-01'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-85
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1592-(2) a 1592-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/077b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-04-01'
+entry_into_force:
+  date: '1992-04-01'
+  rule: no dia 1 de Abril de 1992
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

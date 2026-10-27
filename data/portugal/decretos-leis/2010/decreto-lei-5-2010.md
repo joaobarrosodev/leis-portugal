@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 180 - 181
   pdf_url: https://files.diariodarepublica.pt/1s/2010/01/01000/0018000181.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-16'
+entry_into_force:
+  date: '2010-01-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2010-01-01'
+  effects_rule: a 1 de Janeiro de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

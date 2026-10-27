@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3049-3054
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/07/01/166296497.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-01'
+entry_into_force:
+  date: '2021-07-01'
+  rule: a 1 de julho de 2021
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

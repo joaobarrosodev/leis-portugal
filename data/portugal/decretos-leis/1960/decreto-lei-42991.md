@@ -24,6 +24,15 @@ publication:
   pages: 1109 - 1263
   pdf_url: https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: seis meses depois de terem sido depositados pelo menos dois instrumentos de ratificação
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

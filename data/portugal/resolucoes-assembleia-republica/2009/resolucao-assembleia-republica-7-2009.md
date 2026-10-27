@@ -24,6 +24,16 @@ publication:
   pages: 1310 - 1323
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/04000/0131001323.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a recepção da última notificação, por escrito, informando que foram cumpridos os requisitos que o direito
+    interno de ambas as Partes impõe para o efeito
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

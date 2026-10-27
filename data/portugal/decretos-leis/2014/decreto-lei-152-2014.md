@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 5267 - 5272
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/19900/0526705272.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-10-16'
+entry_into_force:
+  date: '2014-10-16'
+  rule: no dia seguinte ao da sua publicação, com exceção do artigo 19.º que
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

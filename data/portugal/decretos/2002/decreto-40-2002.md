@@ -24,6 +24,15 @@ publication:
   pages: 7845 - 7848
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/290a00/78457848.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a troca de notas por ambas as Partes, depois de concluída toda a tramitação interna para a sua entrada em vigor
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

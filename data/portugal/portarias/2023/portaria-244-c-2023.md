@@ -25,6 +25,15 @@ publication:
   pages: 114-(2) a 114-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14603/0000200003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 54-A/2023, de 27 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1881 - 1882
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07300/0188101882.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-04-16'
+entry_into_force:
+  date: '2015-04-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

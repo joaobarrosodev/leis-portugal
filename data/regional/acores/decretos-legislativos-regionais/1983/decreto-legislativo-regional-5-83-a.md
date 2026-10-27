@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 884 - 884
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05800/08840884.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-04-10'
+entry_into_force:
+  date: '1983-04-10'
+  rule: 30 dias após a sua publicação no Jornal Oficial da Região Autónoma da Madeira
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

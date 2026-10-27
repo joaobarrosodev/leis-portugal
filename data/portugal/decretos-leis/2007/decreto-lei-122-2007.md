@@ -22,16 +22,40 @@ publication:
   supplement: null
   pages: 2616 - 2618
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26162618.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-01'
+entry_into_force:
+  date: '2007-05-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-08-03'
+version_history:
+  file: decreto-lei-122-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-03'
+    amending: pt:dre:454821:por
+    amending_title: Decreto-Lei n.º 146/2008
+    changes:
+    - Adita Artigo 8.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/122/2007/04/27/p/dre/pt/html
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:56:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 146/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-122-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -212,6 +237,12 @@ A manutenção da qualidade de beneficiário da acção social complementar de t
 ###### Artigo 8.º — Cessação de actividades
 
 Os equipamentos sociais relativos à educação pré-escolar, creches, residências do ensino superior e postos e centros de saúde deixam de integrar o âmbito da acção social complementar.
+
+###### Artigo 8.º-A — Institutos públicos
+
+Sem prejuízo do disposto no presente decreto-lei, os institutos públicos podem, ainda, mediante autorização prévia dos Ministros das Finanças e da tutela, desenvolver iniciativas de acção social complementar relativas a educação pré-escolar e creches, cujas finalidades se destinem essencialmente à conciliação da vida profissional, pessoal e familiar dos seus trabalhadores e a promover as condições da igualdade de género e o combate às discriminações múltiplas.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 146/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2008-454821), publicado em 2008-07-29.
 
 ###### Artigo 9.º — Norma revogatória
 

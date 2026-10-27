@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/065000000/0003800039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:853818571:por#n-5'
+    detail: 5 - Determinar que a presente portaria revoga a [Portaria n.º 151/2023], publicada no Diário da República, 2.ª
+      série, n.º 65, de 31 de março de 2023.
 notes: []
 language: por
 version:

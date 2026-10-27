@@ -25,6 +25,15 @@ publication:
   pages: 8243 - 8245
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18200/0824308245.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no mês seguinte à sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

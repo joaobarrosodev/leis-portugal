@@ -23,6 +23,15 @@ publication:
   pages: 108 - 109
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00300/0010800109.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

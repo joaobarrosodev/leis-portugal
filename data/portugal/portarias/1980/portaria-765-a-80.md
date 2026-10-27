@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3080-(5) a 3080-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/22702/00050006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-10-01'
+entry_into_force:
+  date: '1980-10-01'
+  rule: em 1 de Outubro de 1980
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

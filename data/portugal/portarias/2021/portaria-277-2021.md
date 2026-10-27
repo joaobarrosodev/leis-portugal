@@ -24,6 +24,15 @@ publication:
   pages: 165 - 166
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/23200/0016500166.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da sua assinatura e
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: pelo período de vigência do artigo 53.º da Lei n.º 75-B/2020, de 31 de dezembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

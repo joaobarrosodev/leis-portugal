@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 19494 - 19505
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/073000000/1949419505.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-04-16'
+entry_into_force:
+  date: '2010-04-16'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 1056 - 1058
   pdf_url: https://files.diariodarepublica.pt/1s/1968/07/17200/10561058.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 60.º dia a contar do depósito do quarto instrumento de ratificação previsto pelo artigo 7.º, alínea 2
+  method: clausula
+  article: art-8-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

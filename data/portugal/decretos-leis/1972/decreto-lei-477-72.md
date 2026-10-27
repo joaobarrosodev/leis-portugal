@@ -24,6 +24,16 @@ publication:
   pages: 1758 - 1770
   pdf_url: https://files.diariodarepublica.pt/1s/1972/11/27600/17581770.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no da 1 de Janeiro de 1973, podendo, todavia, ser publicado antes dessa data, mas para produzir efeitos a partir da
+    mesma a lista a que se refere o artigo 10.º
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

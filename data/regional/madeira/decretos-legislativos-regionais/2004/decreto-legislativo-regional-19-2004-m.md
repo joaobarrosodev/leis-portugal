@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5043 - 5051
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/180a00/50435051.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-09-01'
+entry_into_force:
+  date: '2004-09-01'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

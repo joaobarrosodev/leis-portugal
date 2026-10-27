@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4204 - 4205
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21700/42044205.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-09-21'
+entry_into_force:
+  date: '1989-09-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

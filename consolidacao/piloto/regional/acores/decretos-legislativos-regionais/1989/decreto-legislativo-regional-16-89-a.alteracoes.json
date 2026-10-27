@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 4.º — Contra-ordenações e coimas\n\nComete contra-ordenação punível com coima de 1000$00 a 10000$00 quem violar os preceitos regulamentares das reservas, designadamente os relativos aos períodos de funcionamento, ao exercício de campismo, de comércio e de outras actividades, ao trânsito de veículos e à circulação de animais, à conservação da fauna e da flora, ao uso e manutenção das infra-estruturas, aos aspectos sanitários, higiénicos e de segurança e ao sossego dos utentes.",
+    "depois": "###### Artigo 4.º — Contra-ordenações e coimas\n\nComete contra-ordenação punível com coima de 5000$00 a 50000$00 quem violar os preceitos regulamentares das reservas, designadamente os relativos aos períodos de funcionamento, ao exercício de campismo, de comércio e de outras actividades, ao trânsito de veículos e à circulação de animais, à conservação da fauna e da flora, ao uso e manutenção das infra-estruturas, aos aspectos sanitários, higiénicos e de segurança e ao sossego dos utentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-303583), publicado em 2000-06-21.",
+    "excerto": "O artigo 4.º do Decreto Legislativo Regional n.º 16/89/A, de 30 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\nContra-ordenações e coimas\n\nComete contra-ordenação punível com coima de 5000$00 a 50000$00 quem violar os preceitos regulamentares das reservas, designadamente os relativos aos períodos de funcionamento, ao exercício de campismo, de comércio e de outras actividades, ao trânsito de veículos e à circulação de animais, à conservação da fauna e da flora, ao uso e manutenção das infra-estruturas, aos aspectos sanitários, higiénicos e de segurança e ao sossego dos utentes.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618291:por",
+    "alterador": "pt:dre:303583:por"
+  }
+]

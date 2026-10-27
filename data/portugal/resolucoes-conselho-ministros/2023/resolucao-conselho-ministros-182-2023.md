@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 27 - 29
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24600/0002700029.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-27'
+entry_into_force:
+  date: '2023-12-27'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2023-12-15'
+  effects_rule: a partir do dia 15 de dezembro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

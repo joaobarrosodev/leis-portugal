@@ -24,6 +24,16 @@ publication:
   pages: 548 - 550
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/06400/05480550.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: sessenta dias após a troca de notas que confirmem estarem preenchidos os requisitos constitucionais necessários à
+    sua entrada em vigor
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

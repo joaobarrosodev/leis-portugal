@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3465 - 3465
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26600/34653465.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-11-23'
+entry_into_force:
+  date: '1986-11-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir do dia seguinte ao do termo do respectivo período de instalação (19 de Setembro de 1985 e 13 de Março
+    de 1986, respectivamente)
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

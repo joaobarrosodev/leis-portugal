@@ -26,7 +26,18 @@ publication:
   supplement: null
   pages: 2578 - 2614
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/095a00/25782614.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-04-28'
+entry_into_force:
+  date: '2003-04-28'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2003-10-20'
+  effects_rule: 180 dias a contar da data da sua publicação, relativamente às preparações fabricadas ou importadas a partir
+    dessa data, com excepção dos produtos fitofarmacêuticos e biocidas
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

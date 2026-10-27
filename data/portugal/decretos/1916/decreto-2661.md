@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1916/10/20000/09250927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:140346:por#art-3'
+    detail: Ficam revogados o [Decreto-Lei n.º 23314], de 6 de Dezembro de 1933, e o [Decreto n.º 2661], de 2 de Outubro de
+      1916.
 notes: []
 language: por
 version:

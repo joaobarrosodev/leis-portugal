@@ -23,6 +23,15 @@ publication:
   pages: 13 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21500/0001300014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da sua aprovação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

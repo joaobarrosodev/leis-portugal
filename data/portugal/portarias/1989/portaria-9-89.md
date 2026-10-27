@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 28 - 30
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/00300/00280030.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-03-05'
+entry_into_force:
+  date: '1989-03-05'
+  rule: 60 dias após a sua publicação, considerando-se revogadas as normas em vigor sobre a matéria constantes do Despacho
+    Normativo n.º 164/79, de 18 de Junho, publicado no Diário da República, 1.ª série, de
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

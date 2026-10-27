@@ -28,6 +28,15 @@ publication:
   pages: 8886 - 8908
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20000/0888608908.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 50/2015, de 25 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

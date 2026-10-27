@@ -25,6 +25,16 @@ publication:
   pages: 7 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03700/0000700015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 dias após a receção da última notificação, por escrito e por via diplomática, do cumprimento dos requisitos necessários
+    para tal efeito previstos no Direito Interno das Partes
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

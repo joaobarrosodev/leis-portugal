@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 959 - 960
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11400/09590960.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-05-18'
+entry_into_force:
+  date: '1979-05-18'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

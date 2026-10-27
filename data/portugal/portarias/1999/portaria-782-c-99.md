@@ -24,6 +24,15 @@ publication:
   pages: 6160-(2) a 6160-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/204b01/00020003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 0 horas do dia 2 de Setembro de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

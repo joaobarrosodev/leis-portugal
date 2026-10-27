@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2222 - 2231
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-07-03'
+entry_into_force:
+  date: '1987-07-03'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

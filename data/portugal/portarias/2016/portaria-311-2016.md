@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4605 - 4606
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23600/0460504606.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-13'
+entry_into_force:
+  date: '2016-12-13'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data de entrada em vigor da Portaria n.º 60-C/2015, de 2 de março, alterada pelas Portarias n.os 181-A/2015,
+    de 19 de junho, 190-A/2015, de 26 de junho, e 148/2016, de 23 de maio
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 1844 - 1847
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/07300/0184401847.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos
+    do direito interno dos dois Estados Contratantes necessários para o efeito
+  method: clausula
+  article: art-ii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

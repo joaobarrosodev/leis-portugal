@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2795 - 2796
   pdf_url: https://files.diariodarepublica.pt/1s/2014/05/09200/0279502796.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-05-15'
+entry_into_force:
+  date: '2014-05-15'
+  rule: no dia seguinte ao da sua publicação e o disposto no artigo 3.º
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

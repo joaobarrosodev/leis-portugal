@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 168 - 173
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01300/01680173.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-02-15'
+entry_into_force:
+  date: '1988-02-15'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2055 - 2057
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/091a00/20552057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-04-20'
+entry_into_force:
+  date: '1999-04-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

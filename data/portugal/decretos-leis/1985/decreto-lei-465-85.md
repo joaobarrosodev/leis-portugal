@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3706 - 3708
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/25400/37063708.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-12-05'
+entry_into_force:
+  date: '1985-12-05'
+  rule: no prazo de 30 dias a contar da sua publicação e não se aplica às regiões autónomas
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

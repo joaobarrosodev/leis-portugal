@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1890 - 1890
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/27300/18901890.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-11-25'
+entry_into_force:
+  date: '1975-11-25'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

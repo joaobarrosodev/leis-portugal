@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2888 - 2889
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/22900/28882889.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-11-03'
+entry_into_force:
+  date: '1986-11-03'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

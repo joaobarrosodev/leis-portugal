@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1571 - 1574
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/04700/0157101574.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-04-08'
+entry_into_force:
+  date: '2009-04-08'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

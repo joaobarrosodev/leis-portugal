@@ -25,6 +25,16 @@ publication:
   pages: 4039 - 4065
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/190a00/40394065.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos gerais, sem prejuízo da comercialização dos produtos que tenham sido produzidos e rotulados de acordo com
+    a anterior legislação até ao esgotamento das existências
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

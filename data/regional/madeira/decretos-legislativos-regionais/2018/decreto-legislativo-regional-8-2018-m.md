@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 2339 - 2339
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/10400/0233902339.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-05-31'
+entry_into_force:
+  date: '2018-05-31'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2018-01-01'
+  effects_rule: reportados a 1 de janeiro de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16661 - 16662
   pdf_url: https://files.diariodarepublica.pt/2s/2005/11/229000000/1666116662.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-11-15'
+entry_into_force:
+  date: '2005-11-15'
+  rule: no dia 15 de Novembro de 2005
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

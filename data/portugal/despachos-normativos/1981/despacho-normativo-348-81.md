@@ -23,6 +23,16 @@ publication:
   pages: 3414-(47) a 3414-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30004/00470047.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no continente, no dia imediato ao da sua publicação e, nas Regiões Autónomas dos Açores e da Madeira, 30 dias após
+    a mesma data
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

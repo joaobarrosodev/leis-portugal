@@ -1,0 +1,346 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222392:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-10-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "35366d453cb42ba6",
+    "23836370ae405d04",
+    "ce689308ecd43a73",
+    "e25dca3282bb90fb",
+    "8c3e04404228f9f3",
+    "2366796957926482",
+    "1c61c127ad8c9f4f",
+    "26728f7d815b3bdf",
+    "68355baf3b2a302d",
+    "6baf4daba772ac4a",
+    "d4b19e9a6c2ea782",
+    "88fa87ac492607e1",
+    "0ac6ab27ec975981",
+    "80cba614890a44bf",
+    "ceaf3132f620e20c",
+    "a39e4dfe6bda1361",
+    "191fc8d881fc3c63",
+    "110567e8021f0f66",
+    "641a236ffb9df609",
+    "97806f3bdeda760c",
+    "cd04efda23fd6b52",
+    "cfe761120adf8077",
+    "dd83b166ba1a1f73",
+    "446f4f6130ed0693",
+    "cac8ffaa8d4d6d33",
+    "11fe217974d82575",
+    "ba4d285cd30fe84b",
+    "42d8bd0c960de59e",
+    "dde62240fcbabd06",
+    "2df4698d27ef04f9"
+   ]
+  },
+  {
+   "date": "1998-12-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223019:por",
+     "title": "Decreto-Lei n.º 337/98",
+     "published": "1998-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/337-1998-223019"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 14.º"
+   ],
+   "fragments": [
+    "35366d453cb42ba6",
+    "23836370ae405d04",
+    "ce689308ecd43a73",
+    "e25dca3282bb90fb",
+    "8c3e04404228f9f3",
+    "2366796957926482",
+    "1c61c127ad8c9f4f",
+    "26728f7d815b3bdf",
+    "68355baf3b2a302d",
+    "6baf4daba772ac4a",
+    "d4b19e9a6c2ea782",
+    "88fa87ac492607e1",
+    "0ac6ab27ec975981",
+    "80cba614890a44bf",
+    "ceaf3132f620e20c",
+    "a39e4dfe6bda1361",
+    "0fb467b555a365b3",
+    "110567e8021f0f66",
+    "641a236ffb9df609",
+    "97806f3bdeda760c",
+    "cd04efda23fd6b52",
+    "cfe761120adf8077",
+    "dd83b166ba1a1f73",
+    "446f4f6130ed0693",
+    "cac8ffaa8d4d6d33",
+    "11fe217974d82575",
+    "ba4d285cd30fe84b",
+    "42d8bd0c960de59e",
+    "dde62240fcbabd06",
+    "2df4698d27ef04f9"
+   ]
+  }
+ ],
+ "fragments": {
+  "35366d453cb42ba6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Outubro\n\n1. A actual organização institucional do sector portuário data, no essencial, da década de 40. Concebida e implementada no âmbito da política de desenvolvimento portuário então definida, quer através da chamada «lei dos portos» (Decreto com força de lei n.º 12757, de 2 de Dezembro de 1926) e do [Decreto-Lei n.º 33922](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33922-1944-550996), de 5 de Setembro de 1944, que aprovou a segunda fase do Plano Portuário Nacional, quer da [Lei n.º 2035](https://diariodarepublica.pt/dr/detalhe/lei/2035-1949-260163), de 30 de Julho de 1949, denominada «lei da exploração portuária», que definiu as bases gerais do Estatuto das juntas Autónomas dos Portos.\n\nEsta última lei manteve a exploração dos portos de Lisboa e do Douro e Leixões confiada às respectivas administrações autónomas sob tutela directa do Governo, ao passo que os restantes portos, administrados por juntas autónomas, ficaram subordinados à coordenação, orientação e fiscalização técnica e administrativa da Junta Central de Portos, que mais tarde deu origem à actual Direcção-Geral de Portos, sem alterar a filosofia geral de gestão portuária anteriormente definida.\n\nOs actuais estatutos orgânicos das referidas administrações dos principais portos datam de 1948, tendo sido aprovados através do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), no caso da Administração-Geral do Porto de Lisboa (AGPL), e do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673), no caso da Administração dos Portos do Douro e Leixões (APDL), ambos de 20 de Junho desse ano.\n\nPor seu turno, o estatuto orgânico das juntas autónomas dos portos foi aprovado através do [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950.\n\nSe, para a época em que foram promulgadas, estas leis orgânicas correspondiam perfeitamente às necessidades de gestão dos portos, instituindo mesmo princípios, conceitos e procedimentos inovadores e avançados relativamente à filosofia tradicional de administração de bens públicos, o facto é que, decorridas quase quatro décadas sobre a sua implementação, este sistema institucional terá obviamente de se encontrar desajustado às realidades actuais.\n\n2. O desajustamento focado resultou não só da mutação e evolução verificadas quer no sistema portuário nacional e respectivos tráfegos quer nos próprios conceitos e métodos de gestão dos portos mas também de uma cada vez menor adaptabilidade às regras correntes do sector público administrativo, dada a natureza empresarial de que se revestem as actividades portuárias.\n\nTais regras, ao limitarem o poder e a flexibilidade de gestão dos respectivos organismos, não se coadunam com o exercício das suas funções de acordo com a filosofia de gestão do tipo empresarial por que se deve pautar a exploração das actividades portuárias.\n\nApesar das tentativas ensaiadas para mudar esta situação, não foi possível até à data concretizar a reestruturação do sector portuário, que desde há vários anos tem sido reclamada e sentida como necessária. Caso paradigmático é o da Administração do Porto de Sines (APS), que, tendo sido criada pelo [Decreto-Lei n.º 508/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1977-279587), de 14 de Dezembro, tem funcionado até ao presente em regime provisório de instalação, devido às dificuldades encontradas na aprovação de um estatuto orgânico adaptado às necessidades e realidades actuais.\n\n3. O sistema institucional anteriormente exposto de forma resumida reflecte-se negativamente nos processos de desenvolvimento integrado, gestão e exploração do sistema portuário nacional. Conduziu, nomeadamente, à ausência de uma política coordenada de investimentos, a uma exploração com distorções na concorrência entre portos nacionais e a uma reduzida capacidade competitiva com os portos estrangeiros mais próximos, apesar da nossa privilegiada posição geográfica.\n\nSe é certo que a reestruturação dos organismos responsáveis pelo planeamento e gestão dos portos é condição essencial para a dinamização do sector portuário nacional, não é suficiente, devendo, numa fase subsequente, ser alargada a outros domínios com forte peso na exploração deste tipo de infra-estruturas.\n\nCom efeito, o forte incremento que o sistema portuário nacional registou na última década, quer em termos de desenvolvimento e modernização das respectivas infra-estruturas e equipamentos quer na sua adequação às novas tecnologias do transporte marítimo, traduzidas no forte incremento do transporte multimodal (v. g., contentores) e do transporte em navios especializados (v. g., graneleiros), exige que se desenvolva uma nova dinâmica comercial, de forma a rendibilizar os vultosos investimentos realizados.\n\nA própria adesão de Portugal às Comunidades Europeias veio reforçar a necessidade de se implementar nos portos nacionais sistemas modernos de gestão, de forma a podermos suportar a crescente competitividade a que ficamos sujeitos por parte dos nossos parceiros europeus.\n\n4. Na macroestrutura portuária, que neste diploma se contempla, prevê-se a transformação da Direcção-Geral de Portos no Instituto Nacional de Portos e Costas Marítimas (INPCM), que tem como finalidades essenciais a assessoria do Ministro da tutela, nomeadamente em matéria de planeamento integrado, de coordenação e função normativa do sector, além de funções executivas na preservação e valorização das costas marítimas.\n\nO INPCM terá grande parte das suas receitas provenientes das contribuições das administrações e juntas autónomas dos portos, dentro do princípio de que as despesas globais de funcionamento da macroestrutura portuária tenderão a ser inteiramente cobertas com as suas receitas próprias, onde se incluem também as taxas cobradas e as dotações eventualmente atribuídas pelo Orçamento do Estado.\n\nPrevê-se também a substituição do Conselho Nacional de Portos, criado pelo [Decreto-Lei n.º 322/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1984-400048), de 8 de Outubro, pela Comissão Nacional de Portos (CNP), organismo de alargada representação de todos os interessados na actividade portuária, quer públicos quer privados, proporcionando, assim, através deste órgão de consulta do ministro da tutela o debate das questões relevantes naquele domínio.\n\nAs administrações dos portos revestem-se da forma de institutos públicos dotados de autonomia administrativa, financeira e patrimonial, gozando de personalidade jurídica e com órgãos sociais que lhes permitam a prática de uma gestão segundo critérios empresariais, com os necessários instrumentos, de contabilidade e de informação de gestão e uma dinâmica comercial própria.\n\nAs bases gerais a que devem obedecer os estatutos orgânicos das administrações dos portos constituem o anexo ao presente diploma.\n\n5. Estabelece-se ainda um primeiro capítulo referente aos princípios fundamentais por que se deve nortear o sistema portuário nacional, tais como o reconhecimento do seu valor estratégico e a necessidade de o seu desenvolvimento e modernização se integrarem num processo de planeamento global e integrado.\n\nUma última nota tem em atenção a necessária preservação do ambiente a tomar em conta nos projectos portuários a desenvolver e na exploração dos portos.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "ce689308ecd43a73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Sistema portuário nacional e organismos portuários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Sistema portuário nacional e organismos portuários)\n\n1 - Para efeitos do presente diploma, entende-se por sistema portuário nacional o conjunto de infra-estruturas, instalações e equipamentos que permitem a movimentação de fluxos de passageiros e de mercadorias entre o transporte terrestre e o transporte marítimo, quer sejam gerados por actividades comerciais, industriais ou piscatórias quer por actividades turísticas ou de lazer, proporcionando as necessárias condições de abrigo e de segurança à navegação.\n\n2 - Para efeitos deste diploma, consideram-se organismos portuários o Instituto Nacional de Portos e Costas Marítimas (INPCM) e as administrações dos portos."
+  },
+  "e25dca3282bb90fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Princípios fundamentais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Princípios fundamentais)\n\n1 - Ao sistema portuário nacional é reconhecido um importante valor estratégico, cujo funcionamento deve obedecer aos seguintes princípios básicos:\n\na) Possibilitar o regular abastecimento do País em bens essenciais e contribuir para o aumento da competitividade externa da economia nacional;\n\nb) Contribuir para o desenvolvimento económico e social das regiões envolventes;\n\nc) Considerar a actividade portuária como elo fundamental da cadeia logística de transporte, integrada no sistema produtivo nacional;\n\nd) Satisfazer as necessidades dos utentes com os menores custos económicos e sociais, numa perspectiva de adequada complementaridade entre portos.\n\n2 - A complementaridade a que alude a alínea d) do número anterior não impedirá o estabelecimento da concorrência entre os portos nacionais, desde que compatível com a dimensão geográfica do País."
+  },
+  "8c3e04404228f9f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Planeamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Planeamento)\n\n1 - O desenvolvimento e a modernização do sistema portuário nacional devem inserir-se num processo de planeamento global e integrado, tendo, designadamente, em vista uma coordenação dos grandes projectos de investimento, por forma a utilizar o mais eficazmente possível os recursos financeiros disponíveis.\n\n2 - Os planos de ordenamento e expansão dos portos deverão considerar, nos portos de comércio internacional, a importância relevante que eles representam no processo de integração europeia, devendo conferir prioridade a todas as medidas que aumentem a sua competitividade internacional.\n\n3 - Na elaboração dos planos de ordenamento e expansão dos portos deverão ser consideradas as necessidades da defesa nacional, ficando as áreas afectas à satisfação dessas necessidades excluídas da gestão portuária.\n\n4 - Com base nos planos de ordenamento e expansão serão elaborados os planos gerais de obras, exploração e apetrechamento de cada porto."
+  },
+  "2366796957926482": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Preservação do meio ambiente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Preservação do meio ambiente)\n\nOs planos e projectos portuários, bem como os respectivos regimes de exploração, deverão contemplar os melhores critérios de preservação das condições ambientais, através da prevenção e combate à poluição causada por navios, actividades portuárias, industriais ou quaisquer outras que utilizem a área de jurisdição dos portos e sem prejuízo das competências legalmente atribuídas às entidades que tenham por objecto a preservação do meio ambiente e o combate à poluição."
+  },
+  "1c61c127ad8c9f4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Utilização dos portos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Utilização dos portos)\n\n1 - Os portos nacionais serão utilizados nos termos das convenções e acordos internacionais e dos respectivos regulamentos e normas de exploração e segurança, salvo quando razões especiais de segurança marítima, de protecção do meio marinho ou de defesa nacional imponham restrições a essa utilização, o que deverá ser comunicado pelos meios adequados às entidades e organismos internacionais competentes.\n\n2 - Lei especial estabelecerá o regime de mobilização e de utilização dos portos nacionais por razões de emergência ou de conflito armado.\n\n3 - No quadro geral decorrente do planeamento portuário, a iniciativa privada poderá participar no estabelecimento e exploração de empreendimentos específicos e bem delimitados, nomeadamente sob o regime de concessão, o qual contemplará a satisfação dos interesses públicos fundamentais.\n\n4 - A transferência e alienação de imóveis do domínio público do Estado e de quaisquer outros afectos às administrações dos portos continua a reger-se pelo [Decreto-Lei n.º 450/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1983-444403), de 26 de Dezembro."
+  },
+  "26728f7d815b3bdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Trabalho portuário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Trabalho portuário)\n\n1 - As operações portuárias de carga e descarga de embarcações de comércio, bem como a movimentação de mercadorias provenientes ou destinadas ao transporte marítimo nos armazéns e terraplenos interiores aos limites das margens do domínio público marítimo e das áreas sob jurisdição das administrações e juntas autónomas dos portos, serão executadas por empresas licenciadas para o efeito, com recurso a trabalhadores portuários inscritos, em condições a definir em lei especial.\n\n2 - As linhas de orientação, normas gerais, acordos e fiscalização relativos ao trabalho portuário ficarão a cargo dos organismos que a lei estabelecer."
+  },
+  "68355baf3b2a302d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Regulamento de exploração e de tarifas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Regulamento de exploração e de tarifas)\n\n1 - É da competência do Governo a aprovação dos regulamentos de exploração e de tarifas elaborados pelas respectivas administrações portuárias.\n\n2 - O processo de actualização das taxas portuárias será fixado em diploma especial e atenderá às condições económicas do País e à competitividade internacional dos portos."
+  },
+  "6baf4daba772ac4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Organismos portuários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Organismos portuários"
+  },
+  "d4b19e9a6c2ea782": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Instituto Nacional de Portos e Costas Marítimas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Instituto Nacional de Portos e Costas Marítimas)\n\n1 - É criado, no âmbito do Ministério das Obras Públicas, Transportes e Comunicações, o Instituto Nacional de Portos e Costas Marítimas (INPCM), organismo dotado de personalidade jurídica de direito público com autonomia administrativa e financeira.\n\n2 - Ao INPCM são atribuídas as funções normativas e de planeamento relativas ao desenvolvimento integrado do sistema portuário nacional, bem como a administração, preservação e valorização das costas marítimas.\n\n3 - O INPCM não exercerá funções de gestão portuária."
+  },
+  "88fa87ac492607e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Atribuições do INPCM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Atribuições do INPCM)\n\n1 - No domínio dos portos, são atribuições do INPCM, além de previsto no artigo 18.º, n.º 4:\n\na) Apoiar a tutela na definição e implementação da política portuária nacional, tomando as iniciativas necessárias para o efeito;\n\nb) Acompanhar a actividade das administrações dos portos, no caso em que o estatuto das administrações ou a lei geral obriguem a aprovação da tutela;\n\nc) Apoiar técnica e administrativamente as administrações dos portos que o solicitem.\n\n2 - No domínio das costas marítimas, são atribuições do INPCM, fora das áreas de jurisdição das administrações dos portos:\n\na) Preservar e valorizar as praias, arribas e falésias;\n\nb) Defender e administrar as margens do domínio público marítimo.\n\n3 - O exercício destas atribuições será feito nos termos do presente diploma, do estatuto orgânico do INPCM e da demais legislação aplicável, sem prejuízo das competências legalmente atribuídas a outras entidades."
+  },
+  "0ac6ab27ec975981": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Autonomia financeira do INPCM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Autonomia financeira do INPCM)\n\n1 - O INPCM disporá de autonomia financeira assegurada no que respeita ao seu financiamento:\n\na) Pelas receitas das taxas a cobrar decorrentes da administração das margens do domínio público marítimo a que se refere o artigo anterior;\n\nb) Pelas contribuições das administrações dos portos;\n\nc) Por dotações eventualmente atribuídas pelo Orçamento do Estado.\n\n2 - As contribuições financeiras das administrações dos portos para o INPCM serão fixadas até 30 de Julho, para o ano económico seguinte, por despacho do ministro da tutela, não podendo ultrapassar o montante de 1,5% das receitas de exploração de cada porto, tendo em consideração as despesas correntes resultantes das atribuições a que se refere o artigo 9.º, n.º 1.\n\n3 - Os investimentos do INPCM deverão figurar no PIDDAC.\n\n4 - A organização dos orçamentos privativos, a aplicação das receitas e a prestação de contas são reguladas pelo [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro."
+  },
+  "80cba614890a44bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Protocolos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Protocolos)\n\n1 - Para o exercício das suas atribuições, pode o INPCM estabelecer com as administrações dos portos, com a autoridade marítima ou com outras entidades públicas protocolos de colaboração.\n\n2 - Os protocolos de colaboração a que se refere o número anterior terão de ser homologados pelos ministros da tutela."
+  },
+  "ceaf3132f620e20c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Conselho técnico de INPCM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Conselho técnico de INPCM)\n\n1 - O INPCM disporá de um conselho técnico, órgão consultivo e de coordenação das acções e intervenções do Instituto implicando matérias da competência dos organismos nele representados ou a eles interessando.\n\n2 - O conselho técnico será presidido pelo presidente do INPCM e integrará representantes de todas as administrações e juntas autónomas dos portos existentes."
+  },
+  "a39e4dfe6bda1361": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Comissão Nacional de Portos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Comissão Nacional de Portos)\n\n1 - No âmbito do INPCM é criada a Comissão Nacional de Portos (CNP), órgão de consulta do Governo em matéria política portuária.\n\n2 - O diploma que aprovar o estatuto orgânico do INPCM definirá a constituição, atribuições e modo de funcionamento da CNP, a qual deverá integrar representantes das entidades públicas e privadas interessadas na exploração dos portos."
+  },
+  "191fc8d881fc3c63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Administrações dos portos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Administrações dos portos)\n\nOs portos de comércio e os de pesca de maior importância serão geridos por institutos públicos denominados «administrações dos portos», organismos dotados de personalidade jurídica e de autonomia administrativa, financeira e patrimonial."
+  },
+  "110567e8021f0f66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Atribuições das administrações dos portos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Atribuições das administrações dos portos)\n\n1 - Sem prejuízo das competências legalmente atribuídas dentro das áreas de jurisdição das administrações portuárias, deverão estas assegurar a coordenação de todas as actividades exercidas naquelas áreas.\n\n2 - Para os serviços públicos dependentes do ministro da tutela dos portos, as condições em que será exercida a acção de coordenação a que se refere o número anterior serão definidas por portaria do respectivo ministro.\n\n3 - No que respeita aos outros serviços públicos, essas condições serão definidas por portaria conjunta dos ministros da tutela dos portos e dos outros serviços públicos envolvidos.\n\n4 - Cada administração promoverá a elaboração de planos de ordenamento e expansão dos portos sob sua jurisdição, de acordo com as orientações de política sectorial a definir pelo Governo.\n\n5 - São aprovadas as Bases Gerais dos Estatutos Orgânicos das Administrações dos Portos anexas ao presente diploma e que dele fazem parte integrante."
+  },
+  "641a236ffb9df609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias"
+  },
+  "97806f3bdeda760c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Estatutos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Estatutos)\n\n1 - O estatuto orgânico por que se regerá o INPCM deverá ser elaborado no prazo máximo de 120 dias após a entrada em vigor deste diploma, de acordo com as orientações contidas no mesmo.\n\n2 - As actuais administrações - Administração-Geral do Porto de Lisboa (AGPL), Administração dos Portos do Douro e Leixões (APDL) e Administração do Porto de Sines (APS) - submeterão à aprovação do Governo, no prazo máximo de 120 dias após a entrada em vigor do presente diploma, através do ministro da tutela, os seus projectos de estatutos orgânicos, elaborados em conformidade com o estabelecido nas Bases Gerais anexas a este diploma."
+  },
+  "cd04efda23fd6b52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Direcção-Geral de Portos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Direcção-Geral de Portos)\n\n1 - O diploma que aprovar o estatuto orgânico do INPCM definirá a data e as condições em que se processará a extinção da Direcção-Geral de Portos.\n\n2 - O pessoal ao serviço da Direcção-Geral de Portos deverá transitar para o INPCM nos termos que vierem a ser definidos no diploma de aprovação do seu estatuto orgânico, sem prejuízo de parte dele poder ser integrado nas administrações dos portos, desde que aceite pelas partes envolvidas."
+  },
+  "cfe761120adf8077": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Juntas autónomas dos portos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Juntas autónomas dos portos)\n\n1 - A passagem das actuais juntas autónomas dos portos, individualmente ou agrupadas, a administrações fica condicionada à viabilidade económica das respectivas explorações.\n\n2 - Para os efeitos do número anterior, deverão as juntas autónomas dos portos apresentar ao ministro da tutela, no prazo máximo de 180 dias após a entrada em vigor do presente diploma, estudos fundamentados que permitam avaliar a evolução dos respectivos resultados de exploração para um período de cinco anos.\n\n3 - O Governo, por proposta do ministro da tutela, decidirá da reformulação das juntas autónomas dos portos em administrações dos portos.\n\n4 - Enquanto não for concretizada a reformulação a que se refere o número anterior, as juntas autónomas dos portos manter-se-ão em actividade com o mesmo estatuto actual, sob a coordenação técnica e administrativa do INPCM nos termos que vierem a ser definidos no diploma de aprovação do estatuto orgânico deste Instituto."
+  },
+  "dd83b166ba1a1f73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Disposições revogadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Disposições revogadas)\n\nFica revogada a legislação em contrário, nomeadamente o Decreto com força de lei n.º 12757, de 2 de Dezembro de 1926, o [Decreto n.º 16728](https://diariodarepublica.pt/dr/detalhe/decreto/16728-1929-355755), de 13 de Abril de 1929, o [Decreto-Lei n.º 33922](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33922-1944-550996), de 5 de Setembro de 1944, a [Lei n.º 2035](https://diariodarepublica.pt/dr/detalhe/lei/2035-1949-260163), de 30 de Julho de 1949, e os artigos 5.º, n.º 4, alínea c), e 8.º, n.º 3, alínea c), do [Decreto-Lei n.º 322/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1984-400048), de 8 de Outubro.\n\nVisto e aprovado em Conselho de Ministros de 7 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins - Luís Fernando Mira Amaral - José António da Silveira Godinho - José Manuel Nunes Liberato.\n\nPromulgado em 11 de Setembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MARIO SOARES.\n\nReferendado em 12 de Setembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "446f4f6130ed0693": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — (Artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — (Artigo 15.º)\n\nBases Gerais das Estatutos Orgânicos das Administrações dos Portos"
+  },
+  "cac8ffaa8d4d6d33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Princípios gerais\n\nArtigo 1.º As administrações dos portos são institutos públicos dotados de personalidade jurídica e de autonomia administrativa, financeira e patrimonial.\n\nArt. 2.º As administrações dos portos regem-se pelas normas legais que lhes sejam aplicáveis em conformidade com o presente diploma e pelos respectivos estatutos e regulamentos.\n\nArt. 3.º Os estatutos das administração dos portos devem obrigatoriamente especificar:\n\na) Denominação;\n\nb) Objecto;\n\nc) Sede;\n\nd) Atribuições;\n\ne) Constituição, competência e funcionamento dos seus órgãos;\n\nf) Ministro da tutela;\n\ng) Normas relativas à intervenção do Governo;\n\nh) Regras sobre gestão financeira e patrimonial;\n\ni) Regras gerais relativas ao estatuto do pessoal."
+  },
+  "11fe217974d82575": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos\n\nArt. 4.º São órgãos obrigatórios das administrações dos portos o conselho de administração, a comissão de fiscalização e o conselho consultivo.\n\nArt. 5.º - 1 - O conselho de administração será composto por um presidente e por dois ou quatro vogais nomeados pelo Primeiro-Ministro, pelo Ministro das Finanças e pelo ministro da tutela.\n\n2 - Os membros do conselho de administração exercerão o mandato durante três anos renováveis.\n\n3 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo vogal que for designado pelo conselho.\n\nArt. 6.º - 1 - Compete ao conselho de administração assegurar a gestão do organismo portuário, mediante o exercício das competências necessárias ao regular funcionamento do porto nos seus múltiplos aspectos de ordem económica, financeira e patrimonial, de gestão de efectivos e de exploração portuária com eficácia e rentabilidade.\n\n2 - No âmbito do estabelecido no número anterior, compete, designadamente, ao conselho de administração, sem prejuízo dos poderes da tutela:\n\na) Elaborar os planos anuais e plurianuais de obras e equipamentos a submeter à aprovação do Governo;\n\nb) Construir, adquirir, conservar e fiscalizar as obras marítimas e terrestres e o equipamento flutuante e terrestre do porto, bem como conservar os fundos e seus acessos;\n\nc) Elaborar os regulamentos necessários à exploração do porto, designadamente o regulamento de tarifas, e submetê-los à aprovação do Governo quando tal for legalmente necessário;\n\nd) Elaborar e submeter à aprovação do Governo, nos prazos legais, o orçamento e suas alterações;\n\ne) Elaborar e submeter à aprovação do Governo o relatório de gerência relativo ao ano económico anterior;\n\nf) Definir para o organismo a sua estrutura e organização geral;\n\ng) Nomear e exonerar os responsáveis pelos serviços, bem como admitir, contratar e exonerar o pessoal necessário ao desempenho das tarefas a cargo e exercer o respectivo poder disciplinar, nos termos regulamentares aplicáveis;\n\nh) Deliberar sobre a realização de empréstimos ou outras operações financeiras;\n\ni) Autorizar a concessão de subsídios a organismos oficiais ou privados cujas actividades interessem directa ou indirectamente à acção do organismo portuário, bem como a obras de carácter social e cultural estabelecidas em favor do seu pessoal;\n\nj) Deliberar sobre a criação de zonas francas ou de armazéns gerais francos na área de jurisdição do respectivo porto e apresentar as respectivas propostas ao ministro da tutela;\n\nl) Efectuar os seguros pessoais, patrimoniais ou outros que se mostrem necessários;\n\nm) Aprovar a aquisição e a alienação de bens e de participações financeiras quando as mesmas não estejam previstas nos orçamentos anuais aprovados o dentro dos limites definidos pela lei;\n\nn) Conceder licenças para a utilização das margens do domínio público do Estado situadas dentro da sua área de jurisdição;\n\no) Propor ao ministro da tutela as medidas respeitantes à concessão de áreas da sua jurisdição, de serviços de exploração nas instalações portuárias e de exploração de instalações industriais ou comerciais;\n\np) Aprovar os regulamentos internos destinados à execução do respectivo estatuto e necessários ao bom funcionamento dos serviços e velar pelo seu cumprimento.\n\nArt. 7.º O conselho de administração poderá:\n\na) Delegar, sob proposta do seu presidente, a competência para a realização de quaisquer das suas atribuições em um ou mais dos seus vogais;\n\nb) Fazer-se representar por procurador em actos ou contratos em que o organismo deva ser parte.\n\nArt. 8.º Compete ao presidente do conselho de administração a coordenação e orientação geral das actividades do conselho e, em especial:\n\na) Convocar o conselho de administração, fixar a agenda de trabalhos e presidir às respectivas reuniões;\n\nb) Coordenar a acção de todos os serviços, providenciando para que seja obtida a conveniente unidade administrativa e a sua maior eficiência;\n\nc) Decidir sobre as matérias que, embora da competência do conselho de administração, não possam, pela sua urgência, aguardar a resolução do conselho, ao qual, todavia, devem ser presentes para ratificação na sua primeira reunião;\n\nd) Representar o organismo portuário em juízo e fora dele, designadamente junto do ministro da tutela, quando outros representantes ou mandatários não hajam sido designados.\n\nArt. 9.º Os estatutos das administrações dos portos estabelecerão a periodicidade das reuniões do conselho de administração, bem como as regras de convocação e funcionamento respectivas.\n\nArt. 10.º - 1 - Os membros do conselho de administração desempenharão os seus cargos em regime de tempo inteiro, sendo-lhes vedado o exercício de quaisquer outras funções remuneradas, nos termos da lei geral.\n\n2 - Exceptua-se do estabelecido no número anterior o exercício de missões de serviço público que, pela sua natureza, se considere conveniente serem cometidas a qualquer dos membros do conselho de administração.\n\n3 - Os membros do conselho de administração regem-se pelo Estatuto do Gestor Público.\n\nArt. 11.º - 1 - A comissão de fiscalização é composta por três membros, que escolherão o presidente.\n\n2 - Os membros da comissão de fiscalização serão nomeados por despacho conjunto do ministro da tutela e do Ministro das Finanças, sendo um deles indicado pelos trabalhadores.\n\n3 - Se os trabalhadores não indicarem o seu representante dentro do prazo de quinze dias a contar da solicitação formulado pelo ministro da tutela, a nomeação será feita nos termos estabelecidos para os restantes membros.\n\n4 - Um dos membros da comissão de fiscalização será obrigatoriamente revisor oficial de contas.\n\nArt. 12.º - 1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatuárias e regulamentares aplicáveis ao organismo portuário ou às actividades por ele exercidas.\n\n2 - Compete, em especial, à comissão de fiscalização:\n\na) Examinar periodicamente a contabilidade e seguir, através de informações solicitadas aos serviços, a sua evolução;\n\nb) Acompanhar a execução dos planos de actividade e financeiros plurianuais, dos programas anuais de actividade e dos orçamentos anuais;\n\nc) Determinar a execução de verificações e conferências para o apuramento da coincidência entre os valores contabilísticos e os patrimoniais, nestes se incluindo os recebidos em garantia, depósito ou outro título;\n\nd) Pronunciar-se sobre os critérios de avaliação de bens, de amortizações e reintegrações, da constituição de provisões, reservas e fundos e da determinação de resultados;\n\ne) Verificar a exactidão do balanço, da demonstração de resultados, da conta de exploração e dos restantes elementos a apresentar anualmente pelo conselho de administração e emitir parecer sobre os mesmos, bem como sobre o relatório anual do referido conselho;\n\nf) Levar ao conhecimento das entidades competentes as irregularidades que apurar na gestão;\n\ng) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de administração nos casos em que, nos temos da lei, seja exigida a sua aprovação ou concordância;\n\nh) Pronunciar-se sobre qualquer assunto que seja submetido à sua apreciação pelo conselho de administração.\n\n3 - Para o exercício da competência estabelecida neste artigo, a comissão de fiscalização, através do seu presidente pode:\n\na) Requerer ao conselho de administração informações e esclarecimentos sobre o curso das operações ou actividades;\n\nb) Propor ao conselho de administração auditorias externas sempre que entenda que os objectivos a alcançar não podem ser realizados pela autoditoria interna;\n\nc) Obter de terceiros que tenham realizado operações por conta do organismo as informações entendidas por convenientes para o esclarecimento dessas operações.\n\n4 - A actuação da comissão de fiscalização reger-se-á pelas normas que vierem a ser definidas por despacho conjunto do ministro da tutela e do Ministro das Finanças.\n\nArt. 13.º O presidente da comissão de fiscalização, a solicitação do presidente do conselho de administração, poderá assistir ou fazer-se representar por outro membro da comissão às reuniões do conselho de administração.\n\nArt. 14.º Os estatutos das administrações dos portos estabelecerão a periodicidade das reuniões da comissão de fiscalização, bem como as regras de convocação e funcionamento respectivas.\n\nArt. 15.º Ao presidente e aos membros da comissão do fiscalização será atribuída uma gratificação mensal a definir por despacho conjunto do ministro da tutela e do Ministro das Finanças.\n\nArt. 16.º - 1 - O conselho consultivo deverá ter a seguinte composição:\n\na) Presidente do conselho de administração respectivo;\n\nb) Um representante do Instituto Nacional de Portos e Costas Marítimas;\n\nc) Um representante do ministério de que depender a protecção do ambiente;\n\nd) Um representante da Direcção-Geral das Alfândegas;\n\ne) Os representantes de cada uma das capitanias dos portos da área de jurisdição do organismo portuário;\n\nf) Um representante da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos;\n\ng) Um representante da Direcção-Geral da Marinha de Comércio;\n\nh) Um representante da Direcção-Geral das Pescas;\n\ni) Um representante da Junta Autónoma de Estradas;\n\nj) Um representante da comissão de coordenação da região onde os postos se situem;\n\nl) Um representante do Instituto Nacional de Pilotagem de Portos;\n\nm) Um representante do Instituto do Trabalho Portuário;\n\nn) Um representante de cada uma das câmara municipais cujo concelho seja abrangido pela área de jurisdição;\n\no) Um representante dos Caminhos de Ferro Portugueses, E. P.;\n\np) Um representante da Associação Portuguesa dos Armadores da Marinha Mercante;\n\nq) Um representante dos agentes de navegação com actividade nos portos;\n\nr) Um representante dos operadores portuários com actividade nos portos;\n\ns) Um representante de cada uma das associações de comércio e indústria directamente ligadas à exploração do porto;\n\nt) Um representante da Associação de Agentes Transitários;\n\nu) Um representante de cada uma das organizações sindicais dos trabalhadores dos organismos portuários;\n\nv) Um representante de cada sindicato dos trabalhadores portuários;\n\nx) Um representante dos sindicatos dos pescadores locais;\n\nz) Um representante de cada uma das associações dos armadores de pesca locais.\n\n2 - Os membros do conselho consultivo serão designados pelas entidades que representarem, a solicitação do organismo portuário.\n\nArt. 17.º - 1 - Compete ao conselho consultivo:\n\na) Dar parecer sobre questões relativas ao porto que lhe sejam submetidas pelo Governo ou pelo conselho de administração;\n\nb) Apreciar as propostas, devidamente justificadas, que sejam apresentadas pelos seus membros sobre medidas que visem o desenvolvimento e valorização do porto, designadamente o melhor aproveitamento dos seus recursos.\n\n2 - As propostas a que se refere a alínea b) do número anterior serão enviadas ao presidente do conselho consultivo.\n\n3 - Caso o presidente não inclua as propostas apresentadas na agenda da primeira reunião a realizar posteriormente à sua apresentação, o proponente poderá recorrer dessa não inclusão para o próprio conselho consultivo.\n\nArt. 18.º - 1 - O conselho consultivo será presidido pelo presidente do conselho de administração, órgão que designará um funcionário para exercer as funções de secretário.\n\n2 - O conselho consultivo reunirá, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que for convocado pelo ministro da tutela ou pelo seu presidente, por sua iniciativa ou a requerimento da maioria dos vogais.\n\n3 - O conselho consultivo elaborará o respectivo regulamento interno, o qual deverá prever, nomeadamente, o seu funcionamento em plenário, por comissões ou por secções especializadas.\n\nArt. 19.º O exercício da função de vogal do conselho consultivo constitui encargo das entidades representadas."
+  },
+  "ba4d285cd30fe84b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Gestão financeira e patrimonial\n\nArt. 20.º - 1 - A gestão das administrações dos portos realizar-se-á por forma a assegurar a sua viabilidade económica e o seu equilíbrio financeiro, com respeito pelos seguintes condicionalismo:\n\na) Adaptação da oferta à procura em condições economicamente rentáveis, salvo quando sejam acordadas com o Estado especiais obrigações de interesse público;\n\nb) Estabelecimento de um tarifário que permita o equilíbrio da exploração a médio prazo;\n\nc) Obtenção de índices de produtividade concorrenciais.\n\n2 - O planeamento da gestão económica e financeira dos organismos portuários deverá ser elaborado em harmonia com os planos globais e sectoriais da actividade económica nacional e constará dos seguintes documentos:\n\na) Planos de actividade e financeiros plurianuais;\n\nb) Planos de actividade e orçamentos anuais, individualizando, pelo menos, os de exploração, investimento financeiro e cambial e suas actualizações;\n\nc) Relatórios de execução orçamental adaptados às características dos organismos portuários e às necessidades do seu acompanhamento por parte do Governo.\n\nArt. 21.º - 1 - Os planos de actividade plurianuais devem estabelecer a estratégia a seguir, sendo reformulados sempre que as circunstâncias o justificarem.\n\n2 - Os planos financeiros plurianuais incluirão o programa de investimentos e respectivas fontes de financiamento e, para um período bianual, a conta de exploração, o balanço, o plano financeiro e o balanço cambial previsionais, constituindo, em relação ao 1.º ano, uma síntese do orçamento anual, sendo apresentados nos prazos previstos no n.º 2 do artigo seguinte.\n\nArt. 22.º - 1 - As administrações dos portos prepararão para cada ano económico, os planos de actividade e os orçamentos anuais, os quais deverão ser completados com os desdobramentos necessários para permitir a descentralização de responsabilidades e o adequado controle de gestão.\n\n2 - Os projectos do plano de actividade e do orçamento anual a que se refere o n.º 1 serão elaborados com respeito pelos pressupostos macroeconómicos e demais directrizes globais definidas pelo Governo, sendo remetidos para aprovação até 30 de Novembro.\n\n3 - As administrações dos portos prepararão, até 30 de Setembro de cada ano, uma primeira versão dos elementos básicos dos seus orçamentos de exploração, de investimento, financeiro e cambial para o ano seguinte.\n\nArt. 23.º - 1 - A contabilidade deve corresponder às necessidades da gestão empresarial corrente e permitir um controle orçamental permanente, bem como a fácil verificação da correspondência entre os valores patrimoniais e contabilísticos.\n\n2 - A organização contabilística deve ser estabelecida em conformidade com o Plano Oficial de Contabilidade.\n\n3 - As administrações dos portos deverão implementar um sistema de contabilidade analítica que lhes permita o apuramento dos resultados por tipo de actividade.\n\nArt. 24.º - 1 - O património actual, as dotações e outras entradas patrimoniais, do Estado e entidades públicas, destinados a responder a necessidades permanentes das administrações dos portos, integrarão o seu fundo de constituição.\n\n2 - O fundo de constituição pode ser aumentado não só pelas entradas patrimoniais previstas no número anterior, mas também mediante incorporação de reservas.\n\n3 - O fundo de constituição rode ser aumentado ou reduzido por decisão do ministro da tutela e do Ministro das Finanças.\n\n4 - A avaliação do património actual dos organismos será feita de acordo com os critérios que venham a ser fixados despacho conjunto do ministro da tutela e do Ministro das Finanças.\n\nArt. 25.º Constituem receitas das administrações dos portos:\n\na) As importâncias resultantes de taxas devidas ao abrigo do regulamento de tarifas;\n\nb) Outras importâncias devidas por prestação directa de serviços;\n\nc) As importâncias devidas pela concessão de serviços, concessão ou licenciamento do uso de áreas da sua jurisdição, de edifícios, do aluguer de equipamentos, aparelhos e embarcações, não abrangidas pelo regulamento de tarifas;\n\nd) As importâncias das coimas aplicadas por infracção às disposições dos regulamentos portuários;\n\ne) As comparticipações, subsídios e donativos do Estado, de corpos administrativos ou de outras entidades públicas ou privadas;\n\nf) O produto de empréstimos ou de outras operações financeiras legalmente autorizados;\n\ng) Os juros de depósitos bancários;\n\nh) Quaisquer outras receitas provenientes da sua actividade ou que, por disposição legal ou regulamentar, lhes devam pertencer.\n\nArt. 26.º Constituem despesas das administrações dos portos:\n\na) Os encargos com o funcionamento e com o cumprimento das respectivas obrigações;\n\nb) Os custos de aquisição, manutenção e conservação de bens, equipamentos ou obtenção de serviços que tenham de utilizar;\n\nc) Quaisquer outras derivadas do exercício da sua actividade.\n\nArt. 27.º - 1 - A amortização e a reintegração dos bens, a reavaliação do activo imobilizado e a constituição de provisões serão efectuadas pelo conselho de administração, de acordo com critérios aprovados pelo ministro da tutela e pelo Ministro das Finanças, sem prejuízo da aplicabilidade do disposto na lei fiscal.\n\n2 - O valor anual das amortizações e reintegrações constitui encargo de exploração e será escriturado em conta especial\n\n3 - As administrações dos portos deverão proceder periodicamente a reavaliações do activo imobilizado, em ordem a obter uma mais exacta correspondência entre os valores patrimoniais e contabilísticos.\n\nArt. 28.º - 1 - As administrações dos portos constituirão as provisões, reservas e fundos que se mostrem necessários.\n\n2 - Deverão, especialmente, constituir-se reservas e fundos para investimentos e para auto-seguro.\n\nArt. 29.º - 1 - As administrações dos portos devem elaborar anualmente, com referência a 31 de Dezembro do ano anterior, os seguintes documentos de prestação de contas:\n\na) Balanço analítico;\n\nb) Demonstração dos resultados líquidos;\n\nc) Anexo ao balanço e à demonstração de resultados;\n\nd) Relatório do conselho de administração e proposta fundamentada de aplicação de resultados;\n\ne) Parecer da comissão de fiscalização.\n\n2 - O relatório do conselho de administração deve proporcionar uma compreensão clara da situação económica e financeira relativa ao exercício, analisando, em especial, a evolução da gestão nos diferentes sectores de actividade em que actuou, designadamente no que respeita a investimentos, custos, proveitos e condições de mercado, e referir o desenvolvimento previsível da mesma, bem como os factos relevantes ocorridos após o termo do exercício.\n\n3 - O parecer da comissão de fiscalização deve conter, com o devido desenvolvimento, a apreciação da gestão, bem como do relatório do conselho de administração, do exactidão das contas e da observância das normas legais e estatutárias.\n\n4 - Os documentos referidos no n.º 1 serão enviados até 31 de Março de cada ano ao ministro da tutela e à Inspecção-Geral de Finanças (IGF), a qual sobre os mesmos emitirá parecer, sob forma adequada às averiguações efectuadas, que substituirá a certificação prevista na legislação em vigor.\n\n5 - Até 30 de Junho seguinte, a IGF enviará o parecer emitido nos termos do número anterior ao Ministro das Finanças, que remeterá cópia do mesmo ao ministro da tutela, devendo os documentos de prestação de contas ser apreciados pelos mesmo até 31 de Julho.\n\n6 - A aprovação das contas e da aplicação dos resultados verifica-se, uma vez preenchidas as condições necessárias para o efeito, por despacho conjunto do ministro da tutela e do Ministro das Finanças, o qual deverá ser comunicado à IGF, que, por sua vez, informará o organismo portuário.\n\nArt. 30.º As contas das administrações dos portos não são submetidas a julgamento do Tribunal de Contas."
+  },
+  "42d8bd0c960de59e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Intervenção do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Intervenção do Governo\n\nArt. 31.º Sem prejuízo da autonomia conferida às administrações dos portos, cabe ao ministro da tutela definir o enquadramento geral no qual se desenvolverá a sua actividade, de modo a garantir a sua harmonização com as políticas global e sectorial e com o planeamento económico nacional.\n\nArt. 32.º No exercício da tutela, compete ao ministro responsável pelo sector portuário:\n\na) Aprovar os planos plurianuais de actividade e financeiros;\n\nb) Aprovar o plano anual de actividades;\n\nc) Aprovar os orçamentos anuais de investimento e exploração, bem como as respectivas actualizações, desde que, quanto ao orçamento de exploração, originem diminuição significativa dos resultados e, quanto ao orçamento de investimentos, sejam significativamente excedidos os valores atribuídos a cada grupo de projectos ou sector de actividade;\n\nd) Aprovar o relatório, balanço e contas, bem como a aplicação dos resultados de exercício, designadamente a constituição de reservas e fundos;\n\ne) Fixar, sob proposta do conselho de administração, o regime de taxas a cobrar pela exploração dos serviços;\n\nf) Aprovar, sob proposta do conselho de administração, a política geral de preços e taxas a praticar na exploração das actividades não incluídas na alínea anterior.\n\ng) Aprovar a contracção de empréstimos em moeda nacional, por prazo superior a sete anos, ou em moeda estrangeira, bem como a emissão de obrigações, estabelecendo as respectivas condições gerais;\n\nh) Aprovar a aquisição ou a alienação de partes do capital de sociedades;\n\ni) Aprovar os princípios a que deve obedecer a reavaliação do activo e os respectivos coeficientes, bem como os critérios de reintegração e amortização dos bens."
+  },
+  "dde62240fcbabd06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Do pessoal\n\nArt. 33.º O pessoal das administrações portuárias reger-se-á por um único regime jurídico de direito público privativo, adequado às necessidades e responsabilidades do serviço, a definir em diploma próprio."
+  },
+  "2df4698d27ef04f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais\n\nArt. 34.º As administrações dos portos são titulares dos direitos e obrigações atribuídos ao Estado nas disposições legais e regulamentares aplicáveis, designadamente quanto:\n\na) À cobrança coerciva de taxas, outros rendimentos do serviço e outros créditos;\n\nb) À isenção de impostos, contribuições e taxas;\n\nc) À isenção de custas e demais encargos em processos judiciais, administrativos e fiscais;\n\nd) À sua representação pelo Ministério Público em quaisquer tribunais, sem prejuízo de patrocínio por advogado constituído, sempre que o conselho de administração o entenda;\n\ne) À protecção das suas instalações e do seu pessoal;\n\nf) Ao uso público dos serviços, à sua fiscalização, à definição de infracções respectivas e à aplicação das consequentes penalidades;\n\ng) À responsabilidade civil extracontratual.\n\nArt. 35.º Para efeitos das suas relações comerciais com a banca, as administrações portuárias são livres na escolha das instituições de crédito.\n\nArt. 36.º O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela gestão de cada administração portuária, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.\n\nArt. 37.º - 1 - Salvo o disposto no número seguinte, compete aos tribunais judiciais o julgamento de todos os litígios em que seja parte uma administração portuária, incluindo as acções para efectivação da responsabilidade civil por actos dos seus órgãos, bem como a apreciação da responsabilidade civil dos titulares desses órgãos para com o respectivo organismo.\n\n2 - São da competência dos tribunais administrativos os julgamentos dos recursos dos actos definitivos e executórios dos órgãos da administração portuária sujeitos a um regime de direito público, bem como o julgamento das acções sobre validade, interpretação ou execução dos contratos administrativos por ele celebrados.\n\nO Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins."
+  },
+  "0fb467b555a365b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Administrações dos portos)",
+   "in_force_from": "1998-12-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 337/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1998-223019), publicado em 1998-11-03."
+   ],
+   "markdown": "###### Artigo 14.º — (Administrações dos portos)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 337/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1998-223019), publicado em 1998-11-03."
+  }
+ }
+}

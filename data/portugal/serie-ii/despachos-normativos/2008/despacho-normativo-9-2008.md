@@ -23,6 +23,16 @@ publication:
   pages: 5584 - 5585
   pdf_url: https://files.diariodarepublica.pt/2s/2008/02/031000000/0558405585.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da sua assinatura e aplica-se aos eventos em relação aos quais não foi ainda emitida
+    a respectiva decisão final
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

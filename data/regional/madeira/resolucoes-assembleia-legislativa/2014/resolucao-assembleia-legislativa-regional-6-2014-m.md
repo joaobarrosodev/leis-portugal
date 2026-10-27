@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3585 - 3587
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/12400/0358503587.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-07-01'
+entry_into_force:
+  date: '2014-07-01'
+  rule: após a publicação do Orçamento do Estado posterior à publicação deste diploma
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 16-(2) a 16-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/06901/0000200012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-08'
+entry_into_force:
+  date: '2022-04-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2022-02-28'
+  effects_rule: a 28 de fevereiro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

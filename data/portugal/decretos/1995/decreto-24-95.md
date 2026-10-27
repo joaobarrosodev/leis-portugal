@@ -24,6 +24,15 @@ publication:
   pages: 4531 - 4541
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/162a00/45314541.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da recepção pelo Director-Geral do 25.º instrumento de adesão
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

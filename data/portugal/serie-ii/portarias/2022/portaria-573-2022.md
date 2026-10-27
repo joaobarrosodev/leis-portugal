@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 49 - 50
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/129000000/0004900050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-06'
+entry_into_force:
+  date: '2022-07-06'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

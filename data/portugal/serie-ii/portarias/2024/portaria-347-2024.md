@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/041000000/0009400095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:888686988:por#n-5'
+    detail: 5 - Determinar que a presente portaria revoga a [Portaria n.º 347/2024], de 27 de fevereiro.
 notes: []
 language: por
 version:

@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 4488-(2) a 4488-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17201/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-07'
+entry_into_force:
+  date: '2018-09-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

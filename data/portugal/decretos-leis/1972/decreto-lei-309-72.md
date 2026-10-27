@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1081 - 1081
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19100/10811081.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-09-01'
+entry_into_force:
+  date: '1972-09-01'
+  rule: a partir do dia 1 do mês seguinte ao da sua publicação no Diário do Governo
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

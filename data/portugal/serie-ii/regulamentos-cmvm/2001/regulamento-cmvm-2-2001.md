@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 7287 - 7287
   pdf_url: https://files.diariodarepublica.pt/2s/2001/04/097000000/0728707287.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-04-26'
+entry_into_force:
+  date: '2001-04-26'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1855525:por#art-101'
+    detail: h) [Regulamento da CMVM n.º 2/2001], de 26 de Abril
 notes: []
 language: por
 version:

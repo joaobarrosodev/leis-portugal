@@ -24,6 +24,15 @@ publication:
   pages: 6692-(4) a 6692-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/228b02/00040005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 0 horas do dia 30 de Setembro de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

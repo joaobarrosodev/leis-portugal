@@ -23,6 +23,15 @@ publication:
   pages: 1862 - 1863
   pdf_url: https://files.diariodarepublica.pt/2s/2005/02/027000000/0186201863.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo de 2005-2006
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

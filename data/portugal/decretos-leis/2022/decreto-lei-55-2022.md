@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 117 - 122
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/15800/0011700122.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-18'
+entry_into_force:
+  date: '2022-08-18'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 168-(3) a 168-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/16801/0000300009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-02'
+entry_into_force:
+  date: '2020-09-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

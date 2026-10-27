@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1514 - 1519
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09200/15141519.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-05-01'
+entry_into_force:
+  date: '1988-05-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação e é aplicável às situações de doença iniciadas a partir da data
+    da sua vigência
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

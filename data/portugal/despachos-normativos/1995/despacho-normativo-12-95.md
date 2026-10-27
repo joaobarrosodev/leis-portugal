@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1283 - 1292
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/058b00/12831292.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-03-10'
+entry_into_force:
+  date: '1995-03-10'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-69
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

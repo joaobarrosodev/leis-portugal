@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7711 - 7713
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/77117713.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-12-05'
+entry_into_force:
+  date: '1999-12-05'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

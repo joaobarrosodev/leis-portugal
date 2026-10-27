@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4207 - 4207
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/193b00/42074207.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-08-23'
+entry_into_force:
+  date: '1998-08-23'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 258 - 265
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/015a00/02580265.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-01-23'
+entry_into_force:
+  date: '2001-01-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: no ano lectivo de 2001-2002 no que respeita a todos os anos de escolaridade dos 1.º e 2.º ciclos do ensino
+    básico
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

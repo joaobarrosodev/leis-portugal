@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 235 - 236
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00700/0023500236.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-11'
+entry_into_force:
+  date: '2008-01-11'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: desde a data da entrada em vigor do Decreto-Lei n.º 341/2007, de 12 de Outubro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

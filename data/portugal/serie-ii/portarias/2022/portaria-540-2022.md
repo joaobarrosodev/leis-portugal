@@ -24,9 +24,25 @@ publication:
   supplement: null
   pages: 56 - 56
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/118000000/0005600056.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-22'
+entry_into_force:
+  date: '2022-06-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:206037655:por#art-5'
+    detail: É revogada a [Portaria n.º 540/2022], de 21 de junho.
 notes: []
 language: por
 version:

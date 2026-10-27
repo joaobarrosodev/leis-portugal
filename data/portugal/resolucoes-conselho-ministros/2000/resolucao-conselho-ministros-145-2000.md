@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6023 - 6049
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/249b00/60236049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-10-27'
+entry_into_force:
+  date: '2000-10-27'
+  rule: no dia da sua publicação no Diário da República, adquirindo plena eficácia a partir dessa data
+  method: clausula
+  article: art-89
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,7 +25,19 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/01/20/904270839.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-21'
+entry_into_force:
+  date: '2025-01-21'
+  rule: no dia seguinte ao da sua publicação, com exceção da revogação do n.º 3 do artigo 20.º e da alteração introduzida
+    ao n.º 8 do artigo 22.º da Portaria n.º 45/2015, de 15 de abril, que
+  method: clausula
+  article: art-4
+  effects_date: '2025-01-21'
+  effects_rule: no dia seguinte ao da sua publicação, com exceção da revogação do n.º 3 do artigo 20.º e da alteração introduzida
+    ao n.º 8 do artigo 22.º da Portaria n.º 45/2015, de 15 de abril, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

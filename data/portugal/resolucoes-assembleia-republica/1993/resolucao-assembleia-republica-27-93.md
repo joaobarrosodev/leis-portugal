@@ -23,6 +23,15 @@ publication:
   pages: 4433 - 4447
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/195a00/44334447.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data e nas condições previstas no Protocolo Que Adapta o Acordo sobre o Espaço Económico Europeu
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

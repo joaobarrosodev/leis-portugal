@@ -24,6 +24,16 @@ publication:
   pages: 5824 - 5830
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/291a00/58245830.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para todos os Estados que a ela venham a aderir, no primeiro dia do terceiro mês seguinte ao do depósito do respectivo
+    instrumento de adesão
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

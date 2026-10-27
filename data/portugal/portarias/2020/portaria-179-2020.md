@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 15 - 18
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/14900/0001500018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-04'
+entry_into_force:
+  date: '2020-08-04'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: de 1 de janeiro a 31 de dezembro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

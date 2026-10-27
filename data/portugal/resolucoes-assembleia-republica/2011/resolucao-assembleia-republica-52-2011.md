@@ -25,6 +25,16 @@ publication:
   pages: 1559 - 1575
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05600/0155901575.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à data da notificação pela última Parte da conclusão das formalidades necessárias para
+    o efeito
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

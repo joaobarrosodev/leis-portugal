@@ -24,6 +24,16 @@ publication:
   pages: 2130 - 2135
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07400/0213002135.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta (30) dias após a data da última Nota Verbal pela qual as Partes se notificam mutuamente de que foram cumpridos
+    os procedimentos jurídicos internos necessários para a entrada em vigor do Acordo
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,16 +22,40 @@ publication:
   supplement: null
   pages: 3139 - 3146
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23900/31393146.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-10-21'
+entry_into_force:
+  date: '1986-10-21'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-12-03'
+version_history:
+  file: decreto-lei-348-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-10-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-12-03'
+    amending: pt:dre:223019:por
+    amending_title: Decreto-Lei n.º 337/98
+    changes:
+    - Revoga Artigo 14.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:15:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 337/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1986/decreto-lei-348-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -321,7 +346,9 @@ c) Por dotações eventualmente atribuídas pelo Orçamento do Estado.
 
 ###### Artigo 14.º — (Administrações dos portos)
 
-Os portos de comércio e os de pesca de maior importância serão geridos por institutos públicos denominados «administrações dos portos», organismos dotados de personalidade jurídica e de autonomia administrativa, financeira e patrimonial.
+(Revogado.)
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 337/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1998-223019), publicado em 1998-11-03.
 
 ###### Artigo 15.º — (Atribuições das administrações dos portos)
 

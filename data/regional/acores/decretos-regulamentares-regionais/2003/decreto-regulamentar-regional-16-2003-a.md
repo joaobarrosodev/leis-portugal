@@ -24,6 +24,15 @@ publication:
   pages: 2134 - 2140
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/077b00/21342140.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte à sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

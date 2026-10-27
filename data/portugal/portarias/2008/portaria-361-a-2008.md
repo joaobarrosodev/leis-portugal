@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 2614-(2) a 2614-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/09101/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-05-17'
+entry_into_force:
+  date: '2008-05-17'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2008-05-13'
+  effects_rule: no dia imediato ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

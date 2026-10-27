@@ -23,6 +23,15 @@ publication:
   pages: 1187 - 1189
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11800/11871189.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após o cumprimento das formalidades constitucionais próprias a cada Parte
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

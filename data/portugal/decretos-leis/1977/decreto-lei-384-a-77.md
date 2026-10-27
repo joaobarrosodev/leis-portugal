@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2232-(1) a 2232-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21101/00010002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-01-01'
+entry_into_force:
+  date: '1978-01-01'
+  rule: em 1 de Janeiro de 1978
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 2342 - 2405
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/120a00/23422405.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 180 dias após a data de depósito dos instrumentos de ratificação por todos os Estados mencionados no anexo n.º 2 ao
+    presente Tratado, mas nunca antes de dois anos após a sua abertura para assinatura
+  method: clausula
+  article: art-xiv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

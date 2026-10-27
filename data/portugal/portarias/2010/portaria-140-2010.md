@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 620 - 625
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/04500/0062000625.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-03-06'
+entry_into_force:
+  date: '2010-03-06'
+  rule: no dia seguinte ao da sua publicação ficando revogados, nos termos das alíneas ee) e ll) do artigo 23.º e do n.º 2
+    do artigo 24.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, os Decretos-Leis n.os 45
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 4440-(195) a 4440-(201)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30002/01950201.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na última das datas em que as Partes Contratantes se tenham mutuamente notificado, por nota diplomática, de que obtiveram
+    a aprovação interna exigida para que o presente Acordo entre em vigor
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

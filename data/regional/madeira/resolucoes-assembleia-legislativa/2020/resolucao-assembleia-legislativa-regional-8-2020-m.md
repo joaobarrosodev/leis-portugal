@@ -24,6 +24,15 @@ publication:
   pages: 7 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2020/02/03700/0000700008.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a aprovação do Orçamento do Estado para 2020
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

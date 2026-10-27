@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1129 - 1138
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10200/11291138.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-05-19'
+entry_into_force:
+  date: '1982-05-19'
+  rule: 15 dias após a sua publicação, com excepção de nova redacção dada ao artigo 17.º do Regulamento do Código da Estrada
+    que
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

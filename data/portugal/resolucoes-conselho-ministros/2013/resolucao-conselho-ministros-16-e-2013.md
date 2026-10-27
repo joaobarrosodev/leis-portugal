@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1844-(23) a 1844-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/05801/0002300027.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-03-23'
+entry_into_force:
+  date: '2013-03-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

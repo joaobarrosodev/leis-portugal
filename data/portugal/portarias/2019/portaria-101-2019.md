@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1898 - 1898
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/06900/0189801898.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-09'
+entry_into_force:
+  date: '2019-04-09'
+  rule: no dia seguinte ao da respetiva publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2019-01-01'
+  effects_rule: a 1 de janeiro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

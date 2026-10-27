@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2 - 7
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16500/0000200007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-08-30'
+entry_into_force:
+  date: '2019-08-30'
+  rule: no dia seguinte à data da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: 'desde o início do período de implementação dos projetos a que respeita até ao final do período da sua avaliação
+    pelo Governo, a qual deve ocorrer no prazo máximo de seis meses após o termo do período '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

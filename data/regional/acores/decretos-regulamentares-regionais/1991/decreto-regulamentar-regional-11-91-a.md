@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1971 - 1977
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/084b00/19711977.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-04-12'
+entry_into_force:
+  date: '1991-04-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: no que se refere às remunerações nele estabelecidas, desde 1 de Outubro de 1989
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

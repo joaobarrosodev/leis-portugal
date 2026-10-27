@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 452 - 453
   pdf_url: https://files.diariodarepublica.pt/1s/1970/04/08300/04520453.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1970-05-01'
+entry_into_force:
+  date: '1970-05-01'
+  rule: no dia 1 de Maio de 1970
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

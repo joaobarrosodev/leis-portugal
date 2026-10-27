@@ -23,6 +23,16 @@ publication:
   pages: 4347 - 4403
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13300/0434704403.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do início de vigência do regime do contrato de trabalho em funções públicas, aprovado nos termos do artigo
+    87.º da Lei n.º 12-A/2008, de 27 de Fevereiro
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

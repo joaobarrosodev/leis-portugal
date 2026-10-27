@@ -23,6 +23,15 @@ publication:
   pages: 39-(8) a 39-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03002/0000800009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 15 de fevereiro de 2021
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

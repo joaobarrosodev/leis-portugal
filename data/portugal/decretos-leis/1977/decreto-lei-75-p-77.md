@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 318-(34) a 318-(38)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00340038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-03-01'
+entry_into_force:
+  date: '1977-03-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

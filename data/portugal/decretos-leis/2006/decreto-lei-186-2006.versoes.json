@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:540026:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-09-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "afd61efef3e94b07",
+    "398c3eebd017922e",
+    "5f3d048135b1667d",
+    "6f4bb35a8dd84f72",
+    "003e99a54af39631",
+    "1dfa0be3e890bf6e",
+    "685db19c387c0f9a",
+    "bdb5f64613409639",
+    "5fc336ef6357baea",
+    "e847e63f73816dff",
+    "59921cd2950c030e",
+    "f522dcdb46a29876",
+    "3e881d858e820d63"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164404:por",
+     "title": "Lei n.º 83-C/2013",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/lei/83-c-2013-164404"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "afd61efef3e94b07",
+    "398c3eebd017922e",
+    "5f3d048135b1667d",
+    "6f4bb35a8dd84f72",
+    "003e99a54af39631",
+    "1dfa0be3e890bf6e",
+    "685db19c387c0f9a",
+    "bdb5f64613409639",
+    "c1cc895b0808e150",
+    "e847e63f73816dff",
+    "59921cd2950c030e",
+    "f522dcdb46a29876",
+    "3e881d858e820d63"
+   ]
+  }
+ ],
+ "fragments": {
+  "afd61efef3e94b07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Setembro\n\nDe acordo com os princípios constantes do Programa do XVII Governo Constitucional em matéria de política de saúde e no âmbito das medidas em curso estruturantes da intervenção do Estado, designadamente no que se refere à prossecução das políticas sociais e ao necessário rigor da realização da despesa pública, o presente decreto-lei procede à definição do quadro normativo da atribuição de apoios financeiros pelo Estado no domínio da saúde.\n\nO sistema de apoios ora instituído tem como principal objectivo centrar nas prioridades definidas pelas políticas de saúde e, em especial, no Plano Nacional de Saúde, o financiamento concedido pelos diversos serviços e organismos públicos do sector da saúde e garantir uma maior eficácia dos apoios atribuídos, favorecendo a emergência de novos pólos de inovação e complementaridade, tendo como finalidade aumentar os ganhos em saúde da população.\n\nNeste sentido, são estabelecidos os princípios norteadores da atribuição de apoios financeiros, designadamente no que respeita à definição das áreas prioritárias de intervenção, à determinação dos montantes disponíveis e sua adequação às medidas definidas pela política de saúde, bem como aos procedimentos de selecção dos beneficiários, à duração do financiamento, que pode revestir carácter plurianual, e aos mecanismos de controlo e acompanhamento da execução dos projectos, que devem ser considerados instrumentos fundamentais de garantia da eficácia da aplicação dos recursos públicos e cujo resultado deve constituir elemento de ponderação na atribuição de futuros apoios.\n\nPor outro lado, circunscrevem-se estes apoios financeiros a entidades privadas sem fins lucrativos, em função da prossecução de objectivos de utilidade pública no domínio da saúde, devendo ser fomentada a respectiva capacidade de angariar outras fontes de financiamento, sejam elas públicas ou privadas.\n\nDe acordo com os mesmos princípios, a atribuição dos apoios pauta-se por regras de transparência e de rigor, pelo que os mesmos projectos não podem ser objecto de financiamento concomitante de mais de um serviço ou organismo do Ministério da Saúde ou do Serviço Nacional de Saúde.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "398c3eebd017922e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime de atribuição de apoios financeiros pelo Estado, através dos serviços e organismos centrais do Ministério da Saúde e das administrações regionais de saúde, a pessoas colectivas privadas sem fins lucrativos."
+  },
+  "5f3d048135b1667d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\n1 - Os apoios financeiros previstos no presente decreto-lei visam promover o desenvolvimento de acções e projectos nos domínios da promoção da saúde, da prevenção e tratamento da doença, da reabilitação, da redução de danos e da reinserção, incluindo acções de formação e aquisições de bens e serviços necessários à respectiva execução.\n\n2 - Os apoios tem como objectivos, designadamente:\n\na) Obter ganhos em saúde, aumentando o nível de saúde da população;\n\nb) Contribuir para a plena execução das orientações e estratégias do Plano Nacional de Saúde;\n\nc) Promover a saúde das populações, em particular de grupos específicos e dos grupos mais vulneráveis;\n\nd) Desenvolver a dimensão social das intervenções no domínio da saúde, através da participação directa de entidades privadas sem fins lucrativos;\n\ne) Fomentar e disciplinar as parcerias com outras entidades públicas, designadamente autarquias locais e instituições de ensino;\n\nf) Fomentar a participação de entidades privadas e o apoio mecenático no âmbito da execução da política de saúde."
+  },
+  "6f4bb35a8dd84f72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Programas de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Programas de apoio financeiro\n\n1 - Para efeitos do presente decreto-lei, são considerados os seguintes programas de apoio, no quadro dos objectivos estabelecidos no artigo anterior:\n\na) Programas de apoio a projectos plurianuais, assentes em planos plurianuais, numa estratégia de médio ou longo prazo;\n\nb) Programas de apoio a acções e projectos pontuais, com duração não superior a um ano.\n\n2 - Os regulamentos dos programas de apoio a que se refere o número anterior são aprovados por portaria do ministro responsável pela área da saúde, sob proposta do órgão dirigente máximo do serviço ou organismo competente em razão da matéria.\n\n3 - Os regulamentos previstos no número anterior devem estabelecer:\n\na) Os prazos de apresentação de candidaturas, bem como os procedimentos da sua apreciação e selecção, devendo ser garantida a sua publicitação, bem como a transparência e o rigor dos métodos de avaliação, classificação e selecção;\n\nb) As características essenciais dos contratos a celebrar, incluindo as obrigações de prestação de informação;\n\nc) Os mecanismos de fiscalização, pelas entidades competentes para atribuição dos apoios, do cumprimento das obrigações assumidas pelos beneficiários.\n\n4 - Os apoios previstos no presente decreto-lei têm a natureza de apoio financeiro não reembolsável."
+  },
+  "003e99a54af39631": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\n1 - A atribuição dos apoios financeiros formaliza-se através da celebração de um contrato, na sequência de um procedimento de apreciação e selecção de candidaturas.\n\n2 - O contrato referido no número anterior é celebrado entre a entidade beneficiária do apoio e o serviço ou organismo competente para a respectiva atribuição e pelo pagamento, dele devendo constar, obrigatoriamente, os direitos e obrigações das partes, bem como a previsão expressa de mecanismos eficazes de avaliação e acompanhamento permanente da respectiva execução, nos termos dos regulamentos previstos no n.º 2 do artigo 3.º\n\n3 - Só podem candidatar-se entidades cuja situação perante a segurança social e a administração fiscal esteja regularizada e obedeçam às condições estabelecidas nos regulamentos.\n\n4 - A decisão final relativa à atribuição dos apoios compete ao órgão dirigente máximo do serviço ou organismo competente.\n\n5 - No caso de apoios atribuídos por organismos tutelados pelo Ministro da Saúde, da decisão final não cabe recurso tutelar."
+  },
+  "1dfa0be3e890bf6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Vigência do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Vigência do contrato\n\n1 - No caso de programas de apoio a projectos plurianuais, o prazo máximo de vigência do contrato é de quatro anos.\n\n2 - No caso de programas de apoio a acções e projectos pontuais, o prazo máximo de vigência do contrato é de um ano.\n\n3 - O contrato pode ser rescindido a todo o tempo com fundamento na falta de cumprimento, pela entidade beneficiária do apoio, das respectivas obrigações, ou na verificação superveniente da não prossecução dos objectivos que presidiram à atribuição do apoio financeiro.\n\n4 - Sem prejuízo da responsabilidade civil, criminal e disciplinar, quando aplicável, a rescisão do contrato por incumprimento da entidade beneficiária implica a reposição das quantias recebidas e a impossibilidade de beneficiar de qualquer apoio financeiro do Estado nos três anos seguintes.\n\n5 - A cobrança coerciva das importâncias referidas no número anterior faz-se através de processo de execução fiscal."
+  },
+  "685db19c387c0f9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cumulação de apoios\n\n1 - Os projectos não podem beneficiar de apoios cumulativos de organismos do Ministério da Saúde para as mesmas actividades.\n\n2 - As entidades beneficiárias de apoio plurianual não podem beneficiar de apoio a projectos pontuais.\n\n3 - Exceptuam-se do disposto no número anterior os casos devidamente fundamentados de acções não abrangidas pelo apoio plurianual.\n\n4 - À violação do disposto nos números anteriores aplica-se o estabelecido nos n.os 4 e 5 do artigo anterior."
+  },
+  "bdb5f64613409639": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Obrigações especiais das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações especiais das entidades beneficiárias\n\nSem prejuízo das obrigações constantes dos contratos, bem como das que sejam estabelecidas nos regulamentos previstos no presente decreto-lei, as entidades beneficiárias dos apoios ficam obrigadas a:\n\na) Fornecer aos serviços ou organismos competentes todas as informações que lhes sejam solicitadas relativas à utilização dos apoios atribuídos;\n\nb) Respeitar os requisitos e condições que determinaram a atribuição do apoio financeiro;\n\nc) Comprovar o cumprimento das obrigações contratuais, designadamente através da apresentação de relatórios de execução técnica e financeira e relatórios de actividades."
+  },
+  "5fc336ef6357baea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Encargos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Encargos financeiros\n\n1 - Os apoios financeiros previstos no presente decreto-lei constituem encargo de cada organismo competente em razão da matéria, designadamente o Instituto Português do Sangue, o Instituto da Droga e da Toxicodependência e as administrações regionais de saúde.\n\n2 - No caso dos apoios atribuídos pelo Alto Comissariado da Saúde e pela Direcção-Geral da Saúde, compete ao Instituto de Gestão Informática e Financeira da Saúde assegurar o respectivo pagamento, sendo os correspondentes encargos inscritos no orçamento do Serviço Nacional de Saúde.\n\n3 - Os encargos com apoios financeiros que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento dos orçamentos dos organismos referidos no n.º 1 e, nos casos previstos no número anterior, no orçamento do Serviço Nacional de Saúde."
+  },
+  "e847e63f73816dff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Montante dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Montante dos apoios\n\nO montante financeiro disponível para cada programa de apoio é anualmente fixado, por área de intervenção e âmbito territorial, nacional ou regional, por despacho conjunto do ministro responsável pela área das finanças e do ministro responsável pela área da saúde, sob proposta do alto-comissário da Saúde, ouvidos os dirigentes máximos dos serviços e organismos competentes em razão da matéria."
+  },
+  "59921cd2950c030e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Base de dados\n\n1 - A monitorização e controlo, a nível central, da informação relativa aos apoios financeiros concedidos ao abrigo do presente decreto-lei, designadamente para efeitos da verificação do disposto no artigo 6.º, compete ao Alto Comissariado da Saúde.\n\n2 - Para efeitos do disposto no número anterior, é criada uma base de dados central informatizada na qual os serviços e organismos que procedam à atribuição dos apoios devem introduzir os elementos que sejam estabelecidos pelo Alto Comissariado da Saúde."
+  },
+  "f522dcdb46a29876": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regiões Autónomas\n\nO regime do presente decreto-lei não é aplicável no território das Regiões Autónomas."
+  },
+  "3e881d858e820d63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogada a [Portaria n.º 698/97](https://diariodarepublica.pt/dr/detalhe/portaria/698-1997-195215), de 19 de Agosto.\n\nVisto e aprovado em Conselho de Ministros de 27 de Julho de 2006. - António Luís Santos Costa - João José Amaral Tomaz - António Fernando Correia de Campos.\n\nPromulgado em 30 de Agosto de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 1 de Setembro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "c1cc895b0808e150": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Encargos financeiros",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 165.º do/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31."
+   ],
+   "markdown": "###### Artigo 8.º — Encargos financeiros\n\n1 - Os apoios financeiros previstos no presente decreto-lei constituem encargo de cada organismo competente em razão da matéria, designadamente o Instituto Português do Sangue, o Instituto da Droga e da Toxicodependência e as administrações regionais de saúde.\n\n2 - No caso dos apoios atribuídos pela Direção-Geral da Saúde compete a esta assegurar o respetivo pagamento, sendo os correspondentes encargos inscritos no seu orçamento, assim como os protocolos existentes, cuja responsabilidade financeira é transferida para aquela entidade.\n\n3 - Os encargos com apoios financeiros que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento dos orçamentos dos organismos referidos nos números anteriores.\n\n> Alterado pelo/a Artigo 165.º do/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31."
+  }
+ }
+}

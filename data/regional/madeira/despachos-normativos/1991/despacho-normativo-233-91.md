@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5424 - 5424
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/240b00/54245424.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-10-19'
+entry_into_force:
+  date: '1991-10-19'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

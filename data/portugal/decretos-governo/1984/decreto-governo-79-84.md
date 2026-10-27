@@ -24,6 +24,15 @@ publication:
   pages: 3663 - 3665
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/27800/36633665.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após a notificação recíproca de que foram cumpridas as formalidades exigidas pelas respectivas constituições
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 882-(1) a 882-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1971-07-01'
+entry_into_force:
+  date: '1971-07-01'
+  rule: no dia 1 de Julho de 1971, com excepção do artigo V, que
+  method: clausula
+  article: art-viii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até à entrada em execução dos Actos do próximo Congresso
 end_of_validity_date: null
 legal_status: in_force
 notes: []

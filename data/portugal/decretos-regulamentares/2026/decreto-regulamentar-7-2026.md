@@ -23,6 +23,15 @@ publication:
   pages: 22 - 33
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14200/0002200033.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação e aplica-se a partir da avaliação do desempenho do ano de 2026
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

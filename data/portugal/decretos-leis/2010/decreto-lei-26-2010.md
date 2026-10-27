@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 985 - 1025
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/06200/0098501025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-06-28'
+entry_into_force:
+  date: '2010-06-28'
+  rule: 90 dias após a sua publicação, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

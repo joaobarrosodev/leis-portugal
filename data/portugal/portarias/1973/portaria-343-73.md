@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 837 - 837
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/11500/08370837.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-08-14'
+entry_into_force:
+  date: '1973-08-14'
+  rule: noventa dias depois da publicação no Diário do Governo
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

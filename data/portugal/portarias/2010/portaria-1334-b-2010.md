@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6122-(326) a 6122-(327)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25302/0032600327.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-01-05'
+entry_into_force:
+  date: '2011-01-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2011-01-01'
+  effects_rule: a partir do 1.º dia do mês seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

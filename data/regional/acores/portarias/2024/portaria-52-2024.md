@@ -23,6 +23,15 @@ publication:
   pages: 2026-2081
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/07/26/873653071.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aplicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

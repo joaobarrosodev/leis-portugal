@@ -23,6 +23,15 @@ publication:
   pages: 1197 - 1208
   pdf_url: https://files.diariodarepublica.pt/1s/1971/08/19700/11971208.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: noventa dias depois de publicado no Diário do Governo
+  method: clausula
+  article: art-83
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

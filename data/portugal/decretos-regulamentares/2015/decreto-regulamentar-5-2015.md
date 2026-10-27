@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4912 - 4914
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13900/0491204914.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-01'
+entry_into_force:
+  date: '2015-08-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

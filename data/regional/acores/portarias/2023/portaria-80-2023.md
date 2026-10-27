@@ -27,7 +27,17 @@ publication:
   supplement: null
   pages: 3464-3510
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/09/18/221741572.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-19'
+entry_into_force:
+  date: '2023-09-19'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: '2023-01-01'
+  effects_rule: a 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

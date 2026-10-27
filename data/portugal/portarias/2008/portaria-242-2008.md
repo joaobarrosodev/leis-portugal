@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1604 - 1604
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/05500/0160401604.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-19'
+entry_into_force:
+  date: '2008-03-19'
+  rule: no dia seguinte ao da sua publicação, sendo apenas aplicável a processos apresentados na APA em data posterior à da
+    entrada em vigor da mesma
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

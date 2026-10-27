@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/11900/0000300008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-23'
+entry_into_force:
+  date: '2022-06-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2022-01-22'
+  effects_rule: a 22 de janeiro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

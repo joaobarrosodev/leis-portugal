@@ -24,6 +24,15 @@ publication:
   pages: 1732 - 1735
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06000/17321735.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte à data da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

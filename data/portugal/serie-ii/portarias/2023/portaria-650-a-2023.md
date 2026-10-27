@@ -26,7 +26,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/215000002/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:808130630:por#n-5'
+    detail: 5 - É revogada a [Portaria n.º 650-A/2023], de 7 de novembro.
 notes: []
 language: por
 version:

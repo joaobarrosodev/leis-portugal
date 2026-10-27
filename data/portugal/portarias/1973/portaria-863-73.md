@@ -24,6 +24,15 @@ publication:
   pages: 2369 - 2370
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/28600/23692370.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao decurso do prazo de trinta dias após a data da sua publicação
+  method: clausula
+  article: n-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

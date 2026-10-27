@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1974 - 1988
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/06300/0197401988.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-05-30'
+entry_into_force:
+  date: '2009-05-30'
+  rule: no prazo de 60 dias a contar da sua publicação, com excepção do artigo 55.º, que
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

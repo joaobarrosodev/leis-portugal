@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1624 - 1625
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/09000/0162401625.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-11'
+entry_into_force:
+  date: '2010-05-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data de 1 de Maio
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

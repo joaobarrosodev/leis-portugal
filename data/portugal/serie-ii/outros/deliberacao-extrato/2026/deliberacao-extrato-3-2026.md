@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 90 - 94
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/001000000/0009000094.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-01-03'
+entry_into_force:
+  date: '2026-01-03'
+  rule: no dia seguinte ao da publicação no Diário da República da deliberação que o aprove, sendo também publicitado na página
+    da Internet do Conselho Superior da Magistratura
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

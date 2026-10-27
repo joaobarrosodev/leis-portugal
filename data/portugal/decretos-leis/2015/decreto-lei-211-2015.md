@@ -24,6 +24,15 @@ publication:
   pages: 8504 - 8513
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/19000/0850408513.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil subsequente ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

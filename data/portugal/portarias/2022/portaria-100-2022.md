@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 2
   pdf_url: https://files.diariodarepublica.pt/1s/2022/02/03700/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-02-23'
+entry_into_force:
+  date: '2022-02-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto Regulamentar n.º 1/2022, de 10 de janeiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

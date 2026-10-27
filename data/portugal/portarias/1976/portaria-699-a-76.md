@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2620-(3) a 2620-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/27402/00030004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-11-22'
+entry_into_force:
+  date: '1976-11-22'
+  rule: no dia 22 de Novembro de 1976
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 1300 - 1301
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09300/13001301.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-06-18'
+entry_into_force:
+  date: '1984-06-18'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

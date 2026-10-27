@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3403 - 3405
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11100/0340303405.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-06-12'
+entry_into_force:
+  date: '2008-06-12'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

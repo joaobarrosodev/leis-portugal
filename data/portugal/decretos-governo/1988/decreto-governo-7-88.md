@@ -24,6 +24,15 @@ publication:
   pages: 1717 - 1733
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09900/17171733.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 3 meses depois do depósito do quinto desses instrumentos
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

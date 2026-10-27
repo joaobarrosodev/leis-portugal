@@ -23,6 +23,15 @@ publication:
   pages: 1364-(1) a 1364-(48)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13201/00010048.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do início da vigência da Lei n.º 8-A/80, de 26 de Maio
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

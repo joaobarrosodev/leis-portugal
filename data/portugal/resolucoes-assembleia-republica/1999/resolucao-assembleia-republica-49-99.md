@@ -24,6 +24,16 @@ publication:
   pages: 4019 - 4020
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/150a00/40194020.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que cada uma das Partes contratantes tiver notificado a outra de que foram cumpridas as respectivas disposições
+    constitucionais relativas à conclusão e entrada em vigor de acordos internacionais
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

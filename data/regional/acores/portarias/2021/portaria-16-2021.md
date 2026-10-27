@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 520-522
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/03/04/158814697.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-05'
+entry_into_force:
+  date: '2021-03-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: '2021-02-24'
+  effects_rule: a partir de 24 de fevereiro de 2021, com exceção do disposto no n.º 4 do artigo 5.º, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

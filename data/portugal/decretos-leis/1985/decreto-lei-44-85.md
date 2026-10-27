@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 352-(2) a 352-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/03801/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-02-15'
+entry_into_force:
+  date: '1985-02-15'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 42 - 44
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20300/0004200044.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-20'
+entry_into_force:
+  date: '2021-10-20'
+  rule: no dia seguinte ao da sua publicação, sendo apenas aplicável a procedimentos iniciados em data posterior à da sua
+    entrada em vigor
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

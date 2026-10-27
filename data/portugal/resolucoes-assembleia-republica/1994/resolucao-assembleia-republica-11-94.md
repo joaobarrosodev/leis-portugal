@@ -23,6 +23,16 @@ publication:
   pages: 1090 - 1092
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/055a00/10901092.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao termo de um prazo de três meses a partir da data em que 10 Estados membros do Conselho
+    da Europa tenham expresso o seu consentimento em estarem vinculados pelo presente P
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

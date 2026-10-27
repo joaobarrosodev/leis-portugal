@@ -1,0 +1,173 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:407941:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3f750b1481f5e6ba"
+   ]
+  },
+  {
+   "date": "1976-01-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:506831:por",
+     "title": "Decreto-Lei n.º 69/76",
+     "published": "1976-01-26",
+     "dre_path": "/dr/detalhe/decreto-lei/69-1976-506831"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "b8f2860b37d39d7b",
+    "584c90703685ae1a",
+    "e8cd72d47bc84d76",
+    "b85f2d5682834627",
+    "c79df4984ae32046",
+    "e16e58489e2c629d",
+    "f44240319eb39791",
+    "99532b0b8620d2f0",
+    "d468ee399bee387e",
+    "d5dab810197156f4",
+    "f4c4dc2838e9c19c",
+    "b0eb2a019b0e1fc6",
+    "9180e5ee1b18e43a",
+    "e4c2cfceb9f00b5b"
+   ]
+  }
+ ],
+ "fragments": {
+  "3f750b1481f5e6ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. Os soldos a abonar mensalmente aos oficiais dos quadros permanentes dos três ramos das forças armadas serão os seguintes:\n\nExército\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nArmada\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nForça Aérea\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n2. Os soldos constantes das tabelas do número anterior são acrescidos das importâncias adiante indicadas para os seguintes oficiais:\n\na) Oficiais com o curso complementar de estado-maior: 800$00 nos postos de coronel e de tenente-coronel, 700$00 no posto de major e 600$00 no posto de capitão;\n\nb) Oficiais do Exército com o curso geral de estado-maior, oficiais engenheiros das armas de engenharia e de transmissões, oficiais de artilharia (cursos até 1947), oficiais da Armada das classes de engenheiros construtores navais e de engenheiros de material naval e oficiais engenheiros da Força Aérea e pilotos aviadores com o curso geral de estado-maior: 300$00, até aos postos de coronel ou capitão-de-mar-e-guerra, inclusive.\n\n3. Aos sargentos dos quadros permanentes dos três ramos das forças armadas serão abonados os seguintes ordenados mensais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n4. Às praças da Armada serão abonados os seguintes prés mensais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n5. A tabela constante do n.º 1 do artigo 6.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302), alterada pelo artigo 3.º do [Decreto-Lei n.º 298/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1972-605811), de 14 de Agosto, é substituída pela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nO somatório dos quantitativos mensais dos aumentos de pré e dos prés das praças readmitidas será arredondado para a centena de escudos superior.\n\n6. As remunerações constantes dos n.os 1 e 2 do artigo 2.º e do artigo 4.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302) são substituídas, respectivamente, pelas de 4600$00,\n\n3400$00 e 3400$00.\n\nArt. 2.º - 1. Os oficiais dos quadros permanentes com mais de oito anos de serviço efectivo a contar da sua promoção a alferes ou guarda-marinha terão direito ao abono de diuturnidades.\n\n2. A importância das diuturnidades será fixada por despacho conjunto dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica, com a concordância do Ministro das Finanças.\n\n3. O abono de que trata o n.º 1 do presente artigo é efectuado de acordo com o regime estabelecido para o soldo e é contado para o cálculo das pensões de reserva e de reforma.\n\nArt. 3.º - 1. Por despacho do Ministro da Defesa Nacional, sob propostas dos Ministros do Exército e da Marinha e do Secretário de Estado da Aeronáutica, e com a concordância do Ministro das Finanças, serão revistas as tabelas das gratificações a abonar ao pessoal militar.\n\n2. As gratificações deverão ser fixadas segundo o grau de responsabilidade ou risco, por acumulação de funções em casos especiais e por existência de especialidade de interesse para o serviço.\n\nArt. 4.º - 1. Os sargentos e categorias equiparadas de militares dos quadros permanentes do Exército, da Armada e da Força Aérea, na situação de activo, e as praças dos quadros permanentes do Exército, da Armada e da Força Aérea, na mesma situação, têm direito ao abono de diuturnidades até ao máximo de quatro.\n\n2. A importância e os períodos das diuturnidades serão fixados por despacho conjunto dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica, com a concordância do Ministro das Finanças.\n\nArt. 5.º - 1. A contagem do tempo de serviço para atribuição da 1.ª diuturnidade é feita a partir do ingresso no quadro permanente.\n\n2. A contagem do tempo de serviço para atribuição da 2.ª diuturnidade e seguintes é feita a partir do dia em que foi adquirido o direito à diuturnidade imediatamente anterior.\n\n3. Nas contagens a que se referem os números anteriores não se considera:\n\na) O tempo em que o sargento estiver fora do serviço por doença com o mesmo não relacionada, depois da sua nomeação para os cursos de acesso ao oficialato;\n\nb) Qualquer ano perdido pelo sargento na frequência dos cursos de acesso ao oficialato;\n\nc) O tempo de permanência em classe de comportamento inferior à 2.ª classe.\n\nArt. 6.º - 1. Ao serem promovidos a oficiais, os militares referidos no artigo 4.º deste diploma terão direito ao vencimento correspondente ao posto a que ascendem, acrescido da quantia necessária para perfazer a importância que antes venciam, quando superior, e mais o equivalente a uma diuturnidade de valor igual ao das que vinham percebendo.\n\n2. O disposto no número anterior aplica-se na promoção a alferes ou subtenente e a tenente ou segundo-tenente, não podendo, no entanto, o vencimento resultante exceder o limite de 95% do vencimento correspondente ao posto de capitão ou primeiro-tenente.\n\nArt. 7.º - 1. As diuturnidades de que trata o artigo 4.º deste diploma são contadas para o cálculo das pensões de reserva e de reforma.\n\n2. Na actualização das pensões dos militares na situação de reserva na efectividade de serviço apenas serão consideradas as diuturnidades a que hajam adquirido direito até à data da sua passagem à situação de reserva.\n\nArt. 8.º (transitório). À data da entrada em vigor do presente diploma são atribuídas aos militares abrangidos pelo disposto no artigo 4.º uma ou duas diuturnidades, conforme tenham completado cinco ou dez anos, respectivamente, de serviço efectivo, nos termos do artigo 5.º\n\nArt. 9.º (transitório) - 1. É mantido o regime fixado pelo Decreto-Lei n.º 398/72, de 14 de Agosto, para:\n\na) Os sargentos-ajudantes e primeiros-sargentos que, naquele regime, hajam adquirido direito a duas diuturnidades até à data da entrada em vigor do presente diploma;\n\nb) Os militares a que se refere a alínea c) do artigo 8.º do [Decreto-Lei n.º 298/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1972-605811) que, no prazo de cento e oitenta dias após a publicação deste diploma, declarem optar pela sua continuação naquele regime.\n\n2. O aumento de pré estabelecido no artigo 4.º do [Decreto-Lei n.º 298/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1972-605811) deixa de ser concedido após a entrada em vigor do presente diploma, sendo mantido apenas para as praças dos quadros permanentes da Armada que naquela data dele estejam a ser abonadas se e enquanto não for por elas adquirido o direito ao abono da 1.ª diuturnidade.\n\nArt. 10.º - 1. O disposto neste diploma aplica-se igualmente aos militares abrangidos pelo regime de vencimentos estabelecido pelo [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963.\n\n2. Em conformidade com o disposto no número anterior, os quantitativos dos vencimentos base e das readmissões a abonar ao pessoal nele referido passam a ser os constantes dos n.os 1 a 6 do artigo 1.º do presente diploma, salvo quanto às praças do quadro permanente, cujo vencimento complementar se encontra integrado no vencimento base para as quais este é reajustado em conformidade com o que decorre deste diploma.\n\nArt. 11.º As dúvidas que se suscitem na execução deste diploma serão resolvidas por despacho conjunto do Ministro da Defesa Nacional e do titular do departamento respectivo.\n\nArt. 12.º As disposições do presente diploma entram em vigor em 1 de Janeiro de 1974.\n\nArt. 13.º Os encargos resultantes deste diploma são suportados pelas dotações orçamentais respectivas, que para o efeito serão consideradas dotações globais. Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 31 de Dezembro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "b8f2860b37d39d7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "584c90703685ae1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os soldos a abonar mensalmente aos oficiais dos quadros permanentes dos três ramos das forças armadas serão os seguintes:\n\nExército\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nArmada\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nForça Aérea\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n2. Os soldos constantes das tabelas do número anterior são acrescidos das importâncias adiante indicadas para os seguintes oficiais:\n\na) Oficiais com o curso complementar de estado-maior: 800$00 nos postos de coronel e de tenente-coronel, 700$00 no posto de major e 600$00 no posto de capitão;\n\nb) Oficiais do Exército com o curso geral de estado-maior, oficiais engenheiros das armas de engenharia e de transmissões, oficiais de artilharia (cursos até 1947), oficiais da Armada das classes de engenheiros construtores navais e de engenheiros de material naval e oficiais engenheiros da Força Aérea e pilotos aviadores com o curso geral de estado-maior: 300$00, até aos postos de coronel ou capitão-de-mar-e-guerra, inclusive.\n\n3. Aos sargentos dos quadros permanentes dos três ramos das forças armadas serão abonados os seguintes ordenados mensais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n4. Às praças da Armada serão abonados os seguintes prés mensais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n5. A tabela constante do n.º 1 do artigo 6.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302), alterada pelo artigo 3.º do [Decreto-Lei n.º 298/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1972-605811), de 14 de Agosto, é substituída pela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nO somatório dos quantitativos mensais dos aumentos de pré e dos prés das praças readmitidas será arredondado para a centena de escudos superior.\n\n6. As remunerações constantes dos n.os 1 e 2 do artigo 2.º e do artigo 4.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302) são substituídas, respectivamente, pelas de 4600$00,\n\n3400$00 e 3400$00."
+  },
+  "e8cd72d47bc84d76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os oficiais dos quadros permanentes com mais de oito anos de serviço efectivo a contar da sua promoção a alferes ou guarda-marinha terão direito ao abono de diuturnidades.\n\n2. A importância das diuturnidades será fixada por despacho conjunto dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica, com a concordância do Ministro das Finanças.\n\n3. O abono de que trata o n.º 1 do presente artigo é efectuado de acordo com o regime estabelecido para o soldo e é contado para o cálculo das pensões de reserva e de reforma."
+  },
+  "b85f2d5682834627": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Por despacho do Ministro da Defesa Nacional, sob propostas dos Ministros do Exército e da Marinha e do Secretário de Estado da Aeronáutica, e com a concordância do Ministro das Finanças, serão revistas as tabelas das gratificações a abonar ao pessoal militar.\n\n2. As gratificações deverão ser fixadas segundo o grau de responsabilidade ou risco, por acumulação de funções em casos especiais e por existência de especialidade de interesse para o serviço."
+  },
+  "c79df4984ae32046": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os sargentos e categorias equiparadas de militares dos quadros permanentes do Exército, da Armada e da Força Aérea, na situação de activo, e as praças dos quadros permanentes do Exército, da Armada e da Força Aérea, na mesma situação, têm direito ao abono de diuturnidades até ao máximo de quatro.\n\n2. A importância e os períodos das diuturnidades serão fixados por despacho conjunto dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica, com a concordância do Ministro das Finanças."
+  },
+  "e16e58489e2c629d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A contagem do tempo de serviço para atribuição da 1.ª diuturnidade é feita a partir do ingresso no quadro permanente.\n\n2. A contagem do tempo de serviço para atribuição da 2.ª diuturnidade e seguintes é feita a partir do dia em que foi adquirido o direito à diuturnidade imediatamente anterior.\n\n3. Nas contagens a que se referem os números anteriores não se considera:\n\na) O tempo em que o sargento estiver fora do serviço por doença com o mesmo não relacionada, depois da sua nomeação para os cursos de acesso ao oficialato;\n\nb) Qualquer ano perdido pelo sargento na frequência dos cursos de acesso ao oficialato;\n\nc) O tempo de permanência em classe de comportamento inferior à 2.ª classe."
+  },
+  "f44240319eb39791": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1976-01-26",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 69/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1976-506831), publicado em 1976-01-26."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 69/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1976-506831), publicado em 1976-01-26."
+  },
+  "99532b0b8620d2f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. As diuturnidades de que trata o artigo 4.º deste diploma são contadas para o cálculo das pensões de reserva e de reforma.\n\n2. Na actualização das pensões dos militares na situação de reserva na efectividade de serviço apenas serão consideradas as diuturnidades a que hajam adquirido direito até à data da sua passagem à situação de reserva."
+  },
+  "d468ee399bee387e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — transitório\n\nÀ data da entrada em vigor do presente diploma são atribuídas aos militares abrangidos pelo disposto no artigo 4.º uma ou duas diuturnidades, conforme tenham completado cinco ou dez anos, respectivamente, de serviço efectivo, nos termos do artigo 5.º"
+  },
+  "d5dab810197156f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — transitório\n\n1. É mantido o regime fixado pelo Decreto-Lei n.º 398/72, de 14 de Agosto, para:\n\na) Os sargentos-ajudantes e primeiros-sargentos que, naquele regime, hajam adquirido direito a duas diuturnidades até à data da entrada em vigor do presente diploma;\n\nb) Os militares a que se refere a alínea c) do artigo 8.º do [Decreto-Lei n.º 298/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1972-605811) que, no prazo de cento e oitenta dias após a publicação deste diploma, declarem optar pela sua continuação naquele regime.\n\n2. O aumento de pré estabelecido no artigo 4.º do [Decreto-Lei n.º 298/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1972-605811) deixa de ser concedido após a entrada em vigor do presente diploma, sendo mantido apenas para as praças dos quadros permanentes da Armada que naquela data dele estejam a ser abonadas se e enquanto não for por elas adquirido o direito ao abono da 1.ª diuturnidade."
+  },
+  "f4c4dc2838e9c19c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O disposto neste diploma aplica-se igualmente aos militares abrangidos pelo regime de vencimentos estabelecido pelo [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963.\n\n2. Em conformidade com o disposto no número anterior, os quantitativos dos vencimentos base e das readmissões a abonar ao pessoal nele referido passam a ser os constantes dos n.os 1 a 6 do artigo 1.º do presente diploma, salvo quanto às praças do quadro permanente, cujo vencimento complementar se encontra integrado no vencimento base para as quais este é reajustado em conformidade com o que decorre deste diploma."
+  },
+  "b0eb2a019b0e1fc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs dúvidas que se suscitem na execução deste diploma serão resolvidas por despacho conjunto do Ministro da Defesa Nacional e do titular do departamento respectivo."
+  },
+  "9180e5ee1b18e43a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs disposições do presente diploma entram em vigor em 1 de Janeiro de 1974."
+  },
+  "e4c2cfceb9f00b5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs encargos resultantes deste diploma são suportados pelas dotações orçamentais respectivas, que para o efeito serão consideradas dotações globais. Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 31 de Dezembro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

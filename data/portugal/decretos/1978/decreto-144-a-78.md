@@ -24,6 +24,16 @@ publication:
   pages: 2542-(5) a 2542-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: assim que o Depositário tenha recebido os instrumentos de ratificação, de aceitação, de aprovação ou de adesão de,
+    pelo menos, 6 Estados da categoria I, 6 Estados da categoria II e 24 Estados da categ
+  method: clausula
+  article: art-13-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5984-(2) a 5984-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/25001/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-12-29'
+entry_into_force:
+  date: '2018-12-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2019-01-01'
+  effects_rule: a partir de 1 de janeiro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

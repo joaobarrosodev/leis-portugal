@@ -24,6 +24,16 @@ publication:
   pages: 1207 - 1218
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/20100/12071218.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos que sejam cento e oitenta dias contados da data da sua publicação no Diário do Governo e só será aplicável
+    aos fornecimentos postos a concurso posteriormente a essa data
+  method: clausula
+  article: art-89
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: 2º Suplemento
   pages: 5684-(1266) a 5684-(1267)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21502/0126601267.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-11-07'
+entry_into_force:
+  date: '2014-11-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

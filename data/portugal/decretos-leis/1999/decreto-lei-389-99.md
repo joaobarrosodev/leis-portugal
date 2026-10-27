@@ -23,6 +23,15 @@ publication:
   pages: 6694 - 6698
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/229a00/66946698.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a data da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

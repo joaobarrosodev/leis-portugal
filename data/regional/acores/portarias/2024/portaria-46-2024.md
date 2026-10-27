@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1453-1456
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/07/05/871105219.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-07-06'
+entry_into_force:
+  date: '2024-07-06'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-11
+  effects_date: '2024-07-08'
+  effects_rule: a 8 de julho de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

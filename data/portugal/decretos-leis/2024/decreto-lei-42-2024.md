@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/12600/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-09-01'
+entry_into_force:
+  date: '2024-09-01'
+  rule: a 1 de setembro de 2024
+  method: clausula
+  article: art-4-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

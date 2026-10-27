@@ -25,6 +25,16 @@ publication:
   pages: 7 - 38
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21400/0000700038.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da receção pela Agência NCI da notificação da República Portuguesa confirmando a conclusão dos procedimentos
+    internos necessários para o efeito
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

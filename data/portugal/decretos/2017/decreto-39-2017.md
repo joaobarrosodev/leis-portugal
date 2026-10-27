@@ -25,6 +25,15 @@ publication:
   pages: 6064 - 6080
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data de depósito, por todas as Partes, dos seus instrumentos de ratificação, aceitação ou aprovação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

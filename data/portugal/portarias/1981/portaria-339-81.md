@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 938 - 943
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-04-16'
+entry_into_force:
+  date: '1981-04-16'
+  rule: em 16 de Abril de 1981
+  method: clausula
+  article: n-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

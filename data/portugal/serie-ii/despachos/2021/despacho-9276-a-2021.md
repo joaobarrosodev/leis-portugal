@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/183000002/0000200029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1155188919:por#art-4'
+    detail: g) O [Despacho n.º 9276-A/2021], publicado no Diário da República, 2.ª série, n.º 183, 2.º suplemento, de 20 de
+      setembro de 2021
 notes: []
 language: por
 version:

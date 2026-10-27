@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5730 - 5733
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/198a00/57305733.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-09-01'
+entry_into_force:
+  date: '1999-09-01'
+  rule: no dia 1 do mês seguinte ao da respectiva publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

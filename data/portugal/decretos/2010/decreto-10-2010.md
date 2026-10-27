@@ -24,6 +24,16 @@ publication:
   pages: 1981 - 1990
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11200/0198101990.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de recepção da última notificação por escrito e por via diplomática de que foram cumpridos todos
+    os procedimentos legais internos de ambas as Partes necessários para o efeito
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

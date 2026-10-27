@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 5717 - 5719
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21700/0571705719.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-11-11'
+entry_into_force:
+  date: '2014-11-11'
+  rule: no dia seguinte ao da sua publicação, com exceção do artigo 7.º do Decreto-Lei n.º 109/2013, de 1 de agosto, com a
+    redação dada pelo presente diploma, que
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto-Lei n.º 109/2013, de 1 de agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5075 - 5084
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/219a00/50755084.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-09-18'
+entry_into_force:
+  date: '1993-09-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

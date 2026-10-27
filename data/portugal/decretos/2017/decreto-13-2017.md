@@ -24,6 +24,16 @@ publication:
   pages: 1883 - 1915
   pdf_url: https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no nonagésimo dia após a data de depósito do décimo sexto instrumento de ratificação, aceitação, aprovação ou adesão
+    junto do Depositário
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

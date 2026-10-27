@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 956-(35) a 956-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/10203/00350053.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-04-30'
+entry_into_force:
+  date: '1976-04-30'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-158
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

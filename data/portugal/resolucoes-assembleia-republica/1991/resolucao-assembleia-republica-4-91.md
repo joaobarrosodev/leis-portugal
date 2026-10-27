@@ -24,6 +24,16 @@ publication:
   pages: 278 - 278
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/015a00/02780278.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca de notas confirmando a sua aprovação em conformidade com os requisitos constitucionais de ambos os
+    países
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

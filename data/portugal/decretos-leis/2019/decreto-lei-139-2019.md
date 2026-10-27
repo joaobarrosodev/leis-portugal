@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 11 - 29
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17700/0001100029.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-12-01'
+entry_into_force:
+  date: '2019-12-01'
+  rule: no 1.º dia do 3.º mês seguinte ao da sua publicação
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

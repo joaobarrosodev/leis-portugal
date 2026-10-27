@@ -23,6 +23,15 @@ publication:
   pages: 2 - 29
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/064a00/0000200029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 5 de abril de 2021
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

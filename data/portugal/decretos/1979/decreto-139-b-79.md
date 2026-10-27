@@ -23,6 +23,16 @@ publication:
   pages: 3334-(68) a 3334-(76)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00680076.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que os dois governos se tiverem notificado de que foram cumpridas as formalidades constitucionais requeridas
+    para a conclusão e entrada em vigor dos acordos internacionais e, em qualquer cas
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

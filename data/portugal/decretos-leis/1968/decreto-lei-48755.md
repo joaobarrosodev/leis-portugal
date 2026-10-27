@@ -25,6 +25,15 @@ publication:
   pages: 1826 - 1827
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/29100/18261827.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês seguinte àquele em que se completarem sessenta dias após a sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

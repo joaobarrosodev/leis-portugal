@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4947 - 4947
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/213b00/49474947.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-09-16'
+entry_into_force:
+  date: '1997-09-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

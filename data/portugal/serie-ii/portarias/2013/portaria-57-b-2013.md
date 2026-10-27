@@ -24,6 +24,15 @@ publication:
   pages: 5396-(2) a 5396-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2013/02/023000001/0000200002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da respetiva assinatura
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4744 - 4744
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27700/47444744.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-01-29'
+entry_into_force:
+  date: '1989-01-29'
+  rule: 60 dias após a sua publicação, à excepção do dever de preenchimento do n.º 6 do mapa anexo, o qual apenas se tornará
+    efectivo três anos após a data de publicação deste diploma para os municípios class
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

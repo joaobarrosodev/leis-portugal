@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 20557 - 20560
   pdf_url: https://files.diariodarepublica.pt/2s/2002/12/291000000/2055720560.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-12-18'
+entry_into_force:
+  date: '2002-12-18'
+  rule: 'no dia seguinte à sua publicação no Diário da República, devendo as entidades gestoras dar cumprimento às disposições
+    relativas à definição, implementação e controlo das políticas de investimento dos '
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

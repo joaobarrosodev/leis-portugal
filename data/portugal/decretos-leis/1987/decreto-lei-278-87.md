@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2639 - 2646
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15300/26392646.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-08-06'
+entry_into_force:
+  date: '1987-08-06'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4 - 12
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/23100/0000400012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da receção da última notificação entre as Partes, por escrito e por via diplomática, de que foram cumpridos
+    os requisitos de direito interno das Partes necessários para o efeito
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

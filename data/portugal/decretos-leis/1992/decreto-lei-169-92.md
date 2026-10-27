@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3765 - 3766
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/182a00/37653766.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-11-20'
+entry_into_force:
+  date: '1992-11-20'
+  rule: em 20 de Novembro de 1992
+  method: clausula
+  article: art-21-a
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

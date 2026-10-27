@@ -26,6 +26,15 @@ publication:
   pages: 6063 - 6079
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/223a00/60636079.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: antes de a Convenção sobre a Responsabilidade, 1992, ter entrado em vigor
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

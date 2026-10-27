@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3570 - 3570
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/27300/35703570.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-11-29'
+entry_into_force:
+  date: '1984-11-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir do dia imediato ao da cessação do regime de instalação fixado pelo artigo 7.º do Decreto-Lei n.º
+    254/82, de 29 de Junho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

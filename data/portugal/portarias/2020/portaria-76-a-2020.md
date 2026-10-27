@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 13-(2) a 13-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05501/0000200011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-19'
+entry_into_force:
+  date: '2020-03-19'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2020-03-19'
+  effects_rule: desde o dia 19 de março de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

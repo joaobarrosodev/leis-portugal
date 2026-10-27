@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6213 - 6213
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/233b00/62136213.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-10-21'
+entry_into_force:
+  date: '1995-10-21'
+  rule: a partir de 21 de Outubro de 1995
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

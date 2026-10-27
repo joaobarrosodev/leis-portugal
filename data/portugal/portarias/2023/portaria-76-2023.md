@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 4 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05000/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-11'
+entry_into_force:
+  date: '2023-03-11'
+  rule: no dia seguinte ao da sua publicação e aplica-se a todos os pedidos de pagamento relativos a candidaturas submetidas
+    desde 1 de janeiro de 2022, ainda que respeitantes a anúncios já encerrados
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

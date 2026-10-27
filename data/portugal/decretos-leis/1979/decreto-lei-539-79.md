@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3478-(272) a 3478-(279)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30011/02720279.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-01-02'
+entry_into_force:
+  date: '1980-01-02'
+  rule: em 2 de Janeiro de 1980
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 50 - 50
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/003b00/00500050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-10-16'
+entry_into_force:
+  date: '2001-10-16'
+  rule: a partir do dia 16 de Outubro de 2001
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

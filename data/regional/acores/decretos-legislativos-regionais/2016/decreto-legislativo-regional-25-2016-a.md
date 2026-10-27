@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4100 - 4119
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22400/0410004119.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-22'
+entry_into_force:
+  date: '2016-12-22'
+  rule: trinta dias após a respetiva publicação
+  method: clausula
+  article: art-159
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

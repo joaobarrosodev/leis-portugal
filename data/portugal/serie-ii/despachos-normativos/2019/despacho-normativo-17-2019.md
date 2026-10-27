@@ -23,6 +23,15 @@ publication:
   pages: 17963 - 17973
   pdf_url: https://files.diariodarepublica.pt/2s/2019/06/116000000/1796317973.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-64
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 101 - 116
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/19000/0010100116.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-05'
+entry_into_force:
+  date: '2022-12-05'
+  rule: no dia 5 de dezembro de 2022
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

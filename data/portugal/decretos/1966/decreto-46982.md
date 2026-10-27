@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 649 - 705
   pdf_url: https://files.diariodarepublica.pt/1s/1966/04/09901/06490705.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-08-01'
+entry_into_force:
+  date: '1966-08-01'
+  rule: no dia 1 de Agosto de 1966
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

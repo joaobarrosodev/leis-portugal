@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4819 - 4825
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15500/0481904825.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-14'
+entry_into_force:
+  date: '2013-08-14'
+  rule: no dia seguinte ao da sua publicação e aplica-se aos concursos abertos no âmbito do regime de apoio comunitário à
+    promoção de vinhos em mercados de países terceiros para o período 2014-2018
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

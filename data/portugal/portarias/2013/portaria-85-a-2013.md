@@ -24,6 +24,15 @@ publication:
   pages: 1146-(2) a 1146-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/04101/0000200002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação, reportando os seus efeitos ao dia 1 de janeiro de 2013
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

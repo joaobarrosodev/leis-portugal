@@ -24,6 +24,15 @@ publication:
   pages: 1318 - 1323
   pdf_url: https://files.diariodarepublica.pt/1s/1960/06/13000/13181323.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: doze meses depois de as ratificações por dois Estados membros terem sido registadas pelo director-geral
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

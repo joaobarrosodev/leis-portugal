@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1523 - 1528
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/26000/15231528.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-10-01'
+entry_into_force:
+  date: '1969-10-01'
+  rule: a 1 de Outubro de 1969 entre os Governos que o tenham assinado e, nos casos em que os seus processos constitucionais
+    o exijam, que o tenham ratificado, aceitado ou aprovado, se figurarem entre aqueles
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

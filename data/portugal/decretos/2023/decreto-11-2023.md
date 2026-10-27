@@ -24,6 +24,16 @@ publication:
   pages: 2 - 29
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no primeiro dia do segundo mês após a data de recebimento da última notificação escrita pela qual as Partes se notificaram,
+    por via diplomática, de que os requisitos legais nacionais necessários para '
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3485 - 3487
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/167b00/34853487.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-07-26'
+entry_into_force:
+  date: '2000-07-26'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2000-08-01'
+  effects_rule: a partir do dia 1 do mês seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

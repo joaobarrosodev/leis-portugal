@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/04/09300/04600460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:173160:por#art-31'
+    detail: Ficam revogados o [Decreto n.º 41806], de 8 de Agosto de 1958, o [Decreto n.º 46323], de 3 de Maio de 1965, e
+      a [Portaria n.º 17136], de 24 de Abril de 1959.
 notes: []
 language: por
 version:

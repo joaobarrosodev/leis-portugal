@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3373 - 3378
   pdf_url: https://files.diariodarepublica.pt/1s/2006/05/093b00/33733378.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-05-16'
+entry_into_force:
+  date: '2006-05-16'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

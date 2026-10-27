@@ -24,6 +24,15 @@ publication:
   pages: 9819 - 9820
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/24900/0981909820.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

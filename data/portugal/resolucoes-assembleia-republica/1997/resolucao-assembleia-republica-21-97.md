@@ -25,6 +25,16 @@ publication:
   pages: 2042 - 2053
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/102a00/20422053.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao termo do prazo de um ano a contar da data em que todas as Partes na Convenção tenham
+    expresso o seu consentimento em ficarem vinculadas pelo Protocolo, em conformidade co
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

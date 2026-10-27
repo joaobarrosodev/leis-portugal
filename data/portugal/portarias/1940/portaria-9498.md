@@ -24,7 +24,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1940/04/07800/04570457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:611689:por#art-13'
+    detail: b) [Portaria n.º 9498], de 4 de Abril de 1940.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:611689:por'
+    detail: Revogada pelo(a) Decreto-Lei n.º 44/89 - Diário da República n.º 31/1989, Série I de 1989-02-06
 notes: []
 language: por
 version:

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2369 - 2374
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/116b00/23692374.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-06-01'
+entry_into_force:
+  date: '1992-06-01'
+  rule: a partir do dia 1 do mês seguinte ao da publicação do presente diploma e são aplicáveis aos acordos celebrados ou
+    a celebrar entre os centros regionais e as instituições
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 229 - 252
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/002000000/0022900252.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-02'
+entry_into_force:
+  date: '2010-01-02'
+  rule: no dia 2 de Janeiro de 2010
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

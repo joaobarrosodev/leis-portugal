@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1278 - 1278
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/12600/12781278.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-07-30'
+entry_into_force:
+  date: '1977-07-30'
+  rule: no sexagésimo dia posterior ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

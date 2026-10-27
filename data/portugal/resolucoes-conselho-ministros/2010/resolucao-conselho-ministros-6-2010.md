@@ -25,6 +25,15 @@ publication:
   pages: 248 - 249
   pdf_url: https://files.diariodarepublica.pt/1s/2010/01/01800/0024800249.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da sua aprovação
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

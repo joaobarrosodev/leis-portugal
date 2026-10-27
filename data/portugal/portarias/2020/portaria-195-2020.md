@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 13 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15700/0001300015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-01'
+entry_into_force:
+  date: '2021-01-01'
+  rule: no dia 1 de janeiro de 2021, sem prejuízo do regime transitório previsto no n.º 1 do artigo 7.º, que
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

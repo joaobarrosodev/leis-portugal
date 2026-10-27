@@ -23,6 +23,15 @@ publication:
   pages: 1055 - 1064
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ':'
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

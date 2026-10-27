@@ -24,6 +24,16 @@ publication:
   pages: 3574 - 3596
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: '6 meses após a data na qual não menos de 15 Estados, cujas frotas mercantes somadas constituam pelo menos 50% da
+    tonelagem bruta da frota mercante mundial, se tenham tornado Partes dele de acordo com '
+  method: clausula
+  article: art-v
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

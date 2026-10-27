@@ -24,6 +24,16 @@ publication:
   pages: 7172 - 7187
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/287a00/71727187.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da recepção da segunda das notas pelas quais as Partes comunicarem reciprocamente a aprovação
+    do mesmo, em conformidade com os respectivos processos constitucionais
+  method: clausula
+  article: art-77
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

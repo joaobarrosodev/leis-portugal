@@ -24,6 +24,16 @@ publication:
   pages: 3401 - 3407
   pdf_url: https://files.diariodarepublica.pt/1s/2014/06/12100/0340103407.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após a data da receção da última notificação pelas Partes, por escrito e por via diplomática, certificando
+    que foram cumpridos os respetivos requisitos de Direito interno necessários para o ef
+  method: clausula
+  article: art-xvii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

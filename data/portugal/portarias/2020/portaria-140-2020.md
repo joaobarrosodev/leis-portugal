@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4 - 11
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11400/0000400011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-06-16'
+entry_into_force:
+  date: '2020-06-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: '2020-06-16'
+  effects_rule: 'no dia seguinte ao da sua publicação, com exceção:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

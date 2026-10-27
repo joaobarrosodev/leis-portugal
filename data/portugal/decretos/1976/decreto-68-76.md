@@ -24,6 +24,16 @@ publication:
   pages: 154 - 156
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02000/01540156.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca de instrumentos de ratificação e terá duração indeterminada, podendo ser denunciado por qualquer
+    das Partes Contratantes mediante aviso prévio de um ano
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

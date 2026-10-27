@@ -23,7 +23,18 @@ publication:
   supplement: 1º Suplemento
   pages: 7304-(2) a 7304-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/300a01/00020014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-12-31'
+entry_into_force:
+  date: '1998-12-31'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-27
+  effects_date: '1998-01-01'
+  effects_rule: a 1 de Janeiro de 1998, sem prejuízo do disposto no n.º 2 do artigo seguinte, bem como nos n.os 2 a 6 do artigo
+    34.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

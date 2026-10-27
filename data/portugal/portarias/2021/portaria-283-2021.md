@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 43 - 54
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/23500/0004300054.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-12-07'
+entry_into_force:
+  date: '2021-12-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: '2020-07-18'
+  effects_rule: 'a 18 de julho de 2020 as seguintes normas da Portaria n.º 174/2020, de 17 de julho, na redação conferida
+    pela presente portaria:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

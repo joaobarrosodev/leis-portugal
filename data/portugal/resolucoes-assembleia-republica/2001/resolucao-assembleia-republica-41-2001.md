@@ -26,6 +26,16 @@ publication:
   pages: 3756 - 3758
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/145a00/37563758.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a notificação, referida no n.º 2, pelo Estado que, sendo membro da União Europeia à data da adopção pelo
+    Conselho do acto que estabelece o presente Protocolo, tenha procedido a essa forma
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

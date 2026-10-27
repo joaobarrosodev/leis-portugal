@@ -24,6 +24,16 @@ publication:
   pages: 5067 - 5080
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16400/0506705080.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'doze meses após a data na qual dez Estados a tenham assinado sem reservas relativamente à ratificação, aceitação
+    ou aprovação ou tenham depositado instrumentos de ratificação, aceitação, aprovação ou '
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

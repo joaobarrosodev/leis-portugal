@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8210 - 8218
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21500/0821008218.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-11-09'
+entry_into_force:
+  date: '2007-11-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

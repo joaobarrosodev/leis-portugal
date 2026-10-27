@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 664 - 665
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/04600/06640665.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-02-29'
+entry_into_force:
+  date: '1988-02-29'
+  rule: em 29 de Fevereiro de 1988
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 419 - 419
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/04400/04190419.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-03-01'
+entry_into_force:
+  date: '1985-03-01'
+  rule: em 1 de Março de 1985
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

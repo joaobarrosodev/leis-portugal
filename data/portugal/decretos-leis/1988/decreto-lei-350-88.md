@@ -22,16 +22,49 @@ publication:
   supplement: null
   pages: 4002 - 4004
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22700/40024004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-10-05'
+entry_into_force:
+  date: '1988-10-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-10-22'
+version_history:
+  file: decreto-lei-350-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-10-22'
+    amending: pt:dre:479875:por
+    amending_title: Decreto-Lei n.º 212/2004
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:43:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 212/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-350-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,57 +172,77 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º Para além das designações regionais ou sub-regionais e das zonas vitivinícolas oficialmente reconhecidas ou a reconhecer para harmonização com o disposto no n.º 1 do artigo 3.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, tendo em vista os vinhos de qualidade de características particulares, a que se referem a citada lei e o [Decreto-Lei n.º 429/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1986-210829), de 29 de Dezembro, poderão também ser reconhecidas para o mesmo efeito, por portaria do Ministro da Agricultura, Pescas e Alimentação, designações de carácter mais localizado correspondentes a áreas restritas, ainda que situadas fora das regiões, sub-regiões ou zonas vitivinícolas consideradas, mas apenas quando forem notórias a tradição e a alta qualidade dos seus vinhos, ficando então sob a acção de disciplina e controle do Instituto da Vinha e do Vinho (IVV), a quem incumbe a acção de coordenação geral dos vinhos de qualidade regionais.
+###### Artigo 1.º
 
-Art. 2.º A designação dos representantes da lavoura e do comércio nas comissões vitivinícolas regionais (CVR), a que se alude no artigo 8.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, bem como nas comissões de apoio, será efectuada, tendo em consideração, respectivamente, de acordo com o interesse manifestado e a situação existente na área a determinar, em:
+(Revogado.)
 
-a) Adegas cooperativas, associações e agrupamentos de vitivinicultores e vitivinicultores isolados;
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
 
-b) Adegas cooperativas engarrafadoras, associações e agrupamentos de vitivinicultores engarrafadores, vitivinicultores engarrafadores isolados e comerciantes engarrafadores.
+###### Artigo 2.º
 
-Art. 3.º - 1 - Os estatutos das CVR para as novas regiões ou zonas vitivinícolas a estabelecer serão elaborados mediante recurso ao instrumento notarial adequado, seguido da competente publicação no Diário da República e, nas regiões autónomas, no respectivo jornal oficial.
+(Revogado.)
 
-2 - Quando não seja possível ou aconselhável o estabelecimento de uma CVR própria, a acção de disciplina e fomento dos respectivos vinhos pode ser efectuada em associação com outras regiões ou zonas da proximidade cujos vinhos tenham características análogas ou ainda pelo IVV, com o apoio e colaboração dos interessados ou de comissões consultivas de carácter interprofissional a constituir.
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
 
-Art. 4.º - 1 - Até à eleição dos órgãos sociais das CVR e designação do representante do Estado podem as mesmas funcionar, pelo prazo máximo de 180 dias, através de uma comissão instaladora.
+###### Artigo 3.º
 
-2 - A constituição e os termos de funcionamento da comissão instaladora referida no número anterior serão definidos pelo diploma legal que aprove o estatuto regional da área ou áreas relativas aos vinhos de qualidade de competência da respectiva CVR.
+(Revogado.)
 
-Art. 5.º - 1 - Do estatuto de cada CVR constarão, além das disposições relativas à sua estrutura organizativa, os termos de actuação para efeitos de garantia da genuinidade e qualidade dos produtos vínicos da sua competência.
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
+
+###### Artigo 4.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
+
+###### Artigo 5.º
+
+1 - Do estatuto de cada CVR constarão, além das disposições relativas à sua estrutura organizativa, os termos de actuação para efeitos de garantia da genuinidade e qualidade dos produtos vínicos da sua competência.
 
 2 - O exame analítico dos produtos vínicos será efectuado em laboratório oficial ou como tal reconhecido por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
 3 - O exame organoléptico dos produtos vínicos incumbirá a uma câmara de provadores, com possibilidade de recurso, cuja constituição e funcionamento, nos termos das normas gerais a definir por portaria do Ministro da Agricultura, Pescas e Alimentação, serão aprovados, sob proposta do IVV, por despacho ministerial.
 
-Art. 6.º Para o desempenho das acções previstas no artigo anterior as CVR poderão actuar com os próprios meios ou com os meios de outros organismos ou serviços, mediante protocolos a homologar pelo ministro da tutela.
+###### Artigo 6.º
 
-Art. 7.º - 1 - Com a aprovação dos estatutos das novas regiões ou zonas vitivinícolas passará a constituir receita das CVR ou das respectivas comissões instaladoras, de acordo com o disposto no artigo 13.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, o produto das taxas e outras imposições em vigor que legalmente incidem sobre os referidos vinhos e a que se referem, nomeadamente, os Decretos-Leis n.os [560/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1973-412468), de 26 de Outubro, e [321-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1986-173533), de 26 de Setembro.
+Para o desempenho das acções previstas no artigo anterior as CVR poderão actuar com os próprios meios ou com os meios de outros organismos ou serviços, mediante protocolos a homologar pelo ministro da tutela.
 
-2 - Da importância constante do número anterior será deduzida uma percentagem, a fixar por portaria do ministro da tutela, que constituirá receita do IVV, pela sua acção de disciplina e coordenação geral.
+###### Artigo 7.º
 
-Art. 8.º - 1 - O organismo referido no n.º 2 do artigo anterior poderá efectuar o adiantamento dos fundos indispensáveis para a entrada em funcionamento das novas CVR.
+(Revogado.)
 
-2 - A fixação do respectivo montante e a forma de processamento serão objecto de protocolo, a homologar por despacho do ministro da tutela.
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
 
-Art. 9.º - 1 - O Governo deverá proceder à revisão da legislação aplicável às regiões demarcadas já existentes e respectivos vinhos, em termos da sua harmonização com os princípios gerais ora estabelecidos.
+###### Artigo 8.º
 
-2 - Considerada a sua tradição e especificidade, a Região Demarcada do Douro será objecto de legislação regulamentadora especial.
+(Revogado.)
 
-3 - Mantém-se em vigor a legislação regulamentadora das Regiões Demarcadas dos Vinhos Verdes e do Dão.
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
 
-Art. 10.º - 1 - O prazo fixado no n.º 1 do artigo 4.º do [Decreto-Lei n.º 429/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1986-210829), de 29 de Dezembro, é prorrogado até 31 de Dezembro de 1989.
+###### Artigo 9.º
 
-2 - O prazo previsto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 429/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1986-210829), de 29 de Dezembro, é renovado até 31 de Dezembro de 1989, entendendo-se, para todos os efeitos, como não interrompido.
+(Revogado.)
 
-Art. 11.º - 1 - Os representantes do Estado nas CVR, a que se refere o artigo 8.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, são designados por despacho do Ministro da Agricultura, Pescas e Alimentação.
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
 
-2 - A gratificação mensal a que terão direito os designados ao abrigo do número anterior será fixada por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, sob proposta da CVR, que suportará os respectivos encargos.
+###### Artigo 10.º
 
-3 - Os representantes do Estado referidos no n.º 1 terão igualmente direito ao abono de ajudas de custo e de transporte, a suportar pela respectiva CVR, quando se desloquem em cumprimento da sua missão.
+(Revogado.)
 
-4 - No caso excepcional de o representante do Estado não ser funcionário público ou agente do Estado, o quantitativo da ajuda de custo a abonar será o que corresponde aos funcionários de vencimento superior à letra D, igualmente a suportar pela respectiva CVR.
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
 
-Art. 12.º O presente diploma aplica-se às regiões autónomas, com as alterações decorrentes da transferência de competências do Governo da República para os governos regionais, mediante diploma regional adequado.
+###### Artigo 11.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
+
+###### Artigo 12.º
+
+(Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Arlindo Marques Cunha.
 

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 417 - 418
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/07500/04170418.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-05-01'
+entry_into_force:
+  date: '1974-05-01'
+  rule: em 1 de Maio de 1974
+  method: clausula
+  article: n-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 38418 - 38423
   pdf_url: https://files.diariodarepublica.pt/2s/2008/09/168000000/3841838423.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 20 dias (vinte) dias após a sua publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4344 - 4364
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/177a00/43444364.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que pelo menos cinco dos potenciais doadores indicados no anexo A, cujas contribuições, segundo proposto
+    no mesmo anexo, totalizem pelo menos 800000000 de dólares dos Estados Unidos, tenham
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 11576-(2) a 11576-(14)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-07'
+entry_into_force:
+  date: '2016-04-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2015/2016 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

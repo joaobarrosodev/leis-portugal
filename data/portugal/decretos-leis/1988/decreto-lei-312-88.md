@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3694 - 3701
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-11-01'
+entry_into_force:
+  date: '1988-11-01'
+  rule: no dia 1 de Novembro de 1988
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

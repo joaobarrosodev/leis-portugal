@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1386 - 1390
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/07900/0138601390.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-23'
+entry_into_force:
+  date: '2016-04-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

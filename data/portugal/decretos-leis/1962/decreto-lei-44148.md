@@ -24,6 +24,15 @@ publication:
   pages: 15 - 24
   pdf_url: https://files.diariodarepublica.pt/1s/1962/01/00500/00150024.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para cada Estado Membro doze meses após a data em que a sua ratificação tenha sido registada
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

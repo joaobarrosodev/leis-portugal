@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1412-(1) a 1412-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13301/00010002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-06-21'
+entry_into_force:
+  date: '1977-06-21'
+  rule: em 21 de Junho de 1977, dia comemorativo da fundação da ECS, e que passa a ser o dia da unidade do ISM
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

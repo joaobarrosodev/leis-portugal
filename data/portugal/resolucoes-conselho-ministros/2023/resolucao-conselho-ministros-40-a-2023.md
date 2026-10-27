@@ -23,6 +23,15 @@ publication:
   pages: 44-(2) a 44-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/08701/0000200004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

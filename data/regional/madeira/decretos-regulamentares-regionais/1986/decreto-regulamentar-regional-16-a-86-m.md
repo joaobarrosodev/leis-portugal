@@ -25,6 +25,15 @@ publication:
   pages: 3266-(1) a 3266-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/25101/00010003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 30 de Outubro do corrente ano
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

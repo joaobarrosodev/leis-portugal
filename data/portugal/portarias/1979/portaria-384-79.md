@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1760 - 1762
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-08-15'
+entry_into_force:
+  date: '1979-08-15'
+  rule: quinze dias após a sua publicação
+  method: clausula
+  article: n-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

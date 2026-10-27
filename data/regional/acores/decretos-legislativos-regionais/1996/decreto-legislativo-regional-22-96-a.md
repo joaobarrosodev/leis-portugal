@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2423 - 2425
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/184a00/24232425.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-08-10'
+entry_into_force:
+  date: '1996-08-10'
+  rule: no dia a seguir ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

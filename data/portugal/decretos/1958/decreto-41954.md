@@ -26,7 +26,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1958/11/24200/11731174.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:159939:por#art-8'
+    detail: O presente diploma revoga o [Decreto n.º 41954], de 8 de Novembro de 1958, e os artigos 237.º e 238.º do [Decreto
+      n.º 9168], de 4 de Outubro de 1923.
 notes:
 - Por lapso o emissor não consta no sumário.
 language: por

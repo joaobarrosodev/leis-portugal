@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4440-(220) a 4440-(220)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30003/02200220.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-01-01'
+entry_into_force:
+  date: '1988-01-01'
+  rule: em 1 de Janeiro de 1988
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

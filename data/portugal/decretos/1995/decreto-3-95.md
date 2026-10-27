@@ -24,6 +24,15 @@ publication:
   pages: 998 - 1001
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/041a00/09981001.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a entrega da última nota confirmando aquela aprovação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 411 - 414
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/07400/04110414.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente, salvo o disposto no n.º 15 do artigo 38.º do Código da Estrada, que só será aplicável a partir do dia
+    1 de Novembro de 1974
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

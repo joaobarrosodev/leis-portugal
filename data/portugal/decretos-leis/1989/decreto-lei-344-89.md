@@ -23,16 +23,59 @@ publication:
   supplement: null
   pages: 4426 - 4431
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23400/44264431.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-01-09'
+entry_into_force:
+  date: '1990-01-09'
+  rule: 90 dias após a publicação
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-02-27'
+version_history:
+  file: decreto-lei-344-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-10-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-02-27'
+    amending: pt:dre:517819:por
+    amending_title: Decreto-Lei n.º 43/2007
+    changes:
+    - Revoga Artigo 4.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 34.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +101,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:53:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 43/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-344-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,21 +201,25 @@ b) Professores do ensino básico;
 
 c) Professores do ensino secundário.
 
-2 - A formação dos professores do ensino básico diversifica-se nas seguintes modalidades e em correspondência com o grau de polivalência docente definida na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro:
+2 - (Revogado.)
 
-a) Professores para o 1.º ciclo do ensino básico;
+3 - (Revogado.)
 
-b) Professores para o 2.º ciclo do ensino básico;
+4 - (Revogado.)
 
-c) Professores para o 3.º ciclo do ensino básico.
+5 - (Revogado.)
 
-3 - Os professores que adquirirem formação para a docência no 2.º ciclo do ensino básico ficam também profissionalmente qualificados para a docência no 1.º ciclo do ensino básico.
+6 - (Revogado.)
 
-4 - Os professores que adquirirem formação para a docência no 3.º ciclo do ensino básico ficam também profissionalmente qualificados para a docência no 2.º ciclo do ensino básico.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
-5 - Os professores do ensino secundário poderão também ficar profissionalmente qualificados para a docência do 3.º ciclo do ensino básico.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
-6 - A possibilidade de mobilidade dos docentes referida nos números anteriores exercer-se-á à medida que os respectivos cursos estejam organizados e aprovados com essa finalidade.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 5.º — Professores de áreas profissionais ou artísticas
 
@@ -185,105 +233,87 @@ A formação de docentes para a educação e ensino especial realiza-se pela fre
 
 ###### Artigo 7.º — Definição
 
-1 - A formação inicial de educadores de infância e de professores dos ensinos básico e secundário é a que confere qualificação profissional para a docência.
+(Revogado.)
 
-2 - Para efeitos do disposto no número anterior, entende-se por qualificação profissional a que permite o ingresso na carreira de educadores de infância e de professores dos ensinos básico e secundário.
-
-3 - A formação inicial terá como objectivos fundamentais:
-
-a) A formação pessoal e social dos futuros docentes, favorecendo a adopção de atitudes de reflexão, autonomia, cooperação e participação, bem como a interiorização de valores deontológicos e a capacidade de percepção de princípios;
-
-b) A formação científica, tecnológica, técnica ou artística na respectiva especialidade;
-
-c) A formação científica no domínio pedagógico-didáctico;
-
-d) O desenvolvimento progressivo das competências docentes a integrar no exercício da prática pedagógica;
-
-e) O desenvolvimento de capacidades e atitudes de análise crítica, de inovação e investigação pedagógica.
-
-4 - Os objectivos referidos no número anterior desenvolvem-se segundo diferentes proporções, tendo em conta a sua adequação ao grupo etário e nível de ensino a que educadores e professores se destinam.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 8.º — Aquisição de qualificações profissionais
 
-1 - A qualificação profissional de educadores de infância e professores dos ensinos básico e secundário é adquirida através da frequência, com aproveitamento, de cursos específicos de formação inicial, ministrados em escolas superiores ou em universidades que disponham de unidades de formação próprias para o efeito.
+(Revogado.)
 
-2 - A qualificação profissional de professores do 3.º ciclo do ensino básico e do ensino secundário pode ainda ser adquirida pelos diplomados possuidores de habilitação científica para a docência da respectiva área ou especialidade, mediante a frequência, com aproveitamento, de um curso adequado de formação pedagógica.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 9.º — Entidades que promovem a formação
 
-1 - A formação de educadores de infância e de professores dos ensinos básico e secundário é assegurada, através de cursos específicos de formação inicial, pelas instituições de ensino superior que disponham de unidades de formação próprias para o efeito.
+(Revogado.)
 
-2 - Consideram-se unidades de formação própria para a formação inicial, para efeitos do estabelecido no número anterior, aquelas que, como tal, sejam reconhecidas nos respectivos diplomas legais de criação.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 10.º — Formação de educadores de infância
 
-A formação inicial de educadores de infância é feita em escolas superiores de educação ou em universidades com unidades de formação próprias, que, para o efeito, conferem o grau de bacharel em Educação.
+(Revogado.)
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 11.º — Formação de professores do 1.º ciclo do ensino básico
 
-A formação inicial de professores do 1.º ciclo do ensino básico é realizada em escolas superiores de educação ou em universidades com unidades de formação próprias, que, para o efeito, conferem o grau de bacharel em Ensino.
+(Revogado.)
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 12.º — Formação de professores do 2.º ciclo do ensino básico
 
-A formação inicial dos professores do 2.º ciclo do ensino básico é realizada em escolas superiores de educação ou em universidades com unidades de formação próprias, que, para o efeito, conferem o diploma de estudos superiores especializados e ou o grau de licenciado em Ensino, com a indicação da área disciplinar de docência.
+(Revogado.)
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 13.º — Formação de professores do 3.º ciclo do ensino básico
 
-A formação inicial dos professores do 3.º ciclo do ensino básico é realizada em universidades com unidades de formação próprias, que, para o efeito, conferem o grau de licenciado em Ensino, com a indicação da disciplina ou grupo de disciplinas de docência.
+(Revogado.)
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 14.º — Formação de professores do ensino secundário
 
-A formação inicial dos professores do ensino secundário é realizada em universidades com unidades próprias de formação, que, para o efeito, conferem o grau de licenciado em Ensino, com a indicação da disciplina ou disciplinas de docência.
+(Revogado.)
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 15.º — Estrutura curricular dos cursos de formação
 
-1 - Os cursos de formação inicial de educadores de infância e dos professores dos diferentes ciclos e graus de ensino não superior disporão de uma estrutura adequada, que incluirá, designadamente:
+(Revogado.)
 
-a) Uma componente de formação pessoal, social, cultural, científica, tecnológica, técnica ou artística ajustada à futura docência;
-
-b) Uma componente de ciências de educação;
-
-c) Uma componente de prática pedagógica orientada pela instituição formadora, com a colaboração do estabelecimento de ensino em que essa prática é realizada.
-
-2 - Os cursos regulares de formação de educadores de infância e de professores dos ensinos básico e secundário devem incluir preparação inicial no campo da educação especial.
-
-3 - A estrutura curricular dos cursos e de cada uma das suas componentes deve concretizar os princípios sobre a formação de educadores e professores enunciados no artigo 3.º deste diploma.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 16.º — Prática pedagógica
 
-1 - Para efeitos do disposto no artigo anterior, a prática pedagógica deve constituir uma componente fundamental no processo de desenvolvimento das capacidades e competências que integram a função docente.
+(Revogado.)
 
-2 - De acordo com mecanismos de cooperação a estabelecer, caso a caso, por despacho do Ministro da Educação, a cada instituição formadora poderá ser associada uma rede de escolas com o objectivo de facilitar a organização das actividades da prática pedagógica.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 17.º — Modalidades da prática pedagógica
 
-1 - Nos cursos específicos de formação de educadores de infância e de professores dos ensinos básico e secundário a prática pedagógica concretiza-se através de actividades diferenciadas ao longo do curso.
+(Revogado.)
 
-2 - A prática pedagógica pode, na sua fase final, assumir a natureza de um estágio, em condições a regulamentar por portaria do Ministro da Educação.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 18.º — Organização dos cursos
 
-1 - Na organização dos cursos de formação de educadores de infância e de professores dos ensinos básico e secundário, designadamente no que se refere ao relevo das componentes de formação a incluir, devem respeitar-se os princípios genéricos constantes das alíneas seguintes:
+(Revogado.)
 
-a) A natureza e o relevo da componente de formação científica na respectiva especialidade variam em função do nível de ensino em que o futuro docente vai exercer, devendo assumir importância crescente na formação dos professores dos graus de ensino mais elevados;
-
-b) A componente da formação pedagógico-didáctica, incluindo as didácticas específicas dos conteúdos a leccionar, deve adquirir maior relevo na formação dos educadores e professores do 1.º ciclo do ensino básico.
-
-2 - Nos cursos de educadores de infância e de professores do 1.º ciclo do ensino básico o conjunto das duas componentes de formação pedagógico-didáctica e de prática pedagógica deve manter-se em equilíbrio com a componente de formação cultural e científica, não devendo aquela ultrapassar os 60% da carga horária total, em qualquer caso.
-
-3 - Nos cursos de formação de professores do 2.º e 3.º ciclos do ensino básico a formação cultural e científica na respectiva especialidade não deve ultrapassar os 70% da carga horária total relativamente ao conjunto das outras duas componentes de formação.
-
-4 - Nos cursos de formação de professores do ensino secundário a formação cultural e científica na respectiva especialidade não deve ultrapassar os 80% da carga horária total, sem prejuízo de uma proporção diferente nos modelos de formação que exigem uma licenciatura científica para a admissão à frequência da componente pedagógica.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 19.º — Carga horária dos cursos
 
-A carga horária total das disciplinas, seminários e actividades que integram os planos de estudo dos cursos de formação de educadores de infância e de professores dos ensinos básico e secundário constará dos documentos legais de criação dos respectivos cursos e desenvolver-se-á nos documentos legais que os regulamentem, de acordo com os princípios orientadores definidos no artigo 18.º
+(Revogado.)
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 20.º — Segunda via de formação de professores do 3.º ciclo do ensino básico e de professores do ensino secundário
 
-1 - Os cursos de formação pedagógica a que se refere o n.º 2 do artigo 8.º do presente diploma deverão ser globalmente equivalentes à componente pedagógica dos cursos integrados de formação para o mesmo nível de ensino.
+(Revogado.)
 
-2 - A organização dos cursos de formação pedagógica deve prever, obrigatoriamente, um estágio, a regulamentar por portaria do Ministro da Educação.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 21.º — Formação de professores de áreas vocacionais, profissionais ou artísticas
 
@@ -387,19 +417,9 @@ Na sequência da reestruturação curricular dos ensinos básico e secundário, 
 
 ###### Artigo 34.º — Completamento de habilitações de professores vinculados com habilitação suficiente
 
-1 - O completamento de habilitações de professores vinculados com habilitação suficiente compreende duas componentes, visando a primeira o complemento da formação científica e a segunda o complemento da formação pedagógica.
+(Revogado.)
 
-2 - Os professores referidos no número anterior serão submetidos, para efeitos de ingresso na primeira componente, a provas de capacidade científica para os diversos níveis de ensino a que se destinam, organizadas pelas instituições superiores de formação.
-
-3 - Em função dos resultados obtidos, os professores serão agrupados nas seguintes categorias:
-
-a) Na categoria A, os professores que provem possuir a capacidade científica exigível para a docência das áreas ou disciplinas a que se destinam, ficando desde logo dispensados do complemento de habilitações no que se refere à sua preparação científica;
-
-b) Nas categorias B, C ou D, os professores que podem completar a sua formação científica através da obtenção de um número de créditos correspondente à frequência de um semestre escolar, um ano lectivo ou dois anos lectivos, respectivamente.
-
-4 - A segunda componente reveste a forma da profissionalização em serviço.
-
-5 - As duas componentes referidas nos números anteriores são da responsabilidade das instituições de ensino superior para tanto habilitadas, podendo ser realizadas em simultâneo nos cursos que especialmente o prevejam.
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), publicado em 2007-02-22.
 
 ###### Artigo 35.º — Profissionalização em serviço
 

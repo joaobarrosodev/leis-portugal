@@ -25,6 +25,15 @@ publication:
   pages: 28046 - 28047
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/185000000/2804628047.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação e que
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: à data de entrada em vigor da resolução do Conselho de Ministros n.º 23-A/2007, de 24 de Maio
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

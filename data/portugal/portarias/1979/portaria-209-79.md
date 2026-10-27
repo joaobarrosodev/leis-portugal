@@ -23,6 +23,15 @@ publication:
   pages: 817 - 817
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10100/08170817.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para as admissões aos cursos de promoção a partir do ano lectivo de 1980-1981, inclusive
+  method: clausula
+  article: art-115
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

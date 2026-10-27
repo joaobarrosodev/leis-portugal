@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3936 - 3937
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/119a00/39363937.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-28'
+entry_into_force:
+  date: '2005-06-28'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2005-06-24'
+  effects_rule: no dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

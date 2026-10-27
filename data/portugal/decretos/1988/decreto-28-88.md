@@ -24,6 +24,16 @@ publication:
   pages: 3681 - 3686
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/20600/36813686.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias depois de 5 dos Estados referidos nos n.os 1 e 2 do artigo 3.º do presente Protocolo terem depositado os seus
+    instrumentos de ratificação ou adesão
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4094 - 4097
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/190a00/40944097.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-09-18'
+entry_into_force:
+  date: '1998-09-18'
+  rule: 30 dias após a publicação da portaria referida no artigo 4.º, excepto no que respeita à obrigatoriedade do certificado
+    de aptidão profissional previsto no artigo 2.º, a qual terá início em 1 de Janeir
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 3450 - 3458
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11200/0345003458.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: passados 30 dias da data da sua publicação
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

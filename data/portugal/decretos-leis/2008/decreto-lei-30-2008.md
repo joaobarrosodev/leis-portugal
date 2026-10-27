@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1210 - 1211
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03900/0121001211.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-26'
+entry_into_force:
+  date: '2008-03-26'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

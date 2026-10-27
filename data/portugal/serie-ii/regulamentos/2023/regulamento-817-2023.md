@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 163 - 180
   pdf_url: https://files.diariodarepublica.pt/2s/2023/07/145000000/0016300180.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-28'
+entry_into_force:
+  date: '2023-07-28'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: desde essa data, sem prejuízo do disposto nos números seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

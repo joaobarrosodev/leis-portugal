@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/008000000/0017200172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:208377163:por#n-6'
+    detail: 6 - O presente despacho produz efeitos a 1 de março de 2023, e revoga os meus despachos n.os [6970/2020] e [555/2023],
+      publicados no Diário da República, 2.ª série, n.os 130 e 8, de 7 de julho e 11 de janeiro, respetivamente.
 notes: []
 language: por
 version:

@@ -24,6 +24,15 @@ publication:
   pages: 782 - 783
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08600/07820783.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na datada sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

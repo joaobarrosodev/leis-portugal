@@ -24,6 +24,15 @@ publication:
   pages: 2926 - 2927
   pdf_url: https://files.diariodarepublica.pt/1s/1985/09/20800/29262927.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da assinatura e permanecerá válido pelo período dos cinco anos seguintes à assinatura
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

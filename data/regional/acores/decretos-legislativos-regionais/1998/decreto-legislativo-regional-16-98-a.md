@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5952 - 5955
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/257a00/59525955.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-11-07'
+entry_into_force:
+  date: '1998-11-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

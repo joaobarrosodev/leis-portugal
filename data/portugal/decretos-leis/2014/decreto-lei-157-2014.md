@@ -27,7 +27,17 @@ publication:
   supplement: null
   pages: 5384 - 5539
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-11-23'
+entry_into_force:
+  date: '2014-11-23'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

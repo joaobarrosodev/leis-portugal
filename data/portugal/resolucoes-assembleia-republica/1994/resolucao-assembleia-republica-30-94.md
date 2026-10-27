@@ -24,6 +24,16 @@ publication:
   pages: 3364-(2) a 3364-(111)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data em que as Partes procederem à notificação reciproca do cumprimento das formalidades
+    referidas no primeiro parágrafo
+  method: clausula
+  article: art-125
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

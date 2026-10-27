@@ -1,0 +1,560 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:181419:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-06-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c29bf435aa1c6b9",
+    "a1cbb6580c1ed765",
+    "66ea7aeab67b2fc5",
+    "c7af4b34d55ae7d9",
+    "47d507eb3f0ef266",
+    "5bf33d642d32a4a8",
+    "14ebb26d3bb95ead",
+    "0d6fea6ef813cc0d",
+    "b76e6ee9f15864a2",
+    "bf75c9ee47689a67",
+    "d40621b774222de2",
+    "ab1d6873b819ed26",
+    "22ba6eca53491867",
+    "accd7905a289b320",
+    "46816aa5446df57a",
+    "0a23a987531479ec",
+    "81a3ded88acc5a2b",
+    "78ae5af10a23ba0f",
+    "f954358d089c84cd",
+    "a3e9c5a929214850",
+    "5641b11502ca84ae",
+    "983f5652d084584b",
+    "5c73748ff31fc0a0",
+    "e16a39e46e61f360",
+    "03bf9b9e13d0cf3d",
+    "9116c18d330fa5d7",
+    "30309734a819ab96",
+    "0036ebfedee5df86",
+    "bded45d6e37a1f33",
+    "ec77a136f67f42a1",
+    "b3e6d0041681ca09",
+    "02bcd4d6f0bbda57",
+    "9731fa7c93b6f661",
+    "b2b673ee405a02da",
+    "3f631f161bb4e27b",
+    "94431b5a5d1ae389",
+    "dd86633bc05aa319",
+    "cbf585fdbf9c7cd1",
+    "109d5b2eb87a989f",
+    "f0378b7eff99012f",
+    "feb5dff0062138d2",
+    "ed3393211e6d8f3e",
+    "5a2e61f6ca101b92",
+    "e384d07e404e40b9",
+    "686cf12670cb96a8",
+    "6d6da0ac1a1d10d7",
+    "8fb39ae603962f13"
+   ]
+  },
+  {
+   "date": "2007-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629387:por",
+     "title": "Decreto Legislativo Regional n.º 17/2007/M",
+     "published": "2007-11-12",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2007-629387"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "7c29bf435aa1c6b9",
+    "a1cbb6580c1ed765",
+    "66ea7aeab67b2fc5",
+    "c7af4b34d55ae7d9",
+    "47d507eb3f0ef266",
+    "8bfdb53f61d67e25",
+    "04339f974ccdc11d",
+    "408dcf74477fcc46",
+    "b76e6ee9f15864a2",
+    "bf75c9ee47689a67",
+    "0fa99f5e305f5ef0",
+    "ab1d6873b819ed26",
+    "22ba6eca53491867",
+    "3fb9356ab010be34",
+    "46816aa5446df57a",
+    "0a23a987531479ec",
+    "81a3ded88acc5a2b",
+    "78ae5af10a23ba0f",
+    "f954358d089c84cd",
+    "a3e9c5a929214850",
+    "5641b11502ca84ae",
+    "983f5652d084584b",
+    "5c73748ff31fc0a0",
+    "e16a39e46e61f360",
+    "03bf9b9e13d0cf3d",
+    "9116c18d330fa5d7",
+    "30309734a819ab96",
+    "0036ebfedee5df86",
+    "bded45d6e37a1f33",
+    "ec77a136f67f42a1",
+    "b3e6d0041681ca09",
+    "02bcd4d6f0bbda57",
+    "9731fa7c93b6f661",
+    "b2b673ee405a02da",
+    "3f631f161bb4e27b",
+    "94431b5a5d1ae389",
+    "dd86633bc05aa319",
+    "cbf585fdbf9c7cd1",
+    "109d5b2eb87a989f",
+    "f0378b7eff99012f",
+    "feb5dff0062138d2",
+    "ed3393211e6d8f3e",
+    "5a2e61f6ca101b92",
+    "e384d07e404e40b9",
+    "686cf12670cb96a8",
+    "6d6da0ac1a1d10d7",
+    "8fb39ae603962f13"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c29bf435aa1c6b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Adaptação do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, à Região Autónoma da Madeira\n\nConsiderando que o [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, visou, essencialmente, a disciplina legal quanto à aprovação de diplomas orgânicos e quadros de pessoal, e ainda dos instrumentos legais atinentes à mobilidade e planeamento de efectivos, bem como medidas de descongestionamento da função pública;\n\nConsiderando que se mostra oportuno e conveniente a aplicação do mencionado diploma com as devidas adaptações à administração regional autónoma, sendo certo que, na parte não directamente aplicável, a respectiva extensão à administração local será feita por decreto regulamentar do Governo da República, nos termos previstos no n.º 2 do seu artigo 1.º;\n\nConsiderando que, embora preservando a filosofia e os rasgos essenciais do citado [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, as especificidades próprias da administração regional autónoma, ainda em fase naturalmente evolutiva, não aconselham, desde já, a aplicação das medidas de congelamento previstas no diploma em causa, conquanto se possa e deva fazer uma adequada planificação de efectivos e até, quando for caso disso, sejam de aplicar algumas medidas de descongestionamento previstas no diploma;\n\nTendo em atenção o disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro:\n\nNos termos do artigo 229.º, alínea b), da Constituição, a Assembleia Regional decreta o seguinte:"
+  },
+  "a1cbb6580c1ed765": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito de aplicação"
+  },
+  "66ea7aeab67b2fc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Âmbito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito)\n\nO presente diploma aplica-se:\n\na) A todos os serviços ou organismos da administração regional autónoma da Madeira;\n\nb) Aos institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos;\n\nc) Ao pessoal das autarquias locais, nos casos em que as respectivas disposições lhe façam expressa referência."
+  },
+  "c7af4b34d55ae7d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Criação e reorganização de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Criação e reorganização de serviços"
+  },
+  "47d507eb3f0ef266": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Estruturas e quadros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Estruturas e quadros"
+  },
+  "5bf33d642d32a4a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Fundamentação e apreciação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Fundamentação e apreciação)\n\n1 - Depende de parecer da Secretaria Regional do Plano e do membro do Governo Regional que tiver a seu cargo a Administração Pública a aprovação dos projectos de diploma que visem:\n\na) A criação ou reorganização de serviços ou organismos e a especificação das respectivas atribuições, estrutura e competência;\n\nb) A criação ou alteração de quadros ou mapas de pessoal;\n\nc) A definição do regime a que deve submeter-se o respectivo pessoal.\n\n2 - Para a emissão do parecer referido no número anterior devem os projectos de diploma ser instruídos com:\n\na) Estudo justificativo da sua necessidade, dos pontos de vista da racionalização orgânica, funcional e de pessoal, o qual incluirá uma previsão de custos e a sua cobertura, bem como do acréscimo de produtividade e ou eficácia esperado;\n\nb) Mapa do modelo I anexo, sempre que dos diplomas resulte a criação ou alteração de quadros ou mapas de pessoal;\n\nc) Parecer técnico dos serviços que nos respectivos departamentos governamentais têm competência em matéria de organização e gestão de pessoal, o qual, em caso de criação ou reorganização de serviços ou de aumento de quadros, analisará, designadamente, soluções alternativas de concentração, de absorção de serviços ou de mobilidade, respectivamente.\n\n3 - Os estudos preliminares e a preparação dos referidos projectos podem ser assessorados pelos serviços da Secretaria Regional do Plano e do membro do Governo Regional que tiver a seu cargo a Administração Pública.\n\n4 - A criação ou reorganização de serviços, em regra, não deve determinar acréscimo dos encargos globais do respectivo departamento governamental regional.\n\n5 - Sobre os projectos que não forem instruídos nos termos do n.º 2 deste artigo não será emitido parecer, devendo ser devolvidos para efeitos de conveniente instrução.\n\n6 - Quando se trate de projectos de decretos legislativos regionais, os pareceres a que se refere o n.º 1 deverão ser prévios à circulação para aprovação em Conselho de Governo Regional e devem ser emitidos no prazo de 20 dias a contar da data da sua entrada nos respectivos departamentos, prazo que será interrompido sempre que se solicitem elementos adicionais.\n\n7 - Os pareceres da Secretaria Regional do Plano e do membro do Governo Regional que tiver a seu cargo a Administração Pública devem pronunciar-se, de acordo com as respectivas competências, expressamente sobre:\n\na) A eventual existência de serviços que prossigam objectivos complementares, paralelos ou sobrepostos;\n\nb) O custo dos projectos e a sua cobertura e adequação à política orçamental;\n\nc) A adequação da estrutura proposta aos objectivos;\n\nd) A adequação dos efectivos à estrutura proposta e aos objectivos a prosseguir, bem como à política de recursos humanos e de mobilidade do pessoal;\n\ne) A necessidade das soluções preconizadas, do ponto de vista da eficiência e da eficácia dos serviços e da sua compatibilização com o regime geral da função pública."
+  },
+  "14ebb26d3bb95ead": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Extinção ou fusão de serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Extinção ou fusão de serviços)\n\nQuando, com base em levantamentos efectuados das estruturas orgânicas da administração regional, se detecte a existência de serviços cuja finalidade se encontre esgotada ou que prossigam objectivos complementares, paralelos ou sobrepostos deve o membro do Governo Regional que tiver a seu cargo a Administração Pública propor ao Conselho do Governo Regional, conjuntamente com o membro do Governo Regional competente, a sua fusão, absorção de atribuições ou extinção, consoante os casos."
+  },
+  "0d6fea6ef813cc0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Sistematização dos diplomas orgânicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Sistematização dos diplomas orgânicos)\n\n1 - Os diplomas a que se refere a alínea a) do n.º 1 do artigo 2.º devem, em princípio, sistematizar-se da seguinte forma:\n\na) Natureza e atribuições;\n\nb) Órgãos, serviços e suas competências;\n\nc) Pessoal;\n\nd) Disposições transitórias e finais.\n\n2 - Quando se trate de serviços com autonomia administrativa e financeira, devem ainda ser incluídas disposições sobre administração financeira e patrimonial."
+  },
+  "b76e6ee9f15864a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Preenchimento dos quadros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Preenchimento dos quadros)\n\nEm caso de criação ou alteração de quadros de pessoal, é vedado prever:\n\na) Promoções automáticas ou reclassificações de pessoal, sem prejuízo, quanto a estas, do disposto no artigo 27.º;\n\nb) A integração directa em lugares do quadro a pessoal que não tenha a qualidade de funcionário ou que, sendo agente, não desempenhe funções em regime de tempo completo, não se encontre sujeito à disciplina, hierarquia e horário do respectivo serviço e conte menos de 3 anos de serviço ininterrupto."
+  },
+  "bf75c9ee47689a67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Estrutura dos quadros de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Estrutura dos quadros de pessoal)\n\n1 - Os diplomas elaborados após a publicação do presente decreto legislativo regional devem estruturar os quadros de pessoal, salvo tratando-se de carreiras especiais, agrupando-os em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal técnico-profissional e ou administrativo;\n\ne) Pessoal operário e ou auxiliar.\n\n2 - Os quadros de pessoal devem ser estruturados de acordo com as necessidades permanentes dos serviços, não podendo o número de lugares de cada categoria, em regra, exceder o da categoria imediatamente inferior.\n\n3 - Em regra, os quadros de pessoal não poderão prever dotações globais por carreira.\n\n4 - O número de lugares fixado para as carreiras horizontais, designadamente as de escriturário-dactilógrafo, pessoal operário não qualificado, telefonista, motorista e outro pessoal auxiliar, será estabelecido globalmente para o conjunto de categorias ou classes da mesma carreira, podendo ser objecto de quadros departamentais ou interdepartamentais.\n\n5 - O disposto no presente artigo não se aplica às carreiras de regime especial, designadamente do pessoal docente, informática, médica, administração hospitalar e enfermagem."
+  },
+  "d40621b774222de2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Tipos de quadros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Tipos de quadros)\n\nOs serviços podem optar por organizar os seus quadros de acordo com os seguintes tipos:\n\na) Quadros privativos, sempre que se trate de funções cuja especialização se inscreva apenas no âmbito das atribuições de cada direcção regional ou unidade orgânica equivalente;\n\nb) Quadros departamentais, sempre que a natureza das funções não implique especialização que interesse exclusivamente a qualquer das unidades orgânicas existentes no âmbito de um departamento governamental;\n\nc) Quadros interdepartamentais, quando a natureza das funções não implique especialização e tal medida contribua para uma gestão mais eficiente dos recursos humanos de mais um departamento governamental."
+  },
+  "ab1d6873b819ed26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Criação de novas carreiras e categorias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Criação de novas carreiras e categorias)\n\nA criação de carreiras e categorias de pessoal não previstas nos quadros da função pública em geral será obrigatoriamente acompanhada pela descrição, nos correspondentes diplomas, do respectivo conteúdo funcional, feita através da remuneração das tarefas e responsabilidades que lhes são inerentes e dos requisitos exigíveis para o seu exercício."
+  },
+  "22ba6eca53491867": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Estruturas por projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Estruturas por projectos"
+  },
+  "accd7905a289b320": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Estrutura de projecto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Estrutura de projecto)\n\n1 - Quando a realização de determinada missão com finalidade económica, dado o seu carácter interdepartamental e interdisciplinar, não possa ser eficazmente prosseguida através de estruturas orgânicas formais e seja aconselhável o seu desenvolvimento integrado, poderá ser criada uma estrutura de projecto.\n\n2 - A estrutura de projecto deve ser constituída através de despacho conjunto do Secretário Regional do Plano, do membro do Governo Regional que tiver a seu cargo a Administração Pública e dos membros do Governo de que dependa a realização do projecto.\n\n3 - Do despacho constitutivo devem constar:\n\na) A determinação dos objectivos do projecto;\n\nb) A orçamentação do projecto;\n\nc) A fixação do prazo de duração do projecto;\n\nd) A determinação dos organismos ou serviços intervenientes;\n\ne) A designação das chefias do projecto;\n\nf) A designação dos funcionários participantes na realização do projecto;\n\ng) A definição do estatuto remuneratório dos chefes do projecto;\n\nh) A descrição dos mecanismos de mobilidade a utilizar;\n\ni) A tipificação dos contratos, nesta compreendidos os contratos de trabalho a prazo certo, igual ou inferior ao do projecto, não renovável, que seja necessário celebrar.\n\n4 - Os contratos de trabalho referidos na alínea i) do número anterior não conferem ao particular outorgante a qualidade de agente."
+  },
+  "46816aa5446df57a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Controle de efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Controle de efectivos"
+  },
+  "0a23a987531479ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Planeamento de efectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Planeamento de efectivos)\n\n1 - Os serviços e organismos abrangidos pelo presente decreto legislativo regional devem, em cada ano, em função dos planos de actividades e respectivos projectos de orçamento, fazer a previsão da evolução das suas necessidades em pessoal e programar o seu recrutamento para o ano seguinte.\n\n2 - Os serviços responsáveis pelas funções de organização e gestão de pessoal em cada departamento governamental devem, em ordem a assegurar uma adequada gestão de recursos humanos, obtida a concordância do respectivo membro do Governo, comunicar, até 15 de Setembro de cada ano, com base na informação fornecida pelos serviços referidos no número anterior, ao membro do Governo Regional que tiver a seu cargo a Administração Pública e à Secretaria Regional do Plano as necessidades em matéria de pessoal para o ano seguinte no âmbito do respectivo departamento governamental.\n\n3 - Tal comunicação é feita mediante o preenchimento do mapa II anexo ao presente decreto legislativo regional.\n\n4 - Até 31 de Dezembro, o Secretário Regional do Plano e o membro do Governo Regional que tiver a seu cargo a Administração Pública proferirão despacho normativo, o qual deverá especificar:\n\na) O número total de admissões autorizadas para o ano seguinte por carreira ou por categoria, quando for caso disso;\n\nb) A quota de admissões que caberá a cada departamento governamental.\n\n5 - O despacho referido no número anterior terá designadamente em atenção:\n\na) A política orçamental e as restrições contidas no orçamento do ano económico a que o despacho respeita;\n\nb) As opções de política de emprego, de desenvolvimento regional e de descentralização contidas no Plano;\n\nc) As situações de subocupação ou excedentárias existentes no âmbito de cada departamento governamental e na administração em geral;\n\nd) As necessidades acrescidas de pessoal face aos programas de actividades dos diversos departamentos governamentais.\n\n6 - O despacho normativo será publicado no Jornal Oficial da Região Autónoma da Madeira.\n\n7 - O regime previsto nos números anteriores não impede que, com carácter excepcional, demonstrado pelo membro do Governo Regional proponente a insuficiência ou inviabilidade do recurso a instrumentos de mobilidade, possam permitir-se no decurso de cada ano económico admissões indispensáveis de pessoal não contempladas em despacho normativo, mediante resolução do Conselho do Governo Regional."
+  },
+  "81a3ded88acc5a2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Contrato de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Contrato de pessoal)\n\n1 - Os serviços e organismos só poderão celebrar contratos nos seguintes casos:\n\na) Quando a única forma de provimento prevista seja o contrato;\n\nb) Quando estiver previsto obrigatoriamente o estágio de ingresso;\n\nc) Quando se trate de serviços em regime de instalação;\n\nd) Quando se trate de pessoal docente ou de investigação.\n\n2 - Os contratos a que se refere o número anterior carecem de redução a escrito e visto da Comissão Regional de Contas."
+  },
+  "78ae5af10a23ba0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Rescisão, denúncia e caducidade dos contratos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Rescisão, denúncia e caducidade dos contratos)\n\n1 - Os contratos com pessoal além do quadro poderão ser denunciados ou rescindidos nos termos previstos nos artigos 3.º e 4.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.\n\n2 - Os contratos que tenham sido celebrados por tempo determinado e não estejam sujeitos ao regime de prorrogação caducam automaticamente no respectivo termo.\n\n3 - Os contratos celebrados com preterição das formalidades legais ou que se tenham mantido indevidamente no tempo para além do respectivo prazo ficam sujeitos ao disposto no n.º 1 deste artigo.\n\n4 - O dirigente do serviço que omitir o cumprimento dos deveres impostos pelos n.os 2 e 3 anteriores incorre em responsabilidade nos termos previstos no n.º 2 do artigo 13.º"
+  },
+  "f954358d089c84cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Inexistência jurídica e responsabilidade civil e disciplinar pela admissão de pessoal com preterição de formalidades legais.)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Inexistência jurídica e responsabilidade civil e disciplinar pela admissão de pessoal com preterição de formalidades legais.)\n\n1 - São juridicamente inexistentes as admissões de pessoal feitas com inobservância do estabelecido no presente diploma.\n\n2 - Os funcionários e agentes que autorizarem, informarem favoravelmente ou omitirem informação relativamente à admissão ou permanência de pessoal em contravenção das normas constantes do presente decreto legislativo regional são solidariamente responsáveis pela reposição das quantias indevidamente pagas, para além da responsabilidade civil e disciplinar que ao caso couber."
+  },
+  "a3e9c5a929214850": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Contrato de prestação de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Contrato de prestação de serviço)\n\n1 - Para a execução de trabalhos de carácter excepcional sem subordinação hierárquica poderão ser celebrados contratos de prestação de serviços sujeitos a regime previsto na lei geral quanto a despesas públicas em matéria de aquisição de serviço, não podendo em caso algum exceder o termo do prazo contratual inicialmente estabelecido.\n\n2 - O contrato de tarefa caracteriza-se por ter como objecto a execução de trabalhos específicos sem subordinação hierárquica, apenas podendo os serviços recorrer a tal tipo de contrato quando no próprio serviço não existam funcionários ou agentes com as qualificações adequadas ao exercício das funções objecto da tarefa.\n\n3 - O contrato de avença caracteriza-se por ter como objecto prestações sucessivas no exercício de profissão liberal, apenas podendo os serviços recorrer a tal tipo de contrato quando no próprio serviço não existam funcionários ou agentes com as qualificações adequadas ao exercício das funções objecto de avença.\n\n4 - Os serviços prestados em regime de contrato de avença serão objecto de remuneração certa mensal.\n\n5 - O contrato de avença pode ser feito cessar a todo o tempo, por qualquer das partes, com aviso prévio de 60 dias e sem obrigação de indemnizar.\n\n6 - Os contratos de tarefa e avença não conferem ao particular outorgante a qualidade de agente.\n\n7 - Os contratos de tarefa e avença ficam sujeitos a autorização prévia do membro do Governo Regional de que dependa o serviço contratante, a qual poderá ser delegada sem poderes de subdelegação."
+  },
+  "5641b11502ca84ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Levantamento dos efectivos de pessoal além dos quadros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Levantamento dos efectivos de pessoal além dos quadros)\n\n1 - Os serviços de competência em matéria de gestão de pessoal devem, até 31 de Maio de cada ano, proceder ao levantamento, quantitativo e qualitativo, de todo o pessoal não pertencente aos quadros dos serviços dependentes dos respectivos departamentos governamentais, identificando todos os casos de celebração ou manutenção de contratos com inobservância da lei.\n\n2 - Para efeitos do número anterior, todos os serviços e organismos abrangidos pelo presente diploma devem fornecer aos serviços ali referidos os elementos por eles solicitados.\n\n3 - O levantamento abrangerá igualmente os contratos de prestação de serviços, nomeadamente os de tarefa e avença.\n\n4 - De posse dos referidos elementos, os serviços responsáveis pelas funções de organização e gestão de pessoal, atenta a situação global de aproveitamento dos efectivos no respectivo departamento governamental, elaborarão relatório de avaliação da manutenção ou extinção das situações, a apresentar ao membro do Governo Regional.\n\n5 - Do referido relatório, uma vez tomada decisão sobre o mesmo, deverão ser enviadas cópias à Secretaria Regional do Plano e ao membro do Governo Regional que tiver a seu cargo a Administração Pública."
+  },
+  "983f5652d084584b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Mobilidade"
+  },
+  "5c73748ff31fc0a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Princípio geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Princípio geral)\n\nIncumbe à administração regional autónoma assegurar a mobilidade profissional e territorial dos funcionários e agentes, visando optimizar o aproveitamento dos seus efectivos e o apoio à política de descentralização e desenvolvimento regional."
+  },
+  "e16a39e46e61f360": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Instrumentos de mobilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Instrumentos de mobilidade)\n\nSão instrumentos de mobilidade:\n\na) O concurso;\n\nb) A permuta;\n\nc) A transferência;\n\nd) O destacamento;\n\ne) A requisição;\n\nf) A deslocação;\n\ng) A rotação;\n\nh) A afectação colectiva;\n\ni) A reclassificação profissional;\n\nj) A reconversão profissional;\n\nl) A constituição de excedentes."
+  },
+  "03bf9b9e13d0cf3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Concurso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Concurso)\n\n1 - O concurso é o processo de recrutamento e selecção normal e obrigatório para o provimento de lugares vagos que determinado serviço, para prosseguir os seus fins, necessita de prover, podendo ser também utilizado para a constituição de reservas de recrutamento, com vista à satisfação de necessidades previsionais de pessoal, independentemente da existência de vagas.\n\n2 - O recrutamento e selecção podem ser centralizados.\n\n3 - A obrigatoriedade do concurso deve entender-se sem prejuízo da utilização dos restantes instrumentos de mobilidade previstos na lei.\n\n4 - O regime do concurso consta de diploma próprio."
+  },
+  "9116c18d330fa5d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Permuta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Permuta)\n\n1 - A permuta é a troca entre funcionários pertencentes a quadros de pessoal de serviços ou organismos distintos, bem como entre aqueles e o pessoal originário dos quadros e afecto a quadros de efectivos interdepartamentais.\n\n2 - A permuta pode fazer-se entre funcionários da mesma categoria e carreira ou entre funcionários de carreiras diferentes, requerendo-se, porém, neste último caso, que os permutandos sejam remunerados pela mesma letra de vencimento, que o conteúdo funcional das respectivas funções seja idêntico ou afim e que sejam respeitados os requisitos habilitacionais.\n\n3 - A permuta faz-se a requerimento dos permutandos ou por iniciativa da Administração, mas com o acordo daqueles.\n\n4 - A permuta é autorizada por despacho do membro ou membros do Governo Regional competentes, podendo tal competência ser delegada nos dirigentes máximos dos serviços.\n\n5 - A permuta entre funcionários autárquicos e dos serviços e organismos previstos nas alíneas a) e b) do artigo 1.º processa-se nos termos do presente artigo.\n\n6 - Para efeitos do n.º 2 anterior, a identidade ou afinidade de conteúdo funcional será determinada com base em declarações passadas e autenticadas pelos serviços ou organismos de origem dos funcionários, as quais especificarão detalhadamente o conjunto de tarefas e responsabilidades inerentes aos respectivos postos de trabalho.\n\n7 - Em ordem a racionalizar e a facilitar os processos de permuta, os funcionários da administração regional ou local podem manifestar junto da secretaria regional que tiver a seu cargo a Administração Pública o interesse em serem permutados, indicando para o efeito as respectivas funções, categorias e carreiras, bem como a localidade ou localidades onde desejariam ser colocados; de igual modo os serviços da administração regional ou local, através da Direcção Regional da Administração Pública, podem manifestar as respectivas ofertas de permuta.\n\n8 - A permuta carece de visto da Comissão Regional de Contas e de publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira."
+  },
+  "30309734a819ab96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Transferência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Transferência)\n\n1 - A transferência é a mudança do funcionário para lugar de quadro diverso daquele em que está colocado em serviços abrangidos pelo presente diploma.\n\n2 - A transferência faz-se a requerimento do interessado ou por iniciativa da Administração e por conveniência de serviço, devidamente fundamentada, de facto e de direito, para lugar vago da mesma categoria e carreira ou de carreira diferente mas a que corresponda a mesma letra de vencimento e identidade ou afinidade de conteúdo funcional e idênticos requisitos habilitacionais.\n\n3 - Quanto efectuada por conveniência de serviço, a transferência não poderá fazer-se para lugar situado fora do concelho do lugar de origem, a menos que se verifique o acordo do funcionário a transferir.\n\n4 - A transferência é determinada por despacho do membro ou membros do Governo Regional competentes, consoante se efectue para o serviço do mesmo ou de diferente departamento governamental ou de instituto público deles dependente.\n\n5 - A transferência pode ainda fazer-se de lugar dos quadros da administração regional para lugar dos quadros da administração local, ou vice-versa, observadas as condições estabelecidas nos números anteriores e mediante deliberação do órgão executivo, autárquico.\n\n6 - A transferência pode verificar-se para categoria imediatamente superior nos casos e termos que forem previstos no diploma regional que regulamentar o [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro.\n\n7 - Em ordem a racionalizar e a facilitar os processos de transferência, os funcionários da administração regional ou local podem manifestar junto do membro do Governo Regional que tiver a seu cargo a Administração Pública o interesse em serem transferidos, indicando para o efeito as respectivas funções, categorias e carreiras, bem como a localidade ou localidades onde desejariam ser colocados; de igual modo os serviços da administração regional ou local, através da Direcção Regional da Administração Pública, podem manifestar as suas necessidades.\n\n8 - De posse dos elementos referidos no número anterior, o membro do Governo Regional que tiver a seu cargo a Administração Pública comunicará aos funcionários e serviços as ofertas e os pedidos de transferência com interesse mútuo.\n\n9 - A transferência está sujeita ao regime geral em matéria de visto, publicação e posse."
+  },
+  "0036ebfedee5df86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Destacamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Destacamento)\n\n1 - Quanto for necessário assegurar o exercício transitório de tarefas excepcionais em qualquer dos serviços abrangidos no âmbito do presente diploma que não tenha o pessoal adequado ou suficiente, poderá recorrer-se ao destacamento de funcionários ou agentes de outros desses serviços dependentes do mesmo departamento governamental.\n\n2 - O destacamento rege-se pelos seguintes princípios:\n\na) É temporário, podendo fazer-se por períodos até 1 ano, prorrogáveis até um máximo de 2;\n\nb) Exige a adequação entre as funções a exercer e as habilitações ou qualificações profissionais do funcionário ou agente a destacar e é-lhe aplicável o disposto no n.º 3 do artigo anterior;\n\nc) Não dá lugar à abertura de vaga no quadro de origem;\n\nd) É feito por despacho fundamentado do membro do Governo competente, por si ou na base de proposta do serviço interessado;\n\ne) Os encargos com o funcionário ou agente destacado são suportados pelo serviço ou instituto público de origem, salvo no que se refere ao pagamento de remunerações complementares inerentes ao serviço utilizador;\n\nf) O serviço prestado na situação de destacado considera-se, para todos os efeitos legais, como prestado no serviço de origem.\n\n3 - Excepcionalmente, quando o serviço interessado não tenha verbas disponíveis para proceder à requisição, o destacamento poderá fazer-se entre serviços abrangidos por este diploma dependentes de departamentos governamentais diversos, exigindo-se, porém, nesse caso o acordo dos respectivos membros do Governo Regional e devendo o destacamento ser convertido em requisição dentro do prazo máximo de 1 ano."
+  },
+  "bded45d6e37a1f33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Requisição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Requisição)\n\n1 - Quando se verifique o condicionalismo previsto no n.º 1 do artigo anterior, poderá recorrer-se ainda à requisição de funcionários e agentes de serviços abrangidos pelo presente diploma dependentes de outro departamento governamental.\n\n2 - A requisição rege-se pelos princípios enunciados nas alíneas a), b) e c) do n.º 2 do artigo anterior e ainda pelos seguintes:\n\na) O lugar de origem do funcionário ou agente requisitado pode ser preenchido interinamente;\n\nb) É feita por despacho fundamentado do membro do Governo requisitante, por si ou na base de proposta do serviço interessado, precedendo concordância do membro do Governo Regional de quem o funcionário ou agente dependa;\n\nc) Os encargos com o funcionário ou agente requisitado são suportados pelo orçamento do serviço requisitante, podendo, porém, o interessado optar pelo estatuto remuneratório do lugar de origem;\n\nd) Não prejudica quaisquer direitos e regalias dos funcionários ou agentes requisitados inerentes ao lugar de origem;\n\ne) Carece de visto da Comissão Regional de Contas, bem como de publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.\n\n3 - A requisição de funcionários e agentes da administração regional para a administração local, ou desta para aquela, faz-se com observância dos princípios constantes do número anterior e depende de deliberação do executivo autárquico.\n\n4 - A requisição pode fazer-se para a categoria superior nos casos que forem previstos no diploma regional que regulamentar o [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro."
+  },
+  "ec77a136f67f42a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Destacamento e requisição para empresas públicas e pessoas colectivas de direito privado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Destacamento e requisição para empresas públicas e pessoas colectivas de direito privado)\n\n1 - O destacamento e requisição para empresas públicas e pessoas colectivas de direito privado só pode fazer-se nos casos e nos termos em que a lei especial o preveja, aplicando-se subsidiariamente o regime geral da requisição e do destacamento previsto nos artigos 21.º e 22.º\n\n2 - Caso os requisitados ou destacados optem pelo regime do contrato de trabalho, ficam sujeitos a imposto profissional."
+  },
+  "b3e6d0041681ca09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Deslocação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Deslocação)\n\nQuando num dos serviços abrangidos pelo presente diploma se verifique uma situação de desadequação ou de insuficiência de pessoal para o exercício das funções que lhe estão cometidas e noutro desses serviços dependentes do mesmo departamento governamental houver pessoal desadequado, transitoriamente subocupado ou se verifiquem, situações susceptíveis de dar origem à constituição de excedentes, podem os dirigentes desses organismos propor a deslocação do pessoal necessário, com ou sem reciprocidade.\n\n2 - A deslocação rege-se pelos seguintes princípios:\n\na) É feita por despacho do membro do Governo Regional competente, na base de proposta dos dirigentes dos serviços;\n\nb) Da referida proposta deverá constar, além da respectiva justificação, a identificação dos funcionários e agentes a deslocar e a enunciação dos factos determinantes do termo da deslocação;\n\nc) Exige a adequação entre as funções a exercer e as habilitações ou qualificações profissionais dos funcionários ou agentes a deslocar;\n\nd) Salvo acordo dos deslocados, a deslocação só se poderá fazer para os serviços sediados na área do mesmo concelho do lugar de origem ou para concelhos limítrofes, nos termos previstos no n.º 3 do artigo 20.º, devendo ser fundamentada de facto e de direito;\n\ne) Não dá lugar à abertura de vaga no quadro de origem;\n\nf) Os funcionários ou agentes a deslocar mantêm o estatuto remuneratório do lugar de origem, sendo por este pagos, salvo no que se refere a remunerações complementares inerentes ao serviço utilizador;\n\ng) Não prejudica quaisquer direitos ou regalias dos funcionários ou agentes deslocados.\n\n3 - Verificando-se que a deslocação serve necessidades permanentes dos serviços intervenientes, poderá proceder-se à correcção recíproca dos respectivos quadros de pessoal e ao provimento ou contratação, dos funcionários e agentes deslocados, com o acordo destes, devendo, porém, a correcção ser simultânea e não devendo dela resultar aumento global de encargos para o conjunto de serviços cujos quadros sejam assim alterados."
+  },
+  "02bcd4d6f0bbda57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Rotação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Rotação)\n\n1 - Com vista a estimular a polivalência profissional e melhor assegurar a independência e imparciabilidade e a proporcionar um mais aprofundado conhecimento da organização, funcionamento e necessidades da Administração, poderão as leis reguladoras da orgânica dos serviços e dos estatutos de carreiras prever prazos máximos de permanência de certas categorias de funcionários em determinadas funções e lugares, definindo as respectivas regras de rotação.\n\n2 - Sempre que as circunstâncias o justifiquem, os membros do Governo Regional competentes podem, por despacho, na base de planos anuais ou plurianuais a apresentar pelos dirigentes dos serviços deles dependentes, implementar os mecanismos de rotação adequados que permitam a prestação de serviço na mesma categoria em diferentes organismos do mesmo departamento governamental regional, os quais, salvo lei especial que o preveja, ficam sujeitos ao disposto no n.º 3 do artigo 20.º\n\n3 - À rotação pode, nos termos previstos no n.º 1, ser atribuída a natureza de requisito de promoção."
+  },
+  "9731fa7c93b6f661": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Afectação colectiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Afectação colectiva)\n\n1 - Quando for necessário assegurar a realização atempada de trabalhos ou projectos de importância prioritária cometidos a serviço abrangido pelo presente diploma que não tenha o pessoal adequado ou suficiente, poderá determinar-se a afectação colectiva do pessoal requerido, a deslocar de outros desses serviços dependentes do mesmo ou de diversos departamentos governamentais.\n\n2 - Quando se verifique o condicionalismo previsto no número anterior e a realização dos trabalhos ou projectos for considerada de interesse público, a afectação colectiva pode ainda fazer-se para empresa do sector público, privado ou cooperativo, bem como para associação ou fundação.\n\n3 - A afectação colectiva rege-se pelos seguintes princípios:\n\na) É temporária, devendo a respectiva duração ser fixada no despacho que a determinar;\n\nb) Exige a adequação entre os trabalhos ou projecto a realizar e as habilitações ou qualificações profissionais do pessoal a afectar, sendo-lhe ainda aplicável o disposto no n.º 3 do artigo 20.º;\n\nc) Não dá lugar à abertura de vagas nos quadros de origem;\n\nd) É feita por despacho do membro ou membros do Governo Regional competentes, por si ou na base de pedido da entidade interessada, devendo aquele despacho ser fundamentado de facto e de direito;\n\ne) Os encargos com o pessoal abrangido pela afectação são suportados pelos serviços de origem;\n\nf) O serviço prestado na situação de afectação considera-se, para todos os efeitos, como prestado no serviço de origem.\n\n4 - Verificado o fundamento para se proceder à afectação colectiva de pessoal, o membro ou membros do Governo Regional competentes remeterão aos respectivos responsáveis pelo serviço de organização e pessoal a competente directiva, na qual poderão fixar-se quotas de comparticipação obrigatória em pessoal por parte dos serviços abrangidos, a fim de que aqueles dirigentes procedam, dentro do prazo supletivo de 5 dias, em conjunto com a entidade interessada na afectação e de acordo com as suas necessidades, à individualização do pessoal a afectar."
+  },
+  "b2b673ee405a02da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Reclassificação e reconversão profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Reclassificação e reconversão profissional)\n\n1 - Quando se verifiquem situações de reorganização ou de reestruturação de serviços, e em ordem a facilitar a redistribuição de efectivos, respeitando a adequação entre o conteúdo funcional dos postos de trabalho e as capacidades e aptidões dos funcionários e agentes, poderão estes, por iniciativa da Administração, ser objecto de reclassificação e ou reconversão profissional.\n\n2 - A reclassificação consiste na atribuição de categoria diferente da que o funcionário ou agente é titular, de outra carreira, e exige que aqueles reúnam os requisitos legalmente exigidos para a nova categoria.\n\n3 - A reconversão consiste igualmente na mudança de categoria, da mesma ou de outra carreira, precedida da frequência com aprovação de um curso de formação profissional, prescindindo-se neste caso das habilitações literárias exigíveis.\n\n4 - Os critérios de reclassificação e reconversão profissional serão objecto, respectivamente, de portaria conjunta do Secretário Regional do Plano, do membro do Governo Regional interessado e do secretário regional que tiver a seu cargo a Administração Pública e de decreto legislativo regional.\n\n5 - A reclassificação e a reconversão profissional far-se-ão para categoria remunerada pela mesma letra de vencimento, ou imediatamente superior, quando não se verifique coincidência de remuneração, excepto quando haja lugar a reconversão profissional na mesma carreira, caso em que se processará sempre para a categoria imediata.\n\n6 - A reclassificação e a reconversão carecem de visto da Comissão Regional de Contas e de publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira."
+  },
+  "3f631f161bb4e27b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Constituição de excedentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Constituição de excedentes)\n\nA constituição, gestão e destinos de efectivos excedentários é regulada por diploma próprio."
+  },
+  "94431b5a5d1ae389": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Situações com regime especial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Situações com regime especial)\n\n1 - A duração das situações precárias constituídas ao abrigo de instrumentos de mobilidade para serviços desconcentrados da administração regional autónoma não se encontra submetida aos prazos previstos no presente diploma, sempre que os funcionários e agentes se encontrem abrangidos pelo [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro.\n\n2 - Atendendo à natureza especial de determinados serviços, podem também as situações de destacamento e requisição de pessoal não ficar sujeitas aos períodos de duração previstos no presente diploma, mediante resolução do Conselho do Governo Regional.\n\n3 - As situações de destacamento e requisição referidas no número anterior podem cessar em qualquer momento por despacho do membro do Governo Regional do qual dependa o serviço no qual o funcionário ou agente esteja destacado ou requisitado."
+  },
+  "dd86633bc05aa319": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Medidas de descongestionamento da função pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Medidas de descongestionamento da função pública"
+  },
+  "cbf585fdbf9c7cd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Licença sem vencimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Licença sem vencimento)\n\n1 - Ao pessoal dos quadros aprovados por lei com mais de 1 ano de serviço poderá ser concedida uma licença sem vencimento pelo prazo mínimo de 1 ano, sendo-lhe garantido o regresso à actividade finda a mesma.\n\n2 - A licença sem vencimento a que se refere o número anterior obedece aos seguintes princípios gerais:\n\na) Não dá origem à abertura de vaga, podendo todavia o lugar ser preenchido interinamente;\n\nb) Depende de despacho do membro do Governo Regional competente;\n\nc) O regresso à actividade depende de requerimento do interessado;\n\nd) Está sujeita a visto da Comissão Regional de Contas e a publicação no Jornal Oficial da Região Autónoma da Madeira.\n\n3 - O elenco das categorias ou carreiras cujo pessoal poderá beneficiar da licença referida no n.º 1, os processos de concessão e a regulamentação das condições de atribuição serão objecto de decreto regulamentar regional proposto pelo Secretário Regional do Plano e pelo membro do Governo Regional que tiver a seu cargo a Administração Pública.\n\n4 - O pessoal dos quadros que venha a ser constituído em excedente poderá requerer a licença sem vencimento a que se refere este artigo, independentemente do tempo que possua e da categoria de que seja titular."
+  },
+  "109d5b2eb87a989f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Aposentação voluntária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Aposentação voluntária)\n\n1 - Poderão aposentar-se, por sua iniciativa e independentemente de submissão a junta médica, os funcionários e agentes que:\n\na) Contem mais de 60 anos de idade e 20 anos de serviço;\n\nb) Reúnam 30 anos de serviço, independentemente da respectiva idade.\n\n2 - Aos funcionários e agentes referidos nas alíneas a) e b) do n.º 1 será atribuída uma pensão correspondente ao número de anos de serviço efectivamente prestado, acrescida de uma importância correspondente a 20% do seu quantitativo, benefício que só será aplicável até ao limite da pensão respeitante a 36 anos de serviço, calculada em função do vencimento base e das diuturnidades a que o funcionário ou agente tiver direito.\n\n3 - Os funcionários e agentes que requeiram a aposentação sem submissão a junta médica em qualquer das modalidades previstas no n.º 1 serão desligados do serviço para efeitos de aposentação.\n\n4 - A constituição da situação a que se refere o número anterior depende de despacho do membro do Governo Regional competente e de publicação no Jornal Oficial da Região Autónoma da Madeira.\n\n5 - Será definido em decreto regulamentar regional proposto pelo Secretário Regional do Plano e pelo membro do Governo Regional que tiver a seu cargo a Administração Pública o elenco de carreiras e categorias que podem beneficiar do regime previsto nos números anteriores, bem como os aspectos processuais relacionados com a constituição do processo de aposentação.\n\n6 - Os funcionários e agentes que queiram beneficiar da bonificação estabelecida no n.º 2 deverão requerer a aposentação no prazo de 6 meses a contar da publicação do decreto regulamentar regional previsto no número anterior."
+  },
+  "f0378b7eff99012f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Pensão provisória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Pensão provisória)\n\n1 - Aos funcionários e agentes mencionados no artigo anterior será paga pelos respectivos serviços e organismos uma pensão provisória de aposentação.\n\n2 - A pensão provisória a pagar aos funcionários e agentes a que se refere o n.º 1 do artigo 31.º será calculada por aqueles serviços e organismos com base no critério estabelecido no n.º 2 do mesmo artigo.\n\n3 - A fixação e pagamento da pensão provisória far-se-ão sem prejuízo da competência que, na matéria, incumbe à Caixa Geral de Aposentações e, consequentemente, das reposições e reembolsos que hajam de realizar-se, uma vez estabelecida a pensão definitiva."
+  },
+  "feb5dff0062138d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Encargos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Encargos)\n\n1 - Até final do ano económico em que tiverem sido fixadas, as pensões provisórias dos funcionários e agentes que venham a ser desligados para efeitos de aposentação, nos termos do presente diploma, serão suportadas por conta das verbas que vinham sendo utilizadas para pagamento dos respectivos vencimentos.\n\n2 - Os serviços e organismos que venham a ter pessoal nas condições previstas no número anterior inscreverão no ano seguinte, nos respectivos orçamentos, as verbas adequadas ao pagamento das pensões de aposentação provisórias, na rubrica 01.13 «Pessoal fora do serviço aguardando aposentação», enquanto não se verificar a transferência prevista no número seguinte.\n\n3 - O disposto nos números anteriores não prejudica que, posteriormente e mediante despacho dos Secretários Regionais do Plano e da pasta respectiva, venham a ser definidos os termos em que, relativamente a cada departamento governamental regional, se procederá à transferência para a Caixa Geral de Aposentações das responsabilidades pelo pagamento daquelas pensões provisórias."
+  },
+  "ed3393211e6d8f3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais e transitórias"
+  },
+  "5a2e61f6ca101b92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Condicionamento das requisições a empresas públicas e privadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Condicionamento das requisições a empresas públicas e privadas)\n\n1 - A requisição de pessoal a empresas ao abrigo do [Decreto-Lei n.º 719/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/719-1974-468070), de 18 de Dezembro, do [Decreto-Lei n.º 485/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1976-431188), de 21 de Junho, ou do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, quando o encargo salarial recaia sobre o departamento requisitante, depende de prévia concordância do Secretário Regional do Plano, do membro do Governo Regional que tiver a seu cargo a Administração Pública e do membro do Governo Regional da pasta respectiva.\n\n2 - A concordância a que se refere o número anterior dependerá da situação concreta que motive a requisição, do prazo pelo qual é efectuada e da remuneração prevista.\n\n3 - No despacho de requisição devem ser fixadas a sua duração e a respectiva remuneração.\n\n4 - Não está sujeita ao disposto no presente artigo a requisição para:\n\na) Lugares de gabinetes dos membros do Governo Regional;\n\nb) Outros lugares aos quais seja aplicável o regime previsto na alínea anterior.\n\n5 - Os requisitados nos termos do presente artigo ficam sujeitos a imposto profissional, no caso de optarem pela remuneração de origem.\n\n6 - A posterior admissão na função pública do pessoal antes a ela ligado só pelo vínculo da requisição está sujeita a todas as formalidades da lei geral e, designadamente, ao estabelecido no artigo 10.º"
+  },
+  "e384d07e404e40b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Alteração dos mapas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Alteração dos mapas)\n\nOs mapas I e II anexos ao presente diploma podem ser alterados por portaria do membro do Governo Regional que tiver a seu cargo a Administração Pública."
+  },
+  "686cf12670cb96a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Destacamentos e requisições anteriores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Destacamentos e requisições anteriores)\n\nOs destacamentos e requisições efectuados antes da entrada em vigor do presente diploma continuam a reger-se, até ao seu termo, pelas disposições legais na base das quais foram feitos."
+  },
+  "6d6da0ac1a1d10d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Prevalência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Prevalência)\n\nO disposto no presente diploma prevalece sobre todas e quaisquer disposições gerais ou especiais relativas às matérias reguladas no presente decreto legislativo regional."
+  },
+  "8fb39ae603962f13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.\n\nAprovado em sessão plenária de 5 de Março de 1985.\n\nO Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 22 de Março de 1985.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\nMAPA I\n\n[a que se refere a alínea b) do n.º 2 do artigo 2.º]\n\nQuadro actual, quando exista, e quadro proposto:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/13700/16021612.pdf)\n\nMAPA II\n\n(n.º 3 do artigo 10.º)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/13700/16021612.pdf)"
+  },
+  "8bfdb53f61d67e25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Fundamentação e apreciação)",
+   "in_force_from": "2007-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+   ],
+   "markdown": "###### Artigo 2.º — (Fundamentação e apreciação)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+  },
+  "04339f974ccdc11d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Extinção ou fusão de serviços)",
+   "in_force_from": "2007-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+   ],
+   "markdown": "###### Artigo 3.º — (Extinção ou fusão de serviços)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+  },
+  "408dcf74477fcc46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Sistematização dos diplomas orgânicos)",
+   "in_force_from": "2007-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+   ],
+   "markdown": "###### Artigo 4.º — (Sistematização dos diplomas orgânicos)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+  },
+  "0fa99f5e305f5ef0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Tipos de quadros)",
+   "in_force_from": "2007-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+   ],
+   "markdown": "###### Artigo 7.º — (Tipos de quadros)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+  },
+  "3fb9356ab010be34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Estrutura de projecto)",
+   "in_force_from": "2007-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+   ],
+   "markdown": "###### Artigo 9.º — (Estrutura de projecto)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+  }
+ }
+}

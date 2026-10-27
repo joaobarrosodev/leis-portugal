@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1070 - 1070
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/048a00/10701070.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-03-03'
+entry_into_force:
+  date: '2001-03-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2000-12-30'
+  effects_rule: a 30 de Dezembro de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

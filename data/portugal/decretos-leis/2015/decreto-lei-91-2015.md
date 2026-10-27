@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3253 - 3264
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10400/0325303264.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-01'
+entry_into_force:
+  date: '2015-06-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação, data em que a fusão
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 632-(6) a 632-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/02102/0000600006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-02-01'
+entry_into_force:
+  date: '2015-02-01'
+  rule: no dia 1 de fevereiro de 2015
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

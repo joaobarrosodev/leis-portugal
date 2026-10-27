@@ -24,6 +24,15 @@ publication:
   pages: 1151 - 1156
   pdf_url: https://files.diariodarepublica.pt/1s/1970/09/20200/11511156.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cento e vinte dias depois da data do referido auto
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

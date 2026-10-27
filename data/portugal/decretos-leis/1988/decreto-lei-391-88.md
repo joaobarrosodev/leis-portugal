@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4357 - 4360
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/24800/43574360.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-11-25'
+entry_into_force:
+  date: '1988-11-25'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

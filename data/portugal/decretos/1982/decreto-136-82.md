@@ -24,6 +24,16 @@ publication:
   pages: 4171 - 4181
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29300/41714181.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês que se seguir ao termo de um período de 3 meses após a data em que três Estados membros do
+    Conselho da Europa tenham expresso o seu consentimento em ficarem vinculados pela Conv
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

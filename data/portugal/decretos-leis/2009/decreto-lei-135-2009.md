@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3460 - 3468
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/10700/0346003468.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-01'
+entry_into_force:
+  date: '2009-11-01'
+  rule: em 1 de Novembro de 2009
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

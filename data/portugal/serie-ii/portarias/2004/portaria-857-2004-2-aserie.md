@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11520 - 11521
   pdf_url: https://files.diariodarepublica.pt/2s/2004/07/178000000/1152011521.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-07-31'
+entry_into_force:
+  date: '2004-07-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

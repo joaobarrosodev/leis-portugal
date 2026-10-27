@@ -24,6 +24,16 @@ publication:
   pages: 13-(4) a 13-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00902/0000400015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 0 horas do dia 16 de janeiro de 2021, cessando às 23:59 horas do dia 22 de janeiro de 2021, sem prejuízo de eventuais
+    prorrogações do mesmo, nos termos da lei
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

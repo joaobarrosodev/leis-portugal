@@ -24,6 +24,15 @@ publication:
   pages: 1930 - 1930
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/10700/19301930.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a celebração do acordo de assistência atrás referido
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

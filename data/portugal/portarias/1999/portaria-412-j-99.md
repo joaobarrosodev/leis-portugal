@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3140-(14) a 3140-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/129b02/00140016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-06-05'
+entry_into_force:
+  date: '1999-06-05'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,19 @@ publication:
   supplement: null
   pages: 31 - 39
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05900/0003100039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-24'
+entry_into_force:
+  date: '2023-03-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto Legislativo Regional n.º 1/2023/A, de 5 de janeiro, que aprova o orçamento
+    da Região Autónoma dos Açores para o ano de 2023, desde que compatível com as normas de
+  end_date: null
+  end_rule: até à data de entrada em vigor do decreto regulamentar regional que executa o orçamento da Região Autónoma dos
+    Açores para o ano de 2024
 end_of_validity_date: null
 legal_status: in_force
 notes: []

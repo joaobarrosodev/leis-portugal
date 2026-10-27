@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 15 - 23
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05300/0001500023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-18'
+entry_into_force:
+  date: '2021-03-18'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: nos termos do artigo 24.º do Decreto-Lei n.º 55/2020, de 12 de agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

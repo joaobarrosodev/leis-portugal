@@ -23,6 +23,16 @@ publication:
   pages: 3361 - 3365
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29700/33613365.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da recepção da segunda das notas pelas quais os dois Governos se comunicarem terem sido completadas as necessárias
+    formalidades legais de cada país para essa entrada em vigor
+  method: clausula
+  article: art-x
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

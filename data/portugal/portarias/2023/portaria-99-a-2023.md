@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 98-(2) a 98-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/06601/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-04-04'
+entry_into_force:
+  date: '2023-04-04'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: entre o dia 4 de abril de 2023 e o dia 17 de abril de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 162 - 163
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/026000000/0016200163.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: dez dias úteis após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

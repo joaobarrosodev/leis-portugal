@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2542 - 2544
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/128b00/25422544.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-06-08'
+entry_into_force:
+  date: '1998-06-08'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1998-01-01'
+  effects_rule: a partir de 1 de Janeiro de 1998
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

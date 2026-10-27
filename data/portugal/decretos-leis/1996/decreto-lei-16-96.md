@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 468 - 469
   pdf_url: https://files.diariodarepublica.pt/1s/1996/03/058a00/04680469.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-03-09'
+entry_into_force:
+  date: '1996-03-09'
+  rule: no dia seguinte ao da sua publicação, aplicando-se, porém, aos concursos para colocação de professores que já se encontrem
+    abertos àquela data
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

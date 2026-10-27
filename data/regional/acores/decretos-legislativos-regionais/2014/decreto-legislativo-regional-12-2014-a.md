@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3759 - 3765
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/13000/0375903765.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-07-01'
+entry_into_force:
+  date: '2014-07-01'
+  rule: a 1 de julho de 2014
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

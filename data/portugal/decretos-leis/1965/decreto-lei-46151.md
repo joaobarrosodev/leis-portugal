@@ -24,6 +24,15 @@ publication:
   pages: 35 - 36
   pdf_url: https://files.diariodarepublica.pt/1s/1965/01/00700/00350036.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês subsequente à data da última daquelas notificações
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

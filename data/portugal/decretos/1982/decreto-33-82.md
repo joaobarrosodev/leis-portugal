@@ -24,6 +24,16 @@ publication:
   pages: 537 - 550
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/05800/05370550.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando todas as Partes Contratantes na Convenção se tenham tornado Partes no Protocolo adicional nos termos referidos
+    no artigo 4.º
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

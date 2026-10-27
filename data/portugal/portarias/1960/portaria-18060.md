@@ -24,6 +24,15 @@ publication:
   pages: 2444 - 2444
   pdf_url: https://files.diariodarepublica.pt/1s/1960/11/26400/24442444.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que a refinaria da Sociedade Nacional de Refinação de Petróleos, S
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

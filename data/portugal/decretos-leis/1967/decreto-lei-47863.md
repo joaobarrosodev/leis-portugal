@@ -23,6 +23,16 @@ publication:
   pages: 1529 - 1531
   pdf_url: https://files.diariodarepublica.pt/1s/1967/08/19900/15291531.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias depois da troca dos instrumentos de ratificação, a efectuar-se na cidade de Brasília, e a sua vigência durará
+    até seis meses após a data em que for denunciado por uma das Partes Contratantes
+  method: clausula
+  article: art-xviii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

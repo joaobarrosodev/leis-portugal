@@ -24,6 +24,15 @@ publication:
   pages: 847 - 849
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/10000/08470849.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: provisoriamente, a partir da data da sua assinatura e, definitivamente, após a sua aprovação pelos dois Governos
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

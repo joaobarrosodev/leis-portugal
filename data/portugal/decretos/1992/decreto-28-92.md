@@ -23,6 +23,16 @@ publication:
   pages: 2698 - 2711
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/129a00/26982711.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês subsequente ao da finalização da troca de notas efectuada pelas Partes por via diplomática,
+    notificando-se mutuamente de que estão cumpridas todas as formalidades constitucionai
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

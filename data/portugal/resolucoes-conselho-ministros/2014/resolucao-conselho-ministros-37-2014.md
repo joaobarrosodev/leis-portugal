@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3338 - 3339
   pdf_url: https://files.diariodarepublica.pt/1s/2014/06/11800/0333803339.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-24'
+entry_into_force:
+  date: '2014-06-24'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-2
+  effects_date: '2014-07-11'
+  effects_rule: a partir de 11 de julho de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

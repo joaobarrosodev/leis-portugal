@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:381570:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-07-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c0ef9c9bbfd3ede7"
+   ]
+  },
+  {
+   "date": "1986-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:196229:por",
+     "title": "Decreto-Lei n.º 70/86",
+     "published": "1986-04-05",
+     "dre_path": "/dr/detalhe/decreto-lei/70-1986-196229"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "b1c47d2e3e20760e",
+    "a582adb7add58afa",
+    "fe7885971da53ecd",
+    "3c2b5e24b55291f4",
+    "e0a4300b8778722d",
+    "a6db74e7450e12d7"
+   ]
+  }
+ ],
+ "fragments": {
+  "c0ef9c9bbfd3ede7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho\n\nConsiderando que as ajudas de custo diárias a abonar aos funcionários e agentes do Estado que se desloquem em missão oficial ao estrangeiro ou no estrangeiro foram actualizadas através da [Resolução do Conselho de Ministros n.º 11-A/84](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-a-1984-667520), de 14 de Fevereiro;\n\nDada a necessidade de se proceder em termos semelhantes relativamente aos militares:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º As ajudas de custo diárias a abonar aos militares da Armada, do Exército e da Força Aérea que se desloquem em missão oficial ao estrangeiro ou no estrangeiro passam a ser as da tabela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17300/22942294.pdf)\n\nArt. 2.º Nas missões oficiais que sejam presididas por um membro do Governo, pelo Chefe do Estado-Maior-General das Forças Armadas ou pelos chefes de estado-maior dos ramos, os oficiais integrados nessa missão serão abonados de ajudas de custo de quantitativo igual ao de oficial general.\n\nArt. 3.º Os quantitativos da tabela constante do artigo 1.º poderão ser actualizados por portaria do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças e do Plano.\n\nArt. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1984.\n\nArt. 5.º Fica revogado o [Decreto-Lei n.º 434-R/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-r-1982-243547), de 29 de Outubro.\n\nVisto e aprovado em Conselho de Ministros de 3 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes.\n\nPromulgado em 11 de Julho de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 16 de Julho de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "b1c47d2e3e20760e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho\n\nConsiderando que as ajudas de custo diárias a abonar aos funcionários e agentes do Estado que se desloquem em missão oficial ao estrangeiro ou no estrangeiro foram actualizadas através da [Resolução do Conselho de Ministros n.º 11-A/84](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-a-1984-667520), de 14 de Fevereiro;\n\nDada a necessidade de se proceder em termos semelhantes relativamente aos militares:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "a582adb7add58afa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs ajudas de custo diárias a abonar aos militares da Armada, do Exército e da Força Aérea que se desloquem em missão oficial ao estrangeiro ou no estrangeiro passam a ser as da tabela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17300/22942294.pdf)"
+  },
+  "fe7885971da53ecd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1986-04-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 70/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1986-196229), publicado em 1986-04-05."
+   ],
+   "markdown": "###### Artigo 2.º\n\nNas missões oficiais, as ajudas de custo a abonar aos oficiais que integram a missão serão de quantitativo igual às do elemento que a ela presidir.\n\n> Alterado pelo/a [Decreto-Lei n.º 70/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1986-196229), publicado em 1986-04-05."
+  },
+  "3c2b5e24b55291f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs quantitativos da tabela constante do artigo 1.º poderão ser actualizados por portaria do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças e do Plano."
+  },
+  "e0a4300b8778722d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma produz efeitos desde 1 de Janeiro de 1984."
+  },
+  "a6db74e7450e12d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nFica revogado o [Decreto-Lei n.º 434-R/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-r-1982-243547), de 29 de Outubro.\n\nVisto e aprovado em Conselho de Ministros de 3 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes.\n\nPromulgado em 11 de Julho de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 16 de Julho de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

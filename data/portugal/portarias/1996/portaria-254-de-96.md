@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1970-(56) a 1970-(57)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/162b03/00560057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-07-20'
+entry_into_force:
+  date: '1996-07-20'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

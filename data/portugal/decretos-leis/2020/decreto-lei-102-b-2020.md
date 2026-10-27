@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 36-(2) a 36-(220)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-08'
+entry_into_force:
+  date: '2021-01-08'
+  rule: no prazo de 30 dias após a sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

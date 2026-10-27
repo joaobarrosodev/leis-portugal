@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09800/0001400015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-25'
+entry_into_force:
+  date: '2022-05-25'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2022-05-23'
+  effects_rule: a 23 de maio de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

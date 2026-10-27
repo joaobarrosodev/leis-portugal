@@ -24,6 +24,16 @@ publication:
   pages: 3369 - 3373
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/23600/33693373.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para os Estados que o tenham ratificado, aceite, aprovado ou que a ele tenham aderido após decorridos os 90 dias seguintes
+    à data em que 8 Estados, dos quais 5 representando Estados que tenham, cada u
+  method: clausula
+  article: art-v
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

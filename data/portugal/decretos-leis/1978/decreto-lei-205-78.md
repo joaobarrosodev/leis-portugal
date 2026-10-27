@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1461 - 1461
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16900/14611461.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-07-26'
+entry_into_force:
+  date: '1978-07-26'
+  rule: no dia seguinte ao da sua publicação e substitui o Decreto Regulamentar n.º 75/77, de 10 de Novembro, considerando-se,
+    no entanto, válidos, para todos os efeitos legais, os concursos documentais já ab
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

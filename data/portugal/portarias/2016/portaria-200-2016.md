@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2390 - 2391
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13900/0239002391.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-07-22'
+entry_into_force:
+  date: '2016-07-22'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

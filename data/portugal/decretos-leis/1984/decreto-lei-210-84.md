@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1935 - 1937
   pdf_url: https://files.diariodarepublica.pt/1s/1984/06/14600/19351937.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-12-23'
+entry_into_force:
+  date: '1984-12-23'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 1546 - 1559
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês seguinte ao da sua aplicação
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

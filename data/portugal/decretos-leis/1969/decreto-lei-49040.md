@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-04-04'
+version_history:
+  file: decreto-lei-49040.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-06-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-04-04'
+    amending: pt:dre:258992:por
+    amending_title: Decreto-Lei n.º 86/94
+    changes:
+    - Revoga Artigo 20.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:09:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 86/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49040.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,7 +206,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. A execução das penas de prisão até seis meses e o internamento dos detidos poderão ter lugar em estabelecimentos prisionais regionais que sirvam simultâneamente várias comarcas ou julgados municipais.
+###### Artigo 1.º
+
+1. A execução das penas de prisão até seis meses e o internamento dos detidos poderão ter lugar em estabelecimentos prisionais regionais que sirvam simultâneamente várias comarcas ou julgados municipais.
 
 2. Os estabelecimentos prisionais regionais podem destinar-se exclusivamente ao cumprimento de penas ou à detenção, ou podem ser destinados a esses dois fins cumulativamente, mas neste caso possuirão secções ou pavilhões separados para um e para outro. Haverá também uma secção ou pavilhão para o internamento de menores de 21 anos e, sempre que possível, secções ou pavilhões destinados aos condenados por crimes culposos ou infracções contravencionais.
 
@@ -199,25 +216,33 @@ Artigo 1.º - 1. A execução das penas de prisão até seis meses e o intername
 
 4. Os estabelecimentos em que tenha lugar o internamento de detidos serão localizados por forma a permitirem fáceis e rápidas comunicações com os tribunais que servem, mediante um serviço de transporte próprio que assegure, diàriamente sendo necessário, a condução dos presos aos diversos tribunais, para intervenção nos actos de processo ou organização da defesa, e a sua recolha.
 
-Art. 2.º - 1. São aplicáveis aos estabelecimentos prisionais regionais as disposições que definem o regime da detenção e do cumprimento das penas de prisão até seis meses.
+###### Artigo 2.º
+
+1. São aplicáveis aos estabelecimentos prisionais regionais as disposições que definem o regime da detenção e do cumprimento das penas de prisão até seis meses.
 
 2. Nos estabelecimentos, secções ou pavilhões destinados ao internamento de detidos proceder-se-á, sempre que possível, à observação destes em ordem à recolha de todos os elementos que possam concorrer para a adequada individualização da pena ou da medida de segurança aplicável sempre que uma ou outra seja superior a dois anos, ou, não o sendo, quando o tribunal o requisite.
 
 3. O resultado da observação a que se refere o número anterior é secreto, só podendo ser comunicado ao juiz, ao magistrado do Ministério Público, ao defensor do arguido, aos estabelecimentos ou serviços que venham a ficar encarregados da execução da pena ou da medida de segurança e ainda às pessoas autorizadas pelo tribunal.
 
-Art. 3.º - 1. Todas as comarcas e julgados municipais serão dotados de postos de detenção com as condições indispensáveis para os reclusos aguardarem a vez de serem chamados e para, eventualmente, se não houver na sede do tribunal estabelecimento de detenção, permanecerem de um dia para o outro.
+###### Artigo 3.º
+
+1. Todas as comarcas e julgados municipais serão dotados de postos de detenção com as condições indispensáveis para os reclusos aguardarem a vez de serem chamados e para, eventualmente, se não houver na sede do tribunal estabelecimento de detenção, permanecerem de um dia para o outro.
 
 2. Os postos de detenção existentes serão, na medida do possível, adaptados às condições previstas no número anterior.
 
 3. A custódia dos presos incumbirá ao oficial porteiro e, na sua falta, ao oficial de diligências que for designado pelo juiz. Poderá também ser solicitada a colaboração das autoridades locais.
 
-Art. 4.º - 1. A comunicação dos actos judiciais aos reclusos nos estabelecimentos regionais poderá ser feita por simples mandado do tribunal à ordem do qual se encontrem, sempre que o juiz ou o magistrado do Ministério Público não reputem necessária a sua comparência no tribunal do processo.
+###### Artigo 4.º
+
+1. A comunicação dos actos judiciais aos reclusos nos estabelecimentos regionais poderá ser feita por simples mandado do tribunal à ordem do qual se encontrem, sempre que o juiz ou o magistrado do Ministério Público não reputem necessária a sua comparência no tribunal do processo.
 
 2. O detido pode, porém, solicitar que a notificação seja feita no referido tribunal, para seu melhor esclarecimento ou para facilitar a organização da defesa.
 
 3. Compete ao director do estabelecimento regional tomar as providências necessárias ao cumprimento do mandado e à deslocação do recluso, conforme os casos.
 
-Art. 5.º - 1. É criada uma comissão para estudar o agrupamento das comarcas e julgados municipais que serão servidos por estabelecimentos prisionais regionais.
+###### Artigo 5.º
+
+1. É criada uma comissão para estudar o agrupamento das comarcas e julgados municipais que serão servidos por estabelecimentos prisionais regionais.
 
 2. A comissão será nomeada por despacho conjunto dos Ministros da Justiça e das Obras Públicas, aos quais compete também aprovar o plano de construções das cadeias regionais.
 
@@ -225,7 +250,9 @@ Art. 5.º - 1. É criada uma comissão para estudar o agrupamento das comarcas e
 
 4. Enquanto não estiver concluído o estudo a que se refere este artigo é suspensa a construção e adaptação das cadeias comarcãs do continente, salvo as de Lisboa, Porto e Coimbra.
 
-Art. 6.º Fica o Ministro da Justiça autorizado a estabelecer, por portaria:
+###### Artigo 6.º
+
+Fica o Ministro da Justiça autorizado a estabelecer, por portaria:
 
 a) A criação dos estabelecimentos regionais a que se refere o artigo 1.º, em execução do plano previsto no artigo anterior;
 
@@ -235,7 +262,9 @@ c) A extinção das cadeias das comarcas que não possam ser incluídas na área
 
 d) A extinção das cadeias dos julgados municipais.
 
-Art. 7.º - 1. A construção dos estabelecimentos prisionais regionais, bem como a adaptação ao mesmo fim das actuais cadeias comarcãs, constituem encargo do Estado e serão feitas pelo Ministério das Obras Públicas, por intermédio da Comissão das Construções Prisionais, nos termos do [Decreto-Lei n.º 31190](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31190-1941-416659), de 25 de Março de 1941, e mais legislação aplicável.
+###### Artigo 7.º
+
+1. A construção dos estabelecimentos prisionais regionais, bem como a adaptação ao mesmo fim das actuais cadeias comarcãs, constituem encargo do Estado e serão feitas pelo Ministério das Obras Públicas, por intermédio da Comissão das Construções Prisionais, nos termos do [Decreto-Lei n.º 31190](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31190-1941-416659), de 25 de Março de 1941, e mais legislação aplicável.
 
 2. Compete também à comissão das Construções Prisionais dar parecer sobre os projectos de postos de detenção.
 
@@ -243,7 +272,9 @@ Art. 7.º - 1. A construção dos estabelecimentos prisionais regionais, bem com
 
 4. Continuam em vigor as disposições do [Decreto-Lei n.º 34096](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34096-1944-563429), de 9 de Novembro de 1944.
 
-Art. 8.º - 1. Os estabelecimentos prisionais regionais disporão do pessoal necessário para assegurar a direcção, educação, vigilância, assistência médica, religiosa e social dos reclusos e, quanto possível, a conveniente observação destes.
+###### Artigo 8.º
+
+1. Os estabelecimentos prisionais regionais disporão do pessoal necessário para assegurar a direcção, educação, vigilância, assistência médica, religiosa e social dos reclusos e, quanto possível, a conveniente observação destes.
 
 2. Os serviços a que se refere o número anterior poderão ser prestados:
 
@@ -257,7 +288,9 @@ c) Em regime de serviço eventual.
 
 4. Os encargos a que se refere o n.º 2 serão pagos, nos casos da alínea a), pelas competentes verbas do pessoal, e nos das alíneas b) e c) , pela verba a que se refere o n.º 1 do artigo 13.º do presente diploma.
 
-Art. 9.º - 1. Os directores dos estabelecimentos prisionais regionais e comarcãos poderão assalariar eventualmente:
+###### Artigo 9.º
+
+1. Os directores dos estabelecimentos prisionais regionais e comarcãos poderão assalariar eventualmente:
 
 a) Pessoal de vigilância do sexo feminino, quando haja reclusos desse sexo;
 
@@ -269,9 +302,13 @@ b) Pessoal de vigilância do sexo masculino, para substituir os carcereiros e gu
 
 4. Os encargos resultantes do disposto no número anterior serão suportados pela dotação global referida no n.º 1 do artigo 13.º do presente decreto-lei.
 
-Art. 10.º O número de preceptores fixado no mapa n.º 2 anexo ao [Decreto-Lei n.º 40876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40876-1956-298634), de 24 de Novembro de 1956, poderá, mediante despacho dos Ministros da Justiça e das Finanças, ser acrescido de novos lugares nos estabelecimentos prisionais, centrais e regionais, à medida que as necessidades do serviço o exijam.
+###### Artigo 10.º
 
-Art. 11.º - 1. Os carcereiros das cadeias das comarcas e dos julgados municipais, que forem sendo extintas, serão integrados no quadro único dos guardas prisionais da metrópole, com a categoria de guardas auxiliares.
+O número de preceptores fixado no mapa n.º 2 anexo ao [Decreto-Lei n.º 40876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40876-1956-298634), de 24 de Novembro de 1956, poderá, mediante despacho dos Ministros da Justiça e das Finanças, ser acrescido de novos lugares nos estabelecimentos prisionais, centrais e regionais, à medida que as necessidades do serviço o exijam.
+
+###### Artigo 11.º
+
+1. Os carcereiros das cadeias das comarcas e dos julgados municipais, que forem sendo extintas, serão integrados no quadro único dos guardas prisionais da metrópole, com a categoria de guardas auxiliares.
 
 2. O quadro referido no número anterior é aumentado com 160 unidades, sendo 100 auxiliares, 30 de 3.ª classe, 20 de 2.ª classe, e 10 de 1.ª classe. 40 dos lugares agora criados serão preenchidos por guardas motoristas.
 
@@ -281,9 +318,13 @@ Art. 11.º - 1. Os carcereiros das cadeias das comarcas e dos julgados municipai
 
 5. Os carcereiros integrados no quadro único dos guardas prisionais conservam todos os direitos e regalias que actualmente usufruem, salvo o de residência em casa do Estado ou das autarquias locais, e não lhes poderá ser abonada importância inferior à que presentemente percebem.
 
-Art. 12.º Os carcereiros das cadeias extintas gozam de preferência no provimento dos lugares das câmaras municipais e dos tribunais das terras onde serviam, para os quais tenham as necessárias habilitações.
+###### Artigo 12.º
 
-Art. 13.º - 1. Serão satisfeitas em conta de dotação global a inscrever no orçamento do Ministério da Justiça todas as despesas com a manutenção e funcionamento dos estabelecimentos prisionais regionais e das cadeias comarcãs sem autonomia administrativa.
+Os carcereiros das cadeias extintas gozam de preferência no provimento dos lugares das câmaras municipais e dos tribunais das terras onde serviam, para os quais tenham as necessárias habilitações.
+
+###### Artigo 13.º
+
+1. Serão satisfeitas em conta de dotação global a inscrever no orçamento do Ministério da Justiça todas as despesas com a manutenção e funcionamento dos estabelecimentos prisionais regionais e das cadeias comarcãs sem autonomia administrativa.
 
 2. Constituem ainda encargo da dotação referida no número anterior as despesas com a alimentação e tratamento de reclusos internados nos postos de detenção dos tribunais.
 
@@ -293,15 +334,23 @@ a) As despesas com os vencimentos do pessoal que, nos termos da alínea a) do n.
 
 b) As despesas com a reparação ou modificação dos estabelecimentos regionais, a cargo da Comissão das Construções Prisionais, que serão suportadas pelas competentes verbas dos Ministérios da Justiça e das Obras Públicas.
 
-Art. 14.º A administração da verba referida no n.º 1 do artigo 13.º compete à Direcção-Geral dos Serviços Prisionais e subordina-se às normas que disciplinam a realização das despesas públicas em tudo o que não esteja especialmente regulado por este diploma.
+###### Artigo 14.º
 
-Art. 15.º - 1. A alimentação para os presos dos estabelecimentos prisionais regionais e comarcãos e dos postos de detenção, quando- não seja confeccionada no próprio serviço, será fornecida por adjudicação em concurso público, aberto pelo director do estabelecimento ou pelo magistrado do Ministério Público junto do respectivo tribunal, no primeiro dia útil do mês de Outubro de cada ano, para vigorar no ano económico seguinte.
+A administração da verba referida no n.º 1 do artigo 13.º compete à Direcção-Geral dos Serviços Prisionais e subordina-se às normas que disciplinam a realização das despesas públicas em tudo o que não esteja especialmente regulado por este diploma.
+
+###### Artigo 15.º
+
+1. A alimentação para os presos dos estabelecimentos prisionais regionais e comarcãos e dos postos de detenção, quando- não seja confeccionada no próprio serviço, será fornecida por adjudicação em concurso público, aberto pelo director do estabelecimento ou pelo magistrado do Ministério Público junto do respectivo tribunal, no primeiro dia útil do mês de Outubro de cada ano, para vigorar no ano económico seguinte.
 
 2. Os serviços de enfermagem, barbeiro, lavagem de roupa e quaisquer outros que se tornem necessários poderão ser prestados por ajuste particular, mediante consultas efectuadas no mês de Dezembro de cada ano, para o ano económico imediato.
 
-Art. 16.º O Ministro da Justiça fixará, em portaria, as condições a que deve obedecer o concurso público e as consultas referidas no artigo anterior.
+###### Artigo 16.º
 
-Art. 17.º - 1. Compete ao director-geral dos Serviços Prisionais:
+O Ministro da Justiça fixará, em portaria, as condições a que deve obedecer o concurso público e as consultas referidas no artigo anterior.
+
+###### Artigo 17.º
+
+1. Compete ao director-geral dos Serviços Prisionais:
 
 a) Aprovar a adjudicação do fornecimento da alimentação e as minutas dos respectivos contratos;
 
@@ -317,27 +366,37 @@ f) Determinar que o fornecimento da alimentação seja feito por administração
 
 2. A administração directa poderá revestir as formas de compra de alimentação confeccionada ou da sua confecção com a aquisição dos géneros e o pagamento do respectivo serviço.
 
-Art. 18.º Os directores dos estabelecimentos prisionais e os magistrados do Ministério Público das comarcas e julgados com postos de detenção deverão tomar as providências necessárias ao regular fornecimento da alimentação enquanto se não mostrem cumpridas as formalidades indispensáveis à execução do respectivo contrato.
+###### Artigo 18.º
 
-Art. 19.º Compete aos directores dos estabelecimentos prisionais regionais e comarcãos outorgar em nome do Estado nos contratos autorizados para os fornecimentos de água, gás, electricidade, telefone e quaisquer outros que sejam necessários para o regular funcionamento dos mesmos estabelecimentos.
+Os directores dos estabelecimentos prisionais e os magistrados do Ministério Público das comarcas e julgados com postos de detenção deverão tomar as providências necessárias ao regular fornecimento da alimentação enquanto se não mostrem cumpridas as formalidades indispensáveis à execução do respectivo contrato.
 
-Art. 20.º - 1. As câmaras municipais entregarão nos cofres do Estado, de 16 a 30 de Junho e de 16 a 31 de Dezembro, as importâncias correspondentes ao encargo que, no respectivo semestre, lhes competia como despesa obrigatória com a manutenção e funcionamento das cadeias das comarcas e dos julgados municipais.
+###### Artigo 19.º
 
-2. As importâncias a que se refere o n.º 1 deste artigo serão determinadas pela média das despesas suportadas por cada câmara municipal nos anos de 1966, 1967 e 1968.
+Compete aos directores dos estabelecimentos prisionais regionais e comarcãos outorgar em nome do Estado nos contratos autorizados para os fornecimentos de água, gás, electricidade, telefone e quaisquer outros que sejam necessários para o regular funcionamento dos mesmos estabelecimentos.
 
-3. Compete à 4.ª Repartição da Direcção-Geral da Contabilidade Pública fixar as médias referidas no número anterior, ouvidas as câmaras municipais interessadas e a Direcção-Geral dos Serviços Prisionais.
+###### Artigo 20.º
 
-Art. 21.º - 1. A 2.ª Repartição da Direcção-Geral dos Serviços Prisionais processará, em quadruplicado, as competentes guias de receita, que serão remetidas às repartições de finanças dos respectivos concelhos, e avisará, por ofício, as câmaras municipais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 86/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1994-258992), publicado em 1994-03-30.
+
+###### Artigo 21.º
+
+1. A 2.ª Repartição da Direcção-Geral dos Serviços Prisionais processará, em quadruplicado, as competentes guias de receita, que serão remetidas às repartições de finanças dos respectivos concelhos, e avisará, por ofício, as câmaras municipais.
 
 2. As repartições de finanças ordenarão que se deduzam nas receitas a entregar às câmaras devedoras as importâncias das guias que não forem pagas nos devidos prazos.
 
-Art. 22.º - 1. Será depositado nos cofres do Estado, até ao dia 20 do mês imediato àquele a que respeitar, o custo da alimentação e tratamento dos reclusos que, nos termos da legislação vigente, devam indemnizar o Estado.
+###### Artigo 22.º
+
+1. Será depositado nos cofres do Estado, até ao dia 20 do mês imediato àquele a que respeitar, o custo da alimentação e tratamento dos reclusos que, nos termos da legislação vigente, devam indemnizar o Estado.
 
 2. Compete aos directores das cadeias, e aos magistrados do Ministério Público quando o internamento não seja feito em estabelecimento prisional, indicar os reclusos abrangidos por aquela obrigação.
 
 3. Quando as importâncias a que se refere este artigo não forem pagas voluntàriamente, o magistrado do Ministério Público da respectiva comarca promoverá a competente execução, constituindo a factura título exequível quando conferida e autenticada pela 2.ª Repartição da Direcção-Geral dos Serviços Prisionais.
 
-Art. 23.º - 1. Compete à 2.ª Repartição da Direcção-Geral dos Serviços Prisionais o processamento das despesas resultantes do presente decreto-lei.
+###### Artigo 23.º
+
+1. Compete à 2.ª Repartição da Direcção-Geral dos Serviços Prisionais o processamento das despesas resultantes do presente decreto-lei.
 
 2. Os directores dos estabelecimentos prisionais regionais e comarcãos e os magistrados do Ministério Público das comarcas com posto de detenção remeterão àquela repartição:
 
@@ -349,13 +408,19 @@ b) Até ao dia 8 de cada mês, os restantes documentos para processamento das re
 
 4. Os directores dos estabelecimentos prisionais e os magistrados do Ministério Público das comarcas e julgados com postos de detenção são responsáveis pela observância dos prazos fixados nos n.os 2 e 3, sendo aplicável o disposto no § 2.º do artigo 18.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1931, e no artigo 5.º do [Decreto-Lei n.º 31173](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31173-1941-416664), de 14 de Março de 1941, à falta de cumprimento dos referidos prazos.
 
-Art. 24.º - 1. Constituem encargo dos fundos administrados pela Repartição Administrativa dos Cofres do Ministério da Justiça as despesas resultantes da aquisição dos carros celulares necessários à execução deste decreto-lei.
+###### Artigo 24.º
+
+1. Constituem encargo dos fundos administrados pela Repartição Administrativa dos Cofres do Ministério da Justiça as despesas resultantes da aquisição dos carros celulares necessários à execução deste decreto-lei.
 
 2. As despesas de conservação e substituição das referidas viaturas serão custeadas pelas competentes dotações do Orçamento Geral do Estado.
 
-Art. 25.º As despesas relativas às cadeias comarcãs e dos julgados municipais continuarão a ser satisfeitas até ao fim do corrente ano económico nos termos que têm vigorado.
+###### Artigo 25.º
 
-Art. 26.º Ficam revogados o [Decreto n.º 7378](https://diariodarepublica.pt/dr/detalhe/decreto/7378-1921-362119), de 4 de Março de 1921, e os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 45025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45025-1963-627978), de 11 de Maio de 1963.
+As despesas relativas às cadeias comarcãs e dos julgados municipais continuarão a ser satisfeitas até ao fim do corrente ano económico nos termos que têm vigorado.
+
+###### Artigo 26.º
+
+Ficam revogados o [Decreto n.º 7378](https://diariodarepublica.pt/dr/detalhe/decreto/7378-1921-362119), de 4 de Março de 1921, e os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 45025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45025-1963-627978), de 11 de Maio de 1963.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 

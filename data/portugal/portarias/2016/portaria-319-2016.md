@@ -26,6 +26,15 @@ publication:
   pages: 4723 - 4725
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23900/0472304725.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 (dez) dias após a sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4 - 50
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/17700/0000400050.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte ao da notificação pelo depositário às Partes a confirmar a receção do último
+    instrumento de ratificação ou de aprovação
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

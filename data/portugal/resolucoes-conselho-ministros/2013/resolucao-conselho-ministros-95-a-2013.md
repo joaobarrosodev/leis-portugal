@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6994-(6) a 6994-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25102/0000600006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-01'
+entry_into_force:
+  date: '2014-01-01'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2013-12-28'
+  effects_rule: no dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

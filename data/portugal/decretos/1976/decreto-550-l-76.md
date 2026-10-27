@@ -24,6 +24,16 @@ publication:
   pages: 1540-(17) a 1540-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16102/00170021.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e durará até à materialização dos actos de transferência do departamento do Banco Nacional
+    Ultramarino em S
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

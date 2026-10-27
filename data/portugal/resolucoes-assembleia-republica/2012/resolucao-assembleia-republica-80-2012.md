@@ -27,6 +27,16 @@ publication:
   pages: 3025 - 3038
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que tiverem sido depositados instrumentos de ratificação, aprovação ou aceitação por signatários cujas
+    subscrições iniciais representem, pelo menos, 90 % do total de subscrições estabelecid
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 5096 - 5101
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14600/0509605101.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início de vigência do diploma referido no artigo 4.º
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 268-(2) a 268-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/01/02001/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-30'
+entry_into_force:
+  date: '2010-01-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2010-02-01'
+  effects_rule: desde 1 de Fevereiro de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 13-(2) a 13-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00301/0000200011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-05'
+entry_into_force:
+  date: '2024-01-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: nos termos definidos no artigo 20.º do Decreto-Lei n.º 89/2023, de 11 de outubro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5189 - 5189
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/188b00/51895189.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-06-07'
+entry_into_force:
+  date: '2001-06-07'
+  rule: no dia 7 de Junho de 2001 e a comissão de protecção de crianças e jovens inicia funções de imediato
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

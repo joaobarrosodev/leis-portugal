@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 119 - 128
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21800/0011900128.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-11-11'
+entry_into_force:
+  date: '2023-11-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: '2023-10-17'
+  effects_rule: reportados a 17 de outubro de 2023, considerando-se ratificados ou confirmados todos os atos que tenham sido
+    praticados desde aquela data em conformidade com o disposto no presente diploma
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

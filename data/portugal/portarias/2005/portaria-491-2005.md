@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3520 - 3521
   pdf_url: https://files.diariodarepublica.pt/1s/2005/05/100b00/35203521.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-05-25'
+entry_into_force:
+  date: '2005-05-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-4
+  effects_date: '2005-03-12'
+  effects_rule: a partir do dia 12 de Março de 2005
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

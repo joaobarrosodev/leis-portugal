@@ -23,6 +23,15 @@ publication:
   pages: 7839 - 7846
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/20500/0783907846.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 6918 - 6929
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17200/0691806929.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data em que os instrumentos de ratificação, aprovação ou aceitação tiverem
+    sido depositados pelos signatários participantes no Mecanismo Único de Supervisão e
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

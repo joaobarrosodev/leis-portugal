@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3190 - 3203
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/157a00/31903203.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-01-06'
+entry_into_force:
+  date: '1999-01-06'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

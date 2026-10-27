@@ -23,9 +23,27 @@ publication:
   supplement: null
   pages: 5181 - 5181
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14800/0518105181.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-05'
+entry_into_force:
+  date: '2015-08-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2015-08-01'
+  effects_rule: no dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:114297497:por'
+    detail: Revogada, com efeitos a 24.11.2017, pelo(a) Resolução do Conselho de Ministros n.º 185/2017 - Diário da República
+      n.º 232/2017, Série I de 2017-12-04 no que se refere aos valores previstos para o ano de 2018 e aos serviços abrangidos
+      por esta
 notes: []
 language: por
 version:

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 8185 - 8216
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/22600/0818508216.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-31'
+entry_into_force:
+  date: '2009-03-31'
+  rule: 'em 31 de Março de 2009 com as excepções seguintes:'
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

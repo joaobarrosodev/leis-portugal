@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2048 - 2050
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/06600/0204802050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-04-04'
+entry_into_force:
+  date: '2008-04-04'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: '2007-02-20'
+  effects_rule: reportados a 20 de Fevereiro de 2007
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

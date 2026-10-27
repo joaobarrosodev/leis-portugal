@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6513 - 6518
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/17900/0651306518.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-10-17'
+entry_into_force:
+  date: '2007-10-17'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

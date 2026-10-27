@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13413 - 13414
   pdf_url: https://files.diariodarepublica.pt/2s/2001/08/183000000/1341313414.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-08-09'
+entry_into_force:
+  date: '2001-08-09'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

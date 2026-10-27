@@ -5,6 +5,8 @@ from pathlib import Path
 
 import pytest
 
+from sem_processos import sem_processos  # noqa: F401  (fixture autouse: threads em vez de processos)
+
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 FIXTURES = Path(__file__).resolve().parent / "fixtures"

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4022 - 4024
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/189b00/40224024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-08-18'
+entry_into_force:
+  date: '2000-08-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-27
+  effects_date: '2000-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2000, sem prejuízo de o início de funções da comissão instaladora se reportar,
+    para todos os efeitos, a 1 de Setembro de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

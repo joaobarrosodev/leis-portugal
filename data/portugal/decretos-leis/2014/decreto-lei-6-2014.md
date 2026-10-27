@@ -24,6 +24,15 @@ publication:
   pages: 160 - 160
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/00900/0016000160.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação, reportando os seus efeitos ao ano letivo de 2013-2014
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

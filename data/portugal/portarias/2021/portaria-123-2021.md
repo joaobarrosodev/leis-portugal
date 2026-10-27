@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5 - 13
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11700/0000500013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-17'
+entry_into_force:
+  date: '2021-08-17'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

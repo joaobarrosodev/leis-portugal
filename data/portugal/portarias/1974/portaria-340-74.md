@@ -24,6 +24,15 @@ publication:
   pages: 649 - 649
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/12200/06490649.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Julho próximo
+  method: clausula
+  article: art-316
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

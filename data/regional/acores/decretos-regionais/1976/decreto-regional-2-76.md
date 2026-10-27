@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2279 - 2282
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/23600/22792282.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-10-08'
+entry_into_force:
+  date: '1976-10-08'
+  rule: na data da sua publicação e
+  method: clausula
+  article: art-23
+  effects_date: '1976-07-20'
+  effects_rule: a partir de 20 de Julho de 1976, salvo quanto às remunerações e despesas já suportadas por outras entidades
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1048 - 1049
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/034b00/10481049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-11-23'
+entry_into_force:
+  date: '2001-11-23'
+  rule: no dia 23 de Novembro de 2001 e a Comissão de Protecção de Crianças e Jovens inicia funções de imediato
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

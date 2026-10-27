@@ -22,16 +22,40 @@ publication:
   supplement: null
   pages: 5937 - 5950
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/247b00/59375950.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-10-26'
+entry_into_force:
+  date: '1993-10-26'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-04-19'
+version_history:
+  file: decreto-regulamentar-34-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-10-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-19'
+    amending: pt:dre:167189:por
+    amending_title: Decreto Regulamentar n.º 6/98
+    changes:
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/34/1993/10/21/p/dre/pt/html
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:21:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 6/98. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1993/decreto-regulamentar-34-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -493,11 +518,13 @@ c) A Repartição de Arquivo e Microfilmagem, constituída por duas Secções de
 
 d) A Repartição de Aprovisionamento, constituída pelas Secções de Aprovisionamento e de Gestão de Existências, à qual compete assegurar as actividades previstas nas alíneas n) e o);
 
-e) O Centro Gráfico, coordenado por um funcionário para o efeito designado pelo conselho directivo, ao qual compete assegurar as actividades previstas na alínea p).
+e) O Centro Gráfico é coordenado por um funcionário, remunerado nos termos do artigo 5.º e para o efeito designado pelo conselho directivo, ao qual compete assegurar as actividades previstas na alínea p).
 
 3 - As actividades referidas nas alíneas h) e j) do n.º 1 são asseguradas pelas Secções de Expediente e Apoio em relação ao local ou locais de implantação e funcionamento dos serviços a que estejam afectos.
 
 4 - As actividades referidas nas alíneas l) e m) do n.º 1 são asseguradas, respectivamente, pelas Secções de Arquivo, previstas na alínea c) do n.º 2, e pelo Centro de Microfilmagem.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 6/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1998-167189), publicado em 1998-04-14.
 
 ###### Artigo 14.º — Gabinete de Relações Públicas e Documentação
 

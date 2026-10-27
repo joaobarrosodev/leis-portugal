@@ -23,6 +23,16 @@ publication:
   pages: 1463 - 1492
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/17000/14631492.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em relação a qualquer país estranho à União três meses após a data em que o director-geral notificou do depósito do
+    seu instrumento de adesão, a menos que uma data posterior tenha sido indicada no ins
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

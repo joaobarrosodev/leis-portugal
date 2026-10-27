@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2556 - 2556
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26200/25562556.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-11-10'
+entry_into_force:
+  date: '1976-11-10'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

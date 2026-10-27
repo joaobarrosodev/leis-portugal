@@ -24,6 +24,16 @@ publication:
   pages: 3748 - 3749
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25600/37483749.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última das notas pelas quais as Partes se comuniquem estarem cumpridas as formalidades constitucionais
+    de aprovação do Acordo
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

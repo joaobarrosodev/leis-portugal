@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 8841 - 8845
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19900/0884108845.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-13'
+entry_into_force:
+  date: '2015-10-13'
+  rule: no dia seguinte ao da sua publicação, e
+  method: clausula
+  article: art-15
+  effects_date: '2015-09-15'
+  effects_rule: a 15 de setembro de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

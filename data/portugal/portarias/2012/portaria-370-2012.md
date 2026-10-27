@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 6499 - 6500
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/21700/0649906500.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-11-14'
+entry_into_force:
+  date: '2012-11-14'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: à data de entrada em vigor da Portaria n.º 104/2012, de 17 de abril
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

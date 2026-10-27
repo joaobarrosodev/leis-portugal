@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3273 - 3277
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/126b00/32733277.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-31'
+entry_into_force:
+  date: '2001-05-31'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 6414 - 6420
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do Acordo UE-EUA sobre Auxílio Judiciário Mútuo
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

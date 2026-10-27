@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5645 - 5649
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15700/0564505649.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-08-15'
+entry_into_force:
+  date: '2008-08-15'
+  rule: no dia seguinte ao da sua publicação e só será aplicável aos procedimentos de formação de contratos públicos iniciados
+    após a data da sua entrada em vigor e à execução dos contratos que revistam a nat
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

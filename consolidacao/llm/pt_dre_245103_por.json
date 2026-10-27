@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:245103:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Aplicado o n.º 15.º da Portaria 746/89 (revoga os n.os 3.º e 10.º). As substituições dos n.os 1.º e 13.º (regras de cálculo e montantes da caução) ficam na própria Portaria 746/89 e são absorvidas pela revogação desses números; a substituição do anexo (n.º 14.º) não se aplica: o anexo novo e o original só existem em PDF (\"ver documento original\").",
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

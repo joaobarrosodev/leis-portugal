@@ -24,6 +24,16 @@ publication:
   pages: 1328 - 1328
   pdf_url: https://files.diariodarepublica.pt/1s/1967/07/15700/13281328.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para execução total ou por fases em cada uma daquelas províncias ultramarinas quando as circunstâncias financeiras
+    da respectiva província permitirem a inclusão das correspondentes dotações orçamentai
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

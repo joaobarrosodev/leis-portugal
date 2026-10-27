@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 56-(2) a 56-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23202/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-05'
+entry_into_force:
+  date: '2022-12-05'
+  rule: no dia 5 de dezembro de 2022 e
+  method: clausula
+  article: art-4
+  effects_date: '2023-01-01'
+  effects_rule: até dia 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:180398388:por#art-5'
+    detail: '[Artigo 3.º, Portaria n.º 289-A/2022 - Diário da República n.º 232/2022, 2º Suplemento, Série I de 2022-12-02]
+      mantém em vigor o art. 4.º da Portaria n.º 160-B/2022, de 17 de junho, o qual mantém em vigor o presente artigo, a partir
+      de 05.12.2022 e com efeitos até 01.01.2023.'
 notes: []
 language: por
 version:

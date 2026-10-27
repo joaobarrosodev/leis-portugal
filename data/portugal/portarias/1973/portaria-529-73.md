@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1369 - 1370
   pdf_url: https://files.diariodarepublica.pt/1s/1973/08/18200/13691370.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-09-01'
+entry_into_force:
+  date: '1973-09-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

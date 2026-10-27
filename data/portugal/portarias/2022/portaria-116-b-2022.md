@@ -23,6 +23,15 @@ publication:
   pages: 105-(3) a 105-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05503/0000300003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 21 de março e
+  method: clausula
+  article: art-4
+  effects_date: '2022-06-30'
+  effects_rule: até 30 de junho de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

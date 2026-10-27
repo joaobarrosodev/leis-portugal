@@ -24,6 +24,15 @@ publication:
   pages: 3502 - 3506
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/138a00/35023506.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da respectiva notificação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

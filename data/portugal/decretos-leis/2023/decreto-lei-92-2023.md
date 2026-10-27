@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19800/0000300015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-10-13'
+entry_into_force:
+  date: '2023-10-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-34
+  effects_date: '2024-01-10'
+  effects_rule: 90 dias após a sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

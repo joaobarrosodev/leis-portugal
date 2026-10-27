@@ -23,6 +23,16 @@ publication:
   pages: 4058 - 4063
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês após a última notificação do cumprimento das formalidades de aprovação exigidas pelos respectivos
+    direitos internos
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

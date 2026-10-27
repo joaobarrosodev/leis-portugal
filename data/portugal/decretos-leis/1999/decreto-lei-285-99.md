@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4687 - 4687
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/172a00/46874687.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-07-27'
+entry_into_force:
+  date: '1999-07-27'
+  rule: no dia imediato ao da sua publicação e é aplicável aos programas em curso ou a desenvolver que sejam autorizados nos
+    termos previstos no presente diploma
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

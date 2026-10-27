@@ -1,0 +1,616 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:668949:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-10-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dba0845a1cfa849b",
+    "23836370ae405d04",
+    "34084fba78657cc6",
+    "0aab477f2d1a77b3",
+    "7acae316e3595881",
+    "f6ddcee5d4e77c10",
+    "86f4248f1da3c002",
+    "25e20c206fb29448",
+    "ad68f362b6ae95ff",
+    "dc5f8ebe3d91d294",
+    "74addeef2a040577",
+    "09b85117b56eeb5d",
+    "6c5dbf73ac551f17",
+    "627b9be423b58c55",
+    "ddd49317b4fea548",
+    "5665b27f6253bccc",
+    "390d2b961ad38066",
+    "b3f387713aa49994",
+    "2a395385d0400c2e",
+    "9f1508863908a2e9",
+    "498f72e5230bd1dd",
+    "f28623466eddd301",
+    "d744d873be372bec",
+    "53fb7b820d1d0c50",
+    "678513a1f692729f",
+    "28187beec9fccf95",
+    "146a8e283266ae18",
+    "7cb31497745259da",
+    "d2f3140f682aa373",
+    "e8d2bd357957c8d5",
+    "d95b4d869ed7e778",
+    "44d08c62fba8282d",
+    "a7ec6bbd8a859c91",
+    "bf665918278a2e25",
+    "8d6010aa0a1866dd",
+    "76c8a32b2d4c8a3a",
+    "14596c820ed58fa4",
+    "fedc892bc42d1719",
+    "744bf3d81fc0a3d3",
+    "0653b5c2ca601856",
+    "cb2e80132499e60f",
+    "f677d5cf0fbcefd0",
+    "0d142f37ba289877",
+    "aea9e412eba4675a",
+    "4cf1dcaf3c8f10ef",
+    "41fba4993e1f787d",
+    "2472afed0e68bc98",
+    "83fdb6bac48554dd",
+    "5c072993c69e039d",
+    "07f584fb21005f03",
+    "e5b5ce43e2e0271e",
+    "23595346f2903511",
+    "c68f323f283bb4d0",
+    "04fd8f6a93cf452d",
+    "68db9aa5170f3912",
+    "6c3c18d6121bb461",
+    "65d2f18bc8abf269"
+   ]
+  },
+  {
+   "date": "1998-04-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:167189:por",
+     "title": "Decreto Regulamentar n.º 6/98",
+     "published": "1998-04-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/6-1998-167189"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "dba0845a1cfa849b",
+    "23836370ae405d04",
+    "34084fba78657cc6",
+    "0aab477f2d1a77b3",
+    "7acae316e3595881",
+    "f6ddcee5d4e77c10",
+    "86f4248f1da3c002",
+    "25e20c206fb29448",
+    "ad68f362b6ae95ff",
+    "dc5f8ebe3d91d294",
+    "74addeef2a040577",
+    "09b85117b56eeb5d",
+    "6c5dbf73ac551f17",
+    "627b9be423b58c55",
+    "ddd49317b4fea548",
+    "bfb2ff6496daebf3",
+    "390d2b961ad38066",
+    "b3f387713aa49994",
+    "2a395385d0400c2e",
+    "9f1508863908a2e9",
+    "498f72e5230bd1dd",
+    "f28623466eddd301",
+    "d744d873be372bec",
+    "53fb7b820d1d0c50",
+    "678513a1f692729f",
+    "28187beec9fccf95",
+    "146a8e283266ae18",
+    "7cb31497745259da",
+    "d2f3140f682aa373",
+    "e8d2bd357957c8d5",
+    "d95b4d869ed7e778",
+    "44d08c62fba8282d",
+    "a7ec6bbd8a859c91",
+    "bf665918278a2e25",
+    "8d6010aa0a1866dd",
+    "76c8a32b2d4c8a3a",
+    "14596c820ed58fa4",
+    "fedc892bc42d1719",
+    "744bf3d81fc0a3d3",
+    "0653b5c2ca601856",
+    "cb2e80132499e60f",
+    "f677d5cf0fbcefd0",
+    "0d142f37ba289877",
+    "aea9e412eba4675a",
+    "4cf1dcaf3c8f10ef",
+    "41fba4993e1f787d",
+    "2472afed0e68bc98",
+    "83fdb6bac48554dd",
+    "5c072993c69e039d",
+    "07f584fb21005f03",
+    "e5b5ce43e2e0271e",
+    "23595346f2903511",
+    "c68f323f283bb4d0",
+    "04fd8f6a93cf452d",
+    "68db9aa5170f3912",
+    "6c3c18d6121bb461",
+    "65d2f18bc8abf269"
+   ]
+  }
+ ],
+ "fragments": {
+  "dba0845a1cfa849b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Outubro\n\nO [Decreto-Lei n.º 260/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1993-346485), de 23 de Julho, procedeu à reestruturação dos serviços descentralizados do sistema de segurança social, acolhendo uma nova forma organizativa mais consentânea com a evolução das realidades sócio-económicas do País.\n\nOs centros regionais de segurança social instituídos pelo referido diploma constituem instituições integradas no aparelho administrativo do mencionado sistema e revestem a natureza de institutos públicos dotados de autonomia administrativa e financeira.\n\nDe entre os mencionados serviços faz parte o Centro Regional de Segurança Social do Norte, o qual abrange mais de 27% do total de beneficiários e contribuintes da segurança social portuguesa, determinando cargas de trabalho que fundamentam a criação, no respectivo âmbito territorial, de seis serviços sub-regionais, dois no distrito do Porto e os outros quatro, respectivamente, nos distritos de Braga, Bragança, Viana do Castelo e Vila Real.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 33.º do [Decreto-Lei n.º 260/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1993-346485), de 23 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "34084fba78657cc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece a estrutura orgânica do Centro Regional de Segurança Social do Norte, adiante designado por Centro Regional."
+  },
+  "0aab477f2d1a77b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Organização\n\n1 - O Centro Regional é constituído por serviços regionais, serviços sub-regionais, serviços locais e estabelecimentos.\n\n2 - Aos serviços e estabelecimentos referidos no número anterior cabe exercer as competências previstas, respectivamente, nos artigos 16.º, 17.º, 19.º e 20.º do [Decreto-Lei n.º 260/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1993-346485), de 23 de Julho."
+  },
+  "7acae316e3595881": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito geográfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito geográfico\n\n1 - O Centro Regional compreende os Serviços Sub-Regionais de Braga, Bragança, Penafiel, Porto, Viana do Castelo e Vila Real.\n\n2 - A área territorial dos Serviços Sub-Regionais de Braga, Bragança, Viana do Castelo e Vila Real coincide com a dos respectivos distritos.\n\n3 - Os Serviços Sub-Regionais de Penafiel e do Porto abrangem os municípios indicados no mapa I anexo ao presente diploma, que dele faz parte integrante."
+  },
+  "f6ddcee5d4e77c10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Director de serviço sub-regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director de serviço sub-regional\n\nOs serviços sub-regionais são dirigidos, nos termos do artigo 18.º do [Decreto-Lei n.º 260/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1993-346485), de 23 de Julho, por um director, ao qual compete:\n\na) Elaborar os projectos de planos de acção e de orçamento do respectivo serviço sub-regional e submetê-los à aprovação do conselho directivo;\n\nb) Dirigir o serviço sub-regional de acordo com as orientações traçadas e o plano de acção aprovado;\n\nc) Proceder à inscrição de beneficiários e contribuintes e determinar o estatuto contributivo de uns e outros;\n\nd) Atribuir prestações dos regimes de segurança social."
+  },
+  "86f4248f1da3c002": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Coordenador dos serviços locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Coordenador dos serviços locais\n\n1 - Os funcionários designados nos termos do n.º 2 do artigo 19.º do [Decreto-Lei n.º 260/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1993-346485), de 23 de Julho, para o desempenho das funções de coordenador dos serviços locais são remunerados, enquanto no exercício dessas funções, pelo índice correspondente ao escalão imediatamente superior ao detido na respectiva categoria.\n\n2 - Caso os funcionários referidos no número anterior detenham já o último escalão, a remuneração é acrescida de um impulso salarial igual à diferença dos dois últimos escalões da respectiva categoria."
+  },
+  "25e20c206fb29448": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Serviços regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Serviços regionais"
+  },
+  "ad68f362b6ae95ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Enumeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Enumeração\n\nO Centro Regional compreende os seguintes serviços regionais:\n\na) A Direcção de Serviços de Gestão de Regimes de Segurança Social;\n\nb) A Direcção de Serviços de Acção Social;\n\nc) A Direcção de Serviços de Gestão Financeira;\n\nd) A Direcção de Serviços Jurídicos e de Contra-Ordenações;\n\ne) A Direcção de Serviços de Organização e Informática;\n\nf) A Direcção de Serviços de Gestão de Pessoal;\n\ng) A Direcção de Serviços de Administração;\n\nh) O Gabinete de Relações Públicas e Documentação;\n\ni) O Gabinete de Programação e Avaliação;\n\nj) A Auditoria;\n\nl) O Serviço de Fiscalização."
+  },
+  "dc5f8ebe3d91d294": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Direcção de Serviços de Gestão de Regimes de Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direcção de Serviços de Gestão de Regimes de Segurança Social\n\n1 - À Direcção de Serviços de Gestão de Regimes de Segurança Social (DSGRSS) compete:\n\na) Proceder à caracterização dos grupos sócio-profissionais das pessoas abrangidas ou a abranger pelos regimes de segurança social;\n\nb) Promover a correcta aplicação da legislação dos regimes de segurança social e assegurar a uniformidade dos respectivos procedimentos;\n\nc) Emitir parecer sobre as dúvidas surgidas na aplicação da legislação referida na alínea anterior e sugerir a aprovação de orientações sobre essas matérias;\n\nd) Analisar a incidência do não cumprimento da legislação pelos beneficiários e contribuintes, tendo em vista o estabelecimento de prioridades no exercício da acção de fiscalização;\n\ne) Colaborar na análise e avaliação da legislação sobre regimes de segurança social e no estudo do respectivo aperfeiçoamento;\n\nf) Acompanhar o funcionamento dos serviços de verificação de incapacidades temporárias ou permanentes e prestar-lhes o necessário apoio;\n\ng) Elaborar informações destinadas a organismos internacionais;\n\nh) Elaborar relatórios periódicos sobre a aplicação da mesma legislação pelos serviços sub-regionais.\n\n2 - A DSGRSS compreende a Divisão de Vinculação e Relação Contributiva e a Divisão de Prestações.\n\n3 - À Divisão de Vinculação e Relação Contributiva compete assegurar as actividades previstas nas alíneas a) a e), g) e h) do n.º 1, quando relacionadas com a relação jurídica de vinculação e obrigação contributiva, e à Divisão de Prestações as actividades enunciadas no n.º 1, quando relacionadas com a atribuição de prestações."
+  },
+  "74addeef2a040577": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços de Acção Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Acção Social\n\n1 - À Direcção de Serviços de Acção Social (DSAS) compete:\n\na) Apoiar os serviços sub-regionais na realização das acções destinadas a prevenir situações de exclusão social, assegurar a protecção e integração comunitária das famílias e grupos sociais mais desfavorecidos e promover o desenvolvimento das comunidades;\n\nb) Colaborar no estudo, análise e selecção dos processos de famílias de acolhimento e de candidatos a adoptante, bem como no acompanhamento de crianças e famílias em fase de integração;\n\nc) Participar na elaboração do estudo tendentes a equacionar respostas que privilegiem a permanência do idoso e das pessoas com deficiência no seu meio natural;\n\nd) Propor medidas de promoção e integração de pessoas com deficiência, mediante o aproveitamento de recursos intersectoriais, potenciando as interligações funcionais para a reabilitação médica, profissional e social;\n\ne) Participar na inventariação das necessidades e dos recursos existentes no âmbito de cada área específica;\n\nf) Colaborar na avaliação e na execução de programas e projectos de apoio às crianças e jovens em situação de risco e de inadaptação, aos idosos dependentes e às pessoas com deficiência, bem como no apoio às respectivas famílias;\n\ng) Promover e apoiar projectos de acção social comunitária que visem a organização dos recursos da comunidade, em ordem ao bem-estar social e à aceleração do processo de desenvolvimento sócio-económico;\n\nh) Avaliar e acompanhar os projectos de acção social levados a cabo pelos serviços sub-regionais, em especial os destinados a prevenir situações de disfunção ou carência de famílias;\n\ni) Promover a execução de programas de acção social destinados a prevenir situações de exclusão social e a assegurar a protecção e integração comunitária das famílias e grupos social e economicamente mais desfavorecidos;\n\nj) Apoiar e fomentar o voluntariado social;\n\nl) Dinamizar projectos de incidência comunitária, em articulação com outros serviços, entidades e população, tendo em vista a solução global e integrada de problemas sociais e a activação das solidariedades locais;\n\nm) Colaborar com entidades públicas e privadas na prestação dos socorros urgentes a indivíduos e famílias em situação de calamidade pública ou sinistros;\n\nn) Propor medidas e soluções destinadas a adequar e racionalizar os meios e qualificar e inovar as respostas, designadamente através do reforço da dimensão comunitária e integrada dos equipamentos sociais existentes;\n\no) Proceder à análise e investigação das questões relacionadas com a integração sócio-educativa de crianças e jovens com deficiência, bem como assegurar a orientação dos programas aprovados com esse objectivo;\n\np) Orientar e apoiar as acções relacionadas com a cooperação com as instituições particulares de solidariedade social e com outras entidades de idênticos fins;\n\nq) Emitir parecer sobre os pedidos de licenciamento de estabelecimentos de apoio social, em articulação com os serviços sub-regionais;\n\nr) Intruir processos nos termos do Regulamento de Registos das Instituições Particulares de Solidariedade Social do âmbito da segurança social;\n\ns) Exercer a acção fiscalizadora das instituições particulares de solidariedade social e de outras entidades privadas de apoio social;\n\nt) Emitir parecer sobre os projectos de construção ou alteração de equipamentos sociais, bem como elaborar projectos de cadernos de encargos para concursos de adjudicação de obras de equipamentos sociais;\n\nu) Pronunciar-se acerca das propostas de adjudicação de obras a efectuar por instituições particulares de solidariedade social a subsidiar pelo Centro Regional;\n\nv) Acompanhar e fiscalizar a execução das obras nas instituições particulares de solidariedade social subsidiadas pelo Centro Regional.\n\n2 - A DSAS compreende:\n\na) A Divisão de Apoio Técnico e Desenvolvimento Comunitário, à qual compete assegurar as actividades previstas nas alíneas a) a m);\n\nb) A Divisão de Equipamentos e Serviços de Acção Social, à qual compete assegurar as actividades previstas nas alíneas n) a s);\n\nc) A Divisão de Instalações e Equipamentos, à qual compete assegurar as actividades previstas nas restantes alíneas."
+  },
+  "09b85117b56eeb5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Gestão Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Gestão Financeira\n\n1 - À Direcção de Serviços de Gestão Financeira (DSGF) compete:\n\na) Preparar e organizar o projecto de orçamento do Centro Regional, em conformidade com as necessidades dos serviços e as orientações emitidas pelo Instituto de Gestão Financeira da Segurança Social, bem como preparar os planos financeiros e acompanhar a sua execução;\n\nb) Cabimentar as despesas dos serviços regionais, proceder ao controlo de execução orçamental, analisar desvios e propor as necessárias correcções;\n\nc) Registar e controlar as despesas suportadas por verbas do PIDDAC ou por projectos especiais, bem como colher dados financeiros através do balanço, conta de gerência e relatório anual;\n\nd) Assegurar o controlo financeiro dos serviços sub-regionais;\n\ne) Analisar os movimentos relacionados com a arrecadação de contribuições e promover a conciliação das contas contabilísticas mantidas com o Instituto de Gestão Financeira da Segurança Social;\n\nf) Apoiar as instituições particulares de solidariedade social na elaboração do orçamento e contas e proceder à sua análise, bem como efectuar o cálculo das comparticipações a conceder às mesmas instituições;\n\ng) Emitir meios de pagamento e documentos de receita e de despesa e classificá-los de acordo com o Plano de Contas das Instituições de Segurança Social, bem como registar as ordens de recebimento e de pagamento;\n\nh) Conferir as contas bancárias e proceder à consolidação dos saldos, bem como contabilizar as notas de reposição e as contas relativas a valores entrados e devolvidos;\n\ni) Analisar as questões suscitadas pelas tesourarias dos serviços sub-regionais e propor as soluções mais adequadas a cada caso;\n\nj) Proceder à contabilização da actividade do Centro Regional e à análise sistemática da respectiva conta, bem como efectuar as operações e respectivos registos contabilísticos inerentes ao encerramento das contas;\n\nl) Preparar a documentação e organizar as contas de gerência a remeter ao Tribunal de Contas, bem como preparar e organizar o relatório de exercício e a conta anual a enviar ao Instituto de Gestão Financeira da Segurança Social;\n\nm) Assegurar a elaboração de estatísticas relacionadas com a actividade desenvolvida pela respectiva direcção de serviços;\n\nn) Tratar e efecturar o lançamento, em conta corrente, de todo o movimento respeitante a contribuições, coimas e juros de mora;\n\no) Elaborar o expediente necessário à transferência ou restituição de contribuições e à correcção de anomalias de lançamentos das contas correntes de contribuintes;\n\np) Proceder ao controlo e à análise das contas correntes dos contribuintes e promover o cálculo dos juros de mora relativos às respectivas dívidas;\n\nq) Promover o desenvolvimento das acções destinadas à regularização da dívida apurada, desencadeando os mecanismos de cobrança coerciva e de participação aos serviços de justiça fiscal;\n\nr) Colaborar no acompanhamento e controlo dos acordos de regularização e nos processos de recuperação de empresas e de execução fiscal;\n\ns) Analisar e tratar a documentação relacionada com a situação contributiva dos contribuintes e colaborar na organização dos processos de regularização de dívidas;\n\nt) Emitir declarações sobre a situação contributiva dos interessados;\n\nu) Analisar as situações de falta de entrega de folhas de remunerações e proceder de acordo com a legislação em vigor.\n\n2 - A DSGF compreende:\n\na) A Divisão de Gestão e Controlo Orçamental, à qual compete assegurar as actividades previstas nas alíneas a) a f);\n\nb) A Divisão de Contabilidade, à qual compete assegurar as actividades previstas nas alíneas g) a m);\n\nc) A Divisão de Contas Correntes de Contribuintes, à qual compete assegurar as actividades previstas nas alíneas n) a r);\n\nd) A Repartição de Contribuintes, constituída por cinco secções, à qual compete assegurar as actividades previstas nas restantes alíneas.\n\n3 - As actividades referidas na alínea d) do número anterior são desenvolvidas por cada uma das secções em relação aos contribuintes que lhe correspondam."
+  },
+  "6c5dbf73ac551f17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços Jurídicos e de Contra-Ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços Jurídicos e de Contra-Ordenações\n\n1 - À Direcção de Serviços Jurídicos e de Contra-Ordenações (DSJCO) compete:\n\na) Promover a exigência judicial das contribuições e dos juros de mora devidos à segurança social, bem como o reembolso judicial das prestações indevidamente pagas e daquelas a que haja direito de regresso;\n\nb) Proceder à reclamação ou justificação de créditos de contribuições e juros de mora devidos à segurança social em processos de execução, de falência, de inventário ou outros, bem como requerer a declaração de falência ou a aplicação de providências de recuperação de empresas devedoras;\n\nc) Apoiar os serviços competentes nos processos de regularização de dívidas de contribuições ou de juros de mora à segurança social;\n\nd) Pronunciar-se acerca dos aspectos legais decorrentes da definição dos direitos e obrigações dos beneficiários e contribuintes ou sobre reclamações ou recursos de actos com eles relacionados;\n\ne) Desenvolver a actividade relacionada com o processo penal a instaurar por crimes praticados por contribuintes ou beneficiários nas suas relações com o Centro Regional;\n\nf) Emitir pareceres e efectuar estudos de natureza jurídica;\n\ng) Pronunciar-se sobre as questões de natureza jurídica relacionadas com a aquisição, alienação ou arrendamento de edifícios ou com a realização de obras;\n\nh) Emitir parecer sobre os aspectos relacionados com os cadernos de encargos e concursos de adjudicação de obras e outras questões que deles venham a surgir;\n\ni) Organizar e instruir processos de contra-ordenações, bem como promover a execução judicial das decisões nos mesmos proferidas;\n\nj) Emitir parecer acerca das impugnações das decisões proferidas em processos de contra-ordenações e remetê-las a tribunal, quando for caso disso;\n\nl) Assegurar o patrocínio judicial do Centro Regional e o acompanhamento dos processos em tribunal;\n\nm) Promover a emissão de orientações para os serviços que procedam à averiguação das infracções ou que sejam chamados a colaborar nos processos de contra-ordenações.\n\n2 - A DSJCO compreende:\n\na) A Divisão de Contencioso, à qual compete assegurar as actividades previstas nas alíneas a) a e) e l);\n\nb) A Divisão de Consulta Jurídica, à qual compete assegurar as actividades previstas nas alíneas f) a h) e l);\n\nc) A Divisão de Contra-Ordenações de Beneficiários e Estabelecimentos, à qual compete assegurar as actividades previstas nas alíneas i) a m), quando relacionadas com processos de contra-ordenações de beneficiários e estabelecimentos;\n\nd) A Divisão de Contra-Ordenações de Contribuintes, à qual compete assegurar as actividades previstas nas alíneas i) a m), quando relacionadas com processos de contra-ordenações de contribuintes."
+  },
+  "627b9be423b58c55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Direcção de Serviços de Organização e Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direcção de Serviços de Organização e Informática\n\n1 - À Direcção de Serviços de Organização e Informática (DSOI) compete:\n\na) Efectuar estudos destinados a obter um melhor funcionamento dos serviços e acompanhar a introdução de novos processos de trabalho;\n\nb) Colaborar com os diversos serviços no estudo das exigências dos postos de trabalho e na escolha dos objectivos a prosseguir, bem como efectuar a análise das tarefas e dos postos de trabalho com vista ao controlo dos custos e à fixação de padrões de produtividade;\n\nc) Analisar, em colaboração com os serviços interessados, as necessidades de equipamento e material, as suas características e respectiva adequação;\n\nd) Proceder a estudos de racionalização de procedimentos, de impressos e outros suportes de informação e acompanhar o seu desenvolvimento, numa perspectiva de modernização administrativa;\n\ne) Desenvolver, coordenar e controlar o planeamento das actividades de processamento de dados;\n\nf) Garantir o processamento informático e manter o controlo de qualidade dos produtos obtidos, bem como elaborar normas de operação e assegurar a sua correcta aplicação e utilização;\n\ng) Colaborar na concepção e lançamento de sistemas de informação e garantir o sigilo e a segurança da informação à sua guarda;\n\nh) Apoiar os serviços na elaboração de cadernos de encargos, selecção, aquisição e instalação de sistemas informáticos;\n\ni) Assegurar a inventariação dos equipamentos e produtos informáticos colocados à sua guarda e do instalado nos serviços utilizadores, bem como a catalogação e manutenção dos equipamentos e suportes lógicos de apoio;\n\nj) Propor medidas tendentes à definição, concretização e desenvolvimento de um sistema de informação coerente e suporte eficaz do funcionamento do Centro Regional;\n\nl) Organizar bibliotecas de programas e suportes de informação e zelar pela sua manutenção;\n\nm) Conceber e desenvolver novas aplicações e assegurar a sua manutenção, bem como manter actualizados os suportes lógicos e restante documentação base da concepção e desenvolvimento de sistemas de informação;\n\nn) Apoiar os serviços na elaboração de cadernos de encargos, selecção, aquisição e instalação de sistemas informáticos, bem como estudar as características técnicas dos equipamentos informáticos, suportes lógicos, sistemas de teleprocessamento e outros produtos com interesse para projectos a avaliar e a lançar;\n\no) Proceder ao levantamento e caracterização das necessidades dos utilizadores em matéria de microinformática, tendo em vista um adequado planeamento dos meios a afectar;\n\np) Assegurar a instalação e condições de arranque e normal funcionamento dos pequenos sistemas, facultando todo o apoio necessário aos utilizadores;\n\ng) Estudar e propor as normas e medidas adequadas à segurança e melhor rentabilização dos recursos disponíveis.\n\n2 - A DSOI compreende:\n\na) A Divisão de Organização e Modernização Administrativa, à qual compete assegurar as actividades previstas nas alíneas a) a d);\n\nb) A Divisão de Processamento de Informação, à qual compete assegurar as actividades previstas nas alíneas e) a i);\n\nc) A Divisão de Sistemas de Informação, à qual compete assegurar as actividades previstas nas restantes alíneas."
+  },
+  "ddd49317b4fea548": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção de Serviços de Gestão de Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção de Serviços de Gestão de Pessoal\n\n1 - À Direcção de Serviços de Gestão de Pessoal (DSGP) compete:\n\na) Colaborar na definição e execução da política de pessoal do Centro Regional, bem como propor a adopção de instrumentos de gestão dos recursos humanos;\n\nb) Estabelecer o conteúdo funcional dos postos de trabalho e fixar as dotações de pessoal de cada unidade orgânica e estabelecimento;\n\nc) Promover a realização de concursos, bem como o recrutamento e selecção do pessoal necessário;\n\nd) Promover a aplicação dos instrumentos de avaliação do pessoal e a realização das tarefas necessárias à tomada de decisão quanto à movimentação de pessoal;\n\ne) Desenvolver as acções necessárias ao serviço social de pessoal;\n\nf) Colaborar na formulação da política de formação de pessoal do Centro Regional, elaborar o respectivo plano e estabelecer a estrutura dos cursos a ministrar;\n\ng) Proceder ao levantamento das necessidades existentes e dos recursos humanos e materiais disponíveis;\n\nh) Organizar, acompanhar e promover, em colaboração com os serviços interessados, a avaliação das acções realizadas e divulgar os respectivos resultados;\n\ni) Criar, organizar e gerir ficheiros informatizados de formação e elaborar mapas estatísticos trimestrais e anuais das acções realizadas;\n\nj) Promover a inscrição dos funcionários ou agentes na Caixa Geral de Aposentações e acompanhar os respectivos processos de aposentação;\n\nl) Efectuar as tarefas necessárias à concretização da movimentação interna e externa dos funcionários e manter os processos individuais do pessoal organizados e actualizados;\n\nm) Promover as acções inerentes à abertura de concursos de ingresso ou acesso de pessoal e apoiar os júris dos concursos;\n\nn) Desenvolver as acções necessárias ao controlo da assiduidade do pessoal;\n\no) Recolher os elementos necessários à elaboração da conta de gerência e do relatório social do Centro Regional;\n\np) Assegurar as tarefas necessárias ao processamento dos vencimentos e à efectivação dos diferentes tipos de descontos, bem como atribuir os benefícios sociais a que os funcionários e agentes tenham direito;\n\nq) Proceder à inscrição dos funcionários e agentes na ADSE e promover o pagamento dos respectivos subsídios;\n\nr) Passar as declarações que lhe sejam solicitadas pelos funcionários.\n\n2 - A DSGP compreende:\n\na) A Divisão de Gestão de Pessoal, à qual compete assegurar as actividades previstas nas alíneas a) a e);\n\nb) A Divisão de Formação de Pessoal, à qual compete assegurar as actividades previstas nas alíneas f) a i);\n\nc) A Repartição de Administração de Pessoal, constituída pelas Secções de Movimentação de Pessoal, de Concursos e Assiduidade e de Vencimentos, à qual compete assegurar as actividades previstas nas restantes alíneas.\n\n3 - Às Secções de Movimentação de Pessoal, de Concursos e Assiduidade e de Vencimentos compete assegurar as actividades previstas, respectivamente, nas alíneas j) e l), m) a o) e p) a r) do n.º 1."
+  },
+  "5665b27f6253bccc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção de Serviços de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Administração\n\n1 - À Direcção de Serviços de Administração (DSA) compete:\n\na) Elaborar projectos de cadernos de encargos de concursos de adjudicação de obras e acompanhar, orientar e fiscalizar as obras do Centro Regional;\n\nb) Vistoriar os edifícios do Centro Regional e propor as medidas necessárias à manutenção ou melhoria das condições de segurança e conservação;\n\nc) Proceder à inventariação dos bens do Centro Regional, promover o registo dos bens imóveis e manter actualizado o respectivo cadastro;\n\nd) Realizar as acções necessárias à aquisição, distribuição, conservação, reparação, locação e alienação de quaisquer bens móveis ou imóveis do Centro Regional, bem como proceder à realização de trabalhos de conservação ou reparação;\n\ne) Assegurar a celebração dos contratos de segurança e higiene dos edifícios em que os serviços se encontram instalados, bem como de manutenção dos equipamentos e bens móveis do Centro Regional;\n\nf) Pronunciar-se acerca da situação dos imóveis, concursos de aquisição de bens e serviços, condições de aprovisionamento e património;\n\ng) Assegurar a gestão das viaturas dos serviços regionais, verificar o estado de conservação das viaturas do Centro Regional e elaborar o respectivo plano de aquisição e abate;\n\nh) Registar, classificar e distribuir o expediente dos serviços regionais ou a estes dirigido, bem como assegurar a expedição da correspondência, documentos e meios de pagamento emitidos pelos mesmos serviços;\n\ni) Assegurar os meios necessários à manutenção das boas condições de utilização das instalações dos serviços colocados à sua guarda;\n\nj) Colaborar com a Direcção de Serviços de Gestão de Pessoal no desenvolvimento das acções necessárias ao controlo da assiduidade do pessoal;\n\nl) Organizar os arquivos dos serviços regionais por forma a assegurar a manutenção dos documentos em boas condições de segurança e fácil consulta e efectuar o expurgo dos documentos;\n\nm) Executar as tarefas necessárias à passagem dos arquivos tradicionais a microfilmados, produzir as microformas e garantir a sua conservação e fácil consulta, bem como zelar pela segurança da inutilização dos documentos e assegurar que a consulta dos documentos arquivados ou das microformas se faça em condições adequadas;\n\nn) Desenvolver as acções necessárias à aquisição dos bens e serviços necessários ao normal funcionamento dos serviços, armazenar e conservar o material adquirido, bem como manter actualizadas as existências mínimas necessárias e proceder à sua distribuição de acordo com as necessidades dos serviços;\n\no) Proceder ao registo dos consumos por centros de custo e à sua avaliação em termos de eficiência e de eficácia;\n\np) Executar as tarefas de desenho, reprodução, corte, alceamento e encadernação de documentos e impressos, em conformidade com as necessidades dos serviços.\n\n2 - A DSA compreende:\n\na) A Divisão de Património, à qual compete assegurar as actividades previstas na alíneas a) a g);\n\nb) A Repartição de Expediente e Apoio, constituída por três secções, à qual compete assegurar as actividades previstas nas alíneas h) a j);\n\nc) A Repartição de Arquivo e Microfilmagem, constituída por duas Secções de Arquivo e pelo Centro de Microfilmagem, à qual compete assegurar as actividades previstas nas alíneas l) e m);\n\nd) A Repartição de Aprovisionamento, constituída pelas Secções de Aprovisionamento e de Gestão de Existências, à qual compete assegurar as actividades previstas nas alíneas n) e o);\n\ne) O Centro Gráfico, coordenado por um funcionário para o efeito designado pelo conselho directivo, ao qual compete assegurar as actividades previstas na alínea p).\n\n3 - As actividades referidas nas alíneas h) e j) do n.º 1 são asseguradas pelas Secções de Expediente e Apoio em relação ao local ou locais de implantação e funcionamento dos serviços a que estejam afectos.\n\n4 - As actividades referidas nas alíneas l) e m) do n.º 1 são asseguradas, respectivamente, pelas Secções de Arquivo, previstas na alínea c) do n.º 2, e pelo Centro de Microfilmagem."
+  },
+  "390d2b961ad38066": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Gabinete de Relações Públicas e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gabinete de Relações Públicas e Documentação\n\n1 - Ao Gabinete de Relações e Documentação (DRPD) compete:\n\na) Colaborar ou promover campanhas de esclarecimento junto dos beneficiários, utentes, contribuintes e público em geral, com vista à divulgação de informação sobre o sistema de segurança social ou sobre o Centro Regional;\n\nb) Proceder à análise e tratamento das informações veiculadas pelos órgãos de comunicação social e estabelecer contactos com profissionais de informação ou serviços e entidades públicas ou privadas;\n\nc) Elaborar indicadores sobre o funcionamento do Centro Regional com base no tratamento de informações, sugestões e reclamações recebidas;\n\nd) Proceder ao registo, catalogação e indexação das espécies bibliográficas, bem como organizar e conservar o fundo documental;\n\ne) Organizar e manter actualizados os ficheiros de legislação, jurisprudência e doutrina sobre matéria de interesse para o Centro Regional e efectuar a difusão interna de diplomas e outros documentos;\n\nf) Assegurar a realização, publicação e distribuição de revistas e outros documentos considerados necessários;\n\ng) Assegurar o funcionamento de um núcleo de áudio-visuais.\n\n2 - O GRPD é dirigido por um chefe de divisão."
+  },
+  "b3f387713aa49994": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Gabinete de Programação e Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Gabinete de Programação e Avaliação\n\n1 - Ao Gabinete de Programação e Avaliação (GPA) compete:\n\na) Promover, coordenar e estudar as acções tendentes à caracterização sócio-económica da área de actuação do Centro Regional, bem como preparar e organizar os respectivos projectos de planos anuais e plurianuais;\n\nb) Coordenar os trabalhos de elaboração do PIDDAC e acompanhar a execução dos programas de investimentos;\n\nc) Proceder à recolha e elaboração de informação estatística que permita a preparação de indicadores de gestão necessários ao conselho directivo, bem como a sua remessa aos serviços centrais da área da segurança social do Ministério do Emprego e da Segurança Social;\n\nd) Dinamizar e coordenar os procedimentos relacionados com a obtenção de comparticipações financeiras do Fundo Social Europeu.\n\n2 - O GPA é dirigido por um chefe de divisão."
+  },
+  "2a395385d0400c2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Auditoria\n\n1 - À Auditoria compete:\n\na) Verificar o cumprimento das disposições legais, administrativas e técnicas reguladoras da actuação dos órgãos e serviços do Centro Regional;\n\nb) Propor a alteração ou substituição das normas internas e dos métodos e técnicas inadequados às necessidades dos serviços e à prossecução dos seus objectivos;\n\nc) Proceder à auditoria dos serviços regionais, sub-regionais e locais, de acordo com plano ou determinação do conselho directivo;\n\nd) Elaborar estudos, relatórios e pareceres sobre assuntos relacionados com o funcionamento dos serviços do Centro Regional.\n\n2 - A Auditoria é dirigida por um chefe de divisão."
+  },
+  "9f1508863908a2e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Serviço de Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Serviço de Fiscalização\n\n1 - Ao Serviço de Fiscalização compete:\n\na) Vigiar o cumprimento das obrigações dos contribuintes e beneficiários no âmbito dos regimes de segurança social, em especial as relacionadas com o enquadramento, a inscrição, o registo, a declaração de remunerações e o pagamento de contribuições;\n\nb) Verificar se os beneficiários reúnem os requisitos necessários à atribuição e manutenção do direito às prestações;\n\nc) Elaborar autos de notícia e participações respeitantes às actuações ilegais detectadas no exercício das suas funções;\n\nd) Efectuar o levantamento e a identificação dos bens penhoráveis e hipotecáveis para garantia dos créditos por contribuições em dívida à segurança social;\n\ne) Proceder à notificação de decisões administrativas relacionadas, nomeadamente, com processos de contra-ordenações;\n\nf) Desenvolver acções de esclarecimento e orientação dos beneficiários e contribuintes a respeito dos seus direitos e obrigações para com a segurança social, tendo em vista prevenir a prática de infracções.\n\n2 - O Serviço de Fiscalização é dirigido por um chefe de divisão e dispõe de uma Secção de Apoio."
+  },
+  "498f72e5230bd1dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Serviços sub-regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Serviços sub-regionais"
+  },
+  "f28623466eddd301": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Serviço Sub-Regional de Braga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Serviço Sub-Regional de Braga"
+  },
+  "d744d873be372bec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Estrutura\n\n1 - O Serviço Sub-Regional de Braga compreende:\n\na) A Direcção de Serviços de Regimes de Segurança Social;\n\nb) O Departamento de Acção Social;\n\nc) O Gabinete de Apoio Técnico;\n\nd) O Gabinete de Coordenação dos Serviços Locais;\n\ne) A Direcção de Serviços Administrativos.\n\n2 - Integram-se no Serviço Sub-Regional de Braga os serviços locais e estabelecimentos constantes do mapa II anexo ao presente diploma, que dele faz parte integrante."
+  },
+  "53fb7b820d1d0c50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Direcção de Serviços de Regimes de Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direcção de Serviços de Regimes de Segurança Social\n\n1 - À Direcção de Serviços de Regimes de Segurança Social (DSRSS) compete:\n\na) Promover a realização de acções destinadas a assegurar a inscrição de beneficiários, contribuintes e outras entidades, bem como manter actualizados os respectivos ficheiros;\n\nb) Proceder à transferência de beneficiários e comprovar e controlar a situação de contribuintes, designadamente no que respeita a datas de início, suspensão ou cessação da actividade;\n\nc) Elaborar as participações das infracções de natureza contra-ordenacional detectadas no exercício das respectivas funções;\n\nd) Assegurar o envio de elementos relativos à identificação de beneficiários e contribuintes a outros serviços públicos que deles careçam;\n\ne) Efectuar as acções necessárias ao registo dos elementos salariais e demais dados constantes das folhas de remunerações e de outros documentos, bem como detectar períodos de sobreposição de trabalho com equivalência de remunerações ou quaisquer outras anomalias e colaborar na sua regularização;\n\nf) Apreciar reclamações sobre remunerações omitidas ou declaradas incorrectamente pelos contribuintes e elaborar oficiosamente, quando for caso disso, as respectivas folhas de remunerações;\n\ng) Assegurar o envio de elementos relativos ao registo de remunerações a outros serviços do sector, bem como emitir extractos de salários para efeitos de atribuição de prestações e para utilização pelo próprio beneficiário;\n\nh) Fornecer aos serviços interessados os elementos necessários ao reembolso de contribuições, bem como elaborar informações destinadas a organismos internacionais e passar certidões e declarações relativas à carreira contributiva dos beneficiários;\n\ni) Organizar e manter actualizados os ficheiros de requerentes, de controlo de prova de direitos e de processamentos, bem como efectuar as diligências necessárias à atribuição de prestações familiares e de subsídios de renda de casa;\n\nj) Controlar as situações de processamento indevido de prestações e desenvolver as acções que conduzam à sua regularização;\n\nl) Efectuar as diligências necessárias à atribuição das prestações de doença e de maternidade, paternidade e adopção e de gravidez;\n\nm) Articular-se com os serviços de saúde e do emprego e formação profissional na organização dos processos e no controlo de atribuição de prestações;\n\nn) Colaborar na realização de acções destinadas a evitar o acesso indevido às prestações;\n\no) Realizar as diligências necessárias à verificação da subsistência das incapacidades temporárias;\n\np) Organizar os processos relativos ao complemento do subsídio de tuberculose e do subsídio para medicamentos, no âmbito dos regimes especiais;\n\nq) Promover ou colaborar na realização de acções de esclarecimento ou de informação de beneficiários e dos seus familiares, bem como na realização de acções de esclarecimento com vista à obtenção de provas periódicas das informações recebidas;\n\nr) Organizar processos de atribuição do subsídio de desemprego, do subsídio social de desemprego e do subsídio de inserção de jovens na vida activa;\n\ns) Instruir processos de atribuição de outras prestações ou compensações pecuniárias relacionadas com a cessação dos contratos de trabalho, bem como assegurar as tarefas necessárias ao processamento dos mesmos subsídios;\n\nt) Organizar processos de verificação de situações de incapacidades permanentes para o trabalho para efeitos de atribuição de prestações de segurança social em que seja exigido aquele requisito;\n\nu) Promover a revisão das situações de incapacidade por solicitação dos pensionistas, do Centro Nacional de Pensões ou outras entidades ou por iniciativa do Centro Regional;\n\nv) Apoiar as acções médicas no âmbito dos serviços de verificação de incapacidades permanentes ou temporárias, tendo em vista a realização de tarefas de verificação de incapacidades;\n\nx) Verificar as condições exigidas para o acesso às prestações do regime não contributivo de segurança social, em colaboração com os serviços competentes para a organização do respectivo processo.\n\n2 - A DSRSS compreende:\n\na) A Repartição de Identificação, constituída por três secções, à qual compete assegurar as actividades previstas nas alíneas a) a d);\n\nb) A Repartição de Registo de Remunerações, constituída por cinco secções, à qual compete assegurar as actividades previstas nas alíneas e) a h);\n\nc) A Repartição de Prestações Familiares, constituída por três secções, à qual compete assegurar as actividades previstas nas alíneas i) e j);\n\nd) A Repartição de Doença, Desemprego e Benefícios Diferidos, constituída por três secções, à qual compete assegurar as actividades previstas nas restantes alíneas.\n\n3 - As actividades referidas no número anterior são asseguradas por cada uma das secções da respectiva repartição em relação aos beneficiários e contribuintes que lhe correspondam."
+  },
+  "678513a1f692729f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Departamento de Acção Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Departamento de Acção Social\n\n1 - Ao Departamento de Acção Social (DAS) compete:\n\na) Fazer o levantamento dos dados relativos à população do Serviço Sub-Regional e proceder à sua actualização;\n\nb) Inventariar as necessidades e os recursos existentes no âmbito da sua área de actuação, fazendo o diagnóstico das situações de exclusão e carência social;\n\nc) Efectuar acções de acolhimento e assegurar os meios necessários à integração social das pessoas e famílias;\n\nd) Estudar a situação sócio-económica das famílias, indivíduos e grupos, em ordem à identificação das respostas mais adequadas às carências diagnosticadas;\n\ne) Promover a execução de programas e modalidades de acção social destinadas a prevenir situações de exclusão social e assegurar a protecção e integração comunitária das famílias e grupos social e economicamente mais desfavorecidos;\n\nf) Desenvolver e dinamizar projectos comunitários tendentes à integração social dos indivíduos ou grupos, através de acções concertadas ao nível local e da participação da população alvo;\n\ng) Promover, coordenar e executar acções de sensibilização da comunidade para os diferentes problemas sociais e fomentar o voluntariado social;\n\nh) Proceder à avaliação das acções desenvolvidas, tendo em vista o melhor funcionamento dos serviços e o aperfeiçoamento das medidas de política social;\n\ni) Colaborar na preparação dos programas de acção dos equipamentos sociais, de acordo com as necessidades identificadas;\n\nj) Participar na organização dos processos de registo das instituições particulares de solidariedade social e do licenciamento dos estabelecimentos de apoio social;\n\nl) Prestar apoio às instituições particulares de solidariedade social e a outras instituições que prossigam idênticos fins;\n\nm) Estudar as situações passíveis de celebração de acordos de gestão de instalações e equipamentos com instituições particulares de solidariedade social e com outras entidades que prossigam idênticos fins.\n\n2 - O DAS é dirigido por um chefe de divisão."
+  },
+  "28187beec9fccf95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Gabinete de Apoio Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Gabinete de Apoio Técnico\n\n1 - Ao Gabinete de Apoio Técnico (GAT) compete apoiar, em articulação com os respectivos serviços regionais, o director do Serviço Sub-Regional em toda a sua área de actuação, nomeadamente:\n\na) Assegurar a adequação e aplicação das instruções e normas de organização e racionalização de procedimentos e circuitos administrativos;\n\nb) Elaborar estudos conducentes ao planeamento, programação e avaliação das actividades;\n\nc) Colaborar na elaboração do plano anual e do relatório de actividades;\n\nd) Assegurar o correcto funcionamento das aplicações informáticas;\n\ne) Emitir parecer sobre questões de natureza jurídica.\n\n2 - O GAT é dirigido por um chefe de divisão."
+  },
+  "146a8e283266ae18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Gabinete de Coordenação dos Serviços Locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Gabinete de Coordenação dos Serviços Locais\n\n1 - Ao Gabinete de Coordenação dos Serviços Locais (GCSL) compete desenvolver as acções necessárias à orientação dos serviços locais, bem como assegurar a aplicação das directivas emitidas a nível central.\n\n2 - O GCSL é coordenado por um funcionário designado pelo conselho directivo, o qual é remunerado nos termos do artigo 5.º do presente diploma."
+  },
+  "7cb31497745259da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Direcção de Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direcção de Serviços Administrativos\n\n1 - À Direcção de Serviços Administrativos (DSA) compete:\n\na) Registar, classificar e distribuir o expediente dos serviços sub-regionais ou a estes dirigido, bem como assegurar a expedição da correspondência, documentos e meios de pagamento;\n\nb) Assegurar os meios necessários à manutenção das boas condições de utilização das instalações, bem como efectuar a gestão das viaturas do respectivo serviço sub-regional;\n\nc) Organizar os arquivos do Serviço Sub-Regional, por forma a assegurar a manutenção dos documentos em boas condições de segurança e fácil consulta;\n\nd) Desenvolver as acções necessárias à aquisição dos bens e serviços, que pelas suas características não tenham de ser adquiridos pelos serviços regionais, bem como colaborar com a Direcção de Serviços de Administração no exercício das actividades relacionadas com o património, com incidência no Serviço Sub-Regional;\n\ne) Colaborar com a Direcção de Serviços de Gestão de Pessoal no desenvolvimento das acções necessárias ao controlo da assiduidade e à efectivação dos movimentos de pessoal;\n\nf) Cabimentar as despesas do Serviço Sub-Regional, proceder ao controlo de execução orçamental, analisar desvios e propor as necessárias correcções;\n\ng) Colaborar com os serviços regionais no apoio às instituições particulares de solidariedade social na elaboração do orçamento e contas, bem como no cálculo das comparticipações a conceder às mesmas instituições;\n\nh) Emitir meios de pagamento e documentos de receita e de despesa e classificá-los de acordo com o Plano de Contas das Instituições de Segurança Social, bem como registar as ordens de recebimento e de pagamento;\n\ni) Registar as notas de reposição e as contas relativas a valores entrados e devolvidos;\n\nj) Tratar e efectuar o lançamento nas contas correntes dos respectivos contribuintes do movimento respeitante a contribuições, coimas e juros de mora;\n\nl) Elaborar o expediente necessário à transferência e restituição de contribuições e à correcção de anomalias de lançamentos das contas correntes de contribuintes;\n\nm) Proceder ao controlo e análise das contas correntes dos contribuintes e promover o cálculo dos juros de mora relativos às respectivas dívidas;\n\nn) Emitir declarações sobre a situação contributiva dos interessados;\n\no) Acolher, esclarecer e encaminhar as pessoas que se dirigem aos serviços;\n\np) Prestar informações orais e escritas a beneficiários, utentes, contribuintes e outras entidades públicas ou privadas;\n\nq) Elaborar, com base nas reclamações apresentadas e nos pedidos de informação solicitados, indicadores sobre o funcionamento dos serviços;\n\nr) Efectuar recebimentos e pagamentos, em conformidade com as autorizações respectivas, bem como arrecadar as contribuições devidas à segurança social nos termos da legislação em vigor;\n\ns) Elaborar a folha de caixa e assegurar as ligações com as instituições de crédito.\n\n2 - A DSA compreende:\n\na) A Repartição Administrativa, constituída pelas Secções de Expediente e Apoio, de Aprovisionamento e Património e de Administração de Pessoal, à qual compete assegurar as actividades previstas nas alíneas a) a e);\n\nb) A Repartição de Contabilidade, constituída por três secções, à qual compete assegurar as actividades previstas nas alíneas f) a n);\n\nc) O Serviço de Informação ao Público, chefiado por um chefe de secção, ao qual compete assegurar as actividades previstas nas alíneas o) a q);\n\nd) A Tesouraria, à qual compete assegurar as actividades previstas nas restantes alíneas.\n\n3 - Às secções referidas na alínea a) do número anterior compete assegurar as actividades previstas, respectivamente, nas alíneas a) a c), d) e e) do n.º 1.\n\n4 - A DSA deve remeter mensalmente ao respectivo serviço regional os elementos relacionados com o desenvolvimento das actividades previstas nas alíneas f) e h) a j) do n.º 1."
+  },
+  "d2f3140f682aa373": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Serviço Sub-Regional de Bragança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Serviço Sub-Regional de Bragança"
+  },
+  "e8d2bd357957c8d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Estrutura\n\n1 - O Serviço Sub-Regional de Bragança compreende:\n\na) A Repartição de Regimes de Segurança Social;\n\nb) O Departamento de Acção Social;\n\nc) O Gabinete de Apoio Técnico;\n\nd) O Gabinete de Coordenação dos Serviços Locais;\n\ne) A Repartição Administrativa.\n\n2 - Integram-se no Serviço Sub-Regional de Bragança os serviços locais e estabelecimentos indicados no mapa II anexo ao presente diploma."
+  },
+  "d95b4d869ed7e778": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Repartição de Regimes de Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Repartição de Regimes de Segurança Social\n\n1 - À Repartição de Regimes de Segurança Social (RRSS) compete assegurar as actividades previstas no artigo 19.º\n\n2 - A RRSS compreende:\n\na) Duas Secções de Identificação, às quais compete assegurar as actividades previstas nas alíneas a) a d) do n.º 1 do artigo 19.º;\n\nb) Uma Secção de Registo de Remunerações, à qual compete assegurar as actividades previstas nas alíneas e) a h) do n.º 1 do artigo 19.º;\n\nc) Três Secções de Atribuição de Prestações, às quais compete assegurar as actividades previstas nas restantes alíneas do n.º 1 do artigo 19.º\n\n3 - As actividades referidas no número anterior são asseguradas por cada uma das secções em relação aos beneficiários e contribuintes que lhe correspondam.\n\n4 - A RA deve remeter mensalmente ao respectivo serviço regional os elementos relacionados com o desenvolvimento das actividades previstas nas alíneas f) e h) a j) do n.º 1 do artigo 19.º"
+  },
+  "44d08c62fba8282d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Outros serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Outros serviços\n\nAo Departamento de Acção Social, ao Gabinete de Apoio Técnico e ao Gabinete de Coordenação dos Serviços Locais aplica-se, respectivamente, o disposto nos artigos 20.º, 21.º e 22.º"
+  },
+  "a7ec6bbd8a859c91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Repartição Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Repartição Administrativa\n\n1 - À Repartição Administrativa (RA) compete assegurar as actividades previstas no n.º 1 do artigo 23.º\n\n2 - A RA compreende:\n\na) A Secção de Expediente e Apoio, à qual compete assegurar as actividades previstas nas alíneas a) a c), e) e o) a q) do n.º 1 do artigo 23.º;\n\nb) A Secção de Aprovisionamento e Património, à qual compete assegurar as actividades previstas na alínea d) do n.º 1 do artigo 23.º;\n\nc) Duas Secções de Contabilidade, às quais compete assegurar as actividades previstas nas alíneas f) a n) do n.º 1 do artigo 23.º;\n\nd) A Tesouraria, à qual compete assegurar as actividades previstas nas alíneas r) e s) do n.º 1 do artigo 23.º\n\n3 - A RA deve remeter mensalmente ao respectivo serviço regional os elementos relacionados com o desenvolvimento das actividades previstas nas alíneas f) e h) a j) do n.º 1 do artigo 23.º\n\n4 - As actividades referidas na alínea c) do número anterior são asseguradas por cada uma das secções em relação aos beneficiários, contribuintes ou fornecedores que lhe correspondam."
+  },
+  "bf665918278a2e25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Serviço Sub-Regional de Penafiel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Serviço Sub-Regional de Penafiel"
+  },
+  "8d6010aa0a1866dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Estrutura\n\n1 - O Serviço Sub-Regional de Penafiel compreende:\n\na) A Direcção de Serviços de Regimes de Segurança Social;\n\nb) O Departamento de Acção Social;\n\nc) O Gabinete de Apoio Técnico;\n\nd) O Gabinete de Coordenação dos Serviços Locais;\n\ne) A Repartição Administrativa.\n\n2 - Integram-se no Serviço Sub-Regional de Penafiel os serviços locais e estabelecimentos indicados no mapa II anexo ao presente diploma."
+  },
+  "76c8a32b2d4c8a3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Direcção de Serviços de Regimes de Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direcção de Serviços de Regimes de Segurança Social\n\n1 - À Direcção de Serviços de Regimes de Segurança Social (DSRSS) compete assegurar as actividades previstas no artigo 19.º\n\n2 - A DSRSS compreende:\n\na) A Repartição de Identificação, constituída por três secções, à qual compete assegurar as actividades previstas nas alíneas a) a d) do n.º 1 do artigo 19.º;\n\nb) A Repartição de Registo de Remunerações, constituída por três secções, à qual compete assegurar as actividades previstas nas alíneas e) a h) do n.º 1 do artigo 19.º;\n\nc) A Repartição de Atribuição de Prestações, constituída por três secções, à qual compete assegurar as actividades previstas nas restantes alíneas do n.º 1 do artigo 19.º\n\n3 - As actividades referidas no número anterior são asseguradas por cada uma das secções da respectiva repartição em relação aos beneficiários e contribuintes que lhe correspondam."
+  },
+  "14596c820ed58fa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Gabinete de Apoio Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Gabinete de Apoio Técnico\n\nAo Gabinete de Apoio Técnico aplica-se o disposto no n.º 1 do artigo 21.º, sendo coordenado por um técnico superior para o efeito designado pelo conselho directivo, o qual é remunerado nos termos do artigo 5.º"
+  },
+  "fedc892bc42d1719": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Outros serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Outros serviços\n\nAo Departamento de Acção Social e ao Gabinete de Coordenação dos Serviços Locais aplica-se, respectivamente, o disposto nos artigos 20.º e 22.º"
+  },
+  "744bf3d81fc0a3d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Repartição Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Repartição Administrativa\n\n1 - À Repartição Administrativa (RA) compete assegurar as actividades previstas no n.º 1 do artigo 23.º\n\n2 - A RA compreende:\n\na) A Secção de Expediente e Apoio, à qual compete assegurar as actividades previstas nas alíneas a) a c) e o) a q) do n.º 1 do artigo 23.º;\n\nb) A Secção de Aprovisionamento e Património, à qual compete assegurar as actividades previstas na alínea d) do n.º 1 do artigo 23.º;\n\nc) A Secção de Contabilidade, à qual compete assegurar as actividades previstas nas alíneas f) a n) do n.º 1 do artigo 23.º;\n\nd) A Secção de Administração de Pessoal, à qual compete assegurar as actividades previstas na alínea e) do n.º 1 do artigo 23.º;\n\ne) A Tesouraria, à qual compete assegurar as actividades previstas nas alíneas r) e s) do n.º 1 do artigo 23.º\n\n3 - A RA deve remeter mensalmente ao respectivo serviço regional os elementos relacionados com o desenvolvimento das actividades previstas nas alíneas f) e h) a j) do n.º 1 do artigo 23.º"
+  },
+  "0653b5c2ca601856": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Serviço Sub-Regional do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Serviço Sub-Regional do Porto"
+  },
+  "cb2e80132499e60f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Estrutura\n\n1 - O Serviço Sub-Regional do Porto compreende:\n\na) A Direcção de Serviços de Identificação e de Registo de Remunerações;\n\nb) A Direcção de Serviços de Atribuição de Prestações;\n\nc) O Departamento de Acção Social;\n\nd) O Gabinete de Apoio Técnico;\n\ne) O Gabinete de Coordenação dos Serviços Locais;\n\nf) A Direcção de Serviços Administrativos.\n\n2 - Integram-se no Serviço Sub-Regional do Porto os serviços locais e estabelecimentos indicados no mapa II anexo ao presente diploma.\n\n3 - O Centro de Reabilitação de Paralisia Cerebral do Porto é dotado de uma secção de apoio."
+  },
+  "f677d5cf0fbcefd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Direcção de Serviços de Identificação e de Registo de Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direcção de Serviços de Identificação e de Registo de Remunerações\n\n1 - À Direcção de Serviços de Identificação e de Registo de Remunerações (DSIRR) compete assegurar as actividades previstas nas alíneas a) a h) do n.º 1 do artigo 19.º\n\n2 - A DSIRR compreende:\n\na) A Repartição de Identificação, constituída por cinco secções, à qual compete assegurar as actividades previstas nas alíneas a) a d) do n.º 1 do artigo 19.º;\n\nb) A Repartição de Registo de Remunerações, constituída por cinco secções, à qual compete assegurar as actividades previstas nas alíneas e) a h) do n.º 1 do artigo 19.º\n\n3 - As actividades referidas no número anterior são asseguradas por cada uma das secções da respectiva repartição em relação aos beneficiários e contribuintes que lhe correspondam."
+  },
+  "0d142f37ba289877": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Direcção de Serviços de Atribuição de Prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Direcção de Serviços de Atribuição de Prestações\n\n1 - À Direcção de Serviços de Atribuição de Prestações (DSAP) compete assegurar as actividades previstas nas alíneas i) a x) do n.º 1 do artigo 19.º\n\n2 - A DSAP compreende:\n\na) A Repartição de Prestações Familiares, constituída por três secções, à qual compete assegurar as actividades previstas nas alíneas i) e j) do n.º 1 do artigo 19.º;\n\nb) A Repartição de Doença, Desemprego e Benefícios Diferidos, constituída por três secções, à qual compete assegurar as actividades previstas nas alíneas l) a x) do n.º 1 do artigo 19.º\n\n3 - As actividades referidas no número anterior são asseguradas por cada uma das secções da respectiva repartição em relação aos beneficiários e contribuintes que lhe correspondam."
+  },
+  "aea9e412eba4675a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Departamento de Acção Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Departamento de Acção Social\n\nAo Departamento de Acção Social aplica-se o disposto no n.º 1 do artigo 20.º, sendo dirigido por um director de serviços."
+  },
+  "4cf1dcaf3c8f10ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Gabinete de Apoio Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Gabinete de Apoio Técnico\n\nAo Gabinete de Apoio Técnico aplica-se o disposto no n.º 1 do artigo 21.º, sendo coordenado por um técnico superior para o efeito designado pelo conselho directivo, o qual é remunerado nos termos do artigo 5.º"
+  },
+  "41fba4993e1f787d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Gabinete de Coordenação dos Serviços Locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Gabinete de Coordenação dos Serviços Locais\n\nAo Gabinete de Coordenação dos Serviços Locais aplica-se o disposto no artigo 22.º"
+  },
+  "2472afed0e68bc98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Direcção de Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Direcção de Serviços Administrativos\n\n1 - À Direcção de Serviços Administrativos (DSA) compete assegurar as actividades previstas no n.º 1 do artigo 23.º\n\n2 - A DSA compreende:\n\na) A Repartição Administrativa, constituída pelas Secções de Expediente e Apoio, de Contabilidade e Administração de Pessoal, à qual compete assegurar as actividades previstas nas alíneas a) a n) do n.º 1 do artigo 23.º;\n\nb) A Repartição de Informação ao Público, constituída por cinco Serviços de Informação ao Público, que assegura as actividades previstas nas alíneas o) a q) do n.º 1 do artigo 23.º;\n\nc) A Tesouraria, que assegura as actividades previstas nas restantes alíneas do n.º 1 do artigo 23.º\n\n3 - Os Serviços de Informação ao Público referidos na alínea b) do número anterior são cada um deles dirigidos por um chefe de secção.\n\n4 - A DSA deve remeter mensalmente ao respectivo serviço regional os elementos relacionados com o desenvolvimento das actividades previstas nas alíneas f) e h) a j) do n.º 1 do artigo 23.º"
+  },
+  "83fdb6bac48554dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Serviço Sub-Regional de Viana do Castelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Serviço Sub-Regional de Viana do Castelo"
+  },
+  "5c072993c69e039d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Estrutura\n\n1 - O Serviço Sub-Regional de Viana do Castelo compreende:\n\na) A Repartição de Regimes de Segurança Social;\n\nb) O Departamento de Acção Social;\n\nc) O Gabinete de Apoio Técnico;\n\nd) O Gabinete de Coordenação de Serviços Locais;\n\ne) A Repartição Administrativa.\n\n2 - Integram-se no Serviço Sub-Regional de Viana do Castelo os serviços locais e estabelecimentos indicados no mapa II anexo ao presente diploma."
+  },
+  "07f584fb21005f03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Repartição de Regimes de Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Repartição de Regimes de Segurança Social\n\n1 - À Repartição de Regimes de Segurança Social (RRSS) compete assegurar as actividades previstas no artigo 19.º\n\n2 - A RRSS compreende:\n\na) Duas Secções de Identificação, às quais compete assegurar as actividades previstas nas alíneas a) a d) do artigo 19.º;\n\nb) Uma Secção de Registo de Remunerações, à qual compete assegurar as actividades previstas nas alíneas e) a h) do artigo 19.º;\n\nc) Três Secções de Atribuição de Prestações, às quais compete assegurar as actividades previstas nas restantes alíneas do n.º 1 do artigo 19.º\n\n3 - As actividades referidas no número anterior são asseguradas por cada uma das secções em relação aos beneficiários e contribuintes que lhe correspondam."
+  },
+  "e5b5ce43e2e0271e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Serviços\n\nAo Departamento de Acção Social, ao Gabinete de Apoio Técnico e ao Gabinete de Coordenação dos Serviços Locais aplica-se, respectivamente, o disposto nos artigos 20.º, 21.º e 22.º"
+  },
+  "23595346f2903511": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Repartição Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Repartição Administrativa\n\n1 - À Repartição Administrativa (RA) compete assegurar as actividades previstas no n.º 1 do artigo 23.º\n\n2 - A RA compreende:\n\na) A Secção de Expediente e Apoio, à qual compete assegurar as actividades previstas nas alíneas a) a c), e) e o) a q) do n.º 1 do artigo 23.º;\n\nb) A Secção de Aprovisionamento e Património, à qual compete assegurar as actividades previstas na alínea d) do n.º 1 do artigo 23.º;\n\nc) Duas Secções de Contabilidade, às quais compete assegurar as actividades previstas nas alíneas f) a n) do n.º 1 do artigo 23.º;\n\nd) A Tesouraria, à qual compete assegurar as actividades previstas nas alíneas r) e s) do n.º 1 do artigo 23.º\n\n3 - A RA deve remeter mensalmente ao respectivo serviço regional os elementos relacionados com o desenvolvimento das actividades previstas nas alíneas f) e h) a j) do n.º 1 do artigo 23.º\n\n4 - As actividades referidas na alínea c) são asseguradas por cada uma das secções em relação aos beneficiários, contribuintes ou fornecedores que lhe correspondam."
+  },
+  "c68f323f283bb4d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Serviço Sub-Regional de Vila Real",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Serviço Sub-Regional de Vila Real"
+  },
+  "04fd8f6a93cf452d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Estrutura\n\n1 - O Serviço Sub-Regional de Vila Real compreende:\n\na) A Repartição de Regimes de Segurança Social;\n\nb) O Departamento de Acção Social;\n\nc) O Gabinete de Apoio Técnico;\n\nd) O Gabinete de Coordenação dos Serviços Locais;\n\ne) A Repartição Administrativa.\n\n2 - Integram-se no Serviço Sub-Regional de Vila Real os serviços locais e estabelecimentos indicados no mapa II anexo ao presente diploma."
+  },
+  "68db9aa5170f3912": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Repartição de Regimes de Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Repartição de Regimes de Segurança Social\n\n1 - À Repartição de Regimes de Segurança Social (RRSS) compete assegurar as actividades previstas no artigo 19.º\n\n2 - A RRSS compreende:\n\na) Duas Secções de Identificação, às quais compete assegurar as actividades previstas nas alíneas a) a d) do n.º 1 do artigo 19.º;\n\nb) Uma Secção de Registo de Remunerações, à qual compete assegurar as actividades previstas nas alíneas e) a h) do n.º 1 do artigo 19.º;\n\nc) Três Secções de Atribuição de Prestações, às quais compete assegurar as actividades previstas nas restantes alíneas do n.º 1 do artigo 19.º\n\n3 - As actividades referidas no número anterior são asseguradas por cada uma das secções em relação aos beneficiários e contribuintes que lhe correspondam."
+  },
+  "6c3c18d6121bb461": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Outros serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Outros serviços\n\nAo Departamento de Acção Social, ao Gabinete de Apoio Técnico e ao Gabinete de Coordenação dos Serviços Locais aplica-se, respectivamente, o disposto nos artigos 20.º, 21.º e 22.º"
+  },
+  "65d2f18bc8abf269": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Repartição Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Repartição Administrativa\n\n1 - À Repartição Administrativa (RA) compete assegurar as actividades previstas no n.º 1 do artigo 23.º\n\n2 - A RA compreende:\n\na) A Secção de Expediente e Apoio, à qual compete assegurar as actividades previstas nas alíneas a) a c), e) e o) a q) do n.º 1 do artigo 23.º;\n\nb) A Secção de Aprovisionamento e Património, à qual compete assegurar as actividades previstas na alínea d) do n.º 1 do artigo 23.º;\n\nc) Duas Secções de Contabilidade, às quais compete assegurar as actividades previstas nas alíneas f) a n) do n.º 1 do artigo 23.º;\n\nd) A Tesouraria, à qual compete assegurar as actividades previstas nas alíneas r) e s) do n.º 1 do artigo 23.º\n\n3 - A RA deve remeter mensalmente ao respectivo serviço regional os elementos relacionados com o desenvolvimento das actividades previstas nas alíneas f) e h) a j) do n.º 1 do artigo 23.º\n\n4 - As actividades referidas na alínea c) do número anterior são asseguradas por cada uma das secções em relação aos beneficiários, contribuintes ou fornecedores que lhe correspondam.\n\nPresidência do Conselho de Ministros, 2 de Agosto de 1993.\n\nAníbal António Cavaco Silva - Jorge Braga de Macedo - António Morgado Pinto Cardoso.\n\nPromulgado em 9 de Setembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Setembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMAPA I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/247b00/59375950.pdf)\n\nMAPA II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/247b00/59375950.pdf)"
+  },
+  "bfb2ff6496daebf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção de Serviços de Administração",
+   "in_force_from": "1998-04-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 6/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1998-167189), publicado em 1998-04-14."
+   ],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Administração\n\n1 - À Direcção de Serviços de Administração (DSA) compete:\n\na) Elaborar projectos de cadernos de encargos de concursos de adjudicação de obras e acompanhar, orientar e fiscalizar as obras do Centro Regional;\n\nb) Vistoriar os edifícios do Centro Regional e propor as medidas necessárias à manutenção ou melhoria das condições de segurança e conservação;\n\nc) Proceder à inventariação dos bens do Centro Regional, promover o registo dos bens imóveis e manter actualizado o respectivo cadastro;\n\nd) Realizar as acções necessárias à aquisição, distribuição, conservação, reparação, locação e alienação de quaisquer bens móveis ou imóveis do Centro Regional, bem como proceder à realização de trabalhos de conservação ou reparação;\n\ne) Assegurar a celebração dos contratos de segurança e higiene dos edifícios em que os serviços se encontram instalados, bem como de manutenção dos equipamentos e bens móveis do Centro Regional;\n\nf) Pronunciar-se acerca da situação dos imóveis, concursos de aquisição de bens e serviços, condições de aprovisionamento e património;\n\ng) Assegurar a gestão das viaturas dos serviços regionais, verificar o estado de conservação das viaturas do Centro Regional e elaborar o respectivo plano de aquisição e abate;\n\nh) Registar, classificar e distribuir o expediente dos serviços regionais ou a estes dirigido, bem como assegurar a expedição da correspondência, documentos e meios de pagamento emitidos pelos mesmos serviços;\n\ni) Assegurar os meios necessários à manutenção das boas condições de utilização das instalações dos serviços colocados à sua guarda;\n\nj) Colaborar com a Direcção de Serviços de Gestão de Pessoal no desenvolvimento das acções necessárias ao controlo da assiduidade do pessoal;\n\nl) Organizar os arquivos dos serviços regionais por forma a assegurar a manutenção dos documentos em boas condições de segurança e fácil consulta e efectuar o expurgo dos documentos;\n\nm) Executar as tarefas necessárias à passagem dos arquivos tradicionais a microfilmados, produzir as microformas e garantir a sua conservação e fácil consulta, bem como zelar pela segurança da inutilização dos documentos e assegurar que a consulta dos documentos arquivados ou das microformas se faça em condições adequadas;\n\nn) Desenvolver as acções necessárias à aquisição dos bens e serviços necessários ao normal funcionamento dos serviços, armazenar e conservar o material adquirido, bem como manter actualizadas as existências mínimas necessárias e proceder à sua distribuição de acordo com as necessidades dos serviços;\n\no) Proceder ao registo dos consumos por centros de custo e à sua avaliação em termos de eficiência e de eficácia;\n\np) Executar as tarefas de desenho, reprodução, corte, alceamento e encadernação de documentos e impressos, em conformidade com as necessidades dos serviços.\n\n2 - A DSA compreende:\n\na) A Divisão de Património, à qual compete assegurar as actividades previstas na alíneas a) a g);\n\nb) A Repartição de Expediente e Apoio, constituída por três secções, à qual compete assegurar as actividades previstas nas alíneas h) a j);\n\nc) A Repartição de Arquivo e Microfilmagem, constituída por duas Secções de Arquivo e pelo Centro de Microfilmagem, à qual compete assegurar as actividades previstas nas alíneas l) e m);\n\nd) A Repartição de Aprovisionamento, constituída pelas Secções de Aprovisionamento e de Gestão de Existências, à qual compete assegurar as actividades previstas nas alíneas n) e o);\n\ne) O Centro Gráfico é coordenado por um funcionário, remunerado nos termos do artigo 5.º e para o efeito designado pelo conselho directivo, ao qual compete assegurar as actividades previstas na alínea p).\n\n3 - As actividades referidas nas alíneas h) e j) do n.º 1 são asseguradas pelas Secções de Expediente e Apoio em relação ao local ou locais de implantação e funcionamento dos serviços a que estejam afectos.\n\n4 - As actividades referidas nas alíneas l) e m) do n.º 1 são asseguradas, respectivamente, pelas Secções de Arquivo, previstas na alínea c) do n.º 2, e pelo Centro de Microfilmagem.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 6/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1998-167189), publicado em 1998-04-14."
+  }
+ }
+}

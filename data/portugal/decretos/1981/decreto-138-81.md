@@ -24,6 +24,15 @@ publication:
   pages: 2922 - 2932
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/25500/29222932.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente a esse país, na data assim indicada
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

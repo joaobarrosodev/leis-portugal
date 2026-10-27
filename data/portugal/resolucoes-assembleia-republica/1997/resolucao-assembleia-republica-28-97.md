@@ -25,6 +25,16 @@ publication:
   pages: 2324 - 2349
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data da notificação do Secretário-Geral do Conselho da União Europeia do cumprimento
+    das formalidades referidas no primeiro parágrafo pelas Partes
+  method: clausula
+  article: art-108
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

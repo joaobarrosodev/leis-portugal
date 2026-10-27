@@ -24,6 +24,15 @@ publication:
   pages: 92-(2) a 92-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24901/0000200012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-20
+  effects_date: '2024-01-01'
+  effects_rule: a 1 de janeiro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

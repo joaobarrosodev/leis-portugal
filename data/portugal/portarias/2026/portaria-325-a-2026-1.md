@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/14901/0000200010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-05'
+entry_into_force:
+  date: '2026-08-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2026-2027
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

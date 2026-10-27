@@ -24,6 +24,16 @@ publication:
   pages: 861 - 863
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/033b00/08610863.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no último dia do mês em que for publicado, com excepção da alteração agora introduzida no n.º 1 do n.º 4.º do aviso
+    n.º 3/95, a qual
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

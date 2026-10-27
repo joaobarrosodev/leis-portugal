@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 12870 - 12870
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/079000000/1287012870.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-23'
+entry_into_force:
+  date: '2016-04-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

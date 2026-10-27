@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3880 - 3880
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/167b00/38803880.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-07-24'
+entry_into_force:
+  date: '1993-07-24'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1993-02-12'
+  effects_rule: desde 12 de Fevereiro de 1993
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

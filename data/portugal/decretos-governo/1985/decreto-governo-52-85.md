@@ -26,6 +26,16 @@ publication:
   pages: 4129 - 4156
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à data em que as Partes Contratantes tenham procedido às notificações referidas no
+    parágrafo 1
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: '1985-12-31'
+  end_rule: em 31 de Dezembro de 1985
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 1648-1648
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/05/05/212665146.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação, e
+  method: clausula
+  article: n-2
+  effects_date: '2023-01-01'
+  effects_rule: a 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

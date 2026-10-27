@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 490-490
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/05/02/863600898.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-05-03'
+entry_into_force:
+  date: '2024-05-03'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-2
+  effects_date: '2024-04-30'
+  effects_rule: a 30 de abril de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

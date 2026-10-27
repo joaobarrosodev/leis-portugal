@@ -24,6 +24,16 @@ publication:
   pages: 3652 - 3666
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/087a00/36523666.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês subsequente ao da troca de notificações efectuada pelas Partes, por via diplomática, notificando-se,
+    mutuamente, de que estão cumpridas as formalidades constitucionais ou legisla
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

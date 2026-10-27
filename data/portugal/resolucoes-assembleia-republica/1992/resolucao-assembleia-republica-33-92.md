@@ -23,6 +23,16 @@ publication:
   pages: 5795 - 5814
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/290a00/57955814.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando tiverem sido assinados em nome dos governos cujas subscrições representem, pelo menos, 65% do total das subscrições
+    enumeradas no anexo A e quando os instrumentos a que se refere a secção 2, a)
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

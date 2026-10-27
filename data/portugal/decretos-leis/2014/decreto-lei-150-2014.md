@@ -24,6 +24,16 @@ publication:
   pages: 5212 - 5214
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/19700/0521205214.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até cinco dias úteis após a data de publicitação pelo IGFEJ, I.P., da declaração a que se refere o n.º 2 do artigo
+    2.º, pela qual se comprove que o sistema informático de suporte à atividade dos tribu
 end_of_validity_date: null
 legal_status: unknown
 notes: []

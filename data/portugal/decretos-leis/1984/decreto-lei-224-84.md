@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 2052-(1) a 2052-(40)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/15501/00010040.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-10-01'
+entry_into_force:
+  date: '1984-10-01'
+  rule: no dia 1 de Outubro de 1984
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

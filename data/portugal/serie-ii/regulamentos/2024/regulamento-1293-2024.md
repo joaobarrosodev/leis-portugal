@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 603 - 607
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/217000000/0060300607.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-09'
+entry_into_force:
+  date: '2024-11-09'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-16
+  effects_date: '2024-01-01'
+  effects_rule: desde o dia 01 de janeiro de 2024, conforme n.º 2 do artigo 2.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3258 - 3261
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18200/32583261.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-08-08'
+entry_into_force:
+  date: '1990-08-08'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: '1989-09-30'
+  effects_rule: a partir de 30 de Setembro de 1989, considerando para tal as categorias que as funcionárias detinham nessa
+    data e as que vierem a deter em consequência de oposição a concursos de acesso, produzindo, n
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

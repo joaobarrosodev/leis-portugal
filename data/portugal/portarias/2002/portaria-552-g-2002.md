@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4780-(4) a 4780-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/06/126b01/00040005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-02'
+entry_into_force:
+  date: '2002-06-02'
+  rule: a partir do dia 2 de Junho de 2002
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

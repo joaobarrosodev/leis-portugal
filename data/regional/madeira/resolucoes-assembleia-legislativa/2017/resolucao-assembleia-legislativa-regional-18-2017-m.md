@@ -24,6 +24,15 @@ publication:
   pages: 4495 - 4495
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/14900/0449504495.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Orçamento do Estado subsequente à sua aprovação ou após uma revisão orçamental
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

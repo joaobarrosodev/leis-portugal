@@ -24,6 +24,16 @@ publication:
   pages: 898 - 978
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês subsequente à data em que as Partes tiverem notificado o Secretariado-Geral do Conselho
+    da União Europeia por via diplomática da conclusão das formalidades necessárias p
+  method: clausula
+  article: art-281
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

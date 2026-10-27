@@ -22,9 +22,30 @@ publication:
   supplement: null
   pages: 549 - 556
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/060000000/0054900556.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-27'
+entry_into_force:
+  date: '2021-03-27'
+  rule: no dia seguinte ao da sua publicação em Diário de República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:201354512:por#art-19'
+    detail: O presente Regulamento revoga o [Regulamento n.º 304/2021] publicado no Diário da República, 2.ª série, n.º 60,
+      de 26 de março de 2021.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:213166519:por#art-19'
+    detail: O presente Regulamento revoga o [Regulamento n.º 304/2021] publicado no Diário de República, 2.ª série, n.º 60,
+      de 26 de março de 2021.
 notes: []
 language: por
 version:

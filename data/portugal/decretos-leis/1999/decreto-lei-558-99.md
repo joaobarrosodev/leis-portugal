@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9012 - 9019
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/292a00/90129019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-01-01'
+entry_into_force:
+  date: '2000-01-01'
+  rule: no 1.º dia do mês subsequente ao da sua publicação
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

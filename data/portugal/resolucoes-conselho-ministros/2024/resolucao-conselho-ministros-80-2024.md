@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 7 - 17
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/11900/0000700017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-06-26'
+entry_into_force:
+  date: '2024-06-26'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir da data da sua aprovação, e
+  end_date: null
+  end_rule: até ao final de dezembro 2024, sem prejuízo de revisão em agosto de 2024, resultante da avaliação referida no
+    n.º 41, e ressalvados os casos para os quais se encontre estabelecido um prazo de vigência
 end_of_validity_date: null
 legal_status: unknown
 notes: []

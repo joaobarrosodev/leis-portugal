@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:176336:por",
+  "artigos": [],
+  "nao_aplicavel": "O DL 125/2014 revoga o DL 10/2003 com exceção dos seus artigos 1.º e 7.º. O alvo é ambíguo nas chaves: o decreto-lei (arts. 1.º a 11.º) e os Estatutos anexos (arts. 1.º a 39.º, também revogados) partilham as chaves \"1.º\" a \"11.º\" (o pedido traz duas chaves \"1.º\": Objecto e Natureza e finalidade). Devolver \"1.º\"/\"7.º\" ou omiti-los dá resultado errado numa das duas séries; aplicar exige separar os Estatutos com chave de anexo.",
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

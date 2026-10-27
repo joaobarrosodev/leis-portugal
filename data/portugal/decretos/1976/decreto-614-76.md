@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1704 - 1705
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17400/17041705.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-07-27'
+entry_into_force:
+  date: '1976-07-27'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

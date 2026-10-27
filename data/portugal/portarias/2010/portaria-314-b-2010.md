@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 2022-(8) a 2022-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11301/0000800016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-06-15'
+entry_into_force:
+  date: '2010-06-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

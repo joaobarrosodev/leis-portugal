@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4381 - 4382
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/16600/0438104382.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-11-27'
+entry_into_force:
+  date: '2018-11-27'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

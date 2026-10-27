@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2792 - 2801
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/119a00/27922801.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-08-22'
+entry_into_force:
+  date: '1993-08-22'
+  rule: três meses após a data da sua publicação e não se aplica aos processos judiciais de adopção então pendentes, salvo
+    se as respectivas disposições forem mais favoráveis à constituição de vínculo
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

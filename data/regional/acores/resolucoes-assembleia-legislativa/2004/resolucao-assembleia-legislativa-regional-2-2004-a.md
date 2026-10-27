@@ -24,6 +24,16 @@ publication:
   pages: 1958 - 1959
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/073b00/19581959.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de sua assinatura, condicionada a publicação da respectiva súmula no diário oficial do estado, vigorando por
+    período indeterminado
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

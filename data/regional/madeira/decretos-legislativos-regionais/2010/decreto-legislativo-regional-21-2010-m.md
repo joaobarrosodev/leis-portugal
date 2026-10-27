@@ -24,6 +24,15 @@ publication:
   pages: 3645 - 3646
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16200/0364503646.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a entrada em vigor da Lei n.º 48/2009, de 4 de Agosto
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

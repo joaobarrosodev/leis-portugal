@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/07/141000000/0009900100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:835663384:por'
+    detail: Revogada, a partir de 27 de dezembro de 2023, pelo(a) Diretiva n.º 19/2023 - Diário da República n.º 247/2023,
+      Série II de 2023-12-26 nos termos do n.º 2 desta
 notes: []
 language: por
 version:

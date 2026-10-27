@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 168-(2) a 168-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/01/012b01/00020005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-01-15'
+entry_into_force:
+  date: '1998-01-15'
+  rule: na data da sua publicação, devendo o n.º 3 do artigo 5.º ser cumprido na totalidade a partir de 1 de Janeiro de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

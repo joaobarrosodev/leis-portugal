@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2238-(2) a 2238-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/22901/00020008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-09-30'
+entry_into_force:
+  date: '1976-09-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

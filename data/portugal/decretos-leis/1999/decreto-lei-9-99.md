@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 92 - 95
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/006a00/00920095.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-04-01'
+entry_into_force:
+  date: '1999-04-01'
+  rule: no 1.º dia do 3.º mês seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

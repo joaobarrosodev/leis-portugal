@@ -24,6 +24,15 @@ publication:
   pages: 169 - 174
   pdf_url: https://files.diariodarepublica.pt/1s/1968/01/02200/01690174.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: entre esses Estados 30 dias após a data do depósito do segundo instrumento de ratificação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 553 - 554
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05400/05530554.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-03-07'
+entry_into_force:
+  date: '1986-03-07'
+  rule: no dia imediato ao da sua publicação, devendo os processos de integração do pessoal e da transferência do património
+    estar concluídos no prazo máximo de 90 dias a partir da data do início da sua vigên
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

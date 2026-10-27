@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1524 - 1525
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06400/0152401525.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-04-03'
+entry_into_force:
+  date: '2012-04-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir da instalação do Tribunal da Propriedade Intelectual e do Tribunal da Concorrência, Regulação e Supervisão,
+    instituídos pelo Decreto-Lei n.º 67/2012, de 20 de março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4796 - 4797
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/180a00/47964797.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-08-05'
+entry_into_force:
+  date: '2001-08-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: '2001-07-01'
+  effects_rule: desde 1 de Julho de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

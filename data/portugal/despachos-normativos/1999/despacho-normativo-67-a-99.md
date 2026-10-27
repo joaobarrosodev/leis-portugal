@@ -24,6 +24,15 @@ publication:
   pages: 9362-(78) a 9362-(79)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/303b05/00780079.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no mês seguinte ao da sua publicação
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

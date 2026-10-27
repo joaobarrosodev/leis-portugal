@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 72-(13) a 72-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01001/00130013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-01-13'
+entry_into_force:
+  date: '1985-01-13'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 5933 - 5936
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20300/0593305936.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias a partir da data da receção da última notificação, por escrito, na qual as Partes se informam, por via diplomática,
+    de que foram concluídos os procedimentos para entrada em vigor do presente A
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

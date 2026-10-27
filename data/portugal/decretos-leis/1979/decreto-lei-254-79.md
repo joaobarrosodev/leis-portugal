@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1743 - 1745
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17300/17431745.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-07-29'
+entry_into_force:
+  date: '1979-07-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: '1978-03-01'
+  effects_rule: desde 1 de Março de 1978 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

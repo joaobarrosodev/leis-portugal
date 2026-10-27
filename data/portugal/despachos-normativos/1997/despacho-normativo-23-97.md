@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2380 - 2381
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/111b00/23802381.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-06-13'
+entry_into_force:
+  date: '1997-06-13'
+  rule: 30 dias a contar da data da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

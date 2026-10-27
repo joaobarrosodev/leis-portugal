@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 32-(25) a 32-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/12501/0002500025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-01'
+entry_into_force:
+  date: '2022-07-01'
+  rule: no dia 1 de julho de 2022 e
+  method: clausula
+  article: art-4
+  effects_date: '2022-08-31'
+  effects_rule: até 31 de agosto de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

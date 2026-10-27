@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5258 - 5262
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/190b00/52585262.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-01'
+entry_into_force:
+  date: '2001-07-01'
+  rule: a partir de 1 de Julho de 2001
+  method: clausula
+  article: n-2
+  effects_date: '2001-07-01'
+  effects_rule: a partir de 1 de Julho de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

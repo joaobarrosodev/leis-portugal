@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1294-(1) a 1294-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/25301/00010004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-10-31'
+entry_into_force:
+  date: '1974-10-31'
+  rule: no dia 31 de Outubro de 1974
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

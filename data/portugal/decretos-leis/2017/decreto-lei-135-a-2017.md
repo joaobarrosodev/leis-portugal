@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5866-(10) a 5866-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21102/0001000011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-07'
+entry_into_force:
+  date: '2017-11-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2017-11-03'
+  effects_rule: no dia seguinte ao da sua publicação e
+  end_date: '2018-12-31'
+  end_rule: até 31 de dezembro de 2018
 end_of_validity_date: null
 legal_status: unknown
 notes: []

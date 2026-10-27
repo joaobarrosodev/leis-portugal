@@ -23,6 +23,15 @@ publication:
   pages: 6335 - 6338
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/261b00/63356338.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da posse do VIII Governo Regional dos Açores
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

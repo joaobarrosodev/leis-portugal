@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 3310 - 3319
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/10200/0331003319.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-05-28'
+entry_into_force:
+  date: '2009-05-28'
+  rule: no dia seguinte ao da sua publicação, salvo quanto à obrigatoriedade da posse da carta de qualificação de motorista
+    e do CAM, previstos no n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º, respectivamente
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

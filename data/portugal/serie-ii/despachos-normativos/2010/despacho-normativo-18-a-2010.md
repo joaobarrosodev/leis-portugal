@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 36072-(2) a 36072-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/126000001/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-02'
+entry_into_force:
+  date: '2010-07-02'
+  rule: no dia seguinte ao da sua publicação, podendo os sujeitos passivos requerer a partir desse momento a inscrição no
+    regime de reembolso mensal
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

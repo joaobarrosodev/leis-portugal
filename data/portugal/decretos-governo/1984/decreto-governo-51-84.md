@@ -24,6 +24,15 @@ publication:
   pages: 2557 - 2560
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19300/25572560.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em data a acordar por meio da troca de notas diplomáticas
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

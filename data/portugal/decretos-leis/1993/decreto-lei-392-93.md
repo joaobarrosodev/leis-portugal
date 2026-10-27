@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6477 - 6482
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/274a00/64776482.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-12-01'
+entry_into_force:
+  date: '1993-12-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

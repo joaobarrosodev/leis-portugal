@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3254-(2) a 3254-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/05/087b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-05-06'
+entry_into_force:
+  date: '2006-05-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: desde a entrada em vigor da Lei n.º 14/2006, de 26 de Abril
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

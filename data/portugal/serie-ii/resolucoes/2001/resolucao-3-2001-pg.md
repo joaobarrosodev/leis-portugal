@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 12631 - 12635
   pdf_url: https://files.diariodarepublica.pt/2s/2001/07/172000000/1263112635.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-08-05'
+entry_into_force:
+  date: '2001-08-05'
+  rule: no 10.º dia após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

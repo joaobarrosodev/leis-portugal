@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1649 - 1651
   pdf_url: https://files.diariodarepublica.pt/1s/1967/09/21500/16491651.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1967-11-13'
+entry_into_force:
+  date: '1967-11-13'
+  rule: 60 dias após a data da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

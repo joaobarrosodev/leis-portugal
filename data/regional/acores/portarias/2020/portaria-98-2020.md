@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2752-2754
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/07/06/137352189.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-07'
+entry_into_force:
+  date: '2020-07-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

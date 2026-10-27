@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05800/0000300003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-01'
+entry_into_force:
+  date: '2022-04-01'
+  rule: no dia 1 de abril de 2022
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

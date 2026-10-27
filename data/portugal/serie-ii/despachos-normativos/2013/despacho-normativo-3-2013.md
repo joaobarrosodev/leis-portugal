@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4266 - 4267
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/019000000/0426604267.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-29'
+entry_into_force:
+  date: '2013-01-29'
+  rule: no dia seguinte ao da sua publicação e é aplicável apenas às candidaturas apresentadas no ano de 2012
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

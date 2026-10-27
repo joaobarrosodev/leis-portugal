@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4325 - 4330
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/192b00/43254330.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-08-22'
+entry_into_force:
+  date: '1997-08-22'
+  rule: no dia imediato ao da respectiva publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

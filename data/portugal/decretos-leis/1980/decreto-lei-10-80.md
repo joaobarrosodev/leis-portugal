@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 168 - 168
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/04000/01680168.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-02-16'
+entry_into_force:
+  date: '1980-02-16'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-20-a
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

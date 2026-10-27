@@ -23,6 +23,15 @@ publication:
   pages: 3308 - 3308
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23500/33083308.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no décimo dia a partir da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

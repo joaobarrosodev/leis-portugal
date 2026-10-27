@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 3192 - 3193
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/17700/31923193.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-10-31'
+entry_into_force:
+  date: '1988-10-31'
+  rule: 90 dias depois da sua publicação e na mesma data ficarão revogados o Decreto-Lei n.º 45698, de 30 de Abril de 1964,
+    a sua legislação complementar e ainda as disposições legais que estabeleçam isenções
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

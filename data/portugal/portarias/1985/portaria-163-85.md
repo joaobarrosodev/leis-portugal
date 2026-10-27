@@ -24,6 +24,15 @@ publication:
   pages: 769 - 771
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/06900/07690771.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ':'
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2346 - 2347
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/28200/23462347.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-02-02'
+entry_into_force:
+  date: '1974-02-02'
+  rule: sessenta dias após a data da sua publicação
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1999 - 1999
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/07500/0199901999.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-04-17'
+entry_into_force:
+  date: '2012-04-17'
+  rule: no dia seguinte ao da sua publicação e é aplicável aos contratos de destilação celebrados na campanha vitivinícola
+    de 2011-2012
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

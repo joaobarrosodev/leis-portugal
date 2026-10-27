@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 663 - 691
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02400/0066300691.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-03-06'
+entry_into_force:
+  date: '2015-03-06'
+  rule: trinta dias após a respetiva publicação, em tudo o que não necessite de desenvolvimento
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 1954 - 1955
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18400/19541955.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data em que a Convenção sobre a Administração Internacional de Heranças
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4630 - 4632
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/117a00/46304632.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-30'
+entry_into_force:
+  date: '2002-06-30'
+  rule: no dia 30 de Junho de 2002, data em que cessam os mandatos dos membros dos órgãos sociais eleitos ao abrigo do diploma
+    legal que criou a sociedade Porto 2001, S
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

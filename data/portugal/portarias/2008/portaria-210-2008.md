@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1354 - 1356
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/04300/0135401356.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-01'
+entry_into_force:
+  date: '2008-03-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2008-03-01'
+  effects_rule: desde 1 de Março de 2008
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

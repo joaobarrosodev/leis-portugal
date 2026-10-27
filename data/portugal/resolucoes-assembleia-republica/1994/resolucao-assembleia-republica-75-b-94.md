@@ -24,6 +24,16 @@ publication:
   pages: 7380-(756) a 7380-(1227)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data fixada pelos Ministros, em conformidade com o n.º 3 do Acto Final que consagra os resultados das negociações
+    comerciais multilaterais do Uruguay Round e ficará aberto à aceitação por um períod
+  method: clausula
+  article: art-xiv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

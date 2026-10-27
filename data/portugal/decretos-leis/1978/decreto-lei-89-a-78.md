@@ -24,6 +24,15 @@ publication:
   pages: 848-(1) a 848-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/10501/00010001.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: e só
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 8396 - 8397
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/275b00/83968397.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato ao dia da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

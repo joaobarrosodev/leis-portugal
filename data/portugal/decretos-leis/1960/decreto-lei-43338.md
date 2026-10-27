@@ -24,6 +24,16 @@ publication:
   pages: 2522 - 2554
   pdf_url: https://files.diariodarepublica.pt/1s/1960/11/27000/25222554.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando tiver sido assinado em nome de governos totalizando 65 por cento do total das quotas enumeradas no anexo A
+    e quando os instrumentos a que se refere a secção 2, (a), do presente artigo tiverem s
+  method: clausula
+  article: art-xx
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

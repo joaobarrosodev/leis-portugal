@@ -25,6 +25,16 @@ publication:
   pages: 5106-(37) a 5106-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de entrada em vigor do CCP, aplicando-se à elaboração de todos os projectos cujo procedimento de contratação
+    tenha sido iniciado após aquela data, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

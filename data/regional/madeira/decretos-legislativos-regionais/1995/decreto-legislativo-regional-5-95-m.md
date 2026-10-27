@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2440 - 2440
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/100a00/24402440.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-04-01'
+entry_into_force:
+  date: '1995-04-01'
+  rule: a partir do dia 1 de Abril de 1995
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

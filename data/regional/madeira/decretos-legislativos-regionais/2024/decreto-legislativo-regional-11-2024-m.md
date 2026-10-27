@@ -24,6 +24,15 @@ publication:
   pages: 19 - 25
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23300/0001900025.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: a partir da data de entrada em vigor da regulamentação necessária à sua execução
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

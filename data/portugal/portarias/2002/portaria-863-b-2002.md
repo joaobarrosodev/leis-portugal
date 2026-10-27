@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5414-(18) a 5414-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/166b02/00180020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-07-21'
+entry_into_force:
+  date: '2002-07-21'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

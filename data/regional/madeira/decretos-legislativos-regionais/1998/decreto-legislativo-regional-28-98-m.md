@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7235 - 7237
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/299a00/72357237.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-12-30'
+entry_into_force:
+  date: '1998-12-30'
+  rule: no dia seguinte ao da sua publicação, podendo o IHM executá-lo de imediato, dado já ter previsto no respectivo orçamento
+    verbas para o efeito, na rubrica 02/07-02.03.03
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

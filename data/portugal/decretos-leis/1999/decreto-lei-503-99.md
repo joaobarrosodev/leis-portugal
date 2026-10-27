@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8241 - 8256
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/271a00/82418256.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-01'
+entry_into_force:
+  date: '2000-05-01'
+  rule: no dia 1 do 6.º mês seguinte à data da sua publicação
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

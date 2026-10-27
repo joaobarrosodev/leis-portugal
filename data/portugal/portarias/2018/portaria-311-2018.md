@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 5555 - 5561
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/23300/0555505561.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-12-05'
+entry_into_force:
+  date: '2018-12-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

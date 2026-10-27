@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1957/08/17300/07750776.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:378750:por#art-11'
+    detail: a) O [Decreto n.º 41212], de 3 de Agosto de 1957
 notes: []
 language: por
 version:

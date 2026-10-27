@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17-(2) a 17-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/06502/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-04'
+entry_into_force:
+  date: '2022-04-04'
+  rule: no dia 4 de abril de 2022 e
+  method: clausula
+  article: art-unico
+  effects_date: '2022-04-10'
+  effects_rule: até dia 10 de abril de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

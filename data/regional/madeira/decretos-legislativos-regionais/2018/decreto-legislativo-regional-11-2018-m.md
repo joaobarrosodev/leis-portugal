@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3779 - 3789
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/14900/0377903789.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-01'
+entry_into_force:
+  date: '2018-09-01'
+  rule: no primeiro dia do mês imediato ao da sua publicação, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 638-(4) a 638-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07702/00040010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-03-31'
+entry_into_force:
+  date: '1976-03-31'
+  rule: 'na data da sua publicação e, salvo o disposto nos números seguintes e nos artigos 1.º, na parte que respeita aos
+    artigos 111.º, 125.º, 126.º e 150.º-A do Código, e 3.º, as disposições que modificam o '
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

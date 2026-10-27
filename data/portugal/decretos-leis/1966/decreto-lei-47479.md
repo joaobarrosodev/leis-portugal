@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2500 - 2510
   pdf_url: https://files.diariodarepublica.pt/1s/1966/12/30301/25002510.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1956-10-01'
+entry_into_force:
+  date: '1956-10-01'
+  rule: em 1 de Outubro de 1956
+  method: clausula
+  article: art-iii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

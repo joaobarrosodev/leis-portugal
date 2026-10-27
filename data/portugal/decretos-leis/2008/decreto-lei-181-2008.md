@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 6124 - 6125
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/16600/0612406125.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-09-02'
+entry_into_force:
+  date: '2008-09-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2008-08-31'
+  effects_rule: a 31 de Agosto de 2008
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

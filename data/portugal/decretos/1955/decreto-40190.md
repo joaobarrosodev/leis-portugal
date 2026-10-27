@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1955/06/13200/04680471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:555188:por#art-38'
+    detail: Com a publicação do presente decreto fica revogado o [Decreto n.º 40190], de 17 de Junho de 1955.
 notes: []
 language: por
 version:

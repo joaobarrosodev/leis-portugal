@@ -23,6 +23,16 @@ publication:
   pages: 3818-(1) a 3818-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29601/00010014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao do depósito do instrumento de ratificação do Estado signatário que tiver procedido
+    a esta formalidade em último lugar
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

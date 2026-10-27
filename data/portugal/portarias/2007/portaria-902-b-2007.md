@@ -26,6 +26,15 @@ publication:
   pages: 5266-(2) a 5266-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/15501/0000200008.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 15 de Agosto de 20=07
+  method: clausula
+  article: n-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 11440-(3) a 11440-(10)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/066000001/0000300010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-06'
+entry_into_force:
+  date: '2016-04-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

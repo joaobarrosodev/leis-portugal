@@ -25,6 +25,16 @@ publication:
   pages: 1455 - 1460
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/03400/0145501460.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última notificação, por escrito e através dos canais diplomáticos, estabelecendo que foram
+    cumpridos os procedimentos nacionais, em ambos Estados Contratantes, para essa entrada
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

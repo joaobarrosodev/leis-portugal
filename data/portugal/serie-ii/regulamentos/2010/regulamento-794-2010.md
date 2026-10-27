@@ -26,7 +26,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/204000000/5196751969.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1996547:por#art-41'
+    detail: 2 - É revogado o [Regulamento n.º 794/2010] (2.ª série), publicado no Diário da República, n.º 204, de 20 de Outubro.
 notes: []
 language: por
 version:

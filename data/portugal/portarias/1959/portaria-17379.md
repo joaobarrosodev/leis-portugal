@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/10/22800/12281229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:469806:por#n-7'
+    detail: 7.º Fica revogada a [Portaria n.º 17379], de 3 de Outubro de 1959.
 notes: []
 language: por
 version:

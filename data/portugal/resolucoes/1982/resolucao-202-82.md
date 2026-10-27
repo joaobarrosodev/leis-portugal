@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3783 - 3784
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/26200/37833784.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-10-30'
+entry_into_force:
+  date: '1982-10-30'
+  rule: no dia 30 de Outubro de 1982
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

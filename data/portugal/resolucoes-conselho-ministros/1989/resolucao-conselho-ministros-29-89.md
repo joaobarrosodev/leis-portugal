@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3596 - 3597
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19600/35963597.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-08-31'
+entry_into_force:
+  date: '1989-08-31'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1989-07-01'
+  effects_rule: desde 1 de Julho de 1989 - data a partir da qual se considera revogada a Resolução do Conselho de Ministros
+    n.º 7/85, de 6 de Fevereiro, bem como os despachos entretanto proferidos ao abrigo do dispos
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

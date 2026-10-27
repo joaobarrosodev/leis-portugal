@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1248 - 1252
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04200/0124801252.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-03-17'
+entry_into_force:
+  date: '2015-03-17'
+  rule: no dia 17 de março de 2015
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

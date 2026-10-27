@@ -23,6 +23,15 @@ publication:
   pages: 3159 - 3165
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/151a00/31593165.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após três Estado terem dado o seu consentimento a por ela ficarem vinculados
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

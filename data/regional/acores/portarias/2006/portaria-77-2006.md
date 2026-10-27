@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: '2336'
   pdf_url: null
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-09-22'
+entry_into_force:
+  date: '2006-09-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2000-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5178 - 5185
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29200/51785185.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-01-19'
+entry_into_force:
+  date: '1991-01-19'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8997 - 9012
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/292a00/89979012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-01-01'
+entry_into_force:
+  date: '2000-01-01'
+  rule: em 1 de Janeiro de 2000, excepto no que se refere ao artigo 51.º
+  method: clausula
+  article: art-77
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

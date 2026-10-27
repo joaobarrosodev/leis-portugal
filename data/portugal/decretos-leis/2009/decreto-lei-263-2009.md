@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 6967 - 6972
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/18800/0696706972.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-12-27'
+entry_into_force:
+  date: '2009-12-27'
+  rule: 90 dias após a data da sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

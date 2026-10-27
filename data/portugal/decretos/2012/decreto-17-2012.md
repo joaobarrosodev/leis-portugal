@@ -25,6 +25,16 @@ publication:
   pages: 3600 - 3603
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13300/0360003603.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: aos trinta (30) dias depois da data da última notificação do cumprimento dos requisitos exigidos para a sua entrada
+    em vigor pelos ordenamentos jurídicos de cada Estado e terá uma duração indefinida
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

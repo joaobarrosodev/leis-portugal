@@ -24,6 +24,16 @@ publication:
   pages: 1539 - 1540
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16100/15391540.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: sessenta dias após as Partes Contratantes se terem informado reciprocamente de que foram cumpridas as formalidades
+    exigidas pelas respectivas constituições
+  method: clausula
+  article: art-x
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

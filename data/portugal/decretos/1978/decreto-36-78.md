@@ -24,6 +24,16 @@ publication:
   pages: 734 - 735
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08900/07340735.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: provisoriamente na data da sua assinatura e definitivamente na data de troca de notas confirmando a sua aprovação,
+    em conformidade com os requisitos constitucionais de ambos os Países, e manter-se-á v
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3163 - 3164
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11900/0316303164.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-22'
+entry_into_force:
+  date: '2017-06-22'
+  rule: no dia da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

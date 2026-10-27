@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 550 - 565
   pdf_url: https://files.diariodarepublica.pt/1s/1996/03/069b00/05500565.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-03-21'
+entry_into_force:
+  date: '1996-03-21'
+  rule: à data da sua publicação no Diário da República e a sua vigência e revisão regular-se-ão pelo Decreto-Lei n.º 69/90,
+    de 2 de Março
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

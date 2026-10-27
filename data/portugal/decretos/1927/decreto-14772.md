@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1927/12/28300/24082409.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:514387:por#art-171'
+    detail: o [Decreto n.º 14772], de 18 de Dezembro de 1927
 notes: []
 language: por
 version:

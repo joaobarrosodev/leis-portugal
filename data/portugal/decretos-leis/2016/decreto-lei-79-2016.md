@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4141 - 4142
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22500/0414104142.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-01'
+entry_into_force:
+  date: '2016-12-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

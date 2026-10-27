@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 2156 - 2158
   pdf_url: https://files.diariodarepublica.pt/1s/2013/04/07300/0215602158.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-04-16'
+entry_into_force:
+  date: '2013-04-16'
+  rule: no dia seguinte ao da sua publicação e aplica-se às operações em curso, com as especificações previstas nos números
+    seguintes
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

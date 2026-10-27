@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2022-2025
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/06/02/184322053.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-03'
+entry_into_force:
+  date: '2022-06-03'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-11
+  effects_date: '2022-06-02'
+  effects_rule: a 2 de junho de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

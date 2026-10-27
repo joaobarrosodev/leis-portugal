@@ -24,6 +24,15 @@ publication:
   pages: 5604 - 5604
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/251a00/56045604.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: conjuntamente com o diploma regulamentar a que se refere o artigo anterior
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 17-(2) a 17-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09801/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-23'
+entry_into_force:
+  date: '2022-05-23'
+  rule: no dia 23 de maio de 2022 e
+  method: clausula
+  article: art-4
+  effects_date: '2022-05-29'
+  effects_rule: até dia 29 de maio de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:180398388:por#art-5'
+    detail: '[Artigo 3.º, Portaria n.º 151-A/2022 - Diário da República n.º 98/2022, 1º Suplemento, Série I de 2022-05-20]
+      mantém em vigor o art. 4.º da Portaria n.º 140-A/2022, de 29 de abril, o qual mantém em vigor os arts. 4.º e 5.º do
+      presente diploma, a partir de 23.05.2022 e com efeitos até 29.05.2022.'
 notes: []
 language: por
 version:

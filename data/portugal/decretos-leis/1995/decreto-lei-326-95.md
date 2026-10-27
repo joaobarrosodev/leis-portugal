@@ -23,6 +23,15 @@ publication:
   pages: 7556 - 7559
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/280a00/75567559.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com as portarias nele previstas
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

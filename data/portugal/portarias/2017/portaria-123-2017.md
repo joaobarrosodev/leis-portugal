@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1621 - 1624
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06100/0162101624.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-03-28'
+entry_into_force:
+  date: '2017-03-28'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

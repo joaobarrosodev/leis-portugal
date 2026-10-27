@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4348 - 4351
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11900/0434804351.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-23'
+entry_into_force:
+  date: '2015-06-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-17
+  effects_date: '2015-06-01'
+  effects_rule: desde 1 de junho de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

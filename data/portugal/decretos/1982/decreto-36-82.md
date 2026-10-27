@@ -23,6 +23,15 @@ publication:
   pages: 681 - 683
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/07200/06810683.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da troca definitiva dos instrumentos de ratificação entre as Duas Partes
+  method: clausula
+  article: art-xii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

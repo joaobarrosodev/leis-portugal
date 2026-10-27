@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 9518-(3) a 9518-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/22301/0000300006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-16'
+entry_into_force:
+  date: '2015-11-16'
+  rule: no dia 16 de novembro de 2015
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

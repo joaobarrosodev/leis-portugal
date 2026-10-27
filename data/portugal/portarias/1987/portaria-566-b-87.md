@@ -24,6 +24,15 @@ publication:
   pages: 2652-(2) a 2652-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15301/00020003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da abertura da campanha (1 de Setembro de 1987)
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

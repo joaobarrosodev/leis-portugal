@@ -1,0 +1,119 @@
+{
+  "id": "pt:dre:183049:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Conceito)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "(Extensão)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Intervenção do INH)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Requisitos essenciais das empresas)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Regime jurídico das habitações)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Terrenos para construção)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Investimentos anual)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Benefícios a conceder às empresas construtoras)",
+      "texto": "1 - As empresas construtoras que sejam sujeitos de CDH usufruem dos seguintes benefícios:\n\na) Concessão de financiamentos à construção das habitações, em condições mais favoráveis que as adoptadas em operações análogas, nos termos, a fixar por portaria conjunta dos Ministros, das Finanças e do Plano e do Equipamento Social;\n\nb) Isenção de sisa pela aquisição do terreno ou pela constituição do direito de superfície sobro o mesmo, sob condição de se destinar a um CDH e que este seja celebrado em prazo não superior a 2 anos a contar da data da transmissão ou da constituição referidas;\n\nc) Redução até 90% da contribuição Industrial que incidir sobre o lucro obtido no empreendimento objecto do CDH, a fixar por despacho do Ministro das Finanças e do Plano;\n\nd) Gratuitidade dos actos de registo predial inerentes ao objecto do CDH, incluindo os relativos aos terrenos referidos na alínea b).\n\n2 - (Revogado.)\n\n3 - (Revogado.)"
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Obrigações das empresas)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Controle da execução do contrato)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Condições do financiamento)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Garantia de compra)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "(Intervenção do INH no financiamento de garantia de compra)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Valor de venda das habitações)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Valor da rendas das habitações)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "(Comercialização das habitações)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "(Benefícios a conceder aos adquirentes das habilitações)",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - Aos rendimentos resultantes do arrendamento das habitações construídas ao abrigo de CDH são aplicáveis os benefícios fiscais previstos no regime de renda condicionada.\n\n4 - Os adquirentes das habitações beneficiam ainda de:\n\na) Isenção de sisa na primeira transmissão das habitações;\n\nb) Gratuitidade dos actos do registo predial.\n\n5 - Os benefícios previstos nos n.os 1, 2 e 4 deste artigo são ainda aplicáveis à segunda transmissão dos fogos adquiridos pela câmara municipal no exercício da garantia de compra."
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Valor máximo de venda nas segundas transmissões)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Incumprimento do contrato por parte das empresas construtoras)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "(Aplicação)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "(Disposição transitória)",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "(Regulamentação)",
+      "texto": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 23 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - José Veiga Simão - Carlos Montez Melancia.\n\nPromulgado em 5 de Junho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 7 de Junho de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

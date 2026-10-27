@@ -24,6 +24,16 @@ publication:
   pages: 888-(2) a 888-(287)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/035a01/00020287.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à data em que as Partes Contratantes tenham procedido à notificação recíproca do cumprimento
+    das formalidades necessárias para o efeito
+  method: clausula
+  article: art-109
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

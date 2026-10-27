@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20 - 47
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16600/0002000047.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-11-28'
+entry_into_force:
+  date: '2019-11-28'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 6132 - 6142
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/204a00/61326142.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à data da última dessas notificações
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

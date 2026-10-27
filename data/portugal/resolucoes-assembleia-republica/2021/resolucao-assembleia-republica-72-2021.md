@@ -24,6 +24,16 @@ publication:
   pages: 3 - 60
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/04600/0000300060.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data do depósito do 35.º instrumento de ratificação ou adesão pelos Estados ou pela Namíbia, representada
+    pelo Conselho das Nações Unidas para a Namíbia
+  method: clausula
+  article: art-85
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

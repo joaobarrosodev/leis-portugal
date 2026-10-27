@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/08/21/933115793.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-22'
+entry_into_force:
+  date: '2025-08-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: '2025-08-01'
+  effects_rule: a 1 de agosto de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

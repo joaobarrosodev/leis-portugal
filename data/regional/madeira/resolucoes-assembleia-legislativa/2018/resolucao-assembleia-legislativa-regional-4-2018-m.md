@@ -24,6 +24,15 @@ publication:
   pages: 875 - 875
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/02800/0087500875.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do ano civil seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

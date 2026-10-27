@@ -25,6 +25,15 @@ publication:
   pages: 3942 - 3943
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/14100/0394203943.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte à data da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

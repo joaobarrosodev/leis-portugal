@@ -23,6 +23,16 @@ publication:
   pages: 3822 - 3823
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/136a00/38223823.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna de cada uma das
+    Partes e será valido por um período de três anos, automaticamente prorrogável, podend
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6500 - 6515
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-12-01'
+entry_into_force:
+  date: '2012-12-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 10 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23900/0001000020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-15'
+entry_into_force:
+  date: '2022-12-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 862-(4) a 862-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04802/00040014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em todo o território nacional decorridos 90 dias sobre a data da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

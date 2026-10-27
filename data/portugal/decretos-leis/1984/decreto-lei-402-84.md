@@ -23,6 +23,15 @@ publication:
   pages: 3974 - 3975
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/30100/39743975.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 180 dias após a data da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

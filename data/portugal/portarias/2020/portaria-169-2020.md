@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 159 - 173
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13300/0015900173.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-11'
+entry_into_force:
+  date: '2020-07-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: à data da assinatura do protocolo constante do anexo i
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

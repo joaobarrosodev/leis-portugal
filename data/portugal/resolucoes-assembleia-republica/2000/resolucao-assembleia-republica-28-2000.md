@@ -25,6 +25,16 @@ publication:
   pages: 1352 - 1378
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/076a00/13521378.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data em que tiver lugar a troca de notas diplomáticas indicando a conclusão dos procedimentos legais
+    internos necessários, em cada um dos países, para a entrada em vigor desta Conve
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

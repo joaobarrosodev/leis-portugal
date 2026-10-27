@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1723 - 1724
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19700/17231724.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-08-29'
+entry_into_force:
+  date: '1978-08-29'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

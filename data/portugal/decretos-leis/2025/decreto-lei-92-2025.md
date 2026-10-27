@@ -23,6 +23,15 @@ publication:
   pages: 5 - 13
   pdf_url: https://files.diariodarepublica.pt/1s/2025/08/15600/0000500013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

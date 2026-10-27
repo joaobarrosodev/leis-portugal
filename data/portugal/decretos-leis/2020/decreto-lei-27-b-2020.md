@@ -23,7 +23,18 @@ publication:
   supplement: 2º Suplemento
   pages: 23-(4) a 23-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11802/0000400009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-06-20'
+entry_into_force:
+  date: '2020-06-20'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-11
+  effects_date: '2020-12-31'
+  effects_rule: até 31 de dezembro de 2020, sem prejuízo do disposto na alínea b) do n.º 2 do artigo 4.º e do reconhecimento
+    do direito previsto no n.º 8 do artigo 4.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 19-(10) a 19-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/02/02301/0001000020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-02-04'
+entry_into_force:
+  date: '2020-02-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

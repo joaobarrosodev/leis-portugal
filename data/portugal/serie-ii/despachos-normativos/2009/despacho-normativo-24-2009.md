@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 26002 - 26009
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/127000000/2600226009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-07-04'
+entry_into_force:
+  date: '2009-07-04'
+  rule: no dia seguinte ao da sua publicação, com excepção da alteração ao artigo 18.º do despacho normativo n.º 23/2008,
+    publicado no Diário da República, 2.ª série, n.º 77, de 18 de Abril de 2008, que
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: desde o início da campanha de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

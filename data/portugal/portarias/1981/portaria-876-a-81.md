@@ -24,6 +24,15 @@ publication:
   pages: 2614-(27) a 2614-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/22501/00270029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 1 de Outubro
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 502 - 504
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03900/05020504.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data que vier a ser fixada por meio de troca de notas entre os Governos dos dois países e manter-se-á em vigor
+    durante o período de um ano, sendo automaticamente renovado por períodos iguais e suce
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

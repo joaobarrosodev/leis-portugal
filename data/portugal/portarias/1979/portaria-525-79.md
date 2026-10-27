@@ -23,6 +23,15 @@ publication:
   pages: 2546-(1) a 2546-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 1 de Outubro do corrente ano, sem prejuízo do disposto em 4.1.5
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 2530 - 2549
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data em que forem efectuadas as notificações previstas no parágrafo 1
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

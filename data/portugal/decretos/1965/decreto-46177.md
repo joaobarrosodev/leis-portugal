@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 132 - 138
   pdf_url: https://files.diariodarepublica.pt/1s/1965/02/02900/01320138.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1965-03-06'
+entry_into_force:
+  date: '1965-03-06'
+  rule: 30 dias após a publicação no Boletim Oficial de Timor
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

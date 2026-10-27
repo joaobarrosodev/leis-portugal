@@ -23,6 +23,15 @@ publication:
   pages: 1178-(2) a 1178-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23201/00020002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir de 1 de Outubro
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

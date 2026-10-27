@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1325 - 1326
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/12800/13251326.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-07-01'
+entry_into_force:
+  date: '1977-07-01'
+  rule: no dia 1 do mês subsequente ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

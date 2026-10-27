@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2793 - 2795
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/143a00/27932795.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-06-25'
+entry_into_force:
+  date: '1998-06-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: até ao 2.º dia após o encerramento da EXPO 98
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

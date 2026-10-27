@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 277 - 277
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04400/02770277.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-02-23'
+entry_into_force:
+  date: '1977-02-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '1976-01-01'
+  effects_rule: desde 1 de Janeiro de 1976 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

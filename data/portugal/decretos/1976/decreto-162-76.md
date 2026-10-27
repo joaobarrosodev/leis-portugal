@@ -24,6 +24,15 @@ publication:
   pages: 409 - 432
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/04900/04090432.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no décimo dia após a data do depósito
+  method: clausula
+  article: art-xxiii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2877 - 2881
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/145b00/28772881.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-06-27'
+entry_into_force:
+  date: '1998-06-27'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/158000000/2905429054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:75422377:por#art-11'
+    detail: É revogado o [Regulamento n.º 366/2012], de 28 de julho de 2012, publicado no Diário da República, 2.ª série,
+      N.º 158, de 16 de agosto de 2012.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:169624920:por#texto'
+    detail: É revogado o [Regulamento n.º 366/2012], de 28 de julho de 2012, publicado no Diário da República, 2.ª série,
+      n.º 158, de 16 de agosto de 2012.
 notes: []
 language: por
 version:

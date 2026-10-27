@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1885 - 1888
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-01-01'
+entry_into_force:
+  date: '1969-01-01'
+  rule: no dia 1 de Janeiro de 1969, podendo, porém, antes daquela data, mas para produzir efeitos a partir da mesma, ser
+    publicada a lista a que se refere o artigo 15.º
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

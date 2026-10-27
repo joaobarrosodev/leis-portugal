@@ -26,7 +26,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/227000000/4766647667.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:161014566:por'
+    detail: Revogada, a partir de 09.04.2021, o presente aviso, pelo(a) Aviso do Banco de Portugal n.º 2/2021 - Diário da
+      República n.º 68/2021, Série II de 2021-04-08
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2068-(2) a 2068-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18001/00020004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-08-07'
+entry_into_force:
+  date: '1980-08-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

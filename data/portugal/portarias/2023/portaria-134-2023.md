@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 13 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09300/0001300015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-16'
+entry_into_force:
+  date: '2023-05-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-10
+  effects_date: '2023-08-01'
+  effects_rule: a partir de 1 de agosto de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

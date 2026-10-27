@@ -23,6 +23,15 @@ publication:
   pages: 3744 - 3758
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/12100/0374403758.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após registo pelo ministério da tutela e publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

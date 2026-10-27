@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3041 - 3042
   pdf_url: https://files.diariodarepublica.pt/1s/2014/06/10500/0304103042.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-02'
+entry_into_force:
+  date: '2014-06-02'
+  rule: após a publicação do Orçamento do Estado posterior à publicação deste diploma
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2190 - 2191
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/060b00/21902191.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-13'
+entry_into_force:
+  date: '2002-03-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

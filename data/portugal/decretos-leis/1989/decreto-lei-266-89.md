@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3377 - 3378
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18900/33773378.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-08-23'
+entry_into_force:
+  date: '1989-08-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1989-09-01'
+  effects_rule: a partir do dia 1 de Setembro de 1989, com excepção da redacção dada ao n.º 5 do artigo 25.º do Decreto-Lei
+    n.º 303/83, de 28 de Junho, a qual entra imediatamente em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

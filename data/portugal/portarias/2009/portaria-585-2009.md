@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3437 - 3437
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/10600/0343703437.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-06-07'
+entry_into_force:
+  date: '2009-06-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2008-10-04'
+  effects_rule: a partir do dia 4 de Outubro de 2008
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

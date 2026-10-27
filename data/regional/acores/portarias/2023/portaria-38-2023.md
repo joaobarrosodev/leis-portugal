@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 1806-1840
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/05/22/213345407.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-23'
+entry_into_force:
+  date: '2023-05-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2022-07-01'
+  effects_rule: a 1 de julho de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

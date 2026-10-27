@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 161-180
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/03/26/857346467.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-04-01'
+entry_into_force:
+  date: '2024-04-01'
+  rule: no dia 1 de abril de 2024
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

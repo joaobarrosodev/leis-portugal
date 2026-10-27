@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1854 - 1854
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/17900/18541854.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-08-02'
+entry_into_force:
+  date: '1976-08-02'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

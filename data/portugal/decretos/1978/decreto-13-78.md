@@ -24,6 +24,15 @@ publication:
   pages: 245 - 257
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/02200/02450257.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao depósito do segundo instrumento de ratificação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7837 - 7841
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/261a00/78377841.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-12-09'
+entry_into_force:
+  date: '1999-12-09'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

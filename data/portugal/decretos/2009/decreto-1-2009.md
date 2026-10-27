@@ -25,6 +25,16 @@ publication:
   pages: 550 - 555
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/01800/0055000555.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos
+    de direito interno de ambas as Partes necessários para o efeito
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

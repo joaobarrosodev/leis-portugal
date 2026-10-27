@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7 - 121
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/18600/0000700121.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-28'
+entry_into_force:
+  date: '2019-09-28'
+  rule: no dia seguinte ao da sua publicação, devendo ser aplicado aos procedimentos de elaboração e revisão de instrumentos
+    de gestão territorial cuja decisão de início lhe seja posterior e ainda aos procedi
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

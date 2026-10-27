@@ -25,6 +25,15 @@ publication:
   pages: 830 - 848
   pdf_url: https://files.diariodarepublica.pt/1s/1966/05/12500/08300848.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em todo o território do continente e ilhas adjacentes no dia 23 de Setembro de 1966
+  method: clausula
+  article: art-128
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

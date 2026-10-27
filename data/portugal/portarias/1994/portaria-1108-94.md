@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7201 - 7201
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/284b00/72017201.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-12-10'
+entry_into_force:
+  date: '1994-12-10'
+  rule: na data da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2820 - 2831
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/27400/28202831.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-11-27'
+entry_into_force:
+  date: '1977-11-27'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

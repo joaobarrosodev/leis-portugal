@@ -24,6 +24,16 @@ publication:
   pages: 2262 - 2267
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/08000/0226202267.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da receção da última das notificações, por escrito e por via diplomática, de que foram cumpridos
+    os requisitos de Direito Interno das Partes necessários para o efeito
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

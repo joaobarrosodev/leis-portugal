@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4156 - 4163
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/12400/41564163.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-06-30'
+entry_into_force:
+  date: '2007-06-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

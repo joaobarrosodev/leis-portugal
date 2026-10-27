@@ -28,7 +28,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/03/16/159539859.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: texto'
+    detail: até dia 31 de dezembro de 2021, retomando, os respetivos regulamentos das medidas de estágio e demais medidas
+      que, neste âmbito, possam vir a ser criadas no seu período de aplicação, a plena vigência,
 notes: []
 language: por
 version:

@@ -28,10 +28,40 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-10-06'
+version_history:
+  file: decreto-351-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-09-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-10-06'
+    amending: pt:dre:646300:por
+    amending_title: Decreto-Lei n.º 345/93
+    changes:
+    - Revoga Artigo 69.º
+    - Revoga Artigo 70.º
+    - Revoga Artigo 71.º
+    - Revoga Artigo 72.º
+    - Revoga Artigo 73.º
+    - Revoga Artigo 74.º
+    - Revoga Artigo 75.º
+    - Revoga Artigo 76.º
+    - Revoga Artigo 77.º
+    - Revoga Artigo 78.º
+    - Revoga Artigo 79.º
+    - Revoga Artigo 80.º
+    - Revoga Artigo 81.º
+    - Revoga Artigo 82.º
+    - Revoga Artigo 83.º
+    - Revoga Artigo 84.º
+    - Revoga Artigo 85.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:23:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 345/93. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-351-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,7 +221,9 @@ Em execução do disposto no n.º 1 do artigo 98.º do [Decreto-Lei n.º 413/71]
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo único. - 1. É aprovado o Regulamento Geral dos Serviços do Ministério da Saúde e Assistência.
+###### Artigo único
+
+1. É aprovado o Regulamento Geral dos Serviços do Ministério da Saúde e Assistência.
 
 2. Até publicação de regulamentos próprios, de acordo com os graus de integração na orgânica dos serviços centrais, os serviços e estabelecimentos com autonomia administrativa continuam a observar os regulamentos que actualmente se lhes aplicam, em tudo o que não contrarie o [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, determinando-se, por despacho do Ministro da Saúde e Assistência, os ajustamentos que forem necessários ao cumprimento do referido diploma.
 
@@ -208,15 +241,21 @@ REGULAMENTO GERAL DOS SERVIÇOS DO MINISTÉRIO DA SAÚDE E ASSISTÊNCIA
 
 ### CAPÍTULO I — Disposições gerais
 
-Artigo 1.º - 1. Os serviços centrais do Ministério da Saúde e Assistência, bem como os seus órgãos e serviços locais, têm a organização, as atribuições e competência estabelecidas no [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, especificadas nos termos do presente Regulamento.
+###### Artigo 1.º
+
+1. Os serviços centrais do Ministério da Saúde e Assistência, bem como os seus órgãos e serviços locais, têm a organização, as atribuições e competência estabelecidas no [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, especificadas nos termos do presente Regulamento.
 
 2. O Regulamento do Instituto Nacional de Saúde é o constante do [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro.
 
-Art. 2.º - 1. Reger-se-ão por legislação própria a Escola Nacional de Saúde Pública e de Medicina Tropical, as Comissões Arbitrais de Assistência e os Serviços Sociais do Ministério.
+###### Artigo 2.º
+
+1. Reger-se-ão por legislação própria a Escola Nacional de Saúde Pública e de Medicina Tropical, as Comissões Arbitrais de Assistência e os Serviços Sociais do Ministério.
 
 2. Na falta de disposições próprias ou subsidiárias expressamente previstas, aqueles serviços aplicarão as disposições do presente Regulamento, com as adaptações necessárias.
 
-Art. 3.º - 1. Os serviços do Ministério da Saúde e Assistência preparam ou executam, de acordo com as respectivas competências, a política de saúde e de assistência social estabelecida pelo Governo, compreendendo as actividades seguintes:
+###### Artigo 3.º
+
+1. Os serviços do Ministério da Saúde e Assistência preparam ou executam, de acordo com as respectivas competências, a política de saúde e de assistência social estabelecida pelo Governo, compreendendo as actividades seguintes:
 
 a) Promoção da saúde e prevenção da doença;
 
@@ -230,7 +269,9 @@ d) Protecção ao indivíduo socialmente diminuído, da infância à terceira id
 
 3. Os serviços do Ministério da Saúde e Assistência cooperação também com os dos restantes Ministérios na melhoria das condições gerais de vida da população.
 
-Art. 4.º - 1. Cada serviço dispõe da competência necessária à realização dos objectivos por que for responsável.
+###### Artigo 4.º
+
+1. Cada serviço dispõe da competência necessária à realização dos objectivos por que for responsável.
 
 2. Os conflitos de competência interna que possam surgir entre os serviços são resolvidos da forma seguinte:
 
@@ -244,9 +285,13 @@ c) Entre os próprios serviços centrais, pelo Conselho de Directores-Gerais, qu
 
 #### SECÇÃO I — Dos serviços centrais em geral
 
-Art. 5.º As funções de coordenação e apoio técnico e administrativo, as de estudo e planeamento e as de orientação, fiscalização e execução das actividades de saúde e assistência social correspondentes, respectivamente, à Secretaria-Geral, ao Gabinete de Estudos e Planeamento e às direcções-gerais são exercidas conjugadamente, sem prejuízo da especificação delimitadora de competência, de acordo com os artigos seguintes.
+###### Artigo 5.º
 
-Art. 6.º - 1. A Secretaria-Geral desempenha as funções de coordenação e outras que sejam comuns às atribuições de todos os serviços centrais e, bem assim, as funções de carácter geral não cometidas a nenhum desses serviços.
+As funções de coordenação e apoio técnico e administrativo, as de estudo e planeamento e as de orientação, fiscalização e execução das actividades de saúde e assistência social correspondentes, respectivamente, à Secretaria-Geral, ao Gabinete de Estudos e Planeamento e às direcções-gerais são exercidas conjugadamente, sem prejuízo da especificação delimitadora de competência, de acordo com os artigos seguintes.
+
+###### Artigo 6.º
+
+1. A Secretaria-Geral desempenha as funções de coordenação e outras que sejam comuns às atribuições de todos os serviços centrais e, bem assim, as funções de carácter geral não cometidas a nenhum desses serviços.
 
 2. Os serviços centrais prestam à Secretaria-Geral a colaboração necessária ao desempenho das suas funções, designadamente facultando as informações e a documentação que for solicitada, e executando as directrizes que, nesse âmbito, lhes forem assinaladas pelo secretário-geral.
 
@@ -258,23 +303,33 @@ Art. 6.º - 1. A Secretaria-Geral desempenha as funções de coordenação e out
 
 6. O Conselho dos Directores-Gerais reúne uma vez por mês e deverá enviar as actas das reuniões ao Ministro.
 
-Art. 7.º - 1. Ao Gabinete de Estudos e Planeamento competem funções de estudo e planeamento, de natureza consultiva, propondo, por si e em colaboração com os demais serviços centrais, os planos e os programas que a efectivação da política de saúde e assistência social aconselhem.
+###### Artigo 7.º
+
+1. Ao Gabinete de Estudos e Planeamento competem funções de estudo e planeamento, de natureza consultiva, propondo, por si e em colaboração com os demais serviços centrais, os planos e os programas que a efectivação da política de saúde e assistência social aconselhem.
 
 2. Os serviços centrais prestam ao Gabinete de Estudos e Planeamento a colaboração necessária ao desempenho das referidas funções, designadamente facultando as informações e a documentação que for solicitada, colaborando nas actividades de estudo e inquérito ou de ensaio de métodos e avaliação de resultados, que, nesse âmbito, o director do Gabinete de Estudos e Planeamento lhes solicitar.
 
-Art. 8.º - 1. Por despacho do Ministro, poderão ser criados nas direcções-gerais ou noutros departamentos do Ministério núcleos de planeamento aos quais incumbirá, em especial, cooperar com o Gabinete de Estudos e Planeamento nas tarefas da sua competência.
+###### Artigo 8.º
+
+1. Por despacho do Ministro, poderão ser criados nas direcções-gerais ou noutros departamentos do Ministério núcleos de planeamento aos quais incumbirá, em especial, cooperar com o Gabinete de Estudos e Planeamento nas tarefas da sua competência.
 
 2. As funções de núcleo de planeamento poderão ser atribuídas nos termos indicados no número anterior a serviços já existentes.
 
-Art. 9.º - 1. Às direcções-gerais competem funções de orientação e execução das actividades de saúde e assistência social, segundo os planos e programas definidos, com observância das normas gerais dimanadas da Secretaria-Geral.
+###### Artigo 9.º
+
+1. Às direcções-gerais competem funções de orientação e execução das actividades de saúde e assistência social, segundo os planos e programas definidos, com observância das normas gerais dimanadas da Secretaria-Geral.
 
 2. Os serviços centrais prestam-se mùtuamente a colaboração necessária ao desempenho das suas funções, designadamente informando-se das actividades em curso ou das empreendidas, e dos respectivos resultados, participando ainda em acções que devam ser exercidas conjuntamente.
 
-Art. 10.º Quando circunstâncias excepcionais ou a necessidade de socorro urgente o exigirem, os directores-gerais tomarão as providências que, no âmbito dos respectivos serviços, se mostrem indispensáveis, podendo inclusivamente requisitar a cooperação de entidades públicas ou privadas, devendo dar delas conhecimento superior, logo que tal seja possível.
+###### Artigo 10.º
+
+Quando circunstâncias excepcionais ou a necessidade de socorro urgente o exigirem, os directores-gerais tomarão as providências que, no âmbito dos respectivos serviços, se mostrem indispensáveis, podendo inclusivamente requisitar a cooperação de entidades públicas ou privadas, devendo dar delas conhecimento superior, logo que tal seja possível.
 
 #### SECÇÃO II — Da Secretaria-Geral
 
-Art. 11.º A Secretaria-Geral é o serviço central de coordenação e apoio técnico e administrativo do Ministério e incumbe-lhe essencialmente:
+###### Artigo 11.º
+
+A Secretaria-Geral é o serviço central de coordenação e apoio técnico e administrativo do Ministério e incumbe-lhe essencialmente:
 
 a) Promover a coordenação das actividades próprias dos serviços do Ministério ou seus dependentes;
 
@@ -288,7 +343,9 @@ e) Desempenhar funções de utilidade comum aos serviços do Ministério;
 
 f) Prestar ao Ministro o apoio consultivo que ele tiver por conveniente na definição da política da saúde e assistência social e no planeamento e coordenação das actividades dos serviços centrais do Ministério.
 
-Art. 12.º Na prossecução das atribuições referidas no artigo anterior compete-lhe especialmente:
+###### Artigo 12.º
+
+Na prossecução das atribuições referidas no artigo anterior compete-lhe especialmente:
 
 a) Promover, com os restantes serviços centrais, a coordenação dos programas gerais de actividade;
 
@@ -318,9 +375,13 @@ m) Assegurar o expediente, a contabilidade e o economato do gabinete ministerial
 
 n) Preparar o expediente da posse dos funcionários quando se deva realizar perante o Ministro.
 
-Art. 13.º A Secretaria-Geral desempenha as suas funções em estreita ligação e cooperação com a Secretaria-Geral da Presidência do Conselho e com as secretarias-gerais dos outros Ministérios, tendo em vista o exercício de uma acção comum e coordenada nos vários domínios da reforma administrativa.
+###### Artigo 13.º
 
-Art. 14.º - 1. O secretário-geral superintende em todos os serviços da Secretaria-Geral, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada, nos termos da lei geral.
+A Secretaria-Geral desempenha as suas funções em estreita ligação e cooperação com a Secretaria-Geral da Presidência do Conselho e com as secretarias-gerais dos outros Ministérios, tendo em vista o exercício de uma acção comum e coordenada nos vários domínios da reforma administrativa.
+
+###### Artigo 14.º
+
+1. O secretário-geral superintende em todos os serviços da Secretaria-Geral, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada, nos termos da lei geral.
 
 2. O secretário-geral pode, quando autorizado, subdelegar a competência que lhe for delegada e delegar a sua própria, nos termos da lei geral, nos funcionários que fazem parte do quadro do pessoal dirigente da Secretaria-Geral.
 
@@ -330,7 +391,9 @@ Art. 14.º - 1. O secretário-geral superintende em todos os serviços da Secret
 
 5. O secretário-geral assegurará a representação do Ministério quando não seja assumida pelo Ministro e não pertença especificadamente a outra entidade.
 
-Art. 15.º - 1. A Secretaria-Geral é constituída pelos seguintes serviços:
+###### Artigo 15.º
+
+1. A Secretaria-Geral é constituída pelos seguintes serviços:
 
 a) Serviços de Contencioso;
 
@@ -348,7 +411,9 @@ f) Repartição de Serviços Administrativos.
 
 3. As Comissões Arbitrais dependem administrativamente da Secretaria-Geral.
 
-Art. 16.º - 1. Compete aos Serviços de Contencioso:
+###### Artigo 16.º
+
+1. Compete aos Serviços de Contencioso:
 
 a) Representar o Ministério da Saúde e Assistência em juízo ou na fase de conciliação extrajudicial;
 
@@ -370,7 +435,9 @@ h) Propor, quando julgue necessário, a consulta à Procuradoria-Geral da Repúb
 
 3. No exercício das suas atribuições, podem os Serviços de Contencioso requisitar aos outros departamentos do Ministério os processos e os elementos que julguem indispensáveis.
 
-Art. 17.º - 1. Os Serviços de Inspecção destinam-se a vigiar o cumprimento das leis e regulamentos nas instituições e serviços dependentes do Ministério e a auxiliar os serviços centrais a melhorar o funcionamento daqueles, competindo-lhes especialmente:
+###### Artigo 17.º
+
+1. Os Serviços de Inspecção destinam-se a vigiar o cumprimento das leis e regulamentos nas instituições e serviços dependentes do Ministério e a auxiliar os serviços centrais a melhorar o funcionamento daqueles, competindo-lhes especialmente:
 
 a) Prestar aos serviços e instituições de saúde e assistência social, em colaboração com os demais serviços do Ministério, os esclarecimentos e o auxílio de ordem jurídico-administrativa de que careçam;
 
@@ -384,7 +451,9 @@ d) Efectuar a avaliação regular do funcionamento dos serviços do Ministério 
 
 3. Haverá inspecções ordinárias, que se realizam periòdicamente, em obediência a planos aprovados pelo secretário-geral, e extraordinárias, por determinação do Ministro, ou, a pedido dos serviços centrais do Ministério, mediante despacho do secretário-geral, quando se demonstre que as situações não podem ser investigadas pelos órgãos normais de gestão dos serviços ou instituições.
 
-Art. 18.º - 1. Compete aos Serviços de Aprovisionamento:
+###### Artigo 18.º
+
+1. Compete aos Serviços de Aprovisionamento:
 
 a) Proceder ao estudo dos mercados de géneros e artigos de consumo nos estabelecimentos e serviços;
 
@@ -404,7 +473,9 @@ h) Proceder a estudos sobre a racionalização das actividades de tipo fabril do
 
 2. As direcções-gerais colaborarão com os Serviços de Aprovisionamento no sentido de garantir os necessários elementos de consulta e estudo.
 
-Art. 19.º - 1. Compete aos Serviços de Instalações e Equipamento:
+###### Artigo 19.º
+
+1. Compete aos Serviços de Instalações e Equipamento:
 
 a) Colaborar com os serviços do Ministério das Obras Públicas nas construções e apetrechamento dos serviços do Ministério que caibam na competência daqueles;
 
@@ -430,7 +501,9 @@ j) Dar parecer nos processos de concurso para obras e aquisições de equipament
 
 3. O Ministro pode determinar, por despacho, que as despesas dos Serviços de Instalações e Equipamento decorrentes da realização de obras e aquisições sejam suportadas pelos respectivos utilizadores, até ao limite de 5 por cento do respectivo valor, devendo a aplicação desta verba ser justificada em balancete semestral a aprovar pelo Ministro.
 
-Art. 20.º Compete aos Serviços de Pessoal e de Organização, em matéria de pessoal:
+###### Artigo 20.º
+
+Compete aos Serviços de Pessoal e de Organização, em matéria de pessoal:
 
 a) Proceder a estudos de gestão de pessoal;
 
@@ -448,7 +521,9 @@ g) Ocupar-se do recrutamento, provimento, colocação, transferência, exoneraç
 
 h) Ocupar-se dos assuntos relativos à gestão do pessoal do quadro único dos serviços centrais do Ministério quando for criado.
 
-Art. 21.º Compete aos Serviços de Pessoal e de Organização, em matéria de organização:
+###### Artigo 21.º
+
+Compete aos Serviços de Pessoal e de Organização, em matéria de organização:
 
 a) Promover ou realizar estudos sobre técnicas de organização e métodos de trabalho administrativo a aplicar no Ministério;
 
@@ -470,7 +545,9 @@ i) Colaborar com os serviços interessados, designadamente os do Ministério das
 
 j) Fazer a análise da estrutura dos serviços de saúde e assistência social, determinar o seu custo e os índices da sua eficiência, e avaliar a necessidade de lhes introduzir alterações em função dos investimentos feitos e dos resultados obtidos.
 
-Art. 22.º - 1. Compete à Repartição de Serviços Administrativos:
+###### Artigo 22.º
+
+1. Compete à Repartição de Serviços Administrativos:
 
 a) Reunir os orçamentos preparados pelos serviços centrais e fazê-los presentes ao Conselho dos Directores-Gerais para coordenação;
 
@@ -492,7 +569,9 @@ h) Efectuar o registo dos cartões de identidade do pessoal do Ministério.
 
 #### SECÇÃO III — Do Gabinete de Estudos e Planeamento
 
-Art. 23.º Ao Gabinete de Estudos e Planeamento incumbe essencialmente:
+###### Artigo 23.º
+
+Ao Gabinete de Estudos e Planeamento incumbe essencialmente:
 
 a) Prestar ao Ministro apoio técnico em tudo que respeite ao planeamento da política e actividades de saúde e assistência social;
 
@@ -506,7 +585,9 @@ e) Acompanhar, controlar e avaliar a execução daqueles planos e programas;
 
 f) Promove estudos com interesse para o fomento das actividades de saúde e assistência social, e bem assim sobre quaisquer assuntos genérica ou especìficamente ligados a este sector.
 
-Art. 24.º Na prossecução das atribuições referidas no artigo anterior, compete-lhe especialmente:
+###### Artigo 24.º
+
+Na prossecução das atribuições referidas no artigo anterior, compete-lhe especialmente:
 
 a) Elaborar os planos de recolha da documentação e informação indispensáveis ao planeamento da política da saúde e assistência social e proceder à avaliação dos elementos recolhidos;
 
@@ -528,13 +609,17 @@ i) Realizar outros trabalhos de que seja incumbido pelo Ministro;
 
 j) Exercer as demais funções previstas no [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, e [Decreto n.º 397/70](https://diariodarepublica.pt/dr/detalhe/decreto/397-1970-139408), de 20 de Agosto.
 
-Art. 25.º - 1. O Gabinete de Estudos e Planeamento é dirigido por um director, coadjuvado por um subdirector, que o substitui nas faltas e impedimentos.
+###### Artigo 25.º
+
+1. O Gabinete de Estudos e Planeamento é dirigido por um director, coadjuvado por um subdirector, que o substitui nas faltas e impedimentos.
 
 2. O director superintende em todos os serviços, estabelecendo e orientando os respectivos planos e programas de trabalho, submete a despacho ministerial os assuntos que dele careçam, e exerce a competência que, por lei, é conferida aos directores-gerais, podendo receber a competência delegada, delegar a sua própria, e subdelegar, nos mesmos termos que aqueles.
 
 3. Mediante despacho interno, o director pode confiar ao subdirector o exercício de actividades especiais dentro do âmbito das suas funções.
 
-Art. 26.º - 1. Para o desempenho das suas funções de estudo, planeamento, programação e avaliação, o Gabinete de Estudos e Planeamento dispõe dos sectores de documentação e estatística e de relações internacionais e é apoiado por uma secretaria.
+###### Artigo 26.º
+
+1. Para o desempenho das suas funções de estudo, planeamento, programação e avaliação, o Gabinete de Estudos e Planeamento dispõe dos sectores de documentação e estatística e de relações internacionais e é apoiado por uma secretaria.
 
 2. Junto do Gabinete de Estudos e Planeamento funcionam:
 
@@ -544,7 +629,9 @@ b) A Comissão Consultiva de Estatística do Ministério.
 
 3. Junto do Gabinete de Estudos e Planeamento haverá um representante do Secretariado Técnico da Presidência do Conselho.
 
-Art. 27.º As funções de estudo, planeamento, programação e avaliação compreendem:
+###### Artigo 27.º
+
+As funções de estudo, planeamento, programação e avaliação compreendem:
 
 a) Avaliar os elementos recolhidos pelo sector de documentação e estatística;
 
@@ -568,7 +655,9 @@ j) Compatibilizar os planos e programas de saúde e assistência social com as d
 
 k) Dar parecer nos termos do artigo 79.º, n.º 1, do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
 
-Art. 28.º Compete ao sector de documentação e estatística, no âmbito das atribuições do Gabinete de Estudos e Planeamento:
+###### Artigo 28.º
+
+Compete ao sector de documentação e estatística, no âmbito das atribuições do Gabinete de Estudos e Planeamento:
 
 a) Elaborar planos de recolha de documentação e informação;
 
@@ -586,13 +675,17 @@ g) Analisar e apurar os métodos de tratamento dos dados estatísticos;
 
 h) Assegurar o funcionamento da Comissão Consultiva de Estatística do Ministério.
 
-Art. 29.º Compete ao sector das relações internacionais:
+###### Artigo 29.º
+
+Compete ao sector das relações internacionais:
 
 a) Coordenar e assegurar a participação do Ministério no âmbito da cooperação internacional, em articulação com os serviços respectivos do Ministério dos Negócios Estrangeiros;
 
 b) Colaborar com o Instituto Nacional de Estatística no fornecimento e divulgação de dados estatísticos em âmbito internacional.
 
-Art. 30.º Compete à secretaria apoiar administrativamente os sectores do Gabinete de Estudos e Planeamento e dar cumprimento aos preceitos de ordem geral de natureza administrativa, cabendo-lhe, designadamente:
+###### Artigo 30.º
+
+Compete à secretaria apoiar administrativamente os sectores do Gabinete de Estudos e Planeamento e dar cumprimento aos preceitos de ordem geral de natureza administrativa, cabendo-lhe, designadamente:
 
 a) Organizar e manter actualizados os processos do pessoal;
 
@@ -600,9 +693,13 @@ b) Assegurar os serviços de expediente, contabilidade e arquivo;
 
 c) Fazer o inventário dos bens do Estado que lhe estão afectos e mantê-lo actualizado.
 
-Art. 31.º O director fará a distribuição das funções referidas nos artigos anteriores pelo pessoal técnico e administrativo, mediante provisão interna.
+###### Artigo 31.º
 
-Art. 32.º - 1. O Conselho Consultivo é presidido pelo director do Gabinete de Estudos e Planeamento e constituído por representantes das seguintes entidades:
+O director fará a distribuição das funções referidas nos artigos anteriores pelo pessoal técnico e administrativo, mediante provisão interna.
+
+###### Artigo 32.º
+
+1. O Conselho Consultivo é presidido pelo director do Gabinete de Estudos e Planeamento e constituído por representantes das seguintes entidades:
 
 a) Corporação da Assistência;
 
@@ -624,7 +721,9 @@ g) Direcção-Geral da Assistência Social.
 
 4. O Conselho reúne obrigatòriamente uma vez por trimestre.
 
-Art. 33.º Compete, em especial, ao Conselho:
+###### Artigo 33.º
+
+Compete, em especial, ao Conselho:
 
 a) Pronunciar-se sobre as questões em que seja mandado ouvir pelo Ministro ou que lhe sejam propostas pelo director do Gabinete ou propostas com o acordo deste;
 
@@ -632,29 +731,41 @@ b) Emitir parecer sobre os projectos de planos e programas do sector de saúde e
 
 c) Pronunciar-se sobre o andamento da conjuntura nos aspectos sanitários e de assistência social.
 
-Art. 34.º A Comissão Consultiva de Estatística do Ministério funciona nos termos do [Decreto n.º 46926](https://diariodarepublica.pt/dr/detalhe/decreto/46926-1966-486331), de 29 de Março de 1966.
+###### Artigo 34.º
 
-Art. 35.º Cabe ao representante do Secretariado Técnico da Presidência do Conselho:
+A Comissão Consultiva de Estatística do Ministério funciona nos termos do [Decreto n.º 46926](https://diariodarepublica.pt/dr/detalhe/decreto/46926-1966-486331), de 29 de Março de 1966.
+
+###### Artigo 35.º
+
+Cabe ao representante do Secretariado Técnico da Presidência do Conselho:
 
 a) Representar o Secretariado e assegurar as relações com o Gabinete de Estudos e Planeamento e colaborar nas ligações deste com outros órgãos de planeamento sectoriais e regionais;
 
 b) Cooperar na orientação das actividades de planeamento do Gabinete de Estudos e Planeamento, no sentido de se promover a melhor integração dos planos e programas de desenvolvimento do sector de saúde e assistência social nos planos gerais de fomento e de desenvolvimento.
 
-Art. 36.º - 1. Mediante despacho ministerial, o Gabinete de Estudos e Planeamento pode solicitar a individualidades de reconhecido mérito pareceres sobre matéria da sua especial competência.
+###### Artigo 36.º
+
+1. Mediante despacho ministerial, o Gabinete de Estudos e Planeamento pode solicitar a individualidades de reconhecido mérito pareceres sobre matéria da sua especial competência.
 
 2. Os peritos a que se refere o número anterior serão remunerados por tarefa e, se forem funcionários do Ministério, poderão ser dispensados, sem perda de vencimento, das suas actividades oficiais durante o tempo necessário à execução dos trabalhos de que foram incumbidos.
 
-Art. 37.º - 1. De acordo com os programas anuais de trabalho, podem ser constituídos grupos de trabalho ad hoc, com técnicos especialmente designados para o efeito, por despacho ministerial.
+###### Artigo 37.º
+
+1. De acordo com os programas anuais de trabalho, podem ser constituídos grupos de trabalho ad hoc, com técnicos especialmente designados para o efeito, por despacho ministerial.
 
 2. É aplicável aos membros dos grupos previstos neste artigo o disposto no n.º 2 do artigo anterior.
 
-Art. 38.º - 1. O pessoal dos núcleos de planeamento pertencerá aos serviços da respectiva direcção-geral ou departamento e serviços dependentes ou ao Gabinete de Estudos e Planeamento, considerando-se, nos últimos casos, para todos os efeitos, como meramente destacado.
+###### Artigo 38.º
+
+1. O pessoal dos núcleos de planeamento pertencerá aos serviços da respectiva direcção-geral ou departamento e serviços dependentes ou ao Gabinete de Estudos e Planeamento, considerando-se, nos últimos casos, para todos os efeitos, como meramente destacado.
 
 2. Os responsáveis pela direcção dos núcleos de planeamento serão designados pelo Ministro da Saúde e Assistência, sob proposta do respectivo director-geral, ouvido o director do Gabinete de Estudos e Planeamento.
 
 #### SECÇÃO IV — Da Direcção-Geral de Saúde
 
-Art. 39.º - 1. À Direcção-Geral de Saúde compete, em geral, orientar e coordenar as actividades de promoção da saúde e prevenção da doença, cabendo-lhe, designadamente:
+###### Artigo 39.º
+
+1. À Direcção-Geral de Saúde compete, em geral, orientar e coordenar as actividades de promoção da saúde e prevenção da doença, cabendo-lhe, designadamente:
 
 a) Cooperar com o Gabinete de Estudos e Planeamento na elaboração e avaliação dos planos de saúde e dos respectivos programas e na expansão e melhoria das carreiras profissionais de saúde pública;
 
@@ -704,15 +815,21 @@ c) Estudar e propor os planos de actividades dos ditos hospitais, promover, orie
 
 6. Em casos de epidemia ou em situações sanitárias graves, cabe à Direcção-Geral de Saúde promover e coordenar a mobilização de todos os meios disponíveis e superintender na sua utilização, independentemente dos serviços a que pertençam em circunstâncias normais.
 
-Art. 40.º - 1. O director-geral, coadjuvado pelo inspector superior ou inspector de saúde que para tal for designado por despacho ministerial, superintende em todos os serviços da Direcção-Geral, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada, nos termos da lei geral.
+###### Artigo 40.º
+
+1. O director-geral, coadjuvado pelo inspector superior ou inspector de saúde que para tal for designado por despacho ministerial, superintende em todos os serviços da Direcção-Geral, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada, nos termos da lei geral.
 
 2. O director-geral pode, quando autorizado, subdelegar a competência que lhe for delegada a delegar a sua própria competência, nos termos da lei geral, no inspector superior ou inspector de saúde que o coadjuvar, e ainda nos inspectores superiores, inspectores de saúde, directores de serviços, directores de saúde, chefe de repartição e inspectores técnicos quanto às funções específicas dos respectivos serviços.
 
 3. Nas suas faltas e impedimentos, o director-geral é substituído pelo inspector superior ou inspector de saúde que o coadjuvar e, na falta deste, pelo mais antigo ou por outro que ele próprio indicar.
 
-Art. 41.º Com vista à informação geral e para uniformidade de actuação, haverá um conselho interno, constituído pelo director-geral, que preside, e pelos inspectores superiores, inspectores de saúde, chefe de repartição e demais funcionários convocados pelo director-geral.
+###### Artigo 41.º
 
-Art. 42.º - 1. A Direcção-Geral de Saúde compreende os seguintes serviços:
+Com vista à informação geral e para uniformidade de actuação, haverá um conselho interno, constituído pelo director-geral, que preside, e pelos inspectores superiores, inspectores de saúde, chefe de repartição e demais funcionários convocados pelo director-geral.
+
+###### Artigo 42.º
+
+1. A Direcção-Geral de Saúde compreende os seguintes serviços:
 
 a) Inspecção Superior de Salubridade;
 
@@ -732,11 +849,15 @@ f) Parque Sanitário.
 
 4. As funções que incumbem à Direcção-Geral de Saúde serão executadas quer directamente quer por intermédio dos órgãos e serviços locais, neste último caso sob a orientação e, sempre que necessário, com o apoio técnico e administrativo dos serviços centrais.
 
-Art. 43.º - 1. Um dos inspectores superiores será incumbido da gestão financeira da Direcção-Geral, para o que lhe será prestado pelos diferentes serviços o apoio técnico que for necessário.
+###### Artigo 43.º
+
+1. Um dos inspectores superiores será incumbido da gestão financeira da Direcção-Geral, para o que lhe será prestado pelos diferentes serviços o apoio técnico que for necessário.
 
 2. Ao referido inspector superior incumbirá, designadamente, orientar a realização de estudos relacionados com a gestão económico-financeira dos serviços, estabelecer padrões de organização interna do funcionamento administrativo e orientar a preparação do orçamento da Direcção-Geral.
 
-Art. 44.º A Inspecção Superior de Salubridade ocupa-se, em geral, da promoção das condições de higiene do ambiente, abrangendo designadamente:
+###### Artigo 44.º
+
+A Inspecção Superior de Salubridade ocupa-se, em geral, da promoção das condições de higiene do ambiente, abrangendo designadamente:
 
 a) A higiene da habitação;
 
@@ -754,7 +875,9 @@ g) A higiene e salubridade dos locais de trabalho;
 
 h) A higiene das instalações de balneoterapia e fisioterapia e bem assim dos estabelecimentos destinados à exploração de águas mineromedicinais e de mesa.
 
-Art. 45.º A Inspecção Superior de Salubridade compreende os seguintes serviços:
+###### Artigo 45.º
+
+A Inspecção Superior de Salubridade compreende os seguintes serviços:
 
 a) Direcção de Serviços de Engenharia Sanitária;
 
@@ -764,7 +887,9 @@ c) Direcção de Serviços de Higiene e Medicina do Trabalho;
 
 d) Inspecção Técnica de Hidroterapia a Fisioterapia.
 
-Art. 46.º - 1. Compete à Direcção de Serviços de Engenharia Sanitária:
+###### Artigo 46.º
+
+1. Compete à Direcção de Serviços de Engenharia Sanitária:
 
 a) Promover a realização de inquéritos, de âmbito nacional ou local, sobre as condições de salubridade do ambiente do homem, designadamente sobre higiene da habitação, distribuição de água potável às populações, drenagem e tratamento de águas residuais e remoção e tratamento de lixos, e proceder aos respectivos apuramentos estatísticos, em colaboração com o Instituto Nacional de Estatística, o Ministério das Obras Públicas e as autarquias locais;
 
@@ -812,7 +937,9 @@ v) Providenciar quanto ao controlo de reservatórios e vectores de agentes patog
 
 2. Enquanto não forem organizados na Direcção de Serviços de Engenharia Sanitária os serviços de luta contra vectores, a competência mencionada na alínea v) do número anterior continuará a ser exercida pelos Serviços de Higiene Rural e Defesa Anti-Sezonática, que mantêm, entretanto, a sua autonomia.
 
-Art. 47.º Compete à Direcção de Serviços de Higiene da Alimentação:
+###### Artigo 47.º
+
+Compete à Direcção de Serviços de Higiene da Alimentação:
 
 a) Promover, em colaboração com a Instituto Nacional de Saúde, a realização de estudos, de âmbito nacional ou local, sobre a alimentação e estado de nutrição da população em geral e dos diversos grupos etários, sócio-económicos e profissionais;
 
@@ -844,7 +971,9 @@ n) Colaborar com os Serviços Pecuários no estudo qualitativo das rações de a
 
 o) Exercer, com a apoio laboratorial do Instituto Nacional de Saúde, o controlo das substâncias utilizáveis na preparação e conservação dos alimentos e bem assim de todos os produtos que possam contaminá-los.
 
-Art. 48.º Compete à Direcção de Serviços de Higiene e Medicina do Trabalho:
+###### Artigo 48.º
+
+Compete à Direcção de Serviços de Higiene e Medicina do Trabalho:
 
 a) Estudar e propor, em colaboração com os demais serviços competentes, as normas de higiene, salubridade e segurança dos locais de trabalho, e fiscalizar a sua observância;
 
@@ -884,7 +1013,9 @@ r) Dar apoio técnico aos médicos do trabalho das empresas no estudo e análise
 
 s) Fornecer às entidades interessadas a colaboração que solicitarem em matéria de organização científica do trabalho e de reabilitação profissional dos trabalhadores, especialmente dos diminuídos físicos.
 
-Art. 49.º À Inspecção Técnica de Hidroterapia e Fisioterapia compete, em geral, a vigilância médico-hidrológica das concessões e explorações de águas mineromedicinais e de mesa e dos estabelecimentos de hidroterapia e fisioterapia, cabendo-lhe em especial:
+###### Artigo 49.º
+
+À Inspecção Técnica de Hidroterapia e Fisioterapia compete, em geral, a vigilância médico-hidrológica das concessões e explorações de águas mineromedicinais e de mesa e dos estabelecimentos de hidroterapia e fisioterapia, cabendo-lhe em especial:
 
 a) Intervir, em colaboração com as demais entidades competentes, no licenciamento dos estabelecimentos e instalações de hidroterapia e outros congéneres, nomeadamente de climatoterapia;
 
@@ -910,7 +1041,9 @@ k) Inventariar e publicar periòdicamente os elementos referidos na alínea ante
 
 l) Exercer qualquer outra competência que lhe seja atribuída por lei.
 
-Art. 50.º À Inspecção Superior de Medicina Social cabe, em geral, promover, orientar, coordenar e fiscalizar as actividades de cobertura médico-sanitária, abrangendo designadamente:
+###### Artigo 50.º
+
+À Inspecção Superior de Medicina Social cabe, em geral, promover, orientar, coordenar e fiscalizar as actividades de cobertura médico-sanitária, abrangendo designadamente:
 
 a) A luta contra as doenças transmissíveis e outras de carácter predominantemente social e contra os acidentes e malformações evitáveis;
 
@@ -920,7 +1053,9 @@ c) A vigilância médica e a prestação de cuidados médicos gerais e especiali
 
 d) A promoção da saúde mental.
 
-Art. 51.º A Inspecção Superior de Medicina Social compreende os seguintes serviços:
+###### Artigo 51.º
+
+A Inspecção Superior de Medicina Social compreende os seguintes serviços:
 
 a) Direcção de Serviços de Profilaxia;
 
@@ -932,7 +1067,9 @@ d) Direcção de Serviços de Saúde Mental;
 
 e) Direcção de Serviços de Cuidados Médicos.
 
-Art. 52.º - 1. Compete à Direcção de Serviços de Profilaxia:
+###### Artigo 52.º
+
+1. Compete à Direcção de Serviços de Profilaxia:
 
 a) Realizar prospecções e inquéritos epidemiológicos, de âmbito nacional ou local, sobre as doenças transmissíveis de carácter endémico ou epidémico;
 
@@ -970,7 +1107,9 @@ q) Planear e pôr em execução, sem esquecer a conveniente coordenação com os
 
 2. Até serem integrados na Direcção-Geral de Saúde, o Instituto de Assistência Nacional aos Tuberculosos, o Instituto de Assistência ao Leprosos e o Centro de Profilaxia da Cegueira funcionam coordenadamente com a Direcção de Serviços de Profilaxia.
 
-Art. 53.º - 1. Compete à Direcção de Serviços de Saúde Materno-Infantil:
+###### Artigo 53.º
+
+1. Compete à Direcção de Serviços de Saúde Materno-Infantil:
 
 a) Assegurar a vigilância médica das grávidas e das puérperas, a prestação dos cuidados médicos, gerais e especializados, de que careçam, e o fornecimento, a título gratuito, quando a sua situação económica o justificar, dos medicamentos necessários ao seu tratamento;
 
@@ -994,7 +1133,9 @@ j) Promover a formação e o aperfeiçoamento do pessoal necessário à protecç
 
 2. Até ser organizada a Direcção de Serviços de Saúde Materno-Infantil, a respectiva competência continuará a ser exercida pelo Instituto Maternal, que mantém, entretanto, a sua autonomia.
 
-Art. 54.º - 1. Compete à Direcção de Serviços de Saúde Escolar:
+###### Artigo 54.º
+
+1. Compete à Direcção de Serviços de Saúde Escolar:
 
 a) Superintender em tudo o que respeite às condições sanitárias, médico-pedagógicas e higiénicas do pessoal discente das escolas oficiais e particulares;
 
@@ -1012,7 +1153,9 @@ g) Pronunciar-se quanto aos aspectos especializados da preparação de pessoal n
 
 2. A Direcção de Serviços de Saúde Escolar actuará em colaboração com os serviços competentes do Ministério da Educação Nacional, assegurando as funções de intervenção médico-sanitária junto da população escolar, nos termos que forem estabelecidos em portaria dos Ministros da Educação Nacional e da Saúde e Assistência.
 
-Art. 55.º - 1. Compete à Direcção de Serviços de Saúde Mental:
+###### Artigo 55.º
+
+1. Compete à Direcção de Serviços de Saúde Mental:
 
 a) Promover a realização de prospecções e inquéritos, de âmbito nacional ou local, sobre as doenças e anomalias mentais e as toxicomanias, estudando os factores que influenciam o seu aparecimento e difusão, nomeadamente as condições sanitárias, económico-sociais e de trabalho;
 
@@ -1036,7 +1179,9 @@ j) Recolher e apurar os dados estatísticos relativos ao pessoal, ao movimento d
 
 2. Até ser organizada a Direcção de Serviços de Saúde Mental, a respectiva competência continuará a ser exercida pelo Instituto de Assistência Psiquiátrica, que mantém, entretanto, a sua autonomia.
 
-Art. 56.º Compete à Direcção de Serviços de Cuidados Médicos:
+###### Artigo 56.º
+
+Compete à Direcção de Serviços de Cuidados Médicos:
 
 a) Promover a realização de inquéritos e campanhas de massa para avaliação das necessidades das populações em cuidados médicos;
 
@@ -1066,9 +1211,13 @@ m) Promover, em coordenação com os demais serviços interessados, designadamen
 
 n) Colaborar com o Serviço de Educação Sanitária na elaboração e divulgação de informações sobre os benefícios, para a saúde pública e individual, que resultam da realização de exames médicos preventivos.
 
-Art. 57.º À Inspecção Superior do Exercício Profissional compete a vigilância do exercício da medicina, da farmácia, da enfermagem e das profissões paramédicas e auxiliares, bem como da produção e comércio dos medicamentes e de outros produtos das indústrias farmacêuticas e similares.
+###### Artigo 57.º
 
-Art. 58.º A Inspecção Superior do Exercício Profissional compreende os seguintes serviços:
+À Inspecção Superior do Exercício Profissional compete a vigilância do exercício da medicina, da farmácia, da enfermagem e das profissões paramédicas e auxiliares, bem como da produção e comércio dos medicamentes e de outros produtos das indústrias farmacêuticas e similares.
+
+###### Artigo 58.º
+
+A Inspecção Superior do Exercício Profissional compreende os seguintes serviços:
 
 a) Direcção de Serviços do Exercício da Medicina;
 
@@ -1078,7 +1227,9 @@ c) Inspecção Técnica do Exercício de Enfermagem;
 
 d) Inspecção Técnica do Exercício das Profissões Paramédicas e Auxiliares.
 
-Art. 59.º - 1. Compete à Direcção de Serviços do Exercício da Medicina:
+###### Artigo 59.º
+
+1. Compete à Direcção de Serviços do Exercício da Medicina:
 
 a) Estudar e propor, em colaboração com as demais entidades interessadas, o regime jurídico da responsabilidade profissional do médico, tanto nos aspectos deontológicos como nos técnicos, e velar pela sua observância;
 
@@ -1094,7 +1245,9 @@ f) Promover e fiscalizar a observância dos preceitos legais referentes à carre
 
 2. Para o desempenho das suas atribuições, a Direcção de Serviços do Exercício da Medicina organizará e manterá actualizado o cadastro dos médicos com indicação das especialidades e das localidades em que exercem, permanente ou periòdicamente, a sua actividade profissional, quer em serviços oficiais e paraoficiais, quer em empresas privadas ou na clínica livre.
 
-Art. 60.º Compete à Direcção de Serviços de Farmácia e Medicamentos:
+###### Artigo 60.º
+
+Compete à Direcção de Serviços de Farmácia e Medicamentos:
 
 a) Estudar e propor, em colaboração com as demais entidades interessadas, os preceitos que se relacionem com o regime jurídico da responsabilidade profissional do farmacêutico, tanto nos aspectos deontológicos como nos técnicos, e velar pela sua observância;
 
@@ -1138,7 +1291,9 @@ t) Exercer a vigilância da produção e comércio dos produtos de perfumaria, c
 
 u) Executar quaisquer outros serviços que por lei, regulamento ou determinação superior lhe sejam atribuídos.
 
-Art. 61.º - 1. Compete à Inspecção Técnica do Exercício de Enfermagem:
+###### Artigo 61.º
+
+1. Compete à Inspecção Técnica do Exercício de Enfermagem:
 
 a) Estudar e propor, em colaboração com as demais entidades interessadas, os regimes jurídicos da responsabilidade profissional dos enfermeiros e dos auxiliares de enfermagem, tanto nos aspectos deontológicos como nos técnicos, e velar pela sua observância;
 
@@ -1156,7 +1311,9 @@ g) Promover e fiscalizar a observância dos preceitos legais referentes à carre
 
 2. Para o desempenho das suas atribuições, a Inspecção Técnica do Exercício de Enfermagem organizará e manterá actualizado o cadastro dos enfermeiros e auxiliares de enfermagem, com indicação das especialidades e das localidades em que é exercida a sua actividade profissional, quer em serviços oficiais e paraoficiais, quer em empresas privadas ou em regime livre.
 
-Art. 62.º - 1. Compete à Inspecção Técnica do Exercício das Profissões Paramédicas e Auxiliares:
+###### Artigo 62.º
+
+1. Compete à Inspecção Técnica do Exercício das Profissões Paramédicas e Auxiliares:
 
 a) Estudar e propor, em colaboração com as demais entidades competentes, os regimes jurídicos da responsabilidade profissional, tanto nos aspectos deontológicos como nos técnicos, dos que exercem profissões paramédicas e auxiliares, e velar pela sua observância;
 
@@ -1180,9 +1337,13 @@ a) Elaborar a lista das profissões classificáveis como paramédicas e auxiliar
 
 b) Organizar e manter actualizado o cadastro dos profissionais paramédicos e auxiliares, com a indicação das especialidades e das localidades em que é exercida a sua actividade profissional, quer em serviços oficiais e paraoficiais, quer em empresas privadas ou em regime livre.
 
-Art. 63.º Quando se considerar vantajoso para melhor funcionamento dos serviços da Direcção-Geral de Saúde, referidos nos artigos 44.º a 62.º, poderá o Ministro, por portaria, transferir alguma ou algumas das competências de uns para outros, ainda que sejam de inspecções superiores diferentes.
+###### Artigo 63.º
 
-Art. 64.º Ao Serviço de Educação Sanitária compete, em geral, promover e desenvolver junto dos indivíduos e das populações a acção educativa mais apropriada para obter a sua participação activa na execução das medidas destinadas à preservação da saúde individual e colectiva, cabendo-lhe designadamente:
+Quando se considerar vantajoso para melhor funcionamento dos serviços da Direcção-Geral de Saúde, referidos nos artigos 44.º a 62.º, poderá o Ministro, por portaria, transferir alguma ou algumas das competências de uns para outros, ainda que sejam de inspecções superiores diferentes.
+
+###### Artigo 64.º
+
+Ao Serviço de Educação Sanitária compete, em geral, promover e desenvolver junto dos indivíduos e das populações a acção educativa mais apropriada para obter a sua participação activa na execução das medidas destinadas à preservação da saúde individual e colectiva, cabendo-lhe designadamente:
 
 a) Apreciar os planos e programas sanitários dos diferentes serviços, com vista a estudar e propor a conveniente acção educativa;
 
@@ -1200,7 +1361,9 @@ g) Estudar os processos técnicos, incluindo os métodos áudio-visuais, a adopt
 
 h) Promover a divulgação dos preceitos necessários à preservação da saúde individual e colectiva através da imprensa, radiodifusão, radiotelevisão, exposições, conferências, filmes, cartazes e folhetos.
 
-Art. 65.º - 1. À Repartição de Serviços Administrativos compete, em geral, promover o que for necessário à gestão de pessoal e de património afecto à Direcção-Geral, assegurar o serviço de economato e contabilidade, executar o serviço de expediente geral e de arquivo e apoiar administrativamente os serviços da Direcção-Geral.
+###### Artigo 65.º
+
+1. À Repartição de Serviços Administrativos compete, em geral, promover o que for necessário à gestão de pessoal e de património afecto à Direcção-Geral, assegurar o serviço de economato e contabilidade, executar o serviço de expediente geral e de arquivo e apoiar administrativamente os serviços da Direcção-Geral.
 
 2. A Repartição funcionará sob a chefia directa do chefe de repartição e sob a superintendência do inspector superior incumbido da gestão financeira da Direcção-Geral.
 
@@ -1212,7 +1375,9 @@ b) Contabilidade (2.ª secção);
 
 c) Expediente Geral e Arquivo (3.ª secção).
 
-Art. 66.º - 1. Cabe, em especial, à Secção de Pessoal promover e executar as diligências relativas ao movimento e às diversas situações do pessoal, organizar e manter actualizado o seu registo biográfico e elaborar as relações mensais de assiduidade.
+###### Artigo 66.º
+
+1. Cabe, em especial, à Secção de Pessoal promover e executar as diligências relativas ao movimento e às diversas situações do pessoal, organizar e manter actualizado o seu registo biográfico e elaborar as relações mensais de assiduidade.
 
 2. Cabe, em especial, à Secção de Contabilidade coordenar os elementos para a organização do orçamento da Direcção-Geral, processar os vencimentos do pessoal e os subsídios destinados a serviços ou instituições dependentes e escriturar, processar e liquidar todas as despesas da Direcção-Geral.
 
@@ -1220,7 +1385,9 @@ Art. 66.º - 1. Cabe, em especial, à Secção de Pessoal promover e executar as
 
 4. O director-geral poderá, mediante provisão interna, alterar a distribuição das funções da Repartição pelas suas secções.
 
-Art. 67.º - 1. O Parque Sanitário é um serviço de apoio da Direcção-Geral de Saúde, competindo-lhe, em geral:
+###### Artigo 67.º
+
+1. O Parque Sanitário é um serviço de apoio da Direcção-Geral de Saúde, competindo-lhe, em geral:
 
 a) Armazenar, conservar e movimentar o material sanitário, incluindo medicamentos, soros, vacinas desinfectantes, desinfestantes e outras substâncias de utilização normal;
 
@@ -1234,7 +1401,9 @@ e) Recolher e conservar os veículos motorizados e outros e coordenar a sua util
 
 2. O Parque Sanitário dispõe de uma instalação permanente no Porto e pode criar outras junto dos centros de saúde distritais, sob a responsabilidade dos respectivos directores de saúde.
 
-Art. 68.º - 1. O pessoal do Parque Sanitário poderá deslocar-se a qualquer ponto do País, mediante determinação do director-geral, com o correspondente abono de ajudas de custo, despesas de deslocação e transporte.
+###### Artigo 68.º
+
+1. O pessoal do Parque Sanitário poderá deslocar-se a qualquer ponto do País, mediante determinação do director-geral, com o correspondente abono de ajudas de custo, despesas de deslocação e transporte.
 
 2. O pessoal auxiliar do Parque Sanitário tem direito a concessão de fardamento, nos termos do artigo 8.º do [Decreto-Lei n.º 36361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36361-1947-183862), de 20 de Junho de 1947.
 
@@ -1242,287 +1411,121 @@ Art. 68.º - 1. O pessoal do Parque Sanitário poderá deslocar-se a qualquer po
 
 #### SECÇÃO V — Da Direcção-Geral dos Hospitais
 
-Art. 69.º - 1. À Direcção-Geral dos Hospitais compete, em geral, cooperar na promoção da política de saúde definida pelo Governo e, como responsável pela organização hospitalar, orientar, coordenar, fomentar e fiscalizar as actividades dos estabelecimentos hospitalares centrais e distritais.
+###### Artigo 69.º
 
-2. Compete-lhe igualmente colaborar com a Direcção-Geral de Saúde quanto à acção e administração dos serviços hospitalares sob a sua dependência e dos institutos médico-sociais.
+(Revogado.)
 
-3. Em especial compete-lhe:
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-a) Colaborar na preparação dos planos de saúde e preparar os da acção hospitalar;
+###### Artigo 70.º
 
-b) Estudar os critérios de avaliação dos referidos planos de saúde e, bem assim, os de avaliação do rendimento técnico dos serviços e estabelecimentos dependentes;
+(Revogado.)
 
-c) Orientar a organização e funcionamento dos serviços de internamento, de consulta e domiciliários dos estabelecimentos hospitalares sob a sua dependência, incluindo os destinados à reabilitação, a doentes incuráveis, de evolução lenta e convalescentes;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-d) Prestar colaboração à Direcção-Geral de Saúde em relação ao apetrechamento e funcionamento dos hospitais concelhios;
+###### Artigo 71.º
 
-e) Orientar, coordenar e uniformizar a acção das comissões inter-hospitalares;
+(Revogado.)
 
-f) Organizar e manter o inventário hospitalar do País;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-g) Colaborar com a Direcção-Geral das Construções Hospitalares na elaboração dos planos anuais de trabalho e respectivos programas;
+###### Artigo 72.º
 
-h) Autorizar a entrada em funcionamento de hospitais ou serviços cujas instalações tenham sido construídas de novo, ampliadas ou remodeladas;
+(Revogado.)
 
-i) Declarar a idoneidade das unidades hospitalares dependentes e interditar o seu funcionamento quando não obedeçam às condições estabelecidas;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-j) Licenciar as casas de saúde, aprovar os seus regulamentos internos e fiscalizar o respectivo funcionamento;
+###### Artigo 73.º
 
-k) Celebrar acordos de cooperação com entidades públicas ou privadas, sujeitos a aprovação ministerial, para a prestação de serviços hospitalares por parte dos estabelecimentos e serviços dependentes;
+(Revogado.)
 
-l) Promover, fomentar e orientar a preparação profissional do pessoal hospitalar e cooperar em actividades idênticas a cargo de outras entidades, podendo também celebrar os necessários acordos;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-m) Promover em colaboração com o Gabinete de Estudos e Planeamento a expansão e actualização das carreiras profissionais hospitalares;
+###### Artigo 74.º
 
-n) Colaborar com a Escola Nacional de Saúde Pública e de Medicina Tropical e o Instituto Nacional de Saúde na organização e realização de cursos de formação e aperfeiçoamento de pessoal hospitalar;
+(Revogado.)
 
-o) Orientar e fiscalizar o ensino de enfermagem;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-p) Colaborar com a Comissão de Reapetrechamento dos Hospitais na preparação dos respectivos planos e na sua execução.
+###### Artigo 75.º
 
-4. Relativamente aos hospitais concelhios e aos especializados dependentes dos institutos médico-sociais, compete à Direcção-Geral dos Hospitais colaborar na preparação dos planos de actividade e designadamente informar os assuntos relativos a carreiras profissionais, quadros de pessoal, esquemas de serviços e sua complementaridade regional.
+(Revogado.)
 
-Art. 70.º - 1. O director-geral, coadjuvado pelo inspector superior que para tal for designado por despacho ministerial, superintende em todos os serviços da Direcção-Geral, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada nos termos da lei geral.
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-2. O director-geral pode, quando autorizado, subdelegar a competência que lhe for delegada e delegar a sua própria competência, nos termos da lei geral, no inspector superior que o coadjuvar, e ainda nos inspectores superiores, directores de zona hospitalar, directores de serviço, inspectores técnicos e chefe de repartição, quanto às funções específicas dos respectivos serviços.
+###### Artigo 76.º
 
-3. Nas suas faltas e impedimentos, o director-geral é substituído pelo inspector superior que o coadjuvar e, na falta deste, pelo mais antigo ou por outro que ele próprio designar.
+(Revogado.)
 
-Art. 71.º Com vista à informação geral e para uniformidade de actuação, haverá um conselho interno, constituído pelo director-geral, que preside, director do Instituto Nacional de Sangue, inspectores superiores e directores de serviço e demais funcionários convocados pelo director-geral.
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-Art. 72.º - 1. A Direcção-Geral dos Hospitais compreende os seguintes serviços:
+###### Artigo 77.º
 
-a) Inspecção Superior de Acção Hospitalar;
+(Revogado.)
 
-b) Inspecção Superior de Administração Hospitalar;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-c) Repartição de Serviços Administrativos.
+###### Artigo 78.º
 
-2. O Instituto Nacional de Sangue, que se rege por legislação própria, funciona coordenadamente com a Direcção-Geral.
+(Revogado.)
 
-3. As comissões inter-hospitalares estão subordinadas à Direcção-Geral, sem prejuízo da sua autonomia administrativa, e continuam a reger-se pela legislação própria, na parte não alterada por este diploma.
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-4. Os hospitais oficiais gerais, centrais e distritais, e as escolas de enfermagem oficiais constituem serviços dependentes da Direcção-Geral, dotados de autonomia técnica e administrativa e de órgãos próprios, nos termos da legislação que lhes é especialmente aplicável.
+###### Artigo 79.º
 
-Art. 73.º À Inspecção Superior de Acção Hospitalar compete orientar, coordenar e promover a melhoria da prestação de serviços médicos nos hospitais e serviços de reabilitação dependentes da Direcção-Geral, bem como orientar e normalizar o exercício de enfermagem, de farmácia e de serviços sociais dos mesmos hospitais e serviços.
+(Revogado.)
 
-Art. 74.º A Inspecção Superior de Acção Hospitalar compreende os seguintes serviços:
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-a) Direcção de Serviços de Medicina Hospitalar;
+###### Artigo 80.º
 
-b) Direcção de Serviços de Farmácia Hospitalar;
+(Revogado.)
 
-c) Inspecção Técnica de Enfermagem;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-d) Inspecção Técnica de Acção Social.
+###### Artigo 81.º
 
-Art. 75.º São atribuições da Direcção de Serviços de Medicina Hospitalar:
+(Revogado.)
 
-a) Preparar planos de acção médica nos hospitais dependentes da Direcção-Geral e avaliar os seus resultados;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-b) Orientar os serviços e estabelecimentos de reabilitação e coordenar a sua acção com a dos estabelecimentos hospitalares;
+###### Artigo 82.º
 
-c) Promover a execução das regras da carreira médica nos mesmos hospitais;
+(Revogado.)
 
-d) Orientar a realização dos internatos médicos, de acordo com o respectivo regulamento;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-e) Avaliar o rendimento dos serviços médicos dos hospitais dependentes da Direcção-Geral;
+###### Artigo 83.º
 
-f) Propor as regras de idoneidade das unidades hospitalares dependentes da Direcção-Geral e a interdição do seu funcionamento, total ou parcial, quando não obedeçam às convenientes condições técnicas;
+(Revogado.)
 
-g) Fiscalizar e orientar o funcionamento das casas de saúde e submeter a visto ou aprovação superior os respectivos regulamentos internos;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-h) Prestar à Direcção-Geral de Saúde, bem como a outros órgãos de administração, a colaboração que lhe for solicitada em matéria da sua competência;
+###### Artigo 84.º
 
-i) Orientar e coordenar a preparação do pessoal técnico e auxiliar dos serviços clínicos hospitalares;
+(Revogado.)
 
-j) Solicitar, quando se entender necessário, a colaboração da Inspecção Superior do Exercício Profissional, da Direcção-Geral de Saúde quanto a assuntos que envolvam responsabilidade profissional decorrente de actos médicos e paramédicos praticados nos hospitais dependentes da Direcção-Geral dos Hospitais;
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
-k) Colaborar com as demais entidades interessadas na expansão e actualização da carreira médica hospitalar e com a Escola Nacional de Saúde Pública e de Medicina Tropical e o Instituto Nacional de Saúde na organização e realização de cursos de aperfeiçoamento do pessoal médico;
+###### Artigo 85.º
 
-l) Propor todas as medidas julgadas necessárias ou convenientes à maior eficiência dos serviços médicos hospitalares.
+(Revogado.)
 
-Art. 76.º São atribuições da Direcção de Serviços de Farmácia Hospitalar:
-
-a) Orientar a instalação, organização e funcionamento dos serviços farmacêuticos hospitalares, e inspeccionar as suas actividades;
-
-b) Avaliar das necessidades de pessoal farmacêutico e auxiliar dos serviços farmacêuticos hospitalares;
-
-c) Cooperar na organização de formulários, manuais e outros elementos de normalização da actividade farmacêutica hospitalar;
-
-d) Promover, organizar ou colaborar na realização dos concursos de pessoal da carreira farmacêutica nos hospitais, nos termos do respectivo regulamento;
-
-e) Colaborar em actividades que visem a valorização científica e profissional do pessoal farmacêutico;
-
-f) Organizar e manter um centro de informação sobre medicamentos, estabelecendo a colaboração adequada com centros análogos;
-
-g) Colaborar na organização de cursos de preparação de pessoal técnico auxiliar dos serviços farmacêuticos hospitalares;
-
-h) Dar apoio técnico e administrativo à Comissão de Formulário Hospitalar de Medicamentos;
-
-i) Dar aos Serviços de Aprovisionamento da Secretaria-Geral toda a colaboração que lhe for solicitada;
-
-j) Colaborar no âmbito da sua especialidade com os serviços do Ministério ou de outros departamentos com competência em matéria de programação, construção, remodelação e equipamento de hospitais;
-
-k) Orientar tècnicamente as actividades do pessoal do seu sector que exerçam funções nos serviços complementares da organização hospitalar.
-
-Art. 77.º São atribuições da Inspecção Técnica de Enfermagem:
-
-a) Orientar os serviços de enfermagem dos hospitais dependentes da Direcção-Geral, de modo a obter o seu melhor rendimento, inspeccioná-los e avaliar a sua eficiência;
-
-b) Estudar as necessidades dos serviços hospitalares em pessoal de enfermagem;
-
-c) Promover a valorização das carreiras de enfermagem hospitalar e de ensino e velar pela execução das suas regras;
-
-d) Fomentar a realização de actividades de educação permanente e de actualização para o pessoal de enfermagem dos hospitais e das escolas de enfermagem, em ligação com a Escola de Ensino e Administração de Enfermagem;
-
-e) Orientar o ensino de enfermagem, inspeccionar as escolas e avaliar a sua eficiência, exceptuando a Escola de Enfermagem de Saúde Pública;
-
-f) Homologar os diplomas conferidos pelas escolas de enfermagem, exceptuando os da Escola de Enfermagem de Saúde Pública;
-
-g) Dar parecer sobre a validade de diplomas de enfermagem de escolas estrangeiras e escolas nacionais não dependentes do Ministério, para exercício profissional, nos termos da legislação aplicável;
-
-h) Fiscalizar e orientar o funcionamento dos serviços de enfermagem das casas de saúde;
-
-i) Propor todas as medidas que julgue necessárias ou convenientes à maior eficiência dos serviços de enfermagem hospitalar e de ensino de enfermagem;
-
-j) Colaborar com a Inspecção Técnica do Exercício de Enfermagem, da Direcção- Geral de Saúde, ou com serviços de outros departamentos, quando solicitada, na realização de programas de actualização para profissionais de enfermagem ou em assuntos da sua competência;
-
-k) Promover, em colaboração com o Gabinete de Estudos e Planeamento, a elaboração de planos relativos à cobertura do País em escolas de enfermagem.
-
-Art. 78.º São atribuições da Inspecção Técnica de Acção Social:
-
-a) Orientar, coordenar e fiscalizar o serviço social dos hospitais dependentes da Direcção-Geral, promover a elevação do seu nível técnico e avaliar a sua eficiência;
-
-b) Avaliar as necessidades dos hospitais em matéria de serviço social;
-
-c) Emitir directrizes para os programas anuais de actuação do serviço social dos hospitais, de harmonia com as necessidades reveladas, e avaliar os seus resultados;
-
-d) Colaborar nas acções de formação e aperfeiçoamento técnico do pessoal de serviço social hospitalar;
-
-e) Estabelecer as normas a que deve obedecer o trabalho de voluntários nos serviços hospitalares;
-
-f) Promover e participar em estudos de investigação social no campo hospitalar;
-
-g) Promover a valorização da carreira de técnicos de serviço social e velar pela execução das suas regras.
-
-Art. 79.º Compete à Inspecção Superior de Administração Hospitalar orientar, coordenar e fiscalizar a organização e a gestão hospitalar, em ordem à melhor satisfação das necessidades do País em matéria de assistência hospitalar e à eficiência e economia dos serviços.
-
-Art. 80.º A Inspecção Superior de Administração Hospitalar compreende:
-
-a) Direcção de Serviços de Organização Hospitalar;
-
-b) Direcção de Serviços de Gestão Hospitalar.
-
-Art. 81.º - 1. São atribuições da Direcção de Serviços de Organização Hospitalar:
-
-a) Promover e executar os estudos e inquéritos necessários à avaliação das necessidades hospitalares do País e propor as medidas adequadas à sua satisfação;
-
-b) Colaborar com a Direcção-Geral das Construções Hospitalares do Ministério das Obras Públicas, ouvidos os serviços, estabelecimentos e instituições do Ministério da Saúde e Assistência interessados, na elaboração dos planos anuais de trabalho e nos programas de construção, adaptação, ampliação e equipamento dos hospitais sob a sua dependência;
-
-c) Dar parecer sobre a criação, transformação ou extinção de serviços hospitalares;
-
-d) Elaborar o inventário nacional dos hospitais e das casas de saúde;
-
-e) Prestar à Inspecção Superior de Medicina Social, da Direcção-Geral de Saúde, bem como a outros órgãos da Administração, a colaboração que lhe for solicitada;
-
-f) Pronunciar-se quanto à entrada em funcionamento dos novos hospitais ou serviços e, bem assim, daqueles que tenham sido objecto de adaptação, ampliação ou remodelação;
-
-g) Emitir parecer quanto aos projectos de obras de construção, adaptação, ampliação ou remodelação de estabelecimentos ou serviços hospitalares dependentes;
-
-h) Pronunciar-se quanto aos esquemas de serviços e à lotação de cada serviço ou departamento e às alterações permanentes que lhes forem introduzidas;
-
-i) Dar parecer sobre a criação ou modificação de serviços complementares da organização hospitalar;
-
-j) Pronunciar-se quanto ao licenciamento das casas de saúde e promover as inspecções e vistorias legais;
-
-k) Proceder ao estudo do sistema nacional de transporte de doentes e preparar periòdicamente os planos de financiamento das respectivas actividades, em colaboração com as demais entidades interessadas.
-
-2. Na Direcção de Serviços de Organização Hospitalar funcionará um grupo de programas, de constituição a fixar por despacho ministerial, ao qual cabem, designadamente, as funções referidas nas alíneas b) e g) do número anterior.
-
-Art. 82.º São atribuições da Direcção de Serviços de Gestão Hospitalar:
-
-a) Colaborar com a Secretaria-Geral no estudo e aperfeiçoamento dos métodos de gestão do pessoal hospitalar, designadamente quanto à análise das funções e postos de trabalho;
-
-b) Elaborar os quadros-tipo dos estabelecimentos hospitalares;
-
-c) Cooperar no aperfeiçoamento das carreiras de pessoal hospitalar, promovendo a sua adaptação à evolução natural dos serviços;
-
-d) Promover, ouvidos os serviços de acção hospitalar, o estudo dos quadros do pessoal informando as propostas dos estabelecimentos;
-
-e) Estabelecer padrões de organização interna e de funcionamento administrativo;
-
-f) Organizar e centralizar a notação do pessoal da carreira de administração hospitalar, nos termos em que vier a ser regulamentada;
-
-g) Promover o estudo e a regulamentação das fontes de financiamento hospitalar, designadamente no que se refere:
-
-Aos sistemas de tarificação e cálculo das respectivas tabelas;
-
-À preparação dos acordos a realizar pela Direcção-Geral dos Hospitais, nos termos do artigo 50.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965;
-
-Ao lançamento das derramas e outros assuntos relativos às câmaras municipais;
-
-À gestão do Fundo de Compensação Hospitalar;
-
-h) Realizar os estudos relacionados com a gestão económico-financeira dos hospitais;
-
-i) Analisar e informar os projectos de orçamento dos estabelecimentos e serviços dependentes e os das instituições particulares, na parte referente a actividades hospitalares;
-
-j) Elaborar o orçamento da Direcção-Geral;
-
-k) Informar os balancetes dos serviços dependentes em regime de instalação;
-
-l) Preparar e realizar as análises económico-financeiras dos hospitais;
-
-m) Realizar os estudos de orçamentologia necessários ao desenvolvimento de uma adequada gestão previsional;
-
-n) Estudar o plano de contas e a sua aplicação normalizada;
-
-o) Estudar e propor a execução do orçamento da Direcção-Geral e as comparticipações do Tesouro aos estabelecimentos e serviços dependentes;
-
-p) Informar os pedidos de autorização de despesas;
-
-q) Prestar a colaboração que lhe for solicitada à Direcção-Geral de Saúde e outros órgãos da Administração, bem como aos estabelecimentos hospitalares, em matéria da sua competência.
-
-Art. 83.º - 1. À Repartição de Serviços Administrativos compete exercer, em relação à Direcção-Geral dos Hospitais, as funções atribuídas no artigo 65.º, n.º 1, à sua congénere da Direcção-Geral de Saúde.
-
-2. A Repartição compreende as seguintes Secções:
-
-a) Pessoal;
-
-b) Expediente Geral, Contabilidade e Arquivo.
-
-3. Cabe a cada uma das secções exercer, em relação à própria Direcção-Geral, as funções que, para a Direcção-Geral de Saúde, são referidas, respectivamente, no n.º 1 do artigo 66.º e nos n.os 2 e 3 do mesmo artigo.
-
-4. Aplica-se à Repartição da Direcção-Geral dos Hospitais o disposto no n.º 4 do artigo 66.º
-
-Art. 84.º - 1. As comissões inter-hospitalares são órgãos de apoio técnico e administrativo da Direcção-Geral dos Hospitais e de cooperação e entreajuda dos hospitais da respectiva área.
-
-2. As áreas de jurisdição das comissões inter-hospitalares correspondem às áreas geográficas das regiões-plano, podendo atribuir-se a cada comissão jurisdição em mais do que uma região-plano.
-
-Art. 85.º - 1. As comissões inter-hospitalares são constituídas pelos representantes de todos os hospitais, quer oficiais, quer de instituições de assistência particular, da área correspondente, e ainda por representantes das casas de saúde, a indicar pelo respectivo grémio.
-
-2. São órgãos das comissões inter-hospitalares a assembleia geral e a direcção.
-
-3. A assembleia geral é formada por todos os representantes dos hospitais e casas de saúde, nos termos do n.º 1, e reúne ordinàriamente no mês de Novembro para aprovação do orçamento e planos de acção para o ano imediato e, extraordinàriamente, por iniciativa da direcção ou a requerimento de dois terços dos seus membros.
-
-4. A direcção é constituída por um presidente e dois vogais.
-
-5. O presidente e um vogal são funcionários do Ministério designados trienalmente por despacho ministerial, e o outro vogal é eleito pela assembleia geral.
-
-6. Enquanto se acharem providos os lugares de director de zona hospitalar, cabe aos seus titulares exercer as funções de presidente da respectiva comissão inter-hospitalar.
-
-7. O Ministro determinará a data a partir da qual o expediente das comissões inter-hospitalares será assegurado pelo centro de saúde distrital respectivo, localizado na sede da região.
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 345/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300), publicado em 1993-10-01.
 
 #### SECÇÃO VI — Da Direcção-Geral da Assistência Social
 
-Art. 86.º - 1. À Direcção-Geral da Assistência Social compete orientar e fiscalizar a actuação dos serviços, estabelecimentos e instituições de assistência social, coordenando as actividades promotoras da integração social dos indivíduos, fomentada pela sua participação no processo de desenvolvimento da comunidade, tendo em especial atenção as crianças, os jovens e a população idosa e actuando no quadro da instituição familiar.
+###### Artigo 86.º
+
+1. À Direcção-Geral da Assistência Social compete orientar e fiscalizar a actuação dos serviços, estabelecimentos e instituições de assistência social, coordenando as actividades promotoras da integração social dos indivíduos, fomentada pela sua participação no processo de desenvolvimento da comunidade, tendo em especial atenção as crianças, os jovens e a população idosa e actuando no quadro da instituição familiar.
 
 2. As actividades da Direcção-Geral da Assistência Social serão exercidas em coordenação com as das restantes direcções-gerais do Ministério, devendo subordinar-se aos princípios da prevenção e do estabelecimento de prioridades.
 
 3. Os programas de acção regional da Direcção-Geral da Assistência Social serão elaborados de acordo com os planos gerais superiormente aprovados e executados de harmonia com as instruções emanadas dos serviços centrais, designadamente através dos delegados regionais.
 
-Art. 87.º - 1. O director-geral superintende em todos os serviços da Direcção-Geral, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada, nos termos da lei geral.
+###### Artigo 87.º
+
+1. O director-geral superintende em todos os serviços da Direcção-Geral, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada, nos termos da lei geral.
 
 2. O director-geral pode, quando autorizado, subdelegar a competência que lhe for delegada, e delegar a sua própria competência, nos termos da lei geral, no inspector superior de Tutela Administrativa, directores de serviço e chefe de repartição, quanto às funções específicas dos respectivos serviços.
 
@@ -1530,9 +1533,13 @@ Art. 87.º - 1. O director-geral superintende em todos os serviços da Direcçã
 
 4. O director-geral presidirá ao conselho consultivo do Instituto da Família e Acção Social.
 
-Art. 88.º Com vista à informação geral e para uniformidade de actuação, haverá um conselho interno, constituído pelo director-geral, que preside, pelo inspector superior de Tutela Administrativa, director do Instituto da Família e Acção Social, directores de serviço, chefe de repartição e demais funcionários convocados pelo director-geral.
+###### Artigo 88.º
 
-Art. 89.º - 1. A Direcção-Geral da Assistência Social compreende:
+Com vista à informação geral e para uniformidade de actuação, haverá um conselho interno, constituído pelo director-geral, que preside, pelo inspector superior de Tutela Administrativa, director do Instituto da Família e Acção Social, directores de serviço, chefe de repartição e demais funcionários convocados pelo director-geral.
+
+###### Artigo 89.º
+
+1. A Direcção-Geral da Assistência Social compreende:
 
 a) Inspecção Superior de Tutela Administrativa;
 
@@ -1544,7 +1551,9 @@ c) Repartição de Serviços Administrativos.
 
 3. O Instituto terá regulamento privativo.
 
-Art. 90.º - 1. À Inspecção Superior de Tutela Administrativa compete o exercício geral das atribuições inerentes à tutela administrativa das instituições de assistência particular.
+###### Artigo 90.º
+
+1. À Inspecção Superior de Tutela Administrativa compete o exercício geral das atribuições inerentes à tutela administrativa das instituições de assistência particular.
 
 2. A Inspecção Superior de Tutela Administrativa compreende:
 
@@ -1554,7 +1563,9 @@ b) Direcção de Serviços de Orientação e Gestão.
 
 3. Uma das direcções de serviços é dirigida pelo inspector superior de Tutela Administrativa.
 
-Art. 91.º Compete à Inspecção Superior de Tutela Administrativa, pela Direcção de Serviços de Assuntos Jurídicos:
+###### Artigo 91.º
+
+Compete à Inspecção Superior de Tutela Administrativa, pela Direcção de Serviços de Assuntos Jurídicos:
 
 a) Prestar o apoio jurídico de que careçam as instituições de assistência particular;
 
@@ -1568,7 +1579,9 @@ e) Fiscalizar a legalidade dos mandatos dos corpos gerentes das instituições e
 
 f) Manter actualizado o ficheiro das instituições de assistência particular do País.
 
-Art. 92.º Compete à Inspecção Superior de Tutela Administrativa, pela Direcção de Serviços de Orientação e Gestão:
+###### Artigo 92.º
+
+Compete à Inspecção Superior de Tutela Administrativa, pela Direcção de Serviços de Orientação e Gestão:
 
 a) Emitir orientações gerais para a gestão financeira e económica das instituições de assistência particular em ordem a obter a maior eficiência com o mínimo de custo;
 
@@ -1590,7 +1603,9 @@ i) Propor a intervenção dos Serviços de Inspecção da Secretaria-Geral, quan
 
 j) Assegurar a estatística relativa às actividades próprias das suas atribuições.
 
-Art. 93.º - 1. À Repartição de Serviços Administrativos compete exercer, em relação à Direcção-Geral da Assistência Social, as funções atribuídas nos artigos 65.º, n.º 1, e 83.º, n.º 1, às repartições das outras direcções-gerais.
+###### Artigo 93.º
+
+1. À Repartição de Serviços Administrativos compete exercer, em relação à Direcção-Geral da Assistência Social, as funções atribuídas nos artigos 65.º, n.º 1, e 83.º, n.º 1, às repartições das outras direcções-gerais.
 
 2. A Repartição compreende as seguintes Secções:
 
@@ -1604,7 +1619,9 @@ b) Expediente Geral, Contabilidade e Arquivo.
 
 ### CAPÍTULO III — Dos órgãos e serviços locais
 
-Art. 94.º - 1. Aos órgãos e serviços locais compete, em geral, assegurar, nas áreas da sua jurisdição, a execução coordenada das actividades de saúde e assistência social.
+###### Artigo 94.º
+
+1. Aos órgãos e serviços locais compete, em geral, assegurar, nas áreas da sua jurisdição, a execução coordenada das actividades de saúde e assistência social.
 
 2. Os órgãos locais são:
 
@@ -1620,7 +1637,9 @@ a) Os centros de saúde, distritais e concelhios;
 
 b) Os demais serviços oficiais de âmbito local que constarem da portaria a publicar nos termos do artigo 77.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
 
-Art. 95.º - 1. As inspecções coordenadoras têm as sedes e as áreas de jurisdição que seguidamente se indicam:
+###### Artigo 95.º
+
+1. As inspecções coordenadoras têm as sedes e as áreas de jurisdição que seguidamente se indicam:
 
 a) Inspecção Coordenadora da Região Norte:
 
@@ -1682,7 +1701,9 @@ f) Exercer as demais atribuições que lhes sejam fixadas por despacho do Minist
 
 10. Das reuniões das inspecções coordenadoras serão elaboradas actas, de que se enviarão cópias à Secretaria-Geral, ao Gabinete de Estudos e Planeamento e às direcções-gerais.
 
-Art. 96.º - 1. Em cada distrito funcionará um conselho coordenador de natureza consultiva, cuja constituição e regulamento serão fixados por despacho do Ministro.
+###### Artigo 96.º
+
+1. Em cada distrito funcionará um conselho coordenador de natureza consultiva, cuja constituição e regulamento serão fixados por despacho do Ministro.
 
 2. Aos conselhos coordenadores compete, em geral, pronunciar-se sobre todos os problemas sanitários, hospitalares e de assistência social dos respectivos distritos, designadamente sobre os respeitantes à coordenação das actividades dos serviços oficiais e das instituições particulares e de previdência e estudar e propor as medidas necessárias à resolução desses problemas.
 
@@ -1690,7 +1711,9 @@ Art. 96.º - 1. Em cada distrito funcionará um conselho coordenador de natureza
 
 4. Das resoluções dos conselhos coordenadores elaborar-se-ão actas de que serão remetidas cópias à Secretaria-Geral, ao Gabinete de Estudos e Planeamento e às três direcções-gerais.
 
-Art. 97.º - 1. Em cada concelho, com excepção do da sede do distrito, será criada, por despacho do Ministro, uma comissão coordenadora, que terá a seguinte constituição:
+###### Artigo 97.º
+
+1. Em cada concelho, com excepção do da sede do distrito, será criada, por despacho do Ministro, uma comissão coordenadora, que terá a seguinte constituição:
 
 a) Delegado de saúde, que presidirá;
 
@@ -1712,7 +1735,9 @@ f) Um elemento local a designar pela Direcção-Geral da Assistência Social.
 
 5. Das reuniões das comissões coordenadoras serão elaboradas actas, de que serão remetidas cópias ao director de saúde do distrito.
 
-Art. 98.º - 1. Aos centros de saúde compete, em geral, exercer nas respectivas áreas, de acordo com normas emanadas dos serviços centrais do Ministério, as actividades de saúde e assistência social que não devem competir a instituições com autonomia funcional.
+###### Artigo 98.º
+
+1. Aos centros de saúde compete, em geral, exercer nas respectivas áreas, de acordo com normas emanadas dos serviços centrais do Ministério, as actividades de saúde e assistência social que não devem competir a instituições com autonomia funcional.
 
 2. Serão integradas nos respectivos centros de saúde as estações de saúde das actuais circunscrições de defesa sanitária dos portos marítimos e aéreos quando os centros de saúde entrarem em funcionamento normal.
 
@@ -1724,7 +1749,9 @@ Art. 98.º - 1. Aos centros de saúde compete, em geral, exercer nas respectivas
 
 6. De harmonia com o disposto no n.º 1 do artigo 87.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), os médicos municipais exercem as suas atribuições sob a orientação do director do centro de saúde, em colaboração com as restantes valências deste, devendo ser-lhes facultados nos respectivos centros e postos de saúde as instalações e meios de que disponham para o exercício daquelas atribuições.
 
-Art. 99.º - 1. Os centros de saúde distritais dependem da Direcção-Geral de Saúde, que resolverá, em colaboração com os outros serviços centrais do Ministério, as dúvidas e dificuldades que possam surgir no exercício das suas funções.
+###### Artigo 99.º
+
+1. Os centros de saúde distritais dependem da Direcção-Geral de Saúde, que resolverá, em colaboração com os outros serviços centrais do Ministério, as dúvidas e dificuldades que possam surgir no exercício das suas funções.
 
 2. Os centros de saúde distritais são serviços oficiais com personalidade jurídica e autonomia administrativa, excepto no que se refere a remunerações certas ao pessoal.
 
@@ -1732,7 +1759,9 @@ Art. 99.º - 1. Os centros de saúde distritais dependem da Direcção-Geral de 
 
 4. Nos concelhos em que se julgue conveniente, serão criados, em freguesias ou grupos de freguesias, postos de saúde na dependência dos respectivos centros de saúde concelhios.
 
-Art. 100.º - 1. Constituem receitas dos centros de saúde:
+###### Artigo 100.º
+
+1. Constituem receitas dos centros de saúde:
 
 a) As dotações e subsídios do Estado;
 
@@ -1748,13 +1777,17 @@ e) Quaisquer outros bens e rendimentos que lhes sejam atribuídos ou legados.
 
 3. A execução desses acordos depende de homologação ministerial.
 
-Art. 101.º - 1. Os centros de saúde distritais são dirigidos pelos directores de saúde.
+###### Artigo 101.º
+
+1. Os centros de saúde distritais são dirigidos pelos directores de saúde.
 
 2. Os centros de saúde concelhios são dirigidos pelos delegados de saúde.
 
 3. Os postos de saúde, criados em freguesias ou grupos de freguesias, são dirigidos por subdelegados de saúde.
 
-Art. 102.º - 1. Em cada centro de saúde distrital haverá um conselho administrativo constituído pelo director de saúde, que presidirá, pelo chefe da secretaria e por funcionário designado por despacho do director-geral de Saúde, mediante proposta do director de saúde.
+###### Artigo 102.º
+
+1. Em cada centro de saúde distrital haverá um conselho administrativo constituído pelo director de saúde, que presidirá, pelo chefe da secretaria e por funcionário designado por despacho do director-geral de Saúde, mediante proposta do director de saúde.
 
 2. Compete ao conselho administrativo:
 
@@ -1768,17 +1801,23 @@ d) Dar mensalmente balanço à tesouraria;
 
 e) Aprovar anualmente a conta de gerência e submetê-la à apreciação superior.
 
-Art. 103.º - 1. Para informação intersectores e melhoria da eficiência e da coordenação dos serviços, haverá em cada centro de saúde distrital um conselho técnico, que reunirá pelo menos mensalmente, e terá a seguinte constituição: director de saúde, que presidirá, técnicos responsáveis pelas diversas valências e chefe de secretaria.
+###### Artigo 103.º
+
+1. Para informação intersectores e melhoria da eficiência e da coordenação dos serviços, haverá em cada centro de saúde distrital um conselho técnico, que reunirá pelo menos mensalmente, e terá a seguinte constituição: director de saúde, que presidirá, técnicos responsáveis pelas diversas valências e chefe de secretaria.
 
 2. Para informação de cada centro de saúde concelhio, avaliação do trabalho realizado e correcção de possíveis deficiências, o director do centro de saúde distrital efectuará, pelo menos trimestralmente, reuniões com os directores dos centros de saúde concelhios, para os quais convocará o chefe ou subchefe do serviço de enfermagem regional e quaisquer outros elementos dos serviços de saúde e assistência social do distrito, cuja presença julgue conveniente.
 
-Art. 104.º - 1. Os centros de saúde distritais e os centros de saúde concelhios reger-se-ão pelos respectivos regulamentos.
+###### Artigo 104.º
+
+1. Os centros de saúde distritais e os centros de saúde concelhios reger-se-ão pelos respectivos regulamentos.
 
 2. A Direcção-Geral de Saúde promoverá a elaboração daqueles regulamentos a aprovar por despacho ministerial.
 
 3. Nestes regulamentos será considerada a possibilidade de adaptação às necessidades e aos condicionamentos locais, ficando as mesmas sujeitas a aprovação por despacho do director-geral de Saúde.
 
-Art. 105.º - 1. O director de saúde é a autoridade sanitária distrital e exerce no respectivo distrito a competência genérica da Direcção-Geral de Saúde, cabendo-lhe, em geral:
+###### Artigo 105.º
+
+1. O director de saúde é a autoridade sanitária distrital e exerce no respectivo distrito a competência genérica da Direcção-Geral de Saúde, cabendo-lhe, em geral:
 
 a) Orientar e coordenar as actividades sanitárias, hospitalares e de assistência social dos serviços e instituições oficiais e particulares, sem prejuízo da autonomia que a lei lhes confira, de modo a integrá-los em planos e programas, a curto, médio e longo prazos;
 
@@ -1790,7 +1829,9 @@ d) Velar pelo cumprimento das leis e regulamentos sanitários, levantando ou man
 
 2. O director de saúde é responsável perante a Direcção-Geral de Saúde por tudo quanto respeita ao funcionamento do centro de saúde distrital, que dirige, e às actividades dos delegados e subdelegados de saúde do distrito, que orienta, coordena e inspecciona.
 
-Art. 106.º - 1. No exercício das suas atribuições, compete ao director de saúde executar ou mandar executar as funções de fiscalização e de defesa da saúde pública cometidas no presente Regulamento aos diversos serviços da Direcção-Geral de Saúde, de acordo com as normas dela emanadas, e, quando necessário, com o seu apoio técnico e administrativo, cabendo-lhe, em especial:
+###### Artigo 106.º
+
+1. No exercício das suas atribuições, compete ao director de saúde executar ou mandar executar as funções de fiscalização e de defesa da saúde pública cometidas no presente Regulamento aos diversos serviços da Direcção-Geral de Saúde, de acordo com as normas dela emanadas, e, quando necessário, com o seu apoio técnico e administrativo, cabendo-lhe, em especial:
 
 a) Coligir elementos sobre as condições de salubridade do distrito, nomeadamente quanto à higiene da habitação, abastecimento de água potável e eliminação de águas residuais e de lixo;
 
@@ -1830,7 +1871,9 @@ r) Exercer as demais funções que lhe sejam atribuídas por lei, regulamento ou
 
 2. Os directores de saúde enviarão à Direcção-Geral de Saúde, até 31 de Março de cada ano, relatórios sobre o estado sanitário dos respectivos distritos e sobre as actividades dos serviços de saúde no ano anterior, devendo a Direcção-Geral de Saúde estabelecer um esquema para servir de base à elaboração desses relatórios, com vista à sua conveniente uniformização.
 
-Art. 107.º - 1. Nos distritos de Lisboa e Porto haverá dois directores de saúde, sendo os serviços dirigidos pelo mais antigo, coadjuvado pelo segundo.
+###### Artigo 107.º
+
+1. Nos distritos de Lisboa e Porto haverá dois directores de saúde, sendo os serviços dirigidos pelo mais antigo, coadjuvado pelo segundo.
 
 2. Nas suas faltas e impedimentos, o director de saúde é substituído da seguinte forma:
 
@@ -1838,7 +1881,9 @@ a) Nos distritos de Lisboa e Porto, pelo director de saúde que o coadjuva, ou, 
 
 b) Nos outros distritos, pelo delegado de saúde de 1.ª classe que o coadjuva, ou, na sua falta, pelo médico do centro de saúde distrital que for designado pelo director-geral de Saúde.
 
-Art. 108.º - 1. O delegado de saúde é a autoridade sanitária concelhia, cabendo-lhe exercer, no respectivo concelho, as atribuições do director de saúde, na parte aplicável.
+###### Artigo 108.º
+
+1. O delegado de saúde é a autoridade sanitária concelhia, cabendo-lhe exercer, no respectivo concelho, as atribuições do director de saúde, na parte aplicável.
 
 2. Nas suas faltas e impedimentos, o delegado de saúde é substituído pela seguinte forma:
 
@@ -1846,11 +1891,15 @@ a) Pelo subdelegado de saúde do concelho, enquanto exista;
 
 b) Nos concelhos em que tal não se verifique, pelo médico do centro de saúde concelhio ou pelo subdelegado de saúde que, por proposta sua, for designado pelo director de saúde do respectivo distrito.
 
-Art. 109.º Nos concelhos onde ainda não exista centro de saúde, o subdelegado de saúde concelhio é substituído nos termos do [Decreto-Lei n.º 47822](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47822-1967-313443), de 28 de Julho de 1967.
+###### Artigo 109.º
+
+Nos concelhos onde ainda não exista centro de saúde, o subdelegado de saúde concelhio é substituído nos termos do [Decreto-Lei n.º 47822](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47822-1967-313443), de 28 de Julho de 1967.
 
 ### CAPÍTULO IV — Do pessoal
 
-Art. 110.º - 1. Os serviços do Ministério dispõem do pessoal constante dos quadros da tabela A, anexos ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), até à publicação das portarias previstas no n.º 3 do artigo 64.º do mesmo diploma, passando então a vigorar a tabela B.
+###### Artigo 110.º
+
+1. Os serviços do Ministério dispõem do pessoal constante dos quadros da tabela A, anexos ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), até à publicação das portarias previstas no n.º 3 do artigo 64.º do mesmo diploma, passando então a vigorar a tabela B.
 
 2. A distribuição do pessoal pelos serviços é feita por despacho do secretário-geral, director do Gabinete de Estudos e Planeamento e directores-gerais, respectivamente.
 
@@ -1860,7 +1909,9 @@ Art. 110.º - 1. Os serviços do Ministério dispõem do pessoal constante dos q
 
 5. Os funcionários são identificados por cartões de identidade passados pela Secretaria-Geral, de acordo com as diferenciações que atendam às várias categorias e correspondentes funções, e segundo os modelos aprovados por portaria do Ministro da Saúde e Assistência.
 
-Art. 111.º - 1. Relativamente a categorias comuns a vários quadros do pessoal do Ministério, o provimento é feito nos termos dos números seguintes.
+###### Artigo 111.º
+
+1. Relativamente a categorias comuns a vários quadros do pessoal do Ministério, o provimento é feito nos termos dos números seguintes.
 
 2. Os lugares de técnico de 1.ª classe, não abrangidos por carreiras, são providos, mediante concurso documental, de entre os funcionários da classe imediatamente inferior com curso adequado ao exercício das respectivas funções e, pelo menos, três anos de bom e efectivo serviço na classe.
 
@@ -1874,7 +1925,9 @@ Art. 111.º - 1. Relativamente a categorias comuns a vários quadros do pessoal 
 
 7. Os lugares de paquete são providos por escolha entre indivíduos do sexo masculino com idade não inferior a 14 anos.
 
-Art. 112.º - 1. Aplica-se ao provimento de lugares constantes do quadro da Secretaria-Geral o disposto nos números seguintes.
+###### Artigo 112.º
+
+1. Aplica-se ao provimento de lugares constantes do quadro da Secretaria-Geral o disposto nos números seguintes.
 
 2. Os lugares de engenheiro-chefe são providos, mediante concurso documental, de entre os engenheiros de 1.ª classe, ou técnicos de 1.ª dos quadros do Ministério, com o curso de Engenharia, ou de entre engenheiros pertencentes a outros serviços do Estado com categoria equivalente àqueles, ou ainda, na falta de uns e outros, de entre engenheiros que reúnam os requisitos legais.
 
@@ -1898,7 +1951,9 @@ Art. 112.º - 1. Aplica-se ao provimento de lugares constantes do quadro da Secr
 
 12. As funções de solicitador são desempenhadas por um solicitador legalmente habilitado, mediante contrato anual, tàcitamente renovável.
 
-Art. 113.º - 1. Ao pessoal do Gabinete de Estudos e Planeamento aplica-se o disposto nos números seguintes.
+###### Artigo 113.º
+
+1. Ao pessoal do Gabinete de Estudos e Planeamento aplica-se o disposto nos números seguintes.
 
 2. Os lugares de investigador e de técnico especialista são providos, por escolha, de entre pessoas qualificadas para o efeito.
 
@@ -1910,8 +1965,12 @@ Art. 113.º - 1. Ao pessoal do Gabinete de Estudos e Planeamento aplica-se o dis
 
 6. O tempo de serviço prestado no Gabinete de Estudos e Planeamento pelo pessoal requisitado ao abrigo do n.º 1 do artigo 70.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738) contará para todos os efeitos, incluindo os do acesso nos quadros a que pertence.
 
-Art. 114.º Na Direcção-Geral de Saúde, o provimento dos lugares de inspector técnico de hidroterapia e fisioterapia, do exercício de enfermagem e do exercício de profissões paramédicas e auxiliares é feito, por concurso documental, de entre técnicos dos serviços do Ministério com habilitações e preparação adequada ao exercício das respectivas funções ou indivíduos que preencham os mesmos requisitos.
+###### Artigo 114.º
 
-Art. 115.º As regras a que devem obedecer os vários concursos previstos neste diploma são aprovadas em portaria do Ministro da Saúde e Assistência.
+Na Direcção-Geral de Saúde, o provimento dos lugares de inspector técnico de hidroterapia e fisioterapia, do exercício de enfermagem e do exercício de profissões paramédicas e auxiliares é feito, por concurso documental, de entre técnicos dos serviços do Ministério com habilitações e preparação adequada ao exercício das respectivas funções ou indivíduos que preencham os mesmos requisitos.
+
+###### Artigo 115.º
+
+As regras a que devem obedecer os vários concursos previstos neste diploma são aprovadas em portaria do Ministro da Saúde e Assistência.
 
 O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

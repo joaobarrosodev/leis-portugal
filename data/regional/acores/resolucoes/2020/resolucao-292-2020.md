@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5073-5073
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/12/04/150343904.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-05'
+entry_into_force:
+  date: '2020-12-05'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-2
+  effects_date: '2020-11-30'
+  effects_rule: a 30 de novembro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

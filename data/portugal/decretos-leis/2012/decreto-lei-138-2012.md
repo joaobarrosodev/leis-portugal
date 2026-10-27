@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3426 - 3475
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/12900/0342603475.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-11-02'
+entry_into_force:
+  date: '2012-11-02'
+  rule: 120 dias após a sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

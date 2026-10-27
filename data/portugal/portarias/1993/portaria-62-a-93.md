@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 140-(2) a 140-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-04-15'
+entry_into_force:
+  date: '1993-04-15'
+  rule: 90 dias após a sua publicação no Diário da República, com excepção do disposto nos n.os 3 e 4 do artigo 1.º, que entra
+    imediatamente em vigor
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

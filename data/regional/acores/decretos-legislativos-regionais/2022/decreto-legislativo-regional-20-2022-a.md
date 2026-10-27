@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8 - 96
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16300/0000800096.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-25'
+entry_into_force:
+  date: '2022-08-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: a partir da entrada em vigor do Orçamento da Região Autónoma dos Açores para o ano económico de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

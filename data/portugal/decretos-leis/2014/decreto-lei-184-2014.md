@@ -22,16 +22,40 @@ publication:
   supplement: null
   pages: 6382 - 6397
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-01'
+entry_into_force:
+  date: '2015-01-01'
+  rule: no dia 1 de janeiro de 2015
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2019-08-07'
+version_history:
+  file: decreto-lei-184-2014.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-08-07'
+    amending: pt:dre:123725410:por
+    amending_title: Decreto-Lei n.º 102/2019
+    changes:
+    - Revoga Artigo 53.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/184/2014/12/29/p/dre/pt/html
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:24:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 102/2019. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2014/decreto-lei-184-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1336,13 +1361,15 @@ A estrutura interna do EMGFA é aprovada por decreto regulamentar, a aprovar no 
 
 1 - Até à entrada em vigor do diploma previsto no n.º 2 do artigo 46.º, mantém-se em vigor o modelo de governação comum aprovado pela Portaria n.º 60/2014, de 13 de janeiro, publicada no Diário da República, 2.ª série, n.º 18, de 27 de janeiro, bem como todas as disposições aplicáveis ao IESM.
 
-2 - Até à conclusão do respetivo processo de reestruturação, o Laboratório Militar de Produtos Químicos e Farmacêuticos garante ao HFAR e aos ramos das Forças Armadas o apoio, no âmbito da aquisição, produção, armazenagem, distribuição e manutenção de material clínico, equipamento médico, medicamentoso e outros produtos de saúde.
+2 - (Revogado.)
 
 3 - A acumulação das funções de Comandante Operacional da Madeira com as de Comandante de Zona Militar da Madeira, prevista no artigo 37.º do [Decreto-Lei n.º 234/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2009-489711), de 15 de setembro, cessa com a nomeação do Comandante Operacional da Madeira, nos termos da lei, após a alteração, com caráter permanente, da tipologia de forças atribuídas.
 
 4 - Até à criação do posto de comodoro ou brigadeiro-general, nos termos do Estatuto dos Militares das Forças Armadas, os cargos que, nos termos do presente decreto-lei, devam ser exercidos por militares com aqueles postos são exercidos por militares com os postos de contra-almirante ou major-general.
 
 5 - Os cargos que, com a entrada em vigor do presente decreto-lei e do novo Estatuto dos Militares das Forças Armadas, devam ser exercidas por militares com o posto de comodoro ou brigadeiro-general, podem continuar a ser ocupados por contra-almirantes ou majores-generais até que se atinjam os efetivos globais previstos para este posto.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 102/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2019-123725410), publicado em 2019-08-06.
 
 ###### Artigo 54.º — Norma revogatória
 

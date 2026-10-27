@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3538 - 3538
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/138a00/35383538.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-06-21'
+entry_into_force:
+  date: '2001-06-21'
+  rule: no prazo de cinco dias após a sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

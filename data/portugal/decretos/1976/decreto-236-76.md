@@ -23,6 +23,15 @@ publication:
   pages: 677 - 678
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08100/06770678.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da troca definitiva dos instrumentos de ratificação entre as duas Partes
+  method: clausula
+  article: art-x
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6018 - 6020
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/16000/60186020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-09-20'
+entry_into_force:
+  date: '2006-09-20'
+  rule: 30 dias após a sua publicação no Diário da República, devendo o Governo da Região Autónoma da Madeira tomar as medidas
+    necessárias à aplicação do mesmo
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 3955 - 3957
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/187a00/39553957.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia após a data em que ambas as Partes tiverem informado por via diplomática que se encontram concluídas as
+    formalidades constitucionais necessárias para o efeito
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

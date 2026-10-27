@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 7430 - 7437
   pdf_url: https://files.diariodarepublica.pt/1s/2003/11/257a00/74307437.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-12-06'
+entry_into_force:
+  date: '2003-12-06'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

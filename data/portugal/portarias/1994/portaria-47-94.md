@@ -24,6 +24,15 @@ publication:
   pages: 237 - 237
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/014b00/02370237.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 1 Março de 1994
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

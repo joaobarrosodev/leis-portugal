@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 238 - 242
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00600/0023800242.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-10'
+entry_into_force:
+  date: '2018-01-10'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: '2019-01-01'
+  effects_rule: a 1 de janeiro de 2019, sem prejuízo da notificação prevista no n.º 2 do artigo 5.º e do disposto no número
+    seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

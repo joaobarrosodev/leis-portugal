@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: '2661'
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2006/12/14/31359443.rtf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-12-15'
+entry_into_force:
+  date: '2006-12-15'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

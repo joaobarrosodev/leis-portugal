@@ -24,6 +24,16 @@ publication:
   pages: 6624 - 6638
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/289a00/66246638.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: seis meses após a data em que quatro Estados, incluindo pelo menos três Estados membros do Conselho da Europa, tenham
+    expresso o seu consentimento em ficarem vinculados pela Convenção (revista), nos t
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1032-(1) a 1032-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/21001/00010002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-09-09'
+entry_into_force:
+  date: '1974-09-09'
+  rule: em 9 de Setembro de 1974
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

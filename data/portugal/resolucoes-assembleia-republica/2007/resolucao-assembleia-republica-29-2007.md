@@ -25,6 +25,16 @@ publication:
   pages: 4330 - 4333
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/12700/43304333.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção pelas autoridades referidas no artigo 3.º, por escrito, da última notificação, pelas Partes Contratantes,
+    de que foram cumpridos os requisitos de direito interno de ambas as Partes
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

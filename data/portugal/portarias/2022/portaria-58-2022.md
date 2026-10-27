@@ -23,9 +23,85 @@ publication:
   supplement: null
   pages: 14 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-01-28'
+entry_into_force:
+  date: '2022-01-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161149392:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161149393:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161149394:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161801435:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161801436:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161801437:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161801438:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161801439:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161801440:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1161149392:por'
+    detail: Revogada, a partir de 25 de agosto de 2026, pelo(a) Portaria n.º 373/2026/1 - Diário da República n.º 163/2026,
+      Série I de 2026-08-24 nos termos da alínea b) do artigo 6.º desta
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1161149393:por'
+    detail: Revogada, a partir de 25 de agosto de 2026, pelo(a) Portaria n.º 374/2026/1 - Diário da República n.º 163/2026,
+      Série I de 2026-08-24 nos termos da alínea b) do artigo 6.º desta
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1161149394:por'
+    detail: Revogada, a partir de 25 de agosto de 2026, pelo(a) Portaria n.º 375/2026/1 - Diário da República n.º 163/2026,
+      Série I de 2026-08-24 nos termos da alínea b) do artigo 6.º desta
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1161801435:por'
+    detail: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 378/2026/1 - Diário da República n.º 164/2026,
+      Série I de 2026-08-25 nos termos da alínea b) do artigo 6.º desta
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1161801436:por'
+    detail: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 379/2026/1 - Diário da República n.º 164/2026,
+      Série I de 2026-08-25 nos termos da alínea b) do artigo 6.º desta
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1161801437:por'
+    detail: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 380/2026/1 - Diário da República n.º 164/2026,
+      Série I de 2026-08-25
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1161801438:por'
+    detail: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 381/2026/1 - Diário da República n.º 164/2026,
+      Série I de 2026-08-25
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1161801439:por'
+    detail: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 382/2026/1 - Diário da República n.º 164/2026,
+      Série I de 2026-08-25
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1161801440:por'
+    detail: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 383/2026/1 - Diário da República n.º 164/2026,
+      Série I de 2026-08-25
 notes: []
 language: por
 version:

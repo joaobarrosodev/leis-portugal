@@ -23,6 +23,15 @@ publication:
   pages: 8803 - 8804
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/119000000/0880308804.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua homologação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

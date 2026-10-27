@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 583 - 584
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/02000/0058300584.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-30'
+entry_into_force:
+  date: '2013-01-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: com a entrada em vigor do diploma que proceder à extinção do Laboratório Regional de Engenharia Civil, IP-RAM
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

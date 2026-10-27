@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4816 - 4819
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15500/0481604819.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-18'
+entry_into_force:
+  date: '2013-08-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2013-08-13'
+  effects_rule: na data da publicação, em Diário da República, de portaria dos membros do Governo responsáveis pelas áreas
+    das finanças e do transporte aéreo que defina o valor, termos e extensão do subsídio social d
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 6438 - 6524
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/284a00/64386524.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à notificação da realização desses procedimentos pelas Partes Contratantes
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: em relação a períodos anteriores à sua data de entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

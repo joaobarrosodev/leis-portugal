@@ -24,6 +24,16 @@ publication:
   pages: 6842 - 6843
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/248a00/68426843.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última notificação do cumprimento das formalidades exigidas para o efeito pela ordem jurídica
+    interna de cada uma das Partes e será válido pelo período de três anos, automaticam
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

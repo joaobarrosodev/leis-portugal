@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2113 - 2164
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/09300/0211302164.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-05-16'
+entry_into_force:
+  date: '2018-05-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-184
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Lei do Orçamento do Estado, salvo se disposto em contrário nos artigos antecedentes,
+    e até à entrada em vigor do decreto-lei de execução orçamental para 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

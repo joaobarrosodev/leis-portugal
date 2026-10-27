@@ -24,6 +24,16 @@ publication:
   pages: 747 - 748
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/09500/07470748.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da troca de notas confirmando a sua aprovação pelos Governos dos dois países e ficará em vigor por
+    um período de dois anos, sendo renovável, automaticamente, por iguais períodos de te
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

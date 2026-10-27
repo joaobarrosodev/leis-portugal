@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1566 - 1566
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/075b00/15661566.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-03-30'
+entry_into_force:
+  date: '1993-03-30'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1289 - 1316
   pdf_url: https://files.diariodarepublica.pt/1s/1970/09/21200/12891316.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando expirar o trigésimo dia imediato à data do depósito do quadragésimo instrumento de ratificação ou adesão, de
+    acordo com o artigo 40.º
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

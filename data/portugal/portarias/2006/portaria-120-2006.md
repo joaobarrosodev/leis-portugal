@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1044 - 1044
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/029b00/10441044.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-02-14'
+entry_into_force:
+  date: '2006-02-14'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2005-06-01'
+  effects_rule: a partir do dia 1 de Junho de 2005
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

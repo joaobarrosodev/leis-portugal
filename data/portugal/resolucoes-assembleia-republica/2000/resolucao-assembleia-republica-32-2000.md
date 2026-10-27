@@ -25,6 +25,16 @@ publication:
   pages: 1398 - 1411
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/077a00/13981411.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 60.º dia seguinte à data em que 5 países que figurem entre os 10 primeiros países em matéria de exportações, segundo
+    o documento anexado, e que representem, por eles 5, pelo menos 60% das exportaçõ
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

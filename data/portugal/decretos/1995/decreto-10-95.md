@@ -24,6 +24,16 @@ publication:
   pages: 2393 - 2398
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/099a00/23932398.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação de uma das Partes, na qual esta comunique à outra Parte ter aprovado o Acordo em conformidade
+    com as normas aplicáveis aos tratados internacionais
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

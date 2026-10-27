@@ -24,6 +24,16 @@ publication:
   pages: 5377 - 5381
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/192a00/53775381.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que as Partes Contratantes tiverem trocado, entre si, notificações escritas informando a outra
+    Parte da conclusão dos procedimentos exigidos pelas respectivas legislações
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

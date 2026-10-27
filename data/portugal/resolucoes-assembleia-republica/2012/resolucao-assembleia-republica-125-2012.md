@@ -24,6 +24,16 @@ publication:
   pages: 5432 - 5437
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18700/0543205437.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês subsequente ao da notificação feita ao Secretário-Geral do Conselho da União Europeia
+    do cumprimento das formalidades internas necessárias à sua entrada em vigor pela úl
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

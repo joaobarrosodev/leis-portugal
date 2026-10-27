@@ -24,6 +24,15 @@ publication:
   pages: 1925 - 1930
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/057a00/19251930.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após a data de depósito do 10.º instrumento de ratificação ou adesão
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1762 - 1775
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação de se encontrarem cumpridas as formalidades constitucionais exigidas em cada uma das
+    Partes Contratantes
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

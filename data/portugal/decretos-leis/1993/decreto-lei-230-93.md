@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3488 - 3493
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-06-27'
+entry_into_force:
+  date: '1993-06-27'
+  rule: no dia imediato ao da data de publicação
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

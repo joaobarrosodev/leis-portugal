@@ -25,6 +25,15 @@ publication:
   pages: 5954 - 5963
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/211a00/59545963.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após três Estados terem dado o seu consentimento a por ela ficarem vinculados
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

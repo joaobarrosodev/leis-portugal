@@ -23,6 +23,15 @@ publication:
   pages: 26252-(2) a 26252-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/094000001/0000200003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua assinatura
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

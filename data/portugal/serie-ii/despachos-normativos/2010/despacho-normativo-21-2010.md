@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 39550 - 39565
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/141000000/3955039565.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-23'
+entry_into_force:
+  date: '2010-07-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República, salvo no que depender da entrada em funcionamento dos
+    novos órgãos
+  method: clausula
+  article: art-96
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

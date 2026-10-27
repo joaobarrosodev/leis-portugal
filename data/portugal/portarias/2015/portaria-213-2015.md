@@ -24,6 +24,15 @@ publication:
   pages: 4897 - 4898
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13800/0489704898.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo previsto no artigo 43.º do Decreto-Lei n.º 115/2015, de 22 de junho
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

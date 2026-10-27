@@ -26,6 +26,15 @@ publication:
   pages: 3148 - 3156
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10200/0314803156.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 25/2015, de 9 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 2504 - 2506
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/13900/25042506.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e será válido por um período de cinco anos, renovável por recondução tácita, desde que uma
+    das Partes Contratantes não o tenha denunciado por escrito (seis meses) antes da su
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 3072 - 3073
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/12100/0307203073.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-28'
+entry_into_force:
+  date: '2019-06-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:839477381:por'
+    detail: Revogada, a partir de 30 de janeiro de 2024 e com efeitos a 01 de janeiro de 2024, a presente resolução pelo(a)
+      Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29, nos termos do seu artigo 161.º
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2278 - 2278
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/17500/22782278.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-08-01'
+entry_into_force:
+  date: '1982-08-01'
+  rule: no dia imediato ao da sua publicação e aplica-se apenas ao continente
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

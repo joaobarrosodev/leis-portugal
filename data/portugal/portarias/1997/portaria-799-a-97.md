@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4568-(2) a 4568-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/201b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-09-04'
+entry_into_force:
+  date: '1997-09-04'
+  rule: em 4 de Setembro de 1997
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

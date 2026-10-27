@@ -24,6 +24,16 @@ publication:
   pages: 5113 - 5117
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a troca de notas diplomáticas que confirmem terem as Partes completado os trâmites jurídicos internos
+    necessários à entrada em vigor deste Acordo
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

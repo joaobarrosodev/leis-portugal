@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 28 - 118
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19800/0002800118.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-01'
+entry_into_force:
+  date: '2025-01-01'
+  rule: a 1 de janeiro de 2025, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-5
+  effects_date: '2024-03-31'
+  effects_rule: a 31 de março de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 4 - 7
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/04600/0000400007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-07'
+entry_into_force:
+  date: '2025-03-07'
+  rule: no dia seguinte ao da sua publicação e é aplicável às declarações de rendimentos relativas aos anos de 2024 e seguintes,
+    a entregar após a entrada em vigor do presente decreto-lei
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

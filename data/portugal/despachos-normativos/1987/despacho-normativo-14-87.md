@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 595 - 600
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03700/05950600.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-02-13'
+entry_into_force:
+  date: '1987-02-13'
+  rule: no dia da sua publicação, não se aplica aos processos de assistência financeira aprovados na vigência do Regulamento
+    aprovado pelo Despacho Normativo n.º 29/84, do Ministro da Cultura
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

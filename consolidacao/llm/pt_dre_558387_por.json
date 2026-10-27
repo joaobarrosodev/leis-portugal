@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:558387:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. O pessoal da Polícia de Segurança Pública da metrópole nomeado para as companhias móveis de polícia do ultramar transita para o quadro adido da mesma corporação, enquanto se mantiver em comissão de serviço. Finda esta, apresentar-se-á na Polícia de Segurança Pública da metrópole, por onde será pago de todos os seus vencimentos e restantes abonos, independentemente de vacatura no respectivo quadro orgânico.\n\n2. Os encargos com as remunerações do pessoal nas condições da parte final do n.º 1 serão suportados pelas sobras da dotação inscrita na rubrica «Vencimentos - Pessoal dos quadros aprovados por lei», do orçamento de despesa do Ministério da Administração Interna, até que tenham lugar nos respectivos quadros. Quando não se verificarem sobras suficientes, será inscrita verba apropriada."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

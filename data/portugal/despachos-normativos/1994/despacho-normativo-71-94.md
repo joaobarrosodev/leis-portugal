@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 516 - 517
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/027b00/05160517.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-02-02'
+entry_into_force:
+  date: '1994-02-02'
+  rule: na data da sua publicação e
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: '1994-12-31'
+  end_rule: em 31 de Dezembro de 1994
 end_of_validity_date: null
 legal_status: in_force
 notes: []

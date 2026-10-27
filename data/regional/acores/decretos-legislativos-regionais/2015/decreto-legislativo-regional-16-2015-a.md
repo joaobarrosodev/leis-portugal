@@ -23,6 +23,15 @@ publication:
   pages: 3925 - 3925
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11600/0392503925.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Orçamento da Região Autónoma dos Açores para o ano 2015
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

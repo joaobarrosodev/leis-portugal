@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 55 - 80
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06200/0005500080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-03-28'
+entry_into_force:
+  date: '2024-03-28'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: com a entrada em vigor do próximo Orçamento do Estado
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

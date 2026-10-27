@@ -24,6 +24,15 @@ publication:
   pages: 1988 - 1988
   pdf_url: https://files.diariodarepublica.pt/1s/1963/12/29500/19881988.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da aprovação dos estatutos da Associação de Socorros Mútuos Previdência dos Ferroviários de Portugal
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

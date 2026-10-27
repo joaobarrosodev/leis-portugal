@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 130 - 131
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00400/0013000131.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-06'
+entry_into_force:
+  date: '2018-01-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2017-07-26'
+  effects_rule: desde 26 de julho de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

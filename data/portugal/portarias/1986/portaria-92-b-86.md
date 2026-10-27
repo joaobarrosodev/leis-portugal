@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 668-(1) a 668-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/06501/00010007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-03-20'
+entry_into_force:
+  date: '1986-03-20'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

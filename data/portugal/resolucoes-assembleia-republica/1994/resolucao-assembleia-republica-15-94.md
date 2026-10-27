@@ -24,6 +24,16 @@ publication:
   pages: 1460 - 1466
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/070a00/14601466.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: '30 dias após a data da última notificação do cumprimento das formalidades exigidas para o efeito pela ordem jurídica
+    de cada uma das Partes Contratantes e desde que a Convenção de Aplicação do Acordo '
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

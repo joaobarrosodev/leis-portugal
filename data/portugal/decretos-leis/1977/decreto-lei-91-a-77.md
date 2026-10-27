@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 478-(3) a 478-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05902/00030006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-03-11'
+entry_into_force:
+  date: '1977-03-11'
+  rule: na data da sua publicação e
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo prazo máximo de um ano
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

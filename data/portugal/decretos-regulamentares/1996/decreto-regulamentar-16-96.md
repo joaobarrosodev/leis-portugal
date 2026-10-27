@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4316 - 4317
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/276b00/43164317.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-12-03'
+entry_into_force:
+  date: '1996-12-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1996-12-01'
+  effects_rule: a partir do dia 1 do mês seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 936 - 937
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/029b00/09360937.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-02-05'
+entry_into_force:
+  date: '2002-02-05'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

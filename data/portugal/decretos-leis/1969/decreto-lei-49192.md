@@ -26,7 +26,18 @@ publication:
   supplement: null
   pages: 1033 - 1034
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/19200/10331034.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-09-01'
+entry_into_force:
+  date: '1969-09-01'
+  rule: em 1 de Setembro de 1969, revoga o n.º 1.º e a alínea f) do n.º 5.º do artigo 2.º do Decreto-Lei n.º 30249, de 30
+    de Dezembro de 1939, e elimina, na alínea b) do n.º 5.º do artigo 2.º do mesmo diploma
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

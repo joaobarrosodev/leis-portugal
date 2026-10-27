@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 446 - 449
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/02700/04460449.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-05-02'
+entry_into_force:
+  date: '1990-05-02'
+  rule: 90 dias após a sua publicação, permitindo-se, porém, até 31 de Março de 1991 o não cumprimento das determinações impostas
+    no respeitante ao teor de proteína bruta e à contagem de células somáticas par
+  method: clausula
+  article: n-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

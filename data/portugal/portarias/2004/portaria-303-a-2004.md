@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 1616-(2) a 1616-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/069b01/00020004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-03-28'
+entry_into_force:
+  date: '2004-03-28'
+  rule: no dia 28 de Março de 2004
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

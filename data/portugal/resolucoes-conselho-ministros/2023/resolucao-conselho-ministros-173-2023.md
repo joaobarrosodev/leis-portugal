@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 74 - 75
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23800/0007400075.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-17'
+entry_into_force:
+  date: '2023-12-17'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: no dia seguinte à sua aprovação e
+  end_date: '2024-12-31'
+  end_rule: até 31 de dezembro de 2024, sem prejuízo da sua aplicação relativamente aos efeitos que perdurem para além desta
+    data, nomeadamente até à realização integral do dever de restituição por parte dos bene
 end_of_validity_date: null
 legal_status: in_force
 notes: []

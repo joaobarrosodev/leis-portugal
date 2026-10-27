@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1162 - 1163
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/04400/0116201163.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-03-03'
+entry_into_force:
+  date: '2018-03-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: '2018-03-03'
+  effects_rule: no dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 760 - 760
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/06900/07600760.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-01-01'
+entry_into_force:
+  date: '1981-01-01'
+  rule: no dia 1 de Janeiro de 1981, mas no que respeita aos esquemas de benefícios consideram-se inseridos no seu âmbito
+    aqueles que passaram a ser processados a partir de 1 de Dezembro de 1979
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

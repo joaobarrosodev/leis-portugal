@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4167 - 4168
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28900/41674168.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-01-02'
+entry_into_force:
+  date: '1981-01-02'
+  rule: em 2 de Janeiro de 1981 e revoga o artigo 59.º do Regulamento para os Serviços dos Correios, aprovado por Decreto
+    de 14 de Junho de 1902, a alínea e) do artigo 63.º do Regulamento para o Serviço de En
+  method: clausula
+  article: art-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

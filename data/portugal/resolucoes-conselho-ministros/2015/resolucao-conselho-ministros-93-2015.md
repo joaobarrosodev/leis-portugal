@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 9580 - 9580
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/23000/0958009580.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-29'
+entry_into_force:
+  date: '2015-11-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2015-10-30'
+  effects_rule: a partir de 30 de outubro de 2015, considerando-se ratificados todos os atos que tenham sido, entretanto,
+    praticados no âmbito dos procedimentos decorrentes das Resoluções do Conselho de Ministros ref
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

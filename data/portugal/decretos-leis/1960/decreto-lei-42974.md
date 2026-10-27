@@ -24,6 +24,15 @@ publication:
   pages: 1067 - 1068
   pdf_url: https://files.diariodarepublica.pt/1s/1960/05/11100/10671068.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da troca dos instrumentos de ratificação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

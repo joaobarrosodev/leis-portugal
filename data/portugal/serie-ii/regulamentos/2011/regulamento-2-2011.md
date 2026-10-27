@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 281 - 284
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/002000000/0028100284.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-01-04'
+entry_into_force:
+  date: '2011-01-04'
+  rule: após a publicação no Diário da República e de o mesmo ser sujeito a discussão pública e aprovado em Assembleia Municipal
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3062 - 3062
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22600/30623062.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-10-01'
+entry_into_force:
+  date: '1980-10-01'
+  rule: no dia 1 de Outubro de 1980
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

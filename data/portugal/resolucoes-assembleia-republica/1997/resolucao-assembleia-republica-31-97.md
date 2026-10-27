@@ -25,6 +25,16 @@ publication:
   pages: 2418 - 2419
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/113a00/24182419.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data em que os Governos dos Estados para os quais o Acordo tenha entrado em vigor
+    e o Governo da República da Áustria tenham manifestado o seu consentimento em ficar v
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

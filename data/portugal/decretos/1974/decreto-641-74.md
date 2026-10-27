@@ -24,6 +24,16 @@ publication:
   pages: 1408 - 1410
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua ratificação por ambas as Partes em causa e deverá permanecer em vigor enquanto o Acordo que estabelecer
+    a Associação entre os Estados Membros da Associação Europeia de Comércio Livre e a Fi
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

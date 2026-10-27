@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2510-2529
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/07/10/215419403.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-11'
+entry_into_force:
+  date: '2023-07-11'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: no primeiro dia do ano escolar imediatamente subsequente
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

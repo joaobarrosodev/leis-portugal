@@ -24,6 +24,15 @@ publication:
   pages: 2612 - 2622
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/08900/0261202622.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia depois da data do depósito do documento relevante
+  method: clausula
+  article: art-xix
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

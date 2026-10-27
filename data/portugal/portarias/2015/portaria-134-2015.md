@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2558 - 2574
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09500/0255802574.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-05-30'
+entry_into_force:
+  date: '2015-05-30'
+  rule: 12 dias após a sua publicação, com exceção do disposto na alínea a) do artigo 10.º, que
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

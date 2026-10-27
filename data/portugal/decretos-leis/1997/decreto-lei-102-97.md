@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1916 - 1921
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/098a00/19161921.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-04-29'
+entry_into_force:
+  date: '1997-04-29'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

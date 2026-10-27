@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2101 - 2110
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13300/21012110.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-10-01'
+entry_into_force:
+  date: '1983-10-01'
+  rule: no 1.º dia do 4.º mês posterior ao da publicação da portaria do Ministro dos Assuntos Sociais a que se referem os
+    artigos 9.º, 29.º, 38.º, 39.º, 40.º, 49.º e 52.º
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

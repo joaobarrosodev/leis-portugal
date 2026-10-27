@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2740 - 2741
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/130b00/27402741.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-07-05'
+entry_into_force:
+  date: '1992-07-05'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

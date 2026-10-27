@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2302 - 2302
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/10200/0230202302.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-01'
+entry_into_force:
+  date: '2018-06-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

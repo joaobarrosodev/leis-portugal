@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1460 - 1462
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/065b00/14601462.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-02-01'
+entry_into_force:
+  date: '1995-02-01'
+  rule: no dia 1 de Fevereiro de 1995
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

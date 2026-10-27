@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1807 - 1808
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09900/18071808.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-05-01'
+entry_into_force:
+  date: '1987-05-01'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: a partir da data da entrada em vigor do Decreto-Lei n.º 88/87, de 26 de Fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 865 - 876
   pdf_url: https://files.diariodarepublica.pt/1s/1960/04/08000/08650876.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em relação a esses Governos
+  method: clausula
+  article: art-xii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

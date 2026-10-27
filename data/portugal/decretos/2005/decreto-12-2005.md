@@ -24,6 +24,16 @@ publication:
   pages: 4190 - 4197
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/130a00/41904197.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da segunda das notificações, por via diplomática, pelas quais as Partes se informam da conclusão
+    dos seus procedimentos de direito interno necessários para a entrada em vigor do Ac
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

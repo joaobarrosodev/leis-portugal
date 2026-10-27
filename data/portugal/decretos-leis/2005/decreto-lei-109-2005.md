@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4187 - 4188
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/130a00/41874188.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-07-09'
+entry_into_force:
+  date: '2005-07-09'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2005-03-09'
+  effects_rule: a partir de 9 de Março de 2005
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7959 - 7960
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/264b00/79597960.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-11-13'
+entry_into_force:
+  date: '1999-11-13'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

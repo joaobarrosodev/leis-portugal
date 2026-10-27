@@ -25,6 +25,16 @@ publication:
   pages: 3879 - 3883
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/148a00/38793883.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 3.º mês seguinte ao depósito dos instrumentos de ratificação, aceitação ou aprovação pelo último Estado
+    membro a cumprir esta formalidade
+  method: clausula
+  article: art-3
+  effects_date: '2000-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

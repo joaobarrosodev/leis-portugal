@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 477 - 478
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/01700/0047700478.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-23'
+entry_into_force:
+  date: '2013-02-23'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

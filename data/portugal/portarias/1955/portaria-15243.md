@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1955/02/03000/01010102.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:633359:por#n-30'
+    detail: 30.º Fica revogada a [Portaria n.º 15243], de 8 de Fevereiro de 1955.
 notes: []
 language: por
 version:

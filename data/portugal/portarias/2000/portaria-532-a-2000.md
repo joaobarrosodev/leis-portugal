@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3680-(2) a 3680-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/175b01/00020007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-08-01'
+entry_into_force:
+  date: '2000-08-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

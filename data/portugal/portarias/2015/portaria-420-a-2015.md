@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 10010-(6) a 10010-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/25502/0000600009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-01'
+entry_into_force:
+  date: '2016-01-01'
+  rule: em 1 de janeiro de 2016 e aplica-se na avaliação dos prédios urbanos cujas declarações modelo n.º 1, a que se referem
+    os artigos 13.º e 37.º do CIMI, sejam entregues a partir dessa data
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

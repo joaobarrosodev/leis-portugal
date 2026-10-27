@@ -24,9 +24,25 @@ publication:
   supplement: null
   pages: 11010 - 11013
   pdf_url: https://files.diariodarepublica.pt/2s/2007/04/082000000/1101011013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-04-27'
+entry_into_force:
+  date: '2007-04-27'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:2628632:por#art-14'
+    detail: 1 - É revogado o [Aviso do Banco de Portugal n.º 6/2007], de 18 de Abril.
 notes: []
 language: por
 version:

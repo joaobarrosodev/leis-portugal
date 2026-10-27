@@ -25,6 +25,16 @@ publication:
   pages: 7422 - 7440
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/274a00/74227440.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 60.º dia a contar da data de depósito do 30.º instrumento de ratificação, aceitação, aprovação ou adesão junto
+    do depositário, entre os Estados que depositaram tal instrumento
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: 60 dias a contar da data de depósito do instrumento de ratificação, aceitação, aprovação ou adesão
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

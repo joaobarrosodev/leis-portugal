@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 26081 - 26081
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/158000000/2608126081.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-20'
+entry_into_force:
+  date: '2013-08-20'
+  rule: no dia seguinte ao da data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '2013-09-30'
+  effects_rule: a 30 de setembro de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

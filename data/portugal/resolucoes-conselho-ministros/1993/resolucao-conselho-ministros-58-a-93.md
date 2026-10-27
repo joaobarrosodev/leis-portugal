@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 5732-(2) a 5732-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/239b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-10-13'
+entry_into_force:
+  date: '1993-10-13'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

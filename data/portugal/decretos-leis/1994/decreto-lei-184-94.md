@@ -23,6 +23,15 @@ publication:
   pages: 3471 - 3480
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/150a00/34713480.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data do seu regulamento de execução
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

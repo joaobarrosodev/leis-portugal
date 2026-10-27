@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1158 - 1163
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/053b00/11581163.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-04-01'
+entry_into_force:
+  date: '1992-04-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

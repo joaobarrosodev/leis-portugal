@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1922/11/24100/13541354.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:644333:por#art-56'
+    detail: São revogados, na província ultramarina de S. Tomé e Príncipe, a [Portaria n.º 19543], de 4 de Dezembro de 1962,
+      o [Decreto n.º 41486], de 30 de Dezembro de 1957, e a [Portaria n.º 3382], de 30 de Maio de 1963, do Governo da província
+      de S. Tomé e Príncipe.
 notes: []
 language: por
 version:

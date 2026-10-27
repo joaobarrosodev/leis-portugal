@@ -24,6 +24,16 @@ publication:
   pages: 1349 - 1351
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/065b00/13491351.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de assinado pelas entidades outorgantes e homologado pelo Ministro do Emprego e da Segurança Social ou por
+    quem tiver competência por ele delegada
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

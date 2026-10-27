@@ -24,6 +24,15 @@ publication:
   pages: 2106 - 2109
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/12100/21062109.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de assinado pelas entidades outorgantes e homologado pelo Ministro do Trabalho e Segurança Social
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

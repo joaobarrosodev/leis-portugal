@@ -23,6 +23,16 @@ publication:
   pages: 2850 - 2852
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/24800/28502852.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a notificação recíproca do cumprimento das formalidades constitucionais de ambos os países, acordando as Partes
+    Contratantes na sua aplicação provisória a partir da data da assinatura
+  method: clausula
+  article: art-xii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

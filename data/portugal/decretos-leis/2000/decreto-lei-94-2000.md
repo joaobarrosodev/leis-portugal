@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2284 - 2285
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/119a00/22842285.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-24'
+entry_into_force:
+  date: '2000-05-24'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

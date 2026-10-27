@@ -24,6 +24,15 @@ publication:
   pages: 3001 - 3003
   pdf_url: https://files.diariodarepublica.pt/1s/1984/09/22600/30013003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da troca das respectivas notas de ratificação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

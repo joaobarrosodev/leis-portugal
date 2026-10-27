@@ -23,6 +23,15 @@ publication:
   pages: 3158 - 3159
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/17600/0315803159.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação pela Comissão Permanente
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []
