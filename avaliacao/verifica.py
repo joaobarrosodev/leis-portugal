@@ -8,7 +8,8 @@
   artigo distrator; nas compostas vão todos os artigos; nas de texto alterado vai o artigo
   original e as passagens dos diplomas que o DRE regista como alteradores.
 - `compara --respostas F`: compara as respostas da sessão B com as da sessão A e lista as
-  que não batem, para uma terceira revisão.
+  que não batem, para uma terceira revisão. Nas `premissa_errada`, os números da premissa
+  falsa não contam (a resposta de A repete-os para os corrigir).
 
 Formato das respostas da sessão B (uma por linha): `{"id", "responde": bool, "resposta",
 "excerto", "ambigua": bool, "depende_de_outro": bool, "premissa_errada": bool,
@@ -128,7 +129,7 @@ def literal(perguntas: list[dict]) -> int:
                     problemas.append(f"artigo {fonte['artigo']} não encontrado em {fonte['caminho']}")
                 elif not excerto or normalizar(excerto) not in normalizar(texto):
                     problemas.append(f"o excerto não está no texto do artigo {fonte['artigo']}")
-            em_falta = numeros(pergunta["resposta"]) - numeros(" ".join(excertos(pergunta)))
+            em_falta = numeros(pergunta["resposta"]) - numeros(" ".join(excertos(pergunta))) - numeros(pergunta.get("premissa", ""))
             if pergunta["tipo"] not in ("revogada", "texto_alterado") and em_falta:
                 problemas.append(f"números da resposta fora do excerto: {sorted(em_falta)}")
             if pergunta["tipo"] == "texto_alterado" and em_falta - numeros(" ".join(a["titulo"] for a in pergunta.get("alteradores", []))):
@@ -217,9 +218,10 @@ def compara(perguntas: list[dict], respostas: Path) -> int:
             if "revog" not in (b.get("resposta") or "").lower():
                 rever.append((pergunta["id"], "B não indicou que o diploma está revogado"))
             continue
-        if numeros(pergunta["resposta"]) - numeros(b.get("resposta")):
+        esperados = numeros(pergunta["resposta"]) - numeros(pergunta.get("premissa", ""))
+        if esperados - numeros(b.get("resposta")):
             rever.append((pergunta["id"], f"números diferentes: A={pergunta['resposta']!r} B={b.get('resposta')!r}"))
-        elif not numeros(pergunta["resposta"]) and not mesmo_sentido(pergunta["resposta"], b.get("resposta")):
+        elif not esperados and not mesmo_sentido(pergunta["resposta"], b.get("resposta")):
             rever.append((pergunta["id"], f"comparar o sentido: A={pergunta['resposta']!r} B={b.get('resposta')!r}"))
     for ident, motivo in rever:
         print(f"{ident}: {motivo}")
