@@ -173,6 +173,75 @@
       },
       "uniqueItems": true
     },
+    "entry_into_force": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "description": "Entrada em vigor lida no texto (leis-portugal structure). Sem este campo, a data não foi extraída.",
+      "properties": {
+        "date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date",
+          "description": "Data de entrada em vigor do diploma, quando se calcula."
+        },
+        "rule": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "A regra, como está no texto (ou a regra supletiva)."
+        },
+        "method": {
+          "type": "string",
+          "enum": [
+            "clausula",
+            "supletiva",
+            "sem_clausula"
+          ],
+          "description": "clausula: lida no texto; supletiva: 5.º dia após a publicação (Lei n.º 74/98, art. 2.º, n.º 2); sem_clausula: nem uma nem outra."
+        },
+        "article": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Âncora do artigo com a cláusula (p. ex. art-14)."
+        },
+        "effects_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date",
+          "description": "Início da produção de efeitos, quando difere da entrada em vigor."
+        },
+        "effects_rule": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "end_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date",
+          "description": "Fim de vigência fixado no próprio texto (\"vigora até…\")."
+        },
+        "end_rule": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
     "end_of_validity_date": {
       "type": [
         "string",
@@ -188,6 +257,62 @@
         "repealed",
         "unknown"
       ]
+    },
+    "legal_status_basis": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "description": "Proveniência de legal_status quando não vem do campo Vigencia do DRE (leis-portugal structure).",
+      "required": [
+        "source",
+        "evidence"
+      ],
+      "properties": {
+        "source": {
+          "type": "string",
+          "enum": [
+            "dre",
+            "norma_revogatoria",
+            "relacao_dre",
+            "clausula_vigencia"
+          ]
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "status",
+              "provenance"
+            ],
+            "properties": {
+              "status": {
+                "type": "string",
+                "enum": [
+                  "repealed",
+                  "partially_repealed",
+                  "not_in_force",
+                  "unclear"
+                ]
+              },
+              "provenance": {
+                "type": "string",
+                "minLength": 1,
+                "description": "P. ex. \"norma revogatória: pt:dre:123968666:por#art-18\" ou \"DRE repealed_by: pt:dre:497855:por\"."
+              },
+              "detail": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        }
+      }
     },
     "notes": {
       "type": "array",
@@ -568,6 +693,35 @@
             "string",
             "null"
           ]
+        },
+        "unit": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "artigos",
+            "numeros",
+            "so_anexos",
+            "nenhum",
+            null
+          ],
+          "description": "Unidades identificadas no diploma: artigos (ou bases, cláusulas), só números do dispositivo, artigos só nos anexos, ou nenhuma."
+        },
+        "annex_count": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0,
+          "description": "Anexos com artigos."
+        },
+        "id_scheme": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Esquema dos ids por artigo (leis-portugal/artigos/1: <id>#<parte>/<artigo>, p. ex. pt:dre:602073:por#anexo-codigo-do-trabalho/art-3)."
         }
       }
     },
