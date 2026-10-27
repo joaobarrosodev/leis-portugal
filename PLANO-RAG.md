@@ -4,7 +4,7 @@
 
 ## Resumo
 
-O objetivo é um RAG sobre o acervo Leis de Portugal em que pelo menos 95% das respostas dadas estejam certas, com meta de 99% ou mais. Hoje o acervo não chega lá: só 4.722 diplomas em vigor têm o texto atual garantido (consolidado), e 23.417 diplomas em vigor foram alterados mas no acervo só têm o texto original.
+O objetivo é um RAG sobre o acervo Leis de Portugal em que pelo menos 95% das respostas dadas estejam certas, com meta de 99% ou mais. Hoje o acervo não chega lá: só 4.728 diplomas em vigor têm o texto atual garantido, e 27.086 diplomas em vigor foram alterados mas no acervo só têm o texto original.
 
 O trabalho pesado não é o modelo: é o texto em vigor, a estrutura por artigo e a vigência. Isso faz-se no repositório, antes de afinar a pesquisa ou o modelo.
 
@@ -26,17 +26,18 @@ Três regras acompanham a meta:
 
 ## Onde estamos
 
-Dos 137.174 diplomas portugueses e regionais em vigor, só 4.722 (3%) têm o texto atual garantido. Os números vêm do export de 26/10/2026 (281.658 registos de legislação portuguesa e regional; o acervo tem hoje 340.370 registos no total, incluindo 35.578 atos da UE).
+Dos 141.358 diplomas portugueses e regionais em vigor, só 4.728 (3%) têm o texto atual garantido. Os números vêm do export de 26/10/2026 (281.658 registos de legislação portuguesa e regional; o acervo tem 340.370 registos no total, incluindo 35.578 atos da UE).
 
 | Situação | Diplomas | Com texto | Só PDF | Só metadados | O RAG responderia |
 | --- | --: | --: | --: | --: | --- |
-| Em vigor, consolidado (texto atual garantido) | 4.722 | 4.722 | 0 | 0 | Certo |
-| Em vigor, nunca alterado (o original é o texto atual) | 109.035 | 81.591 | 8.343 | 19.101 | Certo, se as relações não tiverem falhas |
-| Em vigor, alterado sem consolidação | 23.417 | 21.569 | 1.471 | 377 | Errado: lê o texto original, já desatualizado |
-| Vigência desconhecida | 108.882 | 51.959 | 55.912 | 1.011 | Não sabe se está em vigor |
-| Revogado ou sem vigência | 35.602 | 29.180 | 2.883 | 3.539 | Só serve perguntas históricas |
+| Em vigor, consolidado (texto atual garantido) | 4.726 | 4.726 | 0 | 0 | Certo |
+| Em vigor, texto atual no consolidado que o republicou (Códigos do IRS e do IRC) | 2 | 2 | 0 | 0 | Certo, seguindo a ligação `republished_by` |
+| Em vigor, nunca alterado (o original é o texto atual) | 109.544 | 81.718 | 8.694 | 19.132 | Certo, se as relações não tiverem falhas |
+| Em vigor, alterado sem consolidação | 27.086 | 24.812 | 1.872 | 402 | Errado: lê o texto original, já desatualizado |
+| Vigência desconhecida | 109.044 | 52.085 | 55.948 | 1.011 | Não sabe se está em vigor |
+| Revogado ou sem vigência | 31.256 | 25.678 | 2.095 | 3.483 | Só serve perguntas históricas |
 
-"Em vigor" junta o que o DRE indica como em vigor ou parcialmente em vigor e que não tem relação de revogação no acervo. Os artigos só estão identificados em ~35 mil dos 282 mil diplomas.
+"Em vigor" é o que o DRE indica como em vigor ou parcialmente em vigor, mesmo com revogações parciais (uma versão anterior deste plano contava esses como revogados e subestimava os alterados em cerca de 3.700). Os artigos só estão identificados em ~35 mil dos 282 mil diplomas.
 
 ## O que bloqueia
 
@@ -44,25 +45,27 @@ Quatro lacunas nos dados impedem os 95%; a primeira é a maior.
 
 | Lacuna | Dimensão | Porque bloqueia |
 | --- | --: | --- |
-| Alterados sem consolidação | 23.417 diplomas em vigor (1.672 com 10 ou mais citações no acervo) | O sistema cita texto que já não é lei |
+| Alterados sem consolidação | 27.086 diplomas em vigor (2.139 com 10 ou mais citações no acervo) | O sistema cita texto que já não é lei |
 | Sem identificadores por artigo | ~247 mil de 282 mil diplomas | Sem artigo não há citação precisa nem verificação |
-| Vigência desconhecida | 108.882 diplomas | Não se sabe se a norma ainda se aplica |
+| Vigência desconhecida | 109.044 diplomas | Não se sabe se a norma ainda se aplica |
 | Datas de entrada em vigor | Vazias em todos os diplomas portugueses | Perguntas sobre uma data concreta não têm resposta fiável |
 
 Há ainda ~70 mil registos só com PDF (sobretudo 1910–1959) e as relações de alteração podem ter falhas: um diploma "nunca alterado" só o é se o DRE tiver registado todas as alterações.
 
 ## Texto em vigor: o que a medição mostrou
 
-As republicações quase não resolvem o problema: só 61 dos 23.417 diplomas em vigor alterados sem consolidação têm uma republicação no acervo, e só 37 delas dão o texto atual completo. Os diplomas republicados são quase sempre os que o DRE já consolida (772 dos 1.204 encontrados). Medido em 27/10/2026 sobre o export de 26/10.
+As republicações quase não resolvem o problema: só 100 dos 27.086 diplomas em vigor alterados sem consolidação têm uma republicação no acervo, e só 56 delas dão o texto atual completo. Os diplomas republicados são quase sempre os que o DRE já consolida (772 dos 1.204 encontrados). Medido em 27/10/2026 sobre o export de 26/10.
+
+Há um caso à parte, com poucos diplomas mas muito peso: o DRE consolida alguns códigos sob o diploma que os republicou, e não sob o que os aprovou. O Código do IRS está consolidado sob a Lei n.º 82-E/2014, o do IRC sob a Lei n.º 2/2014 e o Código da Estrada sob a Lei n.º 72/2013. O texto atual estava no acervo, mas o registo do diploma original só tinha o texto de origem. Desde 27/10 o `leis-portugal link` liga os 11 casos (`republished_by` no original, `republishes` no consolidado).
 
 | Alterações por diploma | Diplomas | % |
 | --- | --: | --: |
-| 1 | 15.125 | 65% |
-| 2 a 4 | 6.996 | 30% |
-| 5 a 9 | 965 | 4% |
-| 10 ou mais | 331 | 1% |
+| 1 | 17.182 | 63% |
+| 2 a 4 | 8.170 | 30% |
+| 5 a 9 | 1.247 | 5% |
+| 10 ou mais | 487 | 2% |
 
-São sobretudo diplomas antigos e menores: 57% são portarias e só 154 são de 2015 ou depois. Os que pesam nas perguntas são os 1.468 com 10 ou mais citações no acervo. A fase 2 passa por isso a assentar em aplicar as alterações, a começar por esses; em 65% dos casos é uma só alteração.
+São sobretudo diplomas antigos e menores: 54% são portarias e só 186 são de 2015 ou depois. Os que pesam nas perguntas são os 2.139 com 10 ou mais citações no acervo (671 deles com uma só alteração). A fase 2 passa por isso a assentar em aplicar as alterações, a começar por esses; em 63% dos casos é uma só alteração.
 
 ## Plano por fases
 
@@ -83,8 +86,8 @@ A fase 2 é a que mais aumenta a fiabilidade; o detalhe de cada fase segue abaix
    - Incluir armadilhas: normas revogadas, alterações recentes e perguntas sem resposta.
    - Medir o ponto de partida.
 2. **Fase 2: texto em vigor**
-   - Usar as republicações onde existem (61 diplomas; 37 ficam com o texto atual completo). São uma fonte auxiliar, não a principal.
-   - Consolidar os 1.468 diplomas em vigor alterados com 10 ou mais citações: aplicar as alterações com ajuda de um LLM, a começar pelos que têm uma só alteração, verificar artigo a artigo e rever à mão os mais importantes.
+   - Usar as republicações onde existem (100 diplomas; 56 ficam com o texto atual completo). São uma fonte auxiliar, não a principal.
+   - Consolidar os 2.139 diplomas em vigor alterados com 10 ou mais citações: aplicar as alterações com ajuda de um LLM, a começar pelos que têm uma só alteração, verificar artigo a artigo e rever à mão os mais importantes.
    - Nos restantes, avisar sempre "texto original; alterado por X e Y" e juntar os artigos que alteram, ou não responder.
 3. **Fase 3: estrutura, vigência e datas**
    - Identificadores e partição por artigo em todos os diplomas com texto.
@@ -143,7 +146,7 @@ Estes valores são estimativas, não medições. O primeiro número real sai da 
 
 - [ ] Gerar o conjunto de avaliação (sessão A) e verificá-lo às cegas com outro modelo (sessão B)
 - [ ] Escolher o método para aplicar alterações e testá-lo nos diplomas citados com uma só alteração
-- [ ] Listar os 1.468 diplomas em vigor alterados com 10 ou mais citações e escolher os primeiros a consolidar
+- [ ] Listar os 2.139 diplomas em vigor alterados com 10 ou mais citações e escolher os primeiros a consolidar
 - [ ] Construir o parser por artigo e os identificadores estáveis
 - [ ] Extrair as datas de entrada em vigor e resolver a vigência dos desconhecidos
 

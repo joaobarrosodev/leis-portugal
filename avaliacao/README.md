@@ -43,7 +43,7 @@ Verificado em 27/10/2026:
 
 Como não é claro que se possam publicar, as perguntas reais ficam em `privado/` (no `.gitignore`) e servem só para avaliar. As perguntas foram reescritas por palavras nossas e a resposta vem do artigo que a FAQ cita, não do texto da FAQ; o URL da FAQ fica em `notas`. As FAQs da ACT citam os artigos por tema ("artigos 237.º a 247.º"); a `fonte` é o artigo desse conjunto que responde à pergunta.
 
-Das FAQs do Portal das Finanças, só serviram as que citam códigos que o acervo tem em versão atual. O Código do IRS e o Código do IRC só existem na versão original de 1988 (Decretos-Leis n.os 442-A/88 e 442-B/88, sem consolidação), por isso as FAQs de IRS e IRC ficaram de fora. É uma lacuna do acervo, não só do conjunto: um RAG sobre estes dados não sabe responder a perguntas de IRS.
+Das FAQs do Portal das Finanças, só serviram as que citam códigos que se encontraram em versão atual no acervo. As de IRS e IRC ficaram de fora porque os registos dos Decretos-Leis n.os 442-A/88 e 442-B/88 só têm o texto de 1988. Corrigido em 27/10/2026: o texto atual destes códigos está no acervo, mas no consolidado do diploma que os republicou (o Código do IRS na Lei n.º 82-E/2014, o do IRC na Lei n.º 2/2014), e o `leis-portugal link` passou a ligar os originais a esses registos (`republished_by`). As FAQs de IRS e IRC podem entrar numa próxima versão do conjunto.
 
 ## Resultado do conjunto completo (27/10/2026)
 
@@ -175,5 +175,5 @@ Precisam do ambiente do projeto (`pip install -e .`) e de `exports/leis-portugal
 
 - Perguntas geradas a partir de um artigo são mais fáceis do que as reais, porque usam as mesmas palavras. Cada tipo é medido e mostrado em separado.
 - A amostra usa o estado de vigência que o DRE indica. Alguns diplomas "em vigor" já caducaram na prática (por exemplo, os que vigoravam só até uma data); na geração estes ficam de fora.
-- As perguntas reais não se publicam (ver acima). Vêm de duas entidades e sobretudo do Código do Trabalho e dos códigos fiscais; não cobrem IRS nem IRC.
+- As perguntas reais não se publicam (ver acima). Vêm de duas entidades e sobretudo do Código do Trabalho e dos códigos fiscais; ainda não cobrem IRS nem IRC (ver acima).
 - Em alguns registos a numeração dos artigos repete-se sem cabeçalho `## Anexo` (por exemplo, a Portaria n.º 1532/2008 e o Decreto-Lei n.º 63/2020). Aí a chave `4.º` é ambígua e `comum.artigo` devolve o primeiro artigo com esse número; as duas perguntas afetadas saíram do conjunto.
