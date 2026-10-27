@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 4.º — [...]\n\n1 - O preço de venda do fogo é o correspondente ao seu valor actualizado, calculado nos termos do artigo 5.º, sem prejuízo do disposto nos números seguintes.\n\n2 - O preço de venda do fogo pode ser objecto de uma dedução em função do pagamento integral ou do pagamento de uma entrada inicial, de acordo com tabela a aprovar por portaria conjunta dos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.\n\n3 - O preço de venda dos fogos devolutos vendidos ao abrigo do n.º 11 do artigo 8.º é fixado nos mesmos termos e condições dos fogos arrendados.\n\n4 - O preço de venda de fogos do IGAPHE, cuja construção foi comparticipada pela Fundação Calouste Gulbenkian, pode ser objecto de uma redução de 50%, não havendo neste caso direito à dedução prevista no n.º 2.\n\n5 - O preço de venda do fogo é arredondado para o milhar de escudos superior e mantém-se inalterável pelo prazo de um ano a contar da data de aceitação da proposta de venda, findo o qual pode ser actualizado.",
+    "depois": "###### Artigo 4.º — [...]\n\n1 - O preço de venda do fogo é o correspondente ao seu valor actualizado, calculado nos termos do artigo 5.º, sem prejuízo do disposto nos números seguintes.\n\n2 - O preço de venda do fogo pode ser objecto de uma dedução em função do pagamento integral ou do pagamento de uma entrada inicial, de acordo com tabela a aprovar por portaria conjunta dos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.\n\n3 - A alienação de fogos sujeitos ao ónus do Decreto-Lei n.º 608/73, de 14 de Novembro, e o ónus da renda económica cessam automaticamente decorridos cinco anos após a realização do contrato de aquisição do imóvel.\n\n4 - O preço de venda de fogos do IGAPHE, cuja construção foi comparticipada pela Fundação Calouste Gulbenkian, pode ser objecto de uma redução de 50%, não havendo neste caso direito à dedução prevista no n.º 2.\n\n5 - O preço de venda do fogo é arredondado para o milhar de escudos superior e mantém-se inalterável pelo prazo de um ano a contar da data de aceitação da proposta de venda, findo o qual pode ser actualizado.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.",
+    "excerto": "O artigo 4.º do Decreto-Lei n.º 288/93, de 20 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\n1 - ...\n\n2 - ...\n\n3 - A alienação de fogos sujeitos ao ónus do Decreto-Lei n.º 608/73, de 14 de Novembro, e o ónus da renda económica cessam automaticamente decorridos cinco anos após a realização do contrato de aquisição do imóvel.\n\n4 - ...\n\n5 - ...»",
+    "artigo_alterador": "14.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:324488:por",
+    "alterador": "pt:dre:456492:por"
+  }
+]

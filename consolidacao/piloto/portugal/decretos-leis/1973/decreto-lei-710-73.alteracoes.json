@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 6.º\n\n1. Ao serem promovidos a oficiais, os militares referidos no artigo 4.º deste diploma terão direito ao vencimento correspondente ao posto a que ascendem, acrescido da quantia necessária para perfazer a importância que antes venciam, quando superior, e mais o equivalente a uma diuturnidade de valor igual ao das que vinham percebendo.\n\n2. O disposto no número anterior aplica-se na promoção a alferes ou subtenente e a tenente ou segundo-tenente, não podendo, no entanto, o vencimento resultante exceder o limite de 95% do vencimento correspondente ao posto de capitão ou primeiro-tenente.",
+    "depois": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 69/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1976-506831), publicado em 1976-01-26.",
+    "excerto": "2. É revogado o artigo 6.º do Decreto-Lei n.º 710/73, de 31 de Dezembro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:407941:por",
+    "alterador": "pt:dre:506831:por"
+  }
+]

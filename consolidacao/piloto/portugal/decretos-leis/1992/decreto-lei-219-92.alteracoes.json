@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 12.º — Provimento dos assistentes de investigação\n\n1 - Os assistentes de investigação são providos por contrato sexenal, prorrogável por um biénio.\n\n2 - A prorrogação só pode ser autorizada mediante proposta fundamentada do organismo de investigação, ouvido o orientador, desde que o assistente de investigação tenha em fase adiantada de realização o trabalho de investigação conducente à prestação das provas referidas no artigo 17.º\n\n3 - Requeridas as provas mencionadas no n.º 2 do artigo 17.º, o contrato é prorrogado até à realização das mesmas.\n\n4 - Obtida aprovação nas provas mencionadas no n.º 2 do artigo 17.º, os assistentes de investigação são imediatamente providos na categoria de investigador auxiliar, ficando providos em lugares supranumerários, caso não haja lugar no quadro.",
+    "depois": "###### Artigo 12.º — Provimento dos assistentes de investigação\n\n1 - Os assistentes de investigação são providos por contrato sexenal, prorrogável por um biénio.\n\n2 - A prorrogação só pode ser autorizada mediante proposta fundamentada do organismo de investigação, ouvido o orientador, desde que o assistente de investigação tenha em fase adiantada de realização o trabalho de investigação conducente à prestação das provas referidas no artigo 17.º\n\n3 - Requeridas as provas mencionadas no n.º 2 do artigo 17.º, o contrato é prorrogado até à realização das mesmas.\n\n4 - Obtida a aprovação nas provas mencionadas no n.º 2 do artigo 17.º ou obtido o doutoramento em área científica adequada, os assistentes de investigação são imediatamente providos na categoria de investigador auxiliar, ficando providos em lugares supranumerários, caso não haja lugar no quadro.\n\n> Alterado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), publicado em 1999-04-20.",
+    "excerto": "3 - O n.º 4 do artigo 12.º do Decreto-Lei n.º 219/92, de 15 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 12.º\n\nProvimento dos assistentes de investigação\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Obtida a aprovação nas provas mencionadas no n.º 2 do artigo 17.º ou obtido o doutoramento em área científica adequada, os assistentes de investigação são imediatamente providos na categoria de investigador auxiliar, ficando providos em lugares supranumerários, caso não haja lugar no quadro.»",
+    "artigo_alterador": "62.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226629:por",
+    "alterador": "pt:dre:534996:por"
+  }
+]

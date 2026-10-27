@@ -1,0 +1,33 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 3.º — Posse do bilhete de identidade\n\n1 - A posse do bilhete de identidade é obrigatória quando imposta por lei especial e ainda nos seguintes casos:\n\na) Para exercício de cargo público civil e admissão ao respectivo concurso;\n\nb) Para obtenção de passaportes, salvo os diplomáticos e especiais;\n\nc) Para obtenção de carta de caçador ou licença de caça ou licença de uso ou porte de arma;\n\nd) Para obtenção de carta ou licença de condução de veículos motorizados ou aeronaves;\n\ne) Para os obrigados a declarações fiscais ou sujeitos ao pagamento de contribuições e impostos;\n\nf) Para os nubentes, nos termos previstos na lei do registo civil;\n\ng) Para exame de admissão e matrícula em escola de ensino preparatório, secundário, médio ou superior;\n\nh) Para estrangeiros com residência habitual em Portugal há mais de seis meses.\n\n2 - Quando os funcionários públicos não puderem obter o bilhete de identidade antes da investidura no cargo, esta ser-lhes-á conferida provisoriamente, cumprindo aos interessados apresentá-lo no prazo de 60 dias para que se converta em definitiva.\n\n3 - No caso de o bilhete de identidade não ser apresentado dentro do prazo indicado no número anterior, a investidura provisória considera-se sem efeito.\n\n4 - A não apresentação do bilhete de identidade não impede a matrícula a que se refere a alínea g) do n.º 1, com carácter provisório, e fica sem efeito se o interessado não apresentar o bilhete na secretaria da escola dentro do prazo de 60 dias.",
+    "depois": "###### Artigo 3.º — Posse do bilhete de identidade\n\n1 - A posse do bilhete de identidade é obrigatória quando imposta por lei especial e ainda nos seguintes casos:\n\na) Para exercício de cargo público civil e admissão ao respectivo concurso;\n\nb) Para obtenção de passaportes, salvo os diplomáticos e especiais;\n\nc) Para obtenção de carta de caçador ou licença de caça ou licença de uso ou porte de arma;\n\nd) Para obtenção de carta ou licença de condução de veículos motorizados ou aeronaves;\n\ne) Para os obrigados a declarações fiscais ou sujeitos ao pagamento de contribuições e impostos;\n\nf) Para os nubentes, nos termos previstos na lei do registo civil;\n\ng) Para exame de admissão e matrícula em escola de ensino preparatório, secundário, médio ou superior;\n\nh) (Revogada.)\n\n2 - Quando os funcionários públicos não puderem obter o bilhete de identidade antes da investidura no cargo, esta ser-lhes-á conferida provisoriamente, cumprindo aos interessados apresentá-lo no prazo de 60 dias para que se converta em definitiva.\n\n3 - No caso de o bilhete de identidade não ser apresentado dentro do prazo indicado no número anterior, a investidura provisória considera-se sem efeito.\n\n4 - A não apresentação do bilhete de identidade não impede a matrícula a que se refere a alínea g) do n.º 1, com carácter provisório, e fica sem efeito se o interessado não apresentar o bilhete na secretaria da escola dentro do prazo de 60 dias.\n\n> Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10.",
+    "excerto": "São revogados:\n\ne) A alínea h) do n.º 1 do artigo 3.º e o artigo 7.º da Lei n.º 12/91, de 21 de Maio;",
+    "artigo_alterador": "162.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "1",
+      "h"
+    ],
+    "diploma": "pt:dre:640075:por",
+    "alterador": "pt:dre:239249:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 7.º — Bilhete de identidade de estrangeiros\n\nOs cidadãos estrangeiros, de nacionalidade desconhecida, ou apátridas, não podem requerer bilhete de identidade se residirem há menos de seis meses em território português, salvo se, por força do artigo 3.º ou de lei especial, for obrigatória a sua posse.",
+    "depois": "###### Artigo 7.º — Bilhete de identidade de estrangeiros\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10.",
+    "excerto": "São revogados:\n\ne) A alínea h) do n.º 1 do artigo 3.º e o artigo 7.º da Lei n.º 12/91, de 21 de Maio;",
+    "artigo_alterador": "162.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:640075:por",
+    "alterador": "pt:dre:239249:por"
+  }
+]

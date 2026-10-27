@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º — Natureza\n\nÀs OI de âmbito nacional que forem reconhecidas nos termos da presente lei e legislação complementar é atribuído o estatuto de pessoa colectiva de direito privado e utilidade pública.",
+    "depois": "###### Artigo 2.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), publicado em 2021-06-14.",
+    "excerto": "São revogados:\n\nb) O artigo 2.º da Lei n.º 123/97, de 13 de novembro;",
+    "artigo_alterador": "19.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687460:por",
+    "alterador": "pt:dre:165036155:por"
+  }
+]

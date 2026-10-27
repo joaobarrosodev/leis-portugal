@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 1.º\n\n1 - O Estatuto dos Deputados ao Parlamento Europeu designados por Portugal é regulado pelas disposições comunitárias vigentes e, na medida em que não contrarie aquelas e em que seja compatível com a natureza do Parlamento Europeu, pela [Lei n.º 3/85](https://diariodarepublica.pt/dr/detalhe/lei/3-1985-326893), de 13 de Março, com as necessárias adaptações, designadamente pelas disposições dos artigos 12.º, 13.º, n.os 3, 4 e 5, 14.º, 15.º, n.os 1, 2, 3 e 7, 16.º, 17.º, 18.º e 19.º\n\n2 - Aplicam-se aos deputados ao Parlamento Europeu as disposições da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, designadamente os seus artigos 2.º, n.os 2 e 3, 16.º, n.º 1, 19.º, n.º 1, e 20.º\n\n3 - O tempo de exercício do mandato de deputado ao Parlamento Europeu será considerado como tempo de exercício do mandato de deputado à Assembleia da República para efeito da aplicação dos artigos 24.º e seguintes e 31.º da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, desde que o deputado não tenha adquirido direito a qualquer tipo de subvenção equivalente a conceder pelo Parlamento Europeu.\n\n4 - Os deputados ao Parlamento Europeu são considerados titulares de cargos políticos para os efeitos do disposto na [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril.",
+    "depois": "###### Artigo 1.º\n\n1 - O Estatuto dos Deputados ao Parlamento Europeu designados por Portugal é regulado pelas disposições comunitárias vigentes e, na medida em que não contrarie aquelas e em que seja compatível com a natureza do Parlamento Europeu, pela [Lei n.º 3/85](https://diariodarepublica.pt/dr/detalhe/lei/3-1985-326893), de 13 de Março, com as necessárias adaptações, designadamente pelas disposições dos artigos 12.º, 13.º, n.os 3, 4 e 5, 14.º, 15.º, n.os 1, 2, 3 e 7, 16.º, 17.º, 18.º e 19.º\n\n2 - Aplicam-se aos deputados ao Parlamento Europeu as disposições da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, designadamente os seus artigos 2.º, n.os 2 e 3, 16.º, n.º 1, 19.º, n.º 1, e 20.º\n\n3 - (Revogado.)\n\n4 - Os deputados ao Parlamento Europeu são considerados titulares de cargos políticos para os efeitos do disposto na [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), publicado em 2005-10-10.",
+    "excerto": "2 - É revogado o n.º 3 do artigo 1.º da Lei n.º 144/85, de 31 de Dezembro.",
+    "artigo_alterador": "6.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:546431:por",
+    "alterador": "pt:dre:485267:por"
+  }
+]
