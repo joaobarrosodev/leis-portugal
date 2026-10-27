@@ -13,11 +13,69 @@ Só perguntas cuja resposta está **escrita** num artigo: prazos, valores, quem 
 | Fase | Perguntas | Margem de erro a 95% | Para que serve |
 |---|---:|---:|---|
 | **Piloto** (concluído) | 59 | cerca de ±5,5 pontos | Testar o processo: se as perguntas saem boas, se a verificação às cegas funciona e se a comparação apanha os erros |
-| Conjunto completo | ~600 | cerca de ±1,7 pontos | Medir a fiabilidade a sério, por tipo de pergunta |
+| **Conjunto completo** (concluído) | 593 | cerca de ±1,8 pontos | Medir a fiabilidade a sério, por tipo de pergunta |
 
 60 perguntas não chegam para medir: um resultado de 95% tanto pode ser 90% como 100%. Com ~600 já se distingue 93% de 97%.
 
-O piloto tem 30 literais, 12 temporais, 7 revogadas e 10 sem resposta. As perguntas reais (FAQs oficiais) entram no conjunto completo.
+| Tipo | Piloto | Novas | Total | Onde |
+|---|---:|---:|---:|---|
+| Literais | 30 | 220 | 250 | `perguntas.jsonl` |
+| Temporais | 12 | 90 | 102 | `perguntas.jsonl` |
+| Revogadas | 7 | 48 | 55 | `perguntas.jsonl` |
+| Sem resposta | 10 | 40 | 50 | `perguntas.jsonl` |
+| Reais (FAQs oficiais) | — | 136 | 136 | `privado/perguntas-reais.jsonl` (fora do git) |
+| **Total** | **59** | **534** | **593** | |
+
+Os IDs têm falhas onde uma pergunta saiu do conjunto (`rev-004`, `lit-231`, `tmp-067`, `tmp-084`).
+
+As novas foram tiradas com outras sementes de `amostra.py` (20261028 a 20261031), sem repetir diplomas do piloto. Ficaram de fora os diplomas que já caducaram na prática (os que "vigoram até" uma data passada), os anexos de republicação, os artigos só de alteração de outro diploma e os de entrada em vigor.
+
+## FAQs oficiais: termos de reutilização
+
+Verificado em 27/10/2026:
+
+| Fonte | Termos encontrados | Usada |
+|---|---|---|
+| ePortugal (gov.pt) | Os [termos do gov.pt](https://www.gov.pt/termos-e-condicoes) permitem copiar e usar os conteúdos gratuitamente, citando o gov.pt como fonte, desde que o uso não tenha fins lucrativos | Não: as páginas de serviço não têm FAQs que citem artigos |
+| Portal das Finanças (AT) | Não há termos de utilização nem aviso legal publicados (as ligações dão 404 e o rodapé não tem nenhuma) | Sim: 37 perguntas |
+| Segurança Social | O portal passou para a Segurança Social Direta; as páginas de termos e de perguntas frequentes reencaminham para a área de autenticação | Não |
+| ACT | O [portal](https://portal.act.gov.pt/Pages/PerguntasFrequentes.aspx) não tem termos de reutilização visíveis | Sim: 99 perguntas |
+
+Como não é claro que se possam publicar, as perguntas reais ficam em `privado/` (no `.gitignore`) e servem só para avaliar. As perguntas foram reescritas por palavras nossas e a resposta vem do artigo que a FAQ cita, não do texto da FAQ; o URL da FAQ fica em `notas`. As FAQs da ACT citam os artigos por tema ("artigos 237.º a 247.º"); a `fonte` é o artigo desse conjunto que responde à pergunta.
+
+Das FAQs do Portal das Finanças, só serviram as que citam códigos que o acervo tem em versão atual. O Código do IRS e o Código do IRC só existem na versão original de 1988 (Decretos-Leis n.os 442-A/88 e 442-B/88, sem consolidação), por isso as FAQs de IRS e IRC ficaram de fora. É uma lacuna do acervo, não só do conjunto: um RAG sobre estes dados não sabe responder a perguntas de IRS.
+
+## Resultado do conjunto completo (27/10/2026)
+
+As 537 perguntas novas passaram pelo mesmo processo do piloto: verificação literal, verificação às cegas pela sessão B (Sonnet, sem acesso às respostas) e comparação automática. No fim, todas as 593 passam `literal` e `compara`, sem pontos a rever.
+
+| Tipo | Novas na 1.ª ronda | Confirmadas na 1.ª ronda | Assinaladas | Reformuladas | Retiradas | Final |
+|---|---:|---:|---:|---:|---:|---:|
+| Literais | 221 | 204 (92%) | 17 | 3 | 1 | 220 de 220 |
+| Temporais | 92 | 87 (95%) | 5 | 1 | 2 | 90 de 90 |
+| Revogadas | 48 | 46 (96%) | 2 | 0 | 0 | 48 de 48 |
+| Sem resposta | 40 | 40 (100%) | 0 | 0 | 0 | 40 de 40 |
+| Reais | 136 | 113 (83%) | 23 | 7 | 0 | 136 de 136 |
+| **Total** | **537** | **490 (91%)** | **47** | **11** | **3** | **534 de 534** |
+
+Com o piloto, o conjunto final tem 593 perguntas confirmadas: 457 em `perguntas.jsonl` e 136 em `privado/perguntas-reais.jsonl`.
+
+| Ronda | Perguntas | Confirmadas | O que se fez |
+|---|---:|---:|---|
+| 1.ª | 537 | 490 | Revisão dos 47 pontos (abaixo) |
+| 2.ª (reformuladas) | 9 | 7 | B ainda achou ambíguas `real-017` e `real-030`; reformuladas de novo |
+| 3.ª (reformuladas) | 2 | 2 | — |
+
+O que os 47 pontos eram:
+
+- **Respostas iguais por outras palavras:** 21 (por exemplo, A "Não pode exceder três meses", B "Não excederá três meses"). A comparação por palavras não as apanha. Reescreveu-se a resposta de A com as palavras do artigo, sem mudar o sentido, e passaram a confirmar-se automaticamente.
+- **Perguntas que remetem para outro artigo:** 11 (3 públicas e 8 reais), marcadas com `depende_de_outro`. São sobretudo as reais: as FAQs citam um artigo que remete para definições noutro (quem são os sujeitos passivos do artigo 2.º do CIVA, o artigo 366.º do Código do Trabalho, a verba 1.2 da Tabela Geral do Imposto do Selo).
+- **Perguntas ambíguas ou mal formuladas:** 11, reformuladas e verificadas de novo às cegas (`lit-177`, `lit-205`, `lit-244`, `tmp-085`, `real-010`, `real-014`, `real-017`, `real-018`, `real-023`, `real-030`, `real-077`). Exemplo: "Que tarifa fixa a Portaria n.º 41/2020?" admitia o objeto ou o valor.
+- **Perguntas retiradas:** 3. `lit-231` perguntava como são tributadas as rendas e o artigo só remete para um diploma futuro; `tmp-067` e `tmp-084` tinham dois regimes no mesmo artigo e a pergunta não dizia qual.
+- **Respostas de A erradas:** nenhuma. Houve duas incompletas ou a mais: `real-010` listava só os familiares isentos de imposto do selo quando o artigo isenta também o Estado e outras entidades (a pergunta passou a ser só sobre os filhos), e `lit-116` acrescentava um prazo que a pergunta não pedia.
+- **Sem resposta:** B recusou as 40, como no piloto.
+
+As perguntas reais foram as mais difíceis (83% confirmadas à primeira, contra 92% a 100% nas outras), como se esperava: usam palavras do dia a dia ("ato isolado", "faturas pró-forma", "horas extraordinárias") e não as do artigo. É a medição mais próxima do uso real e deve ser mostrada à parte.
 
 ## Resultado do piloto (27/10/2026)
 
@@ -35,7 +93,7 @@ A sessão B (Sonnet, às cegas) chegou às mesmas respostas que a sessão A em t
 - **Comparação:** a primeira versão marcava 34 pontos a rever, quase todos ruído (números escritos de outra forma, respostas iguais por outras palavras). Com as melhorias passou a 7, todos reais.
 - **Amostragem:** os anexos de republicação davam texto histórico em vez do atual; passaram a ser excluídos antes de se escreverem as perguntas.
 
-O processo funciona. O passo seguinte é gerar as restantes ~540 perguntas, incluindo as reais (FAQs oficiais), com o mesmo processo.
+O processo funciona; foi o que se usou no conjunto completo (acima).
 
 ## Tipos de pergunta
 
@@ -45,7 +103,7 @@ O processo funciona. O passo seguinte é gerar as restantes ~540 perguntas, incl
 | `temporal` | `tmp-` | Artigo cuja redação mudou (`.versoes.json`) | O excerto tem de estar no texto do artigo na `data_referencia` (`version-at`) |
 | `revogada` | `rev-` | Artigo de um diploma revogado (relação `repealed_by`) | A resposta certa diz que a norma foi revogada, e por que diploma |
 | `sem_resposta` | `sem-` | Fora do âmbito, lei inexistente ou diploma que não trata do assunto | O certo é "não sei"; a verificação recebe um artigo distrator |
-| `real` | `real-` | FAQs oficiais que citam artigos (por fazer) | O artigo que a entidade cita |
+| `real` | `real-` | FAQs oficiais que citam artigos (Portal das Finanças e ACT), reescritas | O excerto tem de estar no texto atual do artigo que a entidade cita |
 
 ## Processo
 
@@ -62,9 +120,14 @@ O processo funciona. O passo seguinte é gerar as restantes ~540 perguntas, incl
 | Ficheiro | O que é |
 |---|---|
 | `perguntas.jsonl` | O conjunto de avaliação, com as respostas certas (sessão A) |
+| `privado/perguntas-reais.jsonl` | As perguntas reais (FAQs oficiais), fora do git |
 | `verificacao/entrada-piloto.jsonl` | A entrada da sessão B, sem as respostas |
 | `verificacao/respostas-b-piloto.jsonl` | As respostas da sessão B |
 | `verificacao/entrada-piloto-revistas.jsonl`, `respostas-b-piloto-revistas.jsonl` | Segunda ronda às cegas das perguntas reformuladas depois da revisão |
+| `verificacao/entrada-completo.jsonl`, `respostas-b-completo.jsonl` | Entrada e respostas da sessão B para as perguntas novas de `perguntas.jsonl` (1.ª ronda) |
+| `verificacao/entrada-completo-revistas.jsonl`, `respostas-b-completo-revistas.jsonl` | 2.ª ronda, só as reformuladas |
+| `verificacao/respostas-b-final.jsonl` | Todas as respostas de B em vigor (piloto e completo, com as rondas seguintes por cima), uma por pergunta de `perguntas.jsonl` |
+| `privado/entrada-reais*.jsonl`, `privado/respostas-b-reais*.jsonl` | O mesmo para as perguntas reais; `respostas-b-reais-final.jsonl` junta as três rondas |
 | `amostra.py` | Amostragem dos candidatos |
 | `verifica.py` | Verificação literal, entrada às cegas e comparação |
 | `comum.py` | Leitura dos artigos de um registo (partilhada) |
@@ -99,7 +162,12 @@ python avaliacao/amostra.py --saida <pasta>
 cd avaliacao && python verifica.py literal
 cd avaliacao && python verifica.py cegas --saida verificacao/entrada-piloto.jsonl
 cd avaliacao && python verifica.py compara --respostas verificacao/respostas-b-piloto.jsonl
+cd avaliacao && python verifica.py compara --respostas verificacao/respostas-b-final.jsonl
+cd avaliacao && python verifica.py literal --perguntas privado/perguntas-reais.jsonl
+cd avaliacao && python verifica.py compara --perguntas privado/perguntas-reais.jsonl --respostas privado/respostas-b-reais-final.jsonl
 ```
+
+As perguntas reais usam sempre `--perguntas privado/perguntas-reais.jsonl`.
 
 Precisam do ambiente do projeto (`pip install -e .`) e de `exports/leis-portugal.sqlite`.
 
@@ -107,4 +175,5 @@ Precisam do ambiente do projeto (`pip install -e .`) e de `exports/leis-portugal
 
 - Perguntas geradas a partir de um artigo são mais fáceis do que as reais, porque usam as mesmas palavras. Cada tipo é medido e mostrado em separado.
 - A amostra usa o estado de vigência que o DRE indica. Alguns diplomas "em vigor" já caducaram na prática (por exemplo, os que vigoravam só até uma data); na geração estes ficam de fora.
-- Os termos de reutilização das FAQs oficiais ainda têm de ser verificados; no pior caso usam-se só para avaliar e não se publicam.
+- As perguntas reais não se publicam (ver acima). Vêm de duas entidades e sobretudo do Código do Trabalho e dos códigos fiscais; não cobrem IRS nem IRC.
+- Em alguns registos a numeração dos artigos repete-se sem cabeçalho `## Anexo` (por exemplo, a Portaria n.º 1532/2008 e o Decreto-Lei n.º 63/2020). Aí a chave `4.º` é ambígua e `comum.artigo` devolve o primeiro artigo com esse número; as duas perguntas afetadas saíram do conjunto.

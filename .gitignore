@@ -226,3 +226,5 @@ __marimo__/
 exports/
 # Cópia local dos sitemaps do DRE (collect dre --missing / --referenced)
 .cache/
+# Perguntas tiradas de FAQs oficiais sem licença clara de reutilização (ver avaliacao/README.md)
+avaliacao/privado/
