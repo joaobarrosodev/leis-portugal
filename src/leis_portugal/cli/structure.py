@@ -3,22 +3,21 @@
 from __future__ import annotations
 
 import os
-import sys
 from datetime import date
 from pathlib import Path
 
 from leis_portugal.cli.output import acervo, progress
-from leis_portugal.services.structure import run, write_report
+from leis_portugal.services.structure import apply, run, write_report
 
 
 def register(commands) -> None:
     parser = commands.add_parser(
         "structure",
-        help="Artigos com id estável, datas de entrada em vigor e vigência: relatório de cobertura (sem alterar registos).",
+        help="Artigos com id estável, datas de entrada em vigor e vigência: relatório de cobertura e escrita nos registos.",
     )
     parser.add_argument(
         "--dry-run", action="store_true",
-        help="Só medir e escrever o relatório; obrigatório enquanto a escrita nos registos não existir.",
+        help="Só medir e escrever o relatório, sem alterar registos.",
     )
     parser.add_argument("--output", default="reports", help="Pasta do relatório, relativa à raiz (por omissão: reports).")
     parser.add_argument("--workers", type=int, default=max(1, (os.cpu_count() or 2) - 1), help="Processos paralelos (1: sem paralelismo).")
@@ -29,9 +28,6 @@ def register(commands) -> None:
 
 
 def structure_command(args) -> int:
-    if not args.dry_run:
-        print("Por agora só existe o relatório: use `leis-portugal structure --dry-run`.", file=sys.stderr)
-        return 2
     repository = acervo(args)
     output = Path(args.output) if Path(args.output).is_absolute() else repository.root / args.output
     report = run(
@@ -50,4 +46,12 @@ def structure_command(args) -> int:
         print(f"Validação: {current.get('tudo_igual', 0)} de {current.get('diplomas', 0)} consolidados com os mesmos artigos e epígrafes")
     for path in write_report(report, output):
         print(f"Escrito: {repository.relative(path) if path.is_relative_to(repository.root) else path}")
+    if args.dry_run:
+        return 0
+    applied = apply(repository, report, report.rows, progress=progress)
+    print(
+        f"Registos: {applied.entry_into_force} com entrada em vigor; {applied.legal_status} com vigência provada; "
+        f"{applied.withdrawn} com a vigência retirada (prova que deixou de existir); "
+        f"{applied.updated} alterados"
+    )
     return 0

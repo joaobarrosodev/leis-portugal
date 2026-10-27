@@ -405,6 +405,15 @@ def test_repeals_read_from_the_repealing_norm():
         ("repealed_by", "Revogado o nº 5 pela PORT.327/2003.2003.04.21.MADRP, DR.IS-B [93]", "parcial"),
         ("repealed_by", "Revogado com a entrada em vigor das portarias previstas no n.º 1 do art. 11.º do Dec Lei 16/2009", "condicional"),
         ("repealed_by", "", None),
+        # O revogado é outro diploma, na redação que este lhe deu.
+        ("repealed_by", "Revogado, a partir de 01.01.2020, o Dec Lei 202/94 de 23-jul, na redação do presente diploma pelo(a) Decreto-Lei n.º 151/2019", "outro"),
+        ("repealed_by", "Revogado, a partir de 01.01.2018, o Dec Lei 366-A/97 de 20-dez, na versão republicada pelo presente diploma", "outro"),
+        ("repealed_by", "Revogada, a partir de 15.10.2018, a presente portaria, na redação da Port 553-A/2008 de 27-jun pelo(a) Portaria n.º 506/2018", "total"),
+        ("repealed_by", "Revogado, a partir de 07.07.2018, o Dec Lei 139/2012 de 05-jul, com a redação dada pelo presente, pelo(a) Decreto-Lei n.º 55/2018", "outro"),
+        ("repealed_by", "Revogado, a partir de 02.04.2019, o Dec Lei 36/95 de 14-fev, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 108/2018", "outro"),
+        ("repealed_by", "Revogado, a partir de 15.11.2019, o Regulamento de Segurança das Construções Contra os Sismos, aprovado pelo presente Decreto, pelo(a) Decreto-Lei n.º 95/2019", "outro"),
+        ("repealed_by", "Revogada, a partir de 30 de janeiro de 2024 e com efeitos a 01 de janeiro de 2024, a presente resolução pelo(a) Decreto-Lei n.º 17/2024", "total"),
+        ("repealed_by", "Revogadas a partir de 06.09.2022, as normas constantes do presente diploma que colidam com as competências do Secretário Regional", "parcial"),
         ("repeals", "Revoga o Despacho n.º 3675/2024 de 4 de abril, DR.IIS[67]", "total"),
         ("repeals", "Revoga o artigo 3.º da Portaria n.º 5/90", "parcial"),
     ],
@@ -489,7 +498,6 @@ def test_structure_command_writes_the_report_without_touching_records(repo_root:
        + link("Decreto-Lei n.º 253/86", "decreto-lei/253-1986-219123") + ", de 26 de agosto.\n"), encoding="utf-8")
     before = {path: path.read_text(encoding="utf-8") for path in (repo_root / "data").rglob("*") if path.is_file()}
 
-    assert main(["--root", str(repo_root), "structure"]) == 2
     assert main(["--root", str(repo_root), "structure", "--dry-run", "--workers", "2", "--today", "2026-10-27"]) == 0
     out = capsys.readouterr().out
     assert "com estado proposto: 1" in out
@@ -585,3 +593,69 @@ def test_numbered_headings_without_articles():
     text = "# Portaria n.º 55-C/86\n\n###### 1.º\n\nOs quadros de pessoal docente.\n\n###### 2.º\n\nSão criadas as seguintes escolas.\n"
     articles = parse_articles(text)
     assert [(article.anchor, article.method) for article in articles] == [("n-1", "titulo"), ("n-2", "titulo")]
+
+
+def test_structure_command_writes_entry_into_force_and_proven_status(repo_root: Path, capsys):
+    from leis_portugal.infrastructure.markdown import read_markdown_record
+    from leis_portugal.infrastructure.repository import Acervo
+
+    repealed = repo_root / "data/portugal/decretos-leis/1986/decreto-lei-253-86.md"
+    repealed.parent.mkdir(parents=True)
+    repealed.write_text(render_markdown(record_dict(
+        "pt:dre:219123:por", title="Decreto-Lei n.º 253/86", legal_status="unknown", publication_date="1986-08-26",
+        publication={"series": "I"},
+    ), "# Decreto-Lei n.º 253/86\n\nArtigo 1.º É criado o serviço.\n\nArt. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n"), encoding="utf-8")
+    repealing = repo_root / "data/portugal/decretos-leis/2019/decreto-lei-1-2019.md"
+    repealing.parent.mkdir(parents=True)
+    repealing.write_text(render_markdown(record_dict(
+        "pt:dre:123968666:por", title="Decreto-Lei n.º 1/2019", legal_status="in_force", publication_date="2019-01-10",
+        publication={"series": "I"},
+    ), "# Decreto-Lei n.º 1/2019\n\n###### Artigo 18.º — Norma revogatória\n\nÉ revogado o "
+       + link("Decreto-Lei n.º 253/86", "decreto-lei/253-1986-219123") + ", de 26 de agosto.\n"), encoding="utf-8")
+
+    assert main(["--root", str(repo_root), "structure", "--workers", "1", "--today", "2026-10-27", "--validation-sample", "0"]) == 0
+    assert "1 com vigência provada" in capsys.readouterr().out
+
+    acervo = Acervo(repo_root)
+    metadata, _ = read_markdown_record(repealed)
+    assert metadata["entry_into_force"]["date"] == "1986-08-27" and metadata["entry_into_force"]["method"] == "clausula"
+    assert metadata["entry_into_force_dates"] == ["1986-08-27"]
+    assert metadata["legal_status"] == "repealed"
+    assert metadata["legal_status_basis"] == {
+        "source": "norma_revogatoria",
+        "evidence": [{"status": "repealed", "provenance": "norma revogatória: pt:dre:123968666:por#art-18",
+                      "detail": "É revogado o [Decreto-Lei n.º 253/86], de 26 de agosto."}],
+    }
+    # A regra supletiva (5.º dia após a publicação) também se grava, com o método.
+    metadata, _ = read_markdown_record(repealing)
+    assert (metadata["entry_into_force"]["method"], metadata["entry_into_force"]["date"]) == ("supletiva", "2019-01-15")
+    assert "legal_status_basis" not in metadata
+    for path in (repealed, repealing):
+        assert acervo.schema.record_errors(read_markdown_record(path)[0]) == []
+
+    # Segunda passagem: nada a mudar.
+    before = {path: path.read_text(encoding="utf-8") for path in (repealed, repealing)}
+    assert main(["--root", str(repo_root), "structure", "--workers", "1", "--today", "2026-10-27", "--validation-sample", "0"]) == 0
+    assert {path: path.read_text(encoding="utf-8") for path in (repealed, repealing)} == before
+
+    # A prova deixa de existir (o revogador já não revoga): o estado volta a desconhecido.
+    repealing.write_text(render_markdown(record_dict(
+        "pt:dre:123968666:por", title="Decreto-Lei n.º 1/2019", legal_status="in_force", publication_date="2019-01-10",
+        publication={"series": "I"},
+    ), "# Decreto-Lei n.º 1/2019\n\n###### Artigo 18.º — Norma revogatória\n\nÉ alterado o "
+       + link("Decreto-Lei n.º 253/86", "decreto-lei/253-1986-219123") + ", de 26 de agosto.\n"), encoding="utf-8")
+    assert main(["--root", str(repo_root), "structure", "--workers", "1", "--today", "2026-10-27", "--validation-sample", "0"]) == 0
+    assert "1 com a vigência retirada" in capsys.readouterr().out
+    metadata, _ = read_markdown_record(repealed)
+    assert metadata["legal_status"] == "unknown" and "legal_status_basis" not in metadata
+    repealing.write_text(before[repealing], encoding="utf-8")
+    assert main(["--root", str(repo_root), "structure", "--workers", "1", "--today", "2026-10-27", "--validation-sample", "0"]) == 0
+
+    # Uma nova recolha (a fonte sem estes campos) não apaga o que se tirou do texto.
+    record, body = acervo.read(repealed)
+    fresh = type(record).from_dict({key: value for key, value in record.to_dict().items()
+                                    if key not in ("entry_into_force", "legal_status_basis", "entry_into_force_dates")} | {"legal_status": "unknown"})
+    acervo.save(fresh, body, target=repealed)
+    metadata, _ = read_markdown_record(repealed)
+    assert metadata["legal_status"] == "repealed" and metadata["entry_into_force"]["date"] == "1986-08-27"
+    assert metadata["entry_into_force_dates"] == ["1986-08-27"]

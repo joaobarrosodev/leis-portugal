@@ -225,6 +225,7 @@ class Acervo:
                 record.relationships = merge_relationships(kept, record.relationships)
                 if existing.subjects and not record.subjects:
                     record.subjects = existing.subjects
+                _preserve_derived(record, existing)
                 _preserve_timestamps(record, existing)
 
         if policy.enrich:
@@ -300,6 +301,17 @@ class Acervo:
 def _rename_key(data: dict[str, Any], old: str, new: str, value: Any) -> dict[str, Any]:
     """Cópia de `data` com `old` trocado por `new` (e `value`) na mesma posição."""
     return {new if key == old else key: value if key == old else item for key, item in data.items()}
+
+
+def _preserve_derived(new: LegalRecord, existing: LegalRecord) -> None:
+    """O que `leis-portugal structure` tirou do texto e a fonte não traz: a entrada em vigor
+    e o estado de vigência provado, enquanto a fonte não indicar outro estado."""
+    if new.entry_into_force is None and existing.entry_into_force is not None:
+        new.entry_into_force = existing.entry_into_force
+        if not new.entry_into_force_dates:
+            new.entry_into_force_dates = list(existing.entry_into_force_dates)
+    if new.legal_status == "unknown" and existing.legal_status_basis:
+        new.legal_status, new.legal_status_basis = existing.legal_status, existing.legal_status_basis
 
 
 def _preserve_timestamps(new: LegalRecord, existing: LegalRecord) -> None:

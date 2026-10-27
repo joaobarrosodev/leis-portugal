@@ -226,7 +226,17 @@ def _paragraph_repeals(paragraph: str, *, source: str, article: str | None) -> l
 
 _LABEL_PARTIAL = re.compile(
     r"^revogad[oa]s?,?\s+(?:o|a|os|as)\s+(?!pel|partir)|parcialmente|na\s+parte|com\s+exce|exce[tp]|salvo|\bart\.|\bartigos?\b|\bn\.?\s*º|\bal[íi]n|"
-    r"\bn[úu]meros?\b|anexo|ponto|quadro|mapa|§",
+    r"\bn[úu]meros?\b|anexo|ponto|quadro|mapa|§|\bnormas?\b|\binstru[cç]",
+    re.IGNORECASE,
+)
+# O objeto da revogação é o próprio diploma ("Revogada, a partir de …, a presente portaria")…
+_LABEL_SELF = re.compile(
+    r"^revogad[oa]s?\b.{0,120}?\b(?:o|a)\s+presente\s+(?:diploma|decreto|lei|portaria|resolu[cç][ãa]o|regulamento|aviso|despacho|delibera[cç][ãa]o)\b",
+    re.IGNORECASE,
+)
+# …ou outro, a que este deu a redação ou que aprovou ("o Dec Lei 139/2012, com a redação dada pelo presente").
+_LABEL_OTHER = re.compile(
+    r"\b(?:alterad[oa]s?|aprovad[oa]s?|com\s+a\s+reda[cç][ãa]o(?:\s+dada)?|na\s+reda[cç][ãa]o(?:\s+dada)?|na\s+vers[ãa]o\s+republicada)\s+(?:d[oa]|pel[oa])\s+presente\b",
     re.IGNORECASE,
 )
 _LABEL_CONDITIONAL = re.compile(
@@ -249,6 +259,10 @@ def label_scope(relation_type: str, label: str | None) -> str | None:
         if not re.match(r"^revogad[oa]s?\b", text, re.IGNORECASE):
             return None
         head = re.split(r"\bpel[oa]\(?a?\)?\b|\bpelos?\b|\bpelas?\b", text, maxsplit=1, flags=re.IGNORECASE)[0]
+        # "Revogado … o Dec Lei 202/94, na redação do presente diploma": o revogado é outro
+        # diploma (este só lhe deu a redação), salvo quando o objeto é "a presente portaria…".
+        if not _LABEL_SELF.match(text) and _LABEL_OTHER.search(text):
+            return "outro"
         return "parcial" if _LABEL_PARTIAL.search(head) else "total"
     if relation_type == "repeals":
         if not re.match(r"^revoga\b", text, re.IGNORECASE):

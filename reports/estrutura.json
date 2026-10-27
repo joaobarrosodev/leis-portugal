@@ -132,18 +132,18 @@
   "desconhecidos": 113906,
   "por_categoria": {
    "caducado": 22,
-   "conflito": 9,
+   "conflito": 7,
    "historico_so_pdf": 55742,
-   "revogacao_parcial": 137,
-   "revogacao_por_confirmar": 6,
-   "revogado": 371,
+   "revogacao_parcial": 120,
+   "revogacao_por_confirmar": 47,
+   "revogado": 349,
    "sem_prova": 57619
   },
   "estado_proposto": {
    "not_in_force": 22,
-   "repealed": 371
+   "repealed": 349
   },
-  "resolvidos": 393,
+  "resolvidos": 371,
   "revogacoes_lidas_no_texto": 18452,
   "diplomas_revogados_no_texto": 15987,
   "precisao_nos_estados_conhecidos": {
@@ -157,11 +157,11 @@
    },
    "relacao": {
     "repealed": 0,
-    "not_in_force": 20762,
-    "em_vigor": 1261,
-    "concordam": 20762,
-    "total": 22023,
-    "taxa": 0.9427
+    "not_in_force": 20387,
+    "em_vigor": 1086,
+    "concordam": 20387,
+    "total": 21473,
+    "taxa": 0.9494
    }
   }
  },

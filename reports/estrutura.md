@@ -60,16 +60,16 @@ Por jurisdição e série:
 
 ## Vigência desconhecida
 
-Diplomas com `legal_status: unknown`: 113.906. Estado proposto com prova: **393** (not_in_force: 22, repealed: 371).
+Diplomas com `legal_status: unknown`: 113.906. Estado proposto com prova: **371** (not_in_force: 22, repealed: 349).
 
 | Categoria | Diplomas |
 | --- | --: |
 | Caducado (vigência temporária já passada, sem alterações) | 22 |
-| Provas em conflito (o mesmo revogador, total e parcial) | 9 |
+| Provas em conflito (o mesmo revogador, total e parcial) | 7 |
 | Só PDF e anterior a 1960: histórico, fora do índice de lei atual | 55.742 |
-| Só revogação parcial: o resto continua desconhecido | 137 |
-| Revogação sem âmbito conhecido (relação sem etiqueta) | 6 |
-| Revogado (prova de revogação total) | 371 |
+| Só revogação parcial: o resto continua desconhecido | 120 |
+| Revogação sem âmbito conhecido (relação sem etiqueta) | 47 |
+| Revogado (prova de revogação total) | 349 |
 | Sem prova | 57.619 |
 
 Revogações lidas nas normas revogatórias: 18.452 (sobre 15.987 diplomas).
@@ -79,7 +79,7 @@ Precisão das provas de revogação total nos diplomas cujo estado o DRE conhece
 | Prova | DRE: revogado | DRE: sem vigência | DRE: em vigor | Concordam |
 | --- | --: | --: | --: | --: |
 | Norma revogatória (texto) | 326 | 10.382 | 1.360 | 88,7% |
-| Relação do DRE (etiqueta) | 0 | 20.762 | 1.261 | 94,3% |
+| Relação do DRE (etiqueta) | 0 | 20.387 | 1.086 | 94,9% |
 
 As propostas, com as provas e a proveniência de cada uma, estão em `vigencia-proposta.jsonl`.
 

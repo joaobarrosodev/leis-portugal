@@ -28,7 +28,8 @@ from leis_portugal.domain.articles import Article, number_slug, parse_articles
 from leis_portugal.domain.entry_into_force import extract
 from leis_portugal.domain.history import render_version, version_at
 from leis_portugal.domain.validity import Repeal, propose, repeals_in
-from leis_portugal.infrastructure.markdown import read_markdown_record
+from leis_portugal.infrastructure.markdown import read_markdown_record, write_if_changed
+from leis_portugal.infrastructure.markdown import render_markdown as render_record
 from leis_portugal.infrastructure.repository import PORTUGUESE_SCOPES, Acervo
 from leis_portugal.services.export import text_quality
 from leis_portugal.sources.dre.consolidated import ARTICLE_TYPES
@@ -90,7 +91,10 @@ def analyse(path: str, root: str) -> dict[str, Any] | None:
         "document_type": metadata.get("document_type"),
         "series": publication.get("series"),
         "publication_date": metadata.get("publication_date"),
-        "legal_status": metadata.get("legal_status") or "unknown",
+        # Um estado gravado por este comando (com `legal_status_basis`) volta a avaliar-se
+        # como desconhecido: se a prova deixar de existir, a escrita retira-o.
+        "legal_status": "unknown" if metadata.get("legal_status_basis") else metadata.get("legal_status") or "unknown",
+        "proven_status": bool(metadata.get("legal_status_basis")),
         "version_kind": (metadata.get("version") or {}).get("kind"),
         "text_quality": quality,
         "units": unit_kind(articles),
@@ -146,6 +150,7 @@ class StructureReport:
     summary: dict[str, Any] = field(default_factory=dict)
     proposals: list[dict[str, Any]] = field(default_factory=list)
     validation: dict[str, Any] = field(default_factory=dict)
+    rows: list[dict[str, Any]] = field(default_factory=list)
 
 
 def _status_group(status: str) -> str:
@@ -410,10 +415,78 @@ def run(
     rows = read_rows(acervo, workers=workers, limit=limit, progress=progress)
     progress(f"Registos lidos: {len(rows)}")
     report = aggregate(rows, today=today)
+    report.rows = rows
     if validation_sample:
         progress(f"A validar o parser em {validation_sample} consolidados…")
         report.validation = validate_consolidated(acervo, rows, sample=validation_sample)
     return report
+
+
+# ------------------------------------------------------------------ escrita nos registos
+
+# Prova -> `legal_status_basis.source`.
+_BASIS_SOURCES = {"norma revogatória": "norma_revogatoria", "DRE repealed_by": "relacao_dre", "cláusula de vigência": "clausula_vigencia"}
+# Entrada em vigor que se grava: lida numa cláusula ou pela regra supletiva (sem cláusula, nada).
+_WRITTEN_METHODS = {"clausula", "supletiva"}
+
+
+@dataclass
+class ApplySummary:
+    entry_into_force: int = 0
+    legal_status: int = 0
+    withdrawn: int = 0
+    updated: int = 0
+    changed_paths: list[Path] = field(default_factory=list)
+
+
+def legal_status_basis(proposal: dict[str, Any]) -> dict[str, Any]:
+    """`legal_status_basis` de uma proposta: a fonte da primeira prova do estado proposto e as provas."""
+    provenance = next(item["provenance"] for item in proposal["evidence"] if item["status"] == proposal["status"])
+    source = next(value for prefix, value in _BASIS_SOURCES.items() if provenance.startswith(prefix))
+    return {"source": source, "evidence": [dict(item) for item in proposal["evidence"]]}
+
+
+def apply(acervo: Acervo, report: StructureReport, rows: list[dict[str, Any]], *, progress: Progress = _silent) -> ApplySummary:
+    """Grava nos registos a entrada em vigor (`entry_into_force` e, se estiver vazio,
+    `entry_into_force_dates`) e o estado de vigência provado dos diplomas de vigência
+    desconhecida (`legal_status` e `legal_status_basis`). Os ids por artigo não se gravam:
+    calculam-se do corpo (`leis_portugal.domain.articles`)."""
+    changes: dict[str, dict[str, Any]] = defaultdict(dict)
+    for row in rows:
+        eif = row["entry_into_force"]
+        if eif and eif["method"] in _WRITTEN_METHODS:
+            changes[row["path"]]["entry_into_force"] = eif
+    for row in rows:
+        if row.get("proven_status"):
+            changes[row["path"]]["proposal"] = None
+    for proposal in report.proposals:
+        if proposal["status"]:
+            changes[proposal["path"]]["proposal"] = proposal
+    summary = ApplySummary()
+    for index, (relative, change) in enumerate(sorted(changes.items()), start=1):
+        path = acervo.root / relative
+        record, body = acervo.read(path)
+        if "entry_into_force" in change:
+            record.entry_into_force = change["entry_into_force"]
+            if not record.entry_into_force_dates and record.entry_into_force.get("date"):
+                record.entry_into_force_dates = [record.entry_into_force["date"]]
+            summary.entry_into_force += 1
+        if "proposal" in change:
+            proposal = change["proposal"]
+            if proposal and (record.legal_status == "unknown" or record.legal_status_basis):
+                record.legal_status = proposal["status"]
+                record.legal_status_basis = legal_status_basis(proposal)
+                summary.legal_status += 1
+            elif not proposal and record.legal_status_basis:
+                # A prova deixou de existir: o estado volta a desconhecido.
+                record.legal_status, record.legal_status_basis = "unknown", None
+                summary.withdrawn += 1
+        if write_if_changed(path, render_record(record.to_dict(), body)):
+            summary.updated += 1
+            summary.changed_paths.append(path)
+        if index % 20000 == 0:
+            progress(f"[{index}/{len(changes)}] registos escritos")
+    return summary
 
 
 def write_report(report: StructureReport, output: Path) -> list[Path]:
