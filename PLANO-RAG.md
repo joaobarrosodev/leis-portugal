@@ -8,7 +8,7 @@ O objetivo é um RAG sobre o acervo Leis de Portugal em que pelo menos 95% das r
 
 O trabalho pesado não é o modelo: é o texto em vigor, a estrutura por artigo e a vigência. Isso faz-se no repositório, antes de afinar a pesquisa ou o modelo.
 
-100% não é garantível nem verificável (nem as consolidações oficiais estão livres de erros), por isso a meta é medida num conjunto de perguntas validado por juristas, e o sistema responde que não sabe quando não tem a certeza.
+100% não é garantível nem verificável (nem as consolidações oficiais estão livres de erros), por isso a meta é medida num conjunto de perguntas verificado às cegas por outra sessão (sem juristas), e o sistema responde que não sabe quando não tem a certeza.
 
 ## O que significa 95%
 
@@ -21,8 +21,8 @@ Das perguntas a que o sistema responde, pelo menos 95% (meta: 99% ou mais) estã
 Três regras acompanham a meta:
 
 - **Responder certo ou não responder.** A taxa de "não sei" é o preço da fiabilidade e desce à medida que os dados melhoram.
-- **Âmbito: o que diz a lei.** Interpretação, jurisprudência e aconselhamento sobre casos concretos ficam fora.
-- **Medido, não estimado.** Um conjunto de 500 ou mais perguntas validado por juristas. Com 500 perguntas, 95% tem uma margem de cerca de ±2 pontos.
+- **Âmbito: o que diz a lei.** Perguntas cuja resposta está escrita num artigo; interpretação, jurisprudência e aconselhamento sobre casos concretos ficam fora.
+- **Medido, não estimado.** Cerca de 600 perguntas, geradas numa sessão e verificadas às cegas noutra, com outro modelo (ver Avaliação sem juristas). Com 600 perguntas, 95% tem uma margem de cerca de ±2 pontos.
 
 ## Onde estamos
 
@@ -57,7 +57,7 @@ Cinco fases; as três primeiras são trabalho de dados no repositório e são as
 
 | Fase | Critério para fechar a fase |
 | --- | --- |
-| 1. Âmbito e avaliação | Conjunto validado e fiabilidade atual medida |
+| 1. Âmbito e avaliação (sem juristas) | Conjunto verificado e fiabilidade atual medida |
 | 2. Texto em vigor (maior ganho) | Diplomas principais com texto atual verificado |
 | 3. Estrutura, vigência e datas | Artigos com id nos diplomas em vigor; vigência conhecida |
 | 4. Sistema | 95% ou mais nas respostas dadas, no conjunto de avaliação |
@@ -65,8 +65,8 @@ Cinco fases; as três primeiras são trabalho de dados no repositório e são as
 
 A fase 2 é a que mais aumenta a fiabilidade; o detalhe de cada fase segue abaixo.
 
-1. **Fase 1: âmbito e conjunto de avaliação** (precisa de juristas)
-   - 500 ou mais perguntas reais, cada uma com o artigo certo e a versão certa.
+1. **Fase 1: âmbito e conjunto de avaliação** (sem juristas)
+   - Cerca de 600 perguntas, cada uma com o artigo certo e a versão certa, geradas a partir dos dados e de FAQs oficiais e verificadas às cegas (ver Avaliação sem juristas).
    - Incluir armadilhas: normas revogadas, alterações recentes e perguntas sem resposta.
    - Medir o ponto de partida.
 2. **Fase 2: texto em vigor**
@@ -85,6 +85,26 @@ A fase 2 é a que mais aumenta a fiabilidade; o detalhe de cada fase segue abaix
 5. **Fase 5: manter a fiabilidade**
    - Correr o conjunto de avaliação a cada atualização diária. Se a nota descer abaixo da meta, não publica.
    - Reindexar só os registos alterados e invalidar a versão antiga quando sai uma alteração.
+
+## Avaliação sem juristas
+
+A fase 1 faz-se sem juristas: a resposta certa vem dos próprios dados ou de fontes oficiais, e cada pergunta é verificada às cegas por outra sessão, com outro modelo.
+
+| Tipo de pergunta | Como se gera | Como se sabe a resposta certa | Quantas |
+| --- | --- | --- | --: |
+| Literais | A partir de artigos de diplomas em vigor e consolidados, com palavras diferentes das do artigo | O artigo de origem; a resposta tem de estar no texto | ~250 |
+| Temporais | Dos `.versoes.json`, nos artigos que mudaram | O `version-at` na data pedida | ~100 |
+| Revogadas | Das relações `repealed_by` | "Revogado por X" | ~50 |
+| Sem resposta | Fora do âmbito ou sobre leis que não existem | O certo é "não sei" | ~50 |
+| Reais | FAQs oficiais que citam artigos (Portal das Finanças, Segurança Social, ACT, ePortugal) | O artigo que a entidade cita | ~100–150 |
+
+1. **Sessão A (geração):** gera a pergunta, o artigo de origem e a resposta certa, e grava tudo num ficheiro.
+2. **Sessão B (verificação às cegas, outro modelo):** recebe só a pergunta e o artigo, sem a resposta certa. Responde a partir do artigo e assinala perguntas ambíguas ou que dependem de outro artigo.
+3. **Comparação automática:** um script compara as respostas de A e B e confirma que a resposta está literalmente no texto do artigo.
+4. **Discordâncias:** vão a uma terceira revisão, são corrigidas ou a pergunta sai do conjunto.
+5. **Calibração (opcional):** revisão humana de ~20 perguntas ao acaso (cerca de 30 minutos), para medir quanto confiar na verificação automática.
+
+Limites: perguntas geradas a partir de um artigo são mais fáceis do que as reais, por isso cada tipo é medido e mostrado em separado. Sem a calibração, o resultado escreve-se "95% segundo a verificação automática". Os termos de reutilização das FAQs ainda têm de ser verificados; no pior caso usam-se só para avaliar e não se publicam.
 
 ## Metas
 
@@ -108,7 +128,7 @@ Estes valores são estimativas, não medições. O primeiro número real sai da 
 
 ## Próximos passos
 
-- [ ] Escolher os juristas que validam o conjunto de avaliação e fechar o âmbito das perguntas
+- [ ] Gerar o conjunto de avaliação (sessão A) e verificá-lo às cegas com outro modelo (sessão B)
 - [ ] Detetar as republicações e medir quantos dos 23.417 alterados ficam com texto atual
 - [ ] Listar os 1.672 diplomas alterados mais citados e escolher os primeiros a consolidar
 - [ ] Construir o parser por artigo e os identificadores estáveis
