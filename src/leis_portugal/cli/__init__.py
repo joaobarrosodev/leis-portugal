@@ -6,7 +6,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from leis_portugal.cli import collect, maintenance, versions
+from leis_portugal.cli import collect, maintenance, structure, versions
 from leis_portugal.errors import LeisPortugalError
 
 
@@ -17,6 +17,7 @@ def build_parser() -> argparse.ArgumentParser:
     collect.register(commands)
     versions.register(commands)
     maintenance.register(commands)
+    structure.register(commands)
     return parser
 
 

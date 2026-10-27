@@ -6,6 +6,11 @@ O esquema dos registos é [`schemas/legal_document.schema.json`](schemas/legal_d
 
 ## 2026-10-27
 
+### Artigos, entrada em vigor e vigência (novo; os registos ainda não mudam)
+- `leis-portugal structure --dry-run` lê os registos portugueses e regionais e escreve em `reports/` um relatório de cobertura (`estrutura.md`, `estrutura.json`) e as propostas de vigência com as provas (`vigencia-proposta.jsonl`). Não altera nenhum registo; a escrita nos registos fica para depois.
+- **Id por artigo** (`leis-portugal/artigos/1`): `<id do registo>#<parte>/<artigo>`, p. ex. `pt:dre:602073:por#art-14` (artigo do diploma) e `pt:dre:602073:por#anexo-codigo-do-trabalho/art-3` (artigo do Código do Trabalho, anexo da Lei n.º 7/2009). A parte é o slug do título do anexo (`anexo-ii` quando o anexo é numerado); o artigo é `art-<número>` (`art-10-a`, `art-unico`), `base-<número>`, `clausula-<número>` ou, nos diplomas sem artigos, `n-<número>` (números do dispositivo, `1.º`, `1 -`). O id calcula-se a partir do corpo do registo (`leis_portugal.domain.articles`), por isso não precisa de ser guardado.
+- **Esquema** (compatível; os registos atuais continuam válidos): campos opcionais `entry_into_force` (data, regra em texto, método `clausula`/`supletiva`/`sem_clausula`, artigo, produção de efeitos e fim de vigência), `legal_status_basis` (a proveniência de `legal_status` quando não vem do DRE, com as provas) e, em `article_structure`, `unit`, `annex_count` e `id_scheme`. Ainda nenhum registo os tem.
+
 ### Histórico de versões em blocos (alteração de formato)
 - Um `<registo>.versoes.json` que passe de 50 MB (o máximo recomendado pelo GitHub) é gravado dividido: os fragmentos vão para blocos `<registo>.versoes/001.json`, `002.json`… de até 20 MB, e o `<registo>.versoes.json` fica um índice com os mesmos campos, mas com `fragment_blocks` (a lista dos blocos, com caminhos relativos à pasta do índice) no lugar de `fragments`. O `schema` do índice continua `leis-portugal/versoes/1`.
 - Cada bloco tem `schema: leis-portugal/versoes-bloco/1`, `id` e `fragments` (uma parte do dicionário `fragments`, pela ordem original). Para obter o histórico completo, junta-se o `fragments` de todos os blocos, pela ordem de `fragment_blocks`.
