@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "33.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 33.º\n\nOs fundos de fomento algodoeiro serão geridos, em cada uma das províncias, por uma comissão, presidida pelo governador ou seu delegado, e tendo como vogais dois dos chefes de serviços do instituto, a designar pelo governador. O delegado do governador será em regra o director do instituto.\n\n§ único. Servirá de secretário da comissão o chefe dos serviços administrativos do instituto, e o expediente será executado pela respectiva secretaria.",
+    "depois": "###### Artigo 33.º\n\nOs fundos de fomento algodoeiro serão geridos em cada uma das províncias por uma comissão presidida pelo governador da província ou seu delegado e cujos vogais serão o director do respectivo instituto (quando este não for, como em regra deverá ser, o próprio delegado) e um ou dois dos seus chefes de serviços, a designar pelo governador, por forma que a comissão, em qualquer dos casos, seja composta de três membros.\n\n> Alterado pelo/a [Decreto-Lei n.º 45179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45179-1963-693412), publicado em 1963-08-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173970:por",
+    "alterador": "pt:dre:693412:por"
+  }
+]

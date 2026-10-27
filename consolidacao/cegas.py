@@ -1,6 +1,7 @@
 """Entrada da verificação às cegas do piloto: `consolidacao/verificacao/entrada-piloto.jsonl`.
 
-Uma linha por diploma consolidado (estado "aplicado por regra" em `resultados.jsonl`), com o
+Uma linha por diploma consolidado (estado "aplicado por regra" em `resultados.jsonl` ou
+"aplicado com LLM" em `llm/juntados.jsonl`, sem dizer qual), com o
 texto original, o texto do diploma que altera e o texto consolidado, e nada sobre como foi
 feito: sem os registos de alterações, sem as regras e sem as notas "> Alterado pelo/a …" que o
 piloto acrescenta aos artigos (quem verifica tem de encontrar sozinho o que mudou).
@@ -46,11 +47,14 @@ def main() -> int:
         anteriores |= {d["id"]: d["texto_consolidado"] for d in map(json.loads, entrada(ronda).read_text(encoding="utf-8").splitlines())}
     selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao.jsonl").read_text(encoding="utf-8").splitlines())}
     resultados = [json.loads(l) for l in (PASTA / "resultados.jsonl").read_text(encoding="utf-8").splitlines()]
+    juntados = PASTA / "llm" / "juntados.jsonl"
+    if juntados.exists():
+        resultados += [j for j in map(json.loads, juntados.read_text(encoding="utf-8").splitlines()) if j["estado"] == "aplicado com LLM"]
     saida.parent.mkdir(exist_ok=True)
     n = 0
     with saida.open("w", encoding="utf-8") as f:
         for r in resultados:
-            if r["estado"] != "aplicado por regra":
+            if r["estado"] not in ("aplicado por regra", "aplicado com LLM"):
                 continue
             registo = selecao[r["id"]]
             consolidado = _NOTA_PILOTO.sub("", corpo((RAIZ / r["consolidado"]).read_text(encoding="utf-8")))

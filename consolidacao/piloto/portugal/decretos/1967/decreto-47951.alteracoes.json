@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "140.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 140.º\n\n1. Para o exercício das suas actividades, a Escola poderá dispor do seguinte pessoal:\n\na) Pessoal constante do mapa aprovado pelo [Decreto-Lei n.º 47784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47784-1967-314046), de 8 de Julho de 1967;\n\nb) Professores eventuais;\n\nc) Professores de nacionalidade estrangeira;\n\nd) Assistentes livres;\n\ne) Pessoal assalariado, nos termos da lei geral.\n\n2. O número de primeiros e segundos-assistentes será o que constar do respectivo orçamento, precedendo proposta do conselho escolar.",
+    "depois": "###### Artigo 140.º\n\n1. Para o exercício das suas actividades, a Escola poderá dispor do seguinte pessoal:\n\na) Pessoal constante do mapa aprovado pelo [Decreto-Lei n.º 47784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47784-1967-314046), de 8 de Julho de 1967;\n\nb) Professores eventuais;\n\nc) Professores de nacionalidade estrangeira;\n\nd) Assistentes livres;\n\ne) Pessoal assalariado, nos termos da lei geral.\n\nf) Pessoal eventual.\n\n2. O número de primeiros e segundos-assistentes será o que constar do respectivo orçamento, precedendo proposta do conselho escolar.\n\n3. Quando trabalhos eventuais ou urgentes o justifiquem, poderá o director da Escola admitir, em regime de assalariamento e segundo as disposições legais em vigor, pessoal estranho aos quadros, o qual será dispensado logo que cesse o motivo da admissão.\n\nA remuneração daquele pessoal não poderá exceder a estabelecida para o pessoal do quadro de igual categoria.\n\n> Alterado pelo/a [Decreto n.º 48751](https://diariodarepublica.pt/dr/detalhe/decreto/48751-1968-262653), publicado em 1968-12-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391425:por",
+    "alterador": "pt:dre:262653:por"
+  },
+  {
+    "artigo": "201.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 201.º\n\n(transitório). O pessoal que tem vindo a prestar serviço desde 1 de Janeiro de 1968 deverá ser abonado dos respectivos salários a partir daquela data.\n\n> Aditado pelo/a [Decreto n.º 48751](https://diariodarepublica.pt/dr/detalhe/decreto/48751-1968-262653), publicado em 1968-12-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391425:por",
+    "alterador": "pt:dre:262653:por"
+  }
+]

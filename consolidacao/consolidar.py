@@ -163,13 +163,14 @@ def _pendentes(registo: dict, original: Corpo, leitura, resultado, motivo: str =
     return itens
 
 
-def _markdown(registo: dict, alterador: dict, consolidado: Corpo, titulos_normalizados: bool) -> str:
+def _markdown(registo: dict, alterador: dict, consolidado: Corpo, titulos_normalizados: bool,
+              metodo: str = "piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial") -> str:
     cabecalho = {
         "id": registo["id"],
         "title": registo["title"],
         "original": registo["path"],
         "consolidacao": {
-            "metodo": "piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial",
+            "metodo": metodo,
             "estado": "por verificar às cegas",
             "alteracoes_aplicadas": [{"id": alterador["id"], "title": alterador["title"], "publication_date": alterador.get("publication_date")}],
         },

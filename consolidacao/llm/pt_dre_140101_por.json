@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:140101:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "O pessoal civil que à data da entrada em vigor dos quadros legais referidos no artigo 1.º se encontre ao serviço das forças armadas nas províncias ultramarinas poderá ser provido definitivamente nos lugares dos quadros criados ao abrigo deste diploma com dispensa de concurso e das condições referidas na alínea c) e no § 1.º do artigo 12.º e no corpo do artigo 13.º do Estatuto do Funcionalismo Ultramarino, mediante proposta fundamentada do comando em que sirva e despacho favorável do titular do respectivo ramo."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

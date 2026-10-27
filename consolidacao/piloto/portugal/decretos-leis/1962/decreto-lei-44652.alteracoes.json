@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\nDependem de prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos as emissões de acções ou obrigações de quaisquer empresas privadas cujo valor exceda, no período de um ano, a importância de 10 milhões de escudos.",
+    "depois": "###### Artigo 12.º\n\nDependem de prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos as emissões de acções ou obrigações de quaisquer empresas privadas no ultramar cujo valor exceda, no período de um ano, a importância de 50 milhões de escudos.\n\n> Alterado pelo/a [Decreto-Lei n.º 412/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1973-419603), publicado em 1973-08-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:673217:por",
+    "alterador": "pt:dre:419603:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\nFica sujeita a prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos a constituição de quaisquer empresas cujo capital social seja igual ou superior a 50 milhões de escudos.\n\nNa apreciação dos pedidos serão tidas em conta, além da viabilidade e interesse económico geral do empreendimento, as condições do território onde a empresa se destina a exercer as suas principais actividades.",
+    "depois": "###### Artigo 13.º\n\nFica sujeita a prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos a constituição de quaisquer empresas no ultramar cujo capital seja superior a 100 milhões de escudos; na apreciação dos pedidos serão tidas em conta, além da viabilidade e interesse económico geral do empreendimento, as condições do território onde a empresa se destina a exercer as suas principais actividades.\n\n> Alterado pelo/a [Decreto-Lei n.º 412/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1973-419603), publicado em 1973-08-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:673217:por",
+    "alterador": "pt:dre:419603:por"
+  }
+]

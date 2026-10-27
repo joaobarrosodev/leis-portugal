@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nNas missões oficiais que sejam presididas por um membro do Governo, pelo Chefe do Estado-Maior-General das Forças Armadas ou pelos chefes de estado-maior dos ramos, os oficiais integrados nessa missão serão abonados de ajudas de custo de quantitativo igual ao de oficial general.",
+    "depois": "###### Artigo 2.º\n\nNas missões oficiais, as ajudas de custo a abonar aos oficiais que integram a missão serão de quantitativo igual às do elemento que a ela presidir.\n\n> Alterado pelo/a [Decreto-Lei n.º 70/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1986-196229), publicado em 1986-04-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:381570:por",
+    "alterador": "pt:dre:196229:por"
+  }
+]

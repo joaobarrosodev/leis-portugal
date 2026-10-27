@@ -160,25 +160,29 @@ A amostra de 50 diplomas (`consolidar.py --amostra 50 --semente 1`) serviu para 
 | `verificar.py` | Verificação automática e comparação com a republicação |
 | `consolidar.py` | Corre tudo e escreve os resultados |
 | `llm.py` | Pedidos ao LLM para os pendentes: `--estimar` sem chave, `--executar` com chave, `--sessao` e `--importar` para o fazer numa sessão do Claude |
-| `cegas.py` | Entrada da verificação às cegas (`--ronda 1` ou `--ronda 2`) |
+| `juntar.py` | Junta ao original as respostas do LLM aprovadas (`llm/juntados.jsonl`) |
+| `cegas.py` | Entrada da verificação às cegas (`--ronda N`): os aplicados por regra e os juntados com o LLM que não estão nas rondas anteriores |
 | `acervo.py` | Aplicação ao acervo dos consolidados verificados às cegas (`--dry-run` só mostra) |
 | `medir.py` | Números do piloto (`medicao.json`) |
 | `selecao.jsonl` | Os 671, com o diploma que altera, os rótulos do DRE e os artigos que mencionam o original |
 | `resultados.jsonl` | Estado e motivo por diploma |
 | `pendentes.jsonl` | As instruções por aplicar, com o texto dos artigos do original em causa |
-| `piloto/<caminho do registo>.md` | O texto consolidado (só os 27 aplicados por regra) |
+| `piloto/<caminho do registo>.md` | O texto consolidado (os 27 aplicados por regra e os 29 juntados com o LLM) |
 | `piloto/<caminho do registo>.alteracoes.json` | Um registo por alteração: artigo, operação, regra, texto antes e depois, excerto que a justifica, método |
 | `verificacao/entrada-piloto.jsonl` | Entrada da 1.ª ronda da verificação às cegas (os 22 da 1.ª corrida, como estavam) |
 | `verificacao/entrada-piloto-2.jsonl` | Entrada da 2.ª ronda: os 8 aplicados por regra que não estão na 1.ª |
 | `verificacao/entrada-piloto-3.jsonl` | Entrada da 3.ª ronda: o DL 94/91, que mudou depois da 1.ª |
+| `verificacao/entrada-piloto-4.jsonl` | Entrada da 4.ª ronda: os 29 juntados com o LLM |
 | `verificacao/saida-piloto*.jsonl` | Saídas das rondas (escritas pela sessão que verifica) |
 | `llm/entrada-sessao.jsonl` | Os 77 pendentes, prontos para uma sessão do Claude |
+| `llm/respostas-sessao.jsonl`, `llm/<id>.json` | As respostas da sessão e o resultado do `--importar` |
+| `llm/juntados.jsonl` | O que o `juntar.py` juntou e porque não juntou o resto |
 | `medicao.json` | Os números acima |
 
 Para repetir, a partir da raiz do worktree:
 
 ```bash
-cd consolidacao && export PYTHONPATH=../src && python selecionar.py && python consolidar.py && python cegas.py --ronda 2 && python llm.py --sessao && python medir.py
+cd consolidacao && export PYTHONPATH=../src && python selecionar.py && python consolidar.py && python llm.py --sessao && python llm.py --importar llm/respostas-sessao.jsonl && python juntar.py && python cegas.py --ronda 5 && python medir.py
 ```
 
 ## Verificação às cegas
@@ -211,7 +215,7 @@ A 2.ª ronda (`verificacao/entrada-piloto-2.jsonl`) tem o mesmo formato. Quando 
 6. Não ler `piloto/*.alteracoes.json`, `resultados.jsonl` nem o código desta pasta antes de terminar.
 7. Com `titulos_normalizados`, os títulos `###### Artigo N.º — Epígrafe` do consolidado não são erro. Comparar os artigos com `texto_original_com_titulos` e verificar também que este só difere de `texto_original` nas linhas dos títulos: a linha "Artigo N.º" (ou "Art. N.º - …") e a da epígrafe passam a título, e o texto que vinha na mesma linha passa ao parágrafo seguinte. Um erro da normalização (um artigo partido ou juntado, texto perdido) conta como `errado`.
 
-**Saída:** `verificacao/saida-piloto.jsonl` (na 2.ª ronda, `verificacao/saida-piloto-2.jsonl`), uma linha por artigo, `{"id", "artigo", "veredicto": "certo" | "errado" | "dúvida", "motivo", "texto_esperado"}`, e uma linha por diploma, `{"id", "instrucoes_em_falta": [...], "artigos_a_mais": [...], "artigos_em_falta": [...], "fora_dos_artigos": "..."}`.
+**Saída:** `verificacao/saida-piloto.jsonl` (na ronda N, `verificacao/saida-piloto-N.jsonl`), uma linha por artigo, `{"id", "artigo", "veredicto": "certo" | "errado" | "dúvida", "motivo", "texto_esperado"}`, e uma linha por diploma, `{"id", "instrucoes_em_falta": [...], "artigos_a_mais": [...], "artigos_em_falta": [...], "fora_dos_artigos": "..."}`.
 
 **Depois:** cada `errado` ou `dúvida` e cada instrução em falta é revista à mão (ou numa terceira sessão) e, se for o caso, corrige-se a regra e volta a correr-se tudo. Um diploma só entra no acervo quando todos os artigos estão `certo`.
 
@@ -227,7 +231,24 @@ Sem chave da API, uma sessão do Claude pode aplicar os pendentes, como se fez n
 | `esquema_da_resposta` | O esquema JSON da resposta |
 | `pedido` | Os artigos do original em causa, ou o texto inteiro quando o original não tem artigos identificados, e as instruções do diploma que altera |
 
-A sessão escreve uma linha por diploma, `{"id", "artigos": [{"chave", "epigrafe", "texto"}], "nao_aplicavel"}`, num ficheiro como `llm/saida-sessao.jsonl`. `python llm.py --importar llm/saida-sessao.jsonl --modelo <modelo da sessão>` passa cada resposta pela mesma verificação das respostas da API: cada parágrafo tem de estar, letra a letra, no diploma que altera ou no original. Grava o resultado em `llm/<id>.json`, com os problemas que encontrar. As respostas aprovadas ainda não se juntam ao consolidado: esse passo, e a verificação às cegas delas com outro modelo, fazem-se quando houver respostas.
+A sessão escreve uma linha por diploma, `{"id", "artigos": [{"chave", "epigrafe", "texto"}], "nao_aplicavel"}`, em `llm/respostas-sessao.jsonl`. `python llm.py --importar llm/respostas-sessao.jsonl --modelo <modelo da sessão>` passa cada resposta pela mesma verificação das respostas da API: cada parágrafo tem de estar, letra a letra, no diploma que altera ou no original. Grava o resultado em `llm/<id>.json`, com os problemas que encontrar.
+
+### Resultado (Opus 5.5, numa sessão do Claude, em 2026-10-27)
+
+| Resposta no `--importar` | Diplomas |
+| --- | --: |
+| Aprovada (artigos, sem problemas) | 46 |
+| Não aplicável (sem artigos, com o motivo) | 24 |
+| Com problemas na verificação letra a letra | 7 |
+
+Os 7 com problemas não se juntam. Os 24 não aplicáveis são, sobretudo, quadros e anexos que só existem no PDF, alterações que não são textuais e revogações condicionais.
+
+`python juntar.py` junta as 46 aprovadas ao original e escreve `piloto/<caminho>.md`, como o `consolidar.py`, e `llm/juntados.jsonl`:
+
+- **29 juntados.** Quando as regras tinham aplicado parte das instruções (o resto foi para o LLM), o consolidado leva as duas. Quando falhou a verificação, o LLM fez todas e as regras não entram. Os artigos da resposta são reescritos no lugar ou aditados por ordem, com a nota "> Alterado/Revogado/Aditado pelo/a …". 3 são parciais: a resposta deixou uma instrução de fora (`parcial` em `juntados.jsonl`).
+- **17 não juntados.** O original não tem artigos (portarias "1.º, 2.º", bases, numeração que recomeça), e os artigos da resposta não têm onde encaixar sem inventar títulos. Falta aplicar a resposta no texto corrido.
+
+Os 29 vão à 4.ª ronda da verificação às cegas (`verificacao/entrada-piloto-4.jsonl`), com as mesmas regras e o mesmo verificador. A entrada não diz quais vieram do LLM nem que há parciais.
 
 ## Limites e próximos passos
 
@@ -236,7 +257,7 @@ A sessão escreve uma linha por diploma, `{"id", "artigos": [{"chave", "epigrafe
 - **Notas e ligações:** os parágrafos retificados perdem as ligações Markdown. O cabeçalho YAML de `piloto/*.md` é próprio do piloto; o formato em `data/` está em "Aplicação ao acervo".
 - **O que é preciso para o resto:**
   1. decidir as 2 dúvidas que ficam (republicação que difere das instruções, alterador alterado depois);
-  2. os 77 pendentes, numa sessão do Claude a partir de `llm/entrada-sessao.jsonl` ou com uma chave da API (`llm.py --executar`, cerca de 4,6 $);
+  2. dos 77 pendentes: aplicar no texto corrido as 17 respostas aprovadas cujo original não tem artigos, e rever os 7 com problemas e os 24 não aplicáveis;
   3. uma regra para a redação nova sem aspas (34 instruções);
   4. decidir o que fazer com os 500 sem alteração textual e os 17 revogados (vigência e relações, fase 3).
 - **Os outros 1.468 diplomas com 10 ou mais citações** têm mais de uma alteração. O método serve na mesma (aplicar as alterações por ordem de data), mas a amostra mostra que é preciso filtrar primeiro as relações que não são alterações textuais.

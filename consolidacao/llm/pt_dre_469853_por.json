@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:469853:por",
+  "artigos": [
+    {
+      "chave": "70.º",
+      "epigrafe": "",
+      "texto": "O quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e transportes do ultramar compreende as seguinte categorias com o número de unidades e distribuição constantes do mapa II anexo a este diploma:\n\nEngenheiro-director;\n\nEngenheiro-chefe;\n\nArquitecto-chefe;\n\nEngenheiro de 1.ª classe;\n\nArquitecto de 1.ª classe;\n\nEngenheiro-adjunto;\n\nArquitecto-adjunto.\n\n§ único. São desempenhados por técnicos com a categoria de engenheiro-director os cargos de inspector provincial, de director de serviços e de subdirector de serviços (letra D do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro-chefe, os cargos de chefe de repartição dos serviços centrais, de director regional, de chefe do parque e oficinas, em Angola e Moçambique, e de chefe de repartição provincial (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de arquitecto-chefe, os cargos de chefe da Divisão de Estudos da Repartição de Edifícios e Monumentos e da Divisão do Inquérito e Planificação da Repartição de Urbanismo (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro de 1.ª classe ou de engenheiro-adjunto, os cargos de chefes de repartição distrital e de divisão técnica; com a categoria de arquitecto de 1.ª classe ou de arquitecto-adjunto, os cargos de chefes de secção de urbanização."
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "",
+      "texto": "As vagas na categoria de engenheiro e de arquitecto de 1.ª classe são providas por meio de promoção, respectivamente, dos engenheiros-adjuntos e arquitectos-adjuntos com, pelo menos, três anos do serviço nesta classe com boas informações."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

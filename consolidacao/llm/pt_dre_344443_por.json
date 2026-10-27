@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:344443:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Criação",
+      "texto": "O Instituto Politécnico do Porto, através da sua Escola Superior de Educação, confere os diplomas de estudos superiores especializados em:\n\na) Educação Especial - Educação Pré-Escolar e Ensino Básico (1.º Ciclo), nas opções de:\n\nDeficiência Mental e Deficiência Auditiva;\n\nDeficiência Mental e Deficiência Visual;\n\nDeficiência Mental e Deficiência Motora;\n\nb) Educação Especial - Ensino Básico (2.º e 3.º Ciclos) e Ensino Secundário;\n\nministrando, em consequência, os respectivos cursos."
+    }
+  ],
+  "nao_aplicavel": "A instrução 2 (o quadro n.º 2 do anexo I passa a ter a redação do quadro anexo à Portaria n.º 147/97) não se aplica: o anexo I do original e o quadro do alterador só existem no PDF «(ver documento original)», não há texto para substituir.",
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

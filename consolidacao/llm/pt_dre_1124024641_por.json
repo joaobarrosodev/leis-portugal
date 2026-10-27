@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:1124024641:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "2 - Delego no Secretário de Estado da Gestão da Saúde, Francisco Pinheiro Catalão, todas as competências que por lei me são atribuídas relativamente a:\n\na) Administração Central do Sistema de Saúde, I. P., incluindo o acompanhamento e monitorização do Plano de Recuperação e Resiliência;\n\nb) SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.;\n\nc) SUCH - Serviço de Utilização Comum dos Hospitais;\n\nd) Parcerias público-privadas, nos termos do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual;\n\ne) Recursos humanos do Ministério da Saúde e do Serviço Nacional de Saúde (SNS), incluindo a emissão de despachos relativos à fixação de serviços mínimos, ao abrigo da alínea a) do n.º 4 do artigo 538.º do Código do Trabalho;\n\nf) Financiamento e planeamento financeiro em matéria de prestação de cuidados de saúde, incluindo a assunção de compromissos plurianuais e pagamentos em atraso das entidades, nos termos, consoante o caso, do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, todos na sua redação atual;\n\ng) Serviços e estabelecimentos prestadores de cuidados de saúde hospitalares, cuidados de saúde primários, cuidados continuados integrados e cuidados paliativos, no âmbito do SNS, independentemente da natureza jurídica dos serviços;\n\nh) Acompanhamento de convenções celebradas ou a celebrar com quaisquer pessoas singulares ou coletivas, com ou sem fins lucrativos, e de acordos celebrados com instituições particulares de solidariedade social, nos termos dos Decretos-Leis n.os138/2013 e 139/2013, ambos de 9 de outubro, sob proposta da Direção Executiva dos Serviço Nacional de Saúde, I. P.\n\ni) Autorização para a instalação de equipamento médico pesado nos estabelecimentos de saúde públicos e privados, sujeito a estudo de viabilidade económico-financeiro efetuado pelas entidades proponentes;\n\nj) Acordo de Parceria Portugal 2020, Estratégia Portugal 2030 e Acordo de Parceria 2021-2027;\n\nk) Licenciamento dos estabelecimentos prestadores de cuidados de saúde, nos termos do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

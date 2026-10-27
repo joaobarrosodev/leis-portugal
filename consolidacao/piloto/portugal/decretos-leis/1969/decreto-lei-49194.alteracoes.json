@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. Cada gabinete de planeamento compreenderá um quadro de pessoal técnico, a fixar no respectivo diploma constitutivo, e um representante do Secretariado Técnico da Presidência do Conselho.\n\n2. Junto da cada gabinete de planeamento poderá funcionar um conselho consultivo, presidido pelo director do gabinete, do qual farão parte representantes dos principais serviços responsáveis pela preparação e execução dos planos sectoriais.\n\n3. Os gabinetes de planeamento poderão ser apoiados por núcleos de planeamento, a constituir, quando as circunstâncias o justifiquem, nas direcções-gerais, ou serviços equiparados, que tenham ligações com a preparação ou execução do planeamento.",
+    "depois": "###### Artigo 4.º\n\n1. Cada gabinete de planeamento disporá de um quadro de pessoal técnico e do necessário pessoal administrativo, além de um representante do Secretariado Técnico da Presidência do Conselho.\n\n2. Junto da cada gabinete de planeamento poderá funcionar um conselho consultivo, presidido pelo director do gabinete, do qual farão parte representantes dos principais serviços responsáveis pela preparação e execução dos planos sectoriais.\n\n3. Os gabinetes de planeamento poderão ser apoiados por núcleos de planeamento, a constituir, quando as circunstâncias o justifiquem, nas direcções-gerais, ou serviços equiparados, que tenham ligações com a preparação ou execução do planeamento.\n\n> Alterado pelo/a [Decreto-Lei n.º 164/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1973-676003), publicado em 1973-04-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:198533:por",
+    "alterador": "pt:dre:676003:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\n1. Os lugares dos quadros técnicos dos gabinetes de planeamento serão providos em funcionários da categoria correspondente, do quadro do Secretariado Técnico da Presidência do Conselho, destacados para esse efeito.\n\n2. O pessoal técnico deste quadro pode ser livremente destacado para qualquer dos gabinetes de planeamento, transferido entre eles e mandado regressar ao Secretariado, de harmonia com as conveniências de serviço, mediante portaria do Presidente do Conselho.\n\n3. O pessoal destacado nos termos do n.º 1 será remunerado por conta das dotações orçamentais dos departamentos onde estiver colocado e beneficiará do disposto na última parte do n.º 2 do artigo 12.º\n\n4. Quando não for possível efectuar o provimento nos termos do n.º 1, por a Presidência do Conselho não poder destacar funcionários para esse efeito, serão os lugares providos por escolha do Ministro, sob proposta do director do gabinete de planeamento, em comissão de serviço, ou por contrato, entre diplomados com curso superior adequado ao exercício das funções.\n\n5. É aplicável às comissões de serviço a que se refere o número anterior o disposto na primeira parte do n.º 1 e no n.º 2 do artigo 12.º",
+    "depois": "###### Artigo 13.º\n\n1. Os lugares dos quadros técnicos dos gabinetes de planeamento serão providos em funcionários da categoria correspondente, do quadro do Secretariado Técnico da Presidência do Conselho, destacados para esse efeito.\n\n2. O pessoal técnico deste quadro pode ser livremente destacado para qualquer dos gabinetes de planeamento, transferido entre eles e mandado regressar ao Secretariado, de harmonia com as conveniências de serviço, mediante portaria do Presidente do Conselho.\n\n3. O pessoal destacado nos termos do n.º 1 será remunerado por conta das dotações orçamentais dos departamentos onde estiver colocado e beneficiará do disposto na última parte do n.º 2 do artigo 12.º\n\n4. Quando não for possível efectuar o provimento nos termos do n.º 1 por a Presidência do Conselho não poder destacar funcionários, serão os lugares providos por escolha do Ministro ou Secretário de Estado, sob proposta do director do gabinete de planeamento, entre indivíduos habilitados com curso superior adequado ao exercício das respectivas funções.\n\n5. O provimento previsto no n.º 4 poderá também ser feito por contrato ou em comissão de serviço, com aplicação, neste caso, do disposto na primeira parte do n.º 1 e no n.º 2 do artigo 12.º\n\n6. Poderão ser providas interinamente as vagas resultantes do destacamento previsto no n.º 1 deste artigo ou n.º 1 do artigo 5.º\n\n> Alterado pelo/a [Decreto-Lei n.º 164/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1973-676003), publicado em 1973-04-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:198533:por",
+    "alterador": "pt:dre:676003:por"
+  }
+]

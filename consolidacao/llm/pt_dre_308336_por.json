@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:308336:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Área abrangida por plano director municipal",
+      "texto": "No caso de a área a lotear estar abrangida por plano director municipal, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3.º;\n\nb) Extracto do plano director municipal, assinalando a área a lotear;\n\nc) Justificação da adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no plano director municipal."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": [
+    "4.º: parágrafo que não está no alterador nem no original: a) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3"
+  ]
+}

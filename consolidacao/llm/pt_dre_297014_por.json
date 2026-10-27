@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:297014:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - É fixada em 10% a comissão de garantia devida pelas instituições de crédito nacionais, a que se refere o n.º 2 do artigo 7.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho.\n\n2 - A importância devida pelas instituições de crédito, a título de comissão de garantia, será paga diferidamente em três prestações de 25%, 50% e 25%, que se vencerão, respectivamente, nos dias 30 de Novembro imediatamente anteriores às primeira, segunda e terceira datas de vencimento do juro remuneratório do empréstimo obrigacionista."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:325514:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - É atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do presente diploma, a competência para a emissão, com âmbito limitado ao respectivo território, de portarias de extensão de convenções colectivas de trabalho e de decisões arbitrais cujo âmbito exceda a área de cada uma daquelas regiões autónomas.\n\n2 - A competência prevista no número anterior não pode ser exercida quando tenha sido publicado, pelo Governo da República, aviso para portaria de extensão cujo âmbito de aplicação compreende a área geográfica regional.\n\n3 - No caso previsto no número anterior, o Governo da República ouvirá previamente os governos regionais sobre a emissão da portaria de extensão."
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no n.º 1 do artigo anterior serão emitidos pelo governo regional e objecto de publicação no Jornal Oficial de cada região autónoma.\n\n2 - As oposições deverão ser deduzidas junto das respectivas secretarias regionais competentes nesta matéria.\n\n3 - As secretarias regionais comunicarão ao Ministério do Emprego e da Segurança Social as oposições que forem deduzidas, bem como o resultado da respectiva ponderação, no prazo de 10 dias a contar da sua recepção.\n\n4 - As secretarias regionais poderão proceder à emissão de portaria de extensão nos termos do n.º 1 do artigo anterior decorridos oito dias contados da data do envio da comunicação a que se refere o número anterior."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: 1 - É atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do pres"
+  ]
+}

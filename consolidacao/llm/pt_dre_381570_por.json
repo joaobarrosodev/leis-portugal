@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:381570:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Nas missões oficiais, as ajudas de custo a abonar aos oficiais que integram a missão serão de quantitativo igual às do elemento que a ela presidir."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}

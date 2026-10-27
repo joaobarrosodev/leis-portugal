@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:606481:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "As dúvidas resultantes do presente decreto-lei serão resolvidas, conforme os casos, por despacho do Ministro da Administração Interna ou por despacho conjunto deste e do Ministro de Estado e das Finanças e do Plano."
+    }
+  ],
+  "nao_aplicavel": "Instrução 2 (Art. 3.º do DL 429/82: o anexo 1 é substituído pela versão anexa) não aplicada: a nova tabela do anexo só existe no PDF ('ver documento original'), sem texto no alterador. Nota: o Art. 1.º do DL 429/82 (nova redação dos artigos 1.º, 7.º e 8.º) não vinha entre as instruções do pedido e não foi aplicado aqui.",
+  "modelo": "claude-opus-5-5",
+  "pedido": "sessão",
+  "problemas": []
+}
