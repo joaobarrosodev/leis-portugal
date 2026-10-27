@@ -70,3 +70,15 @@ Os equipamentos científicos, áudio-visuais, de informática e de secretariado 
 (Revogado.)
 
 > Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19.
+
+Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro - Arlindo Gomes de Carvalho.
+
+Promulgado em 10 de Novembro de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 14 de Novembro de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -250,9 +250,24 @@ def _fim(artigo: Artigo) -> list[str]:
     return [""] * n
 
 
+def _formulas_finais(artigo: Artigo) -> list[str]:
+    """As fórmulas finais ("Visto e aprovado…", assinaturas) que ficaram no bloco do último
+    artigo, até ao fim do bloco. Não são do artigo: ficam quando o artigo é reescrito."""
+    from leis_portugal.domain.articles import _signature
+
+    for i, linha in enumerate(artigo.linhas[1:], 1):
+        if _signature(linha.strip()):
+            return artigo.linhas[i:]
+    return []
+
+
 def _reescrever(artigo: Artigo, epigrafe: str, paragrafos: list[str], nota: str) -> None:
+    formulas = _formulas_finais(artigo)
+    if formulas:
+        fora = {l.strip() for l in formulas if l.strip()}
+        paragrafos = [p for p in paragrafos if p.strip() not in fora]
     artigo.epigrafe = epigrafe
-    artigo.linhas = _bloco(artigo.numero, epigrafe, paragrafos, artigo.notas + [nota], _fim(artigo))
+    artigo.linhas = _bloco(artigo.numero, epigrafe, paragrafos, artigo.notas + [nota], [""] + formulas if formulas else _fim(artigo))
 
 
 def _inserir(corpo: Corpo, novo: Artigo) -> None:

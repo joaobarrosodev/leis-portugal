@@ -4,19 +4,19 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## Resultado em resumo
 
-Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 498 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 28 diplomas por inteiro, e todos passaram a verificação automática. 73 ficam para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor.
+Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 23 têm todos os artigos `certo`, 1 está numa 3.ª ronda e 3 têm uma dúvida por decidir. 72 ficam para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor.
 
-| Estado | 1.ª corrida | Com o parser da fase 3 | O que quer dizer |
-| --- | --: | --: | --- |
-| Aplicado por regra | 22 | 28 | Todas as instruções aplicadas e a verificação automática passou. Vão à verificação às cegas. |
-| Para o LLM | 84 | 73 | Há instruções que as regras não aplicam com segurança. |
-| Falhou a verificação | 0 | 5 | As regras aplicaram tudo, mas a verificação automática não passou. Vão também para o LLM. |
-| Revogado por inteiro | 17 | 17 | O diploma que "altera" revoga o original. O DRE dá-o como em vigor. |
-| Sem alteração textual | 498 | 498 | O diploma que altera não dá nenhuma instrução ao original (ver abaixo). |
-| Sem texto | 50 | 50 | O original só tem PDF ou metadados (47), ou o diploma que altera não está no acervo (3). |
-| **Total** | **671** | **671** | |
+| Estado | 1.ª corrida | Com o parser da fase 3 | Depois da verificação às cegas | O que quer dizer |
+| --- | --: | --: | --: | --- |
+| Aplicado por regra | 22 | 28 | 27 | Todas as instruções aplicadas e a verificação automática passou. Vão à verificação às cegas. |
+| Para o LLM | 84 | 73 | 72 | Há instruções que as regras não aplicam com segurança. |
+| Falhou a verificação | 0 | 5 | 5 | As regras aplicaram tudo, mas a verificação automática não passou. Vão também para o LLM. |
+| Revogado por inteiro | 17 | 17 | 17 | O diploma que "altera" revoga o original. O DRE dá-o como em vigor. |
+| Sem alteração textual | 498 | 498 | 500 | O diploma que altera não dá nenhuma instrução ao original (ver abaixo). |
+| Sem texto | 50 | 50 | 50 | O original só tem PDF ou metadados (47), ou o diploma que altera não está no acervo (3). |
+| **Total** | **671** | **671** | **671** | |
 
-Não houve chave da API da Anthropic no ambiente, por isso **não se usou LLM**: 0 pedidos, 0 tokens, 0 $. Para os 78 pendentes (73 para o LLM e 5 que falharam a verificação), a estimativa é de 78 pedidos, cerca de 249 mil tokens de entrada e 182 mil de saída: **cerca de 4,6 $ com a Claude Opus 5.5** (2,3 $ com a Sonnet 5.5). Também se pode fazer numa sessão do Claude, sem a API: a entrada está em `llm/entrada-sessao.jsonl` (ver "Pendentes numa sessão do Claude"). Os números saem de `medir.py` (`medicao.json`), sobre o export de 26/10/2026.
+Não houve chave da API da Anthropic no ambiente, por isso **não se usou LLM**: 0 pedidos, 0 tokens, 0 $. Para os 77 pendentes (72 para o LLM e 5 que falharam a verificação), a estimativa é de 77 pedidos, cerca de 247 mil tokens de entrada e 180 mil de saída: **cerca de 4,6 $ com a Claude Opus 5.5** (2,3 $ com a Sonnet 5.5). Também se pode fazer numa sessão do Claude, sem a API: a entrada está em `llm/entrada-sessao.jsonl` (ver "Pendentes numa sessão do Claude"). Os números saem de `medir.py` (`medicao.json`), sobre o export de 26/10/2026.
 
 ### O que mudou com o parser da fase 3
 
@@ -33,14 +33,37 @@ Na 1.ª corrida, 71 dos 84 pendentes tinham o original sem títulos `###### Arti
 **Três erros apanhados na revisão à mão dos novos,** que levaram a duas regras novas em `alteracoes.py`:
 
 - **Revogação condicional.** O Decreto-Lei n.º 16/2013 revoga, "na parte em que contrariem o disposto no presente decreto-lei", números e artigos de quatro diplomas. Não é uma revogação que se aplique ao texto. Passa a ir para o LLM.
-  - Dois desses diplomas, o Decreto-Lei n.º 96/87 e o Decreto-Lei n.º 163-A/2000, estavam nos 22 da primeira ronda e tinham sido aplicados como "(Revogado.)". **Saem dos aplicados.** A entrada da 1.ª ronda já estava com o verificador e não se reescreveu: o que ele disser deles é uma medida de quanto a verificação às cegas apanha.
+  - Dois desses diplomas, o Decreto-Lei n.º 96/87 e o Decreto-Lei n.º 163-A/2000, estavam nos 22 da primeira ronda e tinham sido aplicados como "(Revogado.)". **Saem dos aplicados.** A entrada da 1.ª ronda já estava com o verificador e não se reescreveu. O verificador deu `certo` a todos os artigos dos dois (ver a secção seguinte).
   - Os outros dois (Decreto-Lei n.º 150/94 e Decreto-Lei n.º 189/94) eram novos.
 - **Localizador de outro diploma.** A Portaria n.º 537/80 revoga "o n.º 6 da portaria supracitada", que é a Portaria n.º 455/79, e só menciona a Portaria n.º 71/79 mais à frente na frase. A regra aplicava a revogação ao n.º 6 do artigo 21.º da 71/79. Agora, "portaria supracitada", "referido diploma" e semelhantes mandam para o LLM.
 - Uma correção menor: "O presente diploma revoga …" não era lido como verbo de revogação, e o "Art. 16.º" do próprio diploma que altera era tomado como alvo (Decreto-Lei n.º 285/77). Com a correção, este passou para as regras.
 
+### Resultado da verificação às cegas
+
+O verificador foi a Claude Sonnet 5.5, numa sessão à parte, com as regras da secção "Verificação às cegas" e só os três textos de cada diploma.
+
+| Ronda | Diplomas | Artigos | `certo` | `errado` | `dúvida` |
+| --- | --: | --: | --: | --: | --: |
+| 1.ª (`saida-piloto.jsonl`) | 22 | 532 | 512 | 7 | 13 |
+| 2.ª (`saida-piloto-2.jsonl`) | 8 | 197 | 196 | 0 | 1 |
+
+Revisão à mão de cada `errado`, `dúvida` e nota por diploma:
+
+- **Lei Orgânica n.º 4/2004: erro real, apanhado pelo verificador.** Os 7 `errado` e 11 das `dúvida` são deste diploma. A Lei Orgânica n.º 4/2014 adita artigos à Lei n.º 30/84, "alterada pelas Leis n.os 4/95, …, e pela Lei Orgânica n.º 4/2004". A regra só tirava a primeira menção da lista "alterada pelas …", por isso o "e pela Lei Orgânica n.º 4/2004" no fim contava como o diploma alterado. Os 7 artigos aditados à Lei 30/84 foram parar ao corpo da 4/2004. Agora toda a lista conta como diplomas que deram redação a outro (`_INICIO_CADEIA` e `_CADEIA` em `alteracoes.py`). A 4/2004 passou a "sem alteração textual", que é o certo: a LO 4/2014 altera a Lei 30/84 e não a lei que a republicou. A mesma correção tirou a Lei n.º 3/2010 dos pendentes: era só mencionada em "o Decreto-Lei n.º 32/2003, alterado pelo … e pela Lei n.º 3/2010", que é revogado.
+- **Decreto-Lei n.º 94/91: erro real, apanhado pelo verificador.** As fórmulas finais ("Visto e aprovado…", "Promulgado…", as assinaturas) estavam no bloco do último artigo e desapareceram quando o artigo 8.º foi revogado. Agora ficam quando um artigo é reescrito (`_formulas_finais` em `aplicar.py`, com a mesma deteção de assinaturas do parser da fase 3). O consolidado mudou, por isso vai a uma 3.ª ronda (`entrada-piloto-3.jsonl`).
+- **Decreto-Lei n.º 96/87 e Decreto-Lei n.º 163-A/2000: erro real, que o verificador não apanhou.** São as revogações "na parte em que contrariem" do DL 16/2013, que já tinham saído dos aplicados. O verificador deu `certo` a todos os artigos: lê a revogação ao pé da letra, como as regras liam. As regras da verificação passam a dizer que uma revogação condicional não se aplica (regra 3).
+- **Decreto Legislativo Regional n.º 13/98/A, artigo 17.º: fica por decidir.** Nenhuma instrução altera o artigo, e o consolidado mantém o original. Mas a republicação em anexo ao diploma que altera, "com as alterações ora introduzidas", tem outra redação ("regime jurídico" em vez de "diploma"). As regras seguem as instruções. Uma republicação que difere das instruções num artigo não alterado é uma decisão a tomar: conta a republicação, ou só as instruções?
+- **Lei n.º 10/2012, artigo 3.º: fica por decidir.** O artigo 45.º da Lei n.º 26/2016, que dá a nova redação, foi depois alterado pela Lei n.º 68/2021. O texto do registo da 26/2016 no acervo já é o consolidado. A redação aplicada pode, por isso, ser a de 2021 e não a de 2016, e a nota de alteração só nomeia a 26/2016.
+- **Decreto-Lei n.º 513-M/79, artigo 19.º: fica por decidir.** A revogação produz efeitos "com a entrada em vigor do Código" (dos Regimes Contributivos), que foi adiada por leis posteriores. O texto está certo. O que fica por modelar é a data (é trabalho da fase 3).
+- Nas outras 22 notas por diploma, nada em falta. Na 2.ª ronda, o verificador confirmou a normalização dos títulos nos 8 diplomas.
+
+**Ficam 23 diplomas com todos os artigos `certo` (16 da 1.ª ronda e 7 da 2.ª).** O DL 94/91 está na 3.ª ronda, e há 3 com uma dúvida por decidir.
+
+Por tipo de erro: a verificação às cegas apanhou os 2 erros de **posição e âmbito** (artigos no sítio errado, texto apagado fora do artigo). Não apanhou o erro de **leitura jurídica** (a revogação condicional), em que o verificador faz a mesma leitura literal que as regras. Esse tipo de erro só a revisão à mão o apanhou.
+
 ### A relação `amended_by` do DRE não quer dizer "alterou o texto"
 
-O achado com mais peso no plano: 498 dos 671 diplomas (74%) não têm alteração textual a aplicar. Confirmou-se à mão em ~60 casos. A relação do DRE junta coisas muito diferentes:
+O achado com mais peso no plano: 500 dos 671 diplomas (75%) não têm alteração textual a aplicar (498 na 1.ª corrida; a contagem por motivo abaixo é dessa corrida). Confirmou-se à mão em ~60 casos. A relação do DRE junta coisas muito diferentes:
 
 - **303: o original só aparece numa lista ou numa remissão**, quase sempre "alterado pelos Decretos-Leis n.os …, 45/2007, …". O diploma que altera muda **outro** diploma, na redação que o original lhe tinha dado. O DRE regista a relação no original quando devia registá-la no outro.
 - **179: o diploma que altera cita o original sem lhe dar instruções.** São portarias feitas "ao abrigo do" original, prorrogações de prazos, "mantido em vigor", ratificações, extinções de serviços, alterações de mapas orçamentais.
@@ -54,7 +77,7 @@ O achado com mais peso no plano: 498 dos 671 diplomas (74%) não têm alteraçã
 
 ### O que as regras aplicaram
 
-Nos 28 diplomas aplicados por regra houve 103 alterações:
+Nos 27 diplomas aplicados por regra houve 96 alterações:
 
 | Regra | Alterações |
 | --- | --: |
@@ -62,17 +85,17 @@ Nos 28 diplomas aplicados por regra houve 103 alterações:
 | Substituição com "[...]" (junta número a número) | 15 |
 | Revogação de número ou alínea | 12 |
 | Substituição integral da redação | 8 |
-| Aditamento de artigo | 8 |
+| Aditamento de artigo | 1 |
 | Substituição parcial (só um número ou alínea) | 1 |
 
-### Porque é que 78 ficam para o LLM
+### Porque é que 77 ficam para o LLM
 
-São 73 para o LLM e 5 que falharam a verificação, com 94 instruções:
+São 72 para o LLM e 5 que falharam a verificação, com 93 instruções:
 
 | Motivo | Instruções |
 | --- | --: |
 | Redação nova sem aspas «» (diplomas antigos: "Art. 3.º O n.º 6 do artigo 15.º … passa a ter a seguinte redacção:" e o texto segue sem aspas) | 34 |
-| Revogação com exceções ou só em parte | 14 |
+| Revogação com exceções ou só em parte | 13 |
 | Anexo do original não identificado (o original tem vários anexos ou nenhum `## Anexo`) | 9 |
 | Falhou a verificação: as regras aplicaram tudo, mas a verificação encontrou um parágrafo do diploma que altera, com um verbo de alteração, que nenhuma instrução leu, uma marca "[Anterior …]" que ficou no texto ou um parágrafo que não vem de nenhum dos textos | 8 |
 | Instrução de outro tipo ("passa a designar-se", "é suprimido", "é aditada uma alínea") | 7 |
@@ -108,7 +131,7 @@ Esta comparação apanhou um erro real nas primeiras versões: a marca de renume
    - nenhum parágrafo do diploma que altera menciona o original com um verbo de alteração sem ter dado uma instrução aplicada, e os artigos que o rótulo do DRE dá como alterados foram alterados;
    - quando há republicação, a comparação descrita acima.
 5. **Títulos pelo parser da fase 3**: quando o original não tem nenhum `###### Artigo`, os títulos vêm de `parse_articles` (ver acima). O consolidado fica com os títulos normalizados em todos os artigos, alterados ou não, e o cabeçalho diz `titulos_normalizados`.
-6. **Revisão à mão**: as diferenças dos consolidados foram lidas. Na 1.ª corrida, as dos 22 apanharam dois erros que a verificação deixava passar e que estão corrigidos: uma alínea "e)" lida como a conjunção "e", que substituía o n.º 2 inteiro em vez da alínea e), e uma retificação já presente no texto do acervo, que dava ";;". A segunda verificação acima (o resto do artigo não muda) entrou por causa do primeiro. Na 2.ª, as dos novos apanharam os três erros descritos em "O que mudou com o parser da fase 3".
+6. **Revisão à mão**: as diferenças dos consolidados foram lidas. Na 1.ª corrida, as dos 22 apanharam dois erros que a verificação deixava passar e que estão corrigidos: uma alínea "e)" lida como a conjunção "e", que substituía o n.º 2 inteiro em vez da alínea e), e uma retificação já presente no texto do acervo, que dava ";;". A segunda verificação acima (o resto do artigo não muda) entrou por causa do primeiro. Na 2.ª, as dos novos apanharam os três erros descritos em "O que mudou com o parser da fase 3". A verificação às cegas apanhou mais dois (ver "Resultado da verificação às cegas").
 
 A amostra de 50 diplomas (`consolidar.py --amostra 50 --semente 1`) serviu para afinar o método antes de correr os 671. Só 8 dos 50 tinham instruções; o resto do afinamento fez-se sobre os 671.
 
@@ -128,12 +151,13 @@ A amostra de 50 diplomas (`consolidar.py --amostra 50 --semente 1`) serviu para 
 | `selecao.jsonl` | Os 671, com o diploma que altera, os rótulos do DRE e os artigos que mencionam o original |
 | `resultados.jsonl` | Estado e motivo por diploma |
 | `pendentes.jsonl` | As instruções por aplicar, com o texto dos artigos do original em causa |
-| `piloto/<caminho do registo>.md` | O texto consolidado (só os 28 aplicados por regra) |
+| `piloto/<caminho do registo>.md` | O texto consolidado (só os 27 aplicados por regra) |
 | `piloto/<caminho do registo>.alteracoes.json` | Um registo por alteração: artigo, operação, regra, texto antes e depois, excerto que a justifica, método |
 | `verificacao/entrada-piloto.jsonl` | Entrada da 1.ª ronda da verificação às cegas (os 22 da 1.ª corrida, como estavam) |
 | `verificacao/entrada-piloto-2.jsonl` | Entrada da 2.ª ronda: os 8 aplicados por regra que não estão na 1.ª |
-| `verificacao/saida-piloto.jsonl` | Saída da 1.ª ronda (escrita pela sessão que verifica) |
-| `llm/entrada-sessao.jsonl` | Os 78 pendentes, prontos para uma sessão do Claude |
+| `verificacao/entrada-piloto-3.jsonl` | Entrada da 3.ª ronda: o DL 94/91, que mudou depois da 1.ª |
+| `verificacao/saida-piloto*.jsonl` | Saídas das rondas (escritas pela sessão que verifica) |
+| `llm/entrada-sessao.jsonl` | Os 77 pendentes, prontos para uma sessão do Claude |
 | `medicao.json` | Os números acima |
 
 Para repetir, a partir da raiz do worktree:
@@ -166,7 +190,7 @@ A 2.ª ronda (`verificacao/entrada-piloto-2.jsonl`) tem o mesmo formato. Quando 
    - `errado`: qualquer diferença de substância (palavra, número, número ou alínea a mais ou a menos, epígrafe errada, artigo que devia estar revogado ou não). Escrever o texto esperado;
    - `dúvida`: a instrução é ambígua ou depende de outro diploma. Explicar porquê.
    As diferenças de grafia, pontuação ou espaços que já estão no diploma que altera não são erro: o consolidado copia o diploma que altera, mesmo com gralhas.
-3. Um artigo revogado fica com o título, a epígrafe e o corpo "(Revogado.)". Um número revogado fica "N - (Revogado.)", e uma alínea "a) (Revogada.)".
+3. Um artigo revogado fica com o título, a epígrafe e o corpo "(Revogado.)". Um número revogado fica "N - (Revogado.)", e uma alínea "a) (Revogada.)". Uma revogação condicional ("são revogados, na parte em que contrariem o presente diploma, …") não se aplica ao texto: se o consolidado a aplicou, é `errado`.
 4. Por diploma, listar à parte: **instruções em falta** (do passo 1, sem efeito no consolidado), **artigos a mais ou a menos** e **texto fora dos artigos** (preâmbulo, títulos de capítulo) que tenha mudado.
 5. Não usar outras fontes (DRE, internet, outros registos): só os três textos da entrada.
 6. Não ler `piloto/*.alteracoes.json`, `resultados.jsonl` nem o código desta pasta antes de terminar.
@@ -178,7 +202,7 @@ A 2.ª ronda (`verificacao/entrada-piloto-2.jsonl`) tem o mesmo formato. Quando 
 
 ## Pendentes numa sessão do Claude
 
-Sem chave da API, uma sessão do Claude pode aplicar os pendentes, como se fez na avaliação. `python llm.py --sessao` escreve `llm/entrada-sessao.jsonl`, uma linha por diploma (78), com:
+Sem chave da API, uma sessão do Claude pode aplicar os pendentes, como se fez na avaliação. `python llm.py --sessao` escreve `llm/entrada-sessao.jsonl`, uma linha por diploma (77), com:
 
 | Campo | Conteúdo |
 | --- | --- |
@@ -196,8 +220,8 @@ A sessão escreve uma linha por diploma, `{"id", "artigos": [{"chave", "epigrafe
 - **Grafia:** o texto novo vem do diploma que altera e o resto do original, por isso o mesmo artigo pode ter grafias diferentes ("actividade" e "atividade"), como nas consolidações oficiais.
 - **Notas e ligações:** os parágrafos retificados perdem as ligações Markdown. O cabeçalho YAML dos consolidados é próprio do piloto (`consolidacao.estado: por verificar às cegas`); o formato final para `data/` decide-se no merge.
 - **O que é preciso para o resto:**
-  1. as duas rondas da verificação às cegas (22 + 8);
-  2. os 78 pendentes, numa sessão do Claude a partir de `llm/entrada-sessao.jsonl` ou com uma chave da API (`llm.py --executar`, cerca de 4,6 $);
+  1. a 3.ª ronda da verificação às cegas (DL 94/91) e decidir as 3 dúvidas (republicação que difere das instruções, alterador alterado depois, revogação com data diferida);
+  2. os 77 pendentes, numa sessão do Claude a partir de `llm/entrada-sessao.jsonl` ou com uma chave da API (`llm.py --executar`, cerca de 4,6 $);
   3. uma regra para a redação nova sem aspas (34 instruções);
-  4. decidir o que fazer com os 498 sem alteração textual e os 17 revogados (vigência e relações, fase 3).
+  4. decidir o que fazer com os 500 sem alteração textual e os 17 revogados (vigência e relações, fase 3).
 - **Os outros 1.468 diplomas com 10 ou mais citações** têm mais de uma alteração. O método serve na mesma (aplicar as alterações por ordem de data), mas a amostra mostra que é preciso filtrar primeiro as relações que não são alterações textuais.

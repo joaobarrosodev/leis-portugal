@@ -2,19 +2,19 @@
   "diplomas": 671,
   "por_estado": {
     "sem alteração textual": {
-      "total": 498,
+      "total": 500,
       "motivos": {
-        "o original só aparece numa lista ou remissão": 303,
-        "o alterador cita o original mas não lhe dá instruções de alteração": 179,
+        "o original só aparece numa lista ou remissão": 306,
+        "o alterador cita o original mas não lhe dá instruções de alteração": 178,
         "o alterador não menciona o original": 16
       }
     },
     "para LLM": {
-      "total": 73,
+      "total": 72,
       "motivos": {
         "redação nova sem aspas «»": 21,
         "original sem artigos identificados (só números do dispositivo: 1.º, 2.º, …)": 19,
-        "revogação com exceções ou só em parte": 9,
+        "revogação com exceções ou só em parte": 8,
         "revogação condicional": 4,
         "original sem artigos identificados (numeração repetida ou que recomeça sem título de anexo)": 4,
         "o texto a retificar não aparece uma única vez no original": 3,
@@ -39,9 +39,9 @@
       }
     },
     "aplicado por regra": {
-      "total": 28,
+      "total": 27,
       "motivos": {
-        "—": 28
+        "—": 27
       }
     },
     "revogado por inteiro": {
@@ -66,7 +66,7 @@
     "substituição com [...]": 15,
     "revogação de número ou alínea": 12,
     "substituição integral": 8,
-    "aditamento de artigo": 8,
+    "aditamento de artigo": 1,
     "substituição parcial": 1
   },
   "comparacao_com_republicacoes": [
@@ -119,15 +119,15 @@
     "tokens_usados": 0,
     "motivo": "sem ANTHROPIC_API_KEY no ambiente do piloto; a entrada para uma sessão do Claude está em llm/entrada-sessao.jsonl",
     "estimativa_para_os_pendentes": {
-      "pedidos": 78,
-      "tokens_entrada_estimados": 248748,
-      "tokens_saida_estimados": 182040,
+      "pedidos": 77,
+      "tokens_entrada_estimados": 246898,
+      "tokens_saida_estimados": 179955,
       "custo_estimado_usd": {
-        "claude-opus-5-5": 4.64,
-        "claude-sonnet-5-5": 2.32
+        "claude-opus-5-5": 4.59,
+        "claude-sonnet-5-5": 2.29
       },
       "motivos": {
-        "revogação com exceções ou só em parte": 14,
+        "revogação com exceções ou só em parte": 13,
         "revogação condicional («na parte em que contrarie»)": 4,
         "revogação do que o original aprovou em anexo": 1,
         "redação nova sem aspas «»": 34,

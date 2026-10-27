@@ -45,6 +45,11 @@ _REDACAO_DE_OUTRO = re.compile(
     r"(?:reda[cç]+[ãa]o (?:que lhe (?:foi|é) )?dada|alterad[oa]s?|republicad[oa]s?|introduzid[oa]s?|aditad[oa]s?) (?:pel[oa]s?|através d[oa])\s*$",
     re.I,
 )
+# O que pode haver entre duas menções da mesma lista de diplomas que deram redação.
+_INICIO_CADEIA = re.compile(_REDACAO_DE_OUTRO.pattern.replace(r"\s*$", ""), re.I)
+_CADEIA = re.compile(
+    r"^(?:[\s,]|\be\b|\bpel[oa]s?\b|\b(?:Leis|Decretos?-Leis|Decretos|Portarias|Leis Orgânicas|Decretos Regulamentares)\b|\bde \d{1,2}\.?º? de \w+(?: de \d{4})?|\b\d+(?:-[A-Z]+)?/\d{2,4}\b|\bn\.?\s*[ºo]s?\.?)*$", re.I
+)
 _ANEXO_DE = re.compile(r"(?:aprovad[oa]s?|publicad[oa]s?) (?:pel[oa]|em anexo (?:a[oa]?|à))\s*$|anexos? (?:[IVXL]+ )?(?:a[oa]?|d[oa])\s*$", re.I)
 _PLACEHOLDER = re.compile(r"^(?:\[\s*(?:\.\s*){3}\]|\[…\]|\(\s*(?:\.\s*){3}\)|\(…\)|…|(?:\.\s*){3,})[.;:,]?$")
 
@@ -265,7 +270,19 @@ def _governa(texto: str, padrao: re.Pattern[str]) -> tuple[re.Match[str] | None,
     refs = [(m.start(), m.end(), None) for m in diplomas_em(texto) if not any(p.start() <= m.start() < p.end() or m.start() <= p.start() < m.end() for p in proprias)]
     refs += [(m.start(), m.end(), m) for m in proprias]
     refs.sort(key=lambda r: r[0])
-    validas = [r for r in refs if not _REDACAO_DE_OUTRO.search(texto[max(0, r[0] - 60) : r[0]])]
+    validas, cadeia, fim = [], False, 0
+    for r in refs:
+        # "alterada pelas Leis n.os 4/95, …, e pela Lei Orgânica n.º 4/2004": toda a lista deu
+        # redação a outro diploma, não só a primeira menção.
+        intervalo = texto[fim : r[0]]
+        inicio = list(_INICIO_CADEIA.finditer(intervalo))
+        if inicio:
+            cadeia = bool(_CADEIA.match(intervalo[inicio[-1].end() :]))
+        else:
+            cadeia = cadeia and bool(_CADEIA.match(intervalo))
+        if not cadeia:
+            validas.append(r)
+        fim = r[1]
     if not validas:
         return None, "outro"
     anterior = 0

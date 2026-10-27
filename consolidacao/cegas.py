@@ -11,11 +11,12 @@ Quando os títulos dos artigos do original foram normalizados (artigos em texto 
 `texto.com_titulos`), a linha diz `titulos_normalizados: true` e traz também o original com os
 títulos, `texto_original_com_titulos`. As regras da verificação estão em `consolidacao/README.md`.
 
-Rondas: `--ronda 1` escreve `entrada-piloto.jsonl` com todos os aplicados por regra; `--ronda 2`
-escreve `entrada-piloto-2.jsonl` só com os que não estão na ronda 1 ou cujo consolidado mudou
-desde ela (a ronda 1 já está com o verificador e não se reescreve).
+Rondas: `--ronda 1` escreve `entrada-piloto.jsonl` com todos os aplicados por regra; `--ronda N`
+escreve `entrada-piloto-N.jsonl` só com os que não estão nas rondas anteriores ou cujo
+consolidado mudou desde a última em que estiveram (as rondas anteriores já foram verificadas e
+não se reescrevem).
 
-Uso: `python consolidacao/cegas.py [--ronda 2]`.
+Uso: `python consolidacao/cegas.py [--ronda N]`.
 """
 
 from __future__ import annotations
@@ -27,19 +28,22 @@ import re
 from texto import RAIZ, artigos_alteradores, com_titulos, corpo
 
 PASTA = RAIZ / "consolidacao"
-RONDAS = {1: PASTA / "verificacao" / "entrada-piloto.jsonl", 2: PASTA / "verificacao" / "entrada-piloto-2.jsonl"}
+
+
+def entrada(ronda: int):
+    return PASTA / "verificacao" / ("entrada-piloto.jsonl" if ronda == 1 else f"entrada-piloto-{ronda}.jsonl")
 LIMITE = 60_000
 _NOTA_PILOTO = re.compile(r"^> (?:Alterado|Aditado|Revogado|Retificado) pelo/a .*, publicado em \d{4}-\d{2}-\d{2}\.\n\n?", re.M)
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--ronda", type=int, choices=sorted(RONDAS), default=1)
+    parser.add_argument("--ronda", type=int, default=1)
     args = parser.parse_args()
-    saida = RONDAS[args.ronda]
+    saida = entrada(args.ronda)
     anteriores = {}
-    if args.ronda == 2:
-        anteriores = {d["id"]: d["texto_consolidado"] for d in map(json.loads, RONDAS[1].read_text(encoding="utf-8").splitlines())}
+    for ronda in range(1, args.ronda):
+        anteriores |= {d["id"]: d["texto_consolidado"] for d in map(json.loads, entrada(ronda).read_text(encoding="utf-8").splitlines())}
     selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao.jsonl").read_text(encoding="utf-8").splitlines())}
     resultados = [json.loads(l) for l in (PASTA / "resultados.jsonl").read_text(encoding="utf-8").splitlines()]
     saida.parent.mkdir(exist_ok=True)
