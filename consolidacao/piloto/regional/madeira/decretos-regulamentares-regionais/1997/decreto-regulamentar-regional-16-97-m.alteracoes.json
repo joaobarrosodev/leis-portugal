@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Estrutura\n\n1 - A DIRTRA é dirigida pelo director regional do Trabalho, adiante designado, abreviadamente, por director regional.\n\n2 - A DIRTRA compreende os seguintes órgãos e serviços:\n\na) Serviços de apoio;\n\nb) Direcção de Serviços Laborais (DSL);\n\nc) Divisão de Regulamentação e Relações de Trabalho (DRRT);\n\nd) Divisão de Recursos e Apreciação das Condições de Trabalho (DRACT);\n\ne) Divisão de Higiene e Segurança no Trabalho (DHST);\n\nf) Centro de Medicina do Trabalho (CMT);\n\ng) Divisão de Estatísticas do Trabalho (DETRA).",
+    "depois": "###### Artigo 3.º — Estrutura\n\n1 - A DIRTRA é dirigida pelo director regional do Trabalho, adiante designado, abreviadamente, por director regional.\n\n2 - A DIRTRA compreende os seguintes órgãos e serviços:\n\na) Serviços de apoio;\n\nb) Direcção de Serviços Laborais (DSL);\n\nc) Divisão de Regulamentação e Relações de Trabalho (DRRT);\n\nd) Divisão de Recursos e Apreciação das Condições de Trabalho (DRACT);\n\ne) Divisão de Higiene e Segurança no Trabalho (DHST);\n\nf) Centro de Medicina do Trabalho (CMT);\n\ng) Divisão de Estatísticas do Trabalho (DETRA).\n\nh) Departamento Administrativo Geral (DAG).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 21/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2000-515256), publicado em 2000-03-22.",
+    "excerto": "O artigo 3.º do Decreto Regulamentar Regional n.º 16/97/M, de 8 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\nEstrutura\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) Departamento Administrativo Geral (DAG).»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:204205:por",
+    "alterador": "pt:dre:515256:por"
+  }
+]

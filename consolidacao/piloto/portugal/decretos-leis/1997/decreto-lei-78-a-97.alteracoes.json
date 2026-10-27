@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 9.º — Limite à participação no capital\n\n1 - Nenhuma entidade, singular ou colectiva, poderá adquirir, no âmbito das operações previstas no presente decreto-lei, acções representativas de mais do que 5% do capital social da EDP, sendo reduzidas a este limite as propostas de aquisição que o excedam.\n\n2 - Para efeitos do número anterior, consideram-se como a mesma entidade duas ou mais entidades que tenham entre si relações de simples participação ou de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelo mesmo sócio.\n\n3 - O disposto no n.º 1 não é aplicável:\n\na) Às instituições que, no caso de emissão de programas de american depositary receipts (ADR) ou de global depositary receipts (GDR), e no âmbito dos mesmos, actuem como depositários ou custódios de acções da EDP e que sejam titulares de contas em seu nome na Central de Valores Mobiliários;\n\nb) Às centrais internacionais de liquidação relativamente às acções da EDP registadas nas contas de valores mobiliárias abertas em seu nome em instituições de custódia filiadas na Central de Valores Mobiliários.\n\n4 - No âmbito de programas de american depositary receipts (ADR) ou de global depositary receipts (GDR) que venham a ser emitidos, serão havidos como accionistas da EDP, para os devidos efeitos, os titulares dos ADR ou GDR e, como mero representante destes, o respectivo depositário.\n\n5 - A PARTEST - Participações do Estado, SGPS, S. A., é equiparada ao Estado para efeitos do disposto no n.º 3 do artigo 384.º do Código das Sociedades Comerciais.",
+    "depois": "###### Artigo 9.º — Limite à participação no capital\n\n1 - Nenhuma entidade, singular ou colectiva, poderá adquirir, no âmbito das operações previstas no presente decreto-lei, acções representativas de mais do que 5% do capital social da EDP, sendo reduzidas a este limite as propostas de aquisição que o excedam.\n\n2 - Para efeitos do número anterior, consideram-se como a mesma entidade duas ou mais entidades que tenham entre si relações de simples participação ou de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelo mesmo sócio.\n\n3 - O disposto no n.º 1 não é aplicável:\n\na) Às instituições que, no caso de emissão de programas de american depositary receipts (ADR) ou de global depositary receipts (GDR), e no âmbito dos mesmos, actuem como depositários ou custódios de acções da EDP e que sejam titulares de contas em seu nome na Central de Valores Mobiliários;\n\nb) Às centrais internacionais de liquidação relativamente às acções da EDP registadas nas contas de valores mobiliárias abertas em seu nome em instituições de custódia filiadas na Central de Valores Mobiliários.\n\n4 - No âmbito de programas de american depositary receipts (ADR) ou de global depositary receipts (GDR) que venham a ser emitidos, serão havidos como accionistas da EDP, para os devidos efeitos, os titulares dos ADR ou GDR e, como mero representante destes, o respectivo depositário.\n\n5 - (Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.",
+    "excerto": "São revogados:\n\nd) O n.º 5 do artigo 9.º do Decreto-Lei n.º 78-A/97, de 7 de Abril;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "5"
+    ],
+    "diploma": "pt:dre:642573:por",
+    "alterador": "pt:dre:669513:por"
+  }
+]

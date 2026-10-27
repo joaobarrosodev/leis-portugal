@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 8.º — Valor a pagar à Região Autónoma da Madeira\n\n1 - O valor a pagar pela VIAEXPRESSO à Região Autónoma da Madeira é o estabelecido nas bases da concessão, a liquidar nos termos em que o contrato de concessão o especifique.\n\n2 - Sempre que haja extensão do objecto da concessão, pode ser estabelecido novo valor a pagar pela concessionária à Região Autónoma da Madeira. Caso tal valor seja proporcional aos quilómetros de estrada concessionada, tendo por base comparativa o troço referido no n.º 1 do artigo 1.º deste diploma, bastará, a tal efeito, uma simples alteração ao contrato de concessão para concretizar essa obrigação.",
+    "depois": "###### Artigo 8.º — Valor a pagar à Região Autónoma da Madeira\n\nO valor a pagar pela VIAEXPRESSO à Região Autónoma da Madeira é o estabelecido nas bases da concessão, a liquidar nos termos em que o contrato de concessão o especifique, sendo deduzidos deste valor os montantes que correspondam à execução de obras que esta deva executar por efeito de cessão de posição contratual a seu favor de empreitadas contratadas originalmente pela RAMEDM - Estradas da Madeira, S. A., ou por outras entidades públicas. Sempre que haja extensão do objecto da concessão, deve ser estabelecido novo valor a pagar pela concessionária à Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 36/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2008-455616), publicado em 2008-08-14.",
+    "excerto": "1 - O artigo 8.º do Decreto Legislativo Regional n.º 1/2004/M, de 13 de Janeiro, passa a ter a seguinte redacção:\n\n«Artigo 8.º\n\n[...]\n\nO valor a pagar pela VIAEXPRESSO à Região Autónoma da Madeira é o estabelecido nas bases da concessão, a liquidar nos termos em que o contrato de concessão o especifique, sendo deduzidos deste valor os montantes que correspondam à execução de obras que esta deva executar por efeito de cessão de posição contratual a seu favor de empreitadas contratadas originalmente pela RAMEDM - Estradas da Madeira, S. A., ou por outras entidades públicas. Sempre que haja extensão do objecto da concessão, deve ser estabelecido novo valor a pagar pela concessionária à Região Autónoma da Madeira.»",
+    "artigo_alterador": "10.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:602477:por",
+    "alterador": "pt:dre:455616:por"
+  }
+]

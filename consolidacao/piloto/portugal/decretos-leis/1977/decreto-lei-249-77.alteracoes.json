@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º\n\nPara o ingresso previsto no artigo anterior é exclusivamente competente a Conservatória dos Registos Centrais, salvo quanto aos registos já requeridos.",
+    "depois": "###### Artigo 2.º\n\n1 - Para o ingresso dos assentos de nascimento, de declaração de maternidade e de perfilhação previstos no artigo anterior é competente a Conservatória dos Registos Centrais.\n\n2 - Para o ingresso dos assentos de casamento e de óbito previstos no artigo anterior a competência da conservatória determina-se de acordo com o estabelecido, respectivamente, no n.º 2 do artigo 187.º e nos n.os 5 e 6 do artigo 200.º do Código do Registo Civil.\n\n3 - Se não constar do registo civil nacional o assento de nascimento das pessoas a quem respeite o assento de casamento ou de óbito, ou se se tratar de facto sujeito a registo para o qual não seja competente nenhuma outra conservatória, a competência para o ingresso destes actos pertence à Conservatória dos Registos Centrais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1997-571071), publicado em 1997-01-31.",
+    "excerto": "O artigo 2.º do Decreto-Lei n.º 249/77, de 14 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n1 - Para o ingresso dos assentos de nascimento, de declaração de maternidade e de perfilhação previstos no artigo anterior é competente a Conservatória dos Registos Centrais.\n\n2 - Para o ingresso dos assentos de casamento e de óbito previstos no artigo anterior a competência da conservatória determina-se de acordo com o estabelecido, respectivamente, no n.º 2 do artigo 187.º e nos n.os 5 e 6 do artigo 200.º do Código do Registo Civil.\n\n3 - Se não constar do registo civil nacional o assento de nascimento das pessoas a quem respeite o assento de casamento ou de óbito, ou se se tratar de facto sujeito a registo para o qual não seja competente nenhuma outra conservatória, a competência para o ingresso destes actos pertence à Conservatória dos Registos Centrais.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:253436:por",
+    "alterador": "pt:dre:571071:por"
+  }
+]

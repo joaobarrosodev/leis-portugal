@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º\n\n1 - O capital social da Sociedade é de 411346155 euros, sendo as acções representativas do mesmo, no valor de 5 euros cada uma, pertencentes ao Estado, na sua totalidade, e detidas pela Direcção-Geral do Tesouro.\n\n2 - Enquanto as acções da Sociedade forem detidas pela Direcção-Geral do Tesouro, os direitos do Estado como accionista serão exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro da Economia.\n\n3 - No caso previsto no número anterior, e sempre que a lei ou os estatutos da Sociedade exijam a deliberação da assembleia geral, ou seja conveniente reuni-la, bastará que o representante do Estado exare a deliberação no respectivo livro de actas.",
+    "depois": "###### Artigo 3.º\n\n1 - O capital social da Sociedade é de 411383565 euros, sendo as acções representativas do mesmo, no valor de 5 euros cada uma, pertencentes ao Estado, na sua totalidade, e detidas pela Direcção-Geral do Tesouro.\n\n2 - Enquanto as acções da Sociedade forem detidas pela Direcção-Geral do Tesouro, os direitos do Estado como accionista serão exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro da Economia.\n\n3 - No caso previsto no número anterior, e sempre que a lei ou os estatutos da Sociedade exijam a deliberação da assembleia geral, ou seja conveniente reuni-la, bastará que o representante do Estado exare a deliberação no respectivo livro de actas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23.",
+    "excerto": "Os artigos 3.º e 4.º do Decreto-Lei n.º 137-A/99, de 22 de Abril, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n1 - O capital social da Sociedade é de 411383565 euros, sendo as acções representativas do mesmo, no valor de 5 euros cada uma, pertencentes ao Estado, na sua totalidade, e detidas pela Direcção-Geral do Tesouro.\n\n2 - ...\n\n3 - ...\n\nArtigo 4.º\n\n1 - ...\n\na) 56850000 acções, no valor nominal global de 56850000000$00, no capital social da Petróleos de Portugal - PETROGAL, S. A.;\n\nb) ...\n\nc) ...\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:265085:por",
+    "alterador": "pt:dre:508585:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 4.º\n\n1 - O capital social da Sociedade é realizado pela transmissão, para a Sociedade, das seguintes participações do Estado, que representam a totalidade das suas participações directas nas sociedades em causa:\n\na) 56842500 acções, no valor nominal global de 56842500000$00, no capital social da Petróleos de Portugal - PETROGAL, S. A.;\n\nb) 25000000 de acções, no valor nominal global de 25000000000$00, no capital social da GDP - Gás de Portugal, SGPS, S. A.;\n\nc) 625000 acções, no valor nominal global de 625000000$00, no capital social da TRANSGÁS - Sociedade Portuguesa de Gás Natural, S. A.\n\n2 - O valor a atribuir às acções, transmitidas nos termos deste artigo, será fixado por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, ficando a diferença entre o valor do capital social e o valor atribuído às acções a constituir uma reserva da Sociedade.\n\n3 - As transmissões a que se refere o n.º 1 deste artigo operam-se por mero efeito da aplicação do presente diploma.",
+    "depois": "###### Artigo 4.º\n\n1 - O capital social da Sociedade é realizado pela transmissão, para a Sociedade, das seguintes participações do Estado, que representam a totalidade das suas participações directas nas sociedades em causa:\n\na) 56850000 acções, no valor nominal global de 56850000000$00, no capital social da Petróleos de Portugal - PETROGAL, S. A.;\n\nb) 25000000 de acções, no valor nominal global de 25000000000$00, no capital social da GDP - Gás de Portugal, SGPS, S. A.;\n\nc) 625000 acções, no valor nominal global de 625000000$00, no capital social da TRANSGÁS - Sociedade Portuguesa de Gás Natural, S. A.\n\n2 - O valor a atribuir às acções, transmitidas nos termos deste artigo, será fixado por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, ficando a diferença entre o valor do capital social e o valor atribuído às acções a constituir uma reserva da Sociedade.\n\n3 - As transmissões a que se refere o n.º 1 deste artigo operam-se por mero efeito da aplicação do presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23.",
+    "excerto": "Os artigos 3.º e 4.º do Decreto-Lei n.º 137-A/99, de 22 de Abril, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n1 - O capital social da Sociedade é de 411383565 euros, sendo as acções representativas do mesmo, no valor de 5 euros cada uma, pertencentes ao Estado, na sua totalidade, e detidas pela Direcção-Geral do Tesouro.\n\n2 - ...\n\n3 - ...\n\nArtigo 4.º\n\n1 - ...\n\na) 56850000 acções, no valor nominal global de 56850000000$00, no capital social da Petróleos de Portugal - PETROGAL, S. A.;\n\nb) ...\n\nc) ...\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:265085:por",
+    "alterador": "pt:dre:508585:por"
+  },
+  {
+    "artigo": "ANEXO — ESTATUTOS DA GALP - PETRÓLEOS E GÁS DE PORTUGAL, SGPS, S. A.::4.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 4.º\n\nO capital social é de 411346155 euros, encontrando-se integralmente realizado, e é representado por 82269231 acções, com o valor nominal de 5 euros cada uma.",
+    "depois": "###### Artigo 4.º\n\nO capital social é de 411383565 euros, encontrando-se integralmente realizado, e é representado por 82276713 acções, com o valor nominal de 5 euros cada uma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23.",
+    "excerto": "O artigo 4.º dos estatutos anexos ao Decreto-Lei n.º 137-A/99, de 22 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\nO capital social é de 411383565 euros, encontrando-se integralmente realizado, e é representado por 82276713 acções, com o valor nominal de 5 euros cada uma.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:265085:por",
+    "alterador": "pt:dre:508585:por"
+  }
+]

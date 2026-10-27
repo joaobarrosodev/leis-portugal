@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\n1. A realização de trabalhos de investigação a efectuar por entidades nacionais ou estrangeiras na plataforma continental metropolitana depende de autorização do Ministério da Marinha, ouvida a Comissão Interministerial para o Estudo da Utilização Pacífica do Fundo do Mar, adiante designada simplesmente por Comissão, podendo ser impostas, nas autorizações, as condições julgadas adequadas em cada caso, nomeadamente a entrega das informações e dos registos obtidos e das respectivas interpretações.\n\n2. A Comissão não poderá deliberar nos termos do número anterior sem a presença e o voto da representação da Secretaria de Estado da Indústria, sempre que o pedido de autorização envolva interesse geológico ou mineiro.\n\n3. A realização de trabalhos de investigação de natureza puramente científica relativa às características físicas ou biológicas da plataforma continental metropolitana será, em regra, autorizada, quando requerida por instituições qualificadas, sob condição de os resultados serem publicados e de o Estado, se assim o desejar, participar ou fazer-se representar nesses trabalhos.\n\n4. Os pedidos de autorização devem ser apresentados, em regra, com a antecedência de noventa dias sobre a data prevista para o início dos trabalhos, no Ministério da Marinha, quando se tratar de entidades nacionais e no Ministério dos Negócios Estrangeiros, quando se tratar de entidades estrangeiras ou internacionais.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 364/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1986-220972), publicado em 1986-10-30.",
+    "excerto": "Artigo 1.º É extinta a Comissão Interministerial para o Estudo da Utilização Pacífica do Fundo do Mar, criada pelo artigo 15.º do Decreto n.º 97/71, de 24 de Março, que, nestes termos, se revoga.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:445757:por",
+    "alterador": "pt:dre:220972:por"
+  },
+  {
+    "artigo": "15.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 15.º\n\n1. É criada a Comissão Interministerial para o Estudo da Utilização Pacífica do Fundo do Mar, a que se refere o presente diploma.\n\n2. A Comissão funcionará junto do Ministério dos Negócios Estrangeiros e a sua composição e competência serão definidas em portaria.\n\n3. O presidente e o secretário da Comissão receberão uma gratificação mensal, a fixar por despacho conjunto do Presidente do Conselho e do Ministro das Finanças, e os respectivos vogais têm direito a senhas de presença pelas reuniões a que assistirem.\n\n4. As remunerações a que se refere o número anterior serão pagas por dotação a inscrever no orçamento do Ministério dos Negócios Estrangeiros.",
+    "depois": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 364/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1986-220972), publicado em 1986-10-30.",
+    "excerto": "Artigo 1.º É extinta a Comissão Interministerial para o Estudo da Utilização Pacífica do Fundo do Mar, criada pelo artigo 15.º do Decreto n.º 97/71, de 24 de Março, que, nestes termos, se revoga.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:445757:por",
+    "alterador": "pt:dre:220972:por"
+  }
+]

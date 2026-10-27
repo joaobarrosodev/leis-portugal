@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nÉ permitida a importação sob regime de draubaque de milho ultramarino destinado ao fabrico de sêmolas alimentares ou de farinhas para gados.\n\n§ único. As importações de milho feitas ao abrigo deste artigo só poderão efectuar-se mediante prévia autorização do Ministério da Economia, que, por cada caso, avaliará da sua oportunidade em face das disponibilidades do milho de produção metropolitana.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 44679](https://diariodarepublica.pt/dr/detalhe/decreto/44679-1962-155848), publicado em 1962-11-12.",
+    "excerto": "Artigo único. É eliminado o § único do artigo 1.º do Decreto n.º 44598, de 26 de Setembro de 1962, que permite a importação, sob regime de draubaque, de milho ultramarino destinado ao fabrico de sêmolas alimentares ou de farinhas para gados.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:160371:por",
+    "alterador": "pt:dre:155848:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "33.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 33.º\n\nA entrada no quadro comum do pessoal referido no artigo 31.º faz-se pela categoria de engenheiro de 2.ª classe, mediante concurso documental aberto no Ministério do Ultramar entre os que se mostrem habilitados com o correspondente curso superior.\n\n§ 1.º Os engenheiros de 2.ª classe com mais de três anos de serviço na classe e boas informações terão, para todos os efeitos legais, a categoria da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.\n\n§ 2.º As vagas de engenheiro de 1.ª classe são providas por meio de promoção dos engenheiros de 2.ª classe depois de cinco anos de serviço nesta classe com boas informações e, em igualdade de informações, pela maior antiguidade.\n\n§ 3.º As vagas de engenheiro-chefe são preenchidas, por escolha, entre os engenheiros de 1.ª classe com, pelo menos, quatro anos de serviço nesta classe, considerado o mérito e a antiguidade.\n\n§ 4.º Se as vagas a preencher nos termos dos parágrafos anteriores forem em número superior ao dos candidatos que reúnam as condições neles impostas, poderá o Ministro do Ultramar, por despacho, autorizar a promoção de engenheiros de categoria imediatamente inferior à das vagas a prover, sem o mínimo de tempo legalmente exigido.",
+    "depois": "###### Artigo 33.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 48607](https://diariodarepublica.pt/dr/detalhe/decreto/48607-1968-264366), publicado em 1968-10-07.",
+    "excerto": "Art. 8.º Fica revogada a legislação em contrário, nomeadamente o § 1.º do artigo 33.º do Decreto n.º 47499, de 17 de Janeiro de 1967, e artigo 71.º do Decreto n.º 45575, de 26 de Fevereiro de 1964.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:501628:por",
+    "alterador": "pt:dre:264366:por"
+  }
+]

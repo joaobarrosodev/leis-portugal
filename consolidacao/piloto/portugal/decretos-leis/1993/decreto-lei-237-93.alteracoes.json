@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 3.º\n\n1 - Os Ministros das Finanças, da Justiça e da Saúde celebram as convenções de arbitragem a que se referem os n.os 1 e 2 do artigo 1.º desde que nelas seja estabelecido:\n\na) A concessão de autorização aos árbitros para julgarem segundo a equidade, tendo em consideração, entre outros, os critérios da idade e da responsabilidade familiar;\n\nb) A concessão aos árbitros de poderes para a escolha das regras de processo a observar na arbitragem;\n\nc) A fixação do prazo de três meses, contados de acordo com a lei processual, para a decisão do tribunal arbitral;\n\nd) O valor a que a indemnização pode ascender, no caso de o tribunal arbitral reconhecer esse direito;\n\ne) A desistência do pedido, caso esteja pendente em tribunal judicial acção cuja causa de pedir seja a mesma daquela que o tribunal arbitral deva decidir.\n\n2 - Para os efeitos previstos na alínea e) do número anterior, deve a parte que pretenda instaurar a acção no tribunal arbitral juntar certidão de sentença homologatória que incidiu sobre a desistência do pedido.",
+    "depois": "###### Artigo 3.º\n\n1 - Os Ministros das Finanças, da Justiça e da Saúde celebram as convenções de arbitragem a que se referem os n.os 1 e 2 do artigo 1.º desde que nelas seja estabelecido:\n\na) A concessão de autorização aos árbitros para julgarem segundo a equidade, tendo em consideração, entre outros, os critérios da idade e da responsabilidade familiar;\n\nb) A concessão aos árbitros de poderes para a escolha das regras de processo a observar na arbitragem;\n\nc) A fixação do prazo de três meses, contados de acordo com a lei processual, para a decisão do tribunal arbitral;\n\nd) O valor a que a indemnização pode ascender, no caso de o tribunal arbitral reconhecer esse direito;\n\ne) A desistência da instância, caso esteja pendente em tribunal judicial acção cuja causa de pedir seja a mesma daquela que o tribunal arbitral deva decidir.\n\n2 - Para os efeitos previstos na alínea e) do número anterior, deve a parte que pretenda instaurar a acção no tribunal arbitral juntar certidão de sentença homologatória que incidiu sobre a desistência do pedido.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 147/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/147-1993-566794), publicado em 1993-08-31.",
+    "excerto": "Na alínea e) do n.º 1 do artigo 3.º, onde se lê «A desistência do pedido, caso» deve ler-se «A desistência da instância, caso».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373471:por",
+    "alterador": "pt:dre:566794:por"
+  }
+]

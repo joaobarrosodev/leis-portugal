@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Órgãos\n\n1 - O GAVE é dirigido por um director, coadjuvado por um director-adjunto, cargos de direcção superior de primeiro e segundo graus, respectivamente.\n\n2 - É ainda órgão do GAVE o conselho consultivo.",
+    "depois": "###### Artigo 3.º — Órgãos\n\n1 - O GAVE é dirigido por um director, coadjuvado por dois directores-adjuntos, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n2 - É ainda órgão do GAVE o conselho consultivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2009-489524), publicado em 2009-09-02.",
+    "excerto": "Os artigos 3.º e 4.º do Decreto Regulamentar n.º 30/2007, de 29 de Março, passam a ter a redacção seguinte:\n\n«Artigo 3.º\n\n[...]\n\n1 - O GAVE é dirigido por um director, coadjuvado por dois directores-adjuntos, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n2 - ...\n\nArtigo 4.º\n\n[...]\n\n1 - ...\n\n2 - Os directores-adjuntos exercem as competências que lhes sejam delegadas ou subdelegadas pelo director, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:520441:por",
+    "alterador": "pt:dre:489524:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 4.º — Director\n\n1 - O director exerce as competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas.\n\n2 - Ao director-adjunto compete substituir o director nas suas faltas e impedimentos e exercer as competências que lhe sejam por este delegadas ou subdelegadas.",
+    "depois": "###### Artigo 4.º — Director\n\n1 - O director exerce as competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas.\n\n2 - Os directores-adjuntos exercem as competências que lhes sejam delegadas ou subdelegadas pelo director, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2009-489524), publicado em 2009-09-02.",
+    "excerto": "Os artigos 3.º e 4.º do Decreto Regulamentar n.º 30/2007, de 29 de Março, passam a ter a redacção seguinte:\n\n«Artigo 3.º\n\n[...]\n\n1 - O GAVE é dirigido por um director, coadjuvado por dois directores-adjuntos, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n2 - ...\n\nArtigo 4.º\n\n[...]\n\n1 - ...\n\n2 - Os directores-adjuntos exercem as competências que lhes sejam delegadas ou subdelegadas pelo director, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:520441:por",
+    "alterador": "pt:dre:489524:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\n1. Durante o período em que não esteja preenchido o cargo de director do Instituto Nacional de Estatística e enquanto se prepara uma remodelação da estrutura do referido Instituto, as suas funções passarão a ser desempenhadas por um conjunto de pessoas constituindo uma comissão directiva.\n\n2. O número e designação das pessoas que ficarão a constituir a comissão directiva serão fixados por despacho ministerial.\n\n3. O exercício das funções por parte de qualquer membro da comissão directiva é compatível com o desempenho de qualquer outro cargo dentro da orgânica do Instituto.\n\n4. Se qualquer funcionário ou técnico do Instituto for nomeado membro da comissão directiva, ficará a perceber a remuneração inerente ao cargo que desempenhava, salvaguardado o direito a remuneração superior se, entretanto, for nomeado para outro cargo em que esta seja devida.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 628/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1976-430869), publicado em 1976-07-28.",
+    "excerto": "Art. 5.º São revogados os artigos 1.º e 2.º do Decreto-Lei n.º 297/74, de 2 de Julho, e o Decreto n.º 218/75, de 5 de Maio.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476508:por",
+    "alterador": "pt:dre:430869:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nA comissão directiva ficará com todos os poderes atribuídos pelo artigo 21.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, ao director e subdirectores do Instituto, enquanto se mantiver em funcionamento.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 628/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1976-430869), publicado em 1976-07-28.",
+    "excerto": "Art. 5.º São revogados os artigos 1.º e 2.º do Decreto-Lei n.º 297/74, de 2 de Julho, e o Decreto n.º 218/75, de 5 de Maio.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476508:por",
+    "alterador": "pt:dre:430869:por"
+  }
+]

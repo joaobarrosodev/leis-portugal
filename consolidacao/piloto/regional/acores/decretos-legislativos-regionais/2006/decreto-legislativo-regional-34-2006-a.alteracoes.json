@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º — Âmbito\n\nA zona referida no artigo anterior é definida pela área assinalada nas plantas anexas ao presente diploma, do qual fazem parte integrante, num total de 660,65 ha.",
+    "depois": "###### Artigo 2.º — Âmbito\n\nA zona referida no artigo anterior é definida pela área assinalada na planta anexa ao presente diploma, do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2008-249569), publicado em 2008-04-28.",
+    "excerto": "O artigo 2.º do Decreto Legislativo Regional n.º 34/2006/A, de 30 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n(...)\n\nA zona referida no artigo anterior é definida pela área assinalada na planta anexa ao presente diploma, do qual faz parte integrante.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:540386:por",
+    "alterador": "pt:dre:249569:por"
+  }
+]

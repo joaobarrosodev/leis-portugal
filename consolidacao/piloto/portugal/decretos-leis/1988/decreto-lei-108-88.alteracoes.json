@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º — Manutenção de contratos de associação\n\n1 - Sempre que a criação de uma ou mais escolas públicas dependentes do Ministério da Educação venha a realizar-se em zona onde funcionem escolas particulares e cooperativas em regime de contrato de associação previsto no [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, pode este ser renovado, sem solução de continuidade e sem demais exigências contratuais, por um período igual ao somatório daqueles em que se tenha desenvolvido anteriormente, mas nunca inferior a cinco anos.\n\n2 - O disposto no número anterior depende de as escolas particulares e cooperativas manterem cumpridos os requisitos legais previstos no [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.",
+    "depois": "###### Artigo 5.º — Manutenção de contratos de associação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28.",
+    "excerto": "São revogados:\n\nd) O artigo 5.º do Decreto-Lei n.º 108/88, de 31 de Março;",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:286306:por",
+    "alterador": "pt:dre:666882:por"
+  }
+]

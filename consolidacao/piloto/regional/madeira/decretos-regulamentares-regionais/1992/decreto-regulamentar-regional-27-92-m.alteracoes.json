@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 24.º — Coordenador sub-regional\n\n1 - Em cada sub-região haverá um coordenador sub-regional, ao qual cabe coadjuvar o conselho de administração e exercer as funções que lhe sejam delegadas.\n\n2 - Em especial, cabe ao coordenador sub-regional promover a articulação operacional dos serviços de saúde da sua área, com vista a obter um grau elevado de eficiência e de aproveitamento de recursos.\n\n3 - O coordenador sub-regional é designado pelo Secretário Regional dos Assuntos Sociais de entre os directores dos centros de saúde concelhios.",
+    "depois": "###### Artigo 24.º — Coordenador sub-regional\n\n1 - Em cada sub-região haverá um coordenador sub-regional, ao qual cabe coadjuvar o conselho de administração e exercer as funções que lhe sejam delegadas.\n\n2 - Em especial, cabe ao coordenador sub-regional promover a articulação operacional dos serviços de saúde da sua área, com vista a obter um grau elevado de eficiência e de aproveitamento de recursos.\n\n3 - O coordenador sub-regional é designado pelo Secretário Regional dos Assuntos Sociais de entre os directores dos centros de saúde concelhios.\n\n4 - Ao coordenador sub-regional será atribuída uma remuneração mensal adicional, a fixar por portaria do Secretário Regional dos Assuntos Sociais e Parlamentares.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto Regulamentar Regional n.º 3-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-a-1997-509787), publicado em 1997-02-06.",
+    "excerto": "O artigo 24.º do Decreto Regulamentar Regional n.º 27/92/M, de 24 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 24.º\n\nCoordenador sub-regional\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Ao coordenador sub-regional será atribuída uma remuneração mensal adicional, a fixar por portaria do Secretário Regional dos Assuntos Sociais e Parlamentares.»",
+    "artigo_alterador": "22.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:232343:por",
+    "alterador": "pt:dre:509787:por"
+  }
+]

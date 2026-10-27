@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "21.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 21.º — Norma revogatória\n\n1 - É revogado o [Decreto-Lei n.º 422/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1999-667357), de 21 de Outubro, com excepção do disposto no n.º 3 do artigo 5.º, no n.º 8 do artigo 7.º, nos n.os 4, 5 e 6 do artigo 35.º, no artigo 48.º e no n.º 3 do artigo 49.º\n\n2 - A equiparação prevista no n.º 8 do artigo 7.º do [Decreto-Lei n.º 422/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1999-667357), de 21 de Outubro, é aplicável a dois dos três vogais do conselho directivo, sem prejuízo de um destes ser nomeado vice-presidente.\n\n3 - A revogação da alínea x) do artigo 3.º do citado [Decreto-Lei n.º 422/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1999-667357), de 21 de Outubro, produz efeitos em 30 de Junho de 2008.",
+    "depois": "###### Artigo 21.º — Norma revogatória\n\n1 - É revogado o [Decreto-Lei n.º 422/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1999-667357), de 21 de Outubro, com excepção do disposto no n.º 3 do artigo 5.º, no n.º 8 do artigo 7.º, nos n.os 4, 5 e 6 do artigo 35.º, no artigo 48.º e no n.º 3 do artigo 49.º\n\n2 - A equiparação prevista no n.º 8 do artigo 7.º do Decreto-Lei n.º 422/99, de 21 de Outubro, é aplicável aos vogais do conselho directivo recrutados nos termos do n.º 3 do artigo 5.º do presente decreto-lei, bem como aos vogais que sejam docentes universitários de categorias equivalentes.\n\n3 - A revogação da alínea x) do artigo 3.º do citado [Decreto-Lei n.º 422/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1999-667357), de 21 de Outubro, produz efeitos em 30 de Junho de 2008.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 125/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2010-308745), publicado em 2010-11-18.",
+    "excerto": "O artigo 21.º do Decreto-Lei n.º 304/2007, de 24 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 21.º\n\n[...]\n\n1 -...\n\n2 - A equiparação prevista no n.º 8 do artigo 7.º do Decreto-Lei n.º 422/99, de 21 de Outubro, é aplicável aos vogais do conselho directivo recrutados nos termos do n.º 3 do artigo 5.º do presente decreto-lei, bem como aos vogais que sejam docentes universitários de categorias equivalentes.\n\n3 - ...»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:640914:por",
+    "alterador": "pt:dre:308745:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 4.º — Regime de instalação\n\n1 - A Escola prossegue o seu funcionamento em regime de instalação, por um período que não pode exceder o fim do ano lectivo de 1999-2000.\n\n2 - O regime de instalação é o fixado pelo [Decreto-Lei n.º 24/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1994-495503), de 27 de Janeiro, conjugado com o disposto no [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), de 18 de Agosto, na parte aplicável.\n\n3 - O director é apoiado no processo de instalação da Escola por um conselho consultivo, nomeado por despacho conjunto dos Ministros da Educação e da Cultura e do membro do Governo que tutele a Administração Pública, e constituído por três a cinco membros.\n\n4 - Os membros do conselho consultivo têm direito a senhas de presença, de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação.",
+    "depois": "###### Artigo 4.º — Regime de instalação\n\n1 - A Escola prossegue o seu funcionamento em regime de instalação, por um período que não pode exceder o fim do ano lectivo de 1999-2000.\n\n2 - O regime de instalação é o fixado pelo [Decreto-Lei n.º 24/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1994-495503), de 27 de Janeiro, conjugado com o disposto no [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), de 18 de Agosto, na parte aplicável.\n\n3 - Durante o regime de instalação, o cargo de director da Escola é exercido, por inerência e a título não remunerado, pelo director do Instituto José de Figueiredo.\n\n4 - O director é apoiado no processo de instalação da Escola por um conselho consultivo, nomeado por despacho conjunto dos Ministros da Educação e da Cultura e do membro do Governo que tutele a Administração Pública, e constituído por três a cinco membros.\n\n5 - Os membros do conselho consultivo têm direito a senhas de presença, de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 181/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1998-487079), publicado em 1998-07-03.",
+    "excerto": "O artigo 4.º do Decreto-Lei n.º 38-A/98, de 26 de Fevereiro, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Durante o regime de instalação, o cargo de director da Escola é exercido, por inerência e a título não remunerado, pelo director do Instituto José de Figueiredo.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226441:por",
+    "alterador": "pt:dre:487079:por"
+  }
+]

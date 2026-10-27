@@ -1,0 +1,33 @@
+[
+  {
+    "artigo": "42.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 42.º — Conservatórios regionais\n\n1 - Os conservatórios regionais não integrados constituem unidades orgânicas do sistema educativo especificamente destinadas ao ensino vocacional da música e da dança, dotadas de autonomia administrativa, regendo-se, nos termos do n.º 3 do artigo 144.º do [Decreto Legislativo Regional n.º 12/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-227009), de 16 de Junho, pelo regime de autonomia e gestão fixado para as restantes unidades orgânicas do sistema educativo.\n\n2 - São conservatórios regionais não integrados:\n\na) Conservatório Regional da Horta;\n\nb) Conservatório Regional de Ponta Delgada.",
+    "depois": "###### Artigo 42.º — Conservatórios regionais\n\n1 - Os conservatórios regionais não integrados constituem unidades orgânicas do sistema educativo especificamente destinadas ao ensino vocacional da música e da dança, dotadas de autonomia administrativa, regendo-se, nos termos do n.º 3 do artigo 144.º do [Decreto Legislativo Regional n.º 12/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-227009), de 16 de Junho, pelo regime de autonomia e gestão fixado para as restantes unidades orgânicas do sistema educativo.\n\n2 - São conservatórios regionais não integrados:\n\na) (Revogada.)\n\nb) Conservatório Regional de Ponta Delgada.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 18/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2011-669860), publicado em 2011-08-10.",
+    "excerto": "Pelo presente diploma é revogada a alínea a) do n.º 2 do artigo 42.º do Decreto Regulamentar Regional n.º 14/2007/A, de 13 de Julho.",
+    "artigo_alterador": "6.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2",
+      "a"
+    ],
+    "diploma": "pt:dre:636073:por",
+    "alterador": "pt:dre:669860:por"
+  },
+  {
+    "artigo": "40.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 40.º — Dotação dos quadros do pessoal não docente\n\n1 - Os quadros do pessoal não docente são fixados nos termos dos n.os 4 e 5 do artigo 5.º do anexo ao [Decreto Legislativo Regional n.º 11/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2006-667771), de 21 de Março.\n\n2 - Sem prejuízo do disposto no artigo 7.º do Estatuto do Pessoal não Docente, aprovado pelo [Decreto Legislativo Regional n.º 11/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2006-667771), de 21 de Março, na dotação dos diversos estabelecimentos de cada unidade orgânica, para a carreira de auxiliar de acção educativa, são tidas em consideração as seguintes regras indicativas:\n\na) Na educação pré-escolar e no 1.º ciclo do ensino básico, um lugar por cada 50 alunos ou fracção;\n\nb) Nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, um lugar por cada 60 alunos até aos 600 alunos, 12 lugares de 600 a 1000 alunos, 14 lugares de 1000 a 1500 alunos e 16 lugares quando o número de alunos for igual ou superior a 1500.\n\n3 - O disposto nos números anteriores é tido em conta apenas para a fixação do número de lugares a atribuir a cada estabelecimento, ficando o seu preenchimento dependente do disposto na lei geral em matéria de recrutamento e selecção de pessoal.",
+    "depois": "###### Artigo 40.º — Dotação dos quadros do pessoal não docente\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 11/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-186663186), publicado em 2022-07-26.",
+    "excerto": "É revogado o artigo 40.º do Decreto Regulamentar Regional n.º 14/2007/A, de 13 de julho, alterado pelo Decreto Regulamentar Regional n.º 6/2009/A, de 5 de junho, pelo Decreto Regulamentar Regional n.º 18/2011/A, de 10 de agosto, e pelo Decreto Regulamentar Regional n.º 16/2012/A, de 19 de junho.",
+    "artigo_alterador": "8.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:636073:por",
+    "alterador": "pt:dre:186663186:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º\n\nA informação anual sobre a actividade social da empresa que abrange quem esteja vinculado ao empregador, mediante contrato de prestação de serviço, incluído no anexo F, só deverá começar a ser prestada em 2011, com referência ao ano de 2010.",
+    "depois": "###### Artigo 5.º\n\nA informação anual sobre a actividade social da empresa que abrange quem esteja vinculado ao empregador, mediante contrato de prestação de serviço, incluído no anexo F, só deverá começar a ser prestada em 2012, com referência ao ano de 2011.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 108-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/108-a-2011-476972), publicado em 2011-03-14.",
+    "excerto": "O artigo 5.º da Portaria n.º 55/2010, de 21 de Janeiro, é alterado, passando a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\nA informação anual sobre a actividade social da empresa que abrange quem esteja vinculado ao empregador, mediante contrato de prestação de serviço, incluído no anexo F, só deverá começar a ser prestada em 2012, com referência ao ano de 2011.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:616793:por",
+    "alterador": "pt:dre:476972:por"
+  }
+]

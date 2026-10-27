@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º — Características do selo personalizado\n\nA emissão dos selos personalizados tem as seguintes características:\n\nDimensão - 40 mm x 30,6 mm ou 30,6 mm x40 mm;\n\nPicotado - 13 3/4;\n\nImpressor - CTT - Correios de Portugal, S. A.;\n\nEspaço central - livre para imagem personalizada;\n\nPapel - autocolante;\n\nFranquia - a que corresponder ao solicitado pelo utilizador consoante o tipo de produto, âmbito e escalão de peso em que pretende utilizar o selo;\n\nTiragem - ilimitada.",
+    "depois": "###### Artigo 2.º — Características do selo personalizado\n\nA emissão dos selos personalizados tem as seguintes características:\n\nDimensão - 40 mm x 30,6 mm ou 30,6 mm x 40 mm;\n\nPicotado - 13 3/4 ou 11 3/4;\n\nImpressor - CTT - Correios de Portugal, S. A.;\n\nEspaço central - livre para imagem personalizada;\n\nPapel - autocolante ou gomado;\n\nFranquia - a que corresponder ao solicitado pelo utilizador consoante o tipo de produto, âmbito e escalão de peso em que pretende utilizar o selo;\n\nTiragem - ilimitada.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1177/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1177-2010-308728), publicado em 2010-11-16.",
+    "excerto": "O artigo 2.º da Portaria n.º 1335/2007, de 10 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\nCaracterísticas do selo personalizado\n\nA emissão dos selos personalizados tem as seguintes características:\n\nDimensão - 40 mm x 30,6 mm ou 30,6 mm x 40 mm;\n\nPicotado - 13 3/4 ou 11 3/4;\n\nImpressor - CTT - Correios de Portugal, S. A.;\n\nEspaço central - livre para imagem personalizada;\n\nPapel - autocolante ou gomado;\n\nFranquia - a que corresponder ao solicitado pelo utilizador consoante o tipo de produto, âmbito e escalão de peso em que pretende utilizar o selo;\n\nTiragem - ilimitada.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:641463:por",
+    "alterador": "pt:dre:308728:por"
+  }
+]

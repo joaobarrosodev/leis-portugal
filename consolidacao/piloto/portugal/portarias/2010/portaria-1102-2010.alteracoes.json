@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 3.º — Regime transitório\n\n1 - O regime transitório definido no artigo 4.º da Portaria n.º 353-B/2009, de 3 de Abril, cuja data limite de vigência se encontra fixada em 31 de Dezembro de 2010, mantém-se em vigor até 31 de Dezembro de 2011, em tudo o que não for alterado pela presente portaria.\n\n2 - Os promotores podem submeter pedidos de reformulação dos respectivos projectos aprovados, beneficiando das seguintes disposições extraordinárias e transitórias, até à data que for determinada pelo órgão de gestão:\n\na) A prorrogação do prazo de execução do projecto prevista no n.º 8 do artigo 10.º do Regulamento anexo à presente portaria poderá ser autorizada por um período superior ao estipulado de acordo com as necessidades reconhecidas para a adequada conclusão do projecto, estabelecendo-se como limite máximo um prazo de execução adicional de 24 meses, com excepção do vale I&DT em que este prazo tem um limite máximo de 12 meses;\n\nb) As alterações decorrentes da aceitação do pedido de reformulação, nomeadamente a revisão do prazo de execução e do valor do investimento, não produzem quaisquer consequências negativas na avaliação do mérito do projecto.",
+    "depois": "###### Artigo 3.º — Regime transitório\n\n1 - (Revogado.)\n\n2 - Os promotores podem submeter pedidos de reformulação dos respectivos projectos aprovados, beneficiando das seguintes disposições extraordinárias e transitórias, até à data que for determinada pelo órgão de gestão:\n\na) A prorrogação do prazo de execução do projecto prevista no n.º 8 do artigo 10.º do Regulamento anexo à presente portaria poderá ser autorizada por um período superior ao estipulado de acordo com as necessidades reconhecidas para a adequada conclusão do projecto, estabelecendo-se como limite máximo um prazo de execução adicional de 24 meses, com excepção do vale I&DT em que este prazo tem um limite máximo de 12 meses;\n\nb) As alterações decorrentes da aceitação do pedido de reformulação, nomeadamente a revisão do prazo de execução e do valor do investimento, não produzem quaisquer consequências negativas na avaliação do mérito do projecto.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 274/2012](https://diariodarepublica.pt/dr/detalhe/portaria/274-2012-174870), publicado em 2012-09-06.",
+    "excerto": "Revoga-se o caráter transitório das normas abrangidas pelo n.º 1 do artigo 3.º da Portaria n.º 1102/2010, de 25 de outubro, que alterou e republicou o Regulamento do Sistema de Incentivos à Investigação e Desenvolvimento Tecnológico.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "1"
+    ],
+    "diploma": "pt:dre:307649:por",
+    "alterador": "pt:dre:174870:por"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 4.º — Órgão\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo.",
+    "depois": "###### Artigo 4.º — Órgão\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\nc) A alínea b) do artigo 4.º e o artigo 6.º do Decreto Regulamentar n.º 28/95, de 18 de novembro;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "",
+      "b"
+    ],
+    "diploma": "pt:dre:691654:por",
+    "alterador": "pt:dre:67198365:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 6.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva constituído pelo presidente da comissão directiva, que preside, e por um representante de cada uma das seguintes entidades:\n\na) Ministério do Planeamento e da Administração do Território;\n\nb) Ministério da Agricultura;\n\nc) Ministério da Indústria e Energia;\n\nd) Ministério das Obras Públicas, Transportes e Comunicações;\n\ne) Ministério do Comércio e Turismo;\n\nf) Ministério do Ambiente e Recursos Naturais;\n\ng) Câmara Municipal de Mértola;\n\nh) Câmara Municipal de Serpa;\n\ni) Associações de defesa do ambiente, consideradas em conjunto;\n\nj) Associações representativas dos agricultores da região.\n\n2 - Os representantes das entidades referidas no número anterior são nomeados por despacho conjunto dos Ministros respectivos e do Ambiente e Recursos Naturais.\n\n3 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou por solicitação de, pelo menos, dois terços dos seus membros.",
+    "depois": "###### Artigo 6.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\nc) A alínea b) do artigo 4.º e o artigo 6.º do Decreto Regulamentar n.º 28/95, de 18 de novembro;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:691654:por",
+    "alterador": "pt:dre:67198365:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º — Renovação\n\nÉ renovada a concessão da zona de caça associativa da Quinta de São Francisco e outras (processo n.º 388-AFN), situada na freguesia de Vila Verde dos Francos, município de Alenquer, com a área de 206 ha, na freguesia de Pêro Moniz, município do Cadaval, com a área de 319 ha, na freguesia de Moita dos Ferreiros, município da Lourinhã, com a área de 18 ha, e nas freguesias de Campelos e Maxial, ambas do município de Torres Vedras, com a área de 29 ha, perfazendo a área total de 572 ha.",
+    "depois": "###### Artigo 1.º — Renovação\n\nÉ renovada a concessão da zona de caça associativa da Quinta de S. Francisco e outras (processo n.º 388-AFN), válida por um período de seis anos, renovável automaticamente por dois períodos de igual duração, situada na freguesia de Vila Verde dos Francos, município de Alenquer, com a área de 206 ha, na freguesia de Pêro Moniz, município do Cadaval, com a área de 319 ha, na freguesia de Moita dos Ferreiros, município da Lourinhã, com a área de 18 ha, e nas freguesias de Campelos e Maxial, ambas do município de Torres Vedras, com a área de 29 ha, perfazendo a área total de 572 ha.\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 695/2010](https://diariodarepublica.pt/dr/detalhe/portaria/695-2010-343154), publicado em 2010-08-16.",
+    "excerto": "O artigo 1.º da Portaria n.º 516/2010, de 19 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\nÉ renovada a concessão da zona de caça associativa da Quinta de S. Francisco e outras (processo n.º 388-AFN), válida por um período de seis anos, renovável automaticamente por dois períodos de igual duração, situada na freguesia de Vila Verde dos Francos, município de Alenquer, com a área de 206 ha, na freguesia de Pêro Moniz, município do Cadaval, com a área de 319 ha, na freguesia de Moita dos Ferreiros, município da Lourinhã, com a área de 18 ha, e nas freguesias de Campelos e Maxial, ambas do município de Torres Vedras, com a área de 29 ha, perfazendo a área total de 572 ha.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:334311:por",
+    "alterador": "pt:dre:343154:por"
+  }
+]

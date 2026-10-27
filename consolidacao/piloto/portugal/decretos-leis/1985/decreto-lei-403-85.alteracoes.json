@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º\n\nA área correspondente ao núcleo 3, delimitado no anexo ao [Decreto-Lei n.º 519-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c-1979-510044), de 28 de Dezembro, continua afecta ao Ministério da Agricultura, através da Direcção-Geral das Florestas.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 126/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1986-226846), publicado em 1986-06-02.",
+    "excerto": "Artigo 1.º É revogado o artigo 5.º do Decreto-Lei n.º 403/85, de 14 de Outubro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:178314:por",
+    "alterador": "pt:dre:226846:por"
+  }
+]

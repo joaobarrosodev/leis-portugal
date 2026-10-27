@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 4.º — (Constituição de excedentes)\n\n1 - Serão constituídos em excedentes, desde que reúnam os requisitos previstos na legislação aplicável:\n\na) O pessoal referido nas alíneas a) a f) do n.º 1 do artigo 3.º;\n\nb) Os professores efectivos, regentes de trabalhos efectivos e restante pessoal não seleccionado para transitar para as Escolas Superiores Agrárias.\n\n2 - Para efeitos do disposto no número anterior é criado junto da Secretaria-Geral do Ministério da Educação o respectivo quadro de efectivos interdepartamentais, no qual ingressarão automaticamente os efectivos que venham a ser constituídos em excedentes nos termos do presente diploma e, bem assim, todos os originários de serviços ou organismos dependentes ou tutelados por aquele Ministério.",
+    "depois": "###### Artigo 4.º — (Constituição de excedentes)\n\n1 - Serão constituídos em excedentes, desde que reúnam os requisitos previstos na legislação aplicável:\n\na) O pessoal referido nas alíneas a) a f) do n.º 1 do artigo 3.º;\n\nb) Os professores efectivos, regentes de trabalhos efectivos e restante pessoal não seleccionado para transitar para as Escolas Superiores Agrárias.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), publicado em 1992-11-07.",
+    "excerto": "São revogados:\n\nb) O n.º 2 do artigo 4.º do Decreto-Lei n.º 347/82, de 2 de Setembro;",
+    "artigo_alterador": "28.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:374434:por",
+    "alterador": "pt:dre:216106:por"
+  }
+]

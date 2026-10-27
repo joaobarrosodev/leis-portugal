@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 14.º — Direção Regional da Cultura\n\n1 - A Direção Regional da Cultura, abreviadamente designada por DRC, é um serviço executivo da SRETC que tem por missão dinamizar e coordenar os diferentes projetos que realizam as políticas definidas para a área da cultura, mantendo ativo o diálogo com os criadores, no sentido de salvaguardar, valorizar e divulgar a identidade cultural da Região Autónoma da Madeira, bem como, fomentar a realização e coordenação da investigação científica no domínio dos estudos insulares atlânticos e intercontinentais, promovendo a divulgação dos estudos feitos nessas áreas.\n\n2 - A DRC é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau, coadjuvado por um Subdiretor Regional, cargo de direção superior de 2.º grau, que exerce as competências do Diretor Regional em caso de vacatura do lugar.",
+    "depois": "###### Artigo 14.º — Direção Regional da Cultura\n\n1 - A Direção Regional da Cultura, abreviadamente designada por DRC, é um serviço executivo da SRETC que tem por missão dinamizar e coordenar os diferentes projetos que realizam as políticas definidas para a área da cultura, mantendo ativo o diálogo com os criadores, no sentido de salvaguardar, valorizar e divulgar a identidade cultural da Região Autónoma da Madeira, bem como, fomentar a realização e coordenação da investigação científica no domínio dos estudos insulares atlânticos e intercontinentais, promovendo a divulgação dos estudos feitos nessas áreas.\n\n2 - A DRC é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 16/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2016-74483694), publicado em 2016-05-19.",
+    "excerto": "1 - O artigo 14.º do Decreto Regulamentar Regional n.º 4/2015/M, de 18 de junho, passa a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\n1 - [...]\n\n2 - A DRC é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:67522990:por",
+    "alterador": "pt:dre:74483694:por"
+  }
+]

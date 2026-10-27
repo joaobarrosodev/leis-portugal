@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 7.º — Advertência quanto à presença de polióis e de aspártamo\n\nA rotulagem dos edulcorantes de mesa que contenham polióis e ou aspártamo deve incluir as seguintes advertências:\n\na) Para os polióis: «O seu consumo excessivo pode ter efeitos laxativos»;\n\nb) Para o aspártamo: «Contém uma fonte geradora de fenilalanina».",
+    "depois": "###### Artigo 7.º — Advertência quanto à presença de polióis e de aspártamo\n\nA rotulagem dos edulcorantes de mesa que contenham polióis e ou aspártamo deve incluir as seguintes advertências:\n\na) Para os polióis: «O seu consumo excessivo pode ter efeitos laxativos»;\n\nb) Para o aspártamo: «Contém uma fonte geradora de fenilalanina».\n\nc) Para os sais de aspártamo e de acessulfame: 'Contém uma fonte de fenilalanina'.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 216/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2004-589953), publicado em 2004-10-08.",
+    "excerto": "1 - O artigo 7.º do Decreto-Lei n.º 394/98, de 10 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\nAdvertência quanto à presença de polióis e de aspártamo\n\n...\n\na) ...\n\nb) ...\n\nc) Para os sais de aspártamo e de acessulfame: 'Contém uma fonte de fenilalanina'.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221167:por",
+    "alterador": "pt:dre:589953:por"
+  }
+]

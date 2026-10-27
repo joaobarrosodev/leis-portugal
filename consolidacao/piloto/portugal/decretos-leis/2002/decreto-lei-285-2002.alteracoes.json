@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º — Transformação\n\nO Hospital da Senhora da Oliveira - Guimarães é transformado em sociedade anónima de capitais exclusivamente públicos, com a designação de Hospital Nossa Senhora da Oliveira, S. A., adiante abreviadamente designado como Hospital, titular do número de identificação de pessoa colectiva P 506361551.",
+    "depois": "###### Artigo 1.º — Transformação\n\nO Hospital da Senhora da Oliveira - Guimarães é transformado em sociedade anónima de capitais exclusivamente públicos, com a designação de Hospital da Senhora da Oliveira - Guimarães, S. A., adiante abreviadamente designado como Hospital, titular do número de identificação de pessoa colectiva P 506361551.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.",
+    "excerto": "1 - O artigo 1.º do Decreto-Lei n.º 285/2002, de 10 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\nTransformação\n\nO Hospital da Senhora da Oliveira - Guimarães é transformado em sociedade anónima de capitais exclusivamente públicos, com a designação de Hospital da Senhora da Oliveira - Guimarães, S. A., adiante abreviadamente designado como Hospital, titular do número de identificação de pessoa colectiva P 506361551.»",
+    "artigo_alterador": "6.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438193:por",
+    "alterador": "pt:dre:692434:por"
+  },
+  {
+    "artigo": "ANEXO — ESTATUTOS::1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º — Forma e denominação\n\nA sociedade adopta a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de Hospital Nossa Senhora da Oliveira, S. A., adiante abreviadamente designado por Hospital.",
+    "depois": "###### Artigo 1.º — Forma e denominação\n\nA sociedade adopta a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de Hospital da Senhora da Oliveira - Guimarães, S. A., adiante abreviadamente designado por Hospital.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.",
+    "excerto": "2 - O artigo 1.º dos Estatutos, aprovados pelo Decreto-Lei n.º 285/2002, de 10 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\nForma e denominação\n\nA sociedade adopta a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de Hospital da Senhora da Oliveira - Guimarães, S. A., adiante abreviadamente designado por Hospital.»",
+    "artigo_alterador": "6.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438193:por",
+    "alterador": "pt:dre:692434:por"
+  }
+]

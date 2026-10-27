@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 5.º — Comparticipação\n\n1 - A permanência em meio hospitalar após alta clínica obriga o utente e seus familiares e quem com ele conviva em união de facto à comparticipação nos custos de internamento.\n\n2 - O valor dos custos de internamento, para efeitos do presente diploma, o montante que salvaguarde o rendimento pessoal indispensável ao utente a fórmula de cálculo das comparticipações devidas pelos familiares são fixados por portaria do membro do Governo responsável pela área da saúde, devendo obedecer a critérios similares aos utilizados para fins de acção social.",
+    "depois": "###### Artigo 5.º — Comparticipação\n\n1 - A permanência em meio hospitalar após alta clínica obriga o utente e seus familiares e quem com ele conviva em união de facto à comparticipação nos custos de internamento.\n\n2 - O valor dos custos de internamento, para efeitos do presente diploma, o montante que salvaguarde o rendimento pessoal indispensável ao utente, a fórmula de cálculo das comparticipações devidas pelos familiares são fixados por portaria do membro do Governo responsável pela área da saúde, devendo obedecer a critérios similares aos utilizados para fins de acção social.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 2-A/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-a-2003-275183), publicado em 2003-03-31.",
+    "excerto": "No n.º 2 do artigo 5.º, onde se lê «indispensável ao utente a fórmula» deve ler-se «indispensável ao utente, a fórmula».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:188939:por",
+    "alterador": "pt:dre:275183:por"
+  }
+]

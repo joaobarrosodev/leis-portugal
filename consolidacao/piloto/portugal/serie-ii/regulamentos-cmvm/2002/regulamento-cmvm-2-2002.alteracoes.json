@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 4.º — Informação à CMVM\n\nAs sociedades gestoras de fundos de titularização de créditos enviam mensalmente à CMVM, até ao 6.º dia útil do mês subsequente ao mês a que a informação respeite, o balancete do fundo, a informação relativa à composição da carteira de acordo com o esquema apresentado no anexo ao presente regulamento, bem como informação relativa aos rendimentos distribuídos e, no caso de as unidades de titularização se encontrarem admitidas à negociação num mercado regulamentado, o número de unidades de titularização transaccionadas.",
+    "depois": "###### Artigo 4.º — Informação à CMVM\n\nAs sociedades gestoras de fundos de titularização de créditos enviam à CMVM a seguinte informação relativa ao fundo de titularização de créditos:\n\na) A composição da carteira, trimestralmente, até ao final do mês seguinte a que a informação respeite, nos termos previstos no Anexo I ao presente regulamento;\n\nb) A informação relativa ao balanço e demonstração dos resultados, trimestralmente, até ao final do mês seguinte a que a informação respeite, nos termos previstos no Anexo V ao presente regulamento;\n\nc) As alterações ao regulamento de gestão, nos termos previstos no Anexo VI ao presente regulamento;\n\nd) O relatório anual de prestação de contas, anualmente, até ao dia 31 março do ano subsequente a que a informação respeite, nos termos previstos no Anexo VII ao presente regulamento;\n\ne) A informação relativa à certificação legal das contas, no prazo previsto na alínea anterior, nos termos previstos no Anexo VIII ao presente regulamento.\n\n> Alterado pelo/a Artigo 6.º do/a [Regulamento da CMVM n.º 6/2020](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), publicado em 2020-12-16.",
+    "excerto": "O artigo 4.º do Regulamento da CMVM n.º 2/2002, de 1 de fevereiro, passa a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\nAs sociedades gestoras de fundos de titularização de créditos enviam à CMVM a seguinte informação relativa ao fundo de titularização de créditos:\n\na) A composição da carteira, trimestralmente, até ao final do mês seguinte a que a informação respeite, nos termos previstos no Anexo I ao presente regulamento;\n\nb) A informação relativa ao balanço e demonstração dos resultados, trimestralmente, até ao final do mês seguinte a que a informação respeite, nos termos previstos no Anexo V ao presente regulamento;\n\nc) As alterações ao regulamento de gestão, nos termos previstos no Anexo VI ao presente regulamento;\n\nd) O relatório anual de prestação de contas, anualmente, até ao dia 31 março do ano subsequente a que a informação respeite, nos termos previstos no Anexo VII ao presente regulamento;\n\ne) A informação relativa à certificação legal das contas, no prazo previsto na alínea anterior, nos termos previstos no Anexo VIII ao presente regulamento.»",
+    "artigo_alterador": "6.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2455467:por",
+    "alterador": "pt:dre:151322794:por"
+  }
+]

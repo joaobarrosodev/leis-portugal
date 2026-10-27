@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "50.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 50.º — Função\n\nFora do período de funcionamento efectivo da Assembleia, durante o período em que ela se encontra dissolvida, e nos casos especiais previstos na lei e no Regimento, funciona a Comissão Permanente da Assembleia.",
+    "depois": "###### Artigo 50.º — Função\n\nFora do período de funcionamento efectivo da Assembleia, durante o período em que ela se encontrar dissolvida, e nos casos especiais previstos na lei e no Regimento, funciona a Comissão Permanente da Assembleia.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 96/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/96-1993-593675), publicado em 1993-05-31.",
+    "excerto": "No artigo 50.º, onde se lê «em que ela se encontra dissolvida,» deve ler-se «em que ela se encontrar dissolvida,».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:664765:por",
+    "alterador": "pt:dre:593675:por"
+  },
+  {
+    "artigo": "75.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 75.º — Apreciação de outras matérias\n\nO Presidente da Assembleia incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 89.º a apreciação das seguintes matérias:\n\na) Deliberações sobre o mandato de deputado;\n\nb) Recursos de decisões do Presidente;\n\nc) Eleições suplementares da mesa;\n\nd) Constituição de comissões, representações e deputações;\n\ne) Comunicações das comissões;\n\nf) Recursos nos termos dos artigos 140.º e 162.º do Regimento e determinações da comissão competente nos termos do artigo 144.º;\n\ng) Inquéritos nos termos dos artigos 215.º e 219.º;\n\nh) Alterações do Regimento;\n\ni) Designação de titulares de cargos exteriores à Assembleia.",
+    "depois": "###### Artigo 75.º — Apreciação de outras matérias\n\nO Presidente da Assembleia incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 89.º a apreciação das seguintes matérias:\n\na) Deliberações sobre o mandato de deputado;\n\nb) Recursos de decisões do Presidente;\n\nc) Eleições suplementares da Mesa;\n\nd) Constituição de comissões, representações e deputações;\n\ne) Comunicações das comissões;\n\nf) Recursos nos termos dos artigos 140.º e 162.º do Regimento e determinações da comissão competente nos termos do artigo 144.º;\n\ng) Inquéritos nos termos dos artigos 215.º e 219.º;\n\nh) Alterações do Regimento;\n\ni) Designação de titulares de cargos exteriores à Assembleia.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 96/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/96-1993-593675), publicado em 1993-05-31.",
+    "excerto": "No artigo 75.º, alínea c), onde se lê «c) Eleições suplementares da mesa;» deve ler-se «c) Eleições suplementares da Mesa;».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:664765:por",
+    "alterador": "pt:dre:593675:por"
+  },
+  {
+    "artigo": "157.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 157.º — Requerimento de aditamento da votação\n\nA requerimento de 10 deputados, a votação na especialidade poderá ser adiada para a reunião plenária imediata, sem prejuízo da discussão e votação das disposições seguintes.",
+    "depois": "###### Artigo 157.º — Requerimento de adiamento da votação\n\nA requerimento de 10 deputados, a votação na especialidade poderá ser adiada para a reunião plenária imediata, sem prejuízo da discussão e votação das disposições seguintes.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 96/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/96-1993-593675), publicado em 1993-05-31.",
+    "excerto": "No artigo 157.º, epígrafe, onde se lê «Requerimento de aditamento da votação» deve ler-se «Requerimento de adiamento da votação».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:664765:por",
+    "alterador": "pt:dre:593675:por"
+  }
+]

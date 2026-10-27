@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 5.º — Pagamento da ajuda\n\n1 - Se se verificar que o número de animais declarados no pedido de ajuda é inferior ao número de animais apurados pela BD SNIRA, o pagamento é efetuado tendo por base o número de animais declarados no pedido.\n\n2 - Se se verificar que o número de animais declarados no pedido de ajuda é superior ao número de animais apurados pela BD SNIRA, o pagamento é efetuado tendo por base o número de animais apurados pela BD SNIRA.\n\n3 - A ajuda é paga pelo IFAP, I. P., por meio de transferência bancária para a conta do produtor.",
+    "depois": "###### Artigo 5.º — Pagamento da ajuda\n\n1 - Se se verificar que o número de animais declarados no pedido de ajuda é inferior ao número de animais apurados pela BD SNIRA, o pagamento é efetuado tendo por base o número de animais declarados no pedido.\n\n2 - (Revogado.)\n\n3 - A ajuda é paga pelo IFAP, I. P., por meio de transferência bancária para a conta do produtor.\n\n> Revogado pelo/a Artigo 3.º do/a [Despacho Normativo n.º 13/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2012-2522481), publicado em 2012-05-31.",
+    "excerto": "É revogado o n.º 2 do artigo 5.º do despacho normativo n.º 5/2012, de 10 de abril.",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:1088946:por",
+    "alterador": "pt:dre:2522481:por"
+  }
+]

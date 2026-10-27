@@ -1,0 +1,35 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei procede, nos termos e ao abrigo do disposto no artigo 3.º da [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), de 13 de Julho, à criação dos seguintes julgados de paz:\n\na) Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos;\n\nb) Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão;\n\nc) Julgado de Paz do Agrupamento dos Concelhos de Carregal do Sal, Mangualde e Nelas;\n\nd) Julgado de Paz do Concelho de Cascais;\n\ne) Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei.",
+    "depois": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei procede, nos termos e ao abrigo do disposto no artigo 3.º da [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), de 13 de Julho, à criação dos seguintes julgados de paz:\n\na) (Revogada.)\n\nb) Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão;\n\nc) Julgado de Paz do Agrupamento dos Concelhos de Carregal do Sal, Mangualde e Nelas;\n\nd) Julgado de Paz do Concelho de Cascais;\n\ne) Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 41/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419), publicado em 2017-04-05.",
+    "excerto": "É revogada a alínea a) do artigo 1.º e o n.º 1 do artigo 2.º do Decreto-Lei n.º 60/2009, de 4 de março.",
+    "artigo_alterador": "5.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "",
+      "a"
+    ],
+    "diploma": "pt:dre:604782:por",
+    "alterador": "pt:dre:106829419:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 2.º — Circunscrição territorial\n\n1 - O Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos abrange todas as freguesias destes concelhos.\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão abrange todas as freguesias destes concelhos.\n\n3 - O Julgado de Paz do Agrupamento dos Concelhos de Carregal do Sal, Mangualde e Nelas abrange todas as freguesias destes concelhos.\n\n4 - O Julgado de Paz do Concelho de Cascais abrange todas as freguesias deste concelho.\n\n5 - O Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei abrange todas as freguesias destes concelhos.",
+    "depois": "###### Artigo 2.º — Circunscrição territorial\n\n1 - (Revogado.)\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão abrange todas as freguesias destes concelhos.\n\n3 - O Julgado de Paz do Agrupamento dos Concelhos de Carregal do Sal, Mangualde e Nelas abrange todas as freguesias destes concelhos.\n\n4 - O Julgado de Paz do Concelho de Cascais abrange todas as freguesias deste concelho.\n\n5 - O Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei abrange todas as freguesias destes concelhos.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 41/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419), publicado em 2017-04-05.",
+    "excerto": "É revogada a alínea a) do artigo 1.º e o n.º 1 do artigo 2.º do Decreto-Lei n.º 60/2009, de 4 de março.",
+    "artigo_alterador": "5.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "1"
+    ],
+    "diploma": "pt:dre:604782:por",
+    "alterador": "pt:dre:106829419:por"
+  }
+]

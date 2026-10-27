@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 2.º — Acesso\n\n1 - Têm acesso à linha de crédito as entidades que exerçam a actividade agrícola e que hajam sofrido prejuízos em infra-estruturas e equipamentos agrícolas ou plantações nos concelhos afectados, a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n2 - O valor dos prejuízos deve ser confirmado pelas direcções regionais de agricultura competentes.\n\n3 - O montante máximo de crédito a conceder a cada entidade corresponde à totalidade dos prejuízos confirmados ou ao diferencial entre o valor daqueles prejuízos e o valor do subsídio concedido no âmbito de um projecto do PAMAF, caso a entidade recorra a estas ajudas para recuperação dos danos ocorridos.",
+    "depois": "###### Artigo 2.º — Acesso\n\n1 - Têm acesso à linha de crédito as entidades que exerçam a actividade agrícola e que hajam sofrido prejuízos em infra-estruturas e equipamentos agrícolas ou plantações nos concelhos afectados, a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n2 - O valor dos prejuízos deve ser confirmado pelas direcções regionais de agricultura competentes.\n\n3 - O montante máximo de crédito a conceder a cada entidade corresponde à totalidade dos prejuízos confirmados nos termos do número anterior ou ao diferencial entre o valor daqueles prejuízos e o valor do subsídio concedido no âmbito de um projecto do PAMAF ou do Plano Operacional Intempéries Novembro 97, caso a entidade recorra a uma destas ajudas para recuperação dos danos ocorridos.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 63/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1998-197525), publicado em 1998-03-17.",
+    "excerto": "O artigo 2.º do Decreto-Lei n.º 349/97, de 5 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O montante máximo de crédito a conceder a cada entidade corresponde à totalidade dos prejuízos confirmados nos termos do número anterior ou ao diferencial entre o valor daqueles prejuízos e o valor do subsídio concedido no âmbito de um projecto do PAMAF ou do Plano Operacional Intempéries Novembro 97, caso a entidade recorra a uma destas ajudas para recuperação dos danos ocorridos.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402729:por",
+    "alterador": "pt:dre:197525:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 5.º — Competências\n\n1 - No âmbito do disposto nos artigos 3.º e 4.º, compete ao ministro que tutela o sector energético, adiante abreviadamente designado por ministro da tutela:\n\na) Propor o plano geral de resposta à situação e as medidas necessárias à implementação do plano e coordenar globalmente a sua aplicação, em articulação com os restantes ministros;\n\nb) Propor a activação de estruturas de crise no âmbito do planeamento civil de emergência, nomeadamente a Organização para Emergência Energética criada pela [Resolução do Conselho de Ministros n.º 29/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-1992-282079), de 18 de Agosto, para aplicação das medidas previstas e acompanhamento da evolução da situação a nível nacional e internacional;\n\nc) Propor ao Primeiro-Ministro, tendo em conta a avaliação da situação e a sua previsível evolução, a prorrogação ou a cessação da declaração de situação de crise energética.\n\n2 - Sem prejuízo do disposto no número anterior, a definição, regulamentação e implementação das medidas aplicáveis a um sector específico é da competência do respectivo ministro da tutela.\n\n3 - No caso do n.º 2 do artigo 3.º, as competências previstas neste artigo são atribuídas aos órgãos competentes dos Governos Regionais.",
+    "depois": "###### Artigo 5.º — Competências\n\n1 - No âmbito do disposto nos artigos 3.º e 4.º, compete ao ministro que tutela o sector energético, adiante abreviadamente designado por ministro da tutela:\n\na) Propor o plano geral de resposta à situação e as medidas necessárias à implementação do plano e coordenar globalmente a sua aplicação, em articulação com os restantes ministros;\n\nb) Propor a activação de estruturas de crise no âmbito do planeamento civil de emergência para aplicação das medidas previstas e acompanhamento da evolução da situação nacional e internacional;\n\nc) Propor ao Primeiro-Ministro, tendo em conta a avaliação da situação e a sua previsível evolução, a prorrogação ou a cessação da declaração de situação de crise energética.\n\n2 - Sem prejuízo do disposto no número anterior, a definição, regulamentação e implementação das medidas aplicáveis a um sector específico é da competência do respectivo ministro da tutela.\n\n3 - No caso do n.º 2 do artigo 3.º, as competências previstas neste artigo são atribuídas aos órgãos competentes dos Governos Regionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 224/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2002-425885), publicado em 2002-10-30.",
+    "excerto": "2 - Para efeitos do disposto no número anterior, a alínea b) do n.º 1 do artigo 5.º do Decreto-Lei n.º 114/2001, de 7 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) Propor a activação de estruturas de crise no âmbito do planeamento civil de emergência para aplicação das medidas previstas e acompanhamento da evolução da situação nacional e internacional;\n\nc) ...\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:362687:por",
+    "alterador": "pt:dre:425885:por"
+  }
+]

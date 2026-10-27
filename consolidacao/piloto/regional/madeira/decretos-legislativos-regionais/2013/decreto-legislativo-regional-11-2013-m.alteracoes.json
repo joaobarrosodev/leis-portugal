@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 18º — Registo\n\n1 - A abertura, as modificações e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma são objeto de registo, efetuado pela DRCIE, o qual é considerado para efeitos do disposto no Decreto Legislativo Regional nº 8/98/M, de 27 de abril, alterado e republicado pelo Decreto Legislativo Regional nº 19/2008/M, de 6 de junho, e do artigo 6º do Decreto-Lei nº 259/2007, de 17 de julho, adaptado à Região Autónoma da Madeira, pelo Decreto Legislativo Regional nº 7/2008/M, de 4 de março.\n\n2 - O registo é efetuado com base nas comunicações efetuadas ao abrigo do nº 4 do artigo 4º, do nº 1 do artigo 16º e do artigo 17º do presente diploma.",
+    "depois": "###### Artigo 18.º — Registo\n\nA abertura, a modificação e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma são objeto de registo, efetuado pela Direção Regional da Economia e Transportes (DRET), e devem ser comunicados até 10 dias após a ocorrência do facto, o qual é considerado para efeitos do cadastro comercial nos termos do artigo 148.º do RJACSR.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18.",
+    "excerto": "O artigo 18.º do Decreto Legislativo Regional n.º 11/2013/M, de 8 de março, passa a ter a seguinte redação:\n\n«Artigo 18.º\n\n[...]\n\nA abertura, a modificação e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma são objeto de registo, efetuado pela Direção Regional da Economia e Transportes (DRET), e devem ser comunicados até 10 dias após a ocorrência do facto, o qual é considerado para efeitos do cadastro comercial nos termos do artigo 148.º do RJACSR.»",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:258767:por",
+    "alterador": "pt:dre:74967188:por"
+  }
+]

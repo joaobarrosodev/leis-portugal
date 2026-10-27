@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8º — (Varas Cíveis)\n\n1. Compete às varas cíveis preparar e julgar os processos de natureza cível de valor superior à alçada dos tribunais judiciais de 1ª instância, salvo tratando-se de acções de processo especial cujos termos excluam a intervenção do tribunal colectivo.\n\n2. Compete ainda às varas cíveis preparar e julgar as questões cíveis, nos incidentes, procedimentos cautelares e execuções que sigam os termos do processo de declaração e excedam a alçada referida no nº 1.\n\n3. Os processos a que se referem os números anteriores, mesmo que não ocorra a intervenção do tribunal colectivo, mantêm-se nas varas onde hajam sido distribuídos.",
+    "depois": "###### Artigo 8.º — (Varas Cíveis)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 37.º-A do/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.",
+    "excerto": "Art. 5.º É revogado o artigo 8.º do Decreto-Lei n.º 214/88, de 17 de Junho.",
+    "artigo_alterador": "37.º-A",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:560020:por",
+    "alterador": "pt:dre:658224:por"
+  }
+]

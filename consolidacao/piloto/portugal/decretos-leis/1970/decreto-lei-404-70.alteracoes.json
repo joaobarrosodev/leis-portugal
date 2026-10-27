@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nAs regalias concedidas às cooperativas agrícolas pela legislação em vigor mantêm-se, ainda que participem em posição não inferior a 50 por cento como sócios ou accionistas em sociedades comerciais que tenham por objecto o aproveitamento, transformação, conservação ou comercialização dos seus produtos ou dos dos seus associados.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 575/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1972-665131), publicado em 1972-12-30.",
+    "excerto": "Art. 5.º Fica revogado o artigo 1.º do Decreto-Lei n.º 404/70, de 24 de Agosto.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138835:por",
+    "alterador": "pt:dre:665131:por"
+  }
+]

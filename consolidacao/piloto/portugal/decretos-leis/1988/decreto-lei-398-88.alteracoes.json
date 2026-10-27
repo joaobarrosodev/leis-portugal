@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 1.º\n\nO tempo de serviço docente prestado nos seminários menores por professores do ensino oficial é contado para todos os efeitos legais, nomeadamente aposentação, fases, diuturnidades e concursos.",
+    "depois": "###### Artigo 1.º\n\nNone - O tempo de serviço docente prestado nos seminários menores por professores em exercício de funções nos termos da alínea b) do artigo 2.º do Decreto-Lei n.º 293-C/86, de 12 de Setembro, é contado para todos os efeitos legais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 148/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1996-243914), publicado em 1996-08-29.",
+    "excerto": "O artigo 1.º do Decreto-Lei n.º 398/88, de 8 de Novembro, passa a ter a seguinte redacção:\n\n«O tempo de serviço docente prestado nos seminários menores por professores em exercício de funções nos termos da alínea b) do artigo 2.º do Decreto-Lei n.º 293-C/86, de 12 de Setembro, é contado para todos os efeitos legais.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      ""
+    ],
+    "diploma": "pt:dre:358360:por",
+    "alterador": "pt:dre:243914:por"
+  }
+]

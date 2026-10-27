@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º\n\nOs cursos ministrados pela Universidade de Macau e pelo Instituto Superior Politécnico de Macau, bem como os respectivos graus e diplomas, são reconhecidos, para todos os efeitos, no sistema de ensino superior português, desde que apresentem estrutura e exigência, científica e pedagógica, de nível idêntico aos cursos homólogos ministrados pelas instituições de ensino superior portuguesas.",
+    "depois": "###### Artigo 2.º\n\nOs cursos ministrados pela Universidade de Macau, pelo Instituto Superior Politécnico de Macau e pela Escola Superior de Turismo a que se refere o Decreto-Lei n.º 45/95/M, de 28 de Agosto, alterado pelo Decreto-Lei n.º 42/96/M, de 29 de Julho, bem como os respectivos graus e diplomas, são reconhecidos, para todos os efeitos, no sistema de ensino superior português, desde que apresentem estrutura e exigência, científica e pedagógica, de nível idêntico aos cursos homólogos ministrados pelas instituições de ensino superior portuguesas.\n\n> Alterado pelo/a [Decreto-Lei n.º 145/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1999-335215), publicado em 1999-05-03.",
+    "excerto": "O artigo 2.º do Decreto-Lei n.º 19/95, de 28 de Janeiro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\nOs cursos ministrados pela Universidade de Macau, pelo Instituto Superior Politécnico de Macau e pela Escola Superior de Turismo a que se refere o Decreto-Lei n.º 45/95/M, de 28 de Agosto, alterado pelo Decreto-Lei n.º 42/96/M, de 29 de Julho, bem como os respectivos graus e diplomas, são reconhecidos, para todos os efeitos, no sistema de ensino superior português, desde que apresentem estrutura e exigência, científica e pedagógica, de nível idêntico aos cursos homólogos ministrados pelas instituições de ensino superior portuguesas.»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:141072:por",
+    "alterador": "pt:dre:335215:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 5.º — Júri\n\nO júri será constituído pelo presidente do Instituto Português do Património Cultural, que preside, por um dos vice-presidentes do mesmo organismo, por dois membros do Conselho Superior de Defesa e Salvaguarda do Património Cultural, pelo presidente da Associação Nacional de Municípios, pelo presidente da Associação dos Amigos das Casas Antigas e por três especialistas de reconhecida competência nas matérias em causa.",
+    "depois": "###### Artigo 5.º — Júri\n\nO júri será constituído pelo presidente do Instituto Português do Património Cultural, que preside, por um dos vice-presidentes do mesmo organismo, por dois membros do Conselho Superior de Defesa e Salvaguarda do Património Cultural, pelo presidente da Associação Nacional de Municípios, pelo presidente da Associação Portuguesa das Casas Antigas e por três especialistas de reconhecida competência nas matérias em causa.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28-I/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-i-1991-292486), publicado em 1991-02-28.",
+    "excerto": "No artigo 5.º do Regulamento do Prémio de Defesa do Património Cultural, onde se lê «pelo presidente da Associação dos Amigos das Casas Antigas» deve ler-se «pelo presidente da Associação Portuguesa das Casas Antigas».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:508469:por",
+    "alterador": "pt:dre:292486:por"
+  }
+]

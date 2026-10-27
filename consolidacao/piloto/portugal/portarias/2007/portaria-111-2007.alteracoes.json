@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 9.º — Duração do Programa\n\nO Programa decorre até 30 de Setembro de 2007, devendo as acções ser realizadas até essa data.",
+    "depois": "###### Artigo 9.º — Duração do Programa\n\nO Programa decorre até 31 de Maio de 2008, devendo as acções ser realizadas até essa data.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1516/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1516-2007-628530), publicado em 2007-12-03.",
+    "excerto": "Com a presente portaria, é alterado o artigo 9.º da Portaria n.º 111/2007, de 24 de Janeiro, o qual passa a ter a seguinte redacção:\n\n«Artigo 9.º\n\nDuração do Programa\n\nO Programa decorre até 31 de Maio de 2008, devendo as acções ser realizadas até essa data.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:522646:por",
+    "alterador": "pt:dre:628530:por"
+  }
+]

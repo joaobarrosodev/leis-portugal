@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 11.º\n\nÓrgãos de apoio logístico\n\nOs órgãos de apoio logístico são os seguintes:\n\na) Repartição dos Serviços Administrativos;\n\nb) Repartição de Aquisições e Manutenção.",
+    "depois": "###### Artigo 11.º\n\nSUBSECÇÃO IV\n\nArtigo 11.º\n\nÓrgãos de apoio logístico\n\nOs órgãos de apoio logístico são os seguintes:\n\na) Departamento dos Serviços Administrativos;\n\nb) Departamento de Aquisições e Manutenção.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.",
+    "excerto": "O artigo 11.º do Decreto Regulamentar Regional n.º 6/97/M, de 17 de Março, passa a ter a seguinte redacção:\n\n«SUBSECÇÃO IV\n\nArtigo 11.º\n\nÓrgãos de apoio logístico\n\nOs órgãos de apoio logístico são os seguintes:\n\na) Departamento dos Serviços Administrativos;\n\nb) Departamento de Aquisições e Manutenção.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      ""
+    ],
+    "diploma": "pt:dre:517385:por",
+    "alterador": "pt:dre:515272:por"
+  }
+]

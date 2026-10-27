@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 3.º — Apresentação e decisão das candidaturas para a campanha de 2009-2010\n\nSem prejuízo do disposto no n.º 2 do artigo 11.º e no n.º 2 do artigo 12.º da Portaria n.º 1144/2008, de 10 de Outubro, para as campanhas posteriores, para a campanha de 2009-2010:\n\n1 - A recepção de candidaturas decorre entre a data de publicação da presente portaria até 30 de Setembro de 2009.\n\n2 - As candidaturas são decididas até 15 de Dezembro de 2009.",
+    "depois": "###### Artigo 3.º — Apresentação e decisão das candidaturas para a campanha de 2009-2010\n\nSem prejuízo do disposto no n.º 2 do artigo 11.º e na segunda parte do artigo 12.º da Portaria n.º 1144/2008, de 10 de Outubro, para as campanhas posteriores, para a campanha de 2009-2010:\n\n1 - A recepção de candidaturas é prorrogada até 30 de Outubro de 2009.\n\n2 - As candidaturas são decididas até 15 de Janeiro de 2010.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1154/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1154-2009-491195), publicado em 2009-10-02.",
+    "excerto": "É alterado o artigo 3.º, que passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\nSem prejuízo do disposto no n.º 2 do artigo 11.º e na segunda parte do artigo 12.º da Portaria n.º 1144/2008, de 10 de Outubro, para as campanhas posteriores, para a campanha de 2009-2010:\n\n1 - A recepção de candidaturas é prorrogada até 30 de Outubro de 2009.\n\n2 - As candidaturas são decididas até 15 de Janeiro de 2010.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:492401:por",
+    "alterador": "pt:dre:491195:por"
+  }
+]

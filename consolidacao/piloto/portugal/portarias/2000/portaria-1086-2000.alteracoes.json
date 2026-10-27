@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de apoio à imobilização definitiva de embarcações de pesca por demolição, previsto no [Decreto-Lei n.º 224/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2000-577712), de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.",
+    "depois": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de apoio à imobilização definitiva de embarcações de pesca por demolição, nos termos do Regulamento (CE) n.º 2792/99, do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.\n\nANEXO I\n\n(a que se refere o artigo 5.º)\n\nMetodologia para a avaliação final (AF)\n\n...\n\n2 - Cálculo da apreciação sectorial (AS): AS = IO + PA.\n\n(ver quadros no documento original)\n\nMPOP = (Capacidade da frota (GT)/Objectivos do POP frota (GT)) x 100\n\n...\n\n> Alterado pelo/a [Portaria n.º 56-C/2001](https://diariodarepublica.pt/dr/detalhe/portaria/56-c-2001-163804), publicado em 2001-01-29.",
+    "excerto": "1.º O artigo 1.º e o n.º 2 do anexo I do Regulamento do Regime de Apoio à Imobilização Definitiva de Embarcações de Pesca por Demolição anexo à Portaria n.º 1086/2000, de 11 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nObjecto\n\nO presente Regulamento estabelece o regime de apoio à imobilização definitiva de embarcações de pesca por demolição, nos termos do Regulamento (CE) n.º 2792/99, do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.\n\nANEXO I\n\n(a que se refere o artigo 5.º)\n\nMetodologia para a avaliação final (AF)\n\n...\n\n2 - Cálculo da apreciação sectorial (AS): AS = IO + PA.\n\n(ver quadros no documento original)\n\nMPOP = (Capacidade da frota (GT)/Objectivos do POP frota (GT)) x 100\n\n...»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:613430:por",
+    "alterador": "pt:dre:163804:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 15.º — Limite máximo para a concessão de garantias pela Região\n\n1 - O limite máximo para a autorização da concessão de garantias pela Região em 2014 é fixado em (euro) 135 000 000.\n\n2 - Acresce ao número anterior o montante de (euro) 50 000 000, que se destina a um contrato de financiamento do Banco Europeu de Investimento à EDA - Empresa de Eletricidade dos Açores, S.A., operação da qual a Região Autónoma dos Açores será co-garante com o Governo da República.\n\n3 - O aval da Região Autónoma dos Açores poderá ser concedido para garantir operações de refinanciamento desde que não impliquem um aumento do endividamento líquido, com observância do limite fixado no número anterior.",
+    "depois": "###### Artigo 15.º — Limite máximo para a concessão de garantias pela Região\n\n1 - O limite máximo para a autorização da concessão de garantias pela Região em 2014 é fixado em (euro) 220 000 000.\n\n2 - Acresce ao número anterior o montante de (euro) 50 000 000, que se destina a um contrato de financiamento do Banco Europeu de Investimento à EDA - Empresa de Eletricidade dos Açores, S.A., operação da qual a Região Autónoma dos Açores será co-garante com o Governo da República.\n\n3 - O aval da Região Autónoma dos Açores poderá ser concedido para garantir operações de refinanciamento desde que não impliquem um aumento do endividamento líquido, com observância do limite fixado no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2014-25345659), publicado em 2014-07-04.",
+    "excerto": "O artigo 15.º do Decreto Legislativo Regional n.º 2/2014/A, de 29 de Janeiro, passa a ter a seguinte redação:\n\n«Artigo 15.º\n\n(...)\n\n1 - O limite máximo para a autorização da concessão de garantias pela Região em 2014 é fixado em (euro) 220 000 000.\n\n2 - (...)\n\n3 - (...).»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570685:por",
+    "alterador": "pt:dre:25345659:por"
+  }
+]

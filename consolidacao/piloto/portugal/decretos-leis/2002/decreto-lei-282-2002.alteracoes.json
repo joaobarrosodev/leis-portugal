@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 2.º — Objecto\n\n1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino e o rastreio oncológico, nos termos dos seus Estatutos e no respeito pelas normas que o regem.\n\n2 - O Instituto está integrado no Serviço Nacional de Saúde.\n\n3 - O Instituto pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação.",
+    "depois": "###### Artigo 2.º — Objecto\n\n1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino, o registo e o rastreio oncológicos, nos termos dos seus Estatutos e no respeito pelas normas que o regem.\n\n2 - O Instituto está integrado no Serviço Nacional de Saúde.\n\n3 - O Instituto pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.",
+    "excerto": "1 - O artigo 2.º do Decreto-Lei n.º 282/2002, de 10 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\nObjecto\n\n1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino, o registo e o rastreio oncológicos, nos termos dos seus Estatutos e no respeito pelas normas que o regem.\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438183:por",
+    "alterador": "pt:dre:692434:por"
+  },
+  {
+    "artigo": "ANEXO — ESTATUTOS::3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Objecto e duração\n\n1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino e o rastreio oncológico, com respeito pelas normas que o regulam e em cumprimento da lei e dos presentes Estatutos.\n\n2 - O Instituto pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação.\n\n3 - O Instituto está integrado no Serviço Nacional de Saúde e é constituído por tempo ilimitado.",
+    "depois": "###### Artigo 3.º — Objecto e duração\n\n1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino, o registo e o rastreio oncológicos, com respeito pelas normas que o regulam e em cumprimento da lei e dos presentes Estatutos.\n\n2 - O Instituto pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação.\n\n3 - O Instituto está integrado no Serviço Nacional de Saúde e é constituído por tempo ilimitado.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.",
+    "excerto": "2 - O artigo 3.º dos Estatutos, aprovados pelo Decreto-Lei n.º 282/2002, de 10 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\nObjecto e duração\n\n1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino, o registo e o rastreio oncológicos, com respeito pelas normas que o regulam e em cumprimento da lei e dos presentes Estatutos.\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438183:por",
+    "alterador": "pt:dre:692434:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º — Zonas non aedificandi\n\n1 - Em relação aos lanços de auto-estrada e conjuntos viários associados constantes da base 2 do anexo ao presente decreto-lei, são fixadas as seguintes zonas de servidão non aedificandi:\n\na) Desde a aprovação do estudo prévio até a aprovação da planta parcelar do projecto de execução, 200 m para cada lado do eixo da estrada e, centrado em cada nó de ligação, um círculo com 1300 m de diâmetro;\n\nb) A partir da aprovação da planta parcelar do projecto de execução, passam a vigorar as zonas de servidão non edificandi fixadas no Decreto-Lei n.º 13/94, de 15 de Janeiro, e, na ausência de regulamentação no referido decreto-lei, as fixadas pelo Decreto-Lei n.º 13/71, de 23 de Janeiro, sendo que as concretamente fixadas na alínea e) do n.º 1 do artigo 8.º deste último diploma passam a ser as seguintes:\n\ni) São proibidas instalações de carácter industrial, nomeadamente fábricas, garagens, armazéns, restaurantes, hotéis e congéneres e, bem assim, igrejas, recintos de espectáculos, matadouros e quartéis de bombeiros, a menos de 70 m a contar dos limites da plataforma da estrada ou a menos de 50 m da zona da auto-estrada.\n\n2 - As disposições do número anterior ficam, respectivamente, condicionadas à publicação no Diário da República da aprovação pelo Ministro das Obras Públicas, Transportes e Comunicações, ou entidades a quem este tenha delegado, dos estudos prévios e das plantas parcelares dos projectos de execução.",
+    "depois": "###### Artigo 4.º — Zonas non aedificandi\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 34/2015](https://diariodarepublica.pt/dr/detalhe/lei/34-2015-67085601), publicado em 2015-04-27.",
+    "excerto": "São revogados os seguintes diplomas:\n\nz) O artigo 4.º do Decreto-Lei n.º 392-A/2007, de 27 de dezembro;",
+    "artigo_alterador": "5.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:320091:por",
+    "alterador": "pt:dre:67085601:por"
+  }
+]

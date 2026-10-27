@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nO prazo previsto no artigo único do [Decreto-Lei n.º 412/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1990-247050), de 31 de Dezembro, é prorrogado até 31 de Dezembro de 1993.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 20/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1994-495715), publicado em 1994-01-26.",
+    "excerto": "Artigo 1.º O adicional de 4% da facturação de electricidade, estabelecido no Decreto-Lei n.º 21/93, de 26 de Janeiro, é eliminado no que respeita aos fornecimentos em alta e média tensão e a fornecimentos em baixa tensão a consumidores com potência contratada superior a 19,8 kVA.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:601283:por",
+    "alterador": "pt:dre:495715:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "19.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 19.º\n\nA posse dos diplomas previstos nos artigos 10.º ou 13.º, consoante a idade, ou de qualquer dos certificados previstos nos n.os 3 e 4 do artigo 11.º do presente decreto-lei, constitui condição indispensável para a passagem de autorização para emigração.",
+    "depois": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-d-1980-647322), publicado em 1980-06-14.",
+    "excerto": "Art. 2.º É revogado o artigo 19.º do Decreto-Lei n.º 538/79.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:230891:por",
+    "alterador": "pt:dre:647322:por"
+  }
+]

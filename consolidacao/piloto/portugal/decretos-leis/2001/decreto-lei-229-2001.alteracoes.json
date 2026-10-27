@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 4.º — Exercício de direitos dos accionistas\n\n1 - As acções representativas do capital realizado pelo Estado são detidas pela Direcção-Geral do Tesouro.\n\n2 - Os direitos do Estado como accionista são exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro do Ambiente e do Ordenamento do Território.\n\n3 - Os direitos do município de Almada como accionista são exercidos por representante designado pela respectiva Câmara Municipal.\n\n4 - A COSTAPOLIS conferirá mandato à Parque Expo 98, S. A., para a direcção e coordenação geral da intervenção.",
+    "depois": "###### Artigo 4.º — Exercício de direitos dos accionistas\n\n1 - As acções representativas do capital realizado pelo Estado são detidas pela Direcção-Geral do Tesouro.\n\n2 - Os direitos do Estado como accionista são exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro do Ambiente e do Ordenamento do Território.\n\n3 - Os direitos do município de Almada como accionista são exercidos por representante designado pela respectiva Câmara Municipal.\n\n4 - (Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2013-259962), publicado em 2013-04-05.",
+    "excerto": "Com a entrada em vigor do presente decreto-lei são revogadas as seguintes disposições:\n\nb) O n.º 4 do artigo 4.º do Decreto-Lei n.º 229/2001, de 20 de agosto;",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "4"
+    ],
+    "diploma": "pt:dre:516048:por",
+    "alterador": "pt:dre:259962:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 7.º — Prova da deficiência em geral\n\n1 - A prova da deficiência, para efeito de atribuição do subsídio de educação especial, é feita por equipas ou serviços multidisciplinares de avaliação médico-pedagógica ou, não os havendo, por declaração médica passada por médico especialista na deficiência em causa, nos termos do artigo 3.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, na redacção dada pelo [Decreto Regulamentar n.º 19/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1998-437804), de 14 de Agosto, com observância das normas orientadoras constantes do despacho n.º 23/82, publicado no Diário da República, 2.ª série, n.º 267, de 18 de Novembro de 1982.\n\n2 - É dispensada a renovação anual da prova de deficiência sempre que esta, pelas suas características de amplitude e gravidade, seja considerada permanente na avaliação ou na declaração prevista no número anterior.",
+    "depois": "###### Artigo 7.º — Prova da deficiência em geral\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto Regulamentar n.º 3/2016](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2016-75170442), publicado em 2016-08-23.",
+    "excerto": "São revogados:\n\nd) O artigo 7.º da Portaria n.º 1388/2009, de 12 de novembro.",
+    "artigo_alterador": "16.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:482577:por",
+    "alterador": "pt:dre:75170442:por"
+  }
+]

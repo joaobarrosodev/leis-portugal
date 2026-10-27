@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Cessação das competências do INGA\n\n1 - As funções cometidas ao INGA, para efeito da liquidação do património dos organismos identificados no artigo 1.º do presente diploma, cessam com o julgamento das contas de gerência finais pelo Tribunal de Contas.\n\n2 - As funções cometidas ao INGA, para efeitos da liquidação do património do Fundo de Abastecimento, cessam a partir da data referida no artigo anterior.",
+    "depois": "###### Artigo 3.º — Cessação das competências do INGA\n\n1 - As funções cometidas ao INGA, para efeito da liquidação do património dos organismos identificados no artigo 1.º do presente diploma, cessam com o julgamento das contas de gerência finais pelo Tribunal de Contas.\n\n2 - As funções cometidas ao INGA, para efeitos da liquidação do património do Fundo de Abastecimento, cessam a partir da data referida no artigo anterior.\n\n3 - Com a cessação das funções do INGA para a liquidação do património dos organismos referidos nos números anteriores, transmite-se para a Direcção-Geral do Tesouro a competência para a emissão de certidões de dívida para cobrança de créditos daqueles organismos através do processo de execução fiscal, nos termos previstos no Código de Procedimento e de Processo Tributário.\n\n> Alterado pelo/a Artigo 61.º do/a [Lei n.º 55-B/2004](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), publicado em 2004-12-30.",
+    "excerto": "O artigo 3.º do Decreto-Lei n.º 230/2002, de 31 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Com a cessação das funções do INGA para a liquidação do património dos organismos referidos nos números anteriores, transmite-se para a Direcção-Geral do Tesouro a competência para a emissão de certidões de dívida para cobrança de créditos daqueles organismos através do processo de execução fiscal, nos termos previstos no Código de Procedimento e de Processo Tributário.»",
+    "artigo_alterador": "61.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425932:por",
+    "alterador": "pt:dre:689420:por"
+  }
+]

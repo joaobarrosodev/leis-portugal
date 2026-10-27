@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 5.º — Aprovação e evolução de potenciais de motores, hélices e componentes notáveis\n\nA DGAC da República da Guiné-Bissau aceita que a definição e aprovação dos valores iniciais do potencial de motores, hélices e componentes notáveis e sua posterior evolução seja efectuada pela DGAC de Portugal.\n\nOs processos de aprovação e de evolução de potenciais decorrerão sempre através da DGAC da República da Guiné-Bissau.\n\nTratando-se de assuntos de carácter opcional que a DGAC de Portugal tenha decidido tornar mandatórios, será devidamente explicada a razão do facto, cabendo à DGAC da República da Guiné-Bissau a decisão de os manter opcionais ou tornar igualmente mandatórios. Dessa decisão será dado conhecimento à DGAC de Portugal, para acção posterior.",
+    "depois": "###### Artigo 5.º — Aprovação e evolução de potenciais de motores, hélices e componentes notáveis\n\nA DGAC da República da Guiné-Bissau aceita que a definição e aprovação dos valores iniciais do potencial de motores, hélices e componentes rotáveis e sua posterior evolução seja efectuada pela DGAC de Portugal.\n\nOs processos de aprovação e de evolução de potenciais decorrerão sempre através da DGAC da República da Guiné-Bissau.\n\nTratando-se de assuntos de carácter opcional que a DGAC de Portugal tenha decidido tornar mandatórios, será devidamente explicada a razão do facto, cabendo à DGAC da República da Guiné-Bissau a decisão de os manter opcionais ou tornar igualmente mandatórios. Dessa decisão será dado conhecimento à DGAC de Portugal, para acção posterior.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1992-469186), publicado em 1992-05-30.",
+    "excerto": "No artigo 5.º do Protocolo Adicional ao Acordo Relativo à Cooperação e Assistência Técnica entre a República Portuguesa e a República da Guiné-Bissau no Domínio da Aviação Civil, primeiro parágrafo, onde se lê «hélices e componentes notáveis» deve ler-se «hélices e componentes rotáveis».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:200000:por",
+    "alterador": "pt:dre:469186:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 10.º — Certificados de navegabilidade\n\nA emissão, revalidação e caducidade dos certificados de navegabilidade dos aviões inscritos no Registo Aeronáutico da República da Guiné-Bissau cabe à DGAC da República da Guiné-Bissau.\n\nNo que respeita à sua revalidação periódica semestral, todo o processo técnico de controlo do estado de navegabilidade será conduzido por técnicos da DGAC de Portugal, que, após conclusão da inspecção e no caso de esta ter sido favoravelmente superada, emitirão documento recomendando a revalidação do certificado.\n\nNo caso de ocorrer qualquer acidente ou incidente, o respectivo inquérito ou averiguação será conduzido por pessoal técnico da DGAC de Portugal, com acompanhamento da DGAC da República da Guiné-Bissau. Após a reparação dos estragos materiais, quando for caso disso, e propostas as condições de navegabilidade, será igualmente emitido pela DGAC de Portugal um documento recomendando a revalidação do certificado.",
+    "depois": "###### Artigo 10.º — Certificados de navegabilidade\n\nA emissão, revalidação e caducidade dos certificados de navegabilidade dos aviões inscritos no Registo Aeronáutico da República da Guiné-Bissau cabe à DGAC da República da Guiné-Bissau.\n\nNo que respeita à sua revalidação periódica semestral, todo o processo técnico de controlo do estado de navegabilidade será conduzido por técnicos da DGAC de Portugal, que, após conclusão da inspecção e no caso de esta ter sido favoravelmente superada, emitirão documento recomendando a revalidação do certificado.\n\nNo caso de ocorrer qualquer acidente ou incidente, o respectivo inquérito ou averiguação será conduzido por pessoal técnico da DGAC de Portugal, com acompanhamento da DGAC da República da Guiné-Bissau. Após a reparação dos estragos materiais, quando for caso disso, e repostas as condições de navegabilidade, será igualmente emitido pela DGAC de Portugal um documento recomendando a revalidação do certificado.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1992-469186), publicado em 1992-05-30.",
+    "excerto": "No artigo 10.º, terceiro parágrafo, onde se lê «e propostas as condições de navegabilidade,» deve ler-se «e repostas as condições de navegabilidade,».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:200000:por",
+    "alterador": "pt:dre:469186:por"
+  }
+]

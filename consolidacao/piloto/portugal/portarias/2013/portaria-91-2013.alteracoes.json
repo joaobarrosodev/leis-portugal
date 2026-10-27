@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a [Portaria n.º 1041-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1041-a-2010-671941), de 7 de outubro.",
+    "depois": "###### Artigo 4.º — Norma revogatória\n\n1 - É revogada, a partir de 31 de março de 2013, a Portaria n.º 1041-A/2010, de 7 de outubro.\n\n2 - A revogação prevista no número anterior não abrange os medicamentos que em 31 de março de 2013 já se encontrem nos distribuidores por grosso ou nas farmácias, cujo escoamento deverá fazer-se nos termos do n.º 2 do artigo 10.º da Portaria n.º4/2012, de 2 de janeiro, mediante a aplicação da dedução prevista na Portaria n.º 1041-A/2010, de 7 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 135-B/2013](https://diariodarepublica.pt/dr/detalhe/portaria/135-b-2013-276437), publicado em 2013-03-28.",
+    "excerto": "O artigo 4.º da Portaria n.º 91/2013, de 28 de fevereiro, passa a ter a seguinte redação.\n\n«Artigo 4.º\n\n[...]\n\n1 - É revogada, a partir de 31 de março de 2013, a Portaria n.º 1041-A/2010, de 7 de outubro.\n\n2 - A revogação prevista no número anterior não abrange os medicamentos que em 31 de março de 2013 já se encontrem nos distribuidores por grosso ou nas farmácias, cujo escoamento deverá fazer-se nos termos do n.º 2 do artigo 10.º da Portaria n.º4/2012, de 2 de janeiro, mediante a aplicação da dedução prevista na Portaria n.º 1041-A/2010, de 7 de outubro.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:259247:por",
+    "alterador": "pt:dre:276437:por"
+  }
+]

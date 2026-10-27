@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 3.º\n\nFinda a situação prevista neste diploma, fica extinto o lugar de administrador, dando-se por finda a comissão de serviço ou a interinidade.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 49235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49235-1969-214068), publicado em 1969-09-11.",
+    "excerto": "Art. 4.º Fica revogado o artigo 3.º do Decreto-Lei n.º 45988, de 22 de Outubro de 1964.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:537045:por",
+    "alterador": "pt:dre:214068:por"
+  }
+]

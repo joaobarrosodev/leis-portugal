@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "21.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 21.º — Inquéritos a acidentes\n\nA DGPNTM tem competência para efectuar relatórios relativos a acidentes de embarcações abrangidas pela Convenção e, se assim o entender, deles dar conhecimento à IMO.",
+    "depois": "###### Artigo 21.º — Inquéritos a acidentes\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 26.º do/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07.",
+    "excerto": "São revogados:\n\na) O artigo 21.º do Decreto-Lei n.º 189/98, de 10 de julho;",
+    "artigo_alterador": "26.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:485054:por",
+    "alterador": "pt:dre:553057:por"
+  }
+]

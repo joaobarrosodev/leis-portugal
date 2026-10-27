@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "22.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 22.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 207/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1999-310798), de 9 de Junho.",
+    "depois": "###### Artigo 22.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 151/98, de 5 de Junho.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.",
+    "excerto": "O artigo 22.º do Decreto-Lei n.º 296/2002, de 11 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 22.º\n\nNorma revogatória\n\nÉ revogado o Decreto-Lei n.º 151/98, de 5 de Junho.»",
+    "artigo_alterador": "11.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438061:por",
+    "alterador": "pt:dre:692434:por"
+  }
+]

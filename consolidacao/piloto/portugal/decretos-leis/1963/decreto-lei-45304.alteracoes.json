@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º\n\nAos professores civis que, cumulativamente, desempenhem outras funções públicas estranhas ao serviço da Escola Naval é atribuída uma gratificação igual à estabelecida para a acumulação de regências nas Faculdades, acrescida de 50 por cento do seu valor pela regência de cada cadeira ou aula prática, até ao limite de duas regências.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 354/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1981-566998), publicado em 1981-12-30.",
+    "excerto": "Art. 7.º É revogado o artigo 4.º do Decreto-Lei n.º 45304, de 14 de Outubro de 1963.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687620:por",
+    "alterador": "pt:dre:566998:por"
+  }
+]

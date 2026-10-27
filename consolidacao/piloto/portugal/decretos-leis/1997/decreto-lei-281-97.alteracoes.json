@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 5.º — Requerimento\n\n1 - O reconhecimento é solicitado através de requerimento dirigido, no prazo de 120 dias sobre a entrada em vigor do presente diploma, ao júri a que se refere o artigo 3.º\n\n2 - Os requerimentos são entregues no Departamento dos Recursos Humanos da Saúde.\n\n3 - Compete ao Departamento dos Recursos Humanos da Saúde verificar a adequada instrução dos pedidos de acordo com os critérios fixados pelo júri.",
+    "depois": "###### Artigo 5.º — Requerimento\n\n1 - O reconhecimento é solicitado através de requerimento dirigido, no prazo de 120 dias a contar da data da entrada em vigor da portaria prevista no artigo 10.º, ao júri a que se refere o artigo 3.º\n\n2 - Os requerimentos são entregues no Departamento dos Recursos Humanos da Saúde.\n\n3 - Compete ao Departamento dos Recursos Humanos da Saúde verificar a adequada instrução dos pedidos de acordo com os critérios fixados pelo júri.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1998-522844), publicado em 1998-05-13.",
+    "excerto": "O artigo 5.º do Decreto-Lei n.º 281/97, de 15 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - O reconhecimento é solicitado através de requerimento dirigido, no prazo de 120 dias a contar da data da entrada em vigor da portaria prevista no artigo 10.º, ao júri a que se refere o artigo 3.º\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:667766:por",
+    "alterador": "pt:dre:522844:por"
+  }
+]

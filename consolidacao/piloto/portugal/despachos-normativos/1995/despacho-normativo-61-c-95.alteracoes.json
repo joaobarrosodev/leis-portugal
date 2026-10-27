@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 12.º — Bonificações de juro\n\n1 - Poderá ser concedida uma bonificação dos juros suportados pelo promotor durante os três primeiros anos do prazo de operações de financiamento bancário de médio ou longo prazo referidas no artigo anterior.\n\n2 - A parcela do empréstimo bonificada deverá destinar-se à cobertura do investimento aprovado e poderá ainda incluir o financiamento do fundo de maneio permanente necessário a outras acções necessárias à melhoria da competitividade da empresa, devidamente fundamentadas no diagnóstico apresentado.\n\n3 - As taxas máximas de juros e as outras condições dos empréstimos a bonificar serão reguladas em protocolos a estabelecer entre o IAPMEI e as instituições de crédito referidos no n.º 1 do artigo anterior.",
+    "depois": "###### Artigo 12.º — Bonificações de juro\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.",
+    "excerto": "É eliminado o artigo 12.º do Despacho Normativo n.º 61-C/95, de 17 de Outubro, com a actual redacção, e os artigos 13.º e 14.º mantêm a mesma redacção, mas passam a identificar-se por artigos 12.º e 13.º, respectivamente.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:392855:por",
+    "alterador": "pt:dre:532064:por"
+  }
+]

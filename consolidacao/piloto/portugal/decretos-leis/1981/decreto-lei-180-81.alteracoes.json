@@ -1,0 +1,32 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 6.º — (Orgânica)\n\n1 - São órgãos de gestão comuns aos departamentos do Centro:\n\na) O director;\n\nb) O conselho pedagógico.\n\n2 - É órgão de gestão próprio do departamento de observação e acção social a comissão de protecção.\n\n3 - Haverá serviços técnicos e administrativos comuns aos departamentos do Centro, salva a possibilidade da afectação exclusiva de qualquer unidade de pessoal a um único departamento.\n\n4 - O Centro não é dotado de autonomia administrativa e financeira, e as tarefas daqui decorrentes ficarão a cargo da Secretaria Regional dos Assuntos Sociais, através da Direcção Regional de Segurança Social.",
+    "depois": "###### Artigo 6.º — (Orgânica)\n\n1 - São órgãos de gestão comuns aos departamentos do Centro:\n\na) O director;\n\nb) O conselho pedagógico.\n\n2 - (Revogado.)\n\n3 - Haverá serviços técnicos e administrativos comuns aos departamentos do Centro, salva a possibilidade da afectação exclusiva de qualquer unidade de pessoal a um único departamento.\n\n4 - O Centro não é dotado de autonomia administrativa e financeira, e as tarefas daqui decorrentes ficarão a cargo da Secretaria Regional dos Assuntos Sociais, através da Direcção Regional de Segurança Social.\n\n> Revogado pelo/a Artigo 120.º do/a [Decreto-Lei n.º 58/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1995-174313), publicado em 1995-03-31.",
+    "excerto": "2 - São revogadas as seguintes disposições legais:\n\nb) O n.º 2 do artigo 6.º e o artigo 11.º do Decreto-Lei n.º 180/81, de 30 de Junho.",
+    "artigo_alterador": "120.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:578676:por",
+    "alterador": "pt:dre:174313:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 11.º — (Comissão de protecção)\n\n1 - A comissão de protecção é constituída pelo director, pelo psicólogo, pelo curador do Tribunal de Menores do Funchal e por um representante da Secretaria Regional da Educação e Cultura.\n\n2 - O representante da Secretaria Regional da Educação e Cultura é designado pelo respectivo Secretário Regional por períodos de dois anos, renováveis.\n\n3 - São aplicáveis as disposições dos artigos 92.º e 93.º da Organização Tutelar de Menores.",
+    "depois": "###### Artigo 11.º — (Comissão de protecção)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 120.º do/a [Decreto-Lei n.º 58/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1995-174313), publicado em 1995-03-31.",
+    "excerto": "2 - São revogadas as seguintes disposições legais:\n\nb) O n.º 2 do artigo 6.º e o artigo 11.º do Decreto-Lei n.º 180/81, de 30 de Junho.",
+    "artigo_alterador": "120.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:578676:por",
+    "alterador": "pt:dre:174313:por"
+  }
+]

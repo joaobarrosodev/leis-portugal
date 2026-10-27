@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — REGIME E ORGÂNICA DO CENTRO DE SEGURANÇA SOCIAL DA MADEIRA::6.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 6.º — Composição e mandato\n\n1 - O conselho directivo é composto por um presidente e por três vogais, nomeados por despacho conjunto do Presidente do Governo e do secretário regional da tutela, sob proposta deste.\n\n2 - O mandato dos membros do conselho directivo tem a duração de três anos, podendo o mesmo ser renovado por iguais períodos.\n\n3 - O mandato do presidente do conselho directivo terá como limite máximo três renovações, não podendo este ser provido no mesmo cargo do respectivo instituto antes de decorridos três anos.",
+    "depois": "###### Artigo 6.º — Composição e mandato\n\n1 - O conselho directivo é composto por um presidente e por dois vogais, nomeados por despacho conjunto do Presidente do Governo Regional e do secretário regional da tutela, sob proposta deste.\n\n2 - O mandato dos membros do conselho directivo tem a duração de três anos, podendo o mesmo ser renovado por iguais períodos.\n\n3 - O mandato dos membros do conselho directivo tem como limite máximo três renovações, não podendo ser providos nos mesmos cargos do CSSM antes de decorridos três anos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2007-629167), publicado em 2007-11-07.",
+    "excerto": "O artigo 6.º da orgânica do Centro de Segurança Social da Madeira, aprovada pelo Decreto Legislativo Regional n.º 26/2004/M, de 20 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 6.º\n\nComposição e mandato\n\n1 - O conselho directivo é composto por um presidente e por dois vogais, nomeados por despacho conjunto do Presidente do Governo Regional e do secretário regional da tutela, sob proposta deste.\n\n2 - ...\n\n3 - O mandato dos membros do conselho directivo tem como limite máximo três renovações, não podendo ser providos nos mesmos cargos do CSSM antes de decorridos três anos.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:480292:por",
+    "alterador": "pt:dre:629167:por"
+  }
+]

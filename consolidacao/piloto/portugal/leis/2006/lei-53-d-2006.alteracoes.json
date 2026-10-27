@@ -1,0 +1,32 @@
+[
+  {
+    "artigo": "8.º-A",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 8.º-A — Descontos para a ADSE ou para sistemas de assistência na doença\n\n1 - Os descontos para a ADSE ou para sistemas de assistência na doença no âmbito da Administração Pública, efectuados por beneficiários inscritos a partir de 1 de Janeiro de 2009, incidem sobre a remuneração base paga, nos termos do n.º 3 do artigo 70.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - Sem prejuízo do disposto no número anterior, os descontos para a ADSE ou para sistemas de assistência na doença no âmbito da Administração Pública continuam a incidir sobre os suplementos remuneratórios com carácter de permanência, nos mesmos termos da incidência da quota para a Caixa Geral de Aposentações.\n\n> Aditado pelo/a Artigo 16.º do/a [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), publicado em 2010-04-28.",
+    "excerto": "É aditado à Lei n.º 53-D/2006, de 29 de Dezembro, o artigo 8.º-A, com a seguinte redacção:\n\n«Artigo 8.º-A\n\nDescontos para a ADSE ou para sistemas de assistência na doença\n\n1 - Os descontos para a ADSE ou para sistemas de assistência na doença no âmbito da Administração Pública, efectuados por beneficiários inscritos a partir de 1 de Janeiro de 2009, incidem sobre a remuneração base paga, nos termos do n.º 3 do artigo 70.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - Sem prejuízo do disposto no número anterior, os descontos para a ADSE ou para sistemas de assistência na doença no âmbito da Administração Pública continuam a incidir sobre os suplementos remuneratórios com carácter de permanência, nos mesmos termos da incidência da quota para a Caixa Geral de Aposentações.»",
+    "artigo_alterador": "16.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:197491:por",
+    "alterador": "pt:dre:609990:por"
+  },
+  {
+    "artigo": "8.º-A",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 8.º-A — Descontos para a ADSE ou para sistemas de assistência na doença\n\n1 - Os descontos para a ADSE ou para sistemas de assistência na doença no âmbito da Administração Pública, efectuados por beneficiários inscritos a partir de 1 de Janeiro de 2009, incidem sobre a remuneração base paga, nos termos do n.º 3 do artigo 70.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - Sem prejuízo do disposto no número anterior, os descontos para a ADSE ou para sistemas de assistência na doença no âmbito da Administração Pública continuam a incidir sobre os suplementos remuneratórios com carácter de permanência, nos mesmos termos da incidência da quota para a Caixa Geral de Aposentações.\n\n> Aditado pelo/a Artigo 16.º do/a [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), publicado em 2010-04-28.",
+    "depois": "###### Artigo 8.º-A — Descontos para a ADSE ou para sistemas de assistência na doença\n\n1 - Os descontos para a ADSE ou para sistemas de assistência na doença no âmbito da Administração Pública, efectuados por beneficiários inscritos a partir de 1 de Janeiro de 2009, incidem sobre a remuneração base paga, nos termos do n.º 3 do artigo 70.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - (Revogado.)\n\n> Aditado pelo/a Artigo 16.º do/a [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), publicado em 2010-04-28.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 105/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702), publicado em 2013-07-30.",
+    "excerto": "1 - É revogado o n.º 2 do artigo 8.º-A da Lei n.º 53-D/2006, de 29 de dezembro, alterada pela Lei n.º 3-B/2010, de 28 de abril, e pelo Decreto-Lei n.º 29-A/2011, de 1 de março.",
+    "artigo_alterador": "6.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:197491:por",
+    "alterador": "pt:dre:498702:por"
+  }
+]

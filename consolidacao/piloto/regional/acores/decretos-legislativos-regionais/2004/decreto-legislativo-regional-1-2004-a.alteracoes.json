@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º — Objecto\n\nA paisagem protegida de interesse regional da cultura da vinha da ilha do Pico, adiante designada por paisagem protegida, criada pelo [Decreto Legislativo Regional n.º 12/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1996-426772), de 27 de Junho, passa a reger-se pelo presente diploma.",
+    "depois": "###### Artigo 1.º — Objecto\n\nA paisagem protegida de interesse regional da cultura da vinha da ilha do Pico (PPIRCVIP), adiante abreviadamente designada por paisagem protegida, criada pelo Decreto Legislativo Regional n.º 12/96/A, de 27 de Junho, passa a reger-se pelo presente diploma, mantendo-se o seu estatuto de classificação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 24/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2005-594310), publicado em 2005-10-21.",
+    "excerto": "Os artigos 1.º e 12.º do Decreto Legislativo Regional n.º 1/2004/A, de 21 de Janeiro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nObjecto\n\nA paisagem protegida de interesse regional da cultura da vinha da ilha do Pico (PPIRCVIP), adiante abreviadamente designada por paisagem protegida, criada pelo Decreto Legislativo Regional n.º 12/96/A, de 27 de Junho, passa a reger-se pelo presente diploma, mantendo-se o seu estatuto de classificação.\n\nArtigo 12.º\n\nRegulamentação\n\nO Governo Regional estabelece, por decreto regulamentar regional, o regulamento da paisagem protegida e o seu quadro de pessoal, bem como os critérios para a atribuição dos apoios para a reconstrução e correcção de dissonâncias e anomalias arquitectónicas em imóveis, a prestar aos respectivos proprietários, e para a reabilitação e manutenção da paisagem tradicional da cultura da vinha em currais, incluindo os currais de figueira, a prestar aos titulares dessas explorações.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:607171:por",
+    "alterador": "pt:dre:594310:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 12.º — Regulamentação\n\nO Governo Regional estabelece, por decreto regulamentar regional, no prazo de 60 dias a contar da data da publicação do presente diploma, o regulamento da paisagem protegida e o quadro de pessoal do respectivo gabinete técnico, bem como os critérios para a atribuição dos apoios para reabilitação da paisagem tradicional da cultura da vinha em currais, a prestar aos proprietários de imóveis e de currais de vinha, naquela área.",
+    "depois": "###### Artigo 12.º — Regulamentação\n\nO Governo Regional estabelece, por decreto regulamentar regional, o regulamento da paisagem protegida e o seu quadro de pessoal, bem como os critérios para a atribuição dos apoios para a reconstrução e correcção de dissonâncias e anomalias arquitectónicas em imóveis, a prestar aos respectivos proprietários, e para a reabilitação e manutenção da paisagem tradicional da cultura da vinha em currais, incluindo os currais de figueira, a prestar aos titulares dessas explorações.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 24/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2005-594310), publicado em 2005-10-21.",
+    "excerto": "Os artigos 1.º e 12.º do Decreto Legislativo Regional n.º 1/2004/A, de 21 de Janeiro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nObjecto\n\nA paisagem protegida de interesse regional da cultura da vinha da ilha do Pico (PPIRCVIP), adiante abreviadamente designada por paisagem protegida, criada pelo Decreto Legislativo Regional n.º 12/96/A, de 27 de Junho, passa a reger-se pelo presente diploma, mantendo-se o seu estatuto de classificação.\n\nArtigo 12.º\n\nRegulamentação\n\nO Governo Regional estabelece, por decreto regulamentar regional, o regulamento da paisagem protegida e o seu quadro de pessoal, bem como os critérios para a atribuição dos apoios para a reconstrução e correcção de dissonâncias e anomalias arquitectónicas em imóveis, a prestar aos respectivos proprietários, e para a reabilitação e manutenção da paisagem tradicional da cultura da vinha em currais, incluindo os currais de figueira, a prestar aos titulares dessas explorações.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:607171:por",
+    "alterador": "pt:dre:594310:por"
+  }
+]

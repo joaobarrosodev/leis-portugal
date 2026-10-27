@@ -1,0 +1,34 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 5.º — Forma de pagamento\n\n1 - O pagamento será feito nas tesourarias da Fazenda Pública ou no Banco de Portugal no prazo de 30 dias após o envio ao requerente pelo serviço competente das respectivas guias de pagamento em quintuplicado.\n\n2 - O requerente, após o pagamento, deve enviar ao serviço competente uma cópia da guia.\n\n3 - O processo de comunicação das cobranças efectuadas, bem como a distribuição das importâncias arrecadadas, rege-se pelo disposto no [Decreto-Lei n.º 5/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1984-531830), de 5 de Janeiro.\n\n4 - Os montantes das taxas que não forem pagos nos prazos indicados no n.º 1 serão cobrados coercivamente através dos serviços de justiça fiscal, servindo de título executivo a certidão emitida pelo serviço processador competente.",
+    "depois": "###### Artigo 5.º — Forma de pagamento\n\n1 - O pagamento será feito nas tesourarias da Fazenda Pública ou no Banco de Portugal no prazo de 30 dias após o envio ao requerente pelo serviço competente das respectivas guias de pagamento em quintuplicado.\n\n2 - O requerente, após o pagamento, deve enviar ao serviço competente uma cópia da guia.\n\n3 - (Revogado.)\n\n4 - Os montantes das taxas que não forem pagos nos prazos indicados no n.º 1 serão cobrados coercivamente através dos serviços de justiça fiscal, servindo de título executivo a certidão emitida pelo serviço processador competente.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.",
+    "excerto": "São revogados o n.º 3 do artigo 5.º e o n.º 2 do artigo 24.º do Decreto-Lei n.º 4/93, de 8 de Janeiro.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:283681:por",
+    "alterador": "pt:dre:490394:por"
+  },
+  {
+    "artigo": "24.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 24.º — Âmbito e valores\n\n1 - As taxas diversas são devidas por serviços prestados nos seguintes casos:\n\na) Apreciação do projecto de instalações eléctricas de abastecimento público que não carecem de licença de estabelecimento;\n\nb) Vistoria de instalações eléctricas de serviço particular que não carecem de licença de estabelecimento;\n\nc) Revistoria para verificação de cláusulas impostas;\n\nd) Aprovação de projectos de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.\n\n2 - As taxas de revistoria referidas na alínea c) do número anterior, quando sejam cobradas no âmbito da administração central, constituem receita do serviço competente.",
+    "depois": "###### Artigo 24.º — Âmbito e valores\n\n1 - As taxas diversas são devidas por serviços prestados nos seguintes casos:\n\na) Apreciação do projecto de instalações eléctricas de abastecimento público que não carecem de licença de estabelecimento;\n\nb) Vistoria de instalações eléctricas de serviço particular que não carecem de licença de estabelecimento;\n\nc) Revistoria para verificação de cláusulas impostas;\n\nd) Aprovação de projectos de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.",
+    "excerto": "São revogados o n.º 3 do artigo 5.º e o n.º 2 do artigo 24.º do Decreto-Lei n.º 4/93, de 8 de Janeiro.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:283681:por",
+    "alterador": "pt:dre:490394:por"
+  }
+]

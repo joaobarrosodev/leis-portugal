@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Montante de crédito\n\n1 - O montante global de crédito a conceder não pode exceder os 45 milhões de euros.\n\n2 - Caso o montante de crédito solicitado pelos interessados ultrapasse o limite fixado no número anterior, os montantes a conceder a título individual são reduzidos na proporção da percentagem do montante ultrapassado.",
+    "depois": "###### Artigo 3.º — Montante de crédito\n\n1 - O montante global de crédito a conceder não pode exceder os 5 milhões de euros.\n\n2 - Caso o montante de crédito solicitado pelos interessados ultrapasse o limite fixado no número anterior, os montantes a conceder a título individual são reduzidos na proporção da percentagem do montante ultrapassado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867), publicado em 2005-11-03.",
+    "excerto": "O artigo 3.º do Decreto-Lei n.º 95/2005, de 9 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - O montante global de crédito a conceder não pode exceder os 5 milhões de euros.\n\n2 - ...»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:227414:por",
+    "alterador": "pt:dre:584867:por"
+  }
+]

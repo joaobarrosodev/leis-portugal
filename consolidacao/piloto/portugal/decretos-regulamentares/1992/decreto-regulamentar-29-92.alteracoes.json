@@ -1,0 +1,34 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 4.º — Unidades de crédito\n\n1 - O número de unidades de crédito de formação contínua considerado como requisito mínimo de progressão na carreira é igual ao número de anos que o professor é obrigado a permanecer em cada escalão, nos termos do artigo 8.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.\n\n2 - Para efeitos de progressão na carreira, apenas são consideradas as unidades de crédito adquiridas no decurso do módulo de tempo de serviço no escalão a que se reportam, sem prejuízo do disposto no número seguinte.\n\n3 - Sempre que o número de créditos adquiridos pelo docente num determinado escalão exceda, no equivalente a pelo menos uma unidade de crédito, o necessário para a progressão na carreira ser-lhe-á creditada, na formação realizada no escalão seguinte, uma unidade de crédito adicional.",
+    "depois": "###### Artigo 4.º — Unidades de crédito\n\n1 - O número de unidades de crédito de formação contínua considerado como requisito mínimo de progressão na carreira é igual ao número de anos que o professor é obrigado a permanecer em cada escalão, nos termos do artigo 8.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.\n\n2 - (Revogado.)\n\n3 - Sempre que o número de créditos adquiridos pelo docente num determinado escalão exceda, no equivalente a pelo menos uma unidade de crédito, o necessário para a progressão na carreira ser-lhe-á creditada, na formação realizada no escalão seguinte, uma unidade de crédito adicional.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.",
+    "excerto": "São revogados:\n\nh) Os n.os 2 e 3 do artigo 4.º do Decreto Regulamentar n.º 29/92, de 9 de Novembro.",
+    "artigo_alterador": "25.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:391845:por",
+    "alterador": "pt:dre:522638:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 4.º — Unidades de crédito\n\n1 - O número de unidades de crédito de formação contínua considerado como requisito mínimo de progressão na carreira é igual ao número de anos que o professor é obrigado a permanecer em cada escalão, nos termos do artigo 8.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.\n\n2 - (Revogado.)\n\n3 - Sempre que o número de créditos adquiridos pelo docente num determinado escalão exceda, no equivalente a pelo menos uma unidade de crédito, o necessário para a progressão na carreira ser-lhe-á creditada, na formação realizada no escalão seguinte, uma unidade de crédito adicional.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.",
+    "depois": "###### Artigo 4.º — Unidades de crédito\n\n1 - O número de unidades de crédito de formação contínua considerado como requisito mínimo de progressão na carreira é igual ao número de anos que o professor é obrigado a permanecer em cada escalão, nos termos do artigo 8.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.",
+    "excerto": "São revogados:\n\nh) Os n.os 2 e 3 do artigo 4.º do Decreto Regulamentar n.º 29/92, de 9 de Novembro.",
+    "artigo_alterador": "25.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:391845:por",
+    "alterador": "pt:dre:522638:por"
+  }
+]

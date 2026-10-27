@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 8.º — Subvenção extraordinária\n\n1 - Atendendo a as restrições financeiras da Região, derivadas em parte da quebra de receitas provenientes dos acordos internacionais, e a circunstância do eventual diferimento de pagamentos daí resultantes poderem criar, temporária e pontualmente, dificuldades económicas e financeiras significativas a fornecedores de bens e serviços à Região, fica o Governo Regional autorizado a assumir os encargos financeiros resultantes do recurso a financiamentos bancários por parte dessas entidades, até ao montante que se encontre em dívida, de acordo com os prazos legais de pagamento, e mediante contrato que justifique documentalmente a origem e causas da despesa em questão.\n\n2 - O disposto no número anterior é aplicável a projectos cuja execução esteja em curso e que constem dos planos e orçamentos aprovados pela Assembleia Legislativa Regional.\n\n3 - Os financiamentos bancários e respectivos encargos financeiros em causa reger-se-ão pelos valores e parâmetros que vigorarem na prática bancária corrente no momento de celebração dos contratos, devendo cada projecto ser considerado caso a caso de modo a ponderar da melhor forma todas as circunstâncias relevantes.",
+    "depois": "###### Artigo 8.º — Subvenção extraordinária\n\n1 - Atendendo às restrições financeiras da Região, derivadas em parte da quebra de receitas provenientes dos acordos internacionais, e a circunstância do eventual diferimento de pagamentos daí resultantes poderem criar, temporária e pontualmente, dificuldades económicas e financeiras significativas a fornecedores de bens e serviços à Região, fica o Governo Regional autorizado a assumir os encargos financeiros resultantes do recurso a financiamentos bancários por parte dessas entidades, até ao montante que se encontre em dívida, de acordo com os prazos legais de pagamento, e mediante contrato que justifique documentalmente a origem e causas da despesa em questão.\n\n2 - O disposto no número anterior é aplicável a projectos cuja execução esteja em curso e que constem dos planos e orçamentos aprovados pela Assembleia Legislativa Regional.\n\n3 - Os financiamentos bancários e respectivos encargos financeiros em causa reger-se-ão pelos valores e parâmetros que vigorarem na prática bancária corrente no momento de celebração dos contratos, devendo cada projecto ser considerado caso a caso de modo a ponderar da melhor forma todas as circunstâncias relevantes.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 152/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/152-1993-566789), publicado em 1993-08-31.",
+    "excerto": "No artigo 8.º, n.º 1, onde se lê «Atendendo a as restrições financeiras da Região,» deve ler-se «Atendendo às restrições financeiras da Região,».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:346745:por",
+    "alterador": "pt:dre:566789:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º — Subvenção extraordinária\n\n1 - Atendendo às restrições financeiras da Região, derivadas em parte da quebra de receitas provenientes dos acordos internacionais, e a circunstância do eventual diferimento de pagamentos daí resultantes poderem criar, temporária e pontualmente, dificuldades económicas e financeiras significativas a fornecedores de bens e serviços à Região, fica o Governo Regional autorizado a assumir os encargos financeiros resultantes do recurso a financiamentos bancários por parte dessas entidades, até ao montante que se encontre em dívida, de acordo com os prazos legais de pagamento, e mediante contrato que justifique documentalmente a origem e causas da despesa em questão.\n\n2 - O disposto no número anterior é aplicável a projectos cuja execução esteja em curso e que constem dos planos e orçamentos aprovados pela Assembleia Legislativa Regional.\n\n3 - Os financiamentos bancários e respectivos encargos financeiros em causa reger-se-ão pelos valores e parâmetros que vigorarem na prática bancária corrente no momento de celebração dos contratos, devendo cada projecto ser considerado caso a caso de modo a ponderar da melhor forma todas as circunstâncias relevantes.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 152/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/152-1993-566789), publicado em 1993-08-31.",
+    "depois": "###### Artigo 8.º — Subvenção extraordinária\n\n(Revogado.)\n\n> Retificado pelo/a [Declaração de Rectificação n.º 152/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/152-1993-566789), publicado em 1993-08-31.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 20/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1993-539266), publicado em 1993-12-18.",
+    "excerto": "1 - Fica revogado o artigo 8.º do Decreto Legislativo Regional n.º 10/93/A, de 22 de Julho.",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:346745:por",
+    "alterador": "pt:dre:539266:por"
+  }
+]

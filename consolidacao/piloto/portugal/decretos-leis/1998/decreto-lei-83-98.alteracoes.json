@@ -1,0 +1,33 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 2.º — Composição\n\n1 - O Conselho é nomeado, no prazo de 45 dias, por despacho do membro do Governo que tutela a Administração Pública, sendo constituído por:\n\na) Um presidente designado pelo membro do Governo que tutela a Administração Pública, ouvidas as organizações sindicais;\n\nb) Dez representantes do Governo e suplentes designados, respectivamente, pelo membro do Governo que tutela a Administração Pública, pelo Ministro da Defesa Nacional, pelo Ministro das Finanças, pelo Ministro da Administração Interna, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, pelo Ministro da Justiça, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, pelo Ministro da Saúde, pelo Ministro do Trabalho e da Solidariedade e pelo Ministro do Ambiente;\n\nc) Dois representantes designados pelos Governos Regionais, em matérias de interesse para as Regiões Autónomas;\n\nd) Dez representantes de organizações sindicais representativas dos trabalhadores da Administração Pública e respectivos suplentes.\n\n2 - Nas suas ausências e impedimentos o presidente é substituído por um dos membros do Conselho, designado nos termos da alínea a) do número anterior, sendo a sua representação no Conselho assegurada pelo respectivo membro suplente.\n\n3 - Os membros do Conselho exercem o seu mandato por períodos de três anos, renováveis, sem prejuízo da sua substituição, a todo o tempo, por proposta da entidade que os designou.",
+    "depois": "###### Artigo 2.º — Composição\n\n1 - O Conselho é nomeado, no prazo de 45 dias, por despacho do membro do Governo que tutela a Administração Pública, sendo constituído por:\n\na) Um presidente designado pelo membro do Governo que tutela a Administração Pública, ouvidas as organizações sindicais;\n\nb) Dez representantes do Governo e respectivos suplentes, designados pelos membros do Governo responsáveis pelas áreas da Administração Pública, da defesa nacional, das finanças, da administração interna, da administração local, da justiça, da agricultura e pescas, da saúde, do trabalho e do ambiente.\n\nc) Dois representantes designados pelos Governos Regionais, em matérias de interesse para as Regiões Autónomas;\n\nd) Dez representantes de organizações sindicais representativas dos trabalhadores da Administração Pública e respectivos suplentes.\n\n2 - Nas suas ausências e impedimentos o presidente é substituído por um dos membros do Conselho, designado nos termos da alínea a) do número anterior, sendo a sua representação no Conselho assegurada pelo respectivo membro suplente.\n\n3 - Os membros do Conselho exercem o seu mandato por períodos de três anos, renováveis, sem prejuízo da sua substituição, a todo o tempo, por proposta da entidade que os designou.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2000-303819), publicado em 2000-06-19.",
+    "excerto": "A alínea b) do n.º 1 do artigo 2.º do Decreto-Lei n.º 83/98, de 3 de Abril, passa a ter a seguinte redacção:\n\n«b) Dez representantes do Governo e respectivos suplentes, designados pelos membros do Governo responsáveis pelas áreas da Administração Pública, da defesa nacional, das finanças, da administração interna, da administração local, da justiça, da agricultura e pescas, da saúde, do trabalho e do ambiente.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "1",
+      "b"
+    ],
+    "diploma": "pt:dre:209020:por",
+    "alterador": "pt:dre:303819:por"
+  },
+  {
+    "artigo": "ANEXO — Regulamento do Conselho de Saúde e Segurança no Trabalho para a Administração Pública::5.º-A",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 5.º-A — Remunerações\n\nOs membros das comissões técnicas previstas no artigo 5.º do presente Regulamento são remunerados por gratificação ou por senhas de presença, de acordo com o tipo de trabalho a desenvolver, nos termos a fixar por despacho conjunto do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública e têm direito ao abono de despesas de deslocação e de ajudas de custo nos termos da lei geral.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2000-303819), publicado em 2000-06-19.",
+    "excerto": "É aditado o artigo 5.º-A ao Regulamento do Conselho de Saúde e Segurança no Trabalho para a Administração Pública anexo ao Decreto-Lei n.º 83/98, de 3 de Abril, com a seguinte redacção:\n\n«Artigo 5.º-A\n\nRemunerações\n\nOs membros das comissões técnicas previstas no artigo 5.º do presente Regulamento são remunerados por gratificação ou por senhas de presença, de acordo com o tipo de trabalho a desenvolver, nos termos a fixar por despacho conjunto do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública e têm direito ao abono de despesas de deslocação e de ajudas de custo nos termos da lei geral.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:209020:por",
+    "alterador": "pt:dre:303819:por"
+  }
+]

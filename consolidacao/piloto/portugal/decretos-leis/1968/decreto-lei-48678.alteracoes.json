@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 3.º\n\nOs pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio, por cheques do Banco de Portugal ou da Caixa Geral de Depósitos, Crédito e Previdência ou por cheques emitidos ou visados por qualquer estabelecimento bancário, pagáveis na localidade.\n\n§ único. Os vales de correio ou cheques serão emitidos ou endossados à ordem do tesoureiro da câmara à qual tenha de efectuar-se o pagamento, devendo uns e outros conter a sobrecarga «Pagamento de dívidas às câmaras municipais».",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 176/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1972-681792), publicado em 1972-05-25.",
+    "excerto": "Art. 6.º São revogados os artigos 3.º e seu § único e 5.º do Decreto-Lei n.º 48678, de 12 de Novembro de 1968.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:263553:por",
+    "alterador": "pt:dre:681792:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 5.º — Composição\n\n1 - O conselho directivo é constituído por um presidente e três vice-presidentes, nomeados por despacho conjunto do Primeiro-Ministro e do ministro da tutela.\n\n2 - O presidente e vice-presidentes do conselho directivo são equiparados, respectivamente, a director-geral e a subdirectores-gerais para todos os efeitos legais previstos no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, salvo no que se refere às competências conferidas ao conselho directivo pelo presente diploma.",
+    "depois": "###### Artigo 5.º — Composição\n\n1 - O conselho directivo é constituído por um presidente e quatro vice-presidentes, nomeados por despacho conjunto do Primeiro-Ministro e do ministro da tutela.\n\n2 - O presidente e vice-presidentes do conselho directivo são equiparados, respectivamente, a director-geral e a subdirectores-gerais para todos os efeitos legais previstos no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, salvo no que se refere às competências conferidas ao conselho directivo pelo presente diploma.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 334/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1999-434008), publicado em 1999-08-20.",
+    "excerto": "O artigo 5.º do Decreto-Lei n.º 122/93, de 16 de Abril, que criou o Instituto Geológico e Mineiro, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\nComposição\n\n1 - O conselho directivo é constituído por um presidente e quatro vice-presidentes, nomeados por despacho conjunto do Primeiro-Ministro e do ministro da tutela.\n\n2 - ...»",
+    "artigo_alterador": "9.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:690983:por",
+    "alterador": "pt:dre:434008:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 2.º — Grupos de escolas\n\n1 - São considerados grupos de escolas o Grupo n.º 1 de Escolas da Armada (G1EA) e o Grupo n.º 2 de Escolas da Armada (G2EA).\n\n2 - O G1EA integra as seguintes escolas:\n\na) A Escola de Máquinas;\n\nb) A Escola de Electrotecnia;\n\nc) A Escola de Abastecimento.\n\n3 - O G2EA integra as seguintes escolas:\n\na) A Escola de Artilharia Naval;\n\nb) A Escola de Armas Submarinas;\n\nc) A Escola de Comunicações;\n\nd) A Escola de Informações de Combate;\n\ne) A Escola de Marinhagem;\n\nf) A Escola de Limitação de Avarias;\n\ng) A Escola de Tecnologia de Educação e Treino.\n\n4 - As escolas são genericamente designadas por escolas técnicas.",
+    "depois": "###### Artigo 2.º — Grupos de escolas\n\n1 - São considerados grupos de escolas o Grupo n.º 1 de Escolas da Armada (G1EA) e o Grupo n.º 2 de Escolas da Armada (G2EA).\n\n2 - O G1EA integra as seguintes escolas:\n\na) A Escola de Máquinas;\n\nb) A Escola de Electrotecnia;\n\nc) A Escola de Abastecimento.\n\n3 - O G2EA integra as seguintes escolas:\n\na) A Escola de Artilharia Naval;\n\nb) A Escola de Armas Submarinas;\n\nc) A Escola de Comunicações;\n\nd) A Escola de Informações de Combate;\n\ne) A Escola de Marinharia;\n\nf) A Escola de Limitação de Avarias;\n\ng) A Escola de Tecnologia de Educação e Treino.\n\n4 - As escolas são genericamente designadas por escolas técnicas.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 241/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1994-355917), publicado em 1994-11-30.",
+    "excerto": "No artigo 2.º, n.º 3, alínea e), onde se lê «A Escola de Marinhagem;» deve ler-se «A Escola de Marinharia;».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:654534:por",
+    "alterador": "pt:dre:355917:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 7.º — Director escolar\n\n1 - O director escolar (DE) coadjuva o comandante na coordenação e orientação das actividades das escolas, competindo-lhe em especial:\n\na) Elaborar e propor normas internas e instruções necessárias à execução das actividades de promoção;\n\nb) Coordenar as actividades das escolas, designadamente no que respeite à elaboração dos programas de formação e das propostas de planos de curso;\n\nc) Promover acções de formação dos formadores;\n\nd) Coligir os elementos estatísticos referentes a concursos e a resultados dos cursos e proceder à sua análise;\n\ne) Propor a atribuição e promover a distribuição dos prémios escolares.\n\n2 - O DE é hierarquicamente superior aos directores das escolas e é substituído, nas suas ausências e impedimentos, pelo director da escola de mais elevado posto ou mais antigo.\n\n3 - O DE dispõe de uma secretaria escolar e de uma editora escolar.\n\n4 - Na dependência do DE podem funcionar departamentos de formação, com carácter eventual, destinados ao ensino de matérias comuns aos cursos ministrados.",
+    "depois": "###### Artigo 7.º — Director escolar\n\n1 - O director escolar (DE) coadjuva o comandante na coordenação e orientação das actividades das escolas, competindo-lhe em especial:\n\na) Elaborar e propor normas internas e instruções necessárias à execução das actividades de formação;\n\nb) Coordenar as actividades das escolas, designadamente no que respeite à elaboração dos programas de formação e das propostas de planos de curso;\n\nc) Promover acções de formação dos formadores;\n\nd) Coligir os elementos estatísticos referentes a concursos e a resultados dos cursos e proceder à sua análise;\n\ne) Propor a atribuição e promover a distribuição dos prémios escolares.\n\n2 - O DE é hierarquicamente superior aos directores das escolas e é substituído, nas suas ausências e impedimentos, pelo director da escola de mais elevado posto ou mais antigo.\n\n3 - O DE dispõe de uma secretaria escolar e de uma editora escolar.\n\n4 - Na dependência do DE podem funcionar departamentos de formação, com carácter eventual, destinados ao ensino de matérias comuns aos cursos ministrados.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 241/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1994-355917), publicado em 1994-11-30.",
+    "excerto": "No artigo 7.º, n.º 1, alínea a), onde se lê «de promoção;» deve ler-se «de formação;».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:654534:por",
+    "alterador": "pt:dre:355917:por"
+  }
+]

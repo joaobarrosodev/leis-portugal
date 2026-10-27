@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nA igual assistência têm direito, nos termos do artigo 81.º do regulamento aprovado pelo [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, todos aqueles que, econòmicamente débeis, não sendo funcionários, viajem com passagens a expensas da Fazenda Nacional ou dos organismos assistenciais das províncias ultramarinas, especificadamente:\n\na) Doentes pobres que, por opinião das juntas provinciais de saúde, venham à metrópole a fim de receberem tratamento adequado no Hospital do Ultramar ou em estabelecimentos metropolitanos especialmente destinados ao estudo e tratamento de doenças tropicais e outras de natureza diversa, de acordo com o que se acha disposto no [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964;\n\nb) Repatriados, mesmo no caso de utilizarem alguma das passagens oferecidas gratuitamente pelas companhias de navegação;\n\nc) Colonos e seus familiares.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19.",
+    "excerto": "Art. 6.º É revogado o artigo 2.º do Decreto n.º 49089, de 27 de Junho de 1969.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:200376:por",
+    "alterador": "pt:dre:160298:por"
+  }
+]

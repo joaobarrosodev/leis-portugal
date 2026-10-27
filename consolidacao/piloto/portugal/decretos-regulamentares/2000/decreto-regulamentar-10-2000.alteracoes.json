@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "19.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 19.º — Contra-ordenações\n\n1 - Constitui contra-ordenação a prática dos actos e actividades previstos no artigo 10.º, bem como a prática dos actos e actividades previstos nos artigos 11.º e 12.º sem as necessárias autorizações e pareceres.\n\n2 - As contra-ordenações previstas no número anterior são punidas com coimas de:\n\na) 5000$00 a 500000$00, no caso de pessoas singulares;\n\nb) 200000$00 a 6000000$00, no caso de pessoas colectivas.\n\n3 - A tentativa e a negligência são puníveis.\n\n4 - As contra-ordenações previstas no n.º 1 podem ainda determinar a aplicação das sanções acessórias previstas no artigo 23.º do Decreto-Lei n.º 19/93, de 23 de Janeiro.\n\n5 - O processamento das contra-ordenações e a aplicação das coimas e sanções acessórias são feitos de acordo com o artigo 24.º do Decreto-Lei n.º 19/93, de 23 de Janeiro.",
+    "depois": "###### Artigo 19.º — Contra-ordenações\n\n1 - Constitui contra-ordenação a prática dos actos e actividades previstos no artigo 10.º, bem como a prática dos actos e actividades previstos nos artigos 11.º e 12.º sem as necessárias autorizações e pareceres.\n\n2 - As contra-ordenações previstas no número anterior são punidas com coimas de:\n\na) (euro) 25 a (euro) 2500, no caso de pessoas singulares;\n\nb) (euro) 1000 a (euro) 30000, no caso de pessoas colectivas.\n\n3 - A tentativa e a negligência são puníveis.\n\n4 - As contra-ordenações previstas no n.º 1 podem ainda determinar a aplicação das sanções acessórias previstas no artigo 23.º do Decreto-Lei n.º 19/93, de 23 de Janeiro.\n\n5 - O processamento das contra-ordenações e a aplicação das coimas e sanções acessórias são feitos de acordo com o artigo 24.º do Decreto-Lei n.º 19/93, de 23 de Janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2004-210024), publicado em 2004-03-29.",
+    "excerto": "O artigo 19.º do Decreto Regulamentar n.º 10/2000, de 22 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 19.º\n\n[...]\n\n1 - ...\n\n2 - As contra-ordenações previstas no número anterior são punidas com coimas de:\n\na) (euro) 25 a (euro) 2500, no caso de pessoas singulares;\n\nb) (euro) 1000 a (euro) 30000, no caso de pessoas colectivas.\n\n3 - ...\n\n4 - ...\n\n5 - ...»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:324279:por",
+    "alterador": "pt:dre:210024:por"
+  }
+]

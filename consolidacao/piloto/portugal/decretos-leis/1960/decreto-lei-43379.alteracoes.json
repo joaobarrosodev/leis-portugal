@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nFará também parte do conselho de administração do Arsenal do Alfeite o director adjunto da administração, cujo lugar foi criado pelo [Decreto n.º 41253](https://diariodarepublica.pt/dr/detalhe/decreto/41253-1957-281218), de 4 de Setembro de 1957.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 508/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1971-631787), publicado em 1971-11-20.",
+    "excerto": "Art. 3.º - 1. São revogados o artigo 2.º do Decreto-Lei n.º 43379, de 6 de Dezembro de 1960, e o Decreto n.º 41253, de 4 de Setembro de 1957.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:512661:por",
+    "alterador": "pt:dre:631787:por"
+  }
+]

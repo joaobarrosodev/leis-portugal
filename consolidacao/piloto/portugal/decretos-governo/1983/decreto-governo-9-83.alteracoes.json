@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nPassa a ter a seguinte redacção o artigo 4.º do decreto de 29 de Junho de 1960, publicado no Diário do Governo, 2.ª série, n.º 150, de 29 de Junho de 1960:",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 39/88](https://diariodarepublica.pt/dr/detalhe/decreto/39-1988-354484), publicado em 1988-10-26.",
+    "excerto": "Art. 2.º É revogado o artigo 1.º do Decreto do Governo n.º 9/83, de 25 de Janeiro, publicado no Diário da República, 1.ª série, n.º 20, de 25 de Janeiro de 1983.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308337:por",
+    "alterador": "pt:dre:354484:por"
+  }
+]

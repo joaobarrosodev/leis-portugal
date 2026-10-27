@@ -1,0 +1,48 @@
+parte 5/6: 4249 diplomas, 0 feitos, 4249 por fazer
+parte 5/6: 100/4249 em 40 s (0.40 s/diploma); {'sem alteração textual': 59, 'para LLM': 29, 'excluído': 1, 'aplicado por regra': 1, 'sem texto do alterador': 7, 'revogado por inteiro': 3}
+parte 5/6: 200/4249 em 61 s (0.31 s/diploma); {'sem alteração textual': 123, 'para LLM': 51, 'excluído': 1, 'aplicado por regra': 4, 'sem texto do alterador': 14, 'revogado por inteiro': 7}
+parte 5/6: 300/4249 em 81 s (0.27 s/diploma); {'sem alteração textual': 185, 'para LLM': 80, 'excluído': 1, 'aplicado por regra': 4, 'sem texto do alterador': 22, 'revogado por inteiro': 8}
+parte 5/6: 400/4249 em 94 s (0.23 s/diploma); {'sem alteração textual': 246, 'para LLM': 107, 'excluído': 1, 'aplicado por regra': 6, 'sem texto do alterador': 27, 'revogado por inteiro': 13}
+parte 5/6: 500/4249 em 103 s (0.21 s/diploma); {'sem alteração textual': 309, 'para LLM': 131, 'excluído': 1, 'aplicado por regra': 7, 'sem texto do alterador': 36, 'revogado por inteiro': 16}
+parte 5/6: 600/4249 em 112 s (0.19 s/diploma); {'sem alteração textual': 371, 'para LLM': 156, 'excluído': 1, 'aplicado por regra': 9, 'sem texto do alterador': 41, 'revogado por inteiro': 22}
+parte 5/6: 700/4249 em 124 s (0.18 s/diploma); {'sem alteração textual': 441, 'para LLM': 176, 'excluído': 1, 'aplicado por regra': 12, 'sem texto do alterador': 44, 'revogado por inteiro': 26}
+parte 5/6: 800/4249 em 134 s (0.17 s/diploma); {'sem alteração textual': 513, 'para LLM': 196, 'excluído': 1, 'aplicado por regra': 13, 'sem texto do alterador': 47, 'revogado por inteiro': 30}
+parte 5/6: 900/4249 em 143 s (0.16 s/diploma); {'sem alteração textual': 576, 'para LLM': 224, 'excluído': 1, 'aplicado por regra': 15, 'sem texto do alterador': 51, 'revogado por inteiro': 33}
+parte 5/6: 1000/4249 em 148 s (0.15 s/diploma); {'sem alteração textual': 645, 'para LLM': 249, 'excluído': 1, 'aplicado por regra': 17, 'sem texto do alterador': 54, 'revogado por inteiro': 34}
+parte 5/6: 1100/4249 em 154 s (0.14 s/diploma); {'sem alteração textual': 717, 'para LLM': 267, 'excluído': 1, 'aplicado por regra': 18, 'sem texto do alterador': 59, 'revogado por inteiro': 38}
+parte 5/6: 1200/4249 em 163 s (0.14 s/diploma); {'sem alteração textual': 785, 'para LLM': 295, 'excluído': 1, 'aplicado por regra': 21, 'sem texto do alterador': 59, 'revogado por inteiro': 39}
+parte 5/6: 1300/4249 em 171 s (0.13 s/diploma); {'sem alteração textual': 853, 'para LLM': 318, 'excluído': 1, 'aplicado por regra': 23, 'sem texto do alterador': 60, 'revogado por inteiro': 45}
+parte 5/6: 1400/4249 em 174 s (0.12 s/diploma); {'sem alteração textual': 922, 'para LLM': 335, 'excluído': 1, 'aplicado por regra': 27, 'sem texto do alterador': 62, 'revogado por inteiro': 53}
+parte 5/6: 1500/4249 em 182 s (0.12 s/diploma); {'sem alteração textual': 999, 'para LLM': 354, 'excluído': 1, 'aplicado por regra': 27, 'sem texto do alterador': 63, 'revogado por inteiro': 56}
+parte 5/6: 1600/4249 em 188 s (0.12 s/diploma); {'sem alteração textual': 1074, 'para LLM': 373, 'excluído': 1, 'aplicado por regra': 29, 'sem texto do alterador': 64, 'revogado por inteiro': 59}
+parte 5/6: 1700/4249 em 194 s (0.11 s/diploma); {'sem alteração textual': 1153, 'para LLM': 390, 'excluído': 2, 'aplicado por regra': 29, 'sem texto do alterador': 64, 'revogado por inteiro': 62}
+parte 5/6: 1800/4249 em 199 s (0.11 s/diploma); {'sem alteração textual': 1229, 'para LLM': 409, 'excluído': 2, 'aplicado por regra': 32, 'sem texto do alterador': 64, 'revogado por inteiro': 64}
+parte 5/6: 1900/4249 em 203 s (0.11 s/diploma); {'sem alteração textual': 1306, 'para LLM': 422, 'excluído': 2, 'aplicado por regra': 34, 'sem texto do alterador': 67, 'revogado por inteiro': 69}
+parte 5/6: 2000/4249 em 208 s (0.10 s/diploma); {'sem alteração textual': 1382, 'para LLM': 439, 'excluído': 2, 'aplicado por regra': 35, 'sem texto do alterador': 69, 'revogado por inteiro': 73}
+parte 5/6: 2100/4249 em 219 s (0.10 s/diploma); {'sem alteração textual': 1459, 'para LLM': 453, 'excluído': 2, 'aplicado por regra': 37, 'sem texto do alterador': 72, 'revogado por inteiro': 77}
+parte 5/6: 2200/4249 em 226 s (0.10 s/diploma); {'sem alteração textual': 1535, 'para LLM': 470, 'excluído': 2, 'aplicado por regra': 39, 'sem texto do alterador': 74, 'revogado por inteiro': 80}
+parte 5/6: 2300/4249 em 236 s (0.10 s/diploma); {'sem alteração textual': 1616, 'para LLM': 484, 'excluído': 2, 'aplicado por regra': 39, 'sem texto do alterador': 78, 'revogado por inteiro': 81}
+parte 5/6: 2400/4249 em 241 s (0.10 s/diploma); {'sem alteração textual': 1701, 'para LLM': 496, 'excluído': 2, 'aplicado por regra': 40, 'sem texto do alterador': 78, 'revogado por inteiro': 83}
+parte 5/6: 2500/4249 em 244 s (0.10 s/diploma); {'sem alteração textual': 1783, 'para LLM': 509, 'excluído': 2, 'aplicado por regra': 42, 'sem texto do alterador': 79, 'revogado por inteiro': 85}
+parte 5/6: 2600/4249 em 248 s (0.10 s/diploma); {'sem alteração textual': 1861, 'para LLM': 525, 'excluído': 2, 'aplicado por regra': 43, 'sem texto do alterador': 82, 'revogado por inteiro': 87}
+parte 5/6: 2700/4249 em 252 s (0.09 s/diploma); {'sem alteração textual': 1932, 'para LLM': 547, 'excluído': 2, 'aplicado por regra': 43, 'sem texto do alterador': 84, 'revogado por inteiro': 92}
+parte 5/6: 2800/4249 em 257 s (0.09 s/diploma); {'sem alteração textual': 2006, 'para LLM': 570, 'excluído': 2, 'aplicado por regra': 43, 'sem texto do alterador': 85, 'revogado por inteiro': 94}
+parte 5/6: 2900/4249 em 262 s (0.09 s/diploma); {'sem alteração textual': 2084, 'para LLM': 586, 'excluído': 2, 'aplicado por regra': 43, 'sem texto do alterador': 85, 'revogado por inteiro': 100}
+parte 5/6: 3000/4249 em 265 s (0.09 s/diploma); {'sem alteração textual': 2159, 'para LLM': 603, 'excluído': 2, 'aplicado por regra': 45, 'sem texto do alterador': 86, 'revogado por inteiro': 105}
+parte 5/6: 3100/4249 em 273 s (0.09 s/diploma); {'sem alteração textual': 2237, 'para LLM': 617, 'excluído': 3, 'aplicado por regra': 49, 'sem texto do alterador': 88, 'revogado por inteiro': 106}
+parte 5/6: 3200/4249 em 279 s (0.09 s/diploma); {'sem alteração textual': 2313, 'para LLM': 630, 'excluído': 3, 'aplicado por regra': 52, 'sem texto do alterador': 90, 'revogado por inteiro': 112}
+parte 5/6: 3300/4249 em 285 s (0.09 s/diploma); {'sem alteração textual': 2388, 'para LLM': 647, 'excluído': 3, 'aplicado por regra': 54, 'sem texto do alterador': 90, 'revogado por inteiro': 118}
+parte 5/6: 3400/4249 em 292 s (0.09 s/diploma); {'sem alteração textual': 2467, 'para LLM': 660, 'excluído': 3, 'aplicado por regra': 54, 'sem texto do alterador': 94, 'revogado por inteiro': 122}
+parte 5/6: 3500/4249 em 295 s (0.08 s/diploma); {'sem alteração textual': 2546, 'para LLM': 674, 'excluído': 3, 'aplicado por regra': 55, 'sem texto do alterador': 96, 'revogado por inteiro': 126}
+parte 5/6: 3600/4249 em 297 s (0.08 s/diploma); {'sem alteração textual': 2622, 'para LLM': 695, 'excluído': 3, 'aplicado por regra': 55, 'sem texto do alterador': 97, 'revogado por inteiro': 128}
+parte 5/6: 3700/4249 em 303 s (0.08 s/diploma); {'sem alteração textual': 2702, 'para LLM': 709, 'excluído': 3, 'aplicado por regra': 55, 'sem texto do alterador': 100, 'revogado por inteiro': 131}
+parte 5/6: 3800/4249 em 309 s (0.08 s/diploma); {'sem alteração textual': 2789, 'para LLM': 714, 'excluído': 3, 'aplicado por regra': 55, 'sem texto do alterador': 107, 'revogado por inteiro': 132}
+parte 5/6: 3900/4249 em 313 s (0.08 s/diploma); {'sem alteração textual': 2872, 'para LLM': 720, 'excluído': 3, 'aplicado por regra': 55, 'sem texto do alterador': 114, 'revogado por inteiro': 136}
+parte 5/6: 4000/4249 em 317 s (0.08 s/diploma); {'sem alteração textual': 2963, 'para LLM': 723, 'excluído': 3, 'aplicado por regra': 56, 'sem texto do alterador': 118, 'revogado por inteiro': 137}
+parte 5/6: 4100/4249 em 320 s (0.08 s/diploma); {'sem alteração textual': 3049, 'para LLM': 730, 'excluído': 3, 'aplicado por regra': 56, 'sem texto do alterador': 124, 'revogado por inteiro': 138}
+parte 5/6: 4200/4249 em 326 s (0.08 s/diploma); {'sem alteração textual': 3140, 'para LLM': 730, 'excluído': 3, 'aplicado por regra': 57, 'sem texto do alterador': 128, 'revogado por inteiro': 142}
+parte 5/6: 4249/4249 em 329 s (0.08 s/diploma); {'sem alteração textual': 3181, 'para LLM': 731, 'excluído': 3, 'aplicado por regra': 58, 'sem texto do alterador': 132, 'revogado por inteiro': 144}
+parte 5/6: fim em 329 s
+parte 5/6: 4249 diplomas, 4214 feitos, 35 por fazer
+parte 5/6: 35/35 em 0 s (0.00 s/diploma); {'para LLM': 5, 'não triado': 30}
+parte 5/6: fim em 0 s

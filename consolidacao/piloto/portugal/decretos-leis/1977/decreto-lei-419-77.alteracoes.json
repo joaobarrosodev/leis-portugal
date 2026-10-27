@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 12.º\n\n1 - É obrigatória a cobertura dos riscos de morte e invalidez, acrescendo às prestações de amortização os correspondentes encargos, sempre que a idade do adquirente à data da venda, acrescida do período de amortização convencionado, não exceda 70 anos.\n\n2 - Nos casos previstos no número anterior, a morte ou invalidez permanente e absoluta extinguem o débito relativo às prestações vincendas.\n\n3 - Na venda a prestações sem seguro, ocorrendo a morte do adquirente, incumbirá aos seus herdeiros o pagamento das prestações em dívida.",
+    "depois": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07.",
+    "excerto": "É revogado o artigo 12.º do Decreto-Lei n.º 419/77, de 4 de Outubro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279248:por",
+    "alterador": "pt:dre:295143:por"
+  }
+]

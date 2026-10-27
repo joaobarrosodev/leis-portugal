@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 18.º — Divulgação de concursos\n\nTodos os serviços e organismos da administração central deverão dar a conhecer à DGAP os concursos de ingresso e de acesso que pretendem abrir, devendo a DGAP disponibilizar essa informação, designadamente por afixação nos seus serviços, ao pessoal abrangido pelo presente diploma.",
+    "depois": "###### Artigo 18.º — Divulgação de concursos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.",
+    "excerto": "São revogadas todas as disposições legais contrárias ao disposto na presente lei, designadamente:\n\naj) Os artigos 18.º e 19.º do Decreto-Lei n.º 13/97, de 17 de Janeiro;",
+    "artigo_alterador": "116.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:533395:por",
+    "alterador": "pt:dre:468663:por"
+  },
+  {
+    "artigo": "19.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 19.º — Consulta prévia à Direcção-Geral da Administração Pública\n\n1 - As nomeações de pessoal não vinculado à função pública pelos serviços e organismos da administração central e institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos depende de prévia consulta à DGAP, a qual, no prazo de 15 dias contados da data da recepção do pedido, deve informar a entidade interessada do pessoal em situação de inactividade ou emitir documento comprovativo da sua inexistência.\n\n2 - O regime previsto no número anterior é também aplicável à celebração de contratos administrativos de provimento e de trabalho a termo certo, neste último caso quando celebrados ao abrigo do n.º 1 e das alíneas c) e d) do n.º 2 do artigo 18.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.\n\n3 - Sempre que, após consulta à DGAP sobre a existência de pessoal em inactividade, o serviço ou organismo interessado recuse a colocação de qualquer funcionário ou agente que lhe seja indicado, não será permitida qualquer outra admissão, a qualquer título, para o desempenho da função que determinou o pedido de consulta, por um período de dois anos.\n\n4 - São consideradas nulas as nomeações efectuadas com preterição do disposto nos n.os 1 e 3.\n\n5 - Os dirigentes e os funcionários que autorizem, formal ou informalmente, ou omitam informação relativamente à admissão ou permanência de pessoal em violação das disposições deste artigo são solidariamente responsáveis pela reposição das quantias indevidamente pagas, para além da responsabilidade civil e disciplinar que ao caso couber.",
+    "depois": "###### Artigo 19.º — Consulta prévia à Direcção-Geral da Administração Pública\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.",
+    "excerto": "São revogadas todas as disposições legais contrárias ao disposto na presente lei, designadamente:\n\naj) Os artigos 18.º e 19.º do Decreto-Lei n.º 13/97, de 17 de Janeiro;",
+    "artigo_alterador": "116.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:533395:por",
+    "alterador": "pt:dre:468663:por"
+  }
+]

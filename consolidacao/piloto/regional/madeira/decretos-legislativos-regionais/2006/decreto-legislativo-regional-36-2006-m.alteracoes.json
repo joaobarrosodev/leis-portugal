@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 4.º — Correspondências orgânicas\n\n1 - O serviço a que se reporta o artigo 12.º do Decreto-Lei n.º 44/2005, de 23 de Fevereiro, é a direcção regional com a tutela dos transportes terrestres.\n\n2 - Tem competência para aplicação das coimas e sanções acessórias correspondentes às contra-ordenações previstas no Código da Estrada e seus regulamentos o director regional com a tutela dos transportes terrestres, que poderá delegá-la, nos termos legais.",
+    "depois": "###### Artigo 4.º — Correspondências orgânicas\n\n1 - O serviço a que se reporta o artigo 12.º do Decreto-Lei n.º 44/2005, de 23 de fevereiro, é o Instituto de Mobilidade e Transportes, IP-RAM (IMT, IP-RAM).\n\n2 - Tem competência para aplicação das coimas e sanções acessórias correspondentes às contraordenações previstas no Código da Estrada e seus regulamentos o Presidente do IMT, IP-RAM, que poderá delegá-la, nos termos legais.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2024-898867724), publicado em 2024-12-04.",
+    "excerto": "O artigo 4.º do Decreto Legislativo Regional n.º 36/2006/M, de 17 de agosto, que adapta às competências da Administração Regional Autónoma o Decreto-Lei n.º 44/2005, de 23 de fevereiro, que altera o Código da Estrada e os seus regulamentos, passa a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n1 - O serviço a que se reporta o artigo 12.º do Decreto-Lei n.º 44/2005, de 23 de fevereiro, é o Instituto de Mobilidade e Transportes, IP-RAM (IMT, IP-RAM).\n\n2 - Tem competência para aplicação das coimas e sanções acessórias correspondentes às contraordenações previstas no Código da Estrada e seus regulamentos o Presidente do IMT, IP-RAM, que poderá delegá-la, nos termos legais.»",
+    "artigo_alterador": "27.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:538819:por",
+    "alterador": "pt:dre:898867724:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transfere para o Instituto Nacional da Farmácia e do Medicamento (INFARMED) as atribuições de autoridade competente no domínio dos dispositivos médicos implantáveis activos e visa harmonizar a legislação que regula a matéria relativa aos dispositivos médicos.",
+    "depois": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transfere para o Instituto Nacional da Farmácia e do Medicamento (INFARMED) as atribuições de autoridade competente no domínio dos dispositivos médicos activos e visa harmonizar a legislação que regula a matéria relativa aos dispositivos médicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2007-517866), publicado em 2007-02-16.",
+    "excerto": "Os artigos 1.º e 14.º do Decreto-Lei n.º 76/2006, de 27 de Março, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\nO presente decreto-lei transfere para o Instituto Nacional da Farmácia e do Medicamento (INFARMED) as atribuições de autoridade competente no domínio dos dispositivos médicos activos e visa harmonizar a legislação que regula a matéria relativa aos dispositivos médicos.\n\nArtigo 14.º\n\n[...]\n\n1 - ...\n\n2 - O disposto no artigo 2.º, no artigo 3.º, na parte que altera o artigo 12.º do Decreto-Lei n.º 273/95, de 23 de Outubro, nos artigos 5.º e 7.º, no artigo 8.º, na medida em que se refira a dispositivos médicos implantáveis activos, e no artigo 11.º apenas entra em vigor no 1.º dia do 2.º mês seguinte ao da publicação da portaria prevista no n.º 2 do artigo 9.º»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:671050:por",
+    "alterador": "pt:dre:517866:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 14.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor 60 dias após a sua publicação, sem prejuízo do disposto no número seguinte.\n\n2 - O disposto nos artigos 2.º, 5.º, 7.º, 8.º e 10.º, na medida em que se refira a dispositivos médicos implantáveis activos, e 11.º apenas entra em vigor no 1.º dia do 2.º mês seguinte ao da publicação da portaria prevista no n.º 2 do artigo 9.º\n\nVisto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - António Fernando Correia de Campos.\n\nPromulgado em 5 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.",
+    "depois": "###### Artigo 14.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor 60 dias após a sua publicação, sem prejuízo do disposto no número seguinte.\n\n2 - O disposto no artigo 2.º, no artigo 3.º, na parte que altera o artigo 12.º do Decreto-Lei n.º 273/95, de 23 de Outubro, nos artigos 5.º e 7.º, no artigo 8.º, na medida em que se refira a dispositivos médicos implantáveis activos, e no artigo 11.º apenas entra em vigor no 1.º dia do 2.º mês seguinte ao da publicação da portaria prevista no n.º 2 do artigo 9.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2007-517866), publicado em 2007-02-16.\n\nVisto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - António Fernando Correia de Campos.\n\nPromulgado em 5 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.",
+    "excerto": "Os artigos 1.º e 14.º do Decreto-Lei n.º 76/2006, de 27 de Março, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\nO presente decreto-lei transfere para o Instituto Nacional da Farmácia e do Medicamento (INFARMED) as atribuições de autoridade competente no domínio dos dispositivos médicos activos e visa harmonizar a legislação que regula a matéria relativa aos dispositivos médicos.\n\nArtigo 14.º\n\n[...]\n\n1 - ...\n\n2 - O disposto no artigo 2.º, no artigo 3.º, na parte que altera o artigo 12.º do Decreto-Lei n.º 273/95, de 23 de Outubro, nos artigos 5.º e 7.º, no artigo 8.º, na medida em que se refira a dispositivos médicos implantáveis activos, e no artigo 11.º apenas entra em vigor no 1.º dia do 2.º mês seguinte ao da publicação da portaria prevista no n.º 2 do artigo 9.º»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:671050:por",
+    "alterador": "pt:dre:517866:por"
+  }
+]

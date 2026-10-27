@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 1.º\n\n1 - Sem prejuízo de outros limites já fixados no n.º 1 do artigo 18.º do Código da Estrada, a circulação nas estradas regionais de veículos com peso bruto superior a:\n\n16 t - veículos de 3 ou mais eixos;\n\n16 t - veículos articulados de 3 eixos;\n\n32 t - veículos articulados de 5 ou mais eixos;\n\n32 t - conjuntos veículo-reboque de 5 ou mais eixos;\n\n16 t - reboques de 3 ou mais eixos;\n\nsó será permitida mediante autorização a conceder caso por caso.\n\n2 - A circulação nas mesmas estradas de veículos articulados ou de conjuntos veículo-reboque com comprimento superior a 12 m fica sujeita a idêntica autorização.\n\n3 - As autorizações referidas nos números anteriores poderão condicionar o trânsito dos veículos em causa a horas ou nos troços de estrada que sejam considerados compatíveis.",
+    "depois": "###### Artigo 1.º\n\n1 - Sem prejuízo de outros limites já fixados no n.º 1 do artigo 18.º do Código da Estrada, a circulação nas estradas regionais de veículos com peso bruto superior a:\n\n16 t - veículos de 3 ou mais eixos;\n\n16 t - veículos articulados de 3 eixos;\n\n32 t - veículos articulados de 5 ou mais eixos;\n\n32 t - conjuntos veículo-reboque de 5 ou mais eixos;\n\n16 t - reboques de 3 ou mais eixos;\n\nsó será permitida mediante autorização a conceder caso por caso.\n\n2 - A circulação nas mesmas estradas de veículos articulados ou de conjuntos veículo-reboque com comprimento superior a 12 m fica sujeita a idêntica autorização.\n\n3 - (Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22.",
+    "excerto": "Art. 3.º É eliminado o n.º 3 do artigo 1.º do Decreto Legislativo Regional n.º 9/83/A, de 18 de Março.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:310441:por",
+    "alterador": "pt:dre:372619:por"
+  }
+]

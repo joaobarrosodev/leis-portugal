@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Âmbito pessoal\n\n1 - São dispensados do pagamento de contribuições os produtores agrícolas cujas explorações preencham os requisitos referidos no artigo anterior, enquadrados no regime dos trabalhadores independentes em virtude do exercício exclusivo da atividade agrícola, bem como os cônjuges que com eles exerçam efetiva e regularmente atividade profissional na exploração.\n\n2 - Podem requerer o pagamento diferido de contribuições as entidades empregadoras relativamente aos trabalhadores que exerçam atividade agrícola nas explorações que preencham os requisitos referidos no artigo anterior.\n\n3 - São excluídos os produtores agrícolas e as entidades empregadoras que sejam considerados empresas em dificuldade na aceção das orientações comunitárias relativas aos auxílios estatais de emergência e à reestruturação a empresas em dificuldade, publicadas no JO, C 244, de 1 de outubro de 2004.",
+    "depois": "###### Artigo 3.º — Âmbito pessoal\n\n1 - São dispensados do pagamento de contribuições os produtores agrícolas cujas explorações preencham os requisitos referidos no artigo anterior, enquadrados no regime dos trabalhadores independentes em virtude do exercício exclusivo da atividade agrícola, bem como os cônjuges que com eles exerçam efetiva e regularmente atividade profissional na exploração.\n\n2 - Podem requerer o pagamento diferido de contribuições as entidades empregadoras relativamente aos trabalhadores que exerçam atividade nas explorações que preencham os requisitos referidos no artigo anterior.\n\n3 - São excluídos os produtores agrícolas e as entidades empregadoras que sejam considerados empresas em dificuldade na aceção das orientações comunitárias relativas aos auxílios estatais de emergência e à reestruturação a empresas em dificuldade, publicadas no JO, C 244, de 1 de outubro de 2004.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04.",
+    "excerto": "Os artigos 3.º e 7.º da Portaria n.º 178-A/2012, de 31 de maio, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - Podem requerer o pagamento diferido de contribuições as entidades empregadoras relativamente aos trabalhadores que exerçam atividade nas explorações que preencham os requisitos referidos no artigo anterior.\n\n3 - ...\n\nArtigo 7.º\n\n[...]\n\n1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar, no prazo de 45 dias após a data da entrada em vigor da presente portaria, nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.)\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606319:por",
+    "alterador": "pt:dre:178560:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 7.º — Requerimento\n\n1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar, no prazo de 30 dias após a data da entrada em vigor da presente portaria, nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.).\n\n2 - Os requerimentos podem ainda ser apresentados nas associações de agricultores, no mesmo prazo, nos termos a estabelecer em protocolo.\n\n3 - O requerimento é apresentado em modelo próprio, aprovado por despacho conjunto dos Ministros da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Solidariedade e da Segurança Social, o qual integra todos os elementos necessários à identificação dos requerentes e das explorações.",
+    "depois": "###### Artigo 7.º — Requerimento\n\n1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar, no prazo de 45 dias após a data da entrada em vigor da presente portaria, nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.)\n\n2 - Os requerimentos podem ainda ser apresentados nas associações de agricultores, no mesmo prazo, nos termos a estabelecer em protocolo.\n\n3 - O requerimento é apresentado em modelo próprio, aprovado por despacho conjunto dos Ministros da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Solidariedade e da Segurança Social, o qual integra todos os elementos necessários à identificação dos requerentes e das explorações.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04.",
+    "excerto": "Os artigos 3.º e 7.º da Portaria n.º 178-A/2012, de 31 de maio, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - Podem requerer o pagamento diferido de contribuições as entidades empregadoras relativamente aos trabalhadores que exerçam atividade nas explorações que preencham os requisitos referidos no artigo anterior.\n\n3 - ...\n\nArtigo 7.º\n\n[...]\n\n1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar, no prazo de 45 dias após a data da entrada em vigor da presente portaria, nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.)\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606319:por",
+    "alterador": "pt:dre:178560:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 7.º — Requerimento\n\n1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar, no prazo de 45 dias após a data da entrada em vigor da presente portaria, nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.)\n\n2 - Os requerimentos podem ainda ser apresentados nas associações de agricultores, no mesmo prazo, nos termos a estabelecer em protocolo.\n\n3 - O requerimento é apresentado em modelo próprio, aprovado por despacho conjunto dos Ministros da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Solidariedade e da Segurança Social, o qual integra todos os elementos necessários à identificação dos requerentes e das explorações.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04.",
+    "depois": "###### Artigo 7.º — Requerimento\n\n1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar até ao dia 15 de setembro de 2012 nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.).\n\n2 - Os requerimentos podem ainda ser apresentados nas associações de agricultores, no mesmo prazo, nos termos a estabelecer em protocolo.\n\n3 - O requerimento é apresentado em modelo próprio, aprovado por despacho conjunto dos Ministros da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Solidariedade e da Segurança Social, o qual integra todos os elementos necessários à identificação dos requerentes e das explorações.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 226-A/2012](https://diariodarepublica.pt/dr/detalhe/portaria/226-a-2012-194660), publicado em 2012-08-01.",
+    "excerto": "O artigo 7.º da Portaria n.º 178-A/2012, de 31 de maio, na redação conferida pela Portaria n.º 203/2012, de 4 de julho, passa a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar até ao dia 15 de setembro de 2012 nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.).\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606319:por",
+    "alterador": "pt:dre:194660:por"
+  }
+]

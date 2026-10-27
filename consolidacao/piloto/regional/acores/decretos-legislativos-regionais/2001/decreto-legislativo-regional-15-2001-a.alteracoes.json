@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 7.º — Educação especial\n\n1 - Ouvidos os parceiros educativos, por decreto regulamentar regional, são fixadas as normas necessárias para permitir aos alunos com necessidades educativas especiais de carácter permanente o acesso aos ensinos básico e secundário, criando um regime educativo especial com as necessárias adaptações curriculares e materiais.\n\n2 - Para satisfazer as necessidades específicas dos alunos do ensino básico que não possam ser integrados no currículo educativo comum, por portaria do secretário regional competente em matéria de educação, podem ser criados programas específicos de escolaridade.",
+    "depois": "###### Artigo 7.º — Educação especial\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto Legislativo Regional n.º 15/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2006-652897), publicado em 2006-04-07.",
+    "excerto": "São revogados:\n\na) O artigo 7.º do Decreto Legislativo Regional n.º 15/2001/A, de 4 de Agosto;",
+    "artigo_alterador": "44.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:522863:por",
+    "alterador": "pt:dre:652897:por"
+  }
+]

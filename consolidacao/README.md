@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## Resultado em resumo
 
-Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 24 têm todos os artigos `certo` e 3 tinham uma dúvida; uma resolveu-se, e **25 estão no acervo** desde 2026-10-27. 72 ficaram para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor. Uma sessão do Claude (Opus 5.5) respondeu aos 77 pendentes. 46 respostas passaram a verificação letra a letra e 26 juntaram-se ao original. Na verificação às cegas, **20 dos 26 têm tudo `certo`** e também estão no acervo: são **45 no total** (ver "Pendentes numa sessão do Claude").
+Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 24 têm todos os artigos `certo` e 3 tinham uma dúvida; uma resolveu-se, e **25 estão no acervo** desde 2026-10-27. 72 ficaram para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor. Uma sessão do Claude (Opus 5.5) respondeu aos 77 pendentes. 46 respostas passaram a verificação letra a letra e 26 juntaram-se ao original. Na verificação às cegas, **20 dos 26 têm tudo `certo`** e também estão no acervo: são **45 no total** (ver "Pendentes numa sessão do Claude"). A triagem e as regras correram depois nos 25.498 em vigor alterados sem consolidação: ver "Escala".
 
 | Estado | 1.ª corrida | Com o parser da fase 3 | Depois da verificação às cegas | O que quer dizer |
 | --- | --: | --: | --: | --- |
@@ -276,6 +276,79 @@ Encontrou também 6 diplomas com erros ou dúvidas nas respostas do LLM, que fic
 As 3 respostas parciais estão todas nesta lista: o verificador encontrou o que faltava sem saber que eram parciais.
 
 **Ficam 20 juntados com o LLM com tudo `certo`, e estão no acervo desde 2026-10-27** (ver "Aplicação ao acervo").
+
+## Escala: os 25.498 diplomas em vigor alterados sem consolidação
+
+Frente B do [plano de execução](../PLANO-RAG.md): a triagem e as regras do piloto, corridas em todos os diplomas em vigor que o DRE dá como alterados e não consolida, com qualquer número de alterações e de citações. Só regras e verificação automática, sem LLM; o que fica para o LLM e para a verificação às cegas sai em lotes. Tudo sobre o export de `exports/leis-portugal.sqlite` de 27/10/2026 (18:58). Os números abaixo vêm de `medicao-escala.json` (`medir.py --escala`) e de `resultados-escala.jsonl`.
+
+### Seleção (`selecionar.py --todos`)
+
+Em vigor (`in_force` ou `partially_in_force`), português ou regional, `version_kind = original`, com texto e pelo menos uma relação `amended_by`: **25.498 diplomas**, em `selecao-escala.jsonl`, com os alteradores por ordem de data de publicação (os que não estão no acervo, pela data da relação do DRE, ou no fim), as citações recebidas e o `republished_by`. As diferenças para os números do plano:
+
+- **25.940 no plano, 25.498 aqui:** o plano conta também 442 diplomas da UE, que ficam de fora (a seleção é PT e regional, como no piloto).
+- **A contagem por número de alterações é outra:** aqui conta-se alteradores distintos, 1 → 16.099, 2–3 → 6.820, 4–10 → 2.190, >10 → 389 (por linhas da relação, 1 → 7.278, 2–3 → 14.249, 4–10 → 3.540, >10 → 431). As faixas do plano (8.975, 14.962, 3.802, 482) somam 28.221 e não se reproduzem com este export; a faixa de citações reproduz-se (147 com ≥100, 1.998 com 10–99, 19.723 com 1–9, 3.630 com 0).
+- **Os 25 do piloto já no acervo saem:** o export de 27/10 já os dá como `consolidated` (o `acervo.py` correu antes). Os 20 juntados com o LLM ainda estão no export como originais e entram; `texto.publicado` lê-lhes o texto publicado.
+- 1.257 alteradores não estão no acervo e 742 estão só com PDF ou metadados; 13 diplomas têm `republished_by` e ficam excluídos.
+
+### Resultado
+
+| Estado | ≥100 citações | 10–99 | 1–9 | 0 | **Total** | O que quer dizer |
+| --- | --: | --: | --: | --: | --: | --- |
+| Sem alteração textual | 102 | 1.243 | 14.635 | 2.938 | **18.918** | Nenhum alterador dá instruções ao texto: o original é o texto em vigor |
+| Para o LLM | 28 | 548 | 3.594 | 192 | **4.362** | Um alterador tem instruções que as regras não leem, não aplicam ou não verificam (`falhou_em` diz qual e em que fase) |
+| Sem texto do alterador | 5 | 116 | 479 | 267 | **867** | Um dos alteradores não está no acervo (1.253 casos) ou só tem metadados (720) ou PDF (20): não se sabe se altera o texto |
+| Revogado por inteiro | 5 | 57 | 684 | 53 | **799** | Um alterador revoga o original; o DRE dá-o como em vigor (9 têm alterações depois da revogação) |
+| Aplicado por regra | 4 | 33 | 326 | 21 | **384** | Todos os alteradores com instruções aplicados e verificados automaticamente; vão à verificação às cegas |
+| Não triado | 0 | 0 | 0 | 155 | **155** | O título do original não tem número ("Declaração", "Despacho Conjunto"): as regras não encontram as menções |
+| Excluído | 3 | 1 | 5 | 4 | **13** | `republished_by`: o texto atual está no consolidado que o republicou |
+| **Total** | **147** | **1.998** | **19.723** | **3.630** | **25.498** | |
+
+| Estado | 1 alteração | 2–3 | 4–10 | >10 |
+| --- | --: | --: | --: | --: |
+| Sem alteração textual | 12.607 | 4.853 | 1.289 | 169 |
+| Para o LLM | 2.306 | 1.366 | 586 | 104 |
+| Sem texto do alterador | 275 | 268 | 228 | 96 |
+| Revogado por inteiro | 536 | 196 | 55 | 12 |
+| Aplicado por regra | 254 | 107 | 20 | 3 |
+| Não triado | 115 | 29 | 9 | 2 |
+| Excluído | 6 | 1 | 3 | 3 |
+| **Total** | **16.099** | **6.820** | **2.190** | **389** |
+
+**18.918 diplomas (74%) deixam de precisar do aviso "texto original; alterado por…"**: nenhum dos alteradores lhes dá uma instrução dirigida ao texto, como nos 500 do piloto (75%). Nos 2.145 com 10 ou mais citações são 1.345. Por motivo (o mais frequente entre os alteradores de cada diploma): 8.454 só aparecem numa lista ou remissão ("alterado pelos Decretos-Leis n.os …" de outro diploma), 7.532 são citados sem instruções (ao abrigo de, prorrogações, quadros de pessoal, exonerações) e 2.920 nem são mencionados (muitos são relações do DRE a outro diploma: a Lei n.º 37/2010 tem como "alteradores" os orçamentos que mudam a Lei Geral Tributária na redação que ela lhe deu). Uma amostra de 12 lida à mão não tinha nenhuma alteração textual.
+
+A triagem foi alterador a alterador: 51.817 pares original–alterador, dos quais 41.723 sem alteração textual, 6.109 para o LLM, 1.993 sem texto, 1.191 aplicáveis por regra e 801 revogações por inteiro. Numa alteração múltipla, uma alteração sem instruções não impede as outras; a precedência entre os alteradores é revogado por inteiro > sem texto do alterador > para o LLM > aplicável por regra > sem alteração textual. Na triagem (só a leitura), 671 diplomas eram aplicáveis por regra; na aplicação, 384 ficaram aplicados e 287 passaram para o LLM: dos 4.362 para o LLM, 4.036 falharam na leitura das instruções, 226 na aplicação e 100 na verificação automática (`falhou_em` em `resultados-escala.jsonl`). Em 310 dos para o LLM, as regras aplicaram parte das instruções antes da falha, e o `.alteracoes.json` fica em `piloto/`.
+
+**Os 384 aplicados por regra** têm 857 alterações, 30 deles com dois ou mais alteradores aplicados em sequência (por exemplo, o Decreto-Lei n.º 224/2000, pelos Decretos-Leis n.os 117/2002 e 109/2003). Por regra: 270 revogações de artigo, 269 substituições com "[...]", 131 substituições integrais, 79 aditamentos de artigo, 78 revogações de número ou alínea, 22 retificações, 7 substituições parciais e 1 aditamento de número ou alínea. 90 têm os títulos pelo parser da fase 3. 24 diplomas foram comparados com uma republicação.
+
+**Os 4.362 para o LLM** são, em primeiro lugar, originais sem artigos identificados: 2.692 (2.063 só com números do dispositivo "1.º, 2.º", 528 sem nada que o parser reconheça, 101 com numeração repetida). No piloto, as respostas do LLM para estes não se juntaram ao original (não há artigos onde encaixar), por isso o LLM só resolve a parte restante sem uma forma de aplicar a resposta no texto corrido. Depois vêm a redação nova sem aspas (555 diplomas; 2.071 instruções), o anexo do original não identificado (331; 1.529 instruções), a instrução de outro tipo (226; 1.163) e o alvo da nova redação não identificado (963 instruções). Os 155 não triados têm todos menos de 10 citações.
+
+**Os 799 revogados por inteiro** e os 867 sem texto do alterador são para a fase 3 (vigência e relações, e recolha dos alteradores em falta).
+
+### Tempos
+
+- Seleção: menos de 1 minuto.
+- Triagem e aplicação: 6 partes em paralelo (`consolidar.py --escala --parte i/6`, uma por processo, em background com log em `logs/escala.parte-i.txt`), 306 a 333 s cada, **cerca de 5,5 minutos de relógio**; 1.916 s de CPU somados, 0,075 s por diploma em média; o mais lento foi o Decreto-Lei n.º 394-B/84, com 137 alteradores, em 13 s. Sem nenhum erro. Os 155 sem número no título e os 26 juntados com o LLM foram refeitos com `--refazer`.
+- Junção, medição, entrada às cegas e lotes do LLM: cerca de 2 minutos.
+
+### O que mudou no código
+
+- `selecionar.py --todos`: a seleção da escala, com `alteradores` por ordem de data.
+- `consolidar.py`: `processar` aplica os alteradores por ordem sobre o resultado do anterior, com `verificar.py` depois de cada um (contra o texto de antes desse alterador, e com os rótulos do DRE dessa relação); por diploma ficam `triagem`, `estado`, `passos` (um por alterador, com a triagem, as instruções, as regras e os problemas) e `falhou_em`. Depois de uma falha, os alteradores seguintes só se leem (sobre o texto de antes da falha) e tudo vai para o LLM. `--escala`, `--parte i/N`, `--refazer`, `--juntar`; retomável por diploma (cada parte acrescenta ao seu ficheiro e salta os feitos); um diploma com erro fica com `estado: erro` e o traceback, sem parar a corrida. Um título sem número dá `não triado`. Não reescreve os ficheiros de `piloto/` dos juntados com o LLM. Os 671 do piloto dão exatamente os mesmos estados e motivos de antes (confirmado correndo o modo do piloto para um ficheiro à parte).
+- `cegas.py --escala`: a ronda a seguir à última em `verificacao/`, em lotes de 30 (`entrada-piloto-N-lote-NN.jsonl`); um diploma com vários alteradores leva `alteradores` (título e texto de cada um) e `texto_alterador` com os textos juntos. `texto.publicado` ordena as rondas e os lotes pelos números do nome.
+- `llm.py --escala --sessao --lote 40`: os pendentes por citações, em `llm/entrada-sessao-escala-NNN.jsonl`; os pedidos com vários alteradores dizem de que diploma vem cada instrução, e a verificação letra a letra das respostas procura em todos.
+- `medir.py --escala`: `medicao-escala.json`.
+- `acervo.py` não mudou: só lê as rondas 1 a 5, uma por ficheiro. Antes de aplicar a ronda 6 ao acervo, há que o ensinar a ler os lotes e a juntar `alteracoes_aplicadas` com vários alteradores (o `consolidation_date` é a entrada em vigor do último).
+
+### O que fica para a verificação às cegas e para o LLM
+
+- **Verificação às cegas, 6.ª ronda:** 382 diplomas (os 384 aplicados por regra menos 2 do piloto já verificados com o mesmo texto) em 13 lotes de até 30, `verificacao/entrada-piloto-6-lote-01.jsonl` a `-13`, 20 MB, no formato das rondas anteriores (regras na secção "Verificação às cegas"; com vários alteradores, `texto_alterador` junta os textos e `alteradores` tem-nos à parte). A verificação é de outra sessão, com outro modelo; a saída fica em `verificacao/saida-piloto-6-lote-NN.jsonl`.
+- **LLM:** 4.362 diplomas em 110 lotes de até 40, `llm/entrada-sessao-escala-001.jsonl` a `-110`, por citações recebidas (os 28 com ≥100 no primeiro lote), 52 MB. Estimativa pela API: 4.362 pedidos, cerca de 13,9 milhões de tokens de entrada e 10,9 milhões de saída, cerca de 273 $ com a Opus 5.5 (137 $ com a Sonnet 5.5). Convém começar pelos lotes que não são "original sem artigos identificados" (`motivos` em cada linha), que são os que o `juntar.py` sabe juntar.
+
+Ficheiros novos: `selecao-escala.jsonl`, `resultados-escala.jsonl` (e `resultados-escala.parte-i.jsonl`), `pendentes-escala.jsonl`, `medicao-escala.json`, `logs/escala.parte-i.txt`, `piloto/<caminho>.md` e `.alteracoes.json` dos aplicados e dos parciais, `verificacao/entrada-piloto-6-lote-NN.jsonl`, `llm/entrada-sessao-escala-NNN.jsonl`. Para repetir, a partir da raiz do worktree:
+
+```bash
+cd consolidacao && export PYTHONPATH=../src && python selecionar.py --todos && for i in 1 2 3 4 5 6; do python consolidar.py --escala --parte $i/6 > logs/escala.parte-$i.txt 2>&1 & done; wait; python consolidar.py --escala --juntar && python medir.py --escala && python cegas.py --escala && python llm.py --sessao --escala
+```
 
 ## Limites e próximos passos
 

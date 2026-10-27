@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Gabinetes de certidões\n\n1 - Os gabinetes de certidões podem servir de intermediários nos pedidos de certidões de actos de registo civil, predial e comercial e de documentos arquivados.\n\n2 - Cabe ao requerente da certidão fornecer os elementos indispensáveis à satisfação da requisição.\n\n3 - A certidão é remetida directamente ao requerente pela conservatória.\n\n4 - Os gabinetes de certidões podem ainda requisitar e receber certidões por meio de telecópia.\n\n5 - As certidões a que se refere o número anterior devem indicar a data de emissão e ser assinadas ou rubricadas por funcionário competente para assinar certidões, fazendo-se constar, em papel avulso a transmitir na continuidade da certidão, a referência à aposição do selo branco.\n\n6 - As certidões recebidas por telecópia têm, junto de qualquer serviço, a força probatória do original, devendo, para o efeito, o competente funcionário dos registos em serviço nos gabinetes de certidões mencionar a presente disposição, assinar a certidão e apor-lhe o selo branco.",
+    "depois": "###### Artigo 3.º — Gabinetes de certidões\n\n1 - Os gabinetes de certidões podem servir de intermediários nos pedidos de certidões de actos de registo civil, predial e comercial e de documentos arquivados.\n\n2 - Cabe ao requerente da certidão fornecer os elementos indispensáveis à satisfação da requisição.\n\n3 - A certidão é remetida directamente ao requerente pela conservatória.\n\n4 - Os gabinetes de certidões podem ainda requisitar e receber certidões por meio de telecópia.\n\n5 - As certidões a que se refere o número anterior devem indicar a data de emissão e ser assinadas ou rubricadas por funcionário competente para assinar certidões, fazendo-se constar, em papel avulso a transmitir na continuidade da certidão, a referência à aposição do selo branco.\n\n6 - As certidões recebidas por telecópia têm, junto de qualquer serviço, a força probatória do original, devendo, para o efeito, o competente funcionário dos registos em serviço nos gabinetes de certidões mencionar a presente disposição, assinar a certidão e apor-lhe o selo branco.\n\n7 - Os gabinetes de certidões podem ainda emitir e confirmar certidões e cópias não certificadas de registos, nos termos legalmente previstos para as conservatórias do registo comercial.\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 76-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), publicado em 2006-03-29.",
+    "excerto": "O artigo 3.º do Decreto-Lei n.º 314/98, de 17 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - Os gabinetes de certidões podem ainda emitir e confirmar certidões e cópias não certificadas de registos, nos termos legalmente previstos para as conservatórias do registo comercial.»",
+    "artigo_alterador": "28.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:240033:por",
+    "alterador": "pt:dre:620286:por"
+  }
+]

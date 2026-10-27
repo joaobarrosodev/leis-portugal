@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "60.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 60.º — (Regime de alerta)\n\nA Direcção Regional de Saúde definirá, em conjunto com os conselhos de administração dos centros de saúde, as situações em que se recorrerá ao regime de alerta.",
+    "depois": "###### Artigo 60.º — (Regime de alerta)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.",
+    "excerto": "Art. 4.º São revogados os artigos 60.º e 67.º do Decreto Regulamentar Regional n.º 3/86/A, de 24 de Janeiro.",
+    "artigo_alterador": "62.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194799:por",
+    "alterador": "pt:dre:332945:por"
+  },
+  {
+    "artigo": "67.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 67.º — (Remuneração do regime de alerta)\n\n1 - Ao pessoal em serviço de atendimento permanente, em regime de alerta, é atribuído um acréscimo sobre o respectivo vencimento base calculado de acordo com a seguinte fórmula:\n\nAcréscimo = (VB x 60%)/30 x n + (Z x 175R)\n\nVB - Vencimento base.\n\nn - Número de dias em regime de alerta.\n\nZ - Número de chamadas com deslocação.\n\n100R - Custo da hora normal de trabalho.\n\n2 - Se, na sequência da chamada, o profissional vier a desenvolver actividade por período superior a 2 horas, será remunerado pelo trabalho extraordinário realizado nos termos das disposições deste diploma.\n\n3 - A remuneração prevista nos números anteriores não pode ultrapassar o valor do vencimento base.\n\n4 - Ao pessoal em regime de alerta não é devida qualquer compensação pela utilização de transportes quando chamado ao centro de saúde.",
+    "depois": "###### Artigo 67.º — (Remuneração do regime de alerta)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.",
+    "excerto": "Art. 4.º São revogados os artigos 60.º e 67.º do Decreto Regulamentar Regional n.º 3/86/A, de 24 de Janeiro.",
+    "artigo_alterador": "62.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194799:por",
+    "alterador": "pt:dre:332945:por"
+  }
+]

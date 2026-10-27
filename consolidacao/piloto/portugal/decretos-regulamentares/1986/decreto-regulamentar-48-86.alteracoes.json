@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "15.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 15.º — (Regime)\n\n1 - A acumulação de lugares ou cargos públicos por funcionários ou agentes abrangidos pelo presente diploma rege-se pelo disposto nos Decretos-Leis n.os [110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, e [191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.\n\n2 - As referências contidas nos diplomas referidos no número anterior aos membros do Governo devem considerar-se feitas aos órgãos mencionados no artigo 13.º do presente decreto regulamentar.",
+    "depois": "###### Artigo 15.º — (Regime)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869), publicado em 1991-10-17.",
+    "excerto": "São revogados:\n\nd) O artigo 15.º do Decreto Regulamentar n.º 48/86, de 1 de Outubro.",
+    "artigo_alterador": "10.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221706:por",
+    "alterador": "pt:dre:288869:por"
+  }
+]

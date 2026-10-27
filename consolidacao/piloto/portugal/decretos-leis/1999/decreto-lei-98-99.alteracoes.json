@@ -1,0 +1,19 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 3.º — Cessação de vigência\n\nAs medidas preventivas cessam a sua vigência com a ocorrência de uma das seguintes circunstâncias:\n\na) Com a entrada em vigor das normas provisórias ou da alteração ou revisão do Plano de Pormenor para a Zona do Recinto da EXPO 98, PP2, aprovado pela [Portaria n.º 1357/95](https://diariodarepublica.pt/dr/detalhe/portaria/1357-1995-689023), de 16 de Novembro; ou\n\nb) No dia 31 de Dezembro de 1999, no caso de até esta data não terem entrado em vigor os instrumentos referidos na alínea anterior.",
+    "depois": "###### Artigo 3.º — Cessação de vigência\n\nAs medidas preventivas cessam a sua vigência com a ocorrência de uma das seguintes circunstâncias:\n\na) Com a entrada em vigor das normas provisórias ou da alteração ou revisão do Plano de Pormenor para a Zona do Recinto da EXPO 98, PP2, aprovado pela [Portaria n.º 1357/95](https://diariodarepublica.pt/dr/detalhe/portaria/1357-1995-689023), de 16 de Novembro; ou\n\nb) No dia 30 de Abril de 2000, no caso de até esta data não terem entrado em vigor os instrumentos referidos na alínea anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2000-408374), publicado em 2000-03-02.",
+    "excerto": "A alínea b) do artigo 3.º do Decreto-Lei n.º 98/99, de 25 de Março, passa a ter a seguinte redacção:\n\n«b) No dia 30 de Abril de 2000, no caso de até esta data não terem entrado em vigor os instrumentos referidos na alínea anterior.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "",
+      "b"
+    ],
+    "diploma": "pt:dre:138128:por",
+    "alterador": "pt:dre:408374:por"
+  }
+]

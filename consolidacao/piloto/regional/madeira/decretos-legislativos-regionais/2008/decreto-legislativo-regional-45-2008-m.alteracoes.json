@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º — Endividamento líquido\n\nPara fazer face às necessidades de financiamento do Orçamento da Região Autónoma da Madeira para 2009, fica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante de 50 milhões de euros, resultante dos empréstimos destinados ao financiamento de projectos com comparticipação de fundos comunitários e nos termos definidos na proposta de lei que aprova o Orçamento do Estado para 2009.",
+    "depois": "###### Artigo 5.º — Endividamento líquido\n\nFica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante de 165 milhões de euros, destinado ao financiamento de projectos com comparticipação de fundos comunitários e para fazer face a outras necessidades de financiamento do Orçamento da Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 32/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2009-482141), publicado em 2009-12-30.",
+    "excerto": "O artigo 5.º do Decreto Legislativo Regional n.º 45/2008/M, de 31 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\nEndividamento líquido\n\nFica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante de 165 milhões de euros, destinado ao financiamento de projectos com comparticipação de fundos comunitários e para fazer face a outras necessidades de financiamento do Orçamento da Região Autónoma da Madeira.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444240:por",
+    "alterador": "pt:dre:482141:por"
+  }
+]

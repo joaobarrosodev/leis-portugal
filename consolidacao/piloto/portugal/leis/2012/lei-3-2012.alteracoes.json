@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º — Compensação\n\n1 - Os contratos de trabalho a termo certo que sejam objecto de renovação extraordinária nos termos da presente lei estão sujeitos ao seguinte regime de compensação:\n\na) Em relação ao período de vigência do contrato até à primeira renovação extraordinária, o montante da compensação é calculado de acordo com o regime jurídico aplicável a um contrato de trabalho a termo certo celebrado à data do início de vigência daquele contrato;\n\nb) Em relação ao período de vigência do contrato a partir da primeira renovação extraordinária, o montante da compensação é calculado de acordo com o regime aplicável a um contrato de trabalho a termo certo celebrado à data daquela renovação extraordinária;\n\nc) A compensação a que o trabalhador tem direito resulta da soma dos montantes calculados nos termos das alíneas anteriores.\n\n2 - Constitui contra-ordenação grave a violação do disposto neste artigo.",
+    "depois": "###### Artigo 4.º — Compensação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), publicado em 2012-06-25.",
+    "excerto": "3 - É revogado o artigo 4.º da Lei n.º 3/2012, de 10 de janeiro.",
+    "artigo_alterador": "9.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477153:por",
+    "alterador": "pt:dre:178501:por"
+  }
+]

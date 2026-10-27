@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Dos beneficiários da ajuda\n\n1 - Na campanha de comercialização de 2006-2007, são beneficiários da ajuda os produtores de beterraba sacarina de Portugal continental detentores de direitos de contratação para esta campanha e que tenham entregue beterraba sacarina produzida no continente em, pelo menos, uma das campanhas de comercialização de 2003-2004, de 2004-2005 e de 2005-2006, que corresponda a açúcar de quota.\n\n2 - Na campanha de comercialização de 2007-2008, são beneficiários da ajuda os produtores de beterraba sacarina de Portugal continental detentores de direitos de contratação que tenham entregue beterraba durante o período de reestruturação imediatamente anterior.\n\n3 - Os produtores que não tenham entregue beterraba sacarina nos termos dos números anteriores por motivos de força maior mantêm o direito à ajuda.",
+    "depois": "###### Artigo 3.º — Dos beneficiários da ajuda\n\n1 - Na campanha de comercialização de 2006-2007, são beneficiários da ajuda os produtores de beterraba sacarina de Portugal continental detentores de direitos de contratação para esta campanha e que tenham entregue beterraba sacarina produzida no continente em, pelo menos, uma das campanhas de comercialização de 2003-2004, de 2004-2005 e de 2005-2006, que corresponda a açúcar de quota.\n\n2 - Nas campanhas de comercialização de 2007-2008 e 2008-2009, são beneficiários da ajuda os produtores de beterraba sacarina de Portugal continental que tenham celebrado contratos de entrega na campanha imediatamente anterior com as empresas referidas no n.º 1 do artigo 2.º\n\n3 - Os produtores que não tenham entregue beterraba sacarina nos termos do n.º 1 por motivos de força maior mantêm o direito à ajuda.\n\n> Alterado pelo/a [Despacho Normativo n.º 52/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-2008-2417222), publicado em 2008-10-09.",
+    "excerto": "1.º Os n.os 2 e 3 do artigo 3.º, o n.º 1 do artigo 5.º e a alínea b) do artigo 6.º do despacho normativo n.º 23/2007, publicado no Diário da República, 2.ª série, n.º 109, de 6 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 -...\n\n2 - Nas campanhas de comercialização de 2007-2008 e 2008-2009, são beneficiários da ajuda os produtores de beterraba sacarina de Portugal continental que tenham celebrado contratos de entrega na campanha imediatamente anterior com as empresas referidas no n.º 1 do artigo 2.º\n\n3 - Os produtores que não tenham entregue beterraba sacarina nos termos do n.º 1 por motivos de força maior mantêm o direito à ajuda.\n\nArtigo 5.º\n\n[...]\n\n1 - Os valores da ajuda a atribuir para as campanhas de 2006-2007, 2007-2008 e 2008-2009 são de (euro) 899 820, (euro) 1 395 030 e (euro) 328 125, respectivamente.\n\n2 - ...»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "citação sem » de fecho",
+    "unidade": [],
+    "diploma": "pt:dre:3002383:por",
+    "alterador": "pt:dre:2417222:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 5.º — Do valor da ajuda\n\n1 - Os valores da ajuda a atribuir correspondem aos montantes de Euro 899 820 e de Euro 1 395 030 para as campanhas de 2006-2007 e de 2007-2008, respectivamente.\n\n2 - O montante a atribuir por tonelada de beterraba sacarina de qualidade tipo conforme definida no anexo I do Regulamento (CE) n.º 318/2006, do Conselho, de 20 de Fevereiro, é o resultante da divisão do montante referido no número anterior pelo total dos direitos de contratação objecto de renúncia.",
+    "depois": "###### Artigo 5.º — Do valor da ajuda\n\n1 - Os valores da ajuda a atribuir para as campanhas de 2006-2007, 2007-2008 e 2008-2009 são de (euro) 899 820, (euro) 1 395 030 e (euro) 328 125, respectivamente.\n\n2 - O montante a atribuir por tonelada de beterraba sacarina de qualidade tipo conforme definida no anexo I do Regulamento (CE) n.º 318/2006, do Conselho, de 20 de Fevereiro, é o resultante da divisão do montante referido no número anterior pelo total dos direitos de contratação objecto de renúncia.\n\n> Alterado pelo/a [Despacho Normativo n.º 52/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-2008-2417222), publicado em 2008-10-09.",
+    "excerto": "1.º Os n.os 2 e 3 do artigo 3.º, o n.º 1 do artigo 5.º e a alínea b) do artigo 6.º do despacho normativo n.º 23/2007, publicado no Diário da República, 2.ª série, n.º 109, de 6 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 -...\n\n2 - Nas campanhas de comercialização de 2007-2008 e 2008-2009, são beneficiários da ajuda os produtores de beterraba sacarina de Portugal continental que tenham celebrado contratos de entrega na campanha imediatamente anterior com as empresas referidas no n.º 1 do artigo 2.º\n\n3 - Os produtores que não tenham entregue beterraba sacarina nos termos do n.º 1 por motivos de força maior mantêm o direito à ajuda.\n\nArtigo 5.º\n\n[...]\n\n1 - Os valores da ajuda a atribuir para as campanhas de 2006-2007, 2007-2008 e 2008-2009 são de (euro) 899 820, (euro) 1 395 030 e (euro) 328 125, respectivamente.\n\n2 - ...»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "citação sem » de fecho",
+    "unidade": [],
+    "diploma": "pt:dre:3002383:por",
+    "alterador": "pt:dre:2417222:por"
+  }
+]

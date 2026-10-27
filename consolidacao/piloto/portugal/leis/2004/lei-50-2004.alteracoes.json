@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º — Revogação e regime transitório\n\nSão revogados os artigos 5.º e 7.º e o n.º 2 do artigo 9.º da Lei n.º 62/98, de 1 de Setembro, mantendo-se, porém, em aplicação até à entrada em vigor do decreto-lei referido no n.º 2 do artigo 82.º do Código do Direito de Autor e dos Direitos Conexos.",
+    "depois": "###### Artigo 8.º — Revogação e regime transitório\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 49/2015](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), publicado em 2015-06-05.",
+    "excerto": "São revogados:\n\na) O artigo 8.º da Lei n.º 50/2004, de 24 de agosto;",
+    "artigo_alterador": "7.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:479605:por",
+    "alterador": "pt:dre:67409481:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º\n\nÉ criado na Secretaria de Estado, e integrado na Direcção-Geral dos Negócios Políticos e da Administração Interna, mais um lugar de adjunto do director-geral, com a categoria de ministro plenipotenciário de 2.ª classe, cujas funções serão definidas por despacho ministerial.\n\n§ único. A primeira nomeação para o lugar criado no corpo deste artigo é da livre escolha do Governo, através do Ministro dos Negócios Estrangeiros.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 44970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44970-1963-194867), publicado em 1963-04-10.",
+    "excerto": "§ único. Fica revogado o § único do artigo 5.º do Decreto-Lei n.º 44526, de 21 de Agosto de 1962.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163631:por",
+    "alterador": "pt:dre:194867:por"
+  }
+]

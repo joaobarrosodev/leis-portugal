@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nOs mancebos maiores de 16 anos ainda não recenseados ou incorporados em qualquer dos ramos das forças armadas carecem de licença, passada pelos órgãos de recrutamento militar, para se ausentarem para o estrangeiro, a título temporário ou definitivo, ou para embarcarem como tripulantes a bordo de navios ou aeronaves nacionais.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1974-474734), publicado em 1974-09-07.",
+    "excerto": "Artigo único. É revogado o artigo 1.º do Decreto-Lei n.º 48024, de 4 de Novembro de 1967.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:388823:por",
+    "alterador": "pt:dre:474734:por"
+  }
+]

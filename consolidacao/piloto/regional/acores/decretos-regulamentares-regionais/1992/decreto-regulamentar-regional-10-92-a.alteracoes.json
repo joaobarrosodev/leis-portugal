@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 13.º — Receitas\n\nAs receitas provenientes das actividades desenvolvidas pelo PDAH são depositadas nos cofres da Região.",
+    "depois": "###### Artigo 13.º — Receitas\n\nAs receitas provenientes das actividades desenvolvidas pelo Parque Desportivo da Ilha Terceira são consideradas receitas do Fundo Regional de Fomento do Desporto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 24/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1996-435043), publicado em 1996-06-14.",
+    "excerto": "É alterado o artigo 13.º do Decreto Regulamentar Regional n.º 10/92/A, de 4 de Março, que passa a ter a seguinte redacção:\n\n«Artigo 13.º\n\n[...]\n\nAs receitas provenientes das actividades desenvolvidas pelo Parque Desportivo da Ilha Terceira são consideradas receitas do Fundo Regional de Fomento do Desporto.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:168423:por",
+    "alterador": "pt:dre:435043:por"
+  }
+]

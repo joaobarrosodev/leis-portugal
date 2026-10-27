@@ -1,0 +1,34 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 6.º — Âmbito material da retroacção\n\n1 - A retroacção prevista no presente diploma produz efeitos relativamente às prestações correspondentes às eventualidades de invalidez, de velhice e de morte, de acordo com as normas aplicáveis ao regime geral de segurança social.\n\n2 - Nos casos em que, para efeitos da contagem do prazo de garantia exigido para atribuição de direito a pensão de invalidez, for necessário recorrer a período objecto de retroacção nos termos do presente diploma, o direito àquela prestação só se efectiva quando o beneficiário for reconhecido como incapacitado para toda e qualquer profissão.\n\n3 - Quando se trata de beneficiários não vinculados ao sistema de segurança social anteriormente ao requerimento da retroacção, o montante das pensões corresponde ao valor calculado para a pensão regulamentar, sem que haja lugar à aplicação das normas sobre limites mínimos, quer do valor das pensões quer da taxa de formação das mesmas.",
+    "depois": "###### Artigo 6.º — Âmbito material da retroacção\n\n1 - A retroacção prevista no presente diploma produz efeitos relativamente às prestações correspondentes às eventualidades de invalidez, de velhice e de morte, de acordo com as normas aplicáveis ao regime geral de segurança social.\n\n2 - Nos casos em que, para efeitos da contagem do prazo de garantia exigido para atribuição de direito a pensão de invalidez, for necessário recorrer a período objecto de retroacção nos termos do presente diploma, o direito àquela prestação só se efectiva quando o beneficiário for reconhecido como incapacitado para toda e qualquer profissão.\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.",
+    "excerto": "2 - É revogado o n.º 3 do artigo 6.º do Decreto-Lei n.º 380/89, de 27 de Outubro.",
+    "artigo_alterador": "7.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:549454:por",
+    "alterador": "pt:dre:628041:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 6.º — Âmbito material da retroacção\n\n1 - A retroacção prevista no presente diploma produz efeitos relativamente às prestações correspondentes às eventualidades de invalidez, de velhice e de morte, de acordo com as normas aplicáveis ao regime geral de segurança social.\n\n2 - Nos casos em que, para efeitos da contagem do prazo de garantia exigido para atribuição de direito a pensão de invalidez, for necessário recorrer a período objecto de retroacção nos termos do presente diploma, o direito àquela prestação só se efectiva quando o beneficiário for reconhecido como incapacitado para toda e qualquer profissão.\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.",
+    "depois": "###### Artigo 6.º — Âmbito material da retroacção\n\n1 - A retroacção prevista no presente diploma produz efeitos relativamente às prestações correspondentes às eventualidades de invalidez, de velhice e de morte, de acordo com as normas aplicáveis ao regime geral de segurança social.\n\n2 - Nos casos em que, para efeitos da contagem do prazo de garantia exigido para atribuição de direito a pensão de invalidez, for necessário recorrer a período objecto de retroacção nos termos do presente diploma, o direito àquela prestação só se efectiva quando o beneficiário for reconhecido como incapacitado para toda e qualquer profissão.\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.",
+    "excerto": "2 - É revogado o n.º 3 do artigo 6.º do Decreto-Lei n.º 380/89, de 27 de Outubro.",
+    "artigo_alterador": "7.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:549454:por",
+    "alterador": "pt:dre:628041:por"
+  }
+]

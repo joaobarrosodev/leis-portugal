@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nA realização de serviços fúnebres com violação do disposto neste diploma e dos acordos nele previstos fica sujeita às penalidades estabelecidas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, seguindo-se o procedimento determinado no n.º 1 e na primeira parte do n.º 2 do artigo 3.º e nos artigos 4.º e 5.º do mesmo diploma.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 206/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2001-372853), publicado em 2001-07-27.",
+    "excerto": "São revogados:\n\nc) O artigo 2.º do Decreto-Lei n.º 248/83, de 9 de Junho.",
+    "artigo_alterador": "19.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:451852:por",
+    "alterador": "pt:dre:372853:por"
+  }
+]

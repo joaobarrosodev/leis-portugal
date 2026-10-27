@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 9.º — Prospeção e promoção\n\n1 - Pode ser atribuído apoio financeiro a missões de prospeção de produtores estrangeiros que considerem a possibilidade de vir a filmar em Portugal.\n\n2 - O pedido de financiamento é apresentado mediante formulário próprio, disponibilizado no sítio do ICA, I. P., até 20 dias úteis antes da missão prevista.\n\n3 - São elegíveis as despesas efetivamente pagas referentes a alimentação, deslocações e alojamento, suportadas por documentos de despesa diretamente relacionáveis com as datas da missão de prospeção.\n\n4 - Se o projeto vier a ser produzido e a recorrer ao incentivo à produção, o apoio dado à prospeção é incorporado nas contas finais do projeto, para efeitos de cálculo da intensidade do apoio público.\n\n5 - O apoio às ações referidas nos números anteriores tem como limite máximo 2,5 % (dois vírgula cinco por cento) do orçamento do incentivo à Produção Cinematográfica e Audiovisual de Médio Orçamento.\n\n6 - É aprovado, no anexo ii à presente portaria, da qual faz parte integrante, o regulamento que estabelece os demais termos e condições do apoio previsto no presente artigo.",
+    "depois": "###### Artigo 9.º — Prospeção e promoção\n\n1 - Pode ser atribuído apoio financeiro a missões de prospeção de produtores estrangeiros que considerem a possibilidade de vir a filmar em Portugal.\n\n2 - O pedido de financiamento é apresentado mediante formulário próprio, disponibilizado no sítio do ICA, I. P.\n\n3 - São elegíveis as despesas efetivamente pagas referentes a alimentação, deslocações e alojamento, suportadas por documentos de despesa diretamente relacionáveis com as datas da missão de prospeção.\n\n4 - Se o projeto vier a ser produzido e a recorrer ao incentivo à produção, o apoio dado à prospeção é incorporado nas contas finais do projeto, para efeitos de cálculo da intensidade do apoio público.\n\n5 - O apoio às ações referidas nos números anteriores tem como limite máximo 2,5 % (dois vírgula cinco por cento) do orçamento do incentivo à Produção Cinematográfica e Audiovisual de Médio Orçamento.\n\n6 - É aprovado, no anexo ii à presente portaria, da qual faz parte integrante, o regulamento que estabelece os demais termos e condições do apoio previsto no presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/276-b-2026-1139971701), publicado em 2026-06-26.",
+    "excerto": "O artigo 9.º da Portaria n.º 265-A/2026/1, de 17 de junho, passa a ter a seguinte redação:\n\n«Artigo 9.º\n\n[...]\n\n1 - [...].\n\n2 - O pedido de financiamento é apresentado mediante formulário próprio, disponibilizado no sítio do ICA, I. P.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1133905372:por",
+    "alterador": "pt:dre:1139971701:por"
+  }
+]

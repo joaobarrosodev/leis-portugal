@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO I — Regulamento de concessão da medalha de mérito de protecção e socorro::5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º — Diploma\n\nAo agraciado é entregue um diploma com a transcrição da fundamentação de concessão e assinado pelo autor do despacho de concessão.",
+    "depois": "###### Artigo 5.º — Diploma\n\nAo agraciado é entregue um diploma, assinado pelo autor do despacho de concessão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 860/2023](https://diariodarepublica.pt/dr/detalhe/portaria/860-2023-823878581), publicado em 2023-12-22.",
+    "excerto": "O artigo 5.º do regulamento de concessão da medalha de mérito de proteção e socorro, aprovado pela Portaria n.º 980-A/2006, de 14 de junho, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\nAo agraciado é entregue um diploma, assinado pelo autor do despacho de concessão.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1774736:por",
+    "alterador": "pt:dre:823878581:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 3.º\n\n1. Os auxiliares do farmacêutico terão as seguintes categorias:\n\na) Praticantes;\n\nb) Ajudantes de farmácia;\n\nc) Ajudantes técnicos de farmácia.\n\n2. Consideram-se praticantes os auxiliares durante os primeiros dois anos de prática registada.\n\n3. Têm a categoria de ajudantes de farmácia os praticantes depois de completados os dois anos de prática e também os indivíduos aprovados no exame a que se refere o artigo 4.º\n\n4. Consideram-se ajudantes técnicos de farmácia os ajudantes que, habilitados com o 2.º ciclo liceal ou equivalente, tenham completado, com bom aproveitamento e comportamento, três anos de prática registada na categoria e também os indivíduos aprovados no exame referido no artigo 4.º",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 485/78](https://diariodarepublica.pt/dr/detalhe/portaria/485-1978-299034), publicado em 1978-08-24.",
+    "excerto": "I) São revogados os artigos 3.º e 4.º da Portaria n.º 367/72, de 3 de Julho.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:674410:por",
+    "alterador": "pt:dre:299034:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º\n\n1. Poderão ser admitidos como auxiliares do farmacêutico, com as categorias de ajudantes ou de ajudantes técnicos de farmácia, indivíduos que, embora não possuindo prática registada, revelem em exame adequado conhecimento suficiente ao exercício de tais funções.\n\n2. Os examinandos deverão ser maiores de 21 anos e ter como habilitações mínimas a 6.ª classe do ensino primário ou o 2.º ciclo liceal, conforme se destinem, respectivamente, a ajudantes ou a ajudantes técnicos de farmácia.\n\n3. Os exames terão lugar anualmente, em local e data a determinar pela Direcção-Geral de Saúde, devendo o respectivo júri ser constituído por:\n\na) Um representante da Direcção-Geral de Saúde, que presidirá e que só terá voto em caso de necessidade de desempate;\n\nb) Um representante do Ministério das Corporações e Previdência Social;\n\nc) Um representante do Sindicato Nacional dos Farmacêuticos;\n\nd) Um representante dos sindicatos representativos dos ajudantes de farmácia;\n\ne) Um representante do Grémio Nacional das Farmácias.\n\n4. Haverá dois programas de exame diferentes, sendo um referente às provas a que se submetem os candidatos a ajudantes de farmácia e o outro referente àqueles destinados aos candidatos a ajudantes técnicos.\n\n5. O júri elaborará o programa dos exames, o qual deverá poder ser consultado pelos interessados pelo menos cento e vinte dias antes da data da sua realização.\n\n6. Constituirão matéria dos exames:\n\na) A leitura de receitas redigidas por diversos médicos;\n\nb) Conhecimentos de legislação referente à farmácia e ao exercício da actividade farmacêutica;\n\nc) Conhecimento dos fármacos provenientes dos diferentes remos da Natureza;\n\nd) Noções muito elementares de química, física e farmacognosia;\n\ne) Noções sobre pesagens e medidas;\n\nf) Conhecimento de fórmulas galénicas;\n\ng) Regular conhecimento da Farmacopeia Portuguesa;\n\nh) Conhecimento genérico das especialidades farmacêuticas à venda no País.\n\n7. Os candidatos a exame deverão requerê-lo no mês de Outubro, em requerimento dirigido ao director-geral de Saúde, segundo norma a estabelecer.\n\n8. Os requerimentos referidos na alínea anterior deverão ser acompanhados dos seguintes documentos:\n\na) Certificado de habilitações literárias;\n\nb) Certidão de nascimento;\n\nc) Certificado de registo criminal;\n\nd) Boletim de sanidade;\n\ne) Quaisquer outros documentos que o candidato entenda poder valorizá-lo, e que serão presentes ao júri.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 485/78](https://diariodarepublica.pt/dr/detalhe/portaria/485-1978-299034), publicado em 1978-08-24.",
+    "excerto": "I) São revogados os artigos 3.º e 4.º da Portaria n.º 367/72, de 3 de Julho.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:674410:por",
+    "alterador": "pt:dre:299034:por"
+  }
+]

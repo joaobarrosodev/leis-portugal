@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\n1. São introduzidas na organização dos três últimos anos dos cursos referidos no artigo anterior as alterações constantes dos números seguintes.\n\n2. Do 3.º ano do curso superior de Finanças passa a fazer parte a disciplina de Introdução à Economia da Empresa.\n\n3. O conselho escolar, quando se mostrar aconselhável o estudo especializado de certas matérias abrangidas por disciplinas do 3.º, 4.º ou 5.º anos, poderá desdobrar qualquer dessas disciplinas.\n\n4. Os alunos poderão frequentar mais de um dos desdobramentos que o conselho escolar venha a decidir nos termos do número anterior.\n\n5. O conselho escolar poderá especificar, quando o entender conveniente, o desdobramento de disciplina que será de frequência obrigatória.\n\n6. Poderá o conselho escolar decidir que sejam de frequência facultativa a disciplina de Direito Comercial e Marítimo, para os alunos do curso superior de Economia, e um semestre das disciplinas de Direito Constitucional e Administrativo e de Finanças II, para os alunos do curso superior de Finanças.\n\n7. Em cada um do 3.º, 4.º e 5.º anos, os alunos terão de cursar cinco disciplinas anuais, considerando-se, para este efeito, duas disciplinas semestrais como uma anual.\n\n8. Cada disciplina terá normalmente cinco horas de aula por semana, sendo duas teóricas de uma hora e duas práticas de uma hora e meia. Nas de Direito Constitucional e Administrativo, Direito Internacional Público, História Diplomática e Direito Corporativo haverá, em cada semana, três aulas teóricas de uma hora, as quais poderão ser dedicadas, em parte, a trabalhos de aplicação.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 520/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1972-685446), publicado em 1972-12-15.",
+    "excerto": "Art. 36.º (transitório) - 1. É revogado o artigo 2.º do Decreto n.º 512/70, de 17 de Outubro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:147793:por",
+    "alterador": "pt:dre:685446:por"
+  }
+]

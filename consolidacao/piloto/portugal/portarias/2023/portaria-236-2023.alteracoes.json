@@ -1,0 +1,33 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 13.º — Reduções e exclusões\n\n1 - O incumprimento de qualquer obrigação prevista na presente portaria determina o não pagamento do apoio ou a recuperação do montante pago no âmbito da correspondente intervenção.\n\n2 - Quando o IFAP, I. P., após análise dos pedidos de pagamento e estabelecimento dos montantes elegíveis para apoio, verifique um desvio entre o apoio pedido e o apoio apurado, é aplicável o seguinte:\n\na) Caso o desvio seja inferior a 5 %, o pagamento é efetuado na totalidade do apoio apurado;\n\nb) Caso o desvio se situe entre 5 % e 30 %, inclusivamente, é aplicada uma redução no apoio apurado de valor igual à diferença detetada;\n\nc) Caso o desvio seja superior a 30 %, não há lugar a qualquer pagamento.",
+    "depois": "###### Artigo 13.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou de qualquer irregularidade detetada são aplicáveis as disposições nacionais em conjugação com o previsto no título iv do Regulamento (UE) 2021/2116.\n\n2 - Para efeitos de aplicação do número anterior, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, o incumprimento das obrigações previstas nas alíneas a) e d) do n.º 1 do artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, determina a exclusão dos pagamentos do apoio realizados ou a realizar, das ações relativamente às quais se verificou o incumprimento.\n\n3 - Quando o IFAP, I. P., após análise do pedido de pagamento, verifique um desvio entre o montante do apoio solicitado e o montante do apoio apurado, é aplicável o seguinte:\n\na) Caso o desvio seja inferior a 10 % o pagamento é efetuado na totalidade do montante do apoio apurado;\n\nb) Caso o desvio seja igual ou superior a 10 % e até 50 % inclusivamente, é aplicada uma redução no montante do apoio apurado, de valor igual à diferença detetada;\n\nc) Caso o desvio seja superior a 50 % não há lugar a qualquer pagamento.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 384/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), publicado em 2026-08-25.",
+    "excerto": "O artigo 13.º da Portaria n.º 236/2023, de 27 de julho, passa a ter a seguinte redação:\n\n«Artigo 13.º\n\n[...]\n\n1 - Em caso de incumprimento ou de qualquer irregularidade detetada são aplicáveis as disposições nacionais em conjugação com o previsto no título iv do Regulamento (UE) 2021/2116.\n\n2 - Para efeitos de aplicação do número anterior, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, o incumprimento das obrigações previstas nas alíneas a) e d) do n.º 1 do artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, determina a exclusão dos pagamentos do apoio realizados ou a realizar, das ações relativamente às quais se verificou o incumprimento.\n\n3 - Quando o IFAP, I. P., após análise do pedido de pagamento, verifique um desvio entre o montante do apoio solicitado e o montante do apoio apurado, é aplicável o seguinte:\n\na) Caso o desvio seja inferior a 10 % o pagamento é efetuado na totalidade do montante do apoio apurado;\n\nb) Caso o desvio seja igual ou superior a 10 % e até 50 % inclusivamente, é aplicada uma redução no montante do apoio apurado, de valor igual à diferença detetada;\n\nc) Caso o desvio seja superior a 50 % não há lugar a qualquer pagamento.»",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:216253494:por",
+    "alterador": "pt:dre:1161801441:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 5.º — Obrigações dos beneficiários\n\nOs beneficiários do apoio previsto na presente portaria devem cumprir as seguintes obrigações:\n\na) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para a gestão e controlo;\n\nb) Conservar em boa ordem e devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, bem como todos os originais dos documentos comprovativos da realização das operações em causa, durante cinco anos após a execução da candidatura aprovada, exceto se outro prazo se encontrar fixado em lei especial.",
+    "depois": "###### Artigo 5.º — Obrigações dos beneficiários\n\nOs beneficiários do apoio previsto na presente portaria devem cumprir as seguintes obrigações:\n\na) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para a gestão e controlo;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 384/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), publicado em 2026-08-25.",
+    "excerto": "São revogados:\n\nc) A alínea b) do artigo 5.º da Portaria n.º 236/2023;",
+    "artigo_alterador": "8.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "",
+      "b"
+    ],
+    "diploma": "pt:dre:216253494:por",
+    "alterador": "pt:dre:1161801441:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 1.º — Exclusão do regime florestal parcial\n\n1 - É excluída do regime florestal parcial, ao qual foi submetida pelo [Decreto n.º 3264](https://diariodarepublica.pt/dr/detalhe/decreto/3264-1917-497209), de 27 de Julho de 1917, uma área total de 74598 m2, a qual está integrada na Alva de Pataias, na Alva da Senhora da Vitória e na Alva da Mina de Azeche, conforme a planta em anexo ao presente diploma, do qual faz parte integrante.\n\n2 - A área total de 74598 m2 é constituída pelas parcelas de 23256 m2, pertencente à Alva de Pataias, 26466 m2, pertencente à Alva da Senhora da Vitória, e 24876 m2, pertencente à Alva da Mina de Azeche.\n\n3 - As parcelas de terreno referidas nos números anteriores são propriedade da Câmara Municipal de Alcobaça e destinam-se à construção da estrada atlântica no troço entre os limites dos concelhos da Nazaré e da Marinha Grande e ligação de Paredes da Vitória a Pataias, que consiste no alargamento do traçado das vias já existentes, pavimentadas a betuminoso há longos anos, e na construção de uma pista para ciclistas.",
+    "depois": "###### Artigo 1.º — Exclusão do regime florestal parcial\n\n1 - É excluída do regime florestal parcial, ao qual foi submetida pelo Decreto n.º 3264, de 27 de Julho de 1917, uma área total de 74598 m2, a qual está integrada na Alva de Pataias, na Alva da Senhora da Vitória e na Alva da Mina de Azeche, conforme as plantas em anexo ao presente diploma, do qual fazem parte integrante.\n\n2 - A área total de 74598 m2 é constituída pelas parcelas de 23256 m2, pertencente à Alva de Pataias, 26466 m2, pertencente à Alva da Senhora da Vitória, e 24876 m2, pertencente à Alva da Mina de Azeche.\n\n3 - As parcelas de terreno referidas nos números anteriores são propriedade da Câmara Municipal de Alcobaça e destinam-se à construção da estrada atlântica no troço entre os limites dos concelhos da Nazaré e da Marinha Grande e ligação de Paredes da Vitória a Pataias, que consiste no alargamento do traçado das vias já existentes, pavimentadas a betuminoso há longos anos, e na construção de uma pista para ciclistas.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-F/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-f-2003-648933), publicado em 2003-09-16.",
+    "excerto": "1 - Na parte final do n.º 1 do artigo 1.º, onde se lê «conforme a planta em anexo ao presente diploma, do qual faz parte integrante», deve ler-se «conforme as plantas em anexo ao presente diploma, do qual fazem parte integrante».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:670525:por",
+    "alterador": "pt:dre:648933:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 7.º\n\nNos distritos autónomos das ilhas adjacentes é proibida a livre apascentação de gado caprino ou suíno em terrenos baldios ou em propriedades particulares que não se encontrem eficientemente vedados.",
+    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 47004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47004-1966-472938), publicado em 1966-05-11.",
+    "excerto": "Art. 5.º Ficam revogadas as disposições contidas nos artigos 7.º e 19.º do Decreto n.º 42967, no âmbito das atribuições da Circunscrição Florestal do Funchal.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:505423:por",
+    "alterador": "pt:dre:472938:por"
+  },
+  {
+    "artigo": "19.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 19.º\n\nÀ infracção do preceituado no artigo 7.º corresponde, pela primeira vez, a multa de 10$00 por cabeça de gado encontrada em transgressão, e nas vezes seguintes o dobro dessa multa.\n\n§ único. Aplica-se ao caso deste artigo o disposto nos artigos 16.º e 19.º do Regulamento do Serviço de Polícia Florestal, aprovado pelo [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793), de 24 de Novembro de 1954.",
+    "depois": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 47004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47004-1966-472938), publicado em 1966-05-11.",
+    "excerto": "Art. 5.º Ficam revogadas as disposições contidas nos artigos 7.º e 19.º do Decreto n.º 42967, no âmbito das atribuições da Circunscrição Florestal do Funchal.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:505423:por",
+    "alterador": "pt:dre:472938:por"
+  }
+]

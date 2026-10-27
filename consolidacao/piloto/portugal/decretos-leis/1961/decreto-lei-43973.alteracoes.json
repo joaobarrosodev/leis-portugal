@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 13.º\n\nSem prejuízo do disposto no § 2.º do artigo 37.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, na nova redacção dada pelo presente diploma, de futuro, as prestações pagas pelos moradores-adquirentes fora do prazo estabelecido no corpo do mesmo artigo não contam para amortização das moradias.\n\n§ único. As parcelas respeitantes à amortização do capital e aos juros constituem receita do Fundo das Casas Económicas, que tomará os seguros estabelecidos por lei na parte correspondente à ampliação do período de amortização das moradias.",
+    "depois": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 566/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1975-312231), publicado em 1975-10-03.",
+    "excerto": "Art. 2.º É revogado o artigo 13.º do Decreto-Lei n.º 43973, de 20 de Outubro de 1961.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:182647:por",
+    "alterador": "pt:dre:312231:por"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 2.º\n\n1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.\n\n2 - A tabela salarial e as cláusulas de conteúdo pecuniário produzem efeitos a partir de 1 de Janeiro de 2008.\n\n3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.\n\nA Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 23 de Dezembro de 2009.",
+    "depois": "###### Artigo 2.º\n\n1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.\n\n2 - A tabela salarial e o valor do subsídio de almoço produzem efeitos a partir de 1 de Janeiro de 2009.\n\n3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 219/2010](https://diariodarepublica.pt/dr/detalhe/portaria/219-2010-613412), publicado em 2010-04-16.\n\nA Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 23 de Dezembro de 2009.",
+    "excerto": "O n.º 2 do artigo 2.º da Portaria n.º 27/2010, de 11 de Janeiro, passa a ter a seguinte redacção:\n\n«2 - A tabela salarial e o valor do subsídio de almoço produzem efeitos a partir de 1 de Janeiro de 2009.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:459917:por",
+    "alterador": "pt:dre:613412:por"
+  }
+]

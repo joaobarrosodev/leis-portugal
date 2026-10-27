@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "31.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 31.º\n\nAos oficiais e sargentos ou furriéis do quadro orgânico da Escola Prática do Serviço de Material será fornecido alojamento para si e suas famílias.\n\n§ único (transitório). Enquanto se verificar a impossibilidade de se observar o disposto no corpo deste artigo é autorizado para os oficiais, sargentos ou furriéis casados o abono a dinheiro da importância correspondente à diferença entre as verbas concedidas para o almoço e as consignadas para alimentação e alojamento do pessoal das mesmas categorias na frequência de cursos, estágios e tirocínios.",
+    "depois": "###### Artigo 31.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 46195](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46195-1965-238813), publicado em 1965-02-20.",
+    "excerto": "Art. 11.º O presente diploma entra em vigor em 1 de Março de 1965 e revoga:\n\ne) O artigo 31.º do Regulamento da Escola Prática do Serviço de Material, anexo à Portaria n.º 19036, de 17 de Fevereiro de 1962.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:518993:por",
+    "alterador": "pt:dre:238813:por"
+  }
+]

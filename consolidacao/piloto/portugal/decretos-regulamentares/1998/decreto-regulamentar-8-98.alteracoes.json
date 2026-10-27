@@ -1,0 +1,47 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo.",
+    "depois": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\ni) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 8/98, de 11 de maio;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "",
+      "b"
+    ],
+    "diploma": "pt:dre:516735:por",
+    "alterador": "pt:dre:67198365:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:\n\na) Direcção Regional de Agricultura de Trás-os-Montes e Direcção Regional de Agricultura da Beira Interior, consideradas em conjunto;\n\nb) Instituto Politécnico de Bragança, Instituto Politécnico da Guarda, Universidade da Beira Interior e Universidade de Trás-os-Montes e Alto Douro, consideradas em conjunto;\n\nc) Comissão de Coordenação da Região do Norte e Comissão de Coordenação da Região do Centro, consideradas em conjunto;\n\nd) Região de Turismo do Nordeste Transmontano;\n\ne) Câmara Municipal de Figueira de Castelo Rodrigo;\n\nf) Câmara Municipal de Freixo de Espada à Cinta;\n\ng) Câmara Municipal de Miranda do Douro;\n\nh) Câmara Municipal de Mogadouro;\n\ni) Juntas de freguesia incluídas no Parque Natural do concelho de Figueira de Castelo Rodrigo, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\nj) Juntas de freguesia incluídas no Parque Natural do concelho de Freixo de Espada à Cinta, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\nl) Juntas de freguesia incluídas no Parque Natural do concelho de Miranda do Douro, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\nm) Juntas de freguesia incluídas no Parque Natural do concelho de Mogadouro, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\nn) Associações de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\no) Associações representativas dos diferentes sectores económicos, nomeadamente do sector primário, consideradas em conjunto e em sistema rotativo pelo período de um ano.\n\n2 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.\n\n3 - O Instituto Português do Património Arqueológico e Arquitectónico (IPPAR) será ouvido pelo conselho, participando nas suas reuniões com estatuto de observador, nos termos do regulamento interno a aprovar pelo conselho.\n\n4 - Sempre que seja discutida matéria de interesse do IPPAR, este participará nas reuniões do conselho consultivo em substituição do representante da Região de Turismo do Nordeste Transmontano, sendo para o efeito convocado pelo presidente do conselho consultivo.",
+    "depois": "###### Artigo 8.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\ni) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 8/98, de 11 de maio;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:516735:por",
+    "alterador": "pt:dre:67198365:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 9.º — Competência do conselho consultivo\n\nCompete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas no Parque Natural e, em especial:\n\na) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;\n\nb) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;\n\nc) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;\n\nd) Apreciar os relatórios científicos e culturais sobre o estado do Parque Natural;\n\ne) Dar parecer sobre assuntos com interesse para o Parque Natural.",
+    "depois": "###### Artigo 9.º — Competência do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\ni) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 8/98, de 11 de maio;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:516735:por",
+    "alterador": "pt:dre:67198365:por"
+  }
+]

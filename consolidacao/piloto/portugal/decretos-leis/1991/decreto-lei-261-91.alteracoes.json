@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 4.º — Acordo de pré-reforma\n\n1 - A situação de pré-reforma depende de acordo entre a entidade empregadora e o trabalhador.\n\n2 - O acordo a que se refere o número anterior está sujeito a forma escrita, devendo ser assinado por ambas as partes e conter as seguintes indicações:\n\na) Data de início da situação de pré-reforma;\n\nb) O montante da prestação de pré-reforma;\n\nc) Forma de organização do tempo de trabalho no caso de redução da prestação de trabalho.\n\n3 - A entidade empregadora deve remeter o acordo de pré-reforma ao respectivo centro regional de segurança social, conjuntamente com a folha de remunerações relativa ao mês da sua entrada em vigor.\n\n4 - Para efeitos da dedução prevista no n.º 2 do artigo 12.º, o trabalhador deve, no prazo máximo de 15 dias, comunicar à entidade empregadora ou ao centro de emprego que o abranja, respectivamente, o início de qualquer actividade profissional remunerada.",
+    "depois": "###### Artigo 4.º — Acordo de pré-reforma\n\n1 - A situação de pré-reforma depende de acordo entre a entidade empregadora e o trabalhador.\n\n2 - O acordo a que se refere o número anterior está sujeito a forma escrita, devendo ser assinado por ambas as partes e conter as seguintes indicações:\n\na) Data de início da situação de pré-reforma;\n\nb) O montante da prestação de pré-reforma;\n\nc) Forma de organização do tempo de trabalho no caso de redução da prestação de trabalho.\n\n3 - A entidade empregadora deve remeter o acordo de pré-reforma ao respectivo centro regional de segurança social, conjuntamente com a folha de remunerações relativa ao mês da sua entrada em vigor.\n\n4 - Para efeitos da dedução prevista no n.º 2 do artigo 12.º, o trabalhador deve comunicar ao centro de emprego que o abranja o início de qualquer actividade profissional remunerada.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 118/99](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), publicado em 1999-08-11.",
+    "excerto": "Os artigos 4.º e 14.º do Decreto-Lei n.º 261/91, de 25 de Julho, relativo ao regime jurídico da pré-reforma, passam a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\n3 - ...\n\n4 - Para efeitos da dedução prevista no n.º 2 do artigo 12.º, o trabalhador deve comunicar ao centro de emprego que o abranja o início de qualquer actividade profissional remunerada.\n\nArtigo 14.º\n\nContra-ordenações\n\n1 - ...\n\n2 - Comete contra-ordenação leve o trabalhador que não informe o centro de emprego da área do seu domicílio, no prazo de 15 dias, de que iniciou outra actividade profissional, sendo a aplicação da coima da competência do director do referido centro.\n\n3 - ...\n\n4 - ...\n\n5 - ...»",
+    "artigo_alterador": "21.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:667887:por",
+    "alterador": "pt:dre:423061:por"
+  }
+]

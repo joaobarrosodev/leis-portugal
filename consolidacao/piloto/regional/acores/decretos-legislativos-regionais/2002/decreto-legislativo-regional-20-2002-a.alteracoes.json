@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 13.º — Aprovação pela Assembleia Legislativa Regional\n\nA Assembleia Legislativa Regional aprecia e delibera sobre a aprovação das propostas dos planos regionais que lhe forem apresentadas pelo Governo no seu período legislativo de Novembro, sem prejuízo do disposto no n.º 2 do artigo anterior.",
+    "depois": "###### Artigo 13.º — Aprovação pela Assembleia Legislativa Regional\n\nAté 15 de Dezembro a Assembleia Legislativa Regional aprecia e delibera sobre a aprovação das propostas dos planos regionais que lhe forem apresentadas pelo Governo, sem prejuízo do disposto no n.º 2 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 44/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/44-2003-438181), publicado em 2003-11-22.",
+    "excerto": "O artigo 13.º do Decreto Legislativo Regional n.º 20/2002/A, de 28 de Maio, passa a ter a seguinte redacção:\n\n«Artigo 13.º\n\n[...]\n\nAté 15 de Dezembro a Assembleia Legislativa Regional aprecia e delibera sobre a aprovação das propostas dos planos regionais que lhe forem apresentadas pelo Governo, sem prejuízo do disposto no n.º 2 do artigo anterior.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:153107:por",
+    "alterador": "pt:dre:438181:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 14.º — Alterações ao plano regional anual\n\n1 - As propostas de alteração ao plano regional anual em vigor serão submetidas, pelo Governo Regional, para apreciação e aprovação pela Assembleia Legislativa Regional e deverão conter adequada justificação de acordo com este diploma.\n\n2 - Exceptuam-se do número anterior:\n\na) A reafectação de verbas aos diferentes projectos de cada programa, que compete ao conselho do Governo Regional, através de resolução;\n\nb) A reafectação de verbas às diferentes acções de cada projecto, que compete ao membro do Governo Regional da tutela, devendo ser comunicadas, de imediato, aos departamentos do Governo Regional com competência em matéria de orçamento e planeamento.",
+    "depois": "###### Artigo 14.º — Alterações ao plano regional anual\n\n1 - As propostas de alteração ao plano regional anual em vigor serão submetidas, pelo Governo Regional, para apreciação e aprovação pela Assembleia Legislativa Regional e deverão conter adequada justificação de acordo com este diploma.\n\n2 - Exceptuam-se do número anterior:\n\na) A criação de novas ações nos projetos de cada programa e a reafectação de verbas aos diferentes projetos de cada programa, que compete ao membro do Governo Regional responsável em matéria de orçamento e planeamento.\n\nb) A reafectação de verbas às diferentes acções de cada projecto, que compete ao membro do Governo Regional da tutela, devendo ser comunicadas, de imediato, aos departamentos do Governo Regional com competência em matéria de orçamento e planeamento.\n\n> Alterado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), publicado em 2014-01-29.",
+    "excerto": "O artigo 14.º do Decreto Legislativo Regional n.º 20/2002/A, de 28 de maio, passa a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) A criação de novas ações nos projetos de cada programa e a reafectação de verbas aos diferentes projetos de cada programa, que compete ao membro do Governo Regional responsável em matéria de orçamento e planeamento.\n\nb) [...].»",
+    "artigo_alterador": "ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02000/0070300739.pdf)::45.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:153107:por",
+    "alterador": "pt:dre:570685:por"
+  }
+]

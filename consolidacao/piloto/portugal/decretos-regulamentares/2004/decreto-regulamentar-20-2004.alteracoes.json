@@ -1,0 +1,47 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo.",
+    "depois": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\no) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 20/2004, de 20 de maio;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "",
+      "b"
+    ],
+    "diploma": "pt:dre:270413:por",
+    "alterador": "pt:dre:67198365:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º — Composição e funcionamento do conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:\n\na) Ministério da Agricultura, Desenvolvimento Rural e Pescas;\n\nb) Ministério da Cultura;\n\nc) Comissão de Coordenação e Desenvolvimento Regional do Alentejo;\n\nd) Direcção-Geral do Turismo;\n\ne) Câmara Municipal de Arronches;\n\nf) Câmara Municipal de Castelo de Vide;\n\ng) Câmara Municipal de Marvão;\n\nh) Câmara Municipal de Portalegre;\n\ni) Associação de Agricultores do Distrito de Portalegre;\n\nj) Juntas de freguesia da área do Parque Natural incluídas no município de Arronches, consideradas em conjunto e em sistema rotativo, pelo período de um ano;\n\nl) Juntas de freguesia da área do Parque Natural incluídas no município de Castelo de Vide, consideradas em conjunto e em sistema rotativo, pelo período de um ano;\n\nm) Juntas de freguesia da área do Parque Natural incluídas no município de Marvão, consideradas em conjunto e em sistema rotativo, pelo período de um ano;\n\nn) Juntas de freguesia da área do Parque Natural incluídas no município de Portalegre, consideradas em conjunto e em sistema rotativo, pelo período de um ano;\n\no) Organizações não governamentais de ambiente (ONGA), de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural, consideradas em conjunto e em sistema rotativo, pelo período de um ano;\n\np) Instituições representativas dos interesses sócio-económicos, com intervenção na área do Parque Natural, consideradas em conjunto e em sistema rotativo, pelo período de um ano.\n\n2 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo respectivo presidente, por sua iniciativa, ou a solicitação de, pelo menos, um terço dos seus membros.",
+    "depois": "###### Artigo 8.º — Composição e funcionamento do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\no) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 20/2004, de 20 de maio;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:270413:por",
+    "alterador": "pt:dre:67198365:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 9.º — Competências do conselho consultivo\n\nO conselho consultivo dispõe das competências atribuídas pelo artigo 20.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, com a redacção conferida pelo [Decreto-Lei n.º 221/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2002-432178), de 22 de Outubro.",
+    "depois": "###### Artigo 9.º — Competências do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\no) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 20/2004, de 20 de maio;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:270413:por",
+    "alterador": "pt:dre:67198365:por"
+  }
+]

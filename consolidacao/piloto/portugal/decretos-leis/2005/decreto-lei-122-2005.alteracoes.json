@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\n1 - O presente diploma entra em vigor no dia 1 de Dezembro de 2005, com excepção dos n.os 3 e 4 do novo artigo 9.º-A do [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, que entram em vigor no dia seguinte ao da publicação.\n\n2 - O presente diploma aplica-se aos contratos que venham a ser celebrados após 1 de Dezembro de 2005 e aos contratos já existentes nessa data, no que respeita aos prémios ou fracções subsequentes que passem a ser devidos em momento a ela posterior.\n\nVisto e aprovado em Conselho de Ministros de 15 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 13 de Julho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.",
+    "depois": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\n1 - O presente diploma entra em vigor no dia 1 de Dezembro de 2005, com excepção dos n.os 3 e 4 do novo artigo 9.º-A do [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, que entram em vigor no dia seguinte ao da publicação.\n\n2 - O presente decreto-lei aplica-se aos contratos que venham a ser celebrados após 1 de Dezembro de 2005 e aos contratos já existentes nessa data, no que respeita aos prémios ou fracções subsequentes que se vençam a partir de 1 de Março de 2006.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 199/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2005-584640), publicado em 2005-11-10.\n\nVisto e aprovado em Conselho de Ministros de 15 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 13 de Julho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.",
+    "excerto": "O artigo 5.º do Decreto-Lei n.º 122/2005, de 29 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - O presente decreto-lei aplica-se aos contratos que venham a ser celebrados após 1 de Dezembro de 2005 e aos contratos já existentes nessa data, no que respeita aos prémios ou fracções subsequentes que se vençam a partir de 1 de Março de 2006.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:240271:por",
+    "alterador": "pt:dre:584640:por"
+  }
+]

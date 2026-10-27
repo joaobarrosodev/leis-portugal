@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º — Pagamento das operações de compra\n\n1 - Cada operação de compra origina uma única transferência automática de fundos entre a conta do apostador-comprador e a conta do Departamento de Jogos da SCML, independentemente do número de ordens de compra emitidas durante a operação.\n\n2 - Em caso de insuficiência de saldo disponível na conta do comprador-apostador, o sistema informático não aceitará a aposta/ordem de compra, que se considera como não efectuada.",
+    "depois": "###### Artigo 4.º — Pagamento das operações de compra\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), publicado em 2003-11-08.",
+    "excerto": "São revogados os artigos 4.º, 5.º, 6.º e 7.º do Decreto-Lei n.º 182/2000, de 10 de Agosto.",
+    "artigo_alterador": "16.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:339842:por",
+    "alterador": "pt:dre:468985:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º — Pagamento de prémios\n\nO pagamento dos prémios correspondentes às apostas efectuadas através dos terminais da rede MB é automaticamente creditado na conta dos apostadores através da qual foi feita a aposta, sem necessidade de qualquer outro procedimento por parte do apostador.",
+    "depois": "###### Artigo 5.º — Pagamento de prémios\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), publicado em 2003-11-08.",
+    "excerto": "São revogados os artigos 4.º, 5.º, 6.º e 7.º do Decreto-Lei n.º 182/2000, de 10 de Agosto.",
+    "artigo_alterador": "16.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:339842:por",
+    "alterador": "pt:dre:468985:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 6.º — Suporte material das operações de compra\n\n1 - Em cada operação de compra será emitido pelo terminal automático de pagamento um recibo, com valor meramente informativo, no qual constarão a data, hora e terminal da transacção, todas as fracções adquiridas, números dos bilhetes a que correspondem, código de segurança de cada uma das fracções e o preço pago.\n\n2 - No caso de o terminal automático de pagamento não emitir recibo, ou este ser ilegível, o comprador-apostador pode solicitar a respectiva emissão à entidade gestora do sistema da rede MB, mediante requerimento entregue numa instituição de crédito ou por via postal.",
+    "depois": "###### Artigo 6.º — Suporte material das operações de compra\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), publicado em 2003-11-08.",
+    "excerto": "São revogados os artigos 4.º, 5.º, 6.º e 7.º do Decreto-Lei n.º 182/2000, de 10 de Agosto.",
+    "artigo_alterador": "16.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:339842:por",
+    "alterador": "pt:dre:468985:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 7.º — Prova das operações de compra\n\n1 - Em caso de litígio, a prova da compra-aposta de um número será feita através dos registos informáticos existentes no terminal propriamente dito, na entidade gestora do sistema da rede MB, na instituição de crédito onde se encontra sediada a conta do apostador e na instituição de crédito onde se encontra sediada a conta do Departamento de Jogos da SCML.\n\n2 - Os registos informáticos relativos à compra de bilhetes da lotaria via multibanco serão mantidos em arquivo, no Departamento de Jogos da SCML, pelo período de três anos.",
+    "depois": "###### Artigo 7.º — Prova das operações de compra\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), publicado em 2003-11-08.",
+    "excerto": "São revogados os artigos 4.º, 5.º, 6.º e 7.º do Decreto-Lei n.º 182/2000, de 10 de Agosto.",
+    "artigo_alterador": "16.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:339842:por",
+    "alterador": "pt:dre:468985:por"
+  }
+]

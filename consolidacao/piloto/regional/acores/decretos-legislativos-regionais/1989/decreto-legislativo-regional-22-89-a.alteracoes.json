@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nOs contratos celebrados pelo GEPAP ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto Regulamentar Regional n.º 42/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284), de 23 de Novembro, estão dispensados de visto prévio da Secção Regional dos Açores do Tribunal de Contas.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20.",
+    "excerto": "Revoga o artigo 1.º do Decreto Legislativo Regional n.º 22/89/A, de 13 de Novembro",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549797:por",
+    "alterador": "pt:dre:176774:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20.\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20.",
+    "excerto": "Artigo único. É revogado o artigo 1.º do Decreto Legislativo Regional n.º 22/89/A, de 13 de Novembro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549797:por",
+    "alterador": "pt:dre:176774:por"
+  }
+]

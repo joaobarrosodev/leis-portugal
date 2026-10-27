@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 12.º — Regime de pessoal\n\n1 - Os trabalhadores da ULSNA, E. P. E., estão sujeitos ao regime do contrato de trabalho, de acordo com o Código do Trabalho, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.\n\n2 - A ULSNA, E. P. E., deve prever anualmente uma dotação global de pessoal, através do respectivo orçamento, considerando os planos de actividade.\n\n3 - Sem prejuízo do disposto no n.º 7 do artigo 13.º, a ULSNA, E. P. E., não pode celebrar contratos de trabalho para além da dotação referida no número anterior.\n\n4 - Os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver e assegurar os princípios da igualdade de oportunidades, da imparcialidade, da boa fé e da não discriminação, bem como da publicidade, podendo este ser excepcionado, nos casos de manifesta urgência devidamente fundamentada.",
+    "depois": "###### Artigo 12.º — Regime de pessoal\n\n1 - Os trabalhadores da ULSNA, E. P. E., estão sujeitos ao regime do contrato de trabalho, nos termos do Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal da carreira de profissões da saúde, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.\n\n2 - A ULSNA, E. P. E., deve prever anualmente uma dotação global de pessoal, através do respectivo orçamento, considerando os planos de actividade.\n\n3 - Sem prejuízo do disposto no n.º 7 do artigo 13.º, a ULSNA, E. P. E., não pode celebrar contratos de trabalho para além da dotação referida no número anterior.\n\n4 - Os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver e assegurar os princípios da igualdade de oportunidades, da imparcialidade, da boa fé e da não discriminação, bem como da publicidade, podendo este ser excepcionado, nos casos de manifesta urgência devidamente fundamentada.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 176/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), publicado em 2009-08-04.",
+    "excerto": "O artigo 12.º do Decreto-Lei n.º 50-B/2007, de 28 de Fevereiro, passa a ter a seguinte redacção:\n\n«Artigo 12.º\n\n[...]\n\n1 - Os trabalhadores da ULSNA, E. P. E., estão sujeitos ao regime do contrato de trabalho, nos termos do Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal da carreira de profissões da saúde, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.\n\n2 - ...\n\n3 - ...\n\n4 - ...»",
+    "artigo_alterador": "20.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:470072:por",
+    "alterador": "pt:dre:493009:por"
+  }
+]

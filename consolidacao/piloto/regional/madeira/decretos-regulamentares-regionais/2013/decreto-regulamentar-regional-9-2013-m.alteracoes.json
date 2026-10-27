@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º — Regime duodecimal\n\n1 - Todas as dotações orçamentais estão sujeitas às regras do regime duodecimal, com exceção das abaixo indicadas:\n\na) As dotações destinadas a despesas com o pessoal;\n\nb) As dotações relativas a transferências destinadas a fazer face a despesas com o pessoal dos serviços e fundos autónomos;\n\nc) As dotações afetas a rendas;\n\nd) As dotações afetas a encargos transitados;\n\ne) As dotações destinadas a suportar encargos com a dívida pública;\n\nf) As dotações com compensação em receita.\n\n2 - Mediante autorização do Secretário Regional do Plano e Finanças, poderão ser antecipados, total ou parcialmente, os duodécimos das dotações inscritas no Orçamento.\n\n3 - Nos serviços dotados de orçamentos privativos, a competência referida no número anterior pertence à entidade que deu o acordo ao respetivo orçamento, não sendo necessária a autorização do Secretário Regional do Plano e Finanças, salvo se for excedido o montante de (euro) 20 000 por dotação.\n\n4 - O disposto neste artigo não prejudica a aplicação das regras relativas às cativações orçamentais que constam no artigo 21.º do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro e na Resolução n.º 109/2013, de 27 de fevereiro.",
+    "depois": "###### Artigo 4.º — Regime duodecimal\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 12/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2013-498741), publicado em 2013-07-26.",
+    "excerto": "É revogado o artigo 4.º do Decreto Regulamentar Regional n.º 9/2013/M, de 22 de maio.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:261115:por",
+    "alterador": "pt:dre:498741:por"
+  }
+]

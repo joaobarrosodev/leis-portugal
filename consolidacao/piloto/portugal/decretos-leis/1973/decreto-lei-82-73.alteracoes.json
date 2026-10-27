@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nNo âmbito da educação física escolar e do desporto escolar juvenil não universitário compete à Direcção-Geral da Educação Física e Desportos:\n\na) Dirigir e regulamentar as actividades gimnodesportivas escolares e juvenis não federadas;\n\nb) Superintender em todas as instalações gimnodesportivas dos estabelecimentos de ensino não universitário dependentes do Ministério da Educação Nacional, bem como sobre o respectivo material, em colaboração com a Direcção-Geral da Administração Escolar;\n\nc) Programar e orientar o ensino da educação física ministrado nos estabelecimentos de ensino, públicos e particulares, não universitários, assegurando a sua constante actualização, qualidade e eficiência, em colaboração com as Direcções-Gerais dos Ensinos Básico e Secundário;\n\nd) Orientar, inspeccionar e classificar o pessoal docente que, nos estabelecimentos de ensino, públicos e particulares, não universitários, ministra a disciplina de Educação Física e orienta a prática de desportos.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 694/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/694-1974-466829), publicado em 1974-12-05.",
+    "excerto": "Art. 10.º São revogados o Decreto n.º 46912, de 19 de Março de 1966, assim como o artigo 2.º e artigo 18.º do Decreto-Lei n.º 82/73.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:684451:por",
+    "alterador": "pt:dre:466829:por"
+  },
+  {
+    "artigo": "18.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 18.º\n\nO estatuto do pessoal docente de educação física e dos desportos será estabelecido em decreto referendado pelos Ministros das Finanças e da Educação Nacional.",
+    "depois": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 694/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/694-1974-466829), publicado em 1974-12-05.",
+    "excerto": "Art. 10.º São revogados o Decreto n.º 46912, de 19 de Março de 1966, assim como o artigo 2.º e artigo 18.º do Decreto-Lei n.º 82/73.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:684451:por",
+    "alterador": "pt:dre:466829:por"
+  }
+]

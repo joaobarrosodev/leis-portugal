@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 2.º — Âmbito subjectivo\n\n1 - Podem candidatar-se à execução de projectos de actividades ocupacionais as seguintes entidades sem fins lucrativos:\n\na) Serviços e organismos dependentes da administração pública regional;\n\nb) Serviços e organismos localizados na Região Autónoma dos Açores dependentes da administração pública central;\n\nc) Serviços e organismos dependentes da administração local;\n\nd) Instituições particulares de solidariedade social ou equiparados;\n\ne) Associações e cooperativas sem fins lucrativos.\n\n2 - Os processos de candidatura referidos na alínea a) do número anterior carecem de aprovação prévia dos membros do Governo Regional com competência na área das finanças e da administração pública.",
+    "depois": "###### Artigo 2.º — Âmbito subjectivo\n\n1 - Podem candidatar-se à execução de projetos de atividades ocupacionais as seguintes entidades com e sem fins lucrativos:\n\na) Serviços e organismos dependentes da administração pública regional;\n\nb) Serviços e organismos localizados na Região Autónoma dos Açores dependentes da administração pública central;\n\nc) Serviços e organismos dependentes da administração local;\n\nd) Instituições particulares de solidariedade social ou equiparados;\n\ne) Associações e cooperativas sem fins lucrativos.\n\nf) Entidades públicas empresariais;\n\ng) Sociedades anónimas de capitais maioritariamente públicos.\n\n2 - Os processos de candidatura referidos na alínea a) do número anterior carecem de aprovação prévia dos membros do Governo Regional com competência na área das finanças e da administração pública.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2012-552066), publicado em 2012-05-09.",
+    "excerto": "O artigo 2.º do Decreto Regulamentar Regional n.º 9/2008/A, de 7 de maio, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - Podem candidatar-se à execução de projetos de atividades ocupacionais as seguintes entidades com e sem fins lucrativos:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Entidades públicas empresariais;\n\ng) Sociedades anónimas de capitais maioritariamente públicos.\n\n2 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:249783:por",
+    "alterador": "pt:dre:552066:por"
+  }
+]

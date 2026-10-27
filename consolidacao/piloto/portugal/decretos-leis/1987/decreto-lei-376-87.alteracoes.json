@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "42.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 42.º — Recusa de visto\n\n1 - A recusa do visto pelo Tribunal de Contas relativamente a despachos de nomeação por promoção, transferência ou transição, proferidos no âmbito dos movimentos de oficiais de justiça, não afecta a validade dos restantes e determina a passagem do interessado à situação de supranumerário.\n\n2 - Após o conhecimento oficial da recusa do visto referido no número anterior, os oficiais de justiça por ela abrangidos regressam no prazo máximo de 30 dias ao exercício de funções na secretaria onde anteriormente estavam colocados.\n\n3 - O prazo referido no número anterior é fixado pela Direcção-Geral dos Serviços Judiciários, tendo em conta a localização geográfica da secretaria.",
+    "depois": "###### Artigo 42.º — Recusa de visto\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 71.º-A do/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.",
+    "excerto": "Art. 4.º São revogados os artigos 42.º, 189.º e 204.º do Decreto-Lei n.º 376/87, de 11 de Dezembro.",
+    "artigo_alterador": "71.º-A",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:650730:por",
+    "alterador": "pt:dre:666745:por"
+  },
+  {
+    "artigo": "189.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 189.º — Supranumerários\n\nOs supranumerários são colocados na primeira vaga que ocorrer em lugar da respectiva categoria no quadro das secretarias judiciais a que pertencem e, salvo o disposto no n.º 3 do artigo 46.º, gozam de preferência no provimento em vaga que se verificar em qualquer outra secretaria judicial.",
+    "depois": "###### Artigo 189.º — Supranumerários\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 71.º-A do/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.",
+    "excerto": "Art. 4.º São revogados os artigos 42.º, 189.º e 204.º do Decreto-Lei n.º 376/87, de 11 de Dezembro.",
+    "artigo_alterador": "71.º-A",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:650730:por",
+    "alterador": "pt:dre:666745:por"
+  },
+  {
+    "artigo": "204.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 204.º — Inscrição na Câmara dos Solicitadores\n\nOs secretários judiciais, os secretários técnicos, os escrivães de direito e os técnicos de justiça principais têm direito à inscrição na Câmara dos Solicitadores, independentemente de quaisquer requisitos, desde que possuam classificação não inferior a Bom.",
+    "depois": "###### Artigo 204.º — Inscrição na Câmara dos Solicitadores\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 71.º-A do/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.",
+    "excerto": "Art. 4.º São revogados os artigos 42.º, 189.º e 204.º do Decreto-Lei n.º 376/87, de 11 de Dezembro.",
+    "artigo_alterador": "71.º-A",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:650730:por",
+    "alterador": "pt:dre:666745:por"
+  }
+]

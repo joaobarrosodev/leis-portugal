@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "110.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 110.º — Fundamentos do recurso\n\nOs fundamentos da reclamação não podem ser ampliados no recurso.",
+    "depois": "###### Artigo 110.º — Fundamentos do recurso\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 438.º do/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.",
+    "excerto": "Art. 5.º - 1 - É eliminado o artigo 110.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 2.º do Decreto-Lei n.º 34-A/90, de 24 de Janeiro, e publicado em anexo a este diploma.",
+    "artigo_alterador": "438.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626423:por",
+    "alterador": "pt:dre:662958:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º — Âmbito\n\nO presente Estatuto aplica-se aos militares das forças armadas em qualquer situação e forma de prestação de serviço.",
+    "depois": "###### Artigo 2.º — Âmbito\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 438.º do/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.",
+    "excerto": "Art. 5.º - 1 - É eliminado o artigo 110.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 2.º do Decreto-Lei n.º 34-A/90, de 24 de Janeiro, e publicado em anexo a este diploma.",
+    "artigo_alterador": "438.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626423:por",
+    "alterador": "pt:dre:662958:por"
+  }
+]

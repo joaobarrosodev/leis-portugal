@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 5.º — Gabinete de Apoio Técnico\n\n1 - Ao Gabinete de Apoio Técnico (GAT) compete:\n\na) Apoiar o director no planeamento, coordenação e controlo do funcionamento da DAMAG;\n\nb) Promover a normalização de produtos e metodologias nas áreas dos sistemas de informação e da informática;\n\nc) Promover a qualidade e a segurança dos sistemas de informação e informáticos.\n\n2 - O GAT é chefiado, em regime de acumulação de funções, pelo subdirector.\n\n3 - O GAT compreende:\n\na) A Secção de Estudos e Planeamento, à qual incumbe o exercício da competência indicada na alínea a) do n.º 1 e, no seu âmbito, da indicada na alínea b) do mesmo número;\n\nb) A Secção de Qualidade e Segurança, à qual incumbe o exercício da competência indicada na alínea c) do n.º 1 e, no seu âmbito, da indicada na alínea b) do mesmo número.",
+    "depois": "###### Artigo 5.º — Gabinete de Apoio Técnico\n\n1 - Ao Gabinete de Apoio Técnico (GAT) compete:\n\na) Apoiar o director no planeamento, coordenação e controlo do funcionamento da DAMAG;\n\nb) Promover a normalização de produtos e metodologias nas áreas dos sistemas de informação e da informática;\n\nc) Promover a qualidade e a segurança dos sistemas de informação e informáticos.\n\n2 - O GAT é chefiado, em regime de acumulação de funções, pelo subdirector.\n\n3 - O GAT compreende:\n\na) A Secção de Estudos e Planeamento, à qual incumbe o exercício da competência indicada na alínea a) do n.º 1 e, no seu âmbito, o da indicada na alínea b) do mesmo número;\n\nb) A Secção de Qualidade e Segurança, à qual incumbe o exercício da competência indicada na alínea c) do n.º 1 e, no seu âmbito, da indicada na alínea b) do mesmo número.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 250/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/250-1994-355910), publicado em 1994-11-30.",
+    "excerto": "No artigo 5.º, n.º 3, alínea a), onde se lê «âmbito, da indicada» deve ler-se «âmbito, o da indicada», e na alínea b), onde se lê «âmbito, da indicada» deve ler-se «âmbito, o da indicada».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:654532:por",
+    "alterador": "pt:dre:355910:por"
+  }
+]

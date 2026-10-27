@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nO Instituto de Assistência Nacional aos Tuberculosos é por este diploma integrado na Direcção-Geral de Saúde, nos termos constantes dos artigos seguintes.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.",
+    "excerto": "São revogados:\n\nf) Os artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 260/75, de 26 de Maio;",
+    "artigo_alterador": "51.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:335954:por",
+    "alterador": "pt:dre:231286:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\n1. Os serviços centrais do actual Instituto de Assistência Nacional aos Tuberculosos passam a constituir um serviço da Direcção-Geral de Saúde, com a designação de Serviço de Luta Antituberculosa.\n\n2. Cabe ao Serviço de Luta Antituberculosa promover, dirigir, controlar e avaliar a acção de luta contra a tuberculose no País, dentro das linhas de acção desenvolvidas pela Direcção-Geral de Saúde.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.",
+    "excerto": "São revogados:\n\nf) Os artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 260/75, de 26 de Maio;",
+    "artigo_alterador": "51.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:335954:por",
+    "alterador": "pt:dre:231286:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 3.º\n\n1. O Serviço de Luta Antituberculosa é dotado de personalidade jurídica e de autonomia administrativa, sem prejuízo da sua dependência da Direcção-Geral de Saúde.\n\n2. O referido Serviço sucede ao Instituto de Assistência Nacional aos Tuberculosos em todos os seus direitos e obrigações, salvo os que, por disposição especial, sejam objecto de destino diferente.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.",
+    "excerto": "São revogados:\n\nf) Os artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 260/75, de 26 de Maio;",
+    "artigo_alterador": "51.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:335954:por",
+    "alterador": "pt:dre:231286:por"
+  }
+]

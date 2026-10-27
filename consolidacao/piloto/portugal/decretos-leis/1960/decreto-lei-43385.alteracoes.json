@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nÉ criado no Ministério das Obras Públicas, com carácter eventual, o Gabinete da Ponte sobre o Tejo, no qual passam a ficar concentradas as actividades técnicas relacionadas com a execução deste empreendimento, competindo-lhe designadamente:\n\na) Promover a elaboração de todos os estudos que se tornem necessários para a realização da obra ou com ela relacionados e que sejam da competência do Governo;\n\nb) Preparar a elaboração dos contratos para a execução do empreendimento e fiscalizar o seu cumprimento;\n\nc) Representar o Governo nas relações com a empresa adjudicatária, assegurando a colaboração que for devida nas diversas fases do empreendimento, nos termos contratuais;\n\nd) Assegurar a cooperação dos demais serviços e entidades que intervenham no estudo e na execução da obra e prestar essa cooperação aos serviços de outros departamentos do Estado, quando necessário;\n\ne) Proceder às expropriações e aquisições ou arrendamentos de prédios ou terrenos necessários para a execução da obra, incluindo estaleiros e respectivos acessos;\n\nf) Dirigir e fiscalizar os trabalhos;\n\ng) Promover o pagamento das despesas.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 44600](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44600-1962-160373), publicado em 1962-09-26.",
+    "excerto": "Artigo 1.º O Gabinete da Ponte sobre o Tejo, criado no Ministério das Obras Públicas, com carácter eventual, pelo Decreto-Lei n.º 43385, de 7 de Dezembro de 1960, passa a regular-se pelo presente diploma, que, assim, revoga as disposições daquele decreto-lei.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:512780:por",
+    "alterador": "pt:dre:160373:por"
+  }
+]

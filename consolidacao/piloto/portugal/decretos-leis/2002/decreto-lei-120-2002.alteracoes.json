@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º-A",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 6.º-A\n\n1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Secretário de Estado Adjunto do Primeiro-Ministro.\n\n2 - (Anterior n.º 3 do artigo 6.º)\n\n3 - (Anterior n.º 4 do artigo 6.º)\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.",
+    "excerto": "É aditado ao Decreto-Lei n.º 120/2002, de 3 de Maio, o artigo 6.º-A, com a seguinte redacção:\n\n«Artigo 6.º-A\n\n1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Secretário de Estado Adjunto do Primeiro-Ministro.\n\n2 - (Anterior n.º 3 do artigo 6.º)\n\n3 - (Anterior n.º 4 do artigo 6.º)»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:371035:por",
+    "alterador": "pt:dre:684205:por"
+  }
+]

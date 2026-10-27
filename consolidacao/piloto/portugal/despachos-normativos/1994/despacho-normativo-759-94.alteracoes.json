@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO B — Critérios para a apreciação da proposta de criação de novas infra-estruturas de apoio à indústria::9.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 9.º — Incentivo\n\n1 - O incentivo a conceder assumirá a forma de um subsídio financeiro a fundo perdido, determinado pela aplicação de uma percentagem sobre o total das aplicações relevantes que cada projecto envolve e até aos limites estabelecidos, constantes dos anexos A a E ao presente Regulamento, nos termos do n.º 4 do artigo 2.º\n\n2 - Quando o incentivo às acções A, B, D e E se revelar manifestamente insuficiente para a realização do projecto, poderá aquele ser majorado em casos excepcionais de grande interesse reconhecido por despacho do Ministro da Indústria e Energia, desde que existam disponibilidades orçamentais complementares ao Programa.",
+    "depois": "###### Artigo 9.º — Incentivo\n\n1 - O incentivo a conceder assumirá a forma de um subsídio financeiro a fundo perdido, determinado pela aplicação de uma percentagem sobre o total das aplicações relevantes que cada projecto envolve e até aos limites estabelecidos, constantes dos anexos A a E ao presente Regulamento, nos termos do n.º 4 do artigo 2.º\n\n2 - Quando o incentivo se revelar manifestamente insuficiente para a realização do projecto, poderá aquele ser majorado em casos excepcionais de grande interesse reconhecido por despacho do Ministro da Economia, em razão das valias industrial e regional do projecto, desde que existam disponibilidades orçamentais do Programa ou outras complementares.\n\n> Alterado pelo/a [Despacho Normativo n.º 9/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-1997-555461), publicado em 1997-02-12.",
+    "excerto": "1 - O artigo 9.º do Regulamento dos Projectos de Novas Infra-Estruturas para a Indústria, aprovado pelo Despacho Normativo n.º 759/94, de 5 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 9.º\n\n[...]\n\n1 - ...\n\n2 - Quando o incentivo se revelar manifestamente insuficiente para a realização do projecto, poderá aquele ser majorado em casos excepcionais de grande interesse reconhecido por despacho do Ministro da Economia, em razão das valias industrial e regional do projecto, desde que existam disponibilidades orçamentais do Programa ou outras complementares.»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:535400:por",
+    "alterador": "pt:dre:555461:por"
+  }
+]

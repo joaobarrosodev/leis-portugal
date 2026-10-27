@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 5.º — (Director)\n\n1 - Compete ao director:\n\na) Assegurar o funcionamento do GRGFD dentro da orientação definida pelo Secretário Regional do Trabalho;\n\nb) Superintender na disciplina do pessoal, em obediência às disposições da lei vigente;\n\nc) Exercer na Região as atribuições conferidas por lei ao director do Gabinete de Gestão do Fundo de Desemprego;\n\nd) Exercer, para além das atribuições que resultem do presente diploma e demais legislação, as que são inerentes aos órgãos dirigentes dos organismos dotados de autonomia administrativa e financeira.\n\n2 - Nas suas ausências e impedimentos o director será substituído por funcionário para o efeito designado pelo Secretário Regional do Trabalho.\n\n3 - O director elaborará e entregará ao Secretário Regional do Trabalho, até 31 de Janeiro de cada ano, um relatório em que exponha as actividades desenvolvidas no ano anterior pelo departamento em que superintende, bem como o plano de actividades para o ano em curso.",
+    "depois": "###### Artigo 5.º — (Director)\n\n1 - Compete ao director:\n\na) Assegurar o funcionamento do GRGFD dentro da orientação definida pelo Secretário Regional do Trabalho;\n\nb) Superintender na disciplina do pessoal, em obediência às disposições da lei vigente;\n\nc) Exercer na Região as atribuições conferidas por lei ao director do Gabinete de Gestão do Fundo de Desemprego;\n\nd) Exercer, para além das atribuições que resultem do presente diploma e demais legislação, as que são inerentes aos órgãos dirigentes dos organismos dotados de autonomia administrativa e financeira.\n\n2 - (Revogado.)\n\n3 - O director elaborará e entregará ao Secretário Regional do Trabalho, até 31 de Janeiro de cada ano, um relatório em que exponha as actividades desenvolvidas no ano anterior pelo departamento em que superintende, bem como o plano de actividades para o ano em curso.\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 48/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1983-443676), publicado em 1983-11-04.",
+    "excerto": "Art. 2.º É revogado o n.º 2 do artigo 5.º do Decreto Regulamentar Regional n.º 41/82/A, de 9 de Novembro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:378075:por",
+    "alterador": "pt:dre:443676:por"
+  }
+]

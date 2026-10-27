@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º — Atribuições\n\nSão atribuições do GEPE, no âmbito da intervenção do Ministério da Economia:\n\na) Promover, coordenar e realizar estudos que contribuam para a formulação das políticas relevantes para as áreas de intervenção do Ministério da Economia, numa óptica prospectiva, integrada e global;\n\nb) Analisar a evolução da actividade económica, assegurando a coordenação, tratamento e análise da informação estatística, visando a formação de expectativas pelos agentes económicos;\n\nc) Coordenar, gerir e disponibilizar a informação relativa aos estudos promovidos, realizados ou adjudicados no âmbito do Ministério e emitir parecer prévio à realização de novos estudos, com vista a racionalizar o seu potencial e a melhor internalizar a utilização dos seus resultados;\n\nd) Promover e desenvolver acções que contribuam para a articulação entre as políticas sectoriais e horizontais do Ministério e entre estas e outras políticas relevantes do Governo, com impacte na competitividade e internacionalização da economia portuguesa;\n\ne) Fomentar, na base de parcerias e de cooperação, actividades de reflexão com universidades, centros de investigação e outros agentes económicos, nacionais e estrangeiros, visando uma envolvente económica favorável a estratégias empresariais abertas ao desenvolvimento dos novos factores de competitividade e à internacionalização da economia portuguesa;\n\nf) Proporcionar informação qualificada de natureza envolvente e estratégica aos agentes económicos;\n\ng) Participar na elaboração das Grandes Opções do Plano e de planos nacionais de desenvolvimento sócio-económicos;\n\nh) Participar na formulação das medidas de política que integram o Orçamento do Estado.",
+    "depois": "###### Artigo 2.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2004-240384), publicado em 2004-01-02.",
+    "excerto": "É revogado o artigo 2.º do Decreto Regulamentar n.º 6/99, de 19 de Maio.",
+    "artigo_alterador": "20.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:323958:por",
+    "alterador": "pt:dre:240384:por"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "artigo": "24.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 24.º\n\n1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:\n\na) De Administração Patrimonial e Financeira;\n\nb) De Pessoal e Expediente.\n\n2 - Em cada administração florestal funciona uma secção administrativa da Direcção de Serviços de Administração, que compreenderá pessoal administrativo e auxiliar.\n\n3 - O pessoal referido no número anterior depende funcionalmente do director dos Serviços de Administração e hierarquicamente do respectivo administrador florestal.",
+    "depois": "###### Artigo 24.º\n\n1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:\n\na) De Administração Patrimonial e Financeira;\n\nb) De Pessoal e Expediente.\n\n2 - (Revogado.)\n\n3 - O pessoal referido no número anterior depende funcionalmente do director dos Serviços de Administração e hierarquicamente do respectivo administrador florestal.\n\n> Revogado pelo/a [Decreto Regulamentar n.º 71-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1979-157049), publicado em 1979-12-29.",
+    "excerto": "Art. 2.º São revogados os n.os 2 e 3 do artigo 24.º do Decreto Regulamentar n.º 39/79, de 10 de Julho.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:380546:por",
+    "alterador": "pt:dre:157049:por"
+  },
+  {
+    "artigo": "24.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 24.º\n\n1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:\n\na) De Administração Patrimonial e Financeira;\n\nb) De Pessoal e Expediente.\n\n2 - (Revogado.)\n\n3 - O pessoal referido no número anterior depende funcionalmente do director dos Serviços de Administração e hierarquicamente do respectivo administrador florestal.\n\n> Revogado pelo/a [Decreto Regulamentar n.º 71-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1979-157049), publicado em 1979-12-29.",
+    "depois": "###### Artigo 24.º\n\n1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:\n\na) De Administração Patrimonial e Financeira;\n\nb) De Pessoal e Expediente.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 71-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1979-157049), publicado em 1979-12-29.\n\n> Revogado pelo/a [Decreto Regulamentar n.º 71-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1979-157049), publicado em 1979-12-29.",
+    "excerto": "Art. 2.º São revogados os n.os 2 e 3 do artigo 24.º do Decreto Regulamentar n.º 39/79, de 10 de Julho.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:380546:por",
+    "alterador": "pt:dre:157049:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º — Alterações à [Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/lei/91-1997-141831), de 1 de Agosto\n\nOs artigos 8.º e 12.º da [Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/lei/91-1997-141831), de 1 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 8.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - O conceito de serviço universal de telecomunicações deve evoluir por forma a acompanhar o progresso da tecnologia, o desenvolvimento do mercado e as modificações da procura por parte dos utilizadores, sendo o seu âmbito modificado sempre que tal evolução o justifique.\n\nArtigo 12.º\n\n[...]\n\n1 - ...\n\n2 - A rede básica de telecomunicações é composta pelo sistema fixo de acesso de assinante, pela rede de transmissão e pelos nós de concentração, comutação ou processamento, afectos à prestação do serviço universal de telecomunicações.\n\n3 - ...\n\n4 - ...\n\n5 - A rede básica de telecomunicações garante a prestação do serviço universal, devendo, para esse efeito, ser mantida a sua segurança, integridade e permanente operabilidade, no respeito pelo disposto no artigo 8.º\n\n6 - ...»",
+    "depois": "###### Artigo 1.º — Alterações à [Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/lei/91-1997-141831), de 1 de Agosto\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 127.º do/a [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), publicado em 2004-02-10.",
+    "excerto": "1 - São revogados os seguintes diplomas:\n\na) Lei n.º 91/97, de 1 de Agosto, com a redacção que lhe foi dada pelo artigo 1.º da Lei n.º 29/2002, de 6 de Dezembro, com excepção dos n.os 2 e 3 do artigo 12.º;",
+    "artigo_alterador": "127.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438049:por",
+    "alterador": "pt:dre:581061:por"
+  }
+]

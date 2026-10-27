@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "22.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 22.º — Regime simplificado de redução ou suspensão de atividade em situação de crise empresarial\n\n1 - O empregador que comprovadamente se encontre na situação de crise empresarial, pode recorrer ao regime de redução ou suspensão dos contratos de trabalho, previsto nos artigos 298.º e seguintes do Código do Trabalho, com dispensa das obrigações previstas nos artigos 299.º e 300.º do mesmo Código.\n\n2 - Sem prejuízo do controlo a posteriori, a situação de crise empresarial referida no número anterior considera-se verificada através do requerimento do empregador no sítio da Internet do gov.pt e da segurança social.\n\n3 - No requerimento previsto no número anterior, o empregador indica os seguintes elementos:\n\na) Fundamentos económicos, financeiros ou técnicos da medida;\n\nb) Quadro de pessoal, discriminado por secções;\n\nc) Critérios para seleção dos trabalhadores a abranger;\n\nd) Número e categorias profissionais dos trabalhadores a abranger.",
+    "depois": "###### Artigo 22.º — Regime simplificado de redução ou suspensão de atividade em situação de crise empresarial\n\n1 - O empregador que comprovadamente se encontre na situação de crise empresarial, pode recorrer ao regime de redução ou suspensão dos contratos de trabalho, previsto nos artigos 298.º e seguintes do Código do Trabalho, com dispensa das obrigações previstas nos artigos 299.º e 300.º do mesmo Código.\n\n2 - Sem prejuízo do controlo a posteriori, a situação de crise empresarial referida no número anterior considera-se verificada através do requerimento do empregador no sítio da Internet do gov.pt e da segurança social.\n\n3 - No requerimento previsto no número anterior, o empregador indica os seguintes elementos:\n\na) Fundamentos económicos, financeiros ou técnicos da medida;\n\nb) Quadro de pessoal, discriminado por secções;\n\nc) Critérios para seleção dos trabalhadores a abranger;\n\nd) Número e categorias profissionais dos trabalhadores a abranger.\n\n4 - Nos termos do presente artigo, a compensação retributiva a que trabalhador tem direito corresponde a 100 % da sua retribuição normal ilíquida, sendo paga pelo empregador, até ao limite de três vezes a remuneração mínima mensal garantida.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2026](https://diariodarepublica.pt/dr/detalhe/lei/12-2026-1084346068), publicado em 2026-04-14.",
+    "excerto": "O artigo 22.º do Decreto-Lei n.º 31-C/2026, de 5 de fevereiro, passa a ter a seguinte redação:\n\n«Artigo 22.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - Nos termos do presente artigo, a compensação retributiva a que trabalhador tem direito corresponde a 100 % da sua retribuição normal ilíquida, sendo paga pelo empregador, até ao limite de três vezes a remuneração mínima mensal garantida.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1039107607:por",
+    "alterador": "pt:dre:1084346068:por"
+  },
+  {
+    "artigo": "22.º-A",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 22.º-A — Pagamento da compensação retributiva\n\n1 - Durante o período de vigência do regime mencionado no artigo anterior, a compensação retributiva, nos primeiros 60 dias, é paga em 80 % do seu montante pelo serviço público competente da área da segurança social e em 20 % pelo empregador.\n\n2 - Findo o período mencionado no número anterior, a compensação retributiva é paga em 70 % do seu montante pelo serviço público competente da área da segurança social e em 30 % pelo empregador.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 12/2026](https://diariodarepublica.pt/dr/detalhe/lei/12-2026-1084346068), publicado em 2026-04-14.",
+    "excerto": "São aditados ao Decreto-Lei n.º 31-C/2026, de 5 de fevereiro, os artigos 22.º-A e 36.º-A, com a seguinte redação:\n\n«Artigo 22.º-A\n\nPagamento da compensação retributiva\n\n1 - Durante o período de vigência do regime mencionado no artigo anterior, a compensação retributiva, nos primeiros 60 dias, é paga em 80 % do seu montante pelo serviço público competente da área da segurança social e em 20 % pelo empregador.\n\n2 - Findo o período mencionado no número anterior, a compensação retributiva é paga em 70 % do seu montante pelo serviço público competente da área da segurança social e em 30 % pelo empregador.\n\nArtigo 36.º-A\n\nTransparência e acompanhamento\n\n1 - O IEFP, I. P., e o Instituto da Segurança Social, I. P., publicam trimestralmente relatório síntese da execução física e financeira das medidas previstas no presente decreto-lei.\n\n2 - É assegurada a divulgação pública agregada dos montantes atribuídos por concelho e tipologia de apoio, salvaguardando a proteção de dados pessoais.»",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1039107607:por",
+    "alterador": "pt:dre:1084346068:por"
+  },
+  {
+    "artigo": "36.º-A",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 36.º-A — Transparência e acompanhamento\n\n1 - O IEFP, I. P., e o Instituto da Segurança Social, I. P., publicam trimestralmente relatório síntese da execução física e financeira das medidas previstas no presente decreto-lei.\n\n2 - É assegurada a divulgação pública agregada dos montantes atribuídos por concelho e tipologia de apoio, salvaguardando a proteção de dados pessoais.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 12/2026](https://diariodarepublica.pt/dr/detalhe/lei/12-2026-1084346068), publicado em 2026-04-14.",
+    "excerto": "São aditados ao Decreto-Lei n.º 31-C/2026, de 5 de fevereiro, os artigos 22.º-A e 36.º-A, com a seguinte redação:\n\n«Artigo 22.º-A\n\nPagamento da compensação retributiva\n\n1 - Durante o período de vigência do regime mencionado no artigo anterior, a compensação retributiva, nos primeiros 60 dias, é paga em 80 % do seu montante pelo serviço público competente da área da segurança social e em 20 % pelo empregador.\n\n2 - Findo o período mencionado no número anterior, a compensação retributiva é paga em 70 % do seu montante pelo serviço público competente da área da segurança social e em 30 % pelo empregador.\n\nArtigo 36.º-A\n\nTransparência e acompanhamento\n\n1 - O IEFP, I. P., e o Instituto da Segurança Social, I. P., publicam trimestralmente relatório síntese da execução física e financeira das medidas previstas no presente decreto-lei.\n\n2 - É assegurada a divulgação pública agregada dos montantes atribuídos por concelho e tipologia de apoio, salvaguardando a proteção de dados pessoais.»",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1039107607:por",
+    "alterador": "pt:dre:1084346068:por"
+  }
+]

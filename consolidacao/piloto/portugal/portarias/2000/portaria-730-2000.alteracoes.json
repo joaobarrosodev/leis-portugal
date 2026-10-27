@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — Estatuto das Ligas dos Amigos dos Museus Militares::23.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 23.º — Mesa\n\n1 - A mesa da assembleia geral é constituída por um presidente e dois secretários, eleitos de entre os sócios inscritos há mais de seis meses.\n\n2 - Compete ao presidente da mesa da assembleia geral, designadamente:\n\na) Convocar a assembleia geral e presidir às respectivas reuniões;\n\nb) Verificar a conformidade das listas de candidatos à eleição dos corpos sociais e promover a sua divulgação oportuna entre os sócios;\n\nc) Assinar as actas das reuniões da assembleia geral;\n\nd) Dar posse aos membros dos corpos sociais, assinando os respectivos termos de posse.\n\n3 - O presidente da mesa da assembleia geral pode corresponder-se com qualquer entidade, pública ou privada, sobre assuntos cuja competência não pertença a outros corpos sociais.\n\n4 - Aos secretários da mesa da assembleia geral compete, designadamente:\n\na) Elaborar e assinar as actas das reuniões da assembleia geral;\n\nb) Elaborar e fazer seguir o expediente da mesa da assembleia geral;\n\nc) Arquivar os documentos e zelar pela segurança dos respectivos arquivos.",
+    "depois": "###### Artigo 23.º — Mesa\n\n1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e dois secretários, eleitos de entre os sócios inscritos há mais de seis meses.\n\n2 - Compete ao presidente da mesa da assembleia geral, designadamente:\n\na) Convocar a assembleia geral e presidir às respectivas reuniões;\n\nb) Verificar a conformidade das listas de candidatos à eleição dos corpos sociais e promover a sua divulgação oportuna entre os sócios;\n\nc) Assinar as actas das reuniões da assembleia geral;\n\nd) Dar posse aos membros dos corpos sociais, assinando os respectivos termos de posse.\n\n3 - O presidente da mesa da assembleia geral pode corresponder-se com qualquer entidade, pública ou privada, sobre assuntos cuja competência não pertença a outros corpos sociais.\n\n4 - Compete ao vice-presidente da mesa da assembleia geral substituir o presidente nas suas faltas e impedimentos.\n\n5 - (Anterior n .º 4.)\n\n> Alterado pelo/a [Portaria n.º 110/2001](https://diariodarepublica.pt/dr/detalhe/portaria/110-2001-386815), publicado em 2001-02-22.",
+    "excerto": "1.º O artigo 23.º do Estatuto das Ligas dos Amigos dos Museus Militares, aprovado pela Portaria n.º 730/2000, de 7 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 23.º\n\n1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e dois secretários, eleitos de entre os sócios inscritos há mais de seis meses.\n\n2 - ...\n\n3 - ...\n\n4 - Compete ao vice-presidente da mesa da assembleia geral substituir o presidente nas suas faltas e impedimentos.\n\n5 - (Anterior n .º 4.)»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:581664:por",
+    "alterador": "pt:dre:386815:por"
+  }
+]

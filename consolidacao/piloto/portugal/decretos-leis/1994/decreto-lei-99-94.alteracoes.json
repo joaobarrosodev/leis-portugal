@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 4.º — Comissão governamental\n\nA coordenação da execução global do QCA incumbe a uma comissão governamental de coordenação dos fundos comunitários, presidida pelo Ministro do Planeamento e da Administração do Território.",
+    "depois": "###### Artigo 4.º — Coordenação do QCA\n\n1 - A coordenação das negociações e da execução global do QCA em todas as suas vertentes incumbe a uma comissão governamental de coordenação dos fundos comunitários, de modo a assegurar a eficácia e a unidade dos respectivos processos.\n\n2 - A comissão governamental referida no número anterior é composta pelo Ministro do Planeamento e da Administração do Território, que preside, e por membros do Governo dos ministérios que tutelam as entidades responsáveis pela gestão das intervenções operacionais incluídas no QCA, e ainda do Ministério dos Negócios Estrangeiros e do Ministério das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 1/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1996-621551), publicado em 1996-01-04.",
+    "excerto": "Artigo único. O artigo 4.º do Decreto-Lei n.º 99/94, de 19 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\nCoordenação do QCA\n\n1 - A coordenação das negociações e da execução global do QCA em todas as suas vertentes incumbe a uma comissão governamental de coordenação dos fundos comunitários, de modo a assegurar a eficácia e a unidade dos respectivos processos.\n\n2 - A comissão governamental referida no número anterior é composta pelo Ministro do Planeamento e da Administração do Território, que preside, e por membros do Governo dos ministérios que tutelam as entidades responsáveis pela gestão das intervenções operacionais incluídas no QCA, e ainda do Ministério dos Negócios Estrangeiros e do Ministério das Finanças.»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:264966:por",
+    "alterador": "pt:dre:621551:por"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "artigo": "69.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 69.º — Organização\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática e termina em 15 de Julho seguinte.\n\n2 - O estágio pode ser prolongado pelo tempo necessário, havendo motivo justificado, por deliberação do respectivo conselho superior ou sob proposta do director do CEJ.",
+    "depois": "###### Artigo 69.º — Organização\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática e termina em 15 de Julho seguinte.\n\n2 - A duração do período de estágio pode, excepcionalmente, havendo motivo justificado, ser alterado, mediante deliberação do respectivo Conselho Superior, ouvido o director do Centro de Estudos Judiciários.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-2000-514813), publicado em 2000-03-20.",
+    "excerto": "O n.º 2 do artigo 69.º da Lei n.º 16/98, de 8 de Abril, passa a ter a seguinte redacção:\n\n«2 - A duração do período de estágio pode, excepcionalmente, havendo motivo justificado, ser alterado, mediante deliberação do respectivo Conselho Superior, ouvido o director do Centro de Estudos Judiciários.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:165851:por",
+    "alterador": "pt:dre:514813:por"
+  },
+  {
+    "artigo": "58.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 58.º — Organização\n\n1 - A fase de actividades teórico-práticas tem duração de 22 meses, com início no dia 15 do mês de Setembro subsequente à data da abertura do concurso de ingresso e termo em 15 de Julho.\n\n2 - A fase a que se refere o número anterior decorre na sede do CEJ, sob a orientação de docentes, e nos tribunais, sob a orientação de formadores.",
+    "depois": "###### Artigo 58.º — Organização\n\n1 - A fase de actividades teórico-práticas tem a duração de 22 meses, com início no dia 15 de Setembro subsequente à data da abertura do concurso de ingresso e termo em 15 de Julho, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - A fase a que se refere o número anterior decorre na sede do CEJ, sob a orientação de docentes, e nos tribunais, sob a orientação de formadores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.",
+    "excerto": "Os artigos 58.º, 59.º e 69.º da Lei n.º 16/98, de 8 de Abril, passam a ter a seguinte redacção:\n\n«Artigo 58.º\n\n[...]\n\n1 - A fase de actividades teórico-práticas tem a duração de 22 meses, com início no dia 15 de Setembro subsequente à data da abertura do concurso de ingresso e termo em 15 de Julho, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - ...\n\nArtigo 59.º\n\n[...]\n\n1 - (Redacção do anterior corpo artigo.)\n\n2 - Quando ocorra uma situação de manifesta carência de magistrados que importe suprir com urgência, o Ministro da Justiça, após a apresentação de proposta pelo Conselho Superior da Magistratura ou pela Procuradoria-Geral da República e ouvido o director do Centro de Estudos Judiciários, pode, por despacho fundamentado, alterar os prazos de decurso dos períodos referidos no número anterior.\n\nArtigo 69.º\n\n[...]\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - O estágio tem a duração de 10 meses, salvo se a duração for alterada nos termos do artigo seguinte.\n\n3 - (Actual redacção do n.º 2 do artigo 69.º da Lei n.º 16/98, de 8 de Abril, com a redacção dada pela Lei n.º 3/2000, de 20 de Março.)»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165851:por",
+    "alterador": "pt:dre:239226:por"
+  },
+  {
+    "artigo": "59.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 59.º — Ciclos de actividades\n\nAs actividades teórico-práticas desenvolvem-se pelos seguintes períodos:\n\na) De 15 de Setembro a 31 de Março, na sede do CEJ;\n\nb) De 1 de Abril a 31 de Março, nos tribunais;\n\nc) De 1 de Abril a 15 de Julho, na sede do CEJ.",
+    "depois": "###### Artigo 59.º — Ciclos de actividades\n\n1 - (Redacção do anterior corpo artigo.)\n\n2 - Quando ocorra uma situação de manifesta carência de magistrados que importe suprir com urgência, o Ministro da Justiça, após a apresentação de proposta pelo Conselho Superior da Magistratura ou pela Procuradoria-Geral da República e ouvido o director do Centro de Estudos Judiciários, pode, por despacho fundamentado, alterar os prazos de decurso dos períodos referidos no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.",
+    "excerto": "Os artigos 58.º, 59.º e 69.º da Lei n.º 16/98, de 8 de Abril, passam a ter a seguinte redacção:\n\n«Artigo 58.º\n\n[...]\n\n1 - A fase de actividades teórico-práticas tem a duração de 22 meses, com início no dia 15 de Setembro subsequente à data da abertura do concurso de ingresso e termo em 15 de Julho, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - ...\n\nArtigo 59.º\n\n[...]\n\n1 - (Redacção do anterior corpo artigo.)\n\n2 - Quando ocorra uma situação de manifesta carência de magistrados que importe suprir com urgência, o Ministro da Justiça, após a apresentação de proposta pelo Conselho Superior da Magistratura ou pela Procuradoria-Geral da República e ouvido o director do Centro de Estudos Judiciários, pode, por despacho fundamentado, alterar os prazos de decurso dos períodos referidos no número anterior.\n\nArtigo 69.º\n\n[...]\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - O estágio tem a duração de 10 meses, salvo se a duração for alterada nos termos do artigo seguinte.\n\n3 - (Actual redacção do n.º 2 do artigo 69.º da Lei n.º 16/98, de 8 de Abril, com a redacção dada pela Lei n.º 3/2000, de 20 de Março.)»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165851:por",
+    "alterador": "pt:dre:239226:por"
+  },
+  {
+    "artigo": "69.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 69.º — Organização\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática e termina em 15 de Julho seguinte.\n\n2 - A duração do período de estágio pode, excepcionalmente, havendo motivo justificado, ser alterado, mediante deliberação do respectivo Conselho Superior, ouvido o director do Centro de Estudos Judiciários.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-2000-514813), publicado em 2000-03-20.",
+    "depois": "###### Artigo 69.º — Organização\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - O estágio tem a duração de 10 meses, salvo se a duração for alterada nos termos do artigo seguinte.\n\n3 - (Actual redacção do n.º 2 do artigo 69.º da Lei n.º 16/98, de 8 de Abril, com a redacção dada pela Lei n.º 3/2000, de 20 de Março.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-2000-514813), publicado em 2000-03-20.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.",
+    "excerto": "Os artigos 58.º, 59.º e 69.º da Lei n.º 16/98, de 8 de Abril, passam a ter a seguinte redacção:\n\n«Artigo 58.º\n\n[...]\n\n1 - A fase de actividades teórico-práticas tem a duração de 22 meses, com início no dia 15 de Setembro subsequente à data da abertura do concurso de ingresso e termo em 15 de Julho, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - ...\n\nArtigo 59.º\n\n[...]\n\n1 - (Redacção do anterior corpo artigo.)\n\n2 - Quando ocorra uma situação de manifesta carência de magistrados que importe suprir com urgência, o Ministro da Justiça, após a apresentação de proposta pelo Conselho Superior da Magistratura ou pela Procuradoria-Geral da República e ouvido o director do Centro de Estudos Judiciários, pode, por despacho fundamentado, alterar os prazos de decurso dos períodos referidos no número anterior.\n\nArtigo 69.º\n\n[...]\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - O estágio tem a duração de 10 meses, salvo se a duração for alterada nos termos do artigo seguinte.\n\n3 - (Actual redacção do n.º 2 do artigo 69.º da Lei n.º 16/98, de 8 de Abril, com a redacção dada pela Lei n.º 3/2000, de 20 de Março.)»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165851:por",
+    "alterador": "pt:dre:239226:por"
+  }
+]

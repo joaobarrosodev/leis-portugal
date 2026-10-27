@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Composição\n\n1 - O Conselho é presidido pelo Ministro da Reforma do Estado e da Administração Pública e tem a seguinte composição:\n\na) Secretário de Estado da Administração Pública e da Modernização Administrativa;\n\nb) Secretário de Estado do Orçamento;\n\nc) Secretário de Estado da Administração Local;\n\nd) Secretário-geral do Conselho;\n\ne) Presidente do Instituto Nacional de Administração;\n\nf) Presidente do Centro de Estudos de Formação Autárquica;\n\ng) Presidente do Instituto para a Inovação na Administração do Estado;\n\nh) Director-geral da Administração Pública;\n\ni) Inspector-geral da Administração Pública;\n\nj) Director-geral do Orçamento;\n\nk) Director-geral das Autarquias Locais;\n\nl) Director-geral do Departamento de Recursos Humanos da Saúde;\n\nm) Director-geral da Administração Educativa;\n\nn) Um representante das universidades, a designar pelo Conselho de Reitores;\n\no) Um representante de cada uma das Regiões Autónomas, designado pelo respectivo Governo Regional;\n\np) Um representante da Associação Nacional de Municípios Portugueses;\n\nq) Um representante da Associação Nacional de Freguesias;\n\nr) Seis representantes das organizações sindicais representativas dos trabalhadores da Administração Pública;\n\ns) Até sete individualidades designadas pelo Ministro da Reforma do Estado e da Administração Pública;\n\nt) Secretário-geral-adjunto do Conselho, sem direito a voto.\n\n2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a abordar, individualidades não referidas no número precedente.\n\n3 - O presidente faz-se substituir, nas suas faltas e impedimentos, pelo Secretário de Estado da Administração Pública e da Modernização Administrativa.",
+    "depois": "###### Artigo 3.º — Composição\n\n1 - O Conselho é presidido pelo Ministro da Reforma do Estado e da Administração Pública e tem a seguinte composição:\n\na) Secretário de Estado da Administração Pública e da Modernização Administrativa;\n\nb) Secretário de Estado do Orçamento;\n\nc) Secretário de Estado da Administração Local;\n\nd) Presidente do Instituto Nacional de Administração;\n\ne) Presidente do Centro de Estudos e Formação Autárquica;\n\nf) Presidente do Instituto para a Inovação na Administração do Estado;\n\ng) Director-geral da Administração Pública;\n\nh) Inspector-geral da Administração Pública;\n\ni) Secretário-geral do Ministério da Reforma do Estado e da Administração Pública;\n\nj) Director-geral do Orçamento;\n\nk) Director-geral das Autarquias Locais;\n\nl) Director-geral do Departamento dos Recursos Humanos da Saúde;\n\nm) Director-geral da Administração Educativa;\n\nn) Um representante das universidades, a designar pelo Conselho de Reitores;\n\no) Um representante de cada uma das Regiões Autónomas, designado pelo respectivo Governo Regional;\n\np) Um representante da Associação Nacional de Municípios Portugueses;\n\nq) Um representante da Associação Nacional de Freguesias;\n\nr) Seis representantes das organizações sindicais representativas dos trabalhadores da Administração Pública;\n\ns) Até sete individualidades designadas pelo Ministro da Reforma do Estado e da Administração Pública.\n\n2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a abordar, individualidades não referidas no número precedente.\n\n3 - O presidente faz-se substituir, nas suas faltas e impedimentos, pelo Secretário de Estado da Administração Pública e da Modernização Administrativa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.",
+    "excerto": "1 - Os artigos 3.º, n.º 1, e 4.º do Decreto-Lei n.º 67/2001, de 22 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Presidente do Instituto Nacional de Administração;\n\ne) Presidente do Centro de Estudos e Formação Autárquica;\n\nf) Presidente do Instituto para a Inovação na Administração do Estado;\n\ng) Director-geral da Administração Pública;\n\nh) Inspector-geral da Administração Pública;\n\ni) Secretário-geral do Ministério da Reforma do Estado e da Administração Pública;\n\nj) Director-geral do Orçamento;\n\nk) Director-geral das Autarquias Locais;\n\nl) Director-geral do Departamento dos Recursos Humanos da Saúde;\n\nm) Director-geral da Administração Educativa;\n\nn) Um representante das universidades, a designar pelo Conselho de Reitores;\n\no) Um representante de cada uma das Regiões Autónomas, designado pelo respectivo Governo Regional;\n\np) Um representante da Associação Nacional de Municípios Portugueses;\n\nq) Um representante da Associação Nacional de Freguesias;\n\nr) Seis representantes das organizações sindicais representativas dos trabalhadores da Administração Pública;\n\ns) Até sete individualidades designadas pelo Ministro da Reforma do Estado e da Administração Pública.\n\n2 - ...\n\n3 - ...\n\nArtigo 4.º\n\n[...]\n\n1 - ...\n\n2 - Ao secretário-geral do Ministério da Reforma do Estado e da Administração Pública compete assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:386784:por",
+    "alterador": "pt:dre:300610:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º — Quadro de pessoal\n\n1 - O Conselho dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma.\n\n2 - O secretário-geral e o secretário-geral-adjunto são equiparados, para todos os efeitos legais, designadamente remuneração, direitos e regalias, a director-geral e subdirector-geral, respectivamente, sendo recrutados nos termos previstos na [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho.",
+    "depois": "###### Artigo 8.º — Quadro de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.",
+    "excerto": "2 - São revogados os artigos 8.º e 9.º do Decreto-Lei n.º 67/2001, de 22 de Fevereiro.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:386784:por",
+    "alterador": "pt:dre:300610:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 9.º — Meios técnicos e humanos\n\n1 - O Conselho disporá dos meios técnicos e humanos indispensáveis à consecução das suas atribuições, sendo o apoio prestado pela Secretaria-Geral do Ministério, sem prejuízo do recurso aos instrumentos de mobilidade previstos na legislação geral aplicável sobre a matéria.\n\n2 - Às requisições e destacamentos de pessoal para o Conselho é aplicável o disposto no n.º 5 do artigo 27.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.",
+    "depois": "###### Artigo 9.º — Meios técnicos e humanos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.",
+    "excerto": "2 - São revogados os artigos 8.º e 9.º do Decreto-Lei n.º 67/2001, de 22 de Fevereiro.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:386784:por",
+    "alterador": "pt:dre:300610:por"
+  }
+]

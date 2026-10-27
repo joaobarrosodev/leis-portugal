@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 7.º\n\n1. A pena de prisão de três dias a dois anos será sempre aplicada quando se verifique qualquer das circunstâncias atenuantes 1.ª, 2.ª, 3.ª ou 4.ª\n\n2. A pena de suspensão temporária de todos os direitos políticos prevista na alínea b) do artigo 5.º será sempre aplicada quando se verifique qualquer das circunstâncias atenuantes 5.ª, 6.ª ou 7.ª\n\n3. Na aplicação destas penas cumprir-se-á o disposto no artigo 8.º da [Lei n.º 8/75](https://diariodarepublica.pt/dr/detalhe/lei/8-1975-336482), de 25 de Julho.",
+    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 1/77](https://diariodarepublica.pt/dr/detalhe/lei/1-1977-534385), publicado em 1977-01-12.",
+    "excerto": "É revogado o artigo 7.º do Decreto-Lei n.º 349/76, de 13 de Maio.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:427826:por",
+    "alterador": "pt:dre:534385:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "146.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 146.º\n\n..\n\n§ único. Só se considera assegurado o pagamento mediante qualquer das garantias no § 1.º do artigo 136.º",
+    "depois": "###### Artigo 146.º\n\n..\n\n§ único. Só se considera assegurado o pagamento mediante qualquer das garantias referidas no § 1.º do artigo 136.º\n\n> Retificado pelo/a [Declaração de Rectificação n.º 103/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/103-1994-667960), publicado em 1994-07-30.",
+    "excerto": "No § único do artigo 146.º, onde se lê «Só se considera assegurado o pagamento mediante qualquer das garantias no § 1.º do artigo 136.º» deve ler-se «Só se considera assegurado o pagamento mediante qualquer das garantias referidas no § 1.º do artigo 136.º».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:256434:por",
+    "alterador": "pt:dre:667960:por"
+  }
+]

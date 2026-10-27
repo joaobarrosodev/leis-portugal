@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º\n\nA fim de fortalecer a capacidade concorrencial das actividades produtivas nacionais nos mercados interno e externo, designadamente nos sectores que desempenham acção motora no processo de desenvolvimento económico, o Governo instituirá temporàriamente:\n\na) A isenção ou redução de direitos que incidam sobre a importação de determinadas matérias-primas e bens de equipamento;\n\nb) A dedução, na matéria colectável da contribuição industrial, de uma percentagem do valor de investimentos que conduzam a novos fabricos ou à redução do custo ou melhoria de qualidade dos produtos que as empresas já fabriquem;\n\nc) A aceleração do regime de reintegrações e amortizações previstas no n.º 7.º do artigo 26.º do código aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963.\n\n§ único. O Conselho de Ministros para os Assuntos Económicos, mediante proposta dos Ministros das Finanças e da Economia, definirá, até 31 de Janeiro de 1968, atenta a conjuntura económico-financeira e os objectivos visados na fase inicial da execução do III Plano de Fomento, os bens e actividades a que se poderão aplicar as providências indicadas no corpo deste artigo.",
+    "depois": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), publicado em 1980-06-19.",
+    "excerto": "Fica revogado o artigo 8.º da Lei n.º 2134, de 20 de Dezembro de 1967, e a Lei n.º 3/72, de 27 de Maio, quanto às disposições nela inseridas respeitantes à matéria fiscal e quanto aos sectores contemplados no presente diploma.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401695:por",
+    "alterador": "pt:dre:472943:por"
+  }
+]

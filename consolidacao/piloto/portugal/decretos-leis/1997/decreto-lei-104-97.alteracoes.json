@@ -1,0 +1,46 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "aditar",
+    "regra": "aditamento de número ou alínea",
+    "antes": "###### Artigo 11.º — Património e bens dominiais\n\n1 - A universalidade dos bens, direitos e obrigações na titularidade ou de responsabilidade do GNFL, do GNFP e do GECAF é globalmente transferida para a REFER, E. P.\n\n2 - As infra-estruturas afectas à CP - Caminhos de Ferro Portugueses, E. P., são transferidas para a REFER E. P., sem alteração de regime.\n\n3 - Os direitos e obrigações que integrem o património da CP - Caminhos de Ferro Portugueses, E. P., afectos às infra-estruturas integrantes do domínio público ferroviário, são transferidos para a REFER, E. P., sem alteração de regime, acompanhando o faseamento referido no artigo seguinte.\n\n4 - O disposto no número anterior é aplicável aos bens que à data das transferências aí previstas hajam sido desafectados do domínio público ferroviário nos termos do Decreto-Lei n.º 269/92, de 28 de Novembro.",
+    "depois": "###### Artigo 11.º — Património e bens dominiais\n\n1 - A universalidade dos bens, direitos e obrigações na titularidade ou de responsabilidade do GNFL, do GNFP e do GECAF é globalmente transferida para a REFER, E. P.\n\n2 - As infra-estruturas afectas à CP - Caminhos de Ferro Portugueses, E. P., são transferidas para a REFER E. P., sem alteração de regime.\n\n3 - Os direitos e obrigações que integrem o património da CP - Caminhos de Ferro Portugueses, E. P., afectos às infra-estruturas integrantes do domínio público ferroviário, são transferidos para a REFER, E. P., sem alteração de regime, acompanhando o faseamento referido no artigo seguinte.\n\n4 - O disposto no número anterior é aplicável aos bens que à data das transferências aí previstas hajam sido desafectados do domínio público ferroviário nos termos do Decreto-Lei n.º 269/92, de 28 de Novembro.\n\n5 - Excluem-se do regime disposto nos n.os 2 e 3 as infra-estruturas e os respectivos direitos e obrigações transferidos para a Metro do Porto, S. A., nos termos da lei que aprovou as bases da concessão do sistema do metro ligeiro da área metropolitana do Porto.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 394-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-a-1998-324333), publicado em 1998-12-15.",
+    "excerto": "3 - É aditado um n.º 5 ao artigo 11.º do Decreto-Lei n.º 104/97, de 29 de Abril, com a seguinte redacção:\n\n«5 - Excluem-se do regime disposto nos n.os 2 e 3 as infra-estruturas e os respectivos direitos e obrigações transferidos para a Metro do Porto, S. A., nos termos da lei que aprovou as bases da concessão do sistema do metro ligeiro da área metropolitana do Porto.»",
+    "artigo_alterador": "6.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "5"
+    ],
+    "diploma": "pt:dre:476739:por",
+    "alterador": "pt:dre:324333:por"
+  },
+  {
+    "artigo": "ANEXO I — (a que se refere o n.º 1 do artigo 1.º)::3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Prossecução do objecto\n\n1 - A REFER, E. P., pode praticar todos os actos de gestão necessários ou convenientes à prossecução do seu objecto.\n\n2 - A REFER, E. P., conserva os direitos e assume as responsabilidades atribuídas ao Estado relativamente ao domínio público ferroviário nas disposições legais e regulamentares aplicáveis, e exerce ainda os direitos seguintes:\n\na) De cobrança de taxas que lhe sejam devidas, nos termos da lei, sendo os créditos correspondentes equiparados aos créditos do Estado para todos os efeitos legais e constituindo título executivo as respectivas facturas, certidões de dívida ou documentos equivalentes;\n\nb) De fixação e cobrança de preços pela exploração ou utilização de bens do património que lhe fica afecto;\n\nc) De fiscalização dos serviços e aplicação das consequentes sanções.",
+    "depois": "###### Artigo 3.º — Prossecução do objecto\n\n1 - A REFER, E. P., pode praticar todos os actos de gestão necessários ou convenientes à prossecução do seu objecto.\n\n2 - A REFER, E. P., conserva os direitos e assume as responsabilidades atribuídas ao Estado relativamente ao domínio público ferroviário nas disposições legais e regulamentares aplicáveis, e exerce ainda os direitos seguintes:\n\na) De cobrança de taxas e tarifas devidas pela utilização da infra-estrutura exigíveis nos termos da lei, sendo os créditos correspondentes equiparados aos créditos do Estado para todos os efeitos legais, e constituindo títulos executivos as respectivas facturas, certidões de dívida ou documentos equivalentes, sem prejuízo do disposto no artigo 46.º do Código de Processo Civil;\n\n...\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 270/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2003-466832), publicado em 2003-10-28.",
+    "excerto": "4 - A alínea a) do n.º 2 do artigo 3.º dos Estatutos da REFER, E. P., aprovados pelo Decreto-Lei n.º 104/97, de 29 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) De cobrança de taxas e tarifas devidas pela utilização da infra-estrutura exigíveis nos termos da lei, sendo os créditos correspondentes equiparados aos créditos do Estado para todos os efeitos legais, e constituindo títulos executivos as respectivas facturas, certidões de dívida ou documentos equivalentes, sem prejuízo do disposto no artigo 46.º do Código de Processo Civil;\n\n...»",
+    "artigo_alterador": "81.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476739:por",
+    "alterador": "pt:dre:466832:por"
+  },
+  {
+    "artigo": "ANEXO I — (a que se refere o n.º 1 do artigo 1.º)::19.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 19.º — Receitas\n\nConstituem receitas da REFER, E. P.:\n\na) As taxas de utilização da infra-estrutura e outros proveitos resultantes do exercício da sua actividade e do aproveitamento da infra-estrutura, designadamente os resultantes de serviços e prestações acessórios, e bem assim, os emergentes do recurso aos meios previstos no Decreto-Lei n.º 269/92, de 28 de Novembro;\n\nb) Os rendimentos de bens próprios;\n\nc) As comparticipações, dotações, subsídios e compensações financeiras do Estado ou de outras entidades públicas;\n\nd) O produto da alienação de bens próprios e da constituição de direitos sobre eles;\n\ne) O produto de doações, heranças ou legados que lhe sejam destinados;\n\nf) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, devam pertencer-lhe.",
+    "depois": "###### Artigo 19.º — Receitas\n\nConstituem receitas da REFER, E. P.:\n\na) As tarifas devidas pela utilização da infra-estrutura e outros proveitos resultantes do exercício da sua actividade e do aproveitamento da infra-estrutura, designadamente os resultantes de serviços e prestações acessórios e, bem assim, os emergentes do recurso aos meios previstos no Decreto-Lei n.º 269/92, de 28 de Novembro;\n\n...\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 270/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2003-466832), publicado em 2003-10-28.",
+    "excerto": "5 - A alínea a) do artigo 19.º dos Estatutos da REFER, E. P., aprovados pelo Decreto-Lei n.º 104/97, de 29 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 19.º\n\n[...]\n\n...\n\na) As tarifas devidas pela utilização da infra-estrutura e outros proveitos resultantes do exercício da sua actividade e do aproveitamento da infra-estrutura, designadamente os resultantes de serviços e prestações acessórios e, bem assim, os emergentes do recurso aos meios previstos no Decreto-Lei n.º 269/92, de 28 de Novembro;\n\n...»",
+    "artigo_alterador": "81.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476739:por",
+    "alterador": "pt:dre:466832:por"
+  }
+]

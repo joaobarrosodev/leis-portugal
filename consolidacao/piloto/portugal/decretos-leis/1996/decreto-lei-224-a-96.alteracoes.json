@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "131.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 131.º — Destino das receitas\n\n1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, ainda que por lei constituam receita do Estado ou de outras entidades;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\n2 - Das receitas mencionadas na alínea b) do número anterior, revertem 40% para o Serviço Social do Ministério da Justiça e 20% para o Instituto de Reinserção Social.\n\n3 - Incumbe ao Cofre Geral dos Tribunais envio trimestral das receitas referidas no número anterior às entidades a que se destinam.",
+    "depois": "###### Artigo 131.º — Destino das receitas\n\n1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\n2 - Das receitas mencionadas na alínea b) do número anterior, revertem 40% para o Serviço Social do Ministério da Justiça e 20% para o Instituto de Reinserção Social.\n\n3 - Incumbe ao Cofre Geral dos Tribunais o envio trimestral das receitas referidas na alínea a) do n.º 1 e no número anterior às entidades a que se destinam, sendo, no âmbito do sistema de segurança social, competente, para tal efeito, o Instituto de Gestão Financeira da Segurança Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1997-469177), publicado em 1997-04-22.",
+    "excerto": "O artigo 131.º do Código das Custas Judiciais, aprovado pelo artigo 1.º do Decreto-Lei n.º 224-A/96, de 26 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 131.º\n\n[...]\n\n1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n2 - ...\n\n3 - Incumbe ao Cofre Geral dos Tribunais o envio trimestral das receitas referidas na alínea a) do n.º 1 e no número anterior às entidades a que se destinam, sendo, no âmbito do sistema de segurança social, competente, para tal efeito, o Instituto de Gestão Financeira da Segurança Social.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:553668:por",
+    "alterador": "pt:dre:469177:por"
+  }
+]

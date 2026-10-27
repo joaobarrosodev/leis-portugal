@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "32.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 32.º — Regime de contrato individual de trabalho\n\n1 - Sem prejuízo do disposto no artigo anterior, o maestro titular, o maestro assistente, o pessoal de orquestra, bem como o restante pessoal da ONP que exerce funções de natureza artístico-técnica, ficam sujeitos ao regime do contrato individual de trabalho.\n\n2 - Os parâmetros a que deve obedecer o sistema retributivo do pessoal referido no número anterior serão aprovados por portaria conjunta dos Ministros das Finanças e da Cultura, por proposta da direcção.\n\n3 - A ONP pode estabelecer acordos de associação artística regular com músicos, independentemente da natureza jurídica dos respectivos laços contratuais com a ONP.\n\n4 - A ONP pode ser parte em instrumentos de regulamentação colectiva de trabalho.",
+    "depois": "###### Artigo 32.º — Regime de contratação\n\n1 - Sem prejuízo do disposto no artigo anterior, o pessoal de orquestra e o restante pessoal da ONP que exerce funções de natureza artístico-técnica ficam sujeitos ao regime de contrato individual de trabalho.\n\n2 - O disposto no número anterior não se aplica ao maestro titular e ao maestro assistente, ficando estes sujeitos, no que se refere ao seu vínculo contratual com a ONP, a qualquer regime de direito privado que, nos termos da lei geral, seja aplicável ao caso concreto.\n\n3 - Os parâmetros a que deve obedecer o sistema retributivo do pessoal referido no número anterior serão aprovados por portaria conjunta dos Ministros das Finanças e da Cultura, por proposta da direcção.\n\n4 - A ONP pode estabelecer acordos de associação artística regular com músicos, independentemente da natureza jurídica dos respectivos laços contratuais com a ONP.\n\n5 - A ONP pode ser parte em instrumentos de regulamentação colectiva de trabalho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1999-168997), publicado em 1999-02-05.",
+    "excerto": "O artigo 32.º do Decreto-Lei n.º 243/97, de 18 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 32.º\n\nRegime de contratação\n\n1 - Sem prejuízo do disposto no artigo anterior, o pessoal de orquestra e o restante pessoal da ONP que exerce funções de natureza artístico-técnica ficam sujeitos ao regime de contrato individual de trabalho.\n\n2 - O disposto no número anterior não se aplica ao maestro titular e ao maestro assistente, ficando estes sujeitos, no que se refere ao seu vínculo contratual com a ONP, a qualquer regime de direito privado que, nos termos da lei geral, seja aplicável ao caso concreto.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:652770:por",
+    "alterador": "pt:dre:168997:por"
+  }
+]

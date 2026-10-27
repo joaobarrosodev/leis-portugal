@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 10.º\n\nA aplicação do regime estabelecido neste diploma relativamente aos projectos de investimento em curso, aquando da sua entrada em vigor, será decidida caso a caso pelos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças.",
+    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.",
+    "excerto": "Art. 2.º É revogado o artigo 10.º do Decreto Regulamentar Regional n.º 12/83/M, de 25 de Junho.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:452510:por",
+    "alterador": "pt:dre:665705:por"
+  }
+]

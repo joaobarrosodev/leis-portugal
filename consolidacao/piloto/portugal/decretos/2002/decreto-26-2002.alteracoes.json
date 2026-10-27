@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 1.º — Exclusão do regime florestal parcial\n\n1 - É excluída do regime florestal parcial, ao qual foi submetida pelo Decreto de 11 de Maio de 1961, uma parcela de terreno com a área de 1,30 ha, a qual está integrada no perímetro florestal de Mourão, conforme planta em anexo ao presente diploma, do qual faz parte integrante.\n\n2 - A parcela de terreno referida no número anterior localiza-se na vila de Mourão e destina-se à construção do novo Centro de Saúde de Mourão, bem como à melhoria do espaço envolvente, de modo a eliminar as lixeiras aí existentes.\n\n3 - Caso não venha a concretizar-se o uso referido no n.º 2 no prazo de três anos a partir da data da publicação do presente decreto, a área em causa será novamente integrada no perímetro florestal de Mourão.",
+    "depois": "###### Artigo 1.º — Exclusão do regime florestal parcial\n\n1 - É excluída do regime florestal parcial, ao qual foi submetida pelo Decreto de 11 de Maio de 1961, uma parcela de terreno com a área de 1,30 ha, a qual está integrada no perímetro florestal de Mourão, conforme planta em anexo ao presente diploma, do qual faz parte integrante.\n\n2 - A parcela de terreno referida no número anterior localiza-se na vila de Mourão e destina-se à construção do novo Centro de Saúde de Mourão, bem como à melhoria do espaço envolvente, de modo a eliminar as lixeiras aí existentes.\n\n3 - Caso não se venha a concretizar o uso referido no n.º 2 até ao final do ano de 2008, a área em causa será novamente incluída no Perímetro Florestal de Mourão e como tal submetida a regime florestal parcial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/decreto/8-2007-520661), publicado em 2007-05-11.",
+    "excerto": "O artigo 1.º do Decreto n.º 26/2002, de 21 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n1 - ...\n\n2 - ...\n\n3 - Caso não se venha a concretizar o uso referido no n.º 2 até ao final do ano de 2008, a área em causa será novamente incluída no Perímetro Florestal de Mourão e como tal submetida a regime florestal parcial.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:172309:por",
+    "alterador": "pt:dre:520661:por"
+  }
+]

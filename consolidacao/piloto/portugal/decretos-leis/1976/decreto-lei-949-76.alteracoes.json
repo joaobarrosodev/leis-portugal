@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "27.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 27.º\n\n1. O Conselho das Armas e Serviços do Exército (CASE) é um órgão de conselho do CEME, competindo-lhe:\n\na) Pronunciar-se sobre os assuntos relativos à melhoria da condição militar;\n\nb) Aconselhar sobre os critérios que visem a uniformização do funcionamento dos conselhos das armas e dos conselhos dos serviços e também dos critérios a adoptar na resolução dos assuntos da competência daqueles conselhos.\n\n2. O CASE é composto pelo conjunto dos conselhos das armas e dos serviços de administração militar, de saúde, de material, geral do Exército e Inspecção das Bandas e Fanfarras do Exército, reunindo em plenário ou por delegações, por convocação do CEME:\n\na) Por iniciativa do próprio CEME, que é o seu presidente nato;\n\nb) A pedido, considerado justificado, de um ou mais conselhos.",
+    "depois": "###### Artigo 27.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 457/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1977-196912), publicado em 1977-11-04.",
+    "excerto": "Art. 2.º É revogado o artigo 27.º do Decreto-Lei n.º 949/76, de 31 de Dezembro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:390833:por",
+    "alterador": "pt:dre:196912:por"
+  }
+]

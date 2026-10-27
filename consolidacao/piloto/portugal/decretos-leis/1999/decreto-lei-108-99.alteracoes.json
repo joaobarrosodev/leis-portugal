@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º — Comunicação prévia\n\n1 - O preparador de vinho espumante deve comunicar ao Instituto da Vinha e do Vinho (IVV), com a antecedência mínima de 10 dias, o início do engarrafamento, quando obtido pelo método de fermentação em garrafa, bem como o período previsível de laboração, nos restantes casos.\n\n2 - Exceptuam-se do disposto no número anterior os vinhos espumantes de qualidade produzidos em região determinada e os vinhos espumantes de qualidade aos quais são aplicáveis as disposições sobre a matéria fixadas na respectiva regulamentação.",
+    "depois": "###### Artigo 4.º — Comunicação prévia\n\n(Revogado.)\n\n> Revogado pelo/a Artigo único do/a [Decreto-Lei n.º 73/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2003-239591), publicado em 2003-04-16.",
+    "excerto": "É revogado o artigo 4.º do Decreto-Lei n.º 108/99, de 31 de Março.",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138782:por",
+    "alterador": "pt:dre:239591:por"
+  }
+]

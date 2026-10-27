@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 3.º\n\n1 - A transição para as novas carreiras bem como o suplemento de função inspectiva estabelecido no [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312) de 6 de Abril, produzem efeitos reportados a 1 de Julho de 2000.\n\n2 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.",
+    "depois": "###### Artigo 3.º\n\n1 - A transição para as carreiras de inspecção operada pelo presente diploma produz efeitos reportados a 1 de Julho de 2000. O suplemento de função inspectiva previsto no artigo 24.º da orgânica da Inspecção Regional das Actividades Económicas, na redacção dada pelo presente diploma, produz efeitos reportados a 20 de Fevereiro de 2007.\n\n2 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 5/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2008-248005), publicado em 2008-02-19.",
+    "excerto": "O n.º 1 do artigo 3.º do Decreto Regulamentar Regional n.º 15/2002/M, de 18 de Setembro, passa a ter a seguinte redacção:\n\n«1 - A transição para as carreiras de inspecção operada pelo presente diploma produz efeitos reportados a 1 de Julho de 2000. O suplemento de função inspectiva previsto no artigo 24.º da orgânica da Inspecção Regional das Actividades Económicas, na redacção dada pelo presente diploma, produz efeitos reportados a 20 de Fevereiro de 2007.»",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "1"
+    ],
+    "diploma": "pt:dre:635211:por",
+    "alterador": "pt:dre:248005:por"
+  }
+]

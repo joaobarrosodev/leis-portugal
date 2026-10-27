@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º-A",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 1.º-A — Redução de períodos de compromisso\n\nA título excecional, no ano de 2012, os períodos dos compromissos previstos nas alíneas a) e b) do n.º 3 do artigo 16.º da Portaria n.º 229-B/2008, de 6 de março, com a redação dada pela Portaria n.º 814/2010, de 27 de agosto, são os seguintes:\n\na) De 1 de fevereiro a 30 de junho, para os bovinos declarados;\n\nb) De 1 de maio a 19 de julho, para os ovinos e caprinos declarados.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 370/2012](https://diariodarepublica.pt/dr/detalhe/portaria/370-2012-191988), publicado em 2012-11-09.",
+    "excerto": "É aditado à Portaria n.º 104/2012, de 17 de abril, o artigo 1.º-A, com a seguinte redação:\n\n«Artigo 1.º-A\n\nRedução de períodos de compromisso\n\nA título excecional, no ano de 2012, os períodos dos compromissos previstos nas alíneas a) e b) do n.º 3 do artigo 16.º da Portaria n.º 229-B/2008, de 6 de março, com a redação dada pela Portaria n.º 814/2010, de 27 de agosto, são os seguintes:\n\na) De 1 de fevereiro a 30 de junho, para os bovinos declarados;\n\nb) De 1 de maio a 19 de julho, para os ovinos e caprinos declarados.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:552790:por",
+    "alterador": "pt:dre:191988:por"
+  }
+]

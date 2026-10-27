@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 10.º — Despesas\n\n1 - Constituem despesas do FRI, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições, dividindo-se em normais e classificadas.\n\n2 - As despesas decorrentes do exercício das competências previstas nas alíneas d) e f) do n.º 2 do artigo 3.º podem ficar sujeitas ao regime de despesas classificadas, por despacho do membro do Governo da tutela.\n\n3 - As despesas classificadas são justificadas por documento do conselho directivo, assinado pelo seu presidente e outro membro.",
+    "depois": "###### Artigo 10.º — Despesas\n\n1 - Constituem despesas do FRI, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições, dividindo-se em normais e classificadas.\n\n2 - As despesas decorrentes do exercício das competências previstas na alínea f) do n.º 2 do artigo 3.º podem ficar sujeitas ao regime de despesas classificadas, por despacho do membro do Governo da tutela.\n\n3 - As despesas classificadas são justificadas por documento do conselho directivo, assinado pelo seu presidente e outro membro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2012-552547), publicado em 2012-04-11.",
+    "excerto": "O artigo 10.º do Decreto-Lei n.º 10/2012, de 19 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 10.º\n\n[...]\n\n1 - ...\n\n2 - As despesas decorrentes do exercício das competências previstas na alínea f) do n.º 2 do artigo 3.º podem ficar sujeitas ao regime de despesas classificadas, por despacho do membro do Governo da tutela.\n\n3 - ...»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:544172:por",
+    "alterador": "pt:dre:552547:por"
+  }
+]

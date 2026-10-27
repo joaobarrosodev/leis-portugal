@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 12.º\n\n1 - Os vencimentos a abonar aos professores de ensino português no estrangeiro serão fixados por despacho conjunto dos Ministros dos Negócios Estrangeiros, das Finanças e da Educação e do Secretário de Estado da Administração Pública, a publicar bienalmente no mês de Junho, o qual produzirá efeitos a partir do início do ano civil seguinte ao da sua publicação.\n\n2 - Os vencimentos referidos no número anterior são calculados para o horário constante da alínea a) do artigo anterior.\n\n3 - Os professores de ensino português no estrangeiro mantêm direito às diuturnidades, nos termos da lei geral, sendo o respectivo valor convertido e abonado em moeda local.",
+    "depois": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 341/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1984-400223), publicado em 1984-10-24.",
+    "excerto": "Art. 3.º É revogado o artigo 12.º do Decreto-Lei n.º 519-E/79.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510046:por",
+    "alterador": "pt:dre:400223:por"
+  }
+]

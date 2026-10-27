@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 7.º — Aplicação do regime da injunção\n\n1 - O atraso de pagamento em transacções comerciais, nos termos previstos no presente diploma, confere ao credor o direito a recorrer à injunção, independentemente do valor da dívida.\n\n2 - Para valores superiores à alçada do tribunal de 1.ª instância, a dedução de oposição no processo de injunção determina a remessa dos autos para o tribunal competente, aplicando-se a forma de processo comum.",
+    "depois": "###### Artigo 7.º — Procedimentos especiais\n\n1 - O atraso de pagamento em transacções comerciais, nos termos previstos no presente diploma, confere ao credor o direito a recorrer à injunção, independentemente do valor da dívida.\n\n2 - Para valores superiores à alçada da Relação, a dedução de oposição e a frustração da notificação no procedimento de injunção determinam a remessa dos autos para o tribunal competente, aplicando-se a forma de processo comum.\n\n3 - Recebidos os autos, o juiz pode convidar as partes a aperfeiçoar as peças processuais.\n\n4 - As acções destinadas a exigir o cumprimento das obrigações pecuniárias emergentes de transacções comerciais, nos termos previstos no presente diploma, de valor não superior à alçada da Relação seguem os termos da acção declarativa especial para cumprimento de obrigações pecuniárias emergentes de contratos.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), publicado em 2005-07-01.",
+    "excerto": "O artigo 7.º do Decreto-Lei n.º 32/2003, de 17 de Fevereiro, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\nProcedimentos especiais\n\n1 - ...\n\n2 - Para valores superiores à alçada da Relação, a dedução de oposição e a frustração da notificação no procedimento de injunção determinam a remessa dos autos para o tribunal competente, aplicando-se a forma de processo comum.\n\n3 - Recebidos os autos, o juiz pode convidar as partes a aperfeiçoar as peças processuais.\n\n4 - As acções destinadas a exigir o cumprimento das obrigações pecuniárias emergentes de transacções comerciais, nos termos previstos no presente diploma, de valor não superior à alçada da Relação seguem os termos da acção declarativa especial para cumprimento de obrigações pecuniárias emergentes de contratos.»",
+    "artigo_alterador": "5.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:189484:por",
+    "alterador": "pt:dre:233745:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 4.º — Juros e indemnização\n\n1 - Os juros aplicáveis aos atrasos de pagamento das transacções previstas no presente diploma são os estabelecidos no Código Comercial.\n\n2 - Sempre que do contrato não conste a data ou o prazo de pagamento, são devidos juros, os quais se vencem automaticamente, sem necessidade de novo aviso:\n\na) 30 dias após a data em que o devedor tiver recebido a factura ou documento equivalente;\n\nb) 30 dias após a data de recepção efectiva dos bens ou da prestação dos serviços quando a data de recepção da factura ou de documento equivalente seja incerta;\n\nc) 30 dias após a data de recepção efectiva dos bens ou da prestação dos serviços quando o devedor receba a factura ou documento equivalente antes do fornecimento dos bens ou da prestação dos serviços;\n\nd) 30 dias após a data de aceitação quando esteja previsto um processo mediante o qual deva ser determinada a conformidade dos bens ou serviços e o devedor receba a factura ou documento equivalente antes dessa aceitação.\n\n3 - O credor pode provar que a mora lhe causou dano superior aos juros referidos no n.º 1 e exigir a indemnização suplementar correspondente.",
+    "depois": "###### Artigo 4.º — Juros e indemnização\n\n1 - Os juros aplicáveis aos atrasos de pagamento das transacções previstas no presente diploma são os estabelecidos no Código Comercial.\n\n2 - Sempre que do contrato não conste a data ou o prazo de pagamento, são devidos juros, os quais se vencem automaticamente, sem necessidade de novo aviso:\n\na) 30 dias após a data em que o devedor tiver recebido a factura ou documento equivalente;\n\nb) 30 dias após a data de recepção efectiva dos bens ou da prestação dos serviços quando a data de recepção da factura ou de documento equivalente seja incerta;\n\nc) 30 dias após a data de recepção efectiva dos bens ou da prestação dos serviços quando o devedor receba a factura ou documento equivalente antes do fornecimento dos bens ou da prestação dos serviços;\n\nd) 30 dias após a data de aceitação ou verificação quando esteja previsto um processo mediante o qual deva ser determinada a conformidade dos bens ou serviços e o devedor receba a factura ou documento equivalente em data anterior.\n\n3 - O credor pode provar que a mora lhe causou dano superior aos juros referidos no n.º 1 e exigir a indemnização suplementar correspondente.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-2010-614148), publicado em 2010-04-27.",
+    "excerto": "1 - É alterado o artigo 4.º do Decreto-Lei n.º 32/2003, de 17 de Fevereiro, que passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) 30 dias após a data de aceitação ou verificação quando esteja previsto um processo mediante o qual deva ser determinada a conformidade dos bens ou serviços e o devedor receba a factura ou documento equivalente em data anterior.\n\n3 - ...»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:189484:por",
+    "alterador": "pt:dre:614148:por"
+  }
+]

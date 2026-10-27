@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 6.º — Número máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder 30.\n\n2 - A frequência global do curso não pode exceder 45 alunos.",
+    "depois": "###### Artigo 6.º — Número máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder 75.\n\n2 - A frequência global do curso não pode exceder 110 alunos.\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 371/2010](https://diariodarepublica.pt/dr/detalhe/portaria/371-2010-335223), publicado em 2010-06-23.",
+    "excerto": "O artigo 6.º da Portaria n.º 130/2010, de 1 de Março, passa a ter a seguinte redacção:\n\n«Artigo 6.º\n\nNúmero máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder 75.\n\n2 - A frequência global do curso não pode exceder 110 alunos.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:611289:por",
+    "alterador": "pt:dre:335223:por"
+  }
+]

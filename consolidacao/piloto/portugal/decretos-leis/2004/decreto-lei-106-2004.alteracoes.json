@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "15.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 15.º — Acidentes marítimos\n\n1 - A investigação técnica de acidentes que envolvam navios abrangidos pelo presente diploma é da competência do IPTM.\n\n2 - O IPTM dará a conhecer à OMI os relatórios dos acidentes, bem como os relatórios que possam contribuir para melhorar as regras da Convenção.\n\n3 - Os relatórios técnicos dos acidentes não podem ser utilizados para imputar responsabilidades, tanto às companhias dos navios acidentados, como às pessoas envolvidas.\n\n4 - A companhia ou o comandante deve informar o IPTM, de imediato, da ocorrência de qualquer acidente com os seus navios.",
+    "depois": "###### Artigo 15.º — Acidentes marítimos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 26.º do/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07.",
+    "excerto": "São revogados:\n\nc) O artigo 15.º do Decreto-Lei n.º 106/2004, de 8 de maio;",
+    "artigo_alterador": "26.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:302525:por",
+    "alterador": "pt:dre:553057:por"
+  }
+]

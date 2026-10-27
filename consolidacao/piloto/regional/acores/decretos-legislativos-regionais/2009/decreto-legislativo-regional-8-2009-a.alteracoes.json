@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 5.º — Apoio não reembolsável\n\n1 - Há lugar a atribuição do apoio não reembolsável quando o beneficiário se encontra em insuficiência de rendimentos para fazer face a situações de emergência resultantes de doença, realização de obras, aquisição de equipamento doméstico e acompanhamento de crianças em risco.\n\n2 - Para efeitos do disposto no número anterior, considera-se que o beneficiário se encontra em insuficiência de rendimentos quando, da aplicação da fórmula referida no n.º 3, se concluir que o rendimento per capita é inferior ao valor do indexante dos apoios sociais.\n\n3 - A capitação a considerar para efeitos do presente diploma resulta da aplicação da fórmula:\n\nCapitação = Rendimento líquido do agregado familiar/Número de pessoas do agregado familiar\n\n4 - O apoio tem como limite máximo cinco vezes o valor do indexante dos apoios sociais.",
+    "depois": "###### Artigo 5.º — Apoio não reembolsável\n\n1 - Há lugar a atribuição do apoio não reembolsável quando o beneficiário se encontra em insuficiência de rendimentos para fazer face a situações de emergência resultantes de doença, realização de obras, aquisição de equipamento doméstico e acompanhamento de crianças em risco.\n\n2 - Para efeitos do disposto no número anterior, considera-se que o beneficiário se encontra em insuficiência de rendimentos quando, da aplicação da fórmula referida no n.º 3, se concluir que o rendimento per capita é inferior ao valor do indexante dos apoios sociais.\n\n3 - A capitação a considerar para efeitos do presente regulamento resulta da aplicação da fórmula:\n\nCapitação = (Rendimento líquido do agregado familiar - Despesas)/Número de pessoas do agregado familiar\n\n4 - Para efeitos da aplicação da fórmula estabelecida no número anterior, são consideradas as despesas fiscais deduzidas à colecta, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS).\n\n5 - O apoio tem como limite máximo cinco vezes o valor do indexante dos apoios sociais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2011-145273), publicado em 2011-12-05.",
+    "excerto": "É alterado o artigo 5.º do Decreto Legislativo Regional n.º 8/2009/A, de 20 de Maio, que passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - A capitação a considerar para efeitos do presente regulamento resulta da aplicação da fórmula:\n\nCapitação = (Rendimento líquido do agregado familiar - Despesas)/Número de pessoas do agregado familiar\n\n4 - Para efeitos da aplicação da fórmula estabelecida no número anterior, são consideradas as despesas fiscais deduzidas à colecta, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS).\n\n5 - (Anterior n.º 4.)»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:608768:por",
+    "alterador": "pt:dre:145273:por"
+  }
+]

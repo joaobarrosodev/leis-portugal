@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 10.º — (Proibição de acumulação de pensões com exercício de actividade)\n\nOs pescadores cujas pensões de reforma sejam calculadas ao abrigo do presente diploma não podem acumular as respectivas pensões de reforma com remunerações auferidas, a qualquer título, por actividade exercida nas pescas.",
+    "depois": "###### Artigo 10.º — Proibição de acumulação de pensões com exercício de actividade\n\nOs titulares de pensões de velhice calculadas ou recalculadas por aplicação das normas do presente diploma perdem o direito às referidas prestação nos casos em que mantenham o exercício de actividade no mar a bordo de embarcações de pesca como inscritos marítimos e enquanto durar a mesma actividade.\n\n> Alterado pelo/a Artigo único do/a [Decreto Regulamentar n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1998-223994), publicado em 1998-02-04.",
+    "excerto": "É alterado o artigo 10.º do Decreto Regulamentar n.º 40/86, de 12 de Setembro, que passa a ter a seguinte redacção:\n\n«Artigo 10.º\n\nProibição de acumulação de pensões com exercício de actividade\n\nOs titulares de pensões de velhice calculadas ou recalculadas por aplicação das normas do presente diploma perdem o direito às referidas prestação nos casos em que mantenham o exercício de actividade no mar a bordo de embarcações de pesca como inscritos marítimos e enquanto durar a mesma actividade.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:587619:por",
+    "alterador": "pt:dre:223994:por"
+  }
+]

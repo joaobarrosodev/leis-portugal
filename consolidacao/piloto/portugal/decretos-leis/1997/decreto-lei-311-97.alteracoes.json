@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 11.º — Requerimento\n\n1 - O requerimento para a bonificação do tempo de serviço militar obrigatório previsto neste diploma deve ser apresentado no centro regional de segurança social que abranja o beneficiário, no caso de este se encontrar activo, e naquele que abranja a área da residência, no caso de o mesmo ser já pensionista.\n\n2 - O requerimento a que se refere o número anterior integra o pedido de cálculo do valor das contribuições a pagar e pode ser apresentado até à data em que o beneficiário requerer a atribuição da pensão de invalidez ou de velhice.\n\n3 - No caso de requerimento apresentado por beneficiário que à data da entrada em vigor deste diploma já seja pensionista pode o mesmo ser apresentado a todo o tempo.",
+    "depois": "###### Artigo 11.º — Requerimento\n\n1 - O requerimento para a bonificação do tempo de serviço militar obrigatório previsto neste diploma deve ser apresentado no centro regional de segurança social que abranja o beneficiário, no caso de este se encontrar activo, e naquele que abranja a área da residência, no caso de o mesmo ser já pensionista.\n\n2 - O requerimento a que se refere o número anterior integra o pedido de cálculo do valor das contribuições a pagar e pode ser apresentado até à data em que o beneficiário requerer a atribuição da pensão de invalidez ou de velhice.\n\n3 - No caso de requerimento apresentado por beneficiário que à data da entrada em vigor deste diploma já seja pensionista pode o mesmo ser apresentado a todo o tempo.\n\n4 - Nos casos em que a morte do beneficiário ocorra antes do pedido de bonificação, o requerimento a que se refere o n.º 1 pode ser apresentado, a todo o tempo, pelo conjunto dos familiares sobrevivos com direito à pensão de sobrevivência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.",
+    "excerto": "Os artigos 11.º e 13.º do Decreto-Lei n.º 311/97, de 13 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 11.º\n\nRequerimento\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Nos casos em que a morte do beneficiário ocorra antes do pedido de bonificação, o requerimento a que se refere o n.º 1 pode ser apresentado, a todo o tempo, pelo conjunto dos familiares sobrevivos com direito à pensão de sobrevivência.\n\nArtigo 13.º\n\nPagamento das contribuições\n\n1 - O pagamento das contribuições correspondentes aos períodos a considerar pode ser feito pelo interessado de uma só vez ou em prestações mensais de igual montante e em número não superior a 60.\n\n2 - No prazo de 90 dias a contar da data da notificação do despacho que defira o requerimento e fixe o montante das contribuições deve o interessado efectuar o pagamento ou manifestar a sua opção relativamente ao número de prestações a considerar, sob pena de caducar o direito à bonificação.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687466:por",
+    "alterador": "pt:dre:692183:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 13.º — Modo de pagamento das contribuições\n\nO pagamento das contribuições correspondentes aos períodos a considerar pode ser feito pelo interessado de uma só vez ou em prestações mensais de igual montante e em número não superior a 60.",
+    "depois": "###### Artigo 13.º — Pagamento das contribuições\n\n1 - O pagamento das contribuições correspondentes aos períodos a considerar pode ser feito pelo interessado de uma só vez ou em prestações mensais de igual montante e em número não superior a 60.\n\n2 - No prazo de 90 dias a contar da data da notificação do despacho que defira o requerimento e fixe o montante das contribuições deve o interessado efectuar o pagamento ou manifestar a sua opção relativamente ao número de prestações a considerar, sob pena de caducar o direito à bonificação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.",
+    "excerto": "Os artigos 11.º e 13.º do Decreto-Lei n.º 311/97, de 13 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 11.º\n\nRequerimento\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Nos casos em que a morte do beneficiário ocorra antes do pedido de bonificação, o requerimento a que se refere o n.º 1 pode ser apresentado, a todo o tempo, pelo conjunto dos familiares sobrevivos com direito à pensão de sobrevivência.\n\nArtigo 13.º\n\nPagamento das contribuições\n\n1 - O pagamento das contribuições correspondentes aos períodos a considerar pode ser feito pelo interessado de uma só vez ou em prestações mensais de igual montante e em número não superior a 60.\n\n2 - No prazo de 90 dias a contar da data da notificação do despacho que defira o requerimento e fixe o montante das contribuições deve o interessado efectuar o pagamento ou manifestar a sua opção relativamente ao número de prestações a considerar, sob pena de caducar o direito à bonificação.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687466:por",
+    "alterador": "pt:dre:692183:por"
+  },
+  {
+    "artigo": "13.º-A",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 13.º-A — Reembolso de contribuições\n\nNos casos de desistência do pagamento de contribuições, ou de morte do beneficiário, devem as instituições de segurança social, mediante requerimento dos interessados, devolver as quantias correspondentes às contribuições pagas e proceder à anulação dos respectivos registos.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.",
+    "excerto": "Ao Decreto-Lei n.º 311/97, de 13 de Novembro, são aditados os artigos seguintes:\n\n«Artigo 13.º-A\n\nReembolso de contribuições\n\nNos casos de desistência do pagamento de contribuições, ou de morte do beneficiário, devem as instituições de segurança social, mediante requerimento dos interessados, devolver as quantias correspondentes às contribuições pagas e proceder à anulação dos respectivos registos.\n\nArtigo 13.º-B\n\nPagamento em prestações\n\n1 - Nos casos em que o interessado tenha optado pelo pagamento em prestações, a primeira destas vence-se no final do mês seguinte àquele em que tenha tido lugar a referida opção e as restantes vencem-se no final de cada um dos meses seguintes.\n\n2 - Se as prestações não forem pagas até ao último dia do mês em que se vencem, são devidos juros de mora, nos termos das normas aplicáveis às contribuições em dívida à segurança social.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687466:por",
+    "alterador": "pt:dre:692183:por"
+  },
+  {
+    "artigo": "13.º-B",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 13.º-B — Pagamento em prestações\n\n1 - Nos casos em que o interessado tenha optado pelo pagamento em prestações, a primeira destas vence-se no final do mês seguinte àquele em que tenha tido lugar a referida opção e as restantes vencem-se no final de cada um dos meses seguintes.\n\n2 - Se as prestações não forem pagas até ao último dia do mês em que se vencem, são devidos juros de mora, nos termos das normas aplicáveis às contribuições em dívida à segurança social.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.",
+    "excerto": "Ao Decreto-Lei n.º 311/97, de 13 de Novembro, são aditados os artigos seguintes:\n\n«Artigo 13.º-A\n\nReembolso de contribuições\n\nNos casos de desistência do pagamento de contribuições, ou de morte do beneficiário, devem as instituições de segurança social, mediante requerimento dos interessados, devolver as quantias correspondentes às contribuições pagas e proceder à anulação dos respectivos registos.\n\nArtigo 13.º-B\n\nPagamento em prestações\n\n1 - Nos casos em que o interessado tenha optado pelo pagamento em prestações, a primeira destas vence-se no final do mês seguinte àquele em que tenha tido lugar a referida opção e as restantes vencem-se no final de cada um dos meses seguintes.\n\n2 - Se as prestações não forem pagas até ao último dia do mês em que se vencem, são devidos juros de mora, nos termos das normas aplicáveis às contribuições em dívida à segurança social.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687466:por",
+    "alterador": "pt:dre:692183:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 14.º — Procedimentos administrativos\n\nOs procedimentos administrativos a adoptar no âmbito da aplicação do presente diploma são aprovados por portaria.",
+    "depois": "###### Artigo 14.º — Procedimentos administrativos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.",
+    "excerto": "É revogado o artigo 14.º do Decreto-Lei n.º 311/97, de 13 de Novembro.",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687466:por",
+    "alterador": "pt:dre:692183:por"
+  }
+]
