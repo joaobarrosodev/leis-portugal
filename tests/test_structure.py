@@ -535,3 +535,46 @@ def test_schema_accepts_the_proposed_fields(repo_root: Path):
     schema = Acervo(repo_root).schema
     assert schema.record_errors(record) == []
     assert schema.record_errors({**record, "entry_into_force": {"method": "adivinhada"}})
+
+
+def test_conflicting_evidence_from_the_same_repealer_resolves_nothing():
+    from leis_portugal.domain.validity import Repeal
+
+    proposal = _propose(
+        text_repeals=[Repeal("pt:dre:5:por", "total", "pt:dre:9:por", "art-4", "É revogado o …")],
+        relations=[{"type": "repealed_by", "target": "pt:dre:9:por", "label": "Revogado o n.º 2 do art. 3.º pelo DEC LEI 9/90"}],
+    )
+    assert (proposal.status, proposal.category) == (None, "conflito")
+
+
+def test_shared_rule_for_entry_into_force_and_effects():
+    text = "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor e produz efeitos no dia seguinte ao da sua publicação.\n"
+    eif = extract(parse_articles(text), text, publication="2020-05-04")
+    assert (eif.date, eif.effects_date) == ("2020-05-05", "2020-05-05")
+
+
+def test_exception_after_the_date_makes_the_repeal_partial():
+    # Decreto-Lei n.º 212/2004, artigo 23.º, alínea d).
+    text = (
+        "###### Artigo 23.º — Norma revogatória\n\nSão revogados:\n\n"
+        f"d) O {link('Decreto-Lei n.º 350/88', 'decreto-lei/350-1988-1')}, de 30 de Setembro, com excepção dos artigos 5.º e 6.º;\n\n"
+        f"e) Os Decretos-Leis n.os {link('390/87', 'decreto-lei/390-1987-2')}, de 31 de dezembro, e {link('179/96', 'decreto-lei/179-1996-3')}, de 24 de setembro.\n"
+    )
+    found = {(item.target, item.scope, item.text) for item in repeals_in(parse_articles(text), text, source="pt:dre:9:por")}
+    assert found == {
+        ("pt:dre:1:por", "parcial", "d) O [Decreto-Lei n.º 350/88], de 30 de Setembro, com excepção dos artigos 5.º e 6.º"),
+        ("pt:dre:2:por", "total", "e) Os Decretos-Leis n.os [390/87], de 31 de dezembro, e [179/96], de 24 de setembro."),
+        ("pt:dre:3:por", "total", "e) Os Decretos-Leis n.os [390/87], de 31 de dezembro, e [179/96], de 24 de setembro."),
+    }
+
+
+def test_amending_acts_listed_after_the_repealed_one_are_not_repealed():
+    # Decreto-Lei n.º 9/2011, artigo 7.º, alínea a).
+    text = (
+        "###### Artigo 7.º — Norma revogatória\n\nSão revogados:\n\n"
+        f"a) O artigo 21.º do {link('Decreto-Lei n.º 191/98', 'decreto-lei/191-1998-1')}, de 10 de Julho, alterado pelos Decretos-Leis n.os "
+        f"{link('271/2001', 'decreto-lei/271-2001-2')}, de 13 de Outubro, e {link('138/2002', 'decreto-lei/138-2002-3')}, de 16 de Maio;\n\n"
+        f"b) A {link('Portaria n.º 1115/2004', 'portaria/1115-2004-4')}, de 14 de Setembro.\n"
+    )
+    found = {(item.target, item.scope) for item in repeals_in(parse_articles(text), text, source="pt:dre:9:por")}
+    assert found == {("pt:dre:1:por", "parcial"), ("pt:dre:4:por", "total")}

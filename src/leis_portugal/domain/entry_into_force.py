@@ -301,6 +301,11 @@ def clauses_in(text: str, *, article: str | None, publication: str | None, signa
                 tail = sentence[match.end() :]
                 stop = _VERB.search(tail)
                 clause_tail = tail[: stop.start()] if stop else tail
+                if stop and not clause_tail.strip(" ,e"):
+                    # "entra em vigor e produz efeitos no dia seguinte…": a regra vem depois do segundo verbo.
+                    rest = tail[stop.end() :]
+                    following = _VERB.search(rest)
+                    clause_tail = rest[: following.start()] if following else rest
                 value, rule = compute(clause_tail, publication=publication, signature=signature)
                 found.append(Clause(kind, scope, rule, value, article, sentence.strip()[:400]))
                 previous, position = scope, match.end()

@@ -314,7 +314,12 @@ def _normalize(text: str) -> str:
 
 
 def compare(parsed: list[Article], expected: list[tuple[str, str, str]]) -> dict[str, Any]:
-    found = [(article.part, article.number, article.heading) for article in parsed if article.kind in ("artigo", "base")]
+    # O DRE trata como artigos também os números com título (`###### 1.º`).
+    found = [
+        (article.part, article.number, article.heading)
+        for article in parsed
+        if article.kind in ("artigo", "base") or (article.kind == "numero" and article.method == "titulo")
+    ]
     same_count = len(found) == len(expected)
     pairs = list(zip(found, expected, strict=False))
     numbers = sum(1 for (_, number, _), (_, other, _) in pairs if number_slug(number) == number_slug(other))
@@ -509,6 +514,24 @@ def render_markdown(report: StructureReport) -> str:
         ],
         "",
         "As propostas, com as provas e a proveniência de cada uma, estão em `vigencia-proposta.jsonl`.",
+        "",
+        "### Como se resolve, sem inferir sem prova",
+        "",
+        "- **Só uma revogação total fixa o estado** (`repealed`). Conta a norma revogatória de outro diploma do acervo "
+        "(\"É revogado o [Decreto-Lei n.º 253/86]…\", com a ligação ao diploma) e a etiqueta da relação do DRE "
+        "(\"Revogado pelo DEC LEI…\"). Proveniência: `norma revogatória: <id do revogador>#<artigo>` ou `DRE repealed_by: <id>`.",
+        "- **Revogação parcial não resolve**: \"os artigos 3.º e 5.º do…\" ou \"Revogado o nº 5 pela…\" ficam registados como prova, "
+        "mas o resto do diploma continua de vigência desconhecida (não se conclui que está em vigor).",
+        "- **Revogações condicionais ou diferidas não contam** (\"a partir da entrada em vigor da portaria…\", \"mantido transitoriamente…\"), "
+        "e uma ligação noutro papel (\"na redação dada pelo…\", \"aprovado pelo…\") também não.",
+        "- **Relação `repealed_by` sem etiqueta**: não diz se é total ou parcial; fica \"por confirmar\" até haver o texto do revogador.",
+        "- **Caducidade**: só quando o próprio diploma fixa o fim (\"vigora até 31 de dezembro de 2013\"), a data já passou e o diploma "
+        "não foi alterado depois (uma alteração pode ter prorrogado a vigência). Proveniência: `cláusula de vigência: <artigo>`.",
+        "- **Declarações de retificação** não têm vigência própria: seguem o diploma retificado (relação `corrects`).",
+        "- **Só PDF e anteriores a 1960**: sem texto não há prova; ficam marcados como históricos e saem do índice de lei atual, "
+        "sem mudar `legal_status`.",
+        "- Ao escrever nos registos, o estado proposto vai para `legal_status` e as provas para `legal_status_basis`; "
+        "um conflito entre provas (total num lado, parcial noutro) não muda nada.",
     ]
     if report.validation:
         val = report.validation
@@ -545,6 +568,7 @@ _CATEGORY_LABELS = {
     "caducado": "Caducado (vigência temporária já passada, sem alterações)",
     "revogacao_parcial": "Só revogação parcial: o resto continua desconhecido",
     "revogacao_por_confirmar": "Revogação sem âmbito conhecido (relação sem etiqueta)",
+    "conflito": "Provas em conflito (o mesmo revogador, total e parcial)",
     "retificacao": "Declaração de retificação: segue o diploma retificado",
     "historico_so_pdf": "Só PDF e anterior a 1960: histórico, fora do índice de lei atual",
     "sem_prova": "Sem prova",

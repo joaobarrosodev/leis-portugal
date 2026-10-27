@@ -34,9 +34,9 @@ ARTICLE_KINDS = {"artigo": "art", "base": "base", "clausula": "clausula", "numer
 _NUMBER = r"(?:\d+(?:\s?\.?\s?[º°]|\.o\b|\.)?(?:\s?-\s?[A-Z]{1,2}\b)?|[IVXLCDM]+\b(?:-[A-Z]\b)?|[ÚúUu]nic[oa]\b|ÚNIC[OA]\b|UNIC[OA]\b)"
 _LABELS = {
     "artigo": "artigo", "art.": "artigo", "artº": "artigo", "art.º": "artigo",
-    "base": "base", "cláusula": "clausula", "clausula": "clausula",
+    "base": "base", "cláusula": "clausula", "clausula": "clausula", "article": "artigo",
 }
-_LABEL = r"(?P<label>Artigo|ARTIGO|Art\.º|Artº|Art\.|ART\.|Base|BASE|Cláusula|CLÁUSULA|Clausula|CLAUSULA)"
+_LABEL = r"(?P<label>Artigo|ARTIGO|Art\.º|Artº|Art\.|ART\.|Base|BASE|Cláusula|CLÁUSULA|Clausula|CLAUSULA|Article|ARTICLE)"
 # Título de artigo: o número acaba no fim da linha, num travessão ou num ponto.
 _HEADING_ARTICLE = re.compile(rf"^#{{6}}\s+{_LABEL}\s*(?P<number>{_NUMBER})\s*(?:$|[—–]\s*(?P<heading>.*)$|\.\s*$|-\s+(?P<heading2>.*)$)")
 _HEADING_POINT = re.compile(r"^#{6}\s+(?P<number>\d+\.?\s?º)\s*$")
@@ -50,7 +50,7 @@ _DIVISION = re.compile(
     r"\s+(?:[IVXLCDM]+\b|\d+|[ÚU]NIC[OA]|[úu]nic[oa]|PRELIMINAR|[Pp]reliminar)",
     re.IGNORECASE,
 )
-_ROMAN_DIVISION = re.compile(r"^[IVXLCDM]+\s*[-—–.]\s")
+_ROMAN_DIVISION = re.compile(r"^(?:[IVXLCDM]+|[A-Z])\)?\s*[-—–.)]\s")
 _PLAIN_ANNEX = re.compile(r"^(?:ANEXO|Anexo|APÊNDICE|Apêndice)(?:\s+(?:[IVXLCDM]+|\d+|[A-Z]|ÚNICO|único))?(?:\s*[-—–:(].{0,120})?$")
 _REDACTION = re.compile(r"(?:seguinte|nova) reda[cç]?[cç][ãa]o\s*:\s*$|(?:passa|passam) a ser\s*:\s*$")
 _NOTE = re.compile(r"^> (Alterado|Aditado|Revogado|Retificado|Republicado)", re.IGNORECASE)
@@ -304,7 +304,7 @@ def _parse_headings(lines: list[str]) -> list[Article]:
                 continue
             article = _HEADING_ARTICLE.match(line)
             if article:
-                heading_text = _split_heading(article.group("heading") or article.group("heading2"))
+                heading_text = (article.group("heading") or article.group("heading2") or "").strip()
                 # Textos antigos põem o próprio texto no título ("###### ARTIGO 30.º — É facultado…").
                 body_in_heading = len(heading_text) > 200
                 builder.open_article(

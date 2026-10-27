@@ -95,6 +95,12 @@ _CONDITIONAL = re.compile(
     r"na\s+data\s+(?:da|de)\s+entrada\s+em\s+vigor|produz(?:indo)?\s+efeitos\s+(?:a\s+partir|em|no|na)|n[ãa]o\s+(?:é|são)\s+revogad",
     re.IGNORECASE,
 )
+_LINK_URL = re.compile(r"\]\([^)]*\)")
+_CLAUSE_PARTIAL = re.compile(
+    r"\bna\s+parte\b|\bnas\s+partes\b|com\s+exce|\bexce[tp]to\b|\bsalvo\b|em\s+tudo\s+o\s+que|ressalvad|à\s+exce|"
+    r"sem\s+preju[íi]zo|\bparcialmente\b|\bapenas\s+(?:o|a|os|as|n[ao])\b|no\s+que\s+(?:respeita|se\s+refere|diz\s+respeito)",
+    re.IGNORECASE,
+)
 _AFTER_PARTIAL = re.compile(
     r"^\s*,?\s*(?:na\s+parte|no\s+que|com\s+exce|exce[tp]|salvo|em\s+tudo\s+o\s+que|apenas|s[óo]\s|somente|relativamente|quanto|"
     r"nas?\s+partes?|ressalvad|à\s+exce)",
@@ -143,6 +149,10 @@ def _classify(segment: str, after: str, clause: str) -> str | None:
     return "total"
 
 
+def _filler_only(segment: str) -> bool:
+    return not _FILLER.sub("", segment)
+
+
 def repeals_in(articles: list[Article], text: str, *, source: str) -> list[Repeal]:
     """As revogações das normas revogatórias de um diploma (só a parte do diploma, sem anexos)."""
     own = [article for article in articles if article.part == ""]
@@ -177,21 +187,32 @@ def repeals_in(articles: list[Article], text: str, *, source: str) -> list[Repea
 def _paragraph_repeals(paragraph: str, *, source: str, article: str | None) -> list[Repeal]:
     repeals: list[Repeal] = []
     links = list(_DRE_LINK.finditer(paragraph))
-    verb = _REPEAL_VERB.search(paragraph)
+    # Os URLs das ligações ficam tapados (mesmo comprimento): o ":" de "https:" não separa itens.
+    masked = _LINK_URL.sub(lambda match: "](" + "x" * (len(match.group()) - 3) + ")", paragraph)
+    verb = _REPEAL_VERB.search(masked)
     start = verb.end() if verb else 0
+    context_item: int | None = None
     for index, link in enumerate(links):
         if verb and link.start() < verb.start():
             continue
-        item_start = max(paragraph.rfind(";", 0, link.start()) + 1, paragraph.rfind(":", 0, link.start()) + 1)
+        item_start = max(masked.rfind(";", 0, link.start()) + 1, masked.rfind(":", 0, link.start()) + 1)
         clause_start = max(start, item_start)
         previous_end = links[index - 1].end() if index else 0
-        segment = paragraph[max(clause_start, previous_end) : link.start()]
+        segment = masked[max(clause_start, previous_end) : link.start()]
         next_start = links[index + 1].start() if index + 1 < len(links) else len(paragraph)
-        after = paragraph[link.end() : next_start]
+        after = masked[link.end() : next_start]
         after = re.split(r"[;]", after, maxsplit=1)[0]
-        clause_end = paragraph.find(";", link.end())
+        clause_end = masked.find(";", link.end())
         clause = paragraph[item_start : clause_end if clause_end != -1 else len(paragraph)]
         scope = _classify(segment, after, clause)
+        if _CONTEXT_WORDS.search(segment):
+            # As ligações seguintes do mesmo item continuam a lista ("alterado pelos Decretos-Leis n.os [A], de…, e [B]").
+            context_item = item_start
+        elif context_item == item_start and index and _filler_only(segment):
+            scope = None
+        if scope == "total" and _CLAUSE_PARTIAL.search(_LINK_URL.sub("]", clause)):
+            # "O Decreto-Lei n.º 350/88, de 30 de setembro, com excepção dos artigos 5.º e 6.º"
+            scope = "parcial"
         if scope is None:
             continue
         target = pt_record_id(link.group("id"))
@@ -285,6 +306,10 @@ def propose(
     if status != "unknown":
         return Proposal(None, "estado_do_dre", evidence)
     totals = [item for item in evidence if item.status == "repealed"]
+    partial_sources = {_repealer(item) for item in evidence if item.status == "partially_repealed"}
+    if any(_repealer(item) in partial_sources for item in totals):
+        # O mesmo revogador dá uma revogação total numa prova e parcial noutra.
+        return Proposal(None, "conflito", evidence)
     if totals:
         return Proposal("repealed", "revogado", evidence)
     if any(item.status == "not_in_force" for item in evidence):
@@ -300,3 +325,11 @@ def propose(
     if text_quality == "pdf" and (publication_date or "9999") < "1960-01-01":
         return Proposal(None, "historico_so_pdf", evidence)
     return Proposal(None, "sem_prova", evidence)
+
+
+_RECORD_ID = re.compile(r"pt:dre:\d+:por")
+
+
+def _repealer(item: Evidence) -> str | None:
+    match = _RECORD_ID.search(item.provenance)
+    return match.group() if match else None
