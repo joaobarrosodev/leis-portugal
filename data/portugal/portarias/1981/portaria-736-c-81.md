@@ -25,6 +25,15 @@ publication:
   pages: 2286-(8) a 2286-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19701/00080023.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 1 de Setembro 1981
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

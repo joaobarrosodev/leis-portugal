@@ -24,6 +24,16 @@ publication:
   pages: 2526 - 2527
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/127a00/25262527.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que vier a ser recebida a última das notas através das quais cada uma das Partes comunique à outra que
+    se encontram cumpridas as formalidades exigidas para o efeito pela respectiva ordem ju
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6031 - 6032
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/254b00/60316032.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-11-04'
+entry_into_force:
+  date: '1997-11-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

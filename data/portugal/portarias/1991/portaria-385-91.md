@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2432 - 2433
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-05-11'
+entry_into_force:
+  date: '1991-05-11'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

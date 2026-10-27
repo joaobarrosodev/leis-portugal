@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 716-(5) a 716-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/033a01/00050007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-02-09'
+entry_into_force:
+  date: '2001-02-09'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2000-11-01'
+  effects_rule: a partir de 1 de Novembro de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

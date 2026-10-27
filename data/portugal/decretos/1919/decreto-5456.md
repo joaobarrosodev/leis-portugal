@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1919/04/08900/07020707.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:276069:por#art-2'
+    detail: Fica revogado o [Decreto n.º 5456], de 29 de Abril de 1919.
 notes: []
 language: por
 version:

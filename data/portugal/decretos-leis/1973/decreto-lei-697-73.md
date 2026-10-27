@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2492 - 2494
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/29900/24922494.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-01-01'
+entry_into_force:
+  date: '1974-01-01'
+  rule: em 1 de Janeiro de 1974
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

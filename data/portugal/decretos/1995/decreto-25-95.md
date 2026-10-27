@@ -24,6 +24,16 @@ publication:
   pages: 4638 - 4644
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/166a00/46384644.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia a seguir à data em que as Partes notificarem, por troca de notas diplomáticas em que aceitam os seus termos,
+    que todos os requisitos legais para a entrada em vigor estão preenchidos
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

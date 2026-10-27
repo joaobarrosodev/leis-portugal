@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1742 - 1746
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14600/17421746.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-06-29'
+entry_into_force:
+  date: '1985-06-29'
+  rule: no dia imediato ao da sua publicação, considerando-se até então prorrogado o regime de instalação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

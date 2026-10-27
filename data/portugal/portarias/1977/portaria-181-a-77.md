@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 662-(3) a 662-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-04-01'
+entry_into_force:
+  date: '1977-04-01'
+  rule: em 1 de Abril de 1977, devendo as tabelas constantes dos quadros anexos ser revistas até 31 de Outubro do ano corrente
+  method: clausula
+  article: n-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

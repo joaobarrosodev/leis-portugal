@@ -23,6 +23,15 @@ publication:
   pages: 9253 - 9262
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/21000/0925309262.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após registo efetuado pela tutela e publicação no Diário da República
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

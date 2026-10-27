@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6100 - 6101
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/19900/0610006101.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-10-16'
+entry_into_force:
+  date: '2013-10-16'
+  rule: no dia seguinte ao da sua publicação e reporta os seus efeitos a 1 de janeiro de 2013
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

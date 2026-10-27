@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 249 - 250
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/02900/02490250.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-02-04'
+entry_into_force:
+  date: '1976-02-04'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

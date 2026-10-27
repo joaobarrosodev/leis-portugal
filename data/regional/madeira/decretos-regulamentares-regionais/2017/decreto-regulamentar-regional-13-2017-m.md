@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5894 - 5899
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21400/0589405899.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-08'
+entry_into_force:
+  date: '2017-11-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: '2017-10-20'
+  effects_rule: a partir de 20 de outubro de 2017, data da nomeação dos novos membros do Governo, considerando-se ratificados
+    ou confirmados todos os atos que tenham sido praticados desde aquela data e cuja regularid
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

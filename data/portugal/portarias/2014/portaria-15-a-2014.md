@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 532-(2) a 532-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/01701/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-25'
+entry_into_force:
+  date: '2014-01-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2014-01-01'
+  effects_rule: desde 1 de janeiro de 2014, devendo as instruções agora aprovadas ser utilizadas no preenchimento Declaração
+    Mensal de Remunerações - AT relativa a rendimentos pagos ou colocados à disposição a partir
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 625 - 645
   pdf_url: https://files.diariodarepublica.pt/1s/1972/05/11500/06250645.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para um Signatário na data em que o Acordo entrar em vigor, em conformidade com os parágrafo a) e d) ou os parágrafos
+    b) e d) do artigo XX do Acordo, para a Parte interessada
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

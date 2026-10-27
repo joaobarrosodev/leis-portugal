@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2096 - 2096
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10100/20962096.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-05-21'
+entry_into_force:
+  date: '1990-05-21'
+  rule: no dia 21 de Maio de 1990
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

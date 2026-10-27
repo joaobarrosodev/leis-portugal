@@ -24,6 +24,16 @@ publication:
   pages: 3187 - 3197
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/12100/0318703197.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia após a data de recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos
+    os requisitos de Direito interno das Partes necessários para o efeito
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 2981-3011
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/07/27/138946753.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: do dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

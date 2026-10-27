@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 551 - 554
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09200/05510554.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-05-01'
+entry_into_force:
+  date: '1974-05-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

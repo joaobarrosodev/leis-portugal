@@ -24,6 +24,16 @@ publication:
   pages: 3446 - 3451
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/168a00/34463451.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à data da notificação escrita por cada uma das Partes Contratantes à outra Parte Contratante
+    do cumprimento das respectivas formalidades legais e manter-se-á em vigor por um
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

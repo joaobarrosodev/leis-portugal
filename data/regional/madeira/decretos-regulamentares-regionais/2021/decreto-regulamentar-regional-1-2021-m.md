@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 18 - 24
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01600/0001800024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-24'
+entry_into_force:
+  date: '2021-02-24'
+  rule: no trigésimo dia posterior ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

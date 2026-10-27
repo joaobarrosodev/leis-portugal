@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1642 - 1645
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/15500/16421645.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-07-10'
+entry_into_force:
+  date: '1986-07-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

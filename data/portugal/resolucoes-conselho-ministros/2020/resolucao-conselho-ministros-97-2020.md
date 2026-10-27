@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7 - 11
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22200/0000700011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-14'
+entry_into_force:
+  date: '2020-11-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

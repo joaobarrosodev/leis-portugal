@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 15 - 25
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11400/0001500025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-15'
+entry_into_force:
+  date: '2023-06-15'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: à data da assinatura do protocolo constante do anexo
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1184835234:por#art-14'
+    detail: b) A [Portaria n.º 163/2023], de 14 de junho.
 notes: []
 language: por
 version:

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 59 - 64
   pdf_url: https://files.diariodarepublica.pt/1s/2022/02/02500/0005900064.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-02-05'
+entry_into_force:
+  date: '2022-02-05'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: na data prevista no Regulamento (UE) 2021/2117, do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

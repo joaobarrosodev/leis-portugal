@@ -24,6 +24,16 @@ publication:
   pages: 5725 - 5742
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21800/0572505742.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à data da última notificação de uma Parte à outra da conclusão dos procedimentos legais
+    necessários para o efeito
+  method: clausula
+  article: art-63
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 239 - 250
   pdf_url: https://files.diariodarepublica.pt/1s/1962/03/05900/02390250.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1962-05-15'
+entry_into_force:
+  date: '1962-05-15'
+  rule: 60 dias depois da sua publicação no Diário do Governo
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 4144 - 4147
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/152a00/41444147.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas relações entre os Estados que a tiverem ratificado, no 1.º dia do 3.º mês seguinte ao depósito do último instrumento
+    de ratificação pela República da Áustria, pela República da Finlândia ou pelo R
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

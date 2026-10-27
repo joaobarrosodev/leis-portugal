@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3767 - 3769
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/20200/37673769.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-11-01'
+entry_into_force:
+  date: '1989-11-01'
+  rule: 60 dias após a sua publicação, aplicando-se às mercadorias apresentadas às alfândegas a partir dessa data
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 6368-(54) a 6368-(55)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/25101/0005400055.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-01'
+entry_into_force:
+  date: '2019-01-01'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7588 - 7596
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/280b00/75887596.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-12-06'
+entry_into_force:
+  date: '1995-12-06'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-78
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

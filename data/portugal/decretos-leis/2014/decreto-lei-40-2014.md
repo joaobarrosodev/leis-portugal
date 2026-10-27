@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 2059 - 2069
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05400/0205902069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-04-17'
+entry_into_force:
+  date: '2014-04-17'
+  rule: 30 dias a contar da data da sua publicação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

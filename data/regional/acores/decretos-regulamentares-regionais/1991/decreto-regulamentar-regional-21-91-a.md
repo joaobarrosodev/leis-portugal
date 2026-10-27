@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3662 - 3665
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/164b00/36623665.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-08-18'
+entry_into_force:
+  date: '1991-08-18'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

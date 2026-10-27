@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 250-250
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/02/05/156711995.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-06'
+entry_into_force:
+  date: '2021-02-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2021-01-31'
+  effects_rule: a 31 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

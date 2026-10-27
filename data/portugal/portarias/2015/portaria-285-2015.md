@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 8011 - 8014
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18000/0801108014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-01'
+entry_into_force:
+  date: '2015-12-01'
+  rule: em 1 de dezembro de 2015
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2795 - 2795
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/143a00/27952795.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-06-25'
+entry_into_force:
+  date: '1998-06-25'
+  rule: no dia imediato ao da sua publicação e aplica-se às despesas autorizadas até 30 de Junho de 1999
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

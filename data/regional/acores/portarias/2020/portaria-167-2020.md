@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5245-5245
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/12/31/152809281.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-01'
+entry_into_force:
+  date: '2021-01-01'
+  rule: a 1 de janeiro de 2021
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

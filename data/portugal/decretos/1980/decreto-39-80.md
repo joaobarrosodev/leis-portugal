@@ -23,6 +23,15 @@ publication:
   pages: 1463 - 1469
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14500/14631469.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia seguinte ao da data do depósito do segundo instrumento de ratificação previsto no artigo anterior
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 10 - 13
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19400/0001000013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-13'
+entry_into_force:
+  date: '2025-10-13'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2025-09-30'
+  effects_rule: a 30 de setembro de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

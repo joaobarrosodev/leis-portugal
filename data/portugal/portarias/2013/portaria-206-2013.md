@@ -25,6 +25,15 @@ publication:
   pages: 3384 - 3385
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/11600/0338403385.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1251 - 1267
   pdf_url: https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'um mês após a troca de notas confirmando que cada um dos Estados Contratantes completou os procedimentos constitucionais
+    exigidos para essa entrada em vigor no respectivo Estado e as suas disposições '
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

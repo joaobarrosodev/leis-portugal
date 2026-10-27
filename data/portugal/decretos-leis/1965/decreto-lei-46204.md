@@ -24,6 +24,15 @@ publication:
   pages: 227 - 232
   pdf_url: https://files.diariodarepublica.pt/1s/1965/02/04800/02270232.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após o depósito, por duas Partes signatárias, dos seus instrumentos de ratificação ou aprovação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

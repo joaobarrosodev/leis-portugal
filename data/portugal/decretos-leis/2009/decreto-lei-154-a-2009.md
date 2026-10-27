@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4324-(4) a 4324-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/12802/0000400011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-07-07'
+entry_into_force:
+  date: '2009-07-07'
+  rule: no 1.º dia após a sua publicação
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 43 - 49
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/25200/0004300049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-04'
+entry_into_force:
+  date: '2022-04-04'
+  rule: no dia 4 de abril de 2022 e
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante dois anos
 end_of_validity_date: null
 legal_status: unknown
 notes: []

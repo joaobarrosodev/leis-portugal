@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 861 - 865
   pdf_url: https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-04-25'
+entry_into_force:
+  date: '1996-04-25'
+  rule: 10 dias depois da sua publicação
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 2880 - 2909
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/10700/0288002909.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias úteis após a data da sua publicação
+  method: clausula
+  article: art-70
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

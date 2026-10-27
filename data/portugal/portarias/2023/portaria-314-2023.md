@@ -23,6 +23,16 @@ publication:
   pages: 3 - 4
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20300/0000300004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: à data da entrada em vigor das Portarias n.os 54-A/2023, 54-C/2023, 54-D/2023, 54-E/2023 e 54-I/2023, todas
+    de 27 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

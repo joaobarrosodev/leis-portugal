@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4473 - 4476
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/197b00/44734476.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-01-01'
+entry_into_force:
+  date: '1992-01-01'
+  rule: no dia 1 de Janeiro de 1992 para os veículos a matricular a partir daquela data e um mês contado da sua publicação
+    no que se refere às matrículas de exportação
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

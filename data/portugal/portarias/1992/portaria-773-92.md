@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3729 - 3729
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/181b00/37293729.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-08-07'
+entry_into_force:
+  date: '1992-08-07'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

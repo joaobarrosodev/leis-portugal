@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1133 - 1138
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09900/11331138.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-07-29'
+entry_into_force:
+  date: '1985-07-29'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

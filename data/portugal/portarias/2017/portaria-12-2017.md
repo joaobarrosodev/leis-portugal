@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 325 - 328
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00600/0032500328.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-10'
+entry_into_force:
+  date: '2017-01-10'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: '2017-01-01'
+  effects_rule: a 1 de janeiro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

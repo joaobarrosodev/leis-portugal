@@ -24,6 +24,15 @@ publication:
   pages: 1407 - 1420
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09800/14071420.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o respectivo diploma complementar, que será publicado até ao dia 30 de Setembro de 1984
+  method: clausula
+  article: art-122
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

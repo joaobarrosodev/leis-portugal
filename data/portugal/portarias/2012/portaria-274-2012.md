@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5145 - 5145
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/17300/0514505145.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-09-07'
+entry_into_force:
+  date: '2012-09-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data de 1 de janeiro de 2012
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

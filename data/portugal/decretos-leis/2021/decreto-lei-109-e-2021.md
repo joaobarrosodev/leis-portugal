@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 21-(19) a 21-(42)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/23701/0001900042.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-07'
+entry_into_force:
+  date: '2022-06-07'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

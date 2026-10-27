@@ -23,6 +23,16 @@ publication:
   pages: 492 - 494
   pdf_url: https://files.diariodarepublica.pt/2s/2006/01/008000000/0049200494.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título definitivo, no 1.º dia útil do mês seguinte ao da sua publicação, podendo ser alterado, no todo ou em parte,
+    sempre que se torne indispensável, por despacho do conselho directivo e após cumpr
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

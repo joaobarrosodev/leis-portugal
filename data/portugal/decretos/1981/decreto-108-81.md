@@ -24,6 +24,16 @@ publication:
   pages: 2167 - 2170
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19100/21672170.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que as Partes Contratantes se tenham notificado mutuamente que estão preenchidos os necessários requisitos
+    legais internos para a sua entrada em vigor
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1322 - 1322
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/25700/13221322.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do despacho que nos termos do n.º 2 do artigo 10.º do Decreto-Lei n.º 533/74, de 10 de Outubro, for publicado
+    para o sector
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

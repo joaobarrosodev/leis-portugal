@@ -24,6 +24,15 @@ publication:
   pages: 13 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/06400/0001300016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das 00:00 horas do dia 2 de abril de 2021, cessando às 23:59 horas do dia 4 de abril de 2021
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

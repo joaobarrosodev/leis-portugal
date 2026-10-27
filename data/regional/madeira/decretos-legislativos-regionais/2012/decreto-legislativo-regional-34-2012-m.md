@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6648 - 6654
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/22200/0664806654.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-11-17'
+entry_into_force:
+  date: '2012-11-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

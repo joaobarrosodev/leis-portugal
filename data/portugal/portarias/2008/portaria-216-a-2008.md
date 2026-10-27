@@ -25,6 +25,15 @@ publication:
   pages: 1372-(2) a 1372-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04401/0000200003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no mesmo dia da entrada em vigor da Lei n.º 60/2007, de 4 de Setembro
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

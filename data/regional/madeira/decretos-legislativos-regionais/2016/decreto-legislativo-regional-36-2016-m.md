@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2734 - 2741
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15600/0273402741.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-08-17'
+entry_into_force:
+  date: '2016-08-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

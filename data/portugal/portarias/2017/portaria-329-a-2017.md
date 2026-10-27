@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5834-(2) a 5834-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20901/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-04'
+entry_into_force:
+  date: '2017-11-04'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2017-10-30'
+  effects_rule: a 30 de outubro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 2419 - 2419
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14300/24192419.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que cada uma das Partes comunicar à outra terem sido compridos os respectivos preceitos constitucionais
+    e poderá ser denunciado por qualquer das partes mediante aviso prévio de 60 dias
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 7072 - 7083
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19300/0707207083.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-11-05'
+entry_into_force:
+  date: '2008-11-05'
+  rule: no prazo de 30 dias a contar da data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

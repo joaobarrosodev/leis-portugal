@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1117 - 1120
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/07600/11171120.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-04-02'
+entry_into_force:
+  date: '1983-04-02'
+  rule: após a publicação da portaria regulamentadora do regime de preços das especialidades farmacêuticas de venda livre
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

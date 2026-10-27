@@ -24,6 +24,15 @@ publication:
   pages: 5988 - 6002
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/19100/0598806002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo 60 dias a contar da data da respetiva publicação
+  method: clausula
+  article: art-75
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

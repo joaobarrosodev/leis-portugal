@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3562 - 3572
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/20000/35623572.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-01-01'
+entry_into_force:
+  date: '1989-01-01'
+  rule: no dia 1 de Janeiro de 1989, desde que, pelo menos, onze instrumentos de ratificação, aceitação e aprovação ou adesão
+    ao Protocolo tenham sido depositados pelos Estados ou pelas organizações regionais
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

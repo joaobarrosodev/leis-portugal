@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5 - 43
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/18900/0000500043.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-09-30'
+entry_into_force:
+  date: '2022-09-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

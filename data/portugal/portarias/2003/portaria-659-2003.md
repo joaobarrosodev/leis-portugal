@@ -24,6 +24,15 @@ publication:
   pages: 4480 - 4485
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/174b00/44804485.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 90 dias após a data da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

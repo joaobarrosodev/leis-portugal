@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 4494-(6) a 4494-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/12301/0000600026.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-27'
+entry_into_force:
+  date: '2015-06-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

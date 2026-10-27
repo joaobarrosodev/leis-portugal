@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3222 - 3225
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/10800/0322203225.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-06-06'
+entry_into_force:
+  date: '2013-06-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

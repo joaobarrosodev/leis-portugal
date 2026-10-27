@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2597 - 2599
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20900/25972599.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-09-11'
+entry_into_force:
+  date: '1980-09-11'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

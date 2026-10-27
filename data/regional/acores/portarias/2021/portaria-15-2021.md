@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 452-496
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/03/01/158545413.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-02'
+entry_into_force:
+  date: '2021-03-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

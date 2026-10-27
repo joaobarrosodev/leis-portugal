@@ -25,6 +25,16 @@ publication:
   pages: 3690 - 3695
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/168a00/36903695.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando todos os Estados membros tenham notificado o Secretariado-Geral do Conselho de que se encontram concluídos
+    todos os procedimentos exigidos pelas respectivas ordens jurídicas para a aplicação da
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

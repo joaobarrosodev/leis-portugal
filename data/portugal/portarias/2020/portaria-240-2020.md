@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 60 - 61
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/19900/0006000061.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-18'
+entry_into_force:
+  date: '2020-10-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2020-06-15'
+  effects_rule: desde 15 de junho de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

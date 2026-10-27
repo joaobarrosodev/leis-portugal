@@ -25,6 +25,16 @@ publication:
   pages: 5106-(3) a 5106-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14501/0000300013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro,
+    sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

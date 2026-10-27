@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5036 - 5038
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/14900/0503605038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-01'
+entry_into_force:
+  date: '2009-09-01'
+  rule: no dia 1 de Setembro de 2009
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

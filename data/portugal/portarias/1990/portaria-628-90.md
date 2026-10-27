@@ -24,6 +24,15 @@ publication:
   pages: 3213 - 3214
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18100/32133214.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data do Decreto-Lei n.º 126/90, de 16 de Abril
+  method: clausula
+  article: n-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

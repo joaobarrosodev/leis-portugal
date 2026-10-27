@@ -23,6 +23,16 @@ publication:
   pages: 5177 - 5186
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/190a00/51775186.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia após a data em que cinco Estados da área de distribuição passem a ser Partes do Acordo, segundo o estipulado
+    no artigo X
+  method: clausula
+  article: art-xii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

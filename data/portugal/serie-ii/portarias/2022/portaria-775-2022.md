@@ -25,9 +25,25 @@ publication:
   supplement: null
   pages: 76 - 77
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/219000000/0007600077.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-15'
+entry_into_force:
+  date: '2022-11-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:215529386:por#art-5'
+    detail: É revogada a [Portaria n.º 775/2022], publicada no Diário da República, 2.ª série, n.º 219, de 14 de novembro.
 notes: []
 language: por
 version:

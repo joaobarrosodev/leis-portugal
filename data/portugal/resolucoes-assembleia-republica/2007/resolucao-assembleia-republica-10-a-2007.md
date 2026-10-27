@@ -24,6 +24,16 @@ publication:
   pages: 1640-(2) a 1640-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05401/00020018.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'três meses após a data do depósito do 30.º instrumento de ratificação, aceitação, aprovação ou adesão, mas unicamente
+    no que se refere aos Estados ou organizações de integração económica regional que '
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

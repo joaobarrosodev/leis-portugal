@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4244-(83) a 4244-(84)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30105/00830084.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-01-01'
+entry_into_force:
+  date: '1981-01-01'
+  rule: no dia imediato ao da sua publicação e aplica-se às contribuições e impostos respeitantes aos rendimentos dos anos
+    de 1975 e seguintes, com excepção daqueles cujo pagamento ou entrega ao Estado tenham
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

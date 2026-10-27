@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1928 - 1928
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07100/0192801928.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-11'
+entry_into_force:
+  date: '2019-04-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

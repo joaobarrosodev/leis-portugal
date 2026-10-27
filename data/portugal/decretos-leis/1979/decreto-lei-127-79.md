@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 888 - 890
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10800/08880890.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-05-11'
+entry_into_force:
+  date: '1979-05-11'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

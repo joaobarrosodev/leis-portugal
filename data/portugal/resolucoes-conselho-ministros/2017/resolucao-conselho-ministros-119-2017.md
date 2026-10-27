@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5252 - 5253
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/16900/0525205253.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-09-06'
+entry_into_force:
+  date: '2017-09-06'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: 'imediatos, nos termos do n.º 1 do artigo 12.º da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006,
+    de 3 de julho, alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro, e pela Lei n.º '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

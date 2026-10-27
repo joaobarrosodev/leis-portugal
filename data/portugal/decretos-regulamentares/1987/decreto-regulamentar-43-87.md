@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2814 - 2830
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16200/28142830.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-09-15'
+entry_into_force:
+  date: '1987-09-15'
+  rule: no prazo de 60 dias a contar da data da publicação, com excepção das disposições dos títulos III e V, que
+  method: clausula
+  article: art-86
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

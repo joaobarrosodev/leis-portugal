@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 1122 - 1123
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03900/0112201123.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-03-02'
+entry_into_force:
+  date: '2013-03-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2013-01-01'
+  effects_rule: a partir de 1 de janeiro de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 5098 - 5114
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data em que as Partes Contratantes tenham manifestado o seu consentimento em estar
+    vinculadas pelo Acordo, em conformidade com o disposto no n.º 1 do presente artigo
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

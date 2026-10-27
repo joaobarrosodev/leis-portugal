@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 181 - 183
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17100/0018100183.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-05'
+entry_into_force:
+  date: '2023-09-05'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2020-12-28'
+  effects_rule: a 28 de dezembro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

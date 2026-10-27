@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5026 - 5027
   pdf_url: https://files.diariodarepublica.pt/1s/2002/06/146a00/50265027.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-08-26'
+entry_into_force:
+  date: '2002-08-26'
+  rule: 60 dias após a sua publicação e só é aplicável aos procedimentos iniciados após essa data
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

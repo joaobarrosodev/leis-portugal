@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1883 - 1883
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/17100/18831883.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-07-27'
+entry_into_force:
+  date: '1980-07-27'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-5
+  effects_date: '1980-10-31'
+  effects_rule: até 31 de Outubro de 1980
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

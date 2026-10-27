@@ -24,6 +24,16 @@ publication:
   pages: 4548 - 4553
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15200/0454804553.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando oito (8) dos países signatários tenham efetuado o depósito do Instrumento de ratificação nos termos do Artigo
+    anterior
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

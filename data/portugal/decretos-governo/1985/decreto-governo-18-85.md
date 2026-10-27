@@ -24,6 +24,16 @@ publication:
   pages: 1835 - 1838
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15200/18351838.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após cada Parte Contratante ter informado a outra de que foram cumpridas todas as formalidades exigidas pelas
+    respectivas Constituições
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

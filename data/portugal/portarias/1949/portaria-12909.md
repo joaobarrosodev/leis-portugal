@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1949/08/17100/05510551.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:557032:por#n-4'
+    detail: 4.º É revogada a [Portaria n.º 12909], de 4 de Agosto de 1949.
 notes: []
 language: por
 version:

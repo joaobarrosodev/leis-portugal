@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3502 - 3503
   pdf_url: https://files.diariodarepublica.pt/1s/2006/05/101a00/35023503.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-08-23'
+entry_into_force:
+  date: '2006-08-23'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3022-(6) a 3022-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/05/10402/0000600006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-05-31'
+entry_into_force:
+  date: '2014-05-31'
+  rule: no dia seguinte ao da sua publicação e reporta os seus efeitos à data de entrada em vigor do Decreto-Lei n.º 19/2014,
+    de 5 de fevereiro
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

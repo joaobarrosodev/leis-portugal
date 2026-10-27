@@ -23,6 +23,16 @@ publication:
   pages: 3901 - 3902
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/26700/39013902.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e terá a duração de um ano, sendo tacitamente prorrogado, por períodos iguais e sucessivos,
+    salvo se uma das Partes Contratantes comunicar por escrito a sua intenção de lhe p
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

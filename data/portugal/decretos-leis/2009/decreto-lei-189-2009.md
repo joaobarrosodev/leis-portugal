@@ -24,6 +24,16 @@ publication:
   pages: 5325 - 5335
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início de vigência do contrato de concessão a que se refere o artigo 2.º do Decreto-Lei n.º 32/2009, de
+    5 de Fevereiro
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

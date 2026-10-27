@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 1576 - 1577
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/056b00/15761577.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-03-08'
+entry_into_force:
+  date: '2003-03-08'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-15
+  effects_date: '2003-02-01'
+  effects_rule: a partir de 1 de Fevereiro de 2003
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

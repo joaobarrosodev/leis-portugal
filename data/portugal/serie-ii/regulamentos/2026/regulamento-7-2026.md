@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 315 - 357
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/003000000/0031500357.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-01-07'
+entry_into_force:
+  date: '2026-01-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-107
+  effects_date: null
+  effects_rule: na data de entrada em vigor, com exceção das matérias relativas às instalações de consumo não exclusivas para
+    a mobilidade elétrica com pontos de entrega internos no Capítulo II do Título III e o Arti
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

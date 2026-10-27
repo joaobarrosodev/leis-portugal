@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2857 - 2861
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/072a00/28572861.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-27'
+entry_into_force:
+  date: '2002-03-27'
+  rule: no dia imediato ao da sua publicação, sem prejuízo do que venha a ser fixado transitoriamente em matéria das competências
+    próprias da Secretaria Judicial
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

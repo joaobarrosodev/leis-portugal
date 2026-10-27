@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20745 - 20747
   pdf_url: https://files.diariodarepublica.pt/2s/2013/07/124000000/2074520747.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-07-02'
+entry_into_force:
+  date: '2013-07-02'
+  rule: no dia após a sua publicação pelos meios legalmente definidos
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

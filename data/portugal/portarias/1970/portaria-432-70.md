@@ -24,6 +24,15 @@ publication:
   pages: 1146 - 1146
   pdf_url: https://files.diariodarepublica.pt/1s/1970/08/20000/11461146.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em todas as províncias ultramarinas no dia 1 de Janeiro de 1971
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5 - 6
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10300/0000500006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-01'
+entry_into_force:
+  date: '2021-06-01'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

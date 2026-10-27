@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 862-(2) a 862-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/049b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-03-01'
+entry_into_force:
+  date: '1993-03-01'
+  rule: em 1 de Março de 1993
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

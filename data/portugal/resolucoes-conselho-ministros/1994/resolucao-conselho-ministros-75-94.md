@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5044 - 5051
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/201b00/50445051.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-08-31'
+entry_into_force:
+  date: '1994-08-31'
+  rule: a partir da data da sua publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

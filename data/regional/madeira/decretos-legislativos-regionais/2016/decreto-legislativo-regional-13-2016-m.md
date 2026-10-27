@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 784 - 787
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/04900/0078400787.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-09'
+entry_into_force:
+  date: '2016-04-09'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

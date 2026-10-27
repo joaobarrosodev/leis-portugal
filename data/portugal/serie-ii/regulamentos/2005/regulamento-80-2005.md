@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 17121 - 17132
   pdf_url: https://files.diariodarepublica.pt/2s/2005/12/234000000/1712117132.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-12-01'
+entry_into_force:
+  date: '2005-12-01'
+  rule: no dia 1 de Dezembro de 2005, aplicando-se aos contratos que venham a ser celebrados após essa data e aos contratos
+    já existentes nessa data, no que respeita aos prémios ou fracções subsequentes que s
+  method: clausula
+  article: art-16-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

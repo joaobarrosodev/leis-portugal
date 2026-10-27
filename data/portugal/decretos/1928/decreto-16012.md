@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1928/10/23200/20572058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:518405:por#art-1'
+    detail: Fica revogado o [Decreto n.º 16012], de 9 de Outubro de 1928.
 notes: []
 language: por
 version:

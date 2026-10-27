@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1321 - 1321
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/041b00/13211321.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-02-25'
+entry_into_force:
+  date: '2002-02-25'
+  rule: no dia 25 de Fevereiro de 2002
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

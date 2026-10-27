@@ -24,6 +24,15 @@ publication:
   pages: 2185 - 2186
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/22100/21852186.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação da aprovação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

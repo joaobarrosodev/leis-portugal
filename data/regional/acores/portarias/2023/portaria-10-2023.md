@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 552-552
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/02/13/207352807.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-01'
+entry_into_force:
+  date: '2023-01-01'
+  rule: no dia 1 de janeiro de 2023
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

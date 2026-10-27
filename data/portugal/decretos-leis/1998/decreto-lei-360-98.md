@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6229 - 6230
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/267a00/62296230.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-11-19'
+entry_into_force:
+  date: '1998-11-19'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '1999-12-31'
+  effects_rule: até 31 de Dezembro de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

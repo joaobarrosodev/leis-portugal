@@ -24,6 +24,16 @@ publication:
   pages: 2388 - 2394
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/112a00/23882394.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data de depósito de todos os instrumentos de ratificação ou de celebração das Partes
+    Contratantes junto do Secretariado-Geral do Conselho da União Europeia
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4263 - 4267
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14500/0426304267.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da receção da última das duas notificações que constatam o cumprimento, pelas Partes, das formalidades internas
+    requeridas para esse efeito
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

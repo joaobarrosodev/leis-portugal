@@ -24,6 +24,15 @@ publication:
   pages: 676 - 676
   pdf_url: https://files.diariodarepublica.pt/1s/1964/05/11400/06760676.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Maio do corrente ano
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

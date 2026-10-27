@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3140-(8) a 3140-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/129b02/00080008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-06-05'
+entry_into_force:
+  date: '1999-06-05'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: '2000-12-31'
+  end_rule: até 31 de Dezembro de 2000
 end_of_validity_date: null
 legal_status: in_force
 notes: []

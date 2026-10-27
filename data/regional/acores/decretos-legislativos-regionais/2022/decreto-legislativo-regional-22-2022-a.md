@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16500/0000500016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-27'
+entry_into_force:
+  date: '2022-08-27'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

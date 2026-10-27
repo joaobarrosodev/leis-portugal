@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 36036 - 36057
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/245000000/3603636057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-02-16'
+entry_into_force:
+  date: '2014-02-16'
+  rule: no prazo de sessenta dias após a data da sua publicação
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

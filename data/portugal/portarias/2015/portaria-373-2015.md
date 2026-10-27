@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 9120 - 9133
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20500/0912009133.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-21'
+entry_into_force:
+  date: '2015-10-21'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

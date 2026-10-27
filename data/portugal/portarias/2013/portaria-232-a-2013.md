@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4250-(2) a 4250-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/13901/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-07-23'
+entry_into_force:
+  date: '2013-07-23'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

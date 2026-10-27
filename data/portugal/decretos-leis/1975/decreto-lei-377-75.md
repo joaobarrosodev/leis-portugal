@@ -23,6 +23,15 @@ publication:
   pages: 997 - 998
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/16400/09970998.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data do Diário do Governo que publicar a portaria a que se refere o artigo 4.º
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

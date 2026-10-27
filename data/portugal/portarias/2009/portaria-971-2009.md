@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5683 - 5683
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/16600/0568305683.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-02-01'
+entry_into_force:
+  date: '2010-02-01'
+  rule: no dia 1 de Fevereiro de 2010 e revoga a Portaria n.º 994/2004, de 5 de Agosto
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

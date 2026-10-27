@@ -25,6 +25,15 @@ publication:
   pages: 265 - 279
   pdf_url: https://files.diariodarepublica.pt/1s/1965/03/05900/02650279.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que a ela aderirem vinte dos seus signatários
+  method: clausula
+  article: art-xv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

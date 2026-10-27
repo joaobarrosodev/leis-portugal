@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2965 - 2989
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-05-31'
+entry_into_force:
+  date: '2011-05-31'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: no que respeita ao controlo da qualidade das águas balneares, no início da primeira época balnear posterior
+    a essa data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

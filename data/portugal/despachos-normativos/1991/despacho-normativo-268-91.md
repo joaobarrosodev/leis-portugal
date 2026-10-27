@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5812 - 5812
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/261b00/58125812.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-11-18'
+entry_into_force:
+  date: '1991-11-18'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1991-06-21'
+  effects_rule: a partir de 21 de Junho de 1991, data da cessação da comissão de serviço
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

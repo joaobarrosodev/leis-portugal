@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 5320 - 5331
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/22000/0532005331.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-11-16'
+entry_into_force:
+  date: '2018-11-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2018-01-01'
+  effects_rule: a 1 de janeiro de 2018, com exceção do disposto no n.º 8 do artigo 14.º, na redação dada pelo presente diploma,
+    que é aplicável a partir das apreciações efetuadas a partir do ano escolar 2018/2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

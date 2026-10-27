@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 417 - 422
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/04900/04170422.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-03-01'
+entry_into_force:
+  date: '1978-03-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

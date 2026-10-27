@@ -24,7 +24,17 @@ publication:
   supplement: 3º Suplemento
   pages: 8186-(606) a 8186-(607)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/301b03/06060607.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-01-01'
+entry_into_force:
+  date: '2003-01-01'
+  rule: no dia 1 de Janeiro de 2003 e cessa a sua vigência em 31 de Dezembro de 2003
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

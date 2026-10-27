@@ -23,9 +23,27 @@ publication:
   supplement: null
   pages: 7-(66) a 7-(125)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23701/0006600125.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-08'
+entry_into_force:
+  date: '2020-12-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:70236274:por#art-36'
+    detail: '[Artigo 13.º, Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07]
+      O n.º 3 do artigo 36.º da Lei n.º 146/2015, de 9 de setembro, na redação dada pelo presente decreto-lei, não se aplica
+      a inspeções de renovação realizadas antes da entrada em vigor do p'
 notes: []
 language: por
 version:

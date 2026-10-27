@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3598-(34) a 3598-(38)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25102/00340038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-10-29'
+entry_into_force:
+  date: '1982-10-29'
+  rule: na data da sua publicação, excepto para os militares já no exercício de cargos políticos electivos e de nomeação,
+    os quais mantêm as situações actuais até final dos respectivos mandatos ou até à exone
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

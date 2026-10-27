@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7294-(2) a 7294-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25101/0000200017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-12-29'
+entry_into_force:
+  date: '2012-12-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2012-01-01'
+  effects_rule: desde 1 de janeiro de 2012, sem prejuízo do disposto no nº seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

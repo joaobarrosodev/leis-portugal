@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3369 - 3370
   pdf_url: https://files.diariodarepublica.pt/1s/1983/09/22200/33693370.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-10-01'
+entry_into_force:
+  date: '1983-10-01'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1982-05-01'
+  effects_rule: desde o dia 1 de Maio de 1982
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

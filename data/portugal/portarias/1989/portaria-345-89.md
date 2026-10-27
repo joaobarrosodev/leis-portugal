@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1935 - 1935
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/11100/19351935.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-05-16'
+entry_into_force:
+  date: '1989-05-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: no tocante à alteração do quadro de pessoal nele estabelecida, desde 19 de Julho de 1987, data do início da
+    vigência da Portaria n.º 602/87, de 14 de Julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

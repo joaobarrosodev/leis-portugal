@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5418-(19) a 5418-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/24701/0001900021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-01-01'
+entry_into_force:
+  date: '2012-01-01'
+  rule: no dia 1 de Janeiro de 2012
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

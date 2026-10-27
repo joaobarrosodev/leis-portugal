@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2353 - 2360
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/181a00/23532360.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-09-05'
+entry_into_force:
+  date: '1996-09-05'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

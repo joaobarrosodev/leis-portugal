@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 695 - 699
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/036b00/06950699.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-03-15'
+entry_into_force:
+  date: '1991-03-15'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 4038-(6) a 4038-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/153b02/00060006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 0 horas do dia 5 de Julho de 2001
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

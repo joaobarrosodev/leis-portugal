@@ -24,6 +24,16 @@ publication:
   pages: 5757 - 5820
   pdf_url: https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à recepção pelo depositário da última notificação pelas Partes do cumprimento das
+    formalidades necessárias para o efeito
+  method: clausula
+  article: art-116
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

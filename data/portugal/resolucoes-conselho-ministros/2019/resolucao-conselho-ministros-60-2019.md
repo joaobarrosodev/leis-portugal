@@ -23,6 +23,15 @@ publication:
   pages: 1757 - 1759
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/06200/0175701759.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

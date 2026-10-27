@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3806 - 3809
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/146a00/38063809.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-26'
+entry_into_force:
+  date: '2001-07-26'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: '2001-03-08'
+  effects_rule: a partir de 8 de Março de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

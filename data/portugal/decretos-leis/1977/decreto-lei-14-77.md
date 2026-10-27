@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 25 - 27
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/00400/00250027.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-01-07'
+entry_into_force:
+  date: '1977-01-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2278-(2) a 2278-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/099b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-04-29'
+entry_into_force:
+  date: '1999-04-29'
+  rule: em 29 de Abril de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

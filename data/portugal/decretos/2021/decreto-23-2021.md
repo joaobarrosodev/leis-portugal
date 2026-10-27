@@ -24,6 +24,16 @@ publication:
   pages: 6 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/22600/0000600014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do ano seguinte ao da data de receção, por via diplomática, da última notificação por escrito entre
+    as Partes na qual confirmam mutuamente o cumprimento dos seus requisitos legais inte
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

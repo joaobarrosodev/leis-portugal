@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3392 - 3394
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/126a00/33923394.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-06-01'
+entry_into_force:
+  date: '1995-06-01'
+  rule: no dia 1 de Junho de 1995
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 1484 - 1488
   pdf_url: https://files.diariodarepublica.pt/1s/1972/10/23800/14841488.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias depois da data em que dez Estados signatários desta Convenção, participantes na Conferência da Haia, tenham
+    depositado os seus instrumentos de ratificação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

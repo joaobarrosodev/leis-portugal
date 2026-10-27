@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 19466-(76) a 19466-(77)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/129000002/0007600077.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-07-07'
+entry_into_force:
+  date: '2007-07-07'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

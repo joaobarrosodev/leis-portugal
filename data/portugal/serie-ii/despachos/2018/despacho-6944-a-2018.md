@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19734-(2) a 19734-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/138000001/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-07-20'
+entry_into_force:
+  date: '2018-07-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: em conformidade com o disposto no artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5813 - 5813
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20800/0581305813.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-10-28'
+entry_into_force:
+  date: '2017-10-28'
+  rule: no dia seguinte ao da sua publicação, aplicando-se aos atos realizados a partir dessa data
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

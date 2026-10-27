@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2761 - 2762
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15800/0276102762.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-08-19'
+entry_into_force:
+  date: '2016-08-19'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

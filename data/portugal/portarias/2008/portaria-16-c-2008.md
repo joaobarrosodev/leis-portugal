@@ -22,7 +22,18 @@ publication:
   supplement: 1º Suplemento
   pages: 208-(4) a 208-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00601/0000400004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-14'
+entry_into_force:
+  date: '2008-01-14'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2008-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2008, salvo no que respeita ao disposto no n.º 3.º, bem como à revogação da Portaria
+    n.º 211/2007, de 22 de Fevereiro, a que se refere a parte final do n.º 4.º, que apenas
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

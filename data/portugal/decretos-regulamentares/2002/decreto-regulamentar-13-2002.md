@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2169 - 2175
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/060b00/21692175.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-13'
+entry_into_force:
+  date: '2002-03-13'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

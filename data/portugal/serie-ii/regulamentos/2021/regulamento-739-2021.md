@@ -24,6 +24,15 @@ publication:
   pages: 140 - 153
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/153000000/0014000153.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de outubro
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 5070 - 5098
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/254a00/50705098.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para cada Membro 12 meses após a data em que a sua ratificação tiver sido registada
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -27,6 +27,15 @@ publication:
   pages: 1499 - 1514
   pdf_url: https://files.diariodarepublica.pt/1s/1971/10/23600/14991514.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: seis meses antes da data prevista para a entrada em vigor da Convenção Adicional de 26 de Fevereiro de 1966
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

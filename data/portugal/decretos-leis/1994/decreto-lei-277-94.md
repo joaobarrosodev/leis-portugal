@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6604 - 6606
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/254a00/66046606.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-12-03'
+entry_into_force:
+  date: '1994-12-03'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-4-a
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

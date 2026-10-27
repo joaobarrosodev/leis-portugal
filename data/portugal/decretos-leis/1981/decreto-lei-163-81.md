@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1339 - 1341
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/13400/13391341.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-06-13'
+entry_into_force:
+  date: '1981-06-13'
+  rule: no dia seguinte ao da sua publicação, salvo quanto a vencimentos e outras remunerações e à contagem de antiguidade
+    nas novas categorias, os quais
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

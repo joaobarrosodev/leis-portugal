@@ -25,6 +25,15 @@ publication:
   pages: 366 - 399
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/022a00/03660399.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data do depósito do 30.º instrumento de ratificação ou adesão
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

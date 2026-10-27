@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7574 - 7574
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/256b00/75747574.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-11-08'
+entry_into_force:
+  date: '1999-11-08'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1999-07-16'
+  effects_rule: a partir do dia 16 de Julho de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

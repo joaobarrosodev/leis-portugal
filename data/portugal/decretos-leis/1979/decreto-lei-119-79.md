@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 832 - 834
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10300/08320834.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-05-06'
+entry_into_force:
+  date: '1979-05-06'
+  rule: no dia imediato ao da sua publicação e sem prejuízo da matéria ressalvada no Decreto-Lei n.º 260/77, de 21 de Junho,
+    que revoga toda a legislação que o contrarie, excepto no que se refere aos processo
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

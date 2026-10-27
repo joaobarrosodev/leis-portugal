@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4802-4802
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/12/13/230006521.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-14'
+entry_into_force:
+  date: '2023-12-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-4
+  effects_date: '2024-01-01'
+  effects_rule: a 1 de janeiro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

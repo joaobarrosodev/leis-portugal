@@ -26,7 +26,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1958/03/05400/01500151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:471562:por#texto'
+    detail: VII) As disposições da presente portaria, que revoga a [Portaria n.º 16628], de 15 de Março de 1958, serão introduzidas
+      nos artigos 20.º, 29.º, 41.º, 44.º, 45.º e 46.º do [Decreto n.º 36615], de 24 de Novembro de 1947, com a redacção do
+      [Decreto n.º 44423], de 28 de Junho de 1962, sempre que sejam a
 notes: []
 language: por
 version:

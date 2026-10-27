@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7474 - 7475
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/270b00/74747475.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-01-01'
+entry_into_force:
+  date: '2002-01-01'
+  rule: no dia 1 de Janeiro de 2002
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

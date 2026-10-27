@@ -24,6 +24,16 @@ publication:
   pages: 1444 - 1448
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/08100/0144401448.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a recepção da última notificação pelas Partes, por escrito e por via diplomática, de informação mútua do cumprimento
+    dos procedimentos internos exigidos para a respectiva entrada em vigor
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4579 - 4580
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/164b00/45794580.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-07-19'
+entry_into_force:
+  date: '1995-07-19'
+  rule: no dia imediato ao da sua publicação, retroagindo os seus efeitos à data de 1 de Janeiro de 1995
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

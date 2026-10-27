@@ -24,6 +24,15 @@ publication:
   pages: 39 - 94
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da receção da última notificação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

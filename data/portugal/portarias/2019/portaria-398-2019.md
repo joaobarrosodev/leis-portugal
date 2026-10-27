@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/22400/0000600010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-11-22'
+entry_into_force:
+  date: '2019-11-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: '2019-11-21'
+  effects_rule: a partir de 21 de novembro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

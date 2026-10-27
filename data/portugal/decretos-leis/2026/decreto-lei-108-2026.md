@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 246 - 377
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/10400/0024600377.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-01'
+entry_into_force:
+  date: '2026-10-01'
+  rule: no dia 1 de outubro de 2026
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

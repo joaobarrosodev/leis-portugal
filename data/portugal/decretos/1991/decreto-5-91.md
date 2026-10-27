@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 253 - 255
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/014a00/02530255.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-01-01'
+entry_into_force:
+  date: '1990-01-01'
+  rule: com efeitos retroactivos a 1 de Janeiro de 1990, na data da última notificação do cumprimento das formalidades exigidas
+    para o efeito pela ordem jurídica de cada uma das Partes e será válido por um pe
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

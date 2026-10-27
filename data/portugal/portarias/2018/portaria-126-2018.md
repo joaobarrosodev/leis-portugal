@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2039 - 2044
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/08800/0203902044.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-07-01'
+entry_into_force:
+  date: '2018-07-01'
+  rule: no primeiro dia do segundo mês seguinte ao da sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

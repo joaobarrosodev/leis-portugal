@@ -25,7 +25,17 @@ publication:
   supplement: 2º Suplemento
   pages: 463-(2) a 463-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/06402/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-01'
+entry_into_force:
+  date: '2020-04-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-10
+  effects_date: '2022-03-31'
+  effects_rule: até 31 de março de 2022, sem prejuízo do disposto nos números seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 3212 - 3227
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/17900/32123227.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias depois da data em que se tornaram Partes da Convenção, por aplicação do artigo 15.º, n.º 2, os Estados cujas
+    contribuições totalizam, segundo a tabela junta no anexo II, pelo menos 85% do mont
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

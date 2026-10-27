@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 950 - 964
   pdf_url: https://files.diariodarepublica.pt/1s/1973/06/13200/09500964.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-07-01'
+entry_into_force:
+  date: '1973-07-01'
+  rule: em 1 de Julho de 1973
+  method: clausula
+  article: art-144
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

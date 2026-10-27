@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1408 - 1408
   pdf_url: https://files.diariodarepublica.pt/1s/1966/08/19600/14081408.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-06-28'
+entry_into_force:
+  date: '1966-06-28'
+  rule: no dia 28 de Junho de 1966
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

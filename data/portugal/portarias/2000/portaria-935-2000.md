@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5493 - 5493
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/229b00/54935493.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-10-08'
+entry_into_force:
+  date: '2000-10-08'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2000-04-13'
+  effects_rule: a partir de 13 de Abril de 2000
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

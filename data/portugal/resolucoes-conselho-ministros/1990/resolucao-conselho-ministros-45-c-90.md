@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5122-(2) a 5122-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28901/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-12-18'
+entry_into_force:
+  date: '1990-12-18'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

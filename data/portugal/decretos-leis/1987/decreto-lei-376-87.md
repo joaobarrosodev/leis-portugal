@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4292-(2) a 4292-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/28401/00020031.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-01-01'
+entry_into_force:
+  date: '1988-01-01'
+  rule: no dia 1 de Janeiro de 1988, com excepção dos artigos 39.º a 44.º, 46.º, 55.º, 183.º e 186.º a 192.º, que
+  method: clausula
+  article: art-208
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

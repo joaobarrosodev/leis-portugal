@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/03/18/911487718.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-18'
+entry_into_force:
+  date: '2025-03-18'
+  rule: no dia da sua publicação e
+  method: clausula
+  article: n-4
+  effects_date: '2025-03-08'
+  effects_rule: a 8 de março de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

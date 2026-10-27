@@ -24,6 +24,16 @@ publication:
   pages: 3284 - 3285
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/121a00/32843285.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando ratificado e manter-se-á vigente até seis meses depois da data em que qualquer das Partes Contratantes notifique
+    a outra Parte do seu desejo de o denunciar
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

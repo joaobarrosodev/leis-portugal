@@ -27,7 +27,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1953/04/07600/05700570.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:510463:por#n-6'
+    detail: 6.º Fica revogada a [Portaria n.º 14335], de 16 de Abril de 1953.
 notes: []
 language: por
 version:

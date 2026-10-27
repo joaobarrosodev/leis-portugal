@@ -24,6 +24,16 @@ publication:
   pages: 6338 - 6345
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/232a00/63386345.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 30 a contar desde o dia em que as Partes Contratantes notificam por escrito por via diplomática da perfeição
+    das formalidades exigidas pela ordem jurídico-constitucional interna
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

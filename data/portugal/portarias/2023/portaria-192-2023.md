@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 63 - 66
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13100/0006300066.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-08'
+entry_into_force:
+  date: '2023-07-08'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: de 1 de janeiro a 31 de dezembro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:869420874:por'
+    detail: Revogada, a partir de 21 de junho de 2024, com efeitos de 1 de janeiro a 31 de dezembro de 2024, a presente portaria,
+      pelo(a) Portaria n.º 170/2024/1 - Diário da República n.º 118/2024, Série I de 2024-06-20
 notes: []
 language: por
 version:

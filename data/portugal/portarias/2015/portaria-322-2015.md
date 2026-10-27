@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8572 - 8573
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19200/0857208573.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-30'
+entry_into_force:
+  date: '2015-10-30'
+  rule: a 30 de outubro de 2015
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

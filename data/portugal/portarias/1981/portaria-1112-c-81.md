@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3406-(46) a 3406-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29902/00460056.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-01-01'
+entry_into_force:
+  date: '1982-01-01'
+  rule: em 1 de Janeiro de 1982
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

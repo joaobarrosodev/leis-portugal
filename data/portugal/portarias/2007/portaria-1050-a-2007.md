@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6100-(2) a 6100-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16801/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-09-01'
+entry_into_force:
+  date: '2007-09-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: '2007-09-04'
+  effects_rule: desde o dia 4 de Setembro de 2007
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

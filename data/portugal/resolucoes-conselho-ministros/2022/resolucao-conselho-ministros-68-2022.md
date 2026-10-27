@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/14700/0000800010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-02'
+entry_into_force:
+  date: '2022-08-02'
+  rule: no dia seguinte ao da sua publicação, aplicando-se aos estágios que se iniciem após essa data
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

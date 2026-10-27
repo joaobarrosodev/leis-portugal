@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1493 - 1495
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/079b00/14931495.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-04-03'
+entry_into_force:
+  date: '1998-04-03'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

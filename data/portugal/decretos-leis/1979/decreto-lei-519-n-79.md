@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3414-(31) a 3414-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29803/00310033.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-01-01'
+entry_into_force:
+  date: '1980-01-01'
+  rule: no primeiro dia do mês seguinte à publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

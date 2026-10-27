@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 846-(2) a 846-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05201/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-03-17'
+entry_into_force:
+  date: '2010-03-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2010-03-15'
+  effects_rule: a 15 de Março de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

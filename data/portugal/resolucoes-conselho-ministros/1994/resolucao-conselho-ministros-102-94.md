@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6278 - 6287
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/240b00/62786287.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-10-17'
+entry_into_force:
+  date: '1994-10-17'
+  rule: após a sua publicação no Diário da República e aplica-se a todos os casos
+  method: clausula
+  article: art-74
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

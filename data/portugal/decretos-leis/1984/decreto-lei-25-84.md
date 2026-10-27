@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 201 - 201
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01400/02010201.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-07-01'
+entry_into_force:
+  date: '1984-07-01'
+  rule: em 1 de Julho de 1984
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

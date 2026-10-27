@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3108 - 3109
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28000/31083109.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-12-06'
+entry_into_force:
+  date: '1979-12-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '1979-08-01'
+  effects_rule: desde 1 de Agosto de 1979
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

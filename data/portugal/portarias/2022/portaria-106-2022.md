@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 4
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/04400/0000300004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-03-04'
+entry_into_force:
+  date: '2022-03-04'
+  rule: no dia seguinte ao da publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data de entrada em vigor da Portaria n.º 38/2022, de 17 de janeiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4330 - 4362
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: doze meses após a data em que pelo menos trinta Estados cujas frotas mercantes representem não menos de trinta e cinco
+    por cento da arqueação bruta da frota mundial tenham assinado a Convenção sem res
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

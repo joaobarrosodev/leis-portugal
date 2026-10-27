@@ -25,6 +25,15 @@ publication:
   pages: 4019 - 4022
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15400/0401904022.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com efeito retroativo a 1 de maio de 1993
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7581 - 7613
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-27'
+entry_into_force:
+  date: '2009-01-27'
+  rule: no prazo de 90 dias a contar da data da sua publicação, com excepção do artigo 79.º, que
+  method: clausula
+  article: art-84
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 67-(2) a 67-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12502/0000200004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de julho e
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até ao dia 30 de setembro de 2021, sem prejuízo da sua eventual prorrogação
 end_of_validity_date: null
 legal_status: in_force
 notes: []

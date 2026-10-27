@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1644 - 1646
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/071b00/16441646.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-03-25'
+entry_into_force:
+  date: '2001-03-25'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

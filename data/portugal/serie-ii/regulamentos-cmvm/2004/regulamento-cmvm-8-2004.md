@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19404 - 19408
   pdf_url: https://files.diariodarepublica.pt/2s/2004/12/305000000/1940419408.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-01-01'
+entry_into_force:
+  date: '2005-01-01'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

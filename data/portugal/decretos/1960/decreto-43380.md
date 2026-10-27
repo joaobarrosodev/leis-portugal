@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2708 - 2711
   pdf_url: https://files.diariodarepublica.pt/1s/1960/12/28200/27082711.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1961-01-01'
+entry_into_force:
+  date: '1961-01-01'
+  rule: em 1 de Janeiro de 1961
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

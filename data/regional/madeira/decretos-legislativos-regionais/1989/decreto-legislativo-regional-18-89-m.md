@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2802 - 2803
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15900/28022803.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-07-14'
+entry_into_force:
+  date: '1989-07-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: no tocante às revalorizações nele estabelecidas, desde 1 de Janeiro de 1988
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

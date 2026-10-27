@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 208 - 208
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02200/02080208.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-01-27'
+entry_into_force:
+  date: '1983-01-27'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

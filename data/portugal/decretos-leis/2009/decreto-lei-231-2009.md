@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6422 - 6428
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17900/0642206428.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-10-01'
+entry_into_force:
+  date: '2009-10-01'
+  rule: no 1.º dia do mês seguinte à sua publicação
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

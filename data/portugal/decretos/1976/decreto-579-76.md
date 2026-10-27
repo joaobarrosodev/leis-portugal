@@ -23,6 +23,16 @@ publication:
   pages: 1610 - 1621
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16900/16101621.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cento e vinte dias depois de cinquenta e um Estados cujos organismos oficiais de turismo são Membros efectivos da
+    UIOOT na altura da adopção dos presentes Estatutos terem oficialmente notificado ao de
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

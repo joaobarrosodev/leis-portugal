@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4496 - 4497
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/14900/0449604497.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-08-04'
+entry_into_force:
+  date: '2017-08-04'
+  rule: no dia seguinte à publicação do Orçamento do Estado, subsequente à sua aprovação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

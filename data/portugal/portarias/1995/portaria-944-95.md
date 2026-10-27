@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4904 - 4905
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/176b00/49044905.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-09-15'
+entry_into_force:
+  date: '1995-09-15'
+  rule: no dia 15 de Setembro de 1995
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

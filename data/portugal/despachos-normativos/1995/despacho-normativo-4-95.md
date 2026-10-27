@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 463 - 463
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/021b00/04630463.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-01-30'
+entry_into_force:
+  date: '1995-01-30'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

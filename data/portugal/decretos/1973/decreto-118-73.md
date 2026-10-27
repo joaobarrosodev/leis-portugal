@@ -23,6 +23,15 @@ publication:
   pages: 454 - 456
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/06900/04540456.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o respectivo regulamento, a publicar pelo Governo-Geral do Estado de Angola, no prazo de cento e oitenta dias
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

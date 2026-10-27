@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 485 - 495
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/127000000/0048500495.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-01'
+entry_into_force:
+  date: '2026-08-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação no Diário da República, com expressa exclusão das reservas comprovadamente
+    efetuadas antes desta data para o ano de 2026
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

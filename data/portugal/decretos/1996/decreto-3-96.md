@@ -24,6 +24,16 @@ publication:
   pages: 876 - 877
   pdf_url: https://files.diariodarepublica.pt/1s/1996/04/091a00/08760877.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da segunda das notas pelas quais as duas Partes comunicarem reciprocamente a sua aprovação, em
+    conformidade com os processos constitucionais de ambos os Países
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

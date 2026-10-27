@@ -24,6 +24,15 @@ publication:
   pages: 4996-(2) a 4996-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26201/00020006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que se iniciar a vigência do Decreto-Lei n.º 261/89, de 17 de Agosto
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

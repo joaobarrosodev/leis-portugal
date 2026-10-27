@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6519 - 6519
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23300/0651906519.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-12-10'
+entry_into_force:
+  date: '2017-12-10'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2017-12-06'
+  effects_rule: no dia seguinte ao da sua publicação e
+  end_date: null
+  end_rule: até à entrada em vigor da Lei n.º 77/2017, de 17 de agosto
 end_of_validity_date: null
 legal_status: unknown
 notes: []

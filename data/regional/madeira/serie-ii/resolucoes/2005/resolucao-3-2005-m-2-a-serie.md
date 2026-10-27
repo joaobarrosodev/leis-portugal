@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4811 - 4820
   pdf_url: https://files.diariodarepublica.pt/2s/2005/03/061000000/0481104820.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-03-30'
+entry_into_force:
+  date: '2005-03-30'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-69
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

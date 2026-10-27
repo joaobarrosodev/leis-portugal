@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8783 - 8783
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/119000000/0878308783.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-06-01'
+entry_into_force:
+  date: '2000-06-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 32-(1) a 32-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/00501/00010003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no próximo dia 8 de Janeiro
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

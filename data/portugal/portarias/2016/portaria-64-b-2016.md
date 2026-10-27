@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1110-(71) a 1110-(73)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/06302/0007100073.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-01'
+entry_into_force:
+  date: '2016-04-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

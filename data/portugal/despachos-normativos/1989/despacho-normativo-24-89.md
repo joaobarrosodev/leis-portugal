@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1116 - 1119
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/06200/11161119.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-04-01'
+entry_into_force:
+  date: '1989-04-01'
+  rule: no primeiro dia do mês imediato ao da publicação, exceptuando-se as regras contidas nos n.os 7 a 9, que só
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 5241 - 5242
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14200/52415242.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-07-26'
+entry_into_force:
+  date: '2006-07-26'
+  rule: no dia seguinte ao da sua publicação e os seus efeitos retroagem à data de entrada em vigor da Portaria n.º 442/2006,
+    de 10 de Maio
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

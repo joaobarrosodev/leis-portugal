@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4678-4680
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/12/05/225265470.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-06'
+entry_into_force:
+  date: '2023-12-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-3
+  effects_date: '2023-12-22'
+  effects_rule: a partir de 22 de dezembro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

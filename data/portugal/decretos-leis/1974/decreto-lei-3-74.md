@@ -23,6 +23,15 @@ publication:
   pages: 17 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/00600/00170020.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de trinta dias, a contar da sua publicação no Diário do Governo
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

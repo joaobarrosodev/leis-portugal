@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5874 - 5874
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21200/0587405874.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-08'
+entry_into_force:
+  date: '2017-11-08'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

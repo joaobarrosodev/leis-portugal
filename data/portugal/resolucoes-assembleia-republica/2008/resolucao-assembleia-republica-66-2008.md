@@ -25,6 +25,16 @@ publication:
   pages: 9132 - 9163
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a recepção pelo Secretário-geral de uma notificação, por escrito e por via diplomática, da Parte Portuguesa de
+    que foram cumpridos os seus requisitos de direito interno necessários para o efeito
+  method: clausula
+  article: art-xvii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

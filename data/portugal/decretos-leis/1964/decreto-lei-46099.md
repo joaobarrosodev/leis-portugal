@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1912 - 1915
   pdf_url: https://files.diariodarepublica.pt/1s/1964/12/29900/19121915.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1965-01-01'
+entry_into_force:
+  date: '1965-01-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação, data a partir da qual ficarão revogados o artigo 5.º do Decreto-Lei
+    n.º 36715, de 8 de Janeiro de 1948, e o Decreto-Lei n.º 37713, de 30 de Dezembro de 1
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

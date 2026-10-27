@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3843 - 3845
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/164a00/38433845.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-08-14'
+entry_into_force:
+  date: '1993-08-14'
+  rule: 30 dias após a publicação da portaria conjunta a que se refere o n.º 1 do artigo 2.º
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

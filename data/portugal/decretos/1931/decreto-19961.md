@@ -27,7 +27,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1931/06/14800/12741275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:385038:por#art-5'
+    detail: É revogado o [Decreto n.º 19961], de 29 de Junho de 1931, bem como toda a legislação em contrário.
 notes: []
 language: por
 version:

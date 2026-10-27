@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 4650 - 4655
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/203a00/46504655.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-09-03'
+entry_into_force:
+  date: '2000-09-03'
+  rule: no dia imediato à sua publicação, sem prejuízo da possibilidade de continuarem a ser comercializados até 1 de Novembro
+    de 2001 os produtos não conformes com o que nele é estabelecido que cumpram os re
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

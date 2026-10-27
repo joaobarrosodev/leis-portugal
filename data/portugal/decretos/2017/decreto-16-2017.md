@@ -24,6 +24,16 @@ publication:
   pages: 2770 - 2774
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10800/0277002774.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta (30) dias após a data da receção da última notificação, por escrito, por via diplomática, de que foram concluídos
+    os procedimentos para entrada em vigor do presente Acordo, conforme estabelecid
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

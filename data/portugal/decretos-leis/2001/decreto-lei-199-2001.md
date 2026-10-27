@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4356 - 4356
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/161a00/43564356.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-14'
+entry_into_force:
+  date: '2001-07-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2001-04-01'
+  effects_rule: a partir de 1 de Abril de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

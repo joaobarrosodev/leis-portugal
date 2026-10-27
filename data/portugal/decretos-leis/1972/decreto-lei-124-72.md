@@ -24,6 +24,16 @@ publication:
   pages: 438-(1) a 438-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/04/09201/00010041.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: sessenta dias depois da data da sua assinatura sem reserva de ratificação, de aceitação ou de aprovação, ou quando
+    tenha sido ratificado, aceite ou aprovado ou a ele tenham aderido dois terços dos Est
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

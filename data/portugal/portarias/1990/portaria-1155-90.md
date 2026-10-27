@@ -23,6 +23,16 @@ publication:
   pages: 4817 - 4822
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27100/48174822.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de entrada em vigor do Regulamento de Tarifas da Administração dos Portos de Setúbal e Sesimbra, aprovado
+    pela Portaria n.º 1154/90, de 23 de Novembro
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

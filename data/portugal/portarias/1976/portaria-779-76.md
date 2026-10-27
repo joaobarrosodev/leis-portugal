@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2897 - 2898
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30300/28972898.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-01-01'
+entry_into_force:
+  date: '1977-01-01'
+  rule: no dia 1 de Janeiro de 1977
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

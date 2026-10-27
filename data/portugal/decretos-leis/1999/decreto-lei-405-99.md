@@ -24,6 +24,16 @@ publication:
   pages: 6919 - 6923
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/240a00/69196923.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia l do mês seguinte ao da publicação do respectivo regulamento e vigora no decurso de cinco anos, sem prejuízo
+    do disposto no número seguinte
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

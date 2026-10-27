@@ -24,6 +24,15 @@ publication:
   pages: 15-(3) a 15-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02202/0000300014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à receção da última das notificações a que se refere o segundo parágrafo
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

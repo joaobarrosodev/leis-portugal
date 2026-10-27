@@ -25,6 +25,15 @@ publication:
   pages: 87 - 88
   pdf_url: https://files.diariodarepublica.pt/1s/1971/01/02400/00870088.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em todas as províncias ultramarinas no dia 1 de Janeiro de 1972
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

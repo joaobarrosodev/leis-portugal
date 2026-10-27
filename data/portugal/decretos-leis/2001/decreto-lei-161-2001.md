@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2976 - 2979
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/118a00/29762979.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-23'
+entry_into_force:
+  date: '2001-05-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

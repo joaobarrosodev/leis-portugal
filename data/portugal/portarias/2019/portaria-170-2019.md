@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2775 - 2787
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/10500/0277502787.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-05'
+entry_into_force:
+  date: '2019-06-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: à data de entrada em vigor do Decreto-Lei n.º 108/2018, de 3 de dezembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

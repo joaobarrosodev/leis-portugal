@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2020 - 2021
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/22200/20202021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-09-27'
+entry_into_force:
+  date: '1978-09-27'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

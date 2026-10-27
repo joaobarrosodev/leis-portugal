@@ -25,6 +25,16 @@ publication:
   pages: 1486-(2) a 1486-(112)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data em que as Partes tenham procedido à notificação recíproca do cumprimento das
+    formalidades referidas no primeiro parágrafo
+  method: clausula
+  article: art-130
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

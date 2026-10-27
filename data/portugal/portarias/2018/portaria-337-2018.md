@@ -24,6 +24,16 @@ publication:
   pages: 5970 - 5970
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/25000/0597005970.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente seguinte ao da sua publicação e aplica-se a todos os médicos que iniciem a Formação Geral
+    a partir de 1 de janeiro de 2019
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

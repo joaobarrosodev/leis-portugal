@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3986 - 3989
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/22300/39863989.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-10-26'
+entry_into_force:
+  date: '1990-10-26'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: n-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2614-(13) a 2614-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/059b02/00130013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-22'
+entry_into_force:
+  date: '2005-06-22'
+  rule: 90 dias após publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 904 - 907
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/028b00/09040907.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-02-10'
+entry_into_force:
+  date: '2005-02-10'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante 24 meses, podendo, no entanto, ser objecto de prorrogação por mais 12 meses
 end_of_validity_date: null
 legal_status: in_force
 notes: []

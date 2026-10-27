@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2768 - 2769
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23800/27682769.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-10-17'
+entry_into_force:
+  date: '1981-10-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

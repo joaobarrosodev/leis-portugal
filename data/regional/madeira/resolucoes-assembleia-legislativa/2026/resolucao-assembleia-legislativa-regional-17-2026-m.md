@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 530 - 534
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/10400/0053000534.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-30'
+entry_into_force:
+  date: '2026-05-30'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: a partir da entrada em vigor da lei que aprove o Orçamento do Estado do ano imediatamente subsequente
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

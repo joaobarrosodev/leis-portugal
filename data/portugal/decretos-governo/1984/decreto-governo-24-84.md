@@ -24,6 +24,15 @@ publication:
   pages: 1551 - 1561
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11200/15511561.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 3 meses após o depósito do sexto instrumento de ratificação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

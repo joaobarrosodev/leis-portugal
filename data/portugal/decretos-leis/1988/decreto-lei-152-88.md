@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1710 - 1717
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09900/17101717.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-05-29'
+entry_into_force:
+  date: '1988-05-29'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

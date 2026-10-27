@@ -25,6 +25,16 @@ publication:
   pages: 8 - 20
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21400/0000800020.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação, só sendo aplicável aos procedimentos de formação de contratos
+    públicos que se iniciem após a sua data de entrada em vigor e aos contratos cel
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

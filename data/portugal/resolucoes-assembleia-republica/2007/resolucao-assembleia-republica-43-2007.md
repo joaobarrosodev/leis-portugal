@@ -25,6 +25,15 @@ publication:
   pages: 6404 - 6414
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/17400/0640406414.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data do depósito do sétimo instrumento de ratificação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

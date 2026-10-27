@@ -23,6 +23,16 @@ publication:
   pages: 1912 - 1922
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/092a00/19121922.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao termo do prazo de três meses após a data em que três Estados membros do Conselho da
+    Europa tenham expressado o seu consentimento em ficar vinculados à Convenção em confor
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

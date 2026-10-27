@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3237 - 3239
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/156b00/32373239.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-07-01'
+entry_into_force:
+  date: '1992-07-01'
+  rule: no dia 1 de Julho de 1992
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 85 - 89
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/15600/0008500089.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-13'
+entry_into_force:
+  date: '2022-08-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: '2022-01-01'
+  effects_rule: a 1 de janeiro de 2022
+  end_date: '2026-12-31'
+  end_rule: até 31 de dezembro de 2026, sem prejuízo dos compromissos assumidos pelo Estado que excedam aquele período, e
+    para os quais é assegurado o financiamento necessário à sua execução
 end_of_validity_date: null
 legal_status: unknown
 notes: []

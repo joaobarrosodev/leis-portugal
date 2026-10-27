@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 16-(2) a 16-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09901/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-09-01'
+entry_into_force:
+  date: '2022-09-01'
+  rule: no dia 1 de setembro de 2022 e
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até ao dia 30 de setembro de 2022, sem prejuízo da sua eventual prorrogação
 end_of_validity_date: null
 legal_status: in_force
 notes: []

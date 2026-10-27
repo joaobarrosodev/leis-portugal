@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4773 - 4775
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/125b00/47734775.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-01'
+entry_into_force:
+  date: '2002-06-01'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4273 - 4379
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23100/0427304379.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-01'
+entry_into_force:
+  date: '2017-01-01'
+  rule: no dia 1 de janeiro de 2017, para os exercícios de 2017 e seguintes, com exceção da estrutura de dados a que se refere
+    o artigo 3.º, que
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1728-(2) a 1728-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/10601/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-03'
+entry_into_force:
+  date: '2016-06-03'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2015-11-25'
+  effects_rule: a partir de 25 de novembro de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

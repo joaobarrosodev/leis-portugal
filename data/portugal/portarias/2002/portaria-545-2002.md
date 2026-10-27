@@ -23,7 +23,19 @@ publication:
   supplement: null
   pages: 4762 - 4763
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/124b00/47624763.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-03'
+entry_into_force:
+  date: '2002-06-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir da data em que estejam efectivamente instalados e em funcionamento, em cada um dos referidos aeroportos,
+    os respectivos sistemas de monitorização do ruído
+  end_date: '2003-05-14'
+  end_rule: até 14 de Maio de 2003, momento em que serão redefinidos os valores indicados no quadro anexo, no sentido de reduzir
+    o número de movimentos aéreos a autorizar, podendo este prazo ser prorrogado
 end_of_validity_date: null
 legal_status: in_force
 notes: []

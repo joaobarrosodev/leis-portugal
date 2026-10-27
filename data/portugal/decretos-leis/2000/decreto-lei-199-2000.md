@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4299 - 4301
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/195a00/42994301.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-08-25'
+entry_into_force:
+  date: '2000-08-25'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '1999-11-01'
+  effects_rule: desde 1 de Novembro de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

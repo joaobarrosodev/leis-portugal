@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 11 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12500/0001100016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-27'
+entry_into_force:
+  date: '2020-12-27'
+  rule: no prazo de 180 dias a contar da data da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5497 - 5499
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/19100/0549705499.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-10-03'
+entry_into_force:
+  date: '2012-10-03'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo da sua aplicação aos projetos florestais nele previstos cujos procedimentos
+    de reanálise se encontrem em curso, relativamente ao estatuto de agricult
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

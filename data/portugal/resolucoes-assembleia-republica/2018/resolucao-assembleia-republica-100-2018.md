@@ -25,6 +25,16 @@ publication:
   pages: 1560 - 1561
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07000/0156001561.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da receção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos
+    de direito interno de ambas as Partes necessários para o efeito
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo período de vigência do Tratado
 end_of_validity_date: null
 legal_status: unknown
 notes: []

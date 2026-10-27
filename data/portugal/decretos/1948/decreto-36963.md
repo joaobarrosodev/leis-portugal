@@ -27,7 +27,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1948/07/15900/06290630.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:295674:por#art-5'
+    detail: É revogado o [Decreto n.º 36963], de 10 de Julho de 1948.
 notes: []
 language: por
 version:

@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1940/01/01300/00760076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:194195:por#n-4'
+    detail: 4.º Ficam revogadas a [Portaria n.º 9436], de 5 de Setembro de 1956, e a Portaria Ministerial n.º 2, de 19 de
+      Maio de 1961, publicadas em Angola.
 notes: []
 language: por
 version:

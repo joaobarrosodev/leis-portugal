@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4184-(6) a 4184-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/181a02/00060013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-08-05'
+entry_into_force:
+  date: '1993-08-05'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

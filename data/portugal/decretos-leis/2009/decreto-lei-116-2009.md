@@ -27,6 +27,15 @@ publication:
   pages: 3142 - 3148
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/09500/0314203148.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'para cada substância activa:'
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

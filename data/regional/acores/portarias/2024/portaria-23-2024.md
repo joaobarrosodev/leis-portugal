@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 441-480
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/04/30/863401423.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-05-01'
+entry_into_force:
+  date: '2024-05-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: relativamente ao licenciamento para o período de 1 de maio a 31 de dezembro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

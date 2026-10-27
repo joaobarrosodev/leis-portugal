@@ -23,6 +23,16 @@ publication:
   pages: 313 - 316
   pdf_url: https://files.diariodarepublica.pt/1s/1973/02/04900/03130316.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista
+    a que se refere o n.º 1 do artigo 31.º
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

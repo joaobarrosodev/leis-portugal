@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3696 - 3697
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/088b00/36963697.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-15'
+entry_into_force:
+  date: '2002-05-15'
+  rule: no prazo de 30 dias a contar da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

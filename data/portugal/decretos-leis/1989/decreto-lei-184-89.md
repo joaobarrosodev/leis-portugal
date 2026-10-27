@@ -23,6 +23,15 @@ publication:
   pages: 2149 - 2156
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/12600/21492156.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: conjuntamente com os diplomas legais de desenvolvimento relativo a matéria salarial
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

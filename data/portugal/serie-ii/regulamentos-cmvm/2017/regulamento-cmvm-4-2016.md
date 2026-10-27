@@ -23,6 +23,15 @@ publication:
   pages: 194 - 195
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/002000000/0019400195.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor da portaria que procede à terceira alteração à Portaria n.º 913-I/2003, de 30 de agosto
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

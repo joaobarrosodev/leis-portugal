@@ -24,6 +24,16 @@ publication:
   pages: 4786 - 4789
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15200/0478604789.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a data de receção da última notificação, por escrito e por via diplomática, declarando que foram
+    cumpridos os processos internos previstos pelas respetivas legislações nacionais
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

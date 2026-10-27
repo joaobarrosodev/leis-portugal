@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4753 - 4763
   pdf_url: https://files.diariodarepublica.pt/2s/2007/02/039000000/0475304763.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-24'
+entry_into_force:
+  date: '2007-05-24'
+  rule: 90 dias após a sua data de publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

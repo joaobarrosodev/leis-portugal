@@ -24,6 +24,15 @@ publication:
   pages: 4616-(6) a 4616-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/12802/0000600013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

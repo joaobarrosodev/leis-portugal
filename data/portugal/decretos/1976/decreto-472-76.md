@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1335 - 1336
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/13900/13351336.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-06-15'
+entry_into_force:
+  date: '1976-06-15'
+  rule: na data da sua publicação, produzindo, todavia, todos os efeitos legais a partir de 1 de Outubro de 1975
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

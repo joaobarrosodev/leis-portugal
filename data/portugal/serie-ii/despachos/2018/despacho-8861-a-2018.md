@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 25678-(2) a 25678-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2018/09/180000001/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-19'
+entry_into_force:
+  date: '2018-09-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

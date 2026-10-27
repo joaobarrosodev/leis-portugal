@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1439 - 1445
   pdf_url: https://files.diariodarepublica.pt/1s/1968/09/21600/14391445.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-03-11'
+entry_into_force:
+  date: '1969-03-11'
+  rule: 180 dias após a sua publicação no Diário do Governo
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

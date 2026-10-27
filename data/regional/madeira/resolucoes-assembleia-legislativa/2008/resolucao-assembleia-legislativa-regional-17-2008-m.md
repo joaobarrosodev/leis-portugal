@@ -24,6 +24,15 @@ publication:
   pages: 5277 - 5278
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15000/0527705278.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com efeitos reportados ao início de vigência do Decreto-Lei n.º 241/2007, de 21 de Junho
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

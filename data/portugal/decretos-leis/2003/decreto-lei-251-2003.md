@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 6772 - 6834
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/238a00/67726834.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-10-24'
+entry_into_force:
+  date: '2003-10-24'
+  rule: 10 dias após a sua publicação, produzindo as disposições relativas ao cálculo da margem de solvência disponível e
+    exigida e aos valores mínimos do fundo de garantia das empresas de seguros e as dispos
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

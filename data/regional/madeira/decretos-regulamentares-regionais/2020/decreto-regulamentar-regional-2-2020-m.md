@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 12 - 22
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/00600/0001200022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-10'
+entry_into_force:
+  date: '2020-01-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

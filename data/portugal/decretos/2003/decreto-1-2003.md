@@ -24,6 +24,16 @@ publication:
   pages: 246 - 249
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/015a00/02460249.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da última notificação pela qual uma das Partes comunica à outra, por via diplomática, que foram
+    cumpridas as formalidades necessárias exigidas pelo ordenamento jurídico interno
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

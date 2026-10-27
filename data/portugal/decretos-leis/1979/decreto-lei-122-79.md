@@ -23,6 +23,15 @@ publication:
   pages: 845 - 848
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10500/08450848.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de sessenta dias, salvo o disposto nos restantes números deste preceito e no artigo seguinte
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

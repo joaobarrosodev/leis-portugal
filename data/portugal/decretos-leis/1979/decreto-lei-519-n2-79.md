@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3446-(264) a 3446-(272)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29913/02640272.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-12-29'
+entry_into_force:
+  date: '1979-12-29'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 45 - 49
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20300/0004500049.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no último dia do mês da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

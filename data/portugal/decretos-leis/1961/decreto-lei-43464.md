@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 11 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/1961/01/00300/00110014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1961-01-01'
+entry_into_force:
+  date: '1961-01-01'
+  rule: 'em 1 de Janeiro de 1961, data em que, sem prejuízo do disposto no artigo 23.º, ficarão revogados o Decreto-Lei n.º
+    28492, de 19 de Fevereiro de 1938, e o Regulamento do Regime de Obtenção de Resina e '
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

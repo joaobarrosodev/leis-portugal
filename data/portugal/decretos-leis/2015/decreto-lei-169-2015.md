@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6261 - 6263
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16400/0626106263.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-25'
+entry_into_force:
+  date: '2015-08-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

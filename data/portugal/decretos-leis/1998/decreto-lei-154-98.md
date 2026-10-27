@@ -23,6 +23,15 @@ publication:
   pages: 2588 - 2593
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/131a00/25882593.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

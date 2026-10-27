@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2514 - 2517
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/125b00/25142517.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-31'
+entry_into_force:
+  date: '2000-05-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

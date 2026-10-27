@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 469 - 470
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/05100/04690470.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-03-04'
+entry_into_force:
+  date: '1982-03-04'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: desde a data de entrada em vigor do Decreto-Lei n.º 173/79, de 6 de Junho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

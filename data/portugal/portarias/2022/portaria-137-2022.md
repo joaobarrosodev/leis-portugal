@@ -22,7 +22,19 @@ publication:
   supplement: null
   pages: 4 - 104
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07000/0000400104.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-09'
+entry_into_force:
+  date: '2022-04-09'
+  rule: 'no dia seguinte ao da sua publicação, sendo as alterações ora introduzidas apenas aplicáveis aos projetos que ainda
+    não foram objeto de decisão sobre a concessão de apoio por parte das autoridades de '
+  method: clausula
+  article: art-4
+  effects_date: '2022-04-09'
+  effects_rule: 'no dia seguinte ao da sua publicação, sendo as alterações ora introduzidas apenas aplicáveis aos projetos
+    que ainda não foram objeto de decisão sobre a concessão de apoio por parte das autoridades de '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 3383 - 3386
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/23800/33833386.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 3 meses após a data em que 3 Membros do Conselho da Europa, em conformidade com as disposições do artigo 5.º, o tenham
+    assinado sem reserva de ratificação ou o tenham ratificado
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

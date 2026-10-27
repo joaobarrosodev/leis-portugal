@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03200/0000200008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-21'
+entry_into_force:
+  date: '2021-02-21'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2021-07-01'
+  effects_rule: a partir de 1 de julho de 2021, sendo as taxas de carbono sobre viagens marítimas e aéreas devidas relativamente
+    aos factos tributários ocorridos em ou após aquela data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

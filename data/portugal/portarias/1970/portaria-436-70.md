@@ -25,6 +25,16 @@ publication:
   pages: 1148 - 1148
   pdf_url: https://files.diariodarepublica.pt/1s/1970/08/20100/11481148.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em todas as províncias ultramarinas no dia 1 de Janeiro de 1971 para os automóveis pesados e no dia 1 de Junho de
+    1971 para os automóveis ligeiros
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 4228 - 4239
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15700/0422804239.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a data do depósito do quinquagésimo instrumento de ratificação, aceitação ou aprovação junto do Depositário
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

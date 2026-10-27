@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 32 - 39
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20500/0003200039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-10-29'
+entry_into_force:
+  date: '2019-10-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2019-10-25'
+  effects_rule: no dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

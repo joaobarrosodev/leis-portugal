@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 403
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/07900/0000200403.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-04-23'
+entry_into_force:
+  date: '2024-04-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

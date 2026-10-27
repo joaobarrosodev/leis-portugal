@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3202 - 3205
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/17800/0320203205.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-16'
+entry_into_force:
+  date: '2016-09-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-17
+  effects_date: '2016-06-01'
+  effects_rule: a partir de 1 de junho de 2016
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2785 - 2807
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/119a00/27852807.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-05-23'
+entry_into_force:
+  date: '1999-05-23'
+  rule: no dia imediatamente a seguir ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

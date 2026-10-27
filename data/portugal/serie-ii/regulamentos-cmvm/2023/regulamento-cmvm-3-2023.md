@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 223 - 229
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/165000000/0022300229.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-11'
+entry_into_force:
+  date: '2023-09-11'
+  rule: a 11 de setembro de 2023
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

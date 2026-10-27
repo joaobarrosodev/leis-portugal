@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 796-(4) a 796-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/07401/00040005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-03-31'
+entry_into_force:
+  date: '1981-03-31'
+  rule: no dia seguinte à sua publicação e caduca logo que, por portaria do Ministro da Agricultura e Pescas, se reconheça
+    que deixaram de verificar-se os condicionalismos que presidiram à sua aprovação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

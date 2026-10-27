@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 10 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14400/0001000014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-28'
+entry_into_force:
+  date: '2022-07-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: '2022-09-01'
+  effects_rule: a partir do dia 1 de setembro de 2022, com exceção do artigo 4.º, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

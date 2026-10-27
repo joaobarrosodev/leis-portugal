@@ -24,6 +24,16 @@ publication:
   pages: 3597 - 3600
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/20500/35973600.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'na data da última das notas trocadas entre as Partes, notas pelas quais cada uma das Partes comunica à outra que
+    se encontram cumpridas as formalidades exigidas pela respectiva ordem jurídica interna '
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

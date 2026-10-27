@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 1878 - 1909
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/053a00/18781909.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-03-30'
+entry_into_force:
+  date: '2006-03-30'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

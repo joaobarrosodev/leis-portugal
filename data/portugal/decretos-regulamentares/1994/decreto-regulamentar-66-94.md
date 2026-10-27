@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6885 - 6887
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/267b00/68856887.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-01-17'
+entry_into_force:
+  date: '1995-01-17'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

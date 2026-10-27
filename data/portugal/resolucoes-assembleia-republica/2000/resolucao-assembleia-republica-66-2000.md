@@ -24,6 +24,16 @@ publication:
   pages: 5858 - 5912
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/242a00/58585912.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando os seguintes Estados, que são membros da Organização Europeia de Investigação Espacial ou da Organização Europeia
+    para o Desenvolvimento e Construção de Lançadores de Veículos, Espaciais, a ten
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

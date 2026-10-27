@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1606 - 1608
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/05100/0160601608.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-04-01'
+entry_into_force:
+  date: '2013-04-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

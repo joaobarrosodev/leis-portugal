@@ -24,6 +24,16 @@ publication:
   pages: 4701 - 4707
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/208a00/47014707.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades constitucionais exigidas em cada Parte Contratante
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: sobre os direitos e obrigações das Partes derivados da participação em acordos ou tratados internacionais
+    de que possam vir a ser parte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

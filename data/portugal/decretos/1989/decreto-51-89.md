@@ -24,6 +24,16 @@ publication:
   pages: 4594 - 4595
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24100/45944595.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que vier a ser comunicado que se encontram cumpridas as formalidades exigidas pela ordem jurídica interna
+    de cada uma das Partes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

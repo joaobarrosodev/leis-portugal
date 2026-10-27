@@ -24,6 +24,15 @@ publication:
   pages: 1696 - 1699
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/15900/16961699.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a troca dos instrumentos de ratificação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2958 - 2961
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/17200/29582961.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-08-28'
+entry_into_force:
+  date: '1987-08-28'
+  rule: '30 dias após a sua publicação, com excepção do disposto na alínea f) do n.º 1 do artigo 46.º e do n.º 7 do artigo
+    47.º do Código da Estrada quanto às licenças de condução emitidas nos Estados membros '
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

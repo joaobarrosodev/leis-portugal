@@ -24,6 +24,15 @@ publication:
   pages: 8 - 14
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21300/0000800014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 60 dias após a sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

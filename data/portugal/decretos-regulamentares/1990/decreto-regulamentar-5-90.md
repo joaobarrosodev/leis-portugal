@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 760-(2) a 760-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/04501/00020015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-02-23'
+entry_into_force:
+  date: '1990-02-23'
+  rule: no dia imediato ao da sua publicação e aplica-se aos rendimentos pagos ou colocados à disposição dos seus titulares
+    a partir de 1 de Janeiro de 1990
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

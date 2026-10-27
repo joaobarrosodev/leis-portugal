@@ -23,6 +23,16 @@ publication:
   pages: 535 - 538
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/003000000/0053500538.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a data da sua publicação através de Edital nos lugares de estilo, nos termos, e para os efeitos,
+    do disposto no artigo 91.º da Lei n.º 169/99, de 18 de Setembro, com as alteraçõe
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 48 - 61
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14400/0004800061.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-29'
+entry_into_force:
+  date: '2026-07-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: 'à data em que opere a exoneração da participação do Estado na CASES, nos termos no n.º 3 da Resolução do
+    Conselho de Ministros n.º 16/2026, de 3 de fevereiro:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

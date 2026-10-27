@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 67-(2) a 67-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12501/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-01'
+entry_into_force:
+  date: '2021-07-01'
+  rule: no dia 1 de julho de 2021
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

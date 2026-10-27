@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 3370-(2) a 3370-(733)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/123a01/00020733.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-06-25'
+entry_into_force:
+  date: '2004-06-25'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

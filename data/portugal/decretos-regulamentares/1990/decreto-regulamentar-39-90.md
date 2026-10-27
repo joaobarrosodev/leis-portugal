@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4872 - 4874
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27500/48724874.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-11-29'
+entry_into_force:
+  date: '1990-11-29'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

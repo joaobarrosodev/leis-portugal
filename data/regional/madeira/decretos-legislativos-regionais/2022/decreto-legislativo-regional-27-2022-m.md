@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 16 - 50
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25100/0001600050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-01'
+entry_into_force:
+  date: '2023-01-01'
+  rule: no dia 1 de janeiro de 2023
+  method: clausula
+  article: art-93
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 340-(2) a 340-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/02601/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-02-05'
+entry_into_force:
+  date: '1984-02-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1984-02-01'
+  effects_rule: a partir do dia 1 de Fevereiro de 1984
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

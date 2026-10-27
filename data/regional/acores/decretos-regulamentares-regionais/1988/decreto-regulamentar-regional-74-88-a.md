@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4829 - 4831
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28100/48294831.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-12-07'
+entry_into_force:
+  date: '1988-12-07'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-9-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

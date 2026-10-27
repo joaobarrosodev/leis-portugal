@@ -24,6 +24,15 @@ publication:
   pages: 110 - 122
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01300/01100122.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 12 meses após o registo pelo director-geral das ratificações de dois Estados membros
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

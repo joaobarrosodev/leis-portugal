@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4194 - 4194
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/185b00/41944194.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-08-13'
+entry_into_force:
+  date: '1997-08-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

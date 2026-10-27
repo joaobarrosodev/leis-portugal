@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3960 - 3961
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/120b00/39603961.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-24'
+entry_into_force:
+  date: '2005-06-24'
+  rule: na data da sua publicação, sendo aplicável à publicação do balanço trimestral relativo a 31 de Março de 2005, a menos
+    que já tenha sido solicitada a sua publicação em formato diferente
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 35269 - 35283
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/228000000/3526935283.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: estando constituído o Conselho de Curadores, cinco dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-121
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

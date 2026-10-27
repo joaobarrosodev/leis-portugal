@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1902 - 1904
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/28900/19021904.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-02-09'
+entry_into_force:
+  date: '1972-02-09'
+  rule: sessenta dias após a data da sua publicação
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

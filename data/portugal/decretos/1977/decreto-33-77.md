@@ -24,6 +24,15 @@ publication:
   pages: 449 - 462
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05900/04490462.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que pelo menos cinco dos signatários tenham depositado os seus instrumentos de ratificação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

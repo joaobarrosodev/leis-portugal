@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 184-(3) a 184-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/04301/00030004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-02-22'
+entry_into_force:
+  date: '1980-02-22'
+  rule: no dia imediato ao da sua publicação, excepto quanto ao arroz que se encontra nos armazenistas, retalhistas ou equiparados,
+    que manterá os preços de venda ao público devidamente impressos nas respecti
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 36 - 49
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/25300/0003600049.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de receção da última nota diplomática indicando que todos os procedimentos internos necessários
+    foram completados pelas Partes
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

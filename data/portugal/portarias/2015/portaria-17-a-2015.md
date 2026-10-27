@@ -23,7 +23,18 @@ publication:
   supplement: 1º Suplemento
   pages: 632-(2) a 632-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/02101/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-31'
+entry_into_force:
+  date: '2015-01-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2015-01-01'
+  effects_rule: desde 1 de janeiro de 2015, devendo as instruções agora aprovadas ser utilizadas no preenchimento da Declaração
+    Mensal de Remunerações - AT relativa a rendimentos pagos ou colocados à disposição a par
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

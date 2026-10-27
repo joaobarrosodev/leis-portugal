@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6679 - 6681
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-01-22'
+entry_into_force:
+  date: '1992-01-22'
+  rule: em 22 de Janeiro de 1992, à excepção da alteração introduzida pela alínea e) do n.º 1 do anexo a este diploma, que
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: a partir de 30 de Novembro do corrente ano
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

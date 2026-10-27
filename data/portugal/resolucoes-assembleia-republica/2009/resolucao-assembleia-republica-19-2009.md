@@ -24,6 +24,16 @@ publication:
   pages: 1821 - 1839
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/05700/0182101839.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia a contar da data da recepção da última notificação pelas Partes, por via diplomática, de que foram cumpridos
+    os respectivos requisitos de direito interno necessários para o efeito
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

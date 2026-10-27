@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 355 - 355
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/02800/03550355.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-03-03'
+entry_into_force:
+  date: '1984-03-03'
+  rule: no prazo de 30 dias a contar da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

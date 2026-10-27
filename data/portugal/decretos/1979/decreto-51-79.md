@@ -23,6 +23,16 @@ publication:
   pages: 1292 - 1310
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/13200/12921310.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia de Janeiro imediatamente seguinte ao depósito dos instrumentos de ratificação, aceitação ou aprovação
+    de pelo menos seis signatários, dos quais pelo menos um exerce jurisdição em matér
+  method: clausula
+  article: art-xxii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

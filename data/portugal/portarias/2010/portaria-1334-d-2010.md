@@ -24,7 +24,17 @@ publication:
   supplement: 2º Suplemento
   pages: 6122-(328) a 6122-(330)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25302/0032800330.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-01-30'
+entry_into_force:
+  date: '2011-01-30'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

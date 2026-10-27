@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2367 - 2368
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/09300/0236702368.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-16'
+entry_into_force:
+  date: '2017-05-16'
+  rule: no dia seguinte ao da sua publicação, aplicando-se à gestão da quota de imperadores em 2017 e anos subsequentes
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1782 - 1783
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/04700/0178201783.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-03-12'
+entry_into_force:
+  date: '2014-03-12'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2013-01-01'
+  effects_rule: a 1 de janeiro de 2013, sem prejuízo do disposto no n.º 2 do artigo 3.º da Portaria n.º 383/2012, de 23 de
+    novembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

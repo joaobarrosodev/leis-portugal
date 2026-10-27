@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 80 - 88
   pdf_url: https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-03-01'
+entry_into_force:
+  date: '1966-03-01'
+  rule: no dia 1 de Março de 1966
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,9 +22,29 @@ publication:
   supplement: null
   pages: 405 - 408
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/07900/0040500408.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-04-23'
+entry_into_force:
+  date: '2024-04-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:901014295:por#art-2'
+    detail: É revogado o [Decreto Legislativo Regional n.º 5/2024/M], de 22 de abril, intitulado
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:901014295:por'
+    detail: Revogado, a partir de 24 de dezembro de 2024, pelo(a) Decreto Legislativo Regional n.º 22/2024/M - Diário da República
+      n.º 248/2024, Série I de 2024-12-23
 notes: []
 language: por
 version:

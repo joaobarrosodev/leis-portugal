@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2139 - 2170
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/08300/0213902170.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-28'
+entry_into_force:
+  date: '2015-06-28'
+  rule: 60 dias a contar da data da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

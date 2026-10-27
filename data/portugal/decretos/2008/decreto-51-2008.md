@@ -24,6 +24,16 @@ publication:
   pages: 7478 - 7483
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/20400/0747807483.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a data da recepção da última notificação, por escrito e por via diplomática, relativa ao cumprimento das formalidades
+    requeridas pelo Direito interno das Partes para esse efeito
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

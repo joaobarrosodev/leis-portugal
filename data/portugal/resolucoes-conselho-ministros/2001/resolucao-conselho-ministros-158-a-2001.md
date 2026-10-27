@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7006-(6) a 7006-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/256b02/00060007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-11-06'
+entry_into_force:
+  date: '2001-11-06'
+  rule: no dia imediato ao da sua publicação, sendo os seus efeitos reportados à data da aprovação
+  method: clausula
+  article: n-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

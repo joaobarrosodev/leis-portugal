@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 505 - 509
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/01800/0050500509.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-05-01'
+entry_into_force:
+  date: '2013-05-01'
+  rule: no dia 1 de maio de 2013, sendo aplicável às sociedades desportivas que pretendam participar em competições profissionais,
+    na época desportiva de 2013/2014
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

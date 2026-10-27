@@ -24,6 +24,16 @@ publication:
   pages: 2140 - 2152
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07000/0214002152.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após procederem ambas as Partes à respectiva Troca de Notas que certifique que estão cumpridas as formalidades constitucionais
+    necessárias para a sua entrada em vigor
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

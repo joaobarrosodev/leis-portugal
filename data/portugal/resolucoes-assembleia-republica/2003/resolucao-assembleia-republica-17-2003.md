@@ -24,6 +24,16 @@ publication:
   pages: 1556 - 1561
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/055a00/15561561.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que vier a ser recebida a última das comunicações por escrito através das quais cada uma das
+    Partes comunique à outra que se encontram cumpridas as formalidades internas exigida
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

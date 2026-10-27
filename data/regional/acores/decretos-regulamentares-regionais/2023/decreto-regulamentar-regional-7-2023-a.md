@@ -22,9 +22,29 @@ publication:
   supplement: null
   pages: 8 - 38
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05700/0000800038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-22'
+entry_into_force:
+  date: '2023-03-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:896791624:por#art-7'
+    detail: a) O [Decreto Regulamentar Regional n.º 7/2023/A], de 21 de março
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:896791624:por'
+    detail: Revogado, a partir de 16 de novembro de 2024, pelo(a) Decreto Regulamentar Regional n.º 18/2024/A - Diário da
+      República n.º 222/2024, Série I de 2024-11-15 nos termos da alínea a) do artigo 7.º deste
 notes: []
 language: por
 version:

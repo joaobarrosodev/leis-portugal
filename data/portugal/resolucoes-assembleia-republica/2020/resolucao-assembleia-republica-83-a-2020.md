@@ -23,6 +23,15 @@ publication:
   pages: 12-(4) a 12-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21701/0000400005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o decreto do Presidente da República
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: nos mesmos termos
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

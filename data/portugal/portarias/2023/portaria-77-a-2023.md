@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22-(2) a 22-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05201/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-15'
+entry_into_force:
+  date: '2023-03-15'
+  rule: no dia seguinte ao da sua publicação e aplica-se a todos os projetos não encerrados
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

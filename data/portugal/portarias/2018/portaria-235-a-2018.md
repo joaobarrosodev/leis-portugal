@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 4342-(2) a 4342-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/16201/0000200017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-08-24'
+entry_into_force:
+  date: '2018-08-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: 'a partir do ano letivo de:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2144 - 2145
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19300/21442145.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-09-01'
+entry_into_force:
+  date: '1986-09-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação, com produção de efeitos, no tocante aos artigos 4.º e 9.º, desde 1
+    de Janeiro de 1986
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

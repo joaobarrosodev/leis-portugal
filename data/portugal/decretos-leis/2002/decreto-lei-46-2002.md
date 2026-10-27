@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1761 - 1763
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/052a00/17611763.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-04-01'
+entry_into_force:
+  date: '2002-04-01'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 6026-(2) a 6026-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/300a01/00020080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-01-01'
+entry_into_force:
+  date: '1993-01-01'
+  rule: 'no dia 1 de Janeiro de 1993, se tiverem sido depositados todos os instrumentos de ratificação ou, na falta desse
+    depósito, no primeiro dia do mês seguinte ao do depósito do instrumento de ratificação '
+  method: clausula
+  article: art-m
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

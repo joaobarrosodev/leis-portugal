@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1521 - 1526
   pdf_url: https://files.diariodarepublica.pt/1s/1962/11/26501/15211526.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1963-01-01'
+entry_into_force:
+  date: '1963-01-01'
+  rule: no dia 1 de Janeiro de 1963
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

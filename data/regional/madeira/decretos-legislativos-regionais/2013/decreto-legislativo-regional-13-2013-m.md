@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1911 - 1912
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/06200/0191101912.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-03-29'
+entry_into_force:
+  date: '2013-03-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: '2013-02-03'
+  effects_rule: a partir de 3 de fevereiro de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

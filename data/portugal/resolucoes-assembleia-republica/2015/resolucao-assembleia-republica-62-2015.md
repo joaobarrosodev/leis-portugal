@@ -24,6 +24,16 @@ publication:
   pages: 3725 - 3735
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um ano após a data em que dezoito Estados, dos quais cinco possuam, cada um, navios de arqueação bruta total não inferior
+    a 1 milhão, a tenham assinado sem reserva de ratificação, aceitação ou aprovaç
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

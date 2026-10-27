@@ -24,6 +24,16 @@ publication:
   pages: 550 - 562
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/02200/0055000562.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: noventa dias após a data de receção da última notificação escrita, por via diplomática, de que foram cumpridos todos
+    os requisitos de direito interno das Partes para o efeito
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

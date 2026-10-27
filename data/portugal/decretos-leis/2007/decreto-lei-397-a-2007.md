@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9178-(456) a 9178-(460)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/25102/0045600460.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-01'
+entry_into_force:
+  date: '2008-01-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

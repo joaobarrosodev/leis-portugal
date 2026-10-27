@@ -25,6 +25,15 @@ publication:
   pages: 3408 - 3410
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26100/34083410.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 30 de Outubro do corrente ano
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

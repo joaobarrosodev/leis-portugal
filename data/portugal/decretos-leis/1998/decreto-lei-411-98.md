@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 7251 - 7257
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/300a00/72517257.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-02-28'
+entry_into_force:
+  date: '1999-02-28'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

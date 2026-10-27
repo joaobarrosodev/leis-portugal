@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 7-(2) a 7-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/12601/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-04'
+entry_into_force:
+  date: '2022-07-04'
+  rule: no dia 4 de julho de 2022 e
+  method: clausula
+  article: art-unico
+  effects_date: '2022-09-04'
+  effects_rule: até dia 4 de setembro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:180398388:por#art-5'
+    detail: '[Portaria n.º 167-D/2022 - Diário da República n.º 126/2022, 1º Suplemento, Série I de 2022-07-01] mantém em
+      vigor o presente artigo, a partir de 04.07.2022 e com efeitos até 04.09.2022.'
 notes: []
 language: por
 version:

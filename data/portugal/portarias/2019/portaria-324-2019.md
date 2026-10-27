@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 43 - 55
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/18100/0004300055.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-21'
+entry_into_force:
+  date: '2019-09-21'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: '2019-05-31'
+  effects_rule: a 31 de maio de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

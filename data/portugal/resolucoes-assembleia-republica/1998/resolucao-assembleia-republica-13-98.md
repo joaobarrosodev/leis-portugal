@@ -24,6 +24,16 @@ publication:
   pages: 1204 - 1211
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/066a00/12041211.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data da recepção pelo Governo da Dinamarca das assinaturas ou, se necessário, dos
+    instrumentos de ratificação, aceitação ou aprovação de Partes Contratantes suficiente
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3133 - 3137
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/17200/0313303137.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-12'
+entry_into_force:
+  date: '2016-09-12'
+  rule: no dia 12 de setembro de 2016
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2708 - 2713
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15300/27082713.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-09-01'
+entry_into_force:
+  date: '1989-09-01'
+  rule: no dia 1 de Setembro de 1989
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

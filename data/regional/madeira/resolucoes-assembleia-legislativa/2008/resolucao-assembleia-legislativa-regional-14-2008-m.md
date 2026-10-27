@@ -25,6 +25,15 @@ publication:
   pages: 3182 - 3183
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/10700/0318203183.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a aprovação da Lei do Orçamento de Estado para o ano de 2009, sem prejuízo do número seguinte
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

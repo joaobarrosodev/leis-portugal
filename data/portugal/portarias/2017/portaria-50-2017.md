@@ -24,6 +24,15 @@ publication:
   pages: 608 - 629
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/02400/0060800629.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês subsequente ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

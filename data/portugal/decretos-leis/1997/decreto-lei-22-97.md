@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 400 - 402
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/019a00/04000402.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-01-23'
+entry_into_force:
+  date: '1997-01-23'
+  rule: com a publicação do regulamento de aplicação previsto no n.º 1 do artigo anterior, o qual
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

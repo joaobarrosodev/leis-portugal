@@ -24,6 +24,15 @@ publication:
   pages: 5954-(4) a 5954-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16602/0000400005.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte à data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

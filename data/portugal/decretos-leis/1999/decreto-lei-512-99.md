@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 8330 - 8333
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/274a00/83308333.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-11-29'
+entry_into_force:
+  date: '1999-11-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: no dia imediato ao da entrada em vigor do diploma mencionado no n.º 3 do artigo 18.º e das portarias a que
+    se referem as alíneas a) e b) do n.º 1 e o n.º 3 do artigo anterior
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1948/03/05700/01790180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:516533:por#n-3'
+    detail: 3.º Fica revogada a [Portaria n.º 12304], de 10 de Março de 1948.
 notes: []
 language: por
 version:

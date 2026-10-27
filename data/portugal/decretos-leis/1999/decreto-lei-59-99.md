@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1102 - 1156
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/051a00/11021156.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-06-02'
+entry_into_force:
+  date: '1999-06-02'
+  rule: três meses após a data da sua publicação e só será aplicável às obras postas a concurso após essa data, sem prejuízo
+    de aplicação às empreitadas em curso das disposições do título IX sobre contencioso
+  method: clausula
+  article: art-278
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/11/26200/14491449.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:391426:por#n-6'
+    detail: 6.º Fica revogada a [Portaria n.º 17422], de 13 de Novembro de 1959.
 notes: []
 language: por
 version:

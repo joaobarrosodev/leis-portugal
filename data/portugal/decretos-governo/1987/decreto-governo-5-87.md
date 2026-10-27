@@ -24,6 +24,15 @@ publication:
   pages: 251 - 256
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01500/02510256.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data estabelecida por troca de notas a confirmar essa aprovação
+  method: clausula
+  article: art-15-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

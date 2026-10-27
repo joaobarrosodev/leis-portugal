@@ -24,6 +24,16 @@ publication:
   pages: 1004 - 1014
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/042a00/10041014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data em que cinco Partes na Convenção tenham preenchido os requisitos do parágrafo 2 do artigo
+    22.º do presente Protocolo
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

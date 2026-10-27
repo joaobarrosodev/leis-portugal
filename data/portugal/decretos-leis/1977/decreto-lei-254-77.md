@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1435 - 1440
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13600/14351440.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-06-16'
+entry_into_force:
+  date: '1977-06-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

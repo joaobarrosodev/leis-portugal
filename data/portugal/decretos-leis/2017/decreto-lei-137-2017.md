@@ -25,6 +25,15 @@ publication:
   pages: 5902 - 5967
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21500/0590205967.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia a seguir ao da sua publicação, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

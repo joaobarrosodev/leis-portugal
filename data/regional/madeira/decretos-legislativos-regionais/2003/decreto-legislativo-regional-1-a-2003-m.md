@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16-(2) a 16-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/002a01/00020080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-01-01'
+entry_into_force:
+  date: '2003-01-01'
+  rule: em 1 de Janeiro de 2003
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

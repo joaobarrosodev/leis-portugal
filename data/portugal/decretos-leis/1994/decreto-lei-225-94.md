@@ -24,6 +24,15 @@ publication:
   pages: 5218 - 5220
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/205a00/52185220.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no último dia do mês da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

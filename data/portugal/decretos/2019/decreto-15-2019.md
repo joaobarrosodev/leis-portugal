@@ -24,6 +24,16 @@ publication:
   pages: 2185 - 2191
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07600/0218502191.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: (30) trinta dias após a última notificação, por escrito e por via diplomática, da conclusão dos procedimentos necessários
+    de direito nacional de cada Parte
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

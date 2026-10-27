@@ -24,6 +24,15 @@ publication:
   pages: 2583 - 2594
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/113a00/25832594.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data de recepção da última notificação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

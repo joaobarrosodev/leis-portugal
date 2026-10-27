@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 1582-(2) a 1582-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/05/09401/0000200007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-05-17'
+entry_into_force:
+  date: '2016-05-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

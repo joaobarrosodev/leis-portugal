@@ -23,6 +23,16 @@ publication:
   pages: 5108 - 5116
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/29900/51085116.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do terceiro mês seguinte à data da última notificação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: até ao termo do ano civil seguinte ao ano em que seja dada informação por escrito da sua denúncia por um dos
+    Estados Contratantes ao outro Estado Contratante
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

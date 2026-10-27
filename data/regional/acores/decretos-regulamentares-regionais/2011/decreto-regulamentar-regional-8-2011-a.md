@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2240 - 2257
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/07200/0224002257.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-06-01'
+entry_into_force:
+  date: '2011-06-01'
+  rule: em 1 de Junho de 2011, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

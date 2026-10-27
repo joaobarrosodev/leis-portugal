@@ -23,6 +23,15 @@ publication:
   pages: 1319 - 1321
   pdf_url: https://files.diariodarepublica.pt/1s/1966/07/17600/13191321.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no momento da abertura da ponte ao tráfego
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

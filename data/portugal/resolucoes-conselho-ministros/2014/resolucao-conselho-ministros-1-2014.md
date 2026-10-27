@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 14 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/00300/0001400015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-11'
+entry_into_force:
+  date: '2014-01-11'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: desde a data da entrada em vigor da Lei n.º 83-C/2013, de 31 de dezembro, caducando a 31 de dezembro de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

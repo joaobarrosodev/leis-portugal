@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1954/06/11900/06380638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:184894:por#n-4'
+    detail: 4.º Fica revogada a [Portaria n.º 14913], de 2 de Junho de 1954.
 notes: []
 language: por
 version:

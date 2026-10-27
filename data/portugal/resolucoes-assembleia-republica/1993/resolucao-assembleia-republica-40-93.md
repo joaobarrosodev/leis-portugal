@@ -24,6 +24,16 @@ publication:
   pages: 7178 - 7180
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/301a00/71787180.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao do depósito do instrumento de ratificação do Estado signatário que proceder a esta
+    formalidade em último lugar
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

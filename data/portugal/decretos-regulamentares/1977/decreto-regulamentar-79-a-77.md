@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2852-(3) a 2852-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/27702/00030005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-12-01'
+entry_into_force:
+  date: '1977-12-01'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

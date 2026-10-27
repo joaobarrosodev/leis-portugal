@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 7513 - 7516
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/272b00/75137516.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-12-31'
+entry_into_force:
+  date: '2001-12-31'
+  rule: no dia 31 de Dezembro de 2001, com excepção da alínea c) do n.º 2) do n.º 7.º, a qual
+  method: clausula
+  article: n-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03200/0000900010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-19'
+entry_into_force:
+  date: '2023-02-19'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: à data de 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

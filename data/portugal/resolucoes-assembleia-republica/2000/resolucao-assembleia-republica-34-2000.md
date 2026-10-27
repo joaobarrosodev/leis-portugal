@@ -24,6 +24,16 @@ publication:
   pages: 1468 - 1482
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/080a00/14681482.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 6.º mês após a data do depósito do 5.º instrumento de ratificação, de aceitação, de aprovação ou de
+    adesão
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

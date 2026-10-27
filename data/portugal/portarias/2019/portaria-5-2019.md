@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 16 - 19
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/00300/0001600019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-05'
+entry_into_force:
+  date: '2019-01-05'
+  rule: no dia seguinte ao da sua publicação, aplicando-se a partir de 1 de janeiro de 2019 à medida n.º 9
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

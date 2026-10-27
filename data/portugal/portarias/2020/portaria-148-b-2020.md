@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 23-(9) a 23-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11801/0000900010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-06-20'
+entry_into_force:
+  date: '2020-06-20'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2020-01-01'
+  effects_rule: a 1 de janeiro de 2020, sendo apenas aplicável Pedido Único de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

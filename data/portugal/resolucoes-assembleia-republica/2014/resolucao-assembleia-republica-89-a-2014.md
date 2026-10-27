@@ -24,6 +24,16 @@ publication:
   pages: 5684-(2) a 5684-(1262)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: entre a Parte UE e cada País Andino signatário no 1.º dia do mês seguinte à data de receção, pelo Depositário, da
+    última notificação prevista no n.º 1 correspondente à Parte UE e ao referido País Andi
+  method: clausula
+  article: art-330
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

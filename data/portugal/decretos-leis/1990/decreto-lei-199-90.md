@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2568 - 2571
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-08-01'
+entry_into_force:
+  date: '1990-08-01'
+  rule: no dia 1 de Agosto de 1990, aplicando-se também aos casos pendentes
+  method: clausula
+  article: art-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3940 - 3940
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/151a00/39403940.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-07-29'
+entry_into_force:
+  date: '2004-07-29'
+  rule: 30 dias após a sua publicação, aplicando-se, a partir daquele momento, a todos os contratos de seguro que venham a
+    ser celebrados
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

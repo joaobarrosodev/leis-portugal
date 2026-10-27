@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 422-(2) a 422-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/04901/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-03-01'
+entry_into_force:
+  date: '1978-03-01'
+  rule: no dia 1 de Março de 1978
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

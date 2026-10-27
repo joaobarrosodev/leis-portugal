@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 11 - 12
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/086000001/0001100012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-05-04'
+entry_into_force:
+  date: '2024-05-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:909652600:por#art-4'
+    detail: São revogados o [Despacho Normativo n.º 4/2024], de 21 de fevereiro, a [Declaração de Retificação n.º 203/2024/2],
+      de 21 de março, e o [Despacho Normativo n.º 11-A/2024], de 3 de maio.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 5654 - 5667
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15300/0565405667.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após registo pelo ministério da tutela e publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

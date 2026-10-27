@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3466-(2) a 3466-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/149b02/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-07-01'
+entry_into_force:
+  date: '1994-07-01'
+  rule: no dia 1 de Julho de 1994
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

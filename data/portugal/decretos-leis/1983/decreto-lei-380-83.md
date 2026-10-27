@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3568-(1) a 3568-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23501/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-10-17'
+entry_into_force:
+  date: '1983-10-17'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1983-07-01'
+  effects_rule: a partir de 1 de Julho de 1983
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

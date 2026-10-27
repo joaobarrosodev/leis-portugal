@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3420 - 3421
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/137a00/34203421.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-07-15'
+entry_into_force:
+  date: '1999-07-15'
+  rule: 30 dias após a publicação da respectiva regulamentação, operando-se nessa data a revogação do Decreto-Lei n.º 50/85,
+    de 27 de Fevereiro
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 13815 - 13815
   pdf_url: https://files.diariodarepublica.pt/2s/2007/05/099000000/1381513815.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-23'
+entry_into_force:
+  date: '2007-05-23'
+  rule: na data da sua publicação, sendo aplicável à publicação das contas anuais relativas ao exercício de 2006
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

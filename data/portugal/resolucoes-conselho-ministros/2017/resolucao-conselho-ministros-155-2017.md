@@ -24,6 +24,15 @@ publication:
   pages: 5598 - 5598
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19300/0559805598.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da sua aprovação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

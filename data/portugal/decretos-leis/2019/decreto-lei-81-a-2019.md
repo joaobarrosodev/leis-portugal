@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 2994-(2) a 2994-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/11401/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-18'
+entry_into_force:
+  date: '2019-06-18'
+  rule: no dia seguinte ao da sua publicação, com exceção do n.º 4 do artigo 2.º, que
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

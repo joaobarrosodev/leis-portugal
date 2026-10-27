@@ -24,6 +24,16 @@ publication:
   pages: 2676 - 2680
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29000/26762680.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no momento em que ambas as Partes Contratantes se comunicarem haverem sido cumpridas as formalidades legais de cada
+    país
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 599 - 604
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03900/0059900604.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-26'
+entry_into_force:
+  date: '2016-02-26'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2016-01-01'
+  effects_rule: a 1 de janeiro de 2016 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 15 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/23600/0001500015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-12-08'
+entry_into_force:
+  date: '2021-12-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2021-12-01'
+  effects_rule: a partir de 1 de dezembro de 2021 e aplica-se aos processos que se encontram a aguardar a entrega dos documentos
+    a que faz referência o artigo 3.º da Portaria n.º 256/2020, de 28 de outubro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

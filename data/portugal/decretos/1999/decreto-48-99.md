@@ -24,6 +24,16 @@ publication:
   pages: 7816 - 7819
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/261a00/78167819.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data na qual ambas as Partes se notificarem do cumprimento dos trâmites exigidos pelos respectivos
+    ordenamentos jurídicos
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

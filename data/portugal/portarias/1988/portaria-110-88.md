@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 533 - 535
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-04-15'
+entry_into_force:
+  date: '1988-04-15'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

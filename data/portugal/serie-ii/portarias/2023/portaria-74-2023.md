@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 78 - 79
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/035000000/0007800079.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-18'
+entry_into_force:
+  date: '2023-02-18'
+  rule: no dia seguinte da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11340 - 11342
   pdf_url: https://files.diariodarepublica.pt/2s/2002/06/139000000/1134011342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-09-15'
+entry_into_force:
+  date: '1989-09-15'
+  rule: no dia 15 de Setembro de 1989 e será aplicável a todos os pedidos em curso, na parte em que possa sê-lo
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

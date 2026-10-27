@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 636-(22) a 636-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-04-07'
+entry_into_force:
+  date: '1978-04-07'
+  rule: na data da sua publicação, excepto quanto ao arroz que se encontre nos armazenistas, retalhistas ou equiparados, que
+    manterá os preços de venda ao público, devidamente impressos nas respectivas embala
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

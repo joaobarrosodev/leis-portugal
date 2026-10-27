@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2918 - 2919
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/104a00/29182919.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-05-07'
+entry_into_force:
+  date: '2003-05-07'
+  rule: no dia imediato ao da sua publicação, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

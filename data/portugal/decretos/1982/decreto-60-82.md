@@ -23,6 +23,15 @@ publication:
   pages: 1410 - 1412
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11900/14101412.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 1 mês após a troca do último dos instrumentos de ratificação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

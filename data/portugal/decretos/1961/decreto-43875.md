@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1062 - 1065
   pdf_url: https://files.diariodarepublica.pt/1s/1961/08/19600/10621065.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1962-01-01'
+entry_into_force:
+  date: '1962-01-01'
+  rule: em 1 de Janeiro de 1962, salvo o disposto quanto aos fundos de fomento algodoeiro, que entra imediatamente em vigor
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

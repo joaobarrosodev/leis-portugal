@@ -24,6 +24,15 @@ publication:
   pages: 1683 - 1713
   pdf_url: https://files.diariodarepublica.pt/1s/1960/07/15800/16831713.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias depois da troca dos correspondentes instrumentos de ratificação
+  method: clausula
+  article: art-95
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

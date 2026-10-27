@@ -25,6 +25,15 @@ publication:
   pages: 6580 - 6673
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/290a00/65806673.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à notificação da realização desses procedimentos pelas Partes contratantes
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: em relação a períodos anteriores à sua data de entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

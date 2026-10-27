@@ -24,6 +24,16 @@ publication:
   pages: 1924 - 1927
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18000/19241927.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título provisório na data da sua assinatura e a título definitivo na data da troca dos instrumentos de ratificação
+    e será válido pelo período de um ano
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

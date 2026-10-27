@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1716 - 1717
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/153a00/17161717.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-08-03'
+entry_into_force:
+  date: '1996-08-03'
+  rule: 30 dias após a publicação no Diário da República do aviso da troca dos instrumentos de ratificação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

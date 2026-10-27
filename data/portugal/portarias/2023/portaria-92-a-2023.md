@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 29-(5) a 29-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06201/0000500005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-29'
+entry_into_force:
+  date: '2023-03-29'
+  rule: no primeiro dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

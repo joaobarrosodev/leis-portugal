@@ -24,6 +24,16 @@ publication:
   pages: 225 - 228
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02400/02250228.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da troca de notas confirmando a sua ratificação pelos Governos dos dois países e permanecerá em vigor
+    por um período de dois anos, sendo renovado automaticamente, daí em diante, por p
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

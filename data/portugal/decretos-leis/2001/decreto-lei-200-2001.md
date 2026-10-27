@@ -23,6 +23,15 @@ publication:
   pages: 4356 - 4362
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/161a00/43564362.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em simultâneo com o diploma que aprovar o novo Código de Justiça Militar
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

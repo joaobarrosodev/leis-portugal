@@ -23,6 +23,16 @@ publication:
   pages: 1335 - 1336
   pdf_url: https://files.diariodarepublica.pt/1s/1967/07/15900/13351336.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título experimental pelo período de dois anos, ao fim do qual deve ser revisto ou confirmado, se entretanto não
+    surgirem razões que imponham a sua modificação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

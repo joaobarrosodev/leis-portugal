@@ -25,6 +25,15 @@ publication:
   pages: 6 - 7
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/16800/0000600007.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

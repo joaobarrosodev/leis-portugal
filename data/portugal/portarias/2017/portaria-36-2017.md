@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 482 - 492
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/01600/0048200492.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-24'
+entry_into_force:
+  date: '2017-01-24'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: desde a data de entrada em vigor da Portaria n.º 230/2014, de 11 de novembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

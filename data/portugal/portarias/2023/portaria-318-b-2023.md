@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 44-(17) a 44-(65)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20701/0001700065.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-10-30'
+entry_into_force:
+  date: '2023-10-30'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2024-01-25'
+  effects_rule: no prazo de três meses após a sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

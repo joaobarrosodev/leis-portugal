@@ -23,6 +23,16 @@ publication:
   pages: 3776 - 3779
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25800/37763779.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois da notificação recíproca da sua aprovação, segundo os processos previstos pelas leis em vigor em cada um dos
+    países
+  method: clausula
+  article: art-xiii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

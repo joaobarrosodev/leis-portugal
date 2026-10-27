@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3240-(5) a 3240-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/09/22502/00050009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-10-01'
+entry_into_force:
+  date: '1985-10-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 2343 - 2349
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/085a00/23432349.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

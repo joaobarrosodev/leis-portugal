@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2451 - 2451
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/122b00/24512451.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-27'
+entry_into_force:
+  date: '2000-05-27'
+  rule: no dia imediato ao da sua publicação, aplicando-se aos processos de formação profissional já em curso
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

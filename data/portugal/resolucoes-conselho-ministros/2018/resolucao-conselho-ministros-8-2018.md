@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 393 - 395
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/01000/0039300395.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-20'
+entry_into_force:
+  date: '2018-01-20'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2018-01-15'
+  effects_rule: a partir do dia 15 de janeiro de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

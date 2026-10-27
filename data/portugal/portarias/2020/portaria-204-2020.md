@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 47 - 60
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/16400/0004700060.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-23'
+entry_into_force:
+  date: '2020-09-23'
+  rule: 30 dias após a data da sua publicação e aplica-se aos procedimentos que se iniciem a partir dessa data
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

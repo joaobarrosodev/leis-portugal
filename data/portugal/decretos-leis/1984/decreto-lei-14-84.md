@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 105 - 107
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00900/01050107.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-02-10'
+entry_into_force:
+  date: '1984-02-10'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

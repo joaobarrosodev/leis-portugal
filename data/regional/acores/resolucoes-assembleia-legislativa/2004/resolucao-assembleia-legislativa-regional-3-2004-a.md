@@ -23,6 +23,15 @@ publication:
   pages: 1959 - 1960
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/073b00/19591960.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da investidura do primeiro provedor da criança acolhida
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

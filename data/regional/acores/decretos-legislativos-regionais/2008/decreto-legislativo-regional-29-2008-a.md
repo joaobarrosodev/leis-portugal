@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4639 - 4643
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14200/0463904643.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-25'
+entry_into_force:
+  date: '2008-07-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

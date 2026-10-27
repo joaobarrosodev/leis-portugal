@@ -24,6 +24,16 @@ publication:
   pages: 5588-(23) a 5588-(62)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 3.º mês seguinte à data em que dois Estados signatários, dos quais um seja o Reino de Espanha ou a República
+    Portuguesa, tenham depositado os seus instrumentos de ratificação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: no 1.º dia do 3.º mês seguinte à data do depósito do respectivo instrumento de ratificação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

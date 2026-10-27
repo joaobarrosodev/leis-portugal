@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9840 - 9848
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/097000000/0984009848.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-20'
+entry_into_force:
+  date: '2017-05-20'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 19 - 107
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19400/0001900107.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o orçamento da Região Autónoma dos Açores para o ano de 2026 e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data de produção de efeitos do Decreto Legislativo Regional n.º 23/2023/A, de 26 de junho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

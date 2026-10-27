@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6048 - 6049
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22100/0604806049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-17'
+entry_into_force:
+  date: '2017-11-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: entre 1 de julho de 2017 e 31 de dezembro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

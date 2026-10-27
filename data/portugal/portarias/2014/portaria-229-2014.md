@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 5682 - 5682
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21500/0568205682.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-11-11'
+entry_into_force:
+  date: '2014-11-11'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

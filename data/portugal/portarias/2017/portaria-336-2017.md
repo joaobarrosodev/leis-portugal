@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5891 - 5892
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21400/0589105892.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-12-07'
+entry_into_force:
+  date: '2017-12-07'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

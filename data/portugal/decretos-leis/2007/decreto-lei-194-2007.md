@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3155 - 3160
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09200/31553160.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-15'
+entry_into_force:
+  date: '2007-05-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4255 - 4271
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18700/0425504271.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte ao da data de recepção da última notificação, por escrito e por via diplomática, informando
+    que foram cumpridos os requisitos de direito interno dos Estados Contratantes
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

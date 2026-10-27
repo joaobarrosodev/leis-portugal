@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5511 - 5512
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/18500/0551105512.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-09-26'
+entry_into_force:
+  date: '2017-09-26'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2015-02-13'
+  effects_rule: a 13 de fevereiro de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

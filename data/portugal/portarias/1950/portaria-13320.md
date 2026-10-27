@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1950/10/20000/08220822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:407094:por#n-2'
+    detail: 2.º Fica revogada a [Portaria n.º 13320], de 20 de Julho de 1950.
 notes: []
 language: por
 version:

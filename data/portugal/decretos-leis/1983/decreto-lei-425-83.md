@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3975 - 3983
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/28000/39753983.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-01-05'
+entry_into_force:
+  date: '1984-01-05'
+  rule: no prazo de 30 dias a contar da data da sua publicação
+  method: clausula
+  article: art-69
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

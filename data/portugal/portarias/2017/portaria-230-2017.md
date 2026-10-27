@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3935 - 3936
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14200/0393503936.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-30'
+entry_into_force:
+  date: '2017-07-30'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

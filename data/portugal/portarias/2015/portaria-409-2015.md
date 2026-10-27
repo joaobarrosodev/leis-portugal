@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 9611 - 9614
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/23100/0961109614.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-26'
+entry_into_force:
+  date: '2015-11-26'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: a partir da data de entrada em vigor da Portaria n.º 57/2015, de 27 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

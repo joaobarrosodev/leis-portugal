@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4660 - 4660
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26900/46604660.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-02-19'
+entry_into_force:
+  date: '1989-02-19'
+  rule: no prazo de 90 dias após a sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

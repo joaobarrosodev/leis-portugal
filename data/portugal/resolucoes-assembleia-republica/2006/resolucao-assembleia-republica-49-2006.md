@@ -25,6 +25,16 @@ publication:
   pages: 4761 - 4765
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/12800/47614765.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à data em que três Estados membros da CPLP, incluindo a República de Angola, tenham depositado
+    na sede da CPLP, junto ao seu Secretariado Executivo, os respectivos instrumen
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

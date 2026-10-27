@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5094 - 5097
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/226b00/50945097.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-10-01'
+entry_into_force:
+  date: '1991-10-01'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: '1989-10-01'
+  effects_rule: a partir de 1 de Outubro de 1989
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

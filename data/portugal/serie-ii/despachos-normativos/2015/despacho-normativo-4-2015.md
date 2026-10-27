@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 2593 - 2593
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/018000000/0259302593.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-28'
+entry_into_force:
+  date: '2015-01-28'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Despacho normativo n.º 14/2014, de 29 de outubro, nas condições previstas naquele
+    despacho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

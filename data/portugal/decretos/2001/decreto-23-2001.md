@@ -24,6 +24,16 @@ publication:
   pages: 3846 - 3848
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/147a00/38463848.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades constitucionais exigidas em cada Parte, através de canais
+    diplomáticos
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

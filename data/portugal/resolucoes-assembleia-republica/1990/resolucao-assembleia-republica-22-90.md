@@ -24,6 +24,16 @@ publication:
   pages: 3997 - 4000
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/22400/39974000.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no 1.º dia do mês seguinte ao termo de um prazo de dois meses a partir da data em que sete Estados membros do Conselho
+    da Europa tenham expresso o seu consentimento em estar vinculados pelo Protocolo '
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

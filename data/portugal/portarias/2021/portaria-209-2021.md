@@ -24,9 +24,26 @@ publication:
   supplement: null
   pages: 61 - 73
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20200/0006100073.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-19'
+entry_into_force:
+  date: '2021-10-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:182786153:por#n-4'
+    detail: 4 - A presente portaria revoga a [Portaria n.º 209/2021], de 17 de maio, publicada no Diário da República, 2.ª
+      série, n.º 103, de 27 de maio de 2021.
 notes: []
 language: por
 version:

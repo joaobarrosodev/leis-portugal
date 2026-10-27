@@ -24,6 +24,16 @@ publication:
   pages: 8 - 11
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/002a00/00080011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à data em que todas as Partes na Convenção se tenham tornado Partes no presente Protocolo
+    de Alteração, em conformidade com as disposições do artigo 6.º
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

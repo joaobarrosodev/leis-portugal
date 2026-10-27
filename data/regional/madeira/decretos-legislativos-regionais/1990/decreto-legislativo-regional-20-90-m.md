@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3481 - 3482
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/19700/34813482.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-08-28'
+entry_into_force:
+  date: '1990-08-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

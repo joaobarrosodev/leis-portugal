@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4510 - 4511
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/120b00/45104511.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-06-28'
+entry_into_force:
+  date: '2006-06-28'
+  rule: no 5.º dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

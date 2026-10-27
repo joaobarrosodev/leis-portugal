@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 864-(5) a 864-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10301/00050009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-05-06'
+entry_into_force:
+  date: '1980-05-06'
+  rule: 'no dia imediato ao da sua publicação e revoga toda a legislação que o contrarie, excepto no que diz respeito aos
+    contratos de comercialização de cortiça amadia das campanhas corticeiras de 1977, 1978 '
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 2632 - 2674
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15000/0263202674.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da notificação escrita de Portugal aos Estados Unidos de que Portugal concluiu a implementação das formalidades
+    internas necessárias para a entrada em vigor do presente Acordo
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

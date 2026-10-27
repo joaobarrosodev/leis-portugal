@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2870 - 2880
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/09200/0287002880.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-09-11'
+entry_into_force:
+  date: '2013-09-11'
+  rule: 120 dias após a sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

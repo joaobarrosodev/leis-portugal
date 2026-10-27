@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1968-(1) a 1968-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12301/00010004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-05-29'
+entry_into_force:
+  date: '1983-05-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

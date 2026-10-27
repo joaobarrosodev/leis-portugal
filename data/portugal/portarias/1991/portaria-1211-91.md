@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6701 - 6702
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/293b00/67016702.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-01-22'
+entry_into_force:
+  date: '1992-01-22'
+  rule: no dia 22 de Janeiro de 1992
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

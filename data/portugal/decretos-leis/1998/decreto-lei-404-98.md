@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 6915 - 6930
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/291a00/69156930.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-01-17'
+entry_into_force:
+  date: '1999-01-17'
+  rule: 30 dias após a data da sua publicação, salvo o disposto nos números seguintes, os quais
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

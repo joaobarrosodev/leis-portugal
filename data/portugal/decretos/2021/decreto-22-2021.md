@@ -25,6 +25,16 @@ publication:
   pages: 2 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após o recebimento da última notificação, por escrito e por via diplomática, informando que foram
+    cumpridos todos os requisitos constitucionais e legais de ambas as Partes para a sua e
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

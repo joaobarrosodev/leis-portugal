@@ -24,6 +24,16 @@ publication:
   pages: 4432 - 4439
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13400/44324439.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia após a data da recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos
+    os requisitos de direito interno das Partes necessários para o efeito
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

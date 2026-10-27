@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 35279 - 35279
   pdf_url: https://files.diariodarepublica.pt/2s/2008/08/153000000/3527935279.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-08-09'
+entry_into_force:
+  date: '2008-08-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 1327 - 1328
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/25800/13271328.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte àquele em que for publicada no Boletim Oficial do Estado de Angola
+  method: clausula
+  article: art-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

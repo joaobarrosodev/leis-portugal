@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 3160-(2) a 3160-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/17601/00020007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-08-06'
+entry_into_force:
+  date: '1990-08-06'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: '1992-12-31'
+  end_rule: até 31 de Dezembro de 1992, sendo, no entanto, o prazo limite para entrega das candidaturas fixado em 31 de Agosto
+    de 1992
 end_of_validity_date: null
 legal_status: in_force
 notes: []

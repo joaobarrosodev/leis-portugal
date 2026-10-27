@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3873 - 3875
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/13900/0387303875.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-21'
+entry_into_force:
+  date: '2017-07-21'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -26,6 +26,16 @@ publication:
   pages: 4069 - 4069
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11600/0406904069.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos legais e aplica-se aos processos de despedimento nas modalidades referidas no artigo 1.º que se iniciem
+    ou ocorram no período de vigência referido no artigo anterior
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

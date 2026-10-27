@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3976-(120) a 3976-(122)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/30103/01200122.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-12-31'
+entry_into_force:
+  date: '1984-12-31'
+  rule: na data da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '1984-12-31'
+  effects_rule: a partir do dia 31 de Dezembro de 1984
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

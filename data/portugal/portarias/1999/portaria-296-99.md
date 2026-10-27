@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2274 - 2276
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/099b00/22742276.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-04-29'
+entry_into_force:
+  date: '1999-04-29'
+  rule: no dia seguinte à publicação
+  method: clausula
+  article: n-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

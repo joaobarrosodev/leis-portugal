@@ -24,6 +24,15 @@ publication:
   pages: 194-(1) a 194-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/02/04301/00010002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultâneamente com o citado Decreto-Lei n.º 55/72
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

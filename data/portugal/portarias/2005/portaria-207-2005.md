@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1550 - 1551
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/037b00/15501551.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-02-23'
+entry_into_force:
+  date: '2005-02-23'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

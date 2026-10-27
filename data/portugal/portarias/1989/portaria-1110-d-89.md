@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5622-(4) a 5622-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29701/00040006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-04-01'
+entry_into_force:
+  date: '1990-04-01'
+  rule: no dia 1 de Abril de 1990
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

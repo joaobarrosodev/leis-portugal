@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2026/03/05601/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-03-23'
+entry_into_force:
+  date: '2026-03-23'
+  rule: no dia 23 de março de 2026
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

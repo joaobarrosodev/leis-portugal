@@ -24,6 +24,15 @@ publication:
   pages: 1273 - 1287
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/047a00/12731287.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a recepção da última notificação referida no n.º 1 do presente artigo
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4070 - 4080
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28200/40704080.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após o depósito do quinto instrumento de ratificação, mas unicamente em relação aos Estados que tenham depositado
+    os seus instrumentos de ratificação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

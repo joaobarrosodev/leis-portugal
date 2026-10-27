@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1547 - 1617
   pdf_url: https://files.diariodarepublica.pt/1s/1954/12/28501/15471617.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1955-01-01'
+entry_into_force:
+  date: '1955-01-01'
+  rule: 'em 1 de Janeiro de 1955 e revoga os diplomas seguintes:'
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

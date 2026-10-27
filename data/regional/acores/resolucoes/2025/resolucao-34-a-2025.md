@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/02/28/909476876.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-01'
+entry_into_force:
+  date: '2025-03-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: à data de entrada em vigor da Resolução do Conselho do Governo n.º 34/2025, de 11 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1763 - 1765
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/052a00/17631765.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-07'
+entry_into_force:
+  date: '2002-03-07'
+  rule: cinco dias após a data da sua publicação, excepto o disposto na alínea d) do artigo 6.º, que
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: a partir da data de vigência do Decreto-Lei n.º 331/98, de 3 de Novembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

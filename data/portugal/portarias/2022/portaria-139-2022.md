@@ -24,6 +24,15 @@ publication:
   pages: 2 - 2
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07900/0000200002.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e
+  method: clausula
+  article: art-2
+  effects_date: '2022-04-01'
+  effects_rule: desde o dia 1 de abril de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

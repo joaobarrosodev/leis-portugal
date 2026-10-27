@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 4336 - 4342
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-07-25'
+entry_into_force:
+  date: '2013-07-25'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

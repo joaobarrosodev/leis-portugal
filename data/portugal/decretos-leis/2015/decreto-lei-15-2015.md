@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 628 - 631
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/02100/0062800631.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-31'
+entry_into_force:
+  date: '2015-01-31'
+  rule: no dia seguinte ao da sua publicação e reporta os seus efeitos a 1 de janeiro de 2015
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

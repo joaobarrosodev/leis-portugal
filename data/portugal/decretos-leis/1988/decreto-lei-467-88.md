@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4958 - 4962
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28900/49584962.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-02-01'
+entry_into_force:
+  date: '1989-02-01'
+  rule: em 1 de Fevereiro de 1989
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

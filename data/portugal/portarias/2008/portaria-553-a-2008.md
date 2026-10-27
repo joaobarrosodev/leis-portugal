@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4000-(6) a 4000-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/12302/0000600014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-06-30'
+entry_into_force:
+  date: '2008-06-30'
+  rule: no dia 30 de Junho de 2008
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

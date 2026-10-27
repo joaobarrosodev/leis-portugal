@@ -24,6 +24,16 @@ publication:
   pages: 798 - 815
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/055a00/07980815.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente a todos os Estados que tenham expresso o seu consentimento em ficarem vinculados por ela, no 1.º dia
+    do mês seguinte à expiração de um prazo de três meses a contar da data em que três Es
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

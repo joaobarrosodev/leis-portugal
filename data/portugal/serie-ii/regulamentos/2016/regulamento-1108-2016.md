@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 36881 - 36886
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/241000000/3688136886.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-20'
+entry_into_force:
+  date: '2016-12-20'
+  rule: no dia seguinte ao da sua publicação, sendo revogado o regulamento n.º 105/2014, de 17 de março, relativo ao estágio
+    para solicitadores, salvo quanto ao estágio em curso
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

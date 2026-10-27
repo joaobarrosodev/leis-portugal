@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 422-(2) a 422-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/026b01/00020015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-02-01'
+entry_into_force:
+  date: '1993-02-01'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

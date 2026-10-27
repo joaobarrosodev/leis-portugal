@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1836 - 1838
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18000/18361838.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-08-07'
+entry_into_force:
+  date: '1979-08-07'
+  rule: no dia imediato ao da sua publicação, salvo o disposto nos números seguintes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4292 - 4293
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22300/42924293.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna de cada uma das
+    Partes e será válido por um período anual, automaticamente prorrogável, podendo ser d
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

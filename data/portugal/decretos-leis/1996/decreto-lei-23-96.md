@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 544 - 546
   pdf_url: https://files.diariodarepublica.pt/1s/1996/03/068a00/05440546.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-03-25'
+entry_into_force:
+  date: '1996-03-25'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1996-01-15'
+  effects_rule: desde o dia 15 de Janeiro de 1996
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

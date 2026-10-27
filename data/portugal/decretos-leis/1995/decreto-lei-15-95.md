@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 408 - 411
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/020a00/04080411.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-06-01'
+entry_into_force:
+  date: '1995-06-01'
+  rule: em 1 de Junho de 1995
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

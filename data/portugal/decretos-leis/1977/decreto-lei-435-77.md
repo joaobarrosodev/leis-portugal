@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2504 - 2505
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/24000/25042505.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-10-18'
+entry_into_force:
+  date: '1977-10-18'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

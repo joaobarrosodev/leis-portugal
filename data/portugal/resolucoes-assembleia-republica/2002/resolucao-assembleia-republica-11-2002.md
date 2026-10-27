@@ -24,6 +24,15 @@ publication:
   pages: 1577 - 1595
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/047a00/15771595.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data em que se verificar a última notificação referida no n.º 1 e as suas disposições
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

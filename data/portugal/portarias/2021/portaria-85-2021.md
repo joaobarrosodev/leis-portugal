@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 15 - 17
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/07400/0001500017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-17'
+entry_into_force:
+  date: '2021-04-17'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: na data de produção de efeitos do Decreto-Lei n.º 23-A/2021, de 24 de março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

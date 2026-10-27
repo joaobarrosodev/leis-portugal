@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 20 - 103
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16400/0002000103.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-09-23'
+entry_into_force:
+  date: '2021-09-23'
+  rule: no 30.º dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

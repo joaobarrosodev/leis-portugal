@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2485 - 2486
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/09800/0248502486.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-27'
+entry_into_force:
+  date: '2017-05-27'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2017-01-01'
+  effects_rule: desde o dia 1 de janeiro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

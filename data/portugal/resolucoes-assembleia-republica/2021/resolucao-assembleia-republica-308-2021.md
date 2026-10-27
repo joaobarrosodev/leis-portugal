@@ -24,6 +24,16 @@ publication:
   pages: 4 - 37
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/23400/0000400037.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à data em que as Partes se tiverem notificado reciprocamente do cumprimento das formalidades
+    jurídicas necessárias para esse efeito
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 2962 - 3110
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/13000/0296203110.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de entrada em vigor da Lei que procede à transposição da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho,
+    de 15 de maio de 2014, da Diretiva (UE) 2016/1034, do Parlamento Europeu e do
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

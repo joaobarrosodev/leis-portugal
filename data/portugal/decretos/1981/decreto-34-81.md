@@ -23,6 +23,16 @@ publication:
   pages: 582 - 599
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05300/05820599.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a conclusão do acordo administrativo geral no primeiro dia do segundo mês subsequente à data da troca de instrumentos
+    de ratificação
+  method: clausula
+  article: art-xxv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

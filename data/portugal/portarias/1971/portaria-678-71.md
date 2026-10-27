@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1890-(20) a 1890-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/28601/00200022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-02-01'
+entry_into_force:
+  date: '1972-02-01'
+  rule: no dia 1 de Fevereiro de 1972
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

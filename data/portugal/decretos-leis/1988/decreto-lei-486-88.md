@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5146-(14) a 5146-(201)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30102/00140201.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-01-01'
+entry_into_force:
+  date: '1989-01-01'
+  rule: no dia 1 de Janeiro de 1989
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

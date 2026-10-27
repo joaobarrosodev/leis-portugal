@@ -24,6 +24,16 @@ publication:
   pages: 6420 - 6429
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/17400/0642006429.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data do depósito do décimo segundo instrumento de ratificação, aceitação, aprovação ou adesão por um
+    Estado Parte na Convenção
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

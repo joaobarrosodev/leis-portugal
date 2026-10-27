@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2233 - 2243
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/13000/22332243.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-06-12'
+entry_into_force:
+  date: '1989-06-12'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: desde a data da entrada em vigor do Decreto-Lei n.º 223/87, de 30 de Maio
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

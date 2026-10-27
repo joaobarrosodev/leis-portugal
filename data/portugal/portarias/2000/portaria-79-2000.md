@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 607 - 609
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/042b00/06070609.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-02-20'
+entry_into_force:
+  date: '2000-02-20'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: com referência à informação relativa a 31 de Dezembro de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

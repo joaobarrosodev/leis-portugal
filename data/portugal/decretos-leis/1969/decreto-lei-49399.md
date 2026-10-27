@@ -24,6 +24,15 @@ publication:
   pages: 1656 - 1664
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/27500/16561664.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o decreto previsto no artigo 62.º
+  method: clausula
+  article: art-63
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2440 - 2444
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09100/0244002444.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-05-13'
+entry_into_force:
+  date: '2015-05-13'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: '2015-04-21'
+  effects_rule: reportados a 21 de abril de 2015, considerando-se ratificados ou confirmados todos os atos que tenham sido
+    praticados desde aquela data e cuja regularidade dependa da conformidade com o disposto no pr
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

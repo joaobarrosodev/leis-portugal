@@ -25,6 +25,15 @@ publication:
   pages: 86 - 87
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/238000000/0008600087.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

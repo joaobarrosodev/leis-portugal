@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1131 - 1389
   pdf_url: https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1961-05-01'
+entry_into_force:
+  date: '1961-05-01'
+  rule: em 1 de Maio de 1961
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2157 - 2160
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16500/21572160.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-08-01'
+entry_into_force:
+  date: '1982-08-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação, mas as cláusulas de natureza pecuniária só
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

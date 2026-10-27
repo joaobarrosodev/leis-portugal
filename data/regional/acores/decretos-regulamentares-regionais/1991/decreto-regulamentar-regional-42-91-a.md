@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6744 - 6758
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/298b00/67446758.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-12-28'
+entry_into_force:
+  date: '1991-12-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-63
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7318 - 7319
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/249a00/73187319.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-12-30'
+entry_into_force:
+  date: '2005-12-30'
+  rule: no dia seguinte ao da sua publicação, com excepção do artigo 1.º, do n.º 2 do artigo 2.º e do artigo 8.º, cuja entrada
+    em vigor ocorre concomitantemente com a do diploma que crie a ASAE
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

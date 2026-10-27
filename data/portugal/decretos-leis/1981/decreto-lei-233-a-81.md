@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1982-(1) a 1982-(116)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-08-02'
+entry_into_force:
+  date: '1981-08-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: a partir da data de entrada em vigor da Lei n.º 4/81 de 24 de Abril
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

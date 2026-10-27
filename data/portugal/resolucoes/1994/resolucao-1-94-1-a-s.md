@@ -25,6 +25,15 @@ publication:
   pages: 348 - 352
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/019b00/03480352.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil de Maio de 1994
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

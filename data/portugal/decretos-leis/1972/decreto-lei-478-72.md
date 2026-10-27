@@ -23,6 +23,16 @@ publication:
   pages: 1771 - 1778
   pdf_url: https://files.diariodarepublica.pt/1s/1972/11/27700/17711778.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o diploma que o regulamentar, considerando-se revogados, a partir dessa data, o Decreto-Lei n.º 41248, de 31 de
+    Agosto de 1957, e o Decreto n.º 41307, de 3 de Outubro de 1957
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

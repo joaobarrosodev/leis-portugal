@@ -23,6 +23,15 @@ publication:
   pages: 57 - 58
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/24300/0005700058.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

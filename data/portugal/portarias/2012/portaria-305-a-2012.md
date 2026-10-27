@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5546-(2) a 5546-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/19301/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-10-08'
+entry_into_force:
+  date: '2012-10-08'
+  rule: no dia 8 de outubro de 2012 e aplica-se aos procedimentos que se iniciem a partir desta data
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

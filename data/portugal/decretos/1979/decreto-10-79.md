@@ -23,6 +23,16 @@ publication:
   pages: 123 - 146
   pdf_url: https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: noventa dias depois de quarenta dos Estados visados no parágrafo 1 do artigo 25 a terem assinado sem reserva de ratificação
+    ou terem depositado os seus instrumentos de ratificação ou de adesão
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

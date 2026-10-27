@@ -24,6 +24,15 @@ publication:
   pages: 5816 - 5817
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24100/0581605817.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

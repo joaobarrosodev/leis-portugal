@@ -27,7 +27,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1940/10/24500/12251225.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:171922:por#art-4'
+    detail: Fica revogado o [Decreto n.º 30817], de 21 de Outubro de 1940.
 notes: []
 language: por
 version:

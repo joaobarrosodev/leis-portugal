@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2334 - 2342
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/085a00/23342342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-05-10'
+entry_into_force:
+  date: '2003-05-10'
+  rule: no prazo de 30 dias a contar da data da sua publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

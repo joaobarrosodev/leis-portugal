@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 27-(6) a 27-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12302/0000600020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-01'
+entry_into_force:
+  date: '2020-07-01'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir das 00:00 h do dia 1 de julho de 2020, com exceção do n.º 15, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

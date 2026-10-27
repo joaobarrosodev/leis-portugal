@@ -24,6 +24,15 @@ publication:
   pages: 805 - 805
   pdf_url: https://files.diariodarepublica.pt/1s/1971/05/12500/08050805.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no próximo ano económico
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

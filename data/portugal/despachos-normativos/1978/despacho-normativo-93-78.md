@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 723 - 724
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08600/07230724.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-06-01'
+entry_into_force:
+  date: '1978-06-01'
+  rule: a partir do dia 1 de Junho de 1978, devendo as instituições de crédito informar os seus clientes acerca das mesmas
+    até àquela data
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

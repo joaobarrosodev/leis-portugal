@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2997 - 2998
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/10200/0299702998.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-01'
+entry_into_force:
+  date: '2008-07-01'
+  rule: no 1.º dia do 2.º mês seguinte ao da sua publicação e aplica-se às situações ocorridas a partir de 1 de Abril de 2008,
+    bem como às que se encontrem em curso na mesma data
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

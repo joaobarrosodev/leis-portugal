@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3218-(2) a 3218-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/06/11601/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-24'
+entry_into_force:
+  date: '2014-06-24'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2014-06-20'
+  effects_rule: a partir do dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

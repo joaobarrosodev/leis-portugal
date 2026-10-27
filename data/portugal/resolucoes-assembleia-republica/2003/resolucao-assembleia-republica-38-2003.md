@@ -24,6 +24,16 @@ publication:
   pages: 2910 - 2917
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/104a00/29102917.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da recepção da segunda nota diplomática em que uma das Partes Contratantes informa a outra do
+    cumprimento dos procedimentos internos necessários à sua aprovação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

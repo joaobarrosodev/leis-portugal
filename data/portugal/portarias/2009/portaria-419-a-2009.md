@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 2318-(2) a 2318-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07501/0000200009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-04-20'
+entry_into_force:
+  date: '2009-04-20'
+  rule: a 20 de Abril de 2009
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

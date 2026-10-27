@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4033-4033
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/09/04/141966879.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-05'
+entry_into_force:
+  date: '2020-09-05'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo de ser aplicável às candidaturas já submetidas no âmbito do referido
+    Programa de Apoio aos Empresários em Nome Individual
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

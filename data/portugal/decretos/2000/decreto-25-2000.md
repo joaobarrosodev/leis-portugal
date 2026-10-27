@@ -24,6 +24,16 @@ publication:
   pages: 5930 - 5932
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/243a00/59305932.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a última notificação por escrito, por via diplomática, em que uma das Partes Contratantes informa a outra
+    da perfeição das formalidades exigidas pela ordem jurídico-constitucional interna
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

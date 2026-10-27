@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2962 - 2965
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/10400/0296202965.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-05-31'
+entry_into_force:
+  date: '2011-05-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: '2011-05-31'
+  effects_rule: no dia seguinte à publicação da respectiva regulamentação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

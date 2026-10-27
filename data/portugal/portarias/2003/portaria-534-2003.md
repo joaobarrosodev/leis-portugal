@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3871 - 3871
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/154b00/38713871.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-07-12'
+entry_into_force:
+  date: '2003-07-12'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2003-07-14'
+  effects_rule: a partir do dia 14 de Julho de 2003
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

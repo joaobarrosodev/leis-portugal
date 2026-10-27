@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 3854-(2) a 3854-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/12401/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-07-06'
+entry_into_force:
+  date: '2013-07-06'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2013-07-01'
+  effects_rule: a partir de 1 de julho de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

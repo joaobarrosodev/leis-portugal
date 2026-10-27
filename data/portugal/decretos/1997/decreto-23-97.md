@@ -24,6 +24,16 @@ publication:
   pages: 2419 - 2421
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/113a00/24192421.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna em cada um dos
+    países e será válido por um período de três anos, automaticamente prorrogável, podendo
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

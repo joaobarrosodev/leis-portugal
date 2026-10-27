@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1921/03/04600/02590261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:200410:por#art-26'
+    detail: Ficam revogados o [Decreto n.º 7378], de 4 de Março de 1921, e os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 45025],
+      de 11 de Maio de 1963.
 notes: []
 language: por
 version:

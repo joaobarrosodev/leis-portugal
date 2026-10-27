@@ -24,6 +24,16 @@ publication:
   pages: 3475 - 3495
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26700/34753495.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após a data de depósito do quarto instrumento de ratificação, aceitação ou aprovação, sob condição de que
+    pelo menos dois dos Estados que tenham cumprido essa formalidade possuam uma fronte
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

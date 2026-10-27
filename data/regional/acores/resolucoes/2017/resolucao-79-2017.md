@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1714-1715
   pdf_url: null
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-08-07'
+entry_into_force:
+  date: '2017-08-07'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

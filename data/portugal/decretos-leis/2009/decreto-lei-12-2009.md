@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 231 - 231
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00700/0023100231.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-13'
+entry_into_force:
+  date: '2009-01-13'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data de entrada em vigor do Decreto-Lei n.º 183/2008, de 4 de Setembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

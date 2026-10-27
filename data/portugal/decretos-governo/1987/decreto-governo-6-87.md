@@ -24,6 +24,16 @@ publication:
   pages: 349 - 351
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02300/03490351.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que sete governos tenham procedido ao depósito dos respectivos instrumentos de ratificação, de aprovação ou de
+    adesão
+  method: clausula
+  article: art-xiv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

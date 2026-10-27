@@ -24,6 +24,16 @@ publication:
   pages: 4710 - 4740
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/205a00/47104740.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a data do depósito, junto do Secretário-Geral, do vigésimo instrumento de ratificação, aceitação, aprovação
+    ou adesão pelos Estados ou pela Namíbia, representada pelo Conselho para a Namí
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

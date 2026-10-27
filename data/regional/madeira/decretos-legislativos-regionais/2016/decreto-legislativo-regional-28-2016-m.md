@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2219 - 2231
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13500/0221902231.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-07-16'
+entry_into_force:
+  date: '2016-07-16'
+  rule: no dia seguinte ao da sua publicação e é aplicável aos concursos relativos ao ano escolar 2016-2017 e aos posteriores
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

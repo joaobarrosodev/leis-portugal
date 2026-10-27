@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 338 - 338
   pdf_url: https://files.diariodarepublica.pt/1s/1962/04/07600/03380338.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1962-01-01'
+entry_into_force:
+  date: '1962-01-01'
+  rule: a partir de 1 de Janeiro de 1962
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

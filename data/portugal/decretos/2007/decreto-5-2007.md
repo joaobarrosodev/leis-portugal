@@ -25,6 +25,16 @@ publication:
   pages: 2180 - 2187
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06800/21802187.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que a Agência receber de Portugal notificação escrita de que estão cumpridos os respectivos requisitos
+    internos para a sua entrada em vigor
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

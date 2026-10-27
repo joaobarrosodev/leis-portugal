@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5848 - 5850
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17000/0584805850.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-04'
+entry_into_force:
+  date: '2009-09-04'
+  rule: no dia 4 de Setembro de 2009
+  method: clausula
+  article: n-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

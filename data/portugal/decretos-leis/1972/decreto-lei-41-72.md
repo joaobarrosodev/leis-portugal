@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 132 - 132
   pdf_url: https://files.diariodarepublica.pt/1s/1972/02/02900/01320132.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-08-04'
+entry_into_force:
+  date: '1972-08-04'
+  rule: seis meses após a sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

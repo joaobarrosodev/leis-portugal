@@ -24,9 +24,26 @@ publication:
   supplement: null
   pages: 66 - 67
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/110000000/0006600067.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-08'
+entry_into_force:
+  date: '2023-06-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:836277252:por#art-6'
+    detail: A presente portaria revoga a [Portaria n.º 258/2023], publicada no Diário da República, 2.ª série, n.º 110, parte
+      C, de 7 de junho de 2023.
 notes: []
 language: por
 version:

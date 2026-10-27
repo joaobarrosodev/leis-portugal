@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10341 - 10342
   pdf_url: https://files.diariodarepublica.pt/2s/2000/06/139000000/1034110342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-07-30'
+entry_into_force:
+  date: '2000-07-30'
+  rule: no dia 30 de Julho de 2000
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

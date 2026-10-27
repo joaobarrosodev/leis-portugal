@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1154 - 1190
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/04500/0115401190.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-03-04'
+entry_into_force:
+  date: '2017-03-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-136
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Lei do Orçamento do Estado, salvo se disposto em contrário nos artigos antecedentes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

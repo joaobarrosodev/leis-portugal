@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1065 - 1073
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09100/10651073.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-07-18'
+entry_into_force:
+  date: '1985-07-18'
+  rule: 90 dias depois da sua publicação e na mesma data ficarão revogados o Decreto-Lei n.º 45698, de 30 de Abril de 1964,
+    a sua legislação complementar e ainda as disposições legais que estabeleçam isenções
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 1586 - 1587
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/13500/15861587.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o decreto-lei a que se reporta
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

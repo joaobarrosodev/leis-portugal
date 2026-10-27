@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8859 - 8920
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/25200/0885908920.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-01'
+entry_into_force:
+  date: '2010-01-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-41
+  effects_date: '2010-01-01'
+  effects_rule: desde 1 de Janeiro de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

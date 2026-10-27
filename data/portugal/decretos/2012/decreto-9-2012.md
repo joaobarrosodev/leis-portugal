@@ -24,6 +24,16 @@ publication:
   pages: 2233 - 2238
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/07900/0223302238.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'sessenta (60) dias após a data de recepção da última notificação, por escrito e por via diplomática, declarando que
+    foram cumpridos todos os procedimentos internos de ambas as Partes necessários para '
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

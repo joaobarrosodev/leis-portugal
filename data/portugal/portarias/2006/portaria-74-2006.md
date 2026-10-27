@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 419 - 421
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/013b00/04190421.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-01-19'
+entry_into_force:
+  date: '2006-01-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: '2005-12-30'
+  effects_rule: a partir do dia 30 de Dezembro de 2005 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

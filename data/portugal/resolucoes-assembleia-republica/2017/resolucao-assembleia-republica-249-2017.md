@@ -24,6 +24,15 @@ publication:
   pages: 5979 - 5990
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21700/0597905990.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao da data da última notificação
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

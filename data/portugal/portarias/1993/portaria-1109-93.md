@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6137 - 6137
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/256b00/61376137.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-11-07'
+entry_into_force:
+  date: '1993-11-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1993-12-01'
+  effects_rule: a partir do dia 1 do mês seguinte à sua publicação e revoga a tabela II anexa à Portaria n.º 47/87, de 20
+    de Janeiro, e a Portaria n.º 839/92, de 28 de Agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 342-(23) a 342-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25004/0002300053.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-01'
+entry_into_force:
+  date: '2024-01-01'
+  rule: a 1 de janeiro de 2024
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

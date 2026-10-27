@@ -23,6 +23,15 @@ publication:
   pages: 2326 - 2328
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24100/23262328.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na dia seguinte ao da data da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

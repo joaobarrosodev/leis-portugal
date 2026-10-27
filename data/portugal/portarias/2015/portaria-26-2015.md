@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 799 - 802
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02800/0079900802.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-02-11'
+entry_into_force:
+  date: '2015-02-11'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: relativamente aos contratos de trabalho celebrados desde 1 de janeiro de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

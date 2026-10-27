@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4365 - 4389
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/196b00/43654389.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-08-25'
+entry_into_force:
+  date: '2000-08-25'
+  rule: na data da sua publicação no Diário da República, após ratificação nos termos do disposto no Decreto-Lei n.º 69/90,
+    de 2 de Março, com a redacção dada pelo Decreto-Lei n.º 211/92, de 8 de Outubro, e n
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

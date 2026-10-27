@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 622-(4) a 622-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07502/00040006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-03-29'
+entry_into_force:
+  date: '1976-03-29'
+  rule: na data da sua publicação, exceptuando o caso do n.º 6.3.2 do ponto 4.º
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

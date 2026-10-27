@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1672 - 1675
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/073b00/16721675.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-05-11'
+entry_into_force:
+  date: '1995-05-11'
+  rule: 45 dias após a sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

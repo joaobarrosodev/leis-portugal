@@ -24,6 +24,15 @@ publication:
   pages: 86 - 97
   pdf_url: https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas províncias de Angola e Moçambique, 90 dias depois da sua publicação no Diário do Governo
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

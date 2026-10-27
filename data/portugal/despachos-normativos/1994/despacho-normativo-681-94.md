@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5794 - 5799
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/223b00/57945799.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-09-27'
+entry_into_force:
+  date: '1994-09-27'
+  rule: no dia seguinte ao da publicação no Diário da República do anúncio referido no artigo anterior
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 1501 - 1503
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/12700/15011503.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o decreto-lei a que se reporta
+  method: clausula
+  article: n-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

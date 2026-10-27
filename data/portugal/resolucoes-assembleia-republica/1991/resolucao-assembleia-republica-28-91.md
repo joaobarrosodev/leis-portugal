@@ -24,6 +24,16 @@ publication:
   pages: 4706 - 4710
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/205a00/47064710.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à expiração de um prazo de três meses a contar da data em que três Estados membros
+    do Conselho da Europa tenham expresso o seu acordo em ficarem obrigados pela presente
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

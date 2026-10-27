@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 278 - 279
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/02900/02780279.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-02-09'
+entry_into_force:
+  date: '1985-02-09'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1985-01-01'
+  effects_rule: a partir do dia 1 de Janeiro de 1985 e revoga a Portaria n.º 865/83, de 31 de Agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 7448 - 7450
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/270a00/74487450.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: passados 60 dias da data da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

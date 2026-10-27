@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 63818-(56) a 63818-(58)
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/253000002/0005600058.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-31'
+entry_into_force:
+  date: '2010-12-31'
+  rule: no dia 31 de Dezembro de 2010
+  method: clausula
+  article: n-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

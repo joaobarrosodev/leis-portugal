@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1430-(38) a 1430-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13602/00380047.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-06-17'
+entry_into_force:
+  date: '1986-06-17'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

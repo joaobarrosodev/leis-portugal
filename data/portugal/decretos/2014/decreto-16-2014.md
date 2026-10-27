@@ -24,6 +24,16 @@ publication:
   pages: 2698 - 2708
   pdf_url: https://files.diariodarepublica.pt/1s/2014/05/08800/0269802708.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 (sessenta) dias após a data de receção da última notificação, feita por qualquer uma das Partes, por escrito e
+    por via diplomática, indicando que foram cumpridos os requisitos legais internos neces
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

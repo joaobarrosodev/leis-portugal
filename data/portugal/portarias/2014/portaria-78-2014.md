@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2283 - 2287
   pdf_url: https://files.diariodarepublica.pt/1s/2014/04/06600/0228302287.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-05-01'
+entry_into_force:
+  date: '2014-05-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

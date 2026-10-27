@@ -24,6 +24,15 @@ publication:
   pages: 2750 - 2753
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/063b00/27502753.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 60 dias após a data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

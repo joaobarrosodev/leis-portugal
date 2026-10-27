@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 383 - 385
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03100/03830385.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-01-01'
+entry_into_force:
+  date: '1984-01-01'
+  rule: no dia 1 de Janeiro de 1984
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

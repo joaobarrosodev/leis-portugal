@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/244000000/0005800059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1071481441:por#art-3'
+    detail: É revogada a [Portaria n.º 846/2023], de 20 de dezembro.
 notes: []
 language: por
 version:

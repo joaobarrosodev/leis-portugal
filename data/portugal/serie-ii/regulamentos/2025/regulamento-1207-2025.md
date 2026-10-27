@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 273 - 281
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/212000000/0027300281.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-11-04'
+entry_into_force:
+  date: '2025-11-04'
+  rule: no dia seguinte à sua publicação no Diário da República, nos termos do disposto no artigo 139.º do Código do Procedimento
+    Administrativo, na sua atual redação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

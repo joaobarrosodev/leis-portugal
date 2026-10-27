@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 128-(2) a 128-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/12601/0000200046.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-30'
+entry_into_force:
+  date: '2021-08-30'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

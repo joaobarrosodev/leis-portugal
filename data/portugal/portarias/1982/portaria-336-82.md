@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 742 - 742
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/07600/07420742.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-04-02'
+entry_into_force:
+  date: '1982-04-02'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

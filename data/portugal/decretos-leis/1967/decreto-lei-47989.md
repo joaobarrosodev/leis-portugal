@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1797 - 1800
   pdf_url: https://files.diariodarepublica.pt/1s/1967/10/23600/17971800.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1967-10-01'
+entry_into_force:
+  date: '1967-10-01'
+  rule: em 1 de Outubro de 1967 entre os Governos que o tenham assinado ou, nos casos em que a sua prática constitucional
+    assim o requeira, que o tenham ratificado, aceite ou aprovado, se estes Governos inclu
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

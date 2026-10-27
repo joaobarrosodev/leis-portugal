@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1431 - 1437
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/130b00/14311437.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-09-02'
+entry_into_force:
+  date: '1996-09-02'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

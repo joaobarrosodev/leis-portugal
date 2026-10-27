@@ -22,7 +22,17 @@ publication:
   supplement: 2º Suplemento
   pages: 31-(2) a 31-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01002/0000200008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-16'
+entry_into_force:
+  date: '2021-01-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto n.º 3-A/2021, de 14 de janeiro, sem prejuízo do disposto no número seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

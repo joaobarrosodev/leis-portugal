@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 29-(11) a 29-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01501/0001100014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-27'
+entry_into_force:
+  date: '2021-01-27'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2021-01-22'
+  effects_rule: a 22 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3532 - 3533
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/27100/35323533.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-11-29'
+entry_into_force:
+  date: '1986-11-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

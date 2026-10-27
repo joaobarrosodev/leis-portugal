@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1783 - 1785
   pdf_url: https://files.diariodarepublica.pt/1s/1972/11/27700/17831785.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-01-01'
+entry_into_force:
+  date: '1973-01-01'
+  rule: em 1 de Janeiro de 1973
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

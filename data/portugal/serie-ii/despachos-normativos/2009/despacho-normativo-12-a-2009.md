@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11910-(20) a 11910-(35)
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/061000002/0002000035.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-28'
+entry_into_force:
+  date: '2009-03-28'
+  rule: no dia seguinte ao da sua publicação no Diário da República, salvo o disposto no número seguinte
+  method: clausula
+  article: art-125
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

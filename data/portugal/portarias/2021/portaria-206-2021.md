@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3 - 31
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20000/0000300031.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-15'
+entry_into_force:
+  date: '2021-10-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2021-07-22'
+  effects_rule: a 22 de julho de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

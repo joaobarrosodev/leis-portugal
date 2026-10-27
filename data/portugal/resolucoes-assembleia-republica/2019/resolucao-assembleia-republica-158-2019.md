@@ -25,6 +25,16 @@ publication:
   pages: 78 - 84
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/16900/0007800084.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: dez (10) dias consecutivos após a data em que o Reino Unido se retirar da União Europeia ou dez (10) dias consecutivos
+    após a data de receção da última das notificações, por escrito, por via diplomáti
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

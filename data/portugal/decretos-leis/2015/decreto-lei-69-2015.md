@@ -23,6 +23,15 @@ publication:
   pages: 2283 - 2286
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/08700/0228302286.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

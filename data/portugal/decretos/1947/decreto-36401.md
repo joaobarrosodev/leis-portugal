@@ -26,7 +26,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1947/07/15500/06380638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:448527:por#n-9'
+    detail: 9 - É revogado o [Decreto n.º 36401], de 8 de Julho de 1947, por força do preceituado no n.º 5 do artigo 6.º do
+      [Decreto-Lei n.º 49368], de 10 de Novembro de 1969, na redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º
+      5/73], de 5 de Janeiro.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:448527:por'
+    detail: Revogado pelo(a) Portaria n.º 79/78 - Diário da República n.º 33/1978, Série I de 1978-02-09
 notes: []
 language: por
 version:

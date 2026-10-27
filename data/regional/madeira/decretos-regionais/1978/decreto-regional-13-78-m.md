@@ -23,6 +23,15 @@ publication:
   pages: 500 - 501
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/05800/05000501.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a publicação da lei sobre a representação das Regiões Autónomas na Comissão para a Integração Europeia
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

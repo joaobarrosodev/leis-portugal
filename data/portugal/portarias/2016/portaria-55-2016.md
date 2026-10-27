@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 962 - 963
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/05900/0096200963.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-25'
+entry_into_force:
+  date: '2016-03-25'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo dos seus efeitos se reportarem, em conformidade com a regulamentação
+    aplicável, a 1 de janeiro de 2014
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

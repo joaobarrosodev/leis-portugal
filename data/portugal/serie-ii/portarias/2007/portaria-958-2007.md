@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/10/210000000/3145931460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:116547927:por'
+    detail: Revogada, a partir de 15.10.2018, a presente portaria, na redação da Port 553-A/2008 de 27-jun pelo(a) Portaria
+      n.º 506/2018 - Diário da República n.º 190/2018, Série II de 2018-10-02 nos termos dos seus n.ºs 3 e 4
 notes: []
 language: por
 version:

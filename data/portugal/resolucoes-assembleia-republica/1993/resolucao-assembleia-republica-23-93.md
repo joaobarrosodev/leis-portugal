@@ -24,6 +24,16 @@ publication:
   pages: 3776 - 3786
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/159a00/37763786.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao termo de um prazo de três meses após a data em que cinco Estados membros do Conselho
+    da Europa tenham expressado o seu consentimento em ficar vinculados pela Convenção em
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

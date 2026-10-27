@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 789 - 790
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03100/0078900790.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-14'
+entry_into_force:
+  date: '2013-02-14'
+  rule: no dia seguinte ao da sua publicação, aplicando-se aos programas operacionais executados em 2012
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

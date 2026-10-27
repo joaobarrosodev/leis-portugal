@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 303 - 304
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/013b00/03030304.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-01-17'
+entry_into_force:
+  date: '1999-01-17'
+  rule: no dia imediato ao da sua publicação, começando nessa data a contar o prazo de um ano, no qual os estabelecimentos
+    já licenciados e ou em funcionamento devem ser adaptados ao cumprimento do disposto n
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

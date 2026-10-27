@@ -24,6 +24,15 @@ publication:
   pages: 5316 - 5318
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/194a00/53165318.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início de vigência do diploma que aprova o Código da Insolvência e da Recuperação de Empresas
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

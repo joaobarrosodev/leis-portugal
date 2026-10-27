@@ -24,6 +24,15 @@ publication:
   pages: 702 - 720
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/037a00/07020720.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que tenham decorrido trinta dias a partir da data em que se efectuar a troca dos instrumentos de ratificação
+  method: clausula
+  article: art-129
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

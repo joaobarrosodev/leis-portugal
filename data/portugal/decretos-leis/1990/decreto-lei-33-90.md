@@ -23,6 +23,15 @@ publication:
   pages: 335 - 337
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/02000/03350337.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do 1.º dia de candidatura à matrícula e inscrição para o ano lectivo de 1990-1991, inclusive
+  method: clausula
+  article: art-27-a
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

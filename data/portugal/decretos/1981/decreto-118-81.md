@@ -25,6 +25,16 @@ publication:
   pages: 2404 - 2410
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20800/24042410.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'três meses após a data do depósito do 15.º instrumento da ratificação, aceitação ou adesão, mas apenas em relação
+    aos Estados que tenham depositado os respectivos instrumentos naquela data ou em data '
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

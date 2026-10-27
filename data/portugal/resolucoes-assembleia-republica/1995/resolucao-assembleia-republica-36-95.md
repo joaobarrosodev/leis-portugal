@@ -25,6 +25,17 @@ publication:
   pages: 4932 - 4937
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/179a00/49324937.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data da troca dos instrumentos de aprovação, que terá lugar em Lisboa o mais cedo
+    possível
+  method: clausula
+  article: art-4
+  effects_date: '1993-07-01'
+  effects_rule: a partir de 1 de Julho de 1993, data em que a entrega pela República Francesa das infra-estruturas propriedade
+    da República Portuguesa, bem como de outros equipamentos, deverá estar concluída
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

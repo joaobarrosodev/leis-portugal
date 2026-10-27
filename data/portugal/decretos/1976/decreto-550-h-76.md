@@ -23,6 +23,15 @@ publication:
   pages: 1540-(10) a 1540-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16102/00100012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

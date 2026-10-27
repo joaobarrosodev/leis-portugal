@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 826 - 826
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/04700/08260826.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-02-25'
+entry_into_force:
+  date: '1987-02-25'
+  rule: na data da publicação da portaria que aprovar o novo regulamento de uniformes da Força Aérea
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

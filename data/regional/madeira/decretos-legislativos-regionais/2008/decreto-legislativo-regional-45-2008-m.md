@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9225 - 9299
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/25200/0922509299.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-01'
+entry_into_force:
+  date: '2009-01-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-44
+  effects_date: '2009-01-01'
+  effects_rule: desde 1 de Janeiro de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1904 - 1911
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/29200/19041911.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1971-01-01'
+entry_into_force:
+  date: '1971-01-01'
+  rule: no dia 1 de Janeiro de 1971, considerando-se revogados, a partir dessa data, os Decretos-Leis n.os 28671, de 19 de
+    Maio de 1938, 41383, de 22 de Novembro de 1957, e 48058, de 23 de Novembro de 1967
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

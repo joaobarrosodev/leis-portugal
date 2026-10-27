@@ -24,6 +24,15 @@ publication:
   pages: 2340 - 2341
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/095b00/23402341.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'nos termos gerais de direito, excepto:'
+  method: clausula
+  article: art-62-a
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

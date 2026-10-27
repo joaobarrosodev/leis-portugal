@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6290 - 6307
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/269b00/62906307.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-11-20'
+entry_into_force:
+  date: '1997-11-20'
+  rule: após a sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

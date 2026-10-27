@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 160 - 171
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/009a00/01600171.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-02-10'
+entry_into_force:
+  date: '1991-02-10'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

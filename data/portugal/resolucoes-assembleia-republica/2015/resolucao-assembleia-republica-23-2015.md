@@ -24,6 +24,16 @@ publication:
   pages: 1337 - 1365
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04500/0133701365.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data de recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os
+    requisitos do direito interno dos Estados Contratantes necessários para o efeito
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

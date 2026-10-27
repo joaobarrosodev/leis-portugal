@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/20701/0000200008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-28'
+entry_into_force:
+  date: '2025-10-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: '2026-06-12'
+  effects_rule: no dia 12 de junho de 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

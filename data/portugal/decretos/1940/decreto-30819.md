@@ -26,7 +26,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1940/10/24600/12291230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:247989:por'
+    detail: Revogado e substituído pelo(a) Decreto n.º 40375 - Diário do Governo n.º 246/1955, Série I de 1955-11-11
 notes: []
 language: por
 version:

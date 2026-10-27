@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2010 - 2023
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16000/20102023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-08-14'
+entry_into_force:
+  date: '1985-08-14'
+  rule: 30 dias após a sua publicação e aplica-se nos termos dos números seguintes
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

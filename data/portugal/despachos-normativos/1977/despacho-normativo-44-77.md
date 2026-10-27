@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 270 - 270
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04200/02700270.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-02-27'
+entry_into_force:
+  date: '1977-02-27'
+  rule: oito dias após a data da sua publicação, devendo ser revisto no prazo de seis meses após a sua entrada em vigor, de
+    modo a aperfeiçoar os mecanismos nele instituídos, de acordo com os resultados entre
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

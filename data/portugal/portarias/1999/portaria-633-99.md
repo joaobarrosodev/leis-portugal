@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5275 - 5277
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/186b00/52755277.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-08-12'
+entry_into_force:
+  date: '1999-08-12'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-11
+  effects_date: '1999-01-01'
+  effects_rule: desde 1 de Janeiro de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

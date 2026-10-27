@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 314 - 315
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/01400/0031400315.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-01-20'
+entry_into_force:
+  date: '2012-01-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2012-01-01'
+  effects_rule: reportados a 1 de janeiro de 2012
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

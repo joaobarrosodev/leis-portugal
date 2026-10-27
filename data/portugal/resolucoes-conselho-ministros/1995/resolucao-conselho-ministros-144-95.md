@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7153 - 7162
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/269b00/71537162.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-11-21'
+entry_into_force:
+  date: '1995-11-21'
+  rule: na data da sua publicação no Diário da República, observando-se o disposto na legislação vigente quanto à aplicação
+    do PDM e sua revisão, bem como para as situações omissas
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

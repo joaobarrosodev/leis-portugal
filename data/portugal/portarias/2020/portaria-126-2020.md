@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3 - 4
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/10200/0000300004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-05-27'
+entry_into_force:
+  date: '2020-05-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: '2020-02-02'
+  effects_rule: desde o dia 2 de fevereiro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

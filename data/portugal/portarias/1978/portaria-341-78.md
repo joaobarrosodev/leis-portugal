@@ -23,6 +23,15 @@ publication:
   pages: 1161 - 1162
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/14700/11611162.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ao mesmo tempo que o Decreto-Lei n.º 154/78, desta data
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

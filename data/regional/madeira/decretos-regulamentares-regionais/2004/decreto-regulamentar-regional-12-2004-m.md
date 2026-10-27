@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2590 - 2597
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/098b00/25902597.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-04-27'
+entry_into_force:
+  date: '2004-04-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

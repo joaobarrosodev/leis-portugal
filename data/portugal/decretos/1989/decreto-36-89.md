@@ -24,6 +24,16 @@ publication:
   pages: 3452 - 3453
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19200/34523453.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que cada uma das Partes comunicar à outra terem sido cumpridos os respectivos preceitos constitucionais
+    e poderá ser denunciado por qualquer das Partes mediante correspondência por via dipl
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

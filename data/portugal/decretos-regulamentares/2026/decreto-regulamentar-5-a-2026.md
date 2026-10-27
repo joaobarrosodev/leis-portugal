@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 8 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2026/03/06304/0000800009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-04-01'
+entry_into_force:
+  date: '2026-04-01'
+  rule: no dia seguinte ao da sua publicação e é aplicável às declarações automáticas de rendimentos relativas aos anos de
+    2025 e seguintes
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

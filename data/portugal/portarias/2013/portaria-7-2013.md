@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 132 - 132
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00700/0013200132.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-11'
+entry_into_force:
+  date: '2013-01-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: à data da entrada em vigor do Decreto-Lei n.º 1/2013, de 7 de janeiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

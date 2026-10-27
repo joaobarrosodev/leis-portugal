@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 386 - 396
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/138000000/0038600396.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-07-19'
+entry_into_force:
+  date: '2024-07-19'
+  rule: no dia imediato à sua publicação no Diário da República e
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: abrangendo o período letivo relativo ao ano dois mil e vinte e três e dois mil e vinte e quatro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

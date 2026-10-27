@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 1600-(2) a 1600-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/144b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-06-27'
+entry_into_force:
+  date: '1996-06-27'
+  rule: em 27 de Junho de 1996
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2113 - 2114
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/16000/21132114.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-07-13'
+entry_into_force:
+  date: '1984-07-13'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: n-7
+  effects_date: '1984-10-31'
+  effects_rule: até 31 de Outubro de 1984
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

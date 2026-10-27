@@ -24,6 +24,16 @@ publication:
   pages: 5154 - 5188
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 3.º mês após, pelo menos, 14 Estados da área do Acordo ou organizações regionais de integração económica,
+    compreendendo pelo menos 7 de África e 7 da Eurásia, terem assinado sem restriçõ
+  method: clausula
+  article: art-xiv
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

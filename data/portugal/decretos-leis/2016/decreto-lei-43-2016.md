@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2732 - 2734
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15600/0273202734.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-24'
+entry_into_force:
+  date: '2016-09-24'
+  rule: no dia 24 de setembro de 2016
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

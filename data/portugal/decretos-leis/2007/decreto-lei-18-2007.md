@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 563 - 566
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/01500/05630566.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-03-15'
+entry_into_force:
+  date: '2007-03-15'
+  rule: no dia 15 de Março de 2007
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

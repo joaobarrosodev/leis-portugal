@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2661 - 2665
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/10200/0266102665.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-29'
+entry_into_force:
+  date: '2019-05-29'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º
+    da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

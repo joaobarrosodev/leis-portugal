@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2352 - 2354
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/103a00/23522354.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-05-04'
+entry_into_force:
+  date: '1999-05-04'
+  rule: na data da publicação da portaria
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

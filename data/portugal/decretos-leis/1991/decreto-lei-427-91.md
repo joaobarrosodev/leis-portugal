@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5604 - 5606
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/251a00/56045606.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-11-30'
+entry_into_force:
+  date: '1991-11-30'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

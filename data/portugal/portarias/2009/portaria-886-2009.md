@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 5299 - 5300
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15700/0529905300.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-12'
+entry_into_force:
+  date: '2009-09-12'
+  rule: no dia 12 de Setembro de 2009
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

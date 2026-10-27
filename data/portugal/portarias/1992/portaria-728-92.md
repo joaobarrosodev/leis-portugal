@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3378-(2) a 3378-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/165b01/00020004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-07-20'
+entry_into_force:
+  date: '1992-07-20'
+  rule: em 20 de Julho de 1992
+  method: clausula
+  article: n-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

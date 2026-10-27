@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/17201/0000400005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-09-07'
+entry_into_force:
+  date: '2026-09-07'
+  rule: no dia 7 de setembro de 2026
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

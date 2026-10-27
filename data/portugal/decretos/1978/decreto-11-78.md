@@ -23,6 +23,16 @@ publication:
   pages: 136 - 147
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01600/01360147.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um ano após a data na qual a ratificação ou a adesão deste país foi notificada pelo Director-Geral, a menos que uma
+    data posterior não tenha sido indicada no instrumento de ratificação ou adesão
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

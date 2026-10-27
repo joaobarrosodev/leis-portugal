@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2736-(3) a 2736-(23)
   pdf_url: https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-02-11'
+entry_into_force:
+  date: '2017-02-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2016/2017 e
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 6516 - 6521
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/282a00/65166521.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao decurso de um período de um mês após a data em que cinco Estados membros do Conselho
+    da Europa tenham manifestado o seu consentimento em se vincularem ao Protocolo, nos t
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

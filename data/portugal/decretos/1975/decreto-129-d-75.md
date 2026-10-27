@@ -23,6 +23,15 @@ publication:
   pages: 390-(7) a 390-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/06104/00070007.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data do diploma de reintegração do general Humberto da Silva Delgado
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

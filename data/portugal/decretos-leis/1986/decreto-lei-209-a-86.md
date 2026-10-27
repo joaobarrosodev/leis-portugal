@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1854-(1) a 1854-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/17101/00010003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-07-29'
+entry_into_force:
+  date: '1986-07-29'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

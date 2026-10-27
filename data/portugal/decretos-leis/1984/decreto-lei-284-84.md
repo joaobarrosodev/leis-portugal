@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2576 - 2577
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19400/25762577.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-10-01'
+entry_into_force:
+  date: '1984-10-01'
+  rule: em 1 de Outubro de 1984
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

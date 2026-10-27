@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 326 - 328
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/03300/03260328.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-03-10'
+entry_into_force:
+  date: '1985-03-10'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: n-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

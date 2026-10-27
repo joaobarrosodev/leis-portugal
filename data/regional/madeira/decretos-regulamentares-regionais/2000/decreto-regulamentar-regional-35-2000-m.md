@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3068 - 3069
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/157b00/30683069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-07-04'
+entry_into_force:
+  date: '2000-07-04'
+  rule: no dia 4 de Julho de 2000
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

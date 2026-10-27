@@ -24,6 +24,16 @@ publication:
   pages: 746 - 747
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/09100/07460747.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que as Partes Contratantes se notificarem reciprocamente, por troca de notas, do cumprimento das formalidades
+    constitucionais nos países respectivos
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

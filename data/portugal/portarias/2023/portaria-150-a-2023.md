@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 43-(2) a 43-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10801/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-06'
+entry_into_force:
+  date: '2023-06-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: entre os dias 6 de junho e 3 de julho de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

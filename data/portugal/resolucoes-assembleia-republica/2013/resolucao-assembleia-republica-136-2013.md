@@ -24,6 +24,16 @@ publication:
   pages: 5752 - 5757
   pdf_url: https://files.diariodarepublica.pt/1s/2013/09/17700/0575205757.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de recebimento pelas Partes da última notificação escrita que ateste o cumprimento dos requisitos internos
+    necessários para que este produza efeito legal
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

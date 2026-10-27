@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4864 - 4865
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/14500/0486404865.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-08-03'
+entry_into_force:
+  date: '2009-08-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2010-05-01'
+  effects_rule: a partir do dia 1 de Maio de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

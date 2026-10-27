@@ -24,6 +24,16 @@ publication:
   pages: 6858 - 6866
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/249a00/68586866.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no 1.º dia do mês seguinte ao termo de um período de três meses a contar da data em que 14 Estados tenham expressado
+    o seu consentimento em ficarem vinculados pela presente Convenção, em conformidade '
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

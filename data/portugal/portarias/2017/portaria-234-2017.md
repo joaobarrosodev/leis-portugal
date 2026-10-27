@@ -24,9 +24,38 @@ publication:
   supplement: null
   pages: 4272 - 4273
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14500/0427204273.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-08-02'
+entry_into_force:
+  date: '2017-08-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: 'a partir do ano letivo de 2017/2018 e de forma progressiva, aplicando-se:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:124539910:por#art-41'
+    detail: 1 - São revogadas a [Portaria n.º 260/2013], de 13 de agosto, e a [Portaria n.º 234/2017], de 28 de julho, de
+      acordo com a calendarização de produção de efeitos fixada no artigo seguinte.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:124539911:por#art-47'
+    detail: 1 - São revogadas a [Portaria n.º 260/2013], de 13 de agosto, e a [Portaria n.º 234/2017], de 28 de julho, de
+      acordo com a calendarização de produção de efeitos fixada no artigo seguinte.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:124539910:por'
+    detail: Revogada, pelo(a) Portaria n.º 294/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 de acordo com
+      o disposto no seu art. 42.º
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:124539911:por'
+    detail: Revogada, a partir de 10.09.2019, pelo(a) Portaria n.º 295/2019 - Diário da República n.º 172/2019, Série I de
+      2019-09-09, de acordo com calendarização da produção de efeitos prevista no seu art. 48.º
 notes: []
 language: por
 version:

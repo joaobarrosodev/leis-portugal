@@ -22,7 +22,19 @@ publication:
   supplement: null
   pages: 107 - 112
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/008000000/0010700112.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-12'
+entry_into_force:
+  date: '2023-01-12'
+  rule: no dia seguinte ao da sua publicação, iniciando-se o processo de submissão de candidaturas no dia 1 de fevereiro de
+    2023, e
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: '2023-12-31'
+  end_rule: até 31 de dezembro de 2023 ou, se ocorrer em momento anterior, até se esgotar a dotação orçamental prevista no
+    artigo 2.º do presente diploma
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

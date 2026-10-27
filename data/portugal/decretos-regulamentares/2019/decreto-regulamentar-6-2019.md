@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 41 - 267
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20300/0004100267.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-19'
+entry_into_force:
+  date: '2020-04-19'
+  rule: 180 dias após a data da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

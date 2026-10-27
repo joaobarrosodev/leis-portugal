@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2521 - 2529
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09400/0252102529.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-05-16'
+entry_into_force:
+  date: '2015-05-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

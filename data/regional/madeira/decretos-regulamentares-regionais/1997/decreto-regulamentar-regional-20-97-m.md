@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5215 - 5219
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-10-01'
+entry_into_force:
+  date: '1997-10-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

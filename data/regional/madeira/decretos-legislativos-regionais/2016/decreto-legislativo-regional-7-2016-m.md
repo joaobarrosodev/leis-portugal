@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 514 - 521
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03400/0051400521.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-05-18'
+entry_into_force:
+  date: '2016-05-18'
+  rule: noventa dias após sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7492-(700) a 7492-(702)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/299b05/07000702.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-01-03'
+entry_into_force:
+  date: '2001-01-03'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2001-01-01'
+  effects_rule: a partir de 1 de Janeiro de 2001
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

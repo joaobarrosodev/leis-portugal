@@ -24,6 +24,15 @@ publication:
   pages: 6588 - 6593
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/267a00/65886593.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º dia útil após a sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

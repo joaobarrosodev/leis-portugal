@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 790-(5) a 790-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03101/0000500011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-14'
+entry_into_force:
+  date: '2013-02-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

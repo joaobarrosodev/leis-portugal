@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 69-(2) a 69-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/23001/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-11-30'
+entry_into_force:
+  date: '2019-11-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2019-11-21'
+  effects_rule: a partir de 21 de novembro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

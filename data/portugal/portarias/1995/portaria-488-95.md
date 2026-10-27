@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3163 - 3173
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/118b00/31633173.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-06-21'
+entry_into_force:
+  date: '1995-06-21'
+  rule: no prazo de 30 dias após a sua publicação, sendo nessa data revogado o Decreto-Lei n.º 76/87, de 13 de Fevereiro,
+    em conformidade com o disposto no artigo 8.º do Decreto-Lei n.º 289/94, de 14 de Novem
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

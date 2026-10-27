@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1293 - 1294
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03600/0129301294.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-02-21'
+entry_into_force:
+  date: '2019-02-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: '2019-01-01'
+  effects_rule: desde 1 de janeiro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 198-(2) a 198-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/01301/0000200004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor da portaria referida no artigo 4.º
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

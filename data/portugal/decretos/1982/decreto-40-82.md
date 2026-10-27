@@ -24,6 +24,16 @@ publication:
   pages: 779 - 786
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/07900/07790786.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após ter sido assinado sem reserva de ratificação, ou ratificado, por 3 Estados Membros do Conselho da Europa, nos
+    termos do artigo 5.º
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

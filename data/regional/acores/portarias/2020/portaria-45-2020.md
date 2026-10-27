@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1738-1740
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/04/22/132332479.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-23'
+entry_into_force:
+  date: '2020-04-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-9
+  effects_date: '2019-10-09'
+  effects_rule: a partir do dia 9 de outubro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

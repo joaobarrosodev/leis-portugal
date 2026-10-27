@@ -25,6 +25,15 @@ publication:
   pages: 2453-2453
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/07/04/185600824.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 julho de 2022
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

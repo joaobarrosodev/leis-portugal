@@ -23,6 +23,16 @@ publication:
   pages: 2116 - 2124
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/21000/21162124.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a título experimental, após noventa dias da sua publicação, prevendo-se a sua revisão passados que sejam três anos
+    sobre a sua vigência
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

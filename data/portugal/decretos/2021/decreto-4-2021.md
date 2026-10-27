@@ -23,6 +23,15 @@ publication:
   pages: 2 - 28
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/050a00/0000200028.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 15 de março de 2021
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

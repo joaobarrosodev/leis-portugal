@@ -24,6 +24,15 @@ publication:
   pages: 5356 - 5356
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/239b00/53565356.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data referida no artigo 6.º do Decreto-Lei n.º 269/98, de 1 de Setembro
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

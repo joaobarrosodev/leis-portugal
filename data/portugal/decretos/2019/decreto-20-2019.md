@@ -24,6 +24,16 @@ publication:
   pages: 33 - 44
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/14400/0003300044.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no nonagésimo dia depois de cinco dos Estados mencionados no n.º 3 do artigo 7.º do presente Protocolo terem depositado
+    os seus instrumentos de ratificação ou adesão
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

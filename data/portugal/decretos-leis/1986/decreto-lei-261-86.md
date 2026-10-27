@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2284 - 2288
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-10-31'
+entry_into_force:
+  date: '1986-10-31'
+  rule: 60 dias após a sua publicação, excepto as alíneas d) e e) do n.º 2 do artigo 8.º, cuja vigência terá início decorrido
+    um ano contado a partir da data de publicação do presente decreto-lei
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

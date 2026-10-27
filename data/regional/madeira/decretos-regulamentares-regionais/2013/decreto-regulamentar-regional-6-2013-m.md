@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1083 - 1092
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-21'
+entry_into_force:
+  date: '2013-02-21'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: com a entrada em vigor do Decreto Legislativo Regional n.º 42/2012/M, de 31 de dezembro, que procede à extinção
+    do Centro de Estudos de História do Atlântico enquanto entidade com autonomia administra
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

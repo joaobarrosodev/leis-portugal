@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 56-(4) a 56-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/04501/0000400004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-04'
+entry_into_force:
+  date: '2023-03-04'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: entre o dia 6 de março de 2023 e o dia 3 de abril de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

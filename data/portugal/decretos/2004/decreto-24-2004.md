@@ -24,6 +24,16 @@ publication:
   pages: 6152 - 6160
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/230a00/61526160.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias depois de as Partes se terem notificado, por escrito e por via diplomática, de que foram cumpridos todos os
+    respectivos requisitos internos constitucionais ou legais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

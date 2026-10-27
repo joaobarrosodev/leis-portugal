@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2496 - 2497
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/186b00/24962497.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-09-11'
+entry_into_force:
+  date: '1996-09-11'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

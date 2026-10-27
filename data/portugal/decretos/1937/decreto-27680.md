@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1937/05/10300/04130417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:611552:por#n-3'
+    detail: Aprova o Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento. Revoga o [Decreto
+      n.º 27680] e as instruções para os primeiros socorros a prestar a acidentes pessoais produzidos por correntes eléctricas,
+      aprovados por Decreto de 23 de Junho de 1913 (2.4.4).
 notes: []
 language: por
 version:

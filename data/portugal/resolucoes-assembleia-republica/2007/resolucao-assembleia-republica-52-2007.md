@@ -26,6 +26,15 @@ publication:
   pages: 7406 - 7414
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte ao da notificação da sua aprovação pelo último Estado membro
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

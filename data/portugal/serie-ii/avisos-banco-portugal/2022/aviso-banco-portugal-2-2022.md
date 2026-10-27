@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 150 - 152
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/220000000/0015000152.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-16'
+entry_into_force:
+  date: '2022-11-16'
+  rule: no dia seguinte ao da sua publicação e é aplicável aos períodos de reporte de informação cuja data de referência ocorra
+    após 1 de outubro de 2022
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

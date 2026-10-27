@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 4834 - 4834
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24700/0483404834.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-01'
+entry_into_force:
+  date: '2017-01-01'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5976 - 5985
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/19000/0597605985.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-10-03'
+entry_into_force:
+  date: '2013-10-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: relativamente à gestão financeira do Fundo Florestal Permanente pelo ICNF, I
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

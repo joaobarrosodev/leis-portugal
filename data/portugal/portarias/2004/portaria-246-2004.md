@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1248 - 1249
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/055b00/12481249.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-03-10'
+entry_into_force:
+  date: '2004-03-10'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2003-07-09'
+  effects_rule: a partir do dia 9 de Julho de 2003
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

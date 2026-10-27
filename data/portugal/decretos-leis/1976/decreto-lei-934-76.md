@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2900-(72) a 2900-(73)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30303/00720073.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-01-01'
+entry_into_force:
+  date: '1977-01-01'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

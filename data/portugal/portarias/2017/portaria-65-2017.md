@@ -24,6 +24,15 @@ publication:
   pages: 723 - 724
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03100/0072300724.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

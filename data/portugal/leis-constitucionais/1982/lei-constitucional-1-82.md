@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3135 - 3206
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22700/31353206.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-10-30'
+entry_into_force:
+  date: '1982-10-30'
+  rule: no trigésimo dia posterior ao da sua publicação no Diário da República, sem prejuízo da sua aplicação imediata para
+    efeitos do disposto nos artigos 244.º e 245.º
+  method: clausula
+  article: art-248
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

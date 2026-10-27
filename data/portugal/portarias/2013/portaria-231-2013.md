@@ -23,6 +23,15 @@ publication:
   pages: 4242 - 4245
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/13900/0424204245.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

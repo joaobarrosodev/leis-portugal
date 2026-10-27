@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 657 - 659
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/08000/06570659.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-05-01'
+entry_into_force:
+  date: '1980-05-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: '1979-07-01'
+  effects_rule: a partir de 1 de Julho de 1979
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

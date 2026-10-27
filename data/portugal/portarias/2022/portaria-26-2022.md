@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 37 - 46
   pdf_url: https://files.diariodarepublica.pt/1s/2022/01/00600/0003700046.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-01-11'
+entry_into_force:
+  date: '2022-01-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

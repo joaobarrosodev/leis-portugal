@@ -24,6 +24,16 @@ publication:
   pages: 534 - 543
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/01800/0053400543.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao termo de um período de três meses após a data em que três Estados, incluindo, pelo menos,
+    dois Estados membros do Conselho da Europa, tenham manifestado o seu consentimen
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

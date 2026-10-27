@@ -23,6 +23,15 @@ publication:
   pages: 58-(4) a 58-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/01/00501/0000400010.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00:00 h do dia 10 de janeiro de 2022
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

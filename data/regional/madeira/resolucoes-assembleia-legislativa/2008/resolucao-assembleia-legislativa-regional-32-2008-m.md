@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 9045 - 9046
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/24900/0904509046.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-12-27'
+entry_into_force:
+  date: '2008-12-27'
+  rule: no dia seguinte ao da sua publicação, sendo contudo as implicações financeiras emergentes aplicadas desde a entrada
+    em vigor e produção de efeitos do Orçamento do Estado do ano subsequente ao da entra
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

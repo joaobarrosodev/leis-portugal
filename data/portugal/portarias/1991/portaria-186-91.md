@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1097 - 1097
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/052b00/10971097.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-03-05'
+entry_into_force:
+  date: '1991-03-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 9 - 9
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01900/0000900009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-29'
+entry_into_force:
+  date: '2021-01-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2021-01-01'
+  effects_rule: desde o dia 1 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

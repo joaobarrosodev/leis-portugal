@@ -24,6 +24,15 @@ publication:
   pages: 1476-(2) a 1476-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15501/00020003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

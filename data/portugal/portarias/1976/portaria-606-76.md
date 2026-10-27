@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2337 - 2338
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24100/23372338.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-10-15'
+entry_into_force:
+  date: '1976-10-15'
+  rule: no dia imediato ao da publicação do despacho indicado no n.º 5.º
+  method: clausula
+  article: n-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

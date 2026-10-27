@@ -25,7 +25,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1951/10/21100/08950896.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:409551:por#n-9'
+    detail: 5.º A presente portaria entra em vigor a partir de 1 de Novembro de 1976. Fica revogada a [Portaria n.º 13705],
+      de 13 de Outubro de 1951, e substituídos os despachos do Ministro das Comunicações respeitantes à matéria de que trata
+      a presente portaria.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:409551:por'
+    detail: Revogada, a partir de 01.11.1976, pelo(a) Portaria n.º 611/76 - Diário da República n.º 242/1976, Série I de 1976-10-15
 notes: []
 language: por
 version:

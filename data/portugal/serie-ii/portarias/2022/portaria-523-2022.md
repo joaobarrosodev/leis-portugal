@@ -24,6 +24,15 @@ publication:
   pages: 158 - 158
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/096000000/0015800158.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da sua assinatura
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

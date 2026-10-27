@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2200 - 2204
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19300/22002204.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-07-01'
+entry_into_force:
+  date: '1981-07-01'
+  rule: em 1 de Julho de 1981 se, até 30 de Junho de 1981, tanto os Governos representantes dos membros exportadores que detenham,
+    pelo menos, 60% dos votos enumerados no anexo A como os Governos representant
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

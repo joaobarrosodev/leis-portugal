@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8444 - 8447
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18700/0844408447.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-06'
+entry_into_force:
+  date: '2015-10-06'
+  rule: no dia 6 de outubro de 2015
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

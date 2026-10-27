@@ -24,6 +24,15 @@ publication:
   pages: 1790 - 1794
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/077a00/17901794.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à recepção da última das notificações previstas no segundo parágrafo
+  method: clausula
+  article: art-11
+  effects_date: '1995-01-01'
+  effects_rule: a partir de 1 de Janeiro de 1995
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

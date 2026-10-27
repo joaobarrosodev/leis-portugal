@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1406 - 1434
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1971-10-01'
+entry_into_force:
+  date: '1971-10-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-98
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

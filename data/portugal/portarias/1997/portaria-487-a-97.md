@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3488-(2) a 3488-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/160b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-07-14'
+entry_into_force:
+  date: '1997-07-14'
+  rule: na data da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/18302/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-12-20'
+entry_into_force:
+  date: '2026-12-20'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

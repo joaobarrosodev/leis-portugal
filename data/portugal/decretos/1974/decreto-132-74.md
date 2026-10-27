@@ -23,6 +23,15 @@ publication:
   pages: 479 - 482
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/07900/04790482.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigéssimo dia a contar da data de publicação nos Boletins Oficiais respectivos
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

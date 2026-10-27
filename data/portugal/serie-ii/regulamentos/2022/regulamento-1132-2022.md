@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 253 - 257
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/225000000/0025300257.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-23'
+entry_into_force:
+  date: '2022-11-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se aos períodos sujeitos a avaliação em curso
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

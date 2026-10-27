@@ -25,6 +25,16 @@ publication:
   pages: 3209 - 3221
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a recepção pela FAO da notificação da República Portuguesa a indicar que todos os procedimentos internos necessários
+    para o efeito foram cumpridos
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

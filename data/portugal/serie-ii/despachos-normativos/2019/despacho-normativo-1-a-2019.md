@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17770-(2) a 17770-(18)
   pdf_url: https://files.diariodarepublica.pt/2s/2019/06/113000001/0000200018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-15'
+entry_into_force:
+  date: '2019-06-15'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-94
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

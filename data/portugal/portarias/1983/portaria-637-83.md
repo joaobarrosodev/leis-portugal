@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1991 - 1991
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12500/19911991.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-08-29'
+entry_into_force:
+  date: '1983-08-29'
+  rule: 90 dias após a sua publicação no Diário da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

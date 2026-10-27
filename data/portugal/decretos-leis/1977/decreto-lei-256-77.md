@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1453 - 1454
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13800/14531454.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-06-18'
+entry_into_force:
+  date: '1977-06-18'
+  rule: no dia seguinte ao da sua publicação, produzindo, todavia, efeitos desde 1 de Janeiro de 1977
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

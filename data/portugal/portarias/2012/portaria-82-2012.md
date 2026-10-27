@@ -24,6 +24,15 @@ publication:
   pages: 1521 - 1524
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06400/0152101524.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia de entrada em vigor da Lei n.º 7/2012, de 13 de fevereiro
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

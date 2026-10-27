@@ -24,6 +24,15 @@ publication:
   pages: 1148 - 1151
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11700/11481151.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: provisoriamente desde a sua assinatura, e definitivamente após a sua aprovação pelos dois Governos
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

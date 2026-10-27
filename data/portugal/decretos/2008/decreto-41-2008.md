@@ -24,6 +24,16 @@ publication:
   pages: 7225 - 7233
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19700/0722507233.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês que se seguir à data de recepção da segunda das duas notificações através das quais
+    os Estados Contratantes comunicarão um ao outro, por via oficial, o cumprimento dos r
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

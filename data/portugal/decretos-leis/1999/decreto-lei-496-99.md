@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8197 - 8205
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/269a00/81978205.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-11-19'
+entry_into_force:
+  date: '1999-11-19'
+  rule: no dia imediato ao da sua publicação, com excepção dos artigos 6.º a 15.º, que
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

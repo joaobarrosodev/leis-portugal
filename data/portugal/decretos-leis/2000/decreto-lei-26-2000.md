@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 726 - 730
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/053a00/07260730.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-03-04'
+entry_into_force:
+  date: '2000-03-04'
+  rule: no dia seguinte ao da sua publicação, excepto no que respeita às alterações aos n.os 2 do artigo 12.º, 1 do artigo
+    13.º e 1 e 3 do artigo 14.º do Decreto-Lei n.º 181/92, de 22 de Agosto, que
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

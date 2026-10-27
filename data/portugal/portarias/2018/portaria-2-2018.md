@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00100/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-03'
+entry_into_force:
+  date: '2018-01-03'
+  rule: no dia seguinte à sua publicação e aplica-se às operações relativamente às quais não haja decisão de saldo
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

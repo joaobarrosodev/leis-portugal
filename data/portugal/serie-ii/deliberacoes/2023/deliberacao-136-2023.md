@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/027000000/0012500125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:214850038:por#n-6'
+    detail: 'a [Deliberação n.º 662/2019], de 31 de maio, a [Deliberação n.º 1081/2019], de 11 de outubro, a [Deliberação
+      n.º 499/2020], de 21 de abril, a [Deliberação n.º 857/2021], de 13 de agosto, [Deliberação n.º 1185/2021], de 16 de
+      novembro, [Deliberação n.º 1186/2021], de 16 de novembro, [Deliberação n.º '
 notes: []
 language: por
 version:

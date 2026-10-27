@@ -23,6 +23,16 @@ publication:
   pages: 1200 - 1202
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/056a00/12001202.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas para o efeito pela ordem jurídica de cada uma
+    das Partes
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

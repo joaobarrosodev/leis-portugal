@@ -24,6 +24,16 @@ publication:
   pages: 3924 - 3945
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15100/0392403945.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de três meses após a data na qual cinco signatários, incluindo
+    pelo menos três Estados membros do Conselho da Europa, tenham manifestado o seu co
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20 - 106
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10700/0002000106.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-10-29'
+entry_into_force:
+  date: '2023-10-29'
+  rule: a 29 de outubro de 2023, sem prejuízo do disposto no artigo seguinte
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

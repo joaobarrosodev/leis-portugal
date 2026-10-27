@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 613 - 617
   pdf_url: https://files.diariodarepublica.pt/1s/1962/04/09501/06130617.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1962-10-01'
+entry_into_force:
+  date: '1962-10-01'
+  rule: no dia 1 de Outubro de 1962, nas províncias de Cabo Verde, Guiné, S
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -27,6 +27,16 @@ publication:
   pages: 8301 - 8309
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas relações entre os Estados contratantes que a tenham ratificado, aceite ou aprovado, no 1.º dia do 3.º mês seguinte
+    ao depósito do último instrumento de ratificação, aceitação ou aprovação, por ess
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

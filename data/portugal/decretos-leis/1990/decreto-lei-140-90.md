@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2045 - 2046
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09900/20452046.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-10-01'
+entry_into_force:
+  date: '1990-10-01'
+  rule: no dia 1 de Outubro de 1990
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2272-(2) a 2272-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/06301/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-04-01'
+entry_into_force:
+  date: '2014-04-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-11
+  effects_date: '2014-01-01'
+  effects_rule: desde 1 de janeiro de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

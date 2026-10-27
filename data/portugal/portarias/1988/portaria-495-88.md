@@ -24,6 +24,16 @@ publication:
   pages: 3095 - 3096
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/17200/30953096.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte à data da entrada em vigor do Estatuto do Pessoal das Administrações dos Portos, aprovado
+    em anexo ao Decreto-Lei n.º 101/88, de 26 de Março
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

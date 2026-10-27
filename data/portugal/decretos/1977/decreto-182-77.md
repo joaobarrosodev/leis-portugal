@@ -24,6 +24,15 @@ publication:
   pages: 3178-(10) a 3178-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30202/00100017.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês a seguir à apresentação do segundo instrumento de ratificação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

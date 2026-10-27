@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15 - 19
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06900/0001500019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-04-09'
+entry_into_force:
+  date: '2024-04-09'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: à data da sua aprovação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

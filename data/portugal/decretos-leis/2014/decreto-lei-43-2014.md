@@ -23,6 +23,15 @@ publication:
   pages: 2074 - 2081
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05400/0207402081.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil subsequente à sua publicação
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3770 - 3772
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/20100/0377003772.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-20'
+entry_into_force:
+  date: '2016-10-20'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do disposto na alínea a) do n.º 2 do artigo 85.º da resolução alterada,
+    cujo cumprimento só é exigível a partir de 1 de julho de 2017
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

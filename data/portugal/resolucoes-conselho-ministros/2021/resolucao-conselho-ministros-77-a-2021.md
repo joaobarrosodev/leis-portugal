@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 86-(2) a 86-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12101/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-25'
+entry_into_force:
+  date: '2021-06-25'
+  rule: no dia seguinte ao da sua publicação, sem prejuízo do número seguinte
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

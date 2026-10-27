@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1637 - 1638
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/15000/16371638.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-07-02'
+entry_into_force:
+  date: '1977-07-02'
+  rule: no dia seguinte ao da sua publicação, só se aplicando, porém, às situações de acumulação que se vierem a verificar
+    a partir do ano escolar de 1977-1978
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

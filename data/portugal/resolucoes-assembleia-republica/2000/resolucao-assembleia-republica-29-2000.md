@@ -24,6 +24,15 @@ publication:
   pages: 1378 - 1382
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/076a00/13781382.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente a esses Estados
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

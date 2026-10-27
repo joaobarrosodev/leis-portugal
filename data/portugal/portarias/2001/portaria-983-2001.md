@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5248 - 5249
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/190b00/52485249.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-04-24'
+entry_into_force:
+  date: '2001-04-24'
+  rule: no dia 24 de Abril de 2001 e a comissão de protecção de crianças e jovens inicia funções de imediato
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

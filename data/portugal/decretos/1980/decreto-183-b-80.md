@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1364-(49) a 1364-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13202/00490050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-06-10'
+entry_into_force:
+  date: '1980-06-10'
+  rule: no dia seguinte à sua publicação e aplica-se à contribuição industrial respeitante aos anos de 1979 e seguintes, com
+    excepção da contribuição industrial já liquidada à data da sua entrada em vigor rel
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

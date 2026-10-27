@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2017 - 2036
   pdf_url: https://files.diariodarepublica.pt/1s/1963/12/29900/20172036.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1963-10-01'
+entry_into_force:
+  date: '1963-10-01'
+  rule: em 1 de Outubro de 1963 se os Governos de cinco países principalmente produtores e os Governos de dois países principalmente
+    importadores o tiverem ratificado, aceitado, aprovado ou a ele tiverem ader
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

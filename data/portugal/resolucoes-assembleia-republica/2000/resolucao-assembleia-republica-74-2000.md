@@ -25,6 +25,16 @@ publication:
   pages: 6407 - 6416
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ambas as Partes Contratantes se tenham notificado reciprocamente, por escrito, do cumprimento dos respectivos
+    procedimentos legais internos e permanecerá em vigor por um período de 15 a
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

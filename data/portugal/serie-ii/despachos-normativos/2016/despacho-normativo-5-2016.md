@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 21469 - 21469
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/133000000/2146921469.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-07-14'
+entry_into_force:
+  date: '2016-07-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data de entrada em vigor do Despacho normativo n.º 1-A/2016, de 11 de fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

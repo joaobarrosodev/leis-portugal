@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 324 - 324
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/03200/03240324.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-02-07'
+entry_into_force:
+  date: '1985-02-07'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

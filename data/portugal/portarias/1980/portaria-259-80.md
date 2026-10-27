@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 997 - 1000
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11400/09971000.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-05-17'
+entry_into_force:
+  date: '1980-05-17'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

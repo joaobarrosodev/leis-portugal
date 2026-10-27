@@ -25,6 +25,16 @@ publication:
   pages: 5408 - 5409
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/230a00/54085409.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que vier a ser comunicado que se encontram cumpridas as formalidades exigidas para tal efeito pela ordem
+    jurídica interna de cada uma das Partes e será válido pelo período de um ano, automa
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

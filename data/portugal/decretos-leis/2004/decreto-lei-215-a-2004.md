@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5912-(2) a 5912-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/208a01/00020009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-09-08'
+entry_into_force:
+  date: '2004-09-08'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2004-07-17'
+  effects_rule: desde 17 de Julho de 2004, com excepção do n.º 2 do artigo 8.º e do n.º 4 do artigo 10.º, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

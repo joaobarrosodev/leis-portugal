@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1715 - 1723
   pdf_url: https://files.diariodarepublica.pt/2s/2000/01/021000000/0171501723.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-02-01'
+entry_into_force:
+  date: '2000-02-01'
+  rule: a partir do dia 1 do mês seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-4-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

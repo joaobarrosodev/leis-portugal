@@ -26,6 +26,16 @@ publication:
   pages: 520 - 535
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas relações entre os Estados que a tiverem ratificado, no primeiro dia do terceiro mês seguinte ao depósito do último
+    instrumento de ratificação pelo Reino de Espanha ou pela República Portuguesa e p
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

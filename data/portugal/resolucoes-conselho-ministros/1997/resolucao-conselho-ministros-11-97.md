@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 364 - 377
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/018b00/03640377.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-01-22'
+entry_into_force:
+  date: '1997-01-22'
+  rule: na data da sua publicação no Diário da República, após ratificação nos termos do disposto na legislação em vigor
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

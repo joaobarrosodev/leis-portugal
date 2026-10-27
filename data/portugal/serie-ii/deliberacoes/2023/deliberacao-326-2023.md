@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 126 - 136
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/057000000/0012600136.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-04-02'
+entry_into_force:
+  date: '2023-04-02'
+  rule: no dia 2 de abril de 2023, revogando a Deliberação n.º 1301/2022, de 19 de outubro, publicada na 2.ª série do Diário
+    da República, n.º 230, de 29 de novembro
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

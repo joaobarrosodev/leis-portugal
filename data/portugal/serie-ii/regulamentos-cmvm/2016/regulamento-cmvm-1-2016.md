@@ -23,6 +23,16 @@ publication:
   pages: 16449 - 16454
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/101000000/1644916454.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do regime aplicável à violação do regime jurídico do financiamento colaborativo de capital
+    ou por empréstimo
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

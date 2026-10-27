@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1953/08/16500/10451046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:537976:por#n-9'
+    detail: 9.º É revogada a [Portaria n.º 14481], de 1 de Agosto de 1953, considerando-se extinta a Missão de Pedologia de
+      Angola e transitando o respectivo pessoal, material e arquivo para a Missão criada pela presente portaria, sem necessidade
+      de outras formalidades legais.
 notes: []
 language: por
 version:

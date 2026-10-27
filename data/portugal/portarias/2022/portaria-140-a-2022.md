@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 17-(2) a 17-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/08301/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-02'
+entry_into_force:
+  date: '2022-05-02'
+  rule: no dia 2 de maio de 2022 e
+  method: clausula
+  article: art-5
+  effects_date: '2022-05-08'
+  effects_rule: até dia 8 de maio de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

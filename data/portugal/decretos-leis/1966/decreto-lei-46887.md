@@ -24,6 +24,16 @@ publication:
   pages: 279 - 311
   pdf_url: https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 90.º dia depois de cinco dos países mencionados no parágrafo 1 do artigo 39.º a terem assinado sem reserva de ratificação
+    ou terem depositado o seu instrumento de ratificação ou de adesão
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

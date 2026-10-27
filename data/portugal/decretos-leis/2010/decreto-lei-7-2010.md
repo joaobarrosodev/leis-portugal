@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 232 - 239
   pdf_url: https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-26'
+entry_into_force:
+  date: '2010-01-26'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

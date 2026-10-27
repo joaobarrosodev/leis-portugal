@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6393 - 6394
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/275a00/63936394.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-12-02'
+entry_into_force:
+  date: '1997-12-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1994-07-01'
+  effects_rule: desde 1 de Julho de 1994, sem prejuízo dos actos de exploração e dos contratos anteriores a esta data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

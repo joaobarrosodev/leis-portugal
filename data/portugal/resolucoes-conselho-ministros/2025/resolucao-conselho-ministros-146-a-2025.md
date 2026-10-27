@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 4
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19101/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-06'
+entry_into_force:
+  date: '2025-10-06'
+  rule: no dia 6 de outubro de 2025
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

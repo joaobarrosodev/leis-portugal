@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5500 - 5502
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/244b00/55005502.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-10-23'
+entry_into_force:
+  date: '1998-10-23'
+  rule: no dia imediato à sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

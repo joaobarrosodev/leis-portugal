@@ -23,6 +23,15 @@ publication:
   pages: 1823 - 1830
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10100/18231830.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

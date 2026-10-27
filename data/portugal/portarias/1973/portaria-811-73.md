@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2218 - 2221
   pdf_url: https://files.diariodarepublica.pt/1s/1973/11/26800/22182221.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-11-01'
+entry_into_force:
+  date: '1973-11-01'
+  rule: em 1 de Novembro de 1973, data a partir da qual se consideram revogadas as Portarias n.os 154/72, de 20 de Março,
+    n.º 316/72, de 2 de Junho, e n.º 590/73, de 30 de Agosto
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

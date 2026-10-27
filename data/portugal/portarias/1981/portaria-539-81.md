@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1535 - 1536
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14700/15351536.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-07-01'
+entry_into_force:
+  date: '1981-07-01'
+  rule: em 1 de Julho de 1981 e revoga a Portaria n.º 24335, de 6 de Outubro de 1969
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

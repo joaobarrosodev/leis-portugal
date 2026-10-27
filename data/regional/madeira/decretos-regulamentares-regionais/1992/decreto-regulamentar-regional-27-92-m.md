@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4519 - 4526
   pdf_url: https://files.diariodarepublica.pt/1s/1992/09/221b00/45194526.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-11-24'
+entry_into_force:
+  date: '1992-11-24'
+  rule: dois meses após a data da sua publicação
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

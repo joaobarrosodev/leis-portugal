@@ -22,7 +22,18 @@ publication:
   supplement: 1º Suplemento
   pages: 12-(2) a 12-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/12/23201/0000200046.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-12-04'
+entry_into_force:
+  date: '2019-12-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-89
+  effects_date: '2019-10-26'
+  effects_rule: reportados a 26 de outubro de 2019, considerando-se ratificados todos os atos entretanto praticados, em conformidade
+    com o presente decreto-lei
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

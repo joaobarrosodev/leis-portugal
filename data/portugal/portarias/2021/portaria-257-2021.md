@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 127 - 169
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/22500/0012700169.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-11-30'
+entry_into_force:
+  date: '2021-11-30'
+  rule: a 30 de novembro de 2021
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

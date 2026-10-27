@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 958 - 970
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05400/09580970.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-03-11'
+entry_into_force:
+  date: '1990-03-11'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: no que respeita à matéria salarial, desde 1 de Outubro de 1989, tendo em conta, nas transições, as situações
+    constituídas até àquela data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

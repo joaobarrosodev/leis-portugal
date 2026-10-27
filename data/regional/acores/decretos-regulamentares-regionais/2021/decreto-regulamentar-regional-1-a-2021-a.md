@@ -24,6 +24,16 @@ publication:
   pages: 207-(4) a 207-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00401/0000400014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: às 00h00 do dia 8 de janeiro de 2021 e vigora enquanto vigorar o estado de emergência, sem prejuízo de eventuais prorrogações
+    do mesmo
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

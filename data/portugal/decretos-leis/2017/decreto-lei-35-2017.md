@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1616 - 1617
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06000/0161601617.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-22'
+entry_into_force:
+  date: '2017-06-22'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

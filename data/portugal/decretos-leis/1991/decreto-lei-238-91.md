@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3364 - 3389
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/149a00/33643389.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-07-07'
+entry_into_force:
+  date: '1991-07-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1991-01-01'
+  effects_rule: desde 1 de Janeiro de 1991, sendo obrigatória a elaboração dos documentos de prestação de contas consolidadas
+    relativamente aos exercícios de 1991 e seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

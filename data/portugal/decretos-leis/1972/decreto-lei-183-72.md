@@ -23,6 +23,16 @@ publication:
   pages: 722-(1) a 722-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/05/12701/00010025.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia que se seguir à data em que seja depositado junto do secretário-geral da Organização das Nações Unidas
+    o vigésimo segundo instrumento de ratificação ou adesão
+  method: clausula
+  article: art-77
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

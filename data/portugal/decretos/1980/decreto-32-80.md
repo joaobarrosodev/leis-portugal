@@ -23,6 +23,16 @@ publication:
   pages: 1109 - 1113
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11800/11091113.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos seguintes termos, para os Governos que até 22 de Junho de 1979 tenham depositado os seus instrumentos de ratificação,
+    aceitação, aprovação, conclusão ou adesão ou feito as suas declarações de apli
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

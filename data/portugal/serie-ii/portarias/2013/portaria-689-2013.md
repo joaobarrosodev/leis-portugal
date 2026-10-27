@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/200000000/3106731067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: texto'
+    detail: até 31 de agosto de 2014. (Isenta de visto do Tribunal de Contas.)
 notes: []
 language: por
 version:

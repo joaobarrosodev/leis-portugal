@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/10/15/940415586.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-16'
+entry_into_force:
+  date: '2025-10-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2022-07-01'
+  effects_rule: a 1 de julho de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 2268 - 2293
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13600/0226802293.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última dessas notificações e
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: ':'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

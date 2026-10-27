@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5567 - 5570
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/177b00/55675570.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-15'
+entry_into_force:
+  date: '2005-09-15'
+  rule: em 15 de Setembro de 2005
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

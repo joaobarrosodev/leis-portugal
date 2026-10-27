@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15300/0000300003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-08'
+entry_into_force:
+  date: '2020-08-08'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2020-08-01'
+  effects_rule: desde o dia 1 de agosto de 2020 até ao dia 31 de dezembro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 920 - 929
   pdf_url: https://files.diariodarepublica.pt/1s/1961/07/17300/09200929.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 1 de Agosto do ano corrente
+  method: clausula
+  article: art-117
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2331 - 2333
   pdf_url: https://files.diariodarepublica.pt/2s/2002/02/029000000/0233102333.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-02-05'
+entry_into_force:
+  date: '2002-02-05'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

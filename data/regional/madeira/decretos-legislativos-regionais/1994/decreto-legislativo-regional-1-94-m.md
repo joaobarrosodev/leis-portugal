@@ -24,6 +24,15 @@ publication:
   pages: 94 - 96
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/007a00/00940096.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

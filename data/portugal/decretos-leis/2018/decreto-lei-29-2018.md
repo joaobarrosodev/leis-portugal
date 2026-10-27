@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1797 - 1804
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/08600/0179701804.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-05-05'
+entry_into_force:
+  date: '2018-05-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

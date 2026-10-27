@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6690 - 6697
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/226a00/66906697.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-12-24'
+entry_into_force:
+  date: '2005-12-24'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

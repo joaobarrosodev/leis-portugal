@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2557 - 2568
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/013000000/0255702568.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-19'
+entry_into_force:
+  date: '2019-01-19'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: '2019-01-01'
+  effects_rule: a 1 de janeiro de 2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

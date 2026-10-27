@@ -24,6 +24,15 @@ publication:
   pages: 4382 - 4382
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/25000/43824382.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da abertura da campanha (1 de Setembro de 1988)
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2185 - 2236
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/06100/0218502236.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-09-01'
+entry_into_force:
+  date: '2014-09-01'
+  rule: 'no dia 1 de setembro de 2014, com as exceções seguintes:'
+  method: clausula
+  article: art-118
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 4865 - 4882
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17400/0486504882.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês subsequente ao da sua publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

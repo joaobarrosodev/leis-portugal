@@ -24,6 +24,16 @@ publication:
   pages: 6409 - 6410
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/245a00/64096410.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica de cada uma das Partes
+    e será válido por um período de dois anos, contado desde a entrada em vigor do present
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

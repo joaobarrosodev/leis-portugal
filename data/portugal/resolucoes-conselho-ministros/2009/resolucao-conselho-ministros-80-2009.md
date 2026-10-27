@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5942 - 5943
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17200/0594205943.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-09'
+entry_into_force:
+  date: '2009-09-09'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2009-01-01'
+  effects_rule: a 1 de Janeiro de 2009 e
+  end_date: null
+  end_rule: até ao dia 31 de Janeiro de 2010, com excepção do mandato do encarregado da missão e dos dois elementos previstos
+    no n.º 5, que asseguram os trabalhos de prestação de contas e cessam as funções até 30
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,9 +23,29 @@ publication:
   supplement: null
   pages: 6654 - 6659
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24300/0665406659.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-12-20'
+entry_into_force:
+  date: '2017-12-20'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1168979173:por#art-3'
+    detail: É revogada a [Portaria n.º 382/2017], de 20 de dezembro.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1168979173:por'
+    detail: Revogada, a partir de 11 de setembro, a presente portaria, pelo(a) Portaria n.º 428/2026/1 - Diário da República
+      n.º 176/2026, Série I de 2026-09-10, nos termos do seu artigo 3.º
 notes: []
 language: por
 version:

@@ -27,7 +27,18 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/04/23/915790817.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-04-24'
+entry_into_force:
+  date: '2025-04-24'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2024-01-01'
+  effects_rule: a partir de 1 de janeiro de 2024, ficando deste modo ratificados todos os atos que tenham sido praticados
+    no âmbito do pagamento dos montantes correspondentes às contribuições e quotizações de cada tr
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

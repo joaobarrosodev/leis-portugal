@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 208-(2) a 208-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/01401/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-26'
+entry_into_force:
+  date: '2016-01-26'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2015-09-01'
+  effects_rule: a partir do dia 1 de setembro de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

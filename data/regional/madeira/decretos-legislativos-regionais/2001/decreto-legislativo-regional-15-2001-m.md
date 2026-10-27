@@ -23,6 +23,15 @@ publication:
   pages: 3851 - 3859
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/147a00/38513859.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a data da sua publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

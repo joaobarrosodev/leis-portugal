@@ -26,7 +26,18 @@ publication:
   supplement: null
   pages: 1566 - 1569
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/081a00/15661569.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-05-07'
+entry_into_force:
+  date: '1997-05-07'
+  rule: 30 dias após a sua publicação, sem prejuízo de, relativamente aos dispositivos médicos implantáveis activos que obedeçam
+    às regras estabelecidas no Decreto-Lei n.º 44/93, de 20 de Fevereiro, mas não s
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

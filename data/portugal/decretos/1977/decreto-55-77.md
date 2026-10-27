@@ -24,6 +24,16 @@ publication:
   pages: 832 - 835
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08700/08320835.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois da notificação recíproca da sua aprovação segundo os processos previstos pelas leis em vigor em cada um dos
+    Estados
+  method: clausula
+  article: art-xii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

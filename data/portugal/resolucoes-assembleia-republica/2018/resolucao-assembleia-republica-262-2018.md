@@ -24,6 +24,16 @@ publication:
   pages: 3996 - 4019
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15400/0399604019.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data em que as Partes tenham procedido à notificação recíproca da conclusão
+    das formalidades jurídicas internas referidas no n.º 1
+  method: clausula
+  article: art-86
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

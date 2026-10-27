@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4252-(32) a 4252-(34)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30004/00320034.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-02-28'
+entry_into_force:
+  date: '1986-02-28'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

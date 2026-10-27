@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2493 - 2494
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22000/24932494.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-09-23'
+entry_into_force:
+  date: '1979-09-23'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

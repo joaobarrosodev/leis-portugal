@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2886 - 2891
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/14600/0288602891.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-30'
+entry_into_force:
+  date: '2010-07-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

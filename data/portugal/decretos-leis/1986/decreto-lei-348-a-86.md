@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3146-(2) a 3146-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23901/00020007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-10-17'
+entry_into_force:
+  date: '1986-10-17'
+  rule: no dia seguinte ao da sua publicação, podendo, porém, nos 30 dias subsequentes, ser abertos concursos ao abrigo da
+    legislação agora revogada
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

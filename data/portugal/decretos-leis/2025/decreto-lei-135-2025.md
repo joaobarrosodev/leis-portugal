@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 78 - 81
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24700/0007800081.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-12-25'
+entry_into_force:
+  date: '2025-12-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7-2
+  effects_date: '2026-03-09'
+  effects_rule: a partir de 9 de março de 2026, sem prejuízo do disposto no número seguinte
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 2669 - 2674
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09800/0266902674.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/12/29/993032324.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-12-30'
+entry_into_force:
+  date: '2025-12-30'
+  rule: no dia seguinte ao da sua publicação e aplica-se às avaliações por ponderação curricular a efetuar a partir do ciclo
+    de gestão anual 2025
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1839 - 1839
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10400/18391839.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-05-06'
+entry_into_force:
+  date: '1989-05-06'
+  rule: na data da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '1989-05-08'
+  effects_rule: a partir de 8 de Maio de 1989
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

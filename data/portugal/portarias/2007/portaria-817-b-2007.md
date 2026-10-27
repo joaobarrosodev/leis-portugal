@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4844-(9) a 4844-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14401/0000900013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-07-28'
+entry_into_force:
+  date: '2007-07-28'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

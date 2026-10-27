@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1231 - 1231
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/08900/12311231.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-05-02'
+entry_into_force:
+  date: '1984-05-02'
+  rule: em 2 de Maio de 1984
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

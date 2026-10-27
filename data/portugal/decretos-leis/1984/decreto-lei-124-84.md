@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1287 - 1290
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09200/12871290.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-06-01'
+entry_into_force:
+  date: '1984-06-01'
+  rule: no dia 1 do segundo mês posterior ao da sua publicação, salvo no que se refere ao n.º 1 do artigo 9.º e ao artigo
+    12.º, que
+  method: clausula
+  article: art-15
+  effects_date: '1984-04-18'
+  effects_rule: a partir da data da publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

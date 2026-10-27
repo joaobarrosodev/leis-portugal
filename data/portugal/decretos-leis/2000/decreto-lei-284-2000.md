@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 6314 - 6316
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/260a00/63146316.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-11-11'
+entry_into_force:
+  date: '2000-11-11'
+  rule: no dia imediato ao da sua publicação, sem prejuízo da possibilidade de continuarem a ser comercializados até 1 de
+    Julho de 2002 os produtos não conformes com o que nele é estabelecido que cumpram os r
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

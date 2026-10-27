@@ -23,6 +23,16 @@ publication:
   pages: 1336 - 1337
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/062a00/13361337.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando os Governos se notificarem mutuamente de que foram cumpridos os respectivos requisitos internos necessários
+    à sua entrada em vigor
+  method: clausula
+  article: art-viii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

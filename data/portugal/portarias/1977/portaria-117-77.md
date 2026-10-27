@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 440 - 442
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05800/04400442.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-03-10'
+entry_into_force:
+  date: '1977-03-10'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

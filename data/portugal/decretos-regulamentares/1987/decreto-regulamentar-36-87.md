@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2346 - 2346
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13700/23462346.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-07-01'
+entry_into_force:
+  date: '1987-07-01'
+  rule: no dia 1 de Julho de 1987, sendo aplicável às situações de doença iniciadas a partir da data da sua vigência
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

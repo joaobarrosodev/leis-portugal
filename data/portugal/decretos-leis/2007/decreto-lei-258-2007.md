@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4490 - 4491
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13500/0449004491.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-09-01'
+entry_into_force:
+  date: '2007-09-01'
+  rule: em 1 de Setembro de 2007
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

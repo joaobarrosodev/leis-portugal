@@ -24,6 +24,17 @@ publication:
   pages: 2729 - 2733
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/118a00/27292733.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: por troca de notas entre as Partes Contratantes dando conta da conclusão dos requisitos necessários pelos procedimentos
+    internos para a sua entrada em vigor
+  method: clausula
+  article: art-vii
+  effects_date: null
+  effects_rule: por um período de cinco anos e manter-se-á em vigor por sucessivos períodos de cinco anos, salvo se uma das
+    Partes Contratantes comunicar por escrito e por via diplomática, pelo menos com seis meses d
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

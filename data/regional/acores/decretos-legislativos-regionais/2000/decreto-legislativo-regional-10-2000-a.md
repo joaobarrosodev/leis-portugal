@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2093 - 2095
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/110a00/20932095.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-13'
+entry_into_force:
+  date: '2000-05-13'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: a partir da data de entrada em vigor do Decreto-Lei n.º 61/99, de 2 de Março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

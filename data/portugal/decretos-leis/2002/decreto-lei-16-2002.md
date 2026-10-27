@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 703 - 708
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/024a00/07030708.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-02-01'
+entry_into_force:
+  date: '2002-02-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

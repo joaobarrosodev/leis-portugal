@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 851 - 853
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08800/08510853.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1977-04-16'
+entry_into_force:
+  date: '1977-04-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

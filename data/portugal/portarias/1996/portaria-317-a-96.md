@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2166-(14) a 2166-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/174b02/00140015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-07-29'
+entry_into_force:
+  date: '1996-07-29'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

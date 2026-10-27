@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1784 - 1784
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/053b00/17841784.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-13'
+entry_into_force:
+  date: '2001-07-13'
+  rule: a partir do dia 13 de Julho de 2001
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

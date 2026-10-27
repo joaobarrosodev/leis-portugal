@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1980-(5) a 1980-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/06/14902/00050006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1984-06-30'
+entry_into_force:
+  date: '1984-06-30'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-1
+  effects_date: '1984-07-01'
+  effects_rule: desde 1 de Julho de 1984
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes:

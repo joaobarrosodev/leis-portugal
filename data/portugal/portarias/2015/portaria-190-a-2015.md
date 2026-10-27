@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4494-(2) a 4494-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/12301/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-27'
+entry_into_force:
+  date: '2015-06-27'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 60-C/2015, de 2 de março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

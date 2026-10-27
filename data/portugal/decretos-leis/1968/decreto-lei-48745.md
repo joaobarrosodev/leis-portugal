@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1786 - 1787
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/28600/17861787.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-02-01'
+entry_into_force:
+  date: '1969-02-01'
+  rule: em 1 de Fevereiro de 1969
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

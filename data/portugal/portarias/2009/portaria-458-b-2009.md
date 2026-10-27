@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2524-(4) a 2524-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/08501/0000400004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-05-05'
+entry_into_force:
+  date: '2009-05-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2009-04-04'
+  effects_rule: desde 4 de Abril de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

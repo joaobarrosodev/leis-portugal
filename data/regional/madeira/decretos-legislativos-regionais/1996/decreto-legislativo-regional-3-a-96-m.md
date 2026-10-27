@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 410-(2) a 410-(69)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/051a01/00020069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-02-29'
+entry_into_force:
+  date: '1996-02-29'
+  rule: na data da sua publicação, integrando o Orçamento por ele aprovado a parte do Orçamento que tenha sido executado nos
+    termos do artigo 15.º da Lei n.º 28/92, de 1 de Setembro (Lei de Enquadramento do O
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2177 - 2178
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/12800/21772178.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-09-03'
+entry_into_force:
+  date: '1989-09-03'
+  rule: 90 dias após a data da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4948-(9) a 4948-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27702/00090013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-12-01'
+entry_into_force:
+  date: '1990-12-01'
+  rule: em 1 de Dezembro de 1990
+  method: clausula
+  article: n-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

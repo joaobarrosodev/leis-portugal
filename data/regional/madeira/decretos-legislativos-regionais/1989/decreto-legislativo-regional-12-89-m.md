@@ -23,6 +23,15 @@ publication:
   pages: 1809 - 1810
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10100/18091810.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após o dia da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

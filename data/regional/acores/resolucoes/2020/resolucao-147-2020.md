@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2062-2062
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/05/22/134308388.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-05-23'
+entry_into_force:
+  date: '2020-05-23'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4220 - 4222
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/23900/42204222.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-12-14'
+entry_into_force:
+  date: '1988-12-14'
+  rule: 60 dias após a sua publicação e aplica-se nas regiões autónomas com as adaptações decorrentes da transferência de
+    competências do Governo para os respectivos governos regionais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

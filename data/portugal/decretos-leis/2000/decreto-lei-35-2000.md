@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 923 - 924
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/062a00/09230924.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-01'
+entry_into_force:
+  date: '2000-05-01'
+  rule: a 1 de Maio de 2000
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

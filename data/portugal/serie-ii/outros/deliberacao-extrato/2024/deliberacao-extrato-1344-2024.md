@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/200000000/0012100133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:913781393:por#n-10'
+    detail: 10 - É revogada a [Deliberação (extrato) n.º 1344/2024], de 15 de outubro.
 notes: []
 language: por
 version:

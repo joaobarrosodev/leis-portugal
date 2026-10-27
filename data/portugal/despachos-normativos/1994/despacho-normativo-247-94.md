@@ -23,6 +23,15 @@ publication:
   pages: 1841 - 1842
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/090b00/18411842.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data que o Decreto-Lei n.º 67/94, de 28 de Fevereiro
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

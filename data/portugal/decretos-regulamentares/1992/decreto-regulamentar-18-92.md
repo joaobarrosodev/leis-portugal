@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3941 - 3945
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/186b00/39413945.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-02-13'
+entry_into_force:
+  date: '1993-02-13'
+  rule: seis meses após a data da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

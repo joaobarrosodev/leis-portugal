@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1913 - 1914
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21200/19131914.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-09-15'
+entry_into_force:
+  date: '1978-09-15'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

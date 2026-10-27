@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3924 - 3924
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/118b00/39243924.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-23'
+entry_into_force:
+  date: '2005-06-23'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 6676 - 6676
   pdf_url: https://files.diariodarepublica.pt/2s/2000/04/086000000/0667606676.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

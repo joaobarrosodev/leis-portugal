@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 261 - 262
   pdf_url: https://files.diariodarepublica.pt/1s/1961/03/05800/02610262.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1961-04-01'
+entry_into_force:
+  date: '1961-04-01'
+  rule: em 1 de Abril de 1961
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

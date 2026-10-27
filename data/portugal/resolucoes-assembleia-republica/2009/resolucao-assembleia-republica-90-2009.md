@@ -24,6 +24,15 @@ publication:
   pages: 6407 - 6415
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17900/0640706415.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do depósito do instrumento de ratificação do Estado Parte junto do director-geral
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

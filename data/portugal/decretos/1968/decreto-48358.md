@@ -23,6 +23,15 @@ publication:
   pages: 612 - 626
   pdf_url: https://files.diariodarepublica.pt/1s/1968/04/10100/06120626.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Decreto-Lei n.º 48357
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

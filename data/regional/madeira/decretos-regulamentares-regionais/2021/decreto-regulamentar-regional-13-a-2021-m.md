@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 181-(2) a 181-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/23201/0000200008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-12-01'
+entry_into_force:
+  date: '2021-12-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: na data da entrada em vigor da portaria referida no artigo 4.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

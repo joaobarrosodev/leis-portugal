@@ -24,6 +24,15 @@ publication:
   pages: 1528 - 1529
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16000/15281529.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 1 de Julho próximo
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 57-(2) a 57-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11301/0000200030.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-15'
+entry_into_force:
+  date: '2021-06-15'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

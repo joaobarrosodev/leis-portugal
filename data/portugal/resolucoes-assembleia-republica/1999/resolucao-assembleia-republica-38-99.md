@@ -24,6 +24,16 @@ publication:
   pages: 2574 - 2583
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/113a00/25742583.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à data em que as Partes se tenham notificado reciprocamente do cumprimento das formalidades
+    necessárias para o efeito
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

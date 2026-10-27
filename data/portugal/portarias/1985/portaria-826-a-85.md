@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3688-(9) a 3688-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/25102/00090016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-11-01'
+entry_into_force:
+  date: '1985-11-01'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: n-7
+  effects_date: '1985-10-01'
+  effects_rule: a partir de 1 de Outubro de 1985
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

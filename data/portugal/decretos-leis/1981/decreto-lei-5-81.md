@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 158 - 160
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/01800/01580160.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-01-01'
+entry_into_force:
+  date: '1981-01-01'
+  rule: a partir de 1 de Janeiro de 1981
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

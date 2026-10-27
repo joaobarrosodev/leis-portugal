@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2247-2253
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/06/09/135532091.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-06-10'
+entry_into_force:
+  date: '2020-06-10'
+  rule: no dia seguinte da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2020-05-25'
+  effects_rule: a 25 de maio de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

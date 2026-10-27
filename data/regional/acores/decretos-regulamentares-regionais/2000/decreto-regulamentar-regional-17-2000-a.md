@@ -24,6 +24,15 @@ publication:
   pages: 2804 - 2811
   pdf_url: https://files.diariodarepublica.pt/1s/2000/06/148b00/28042811.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º dia útil a contar da data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

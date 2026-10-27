@@ -23,6 +23,16 @@ publication:
   pages: 1708 - 1744
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23300/17081744.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas províncias de Angola e de Moçambique no dia 1 de Janeiro de 1974, e nas restantes províncias nas datas que forem
+    fixadas por portaria do Ministro do Ultramar, ficando nessas datas revogada em cada
+  method: clausula
+  article: art-205
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

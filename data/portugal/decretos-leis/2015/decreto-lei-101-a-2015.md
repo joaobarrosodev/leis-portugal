@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 3620-(2) a 3620-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10801/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-09'
+entry_into_force:
+  date: '2015-06-09'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2015-01-01'
+  effects_rule: a 1 de janeiro de 2015 e
+  end_date: '2015-12-31'
+  end_rule: até 31 de dezembro de 2015, suspendendo-se, durante este período, outras medidas de correção da desvalorização
+    cambial aplicáveis às remunerações e abonos dos trabalhadores referidos no artigo 1.º
 end_of_validity_date: null
 legal_status: unknown
 notes: []

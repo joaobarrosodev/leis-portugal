@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4976 - 4977
   pdf_url: https://files.diariodarepublica.pt/1s/2011/11/22300/0497604977.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-11-22'
+entry_into_force:
+  date: '2011-11-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: na data de entrada em vigor da portaria prevista no n.º 1 do artigo 7.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

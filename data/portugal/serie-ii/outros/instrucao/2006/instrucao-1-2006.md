@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2006/10/193000000/2107221072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:221611601:por#n-1'
+    detail: '1 - É revogada a [Instrução n.º 1/2006]-SRMTC - Aplicação à Região Autónoma da Madeira (RAM) das instruções para
+      a inventariação das participações e das concessões do Estado e de outros entes públicos e equiparados, publicada no
+      Diário da República, 2.ª série, n.º 193, de 6 de outubro de 2006, e no '
 notes: []
 language: por
 version:

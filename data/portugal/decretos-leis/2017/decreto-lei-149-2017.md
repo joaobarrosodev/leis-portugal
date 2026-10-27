@@ -23,6 +23,15 @@ publication:
   pages: 6530 - 6536
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23400/0653006536.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

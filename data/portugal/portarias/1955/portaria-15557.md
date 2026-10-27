@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1955/10/21500/08380840.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:239062:por#n-14'
+    detail: 14.º Fica revogada a [Portaria n.º 15557], de 4 de Outubro de 1955.
 notes: []
 language: por
 version:

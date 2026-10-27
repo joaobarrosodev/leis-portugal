@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 18-(2) a 18-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21601/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-06'
+entry_into_force:
+  date: '2020-11-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo período de trinta dias, sendo prorrogado por iguais períodos, através de Resolução do Conselho do Governo
+    Regional, caso a situação pandémica o justifique
 end_of_validity_date: null
 legal_status: unknown
 notes: []

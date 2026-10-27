@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3116 - 3120
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/17300/31163120.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-07-29'
+entry_into_force:
+  date: '1988-07-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: no tocante às reclassificações e revalorizações nele estabelecidas, desde 1 de Janeiro de 1988
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

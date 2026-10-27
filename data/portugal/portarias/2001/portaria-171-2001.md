@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1267 - 1267
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/057b00/12671267.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-10-29'
+entry_into_force:
+  date: '2000-10-29'
+  rule: a partir do dia 29 de Outubro de 2000
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

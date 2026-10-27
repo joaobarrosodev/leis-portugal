@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2880 - 2882
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/09800/0288002882.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-05-23'
+entry_into_force:
+  date: '2011-05-23'
+  rule: no dia 23 de Maio de 2011
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

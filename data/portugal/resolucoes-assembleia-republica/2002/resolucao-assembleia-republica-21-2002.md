@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2709 - 2732
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-01-01'
+entry_into_force:
+  date: '2002-01-01'
+  rule: em 1 de Janeiro de 2002, desde que todos os Estados-Membros tenham até essa data notificado o Secretariado-Geral do
+    Conselho do cumprimento, a título definitivo ou provisório, das formalidades interna
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

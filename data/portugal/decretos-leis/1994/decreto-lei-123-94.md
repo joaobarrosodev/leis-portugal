@@ -23,6 +23,15 @@ publication:
   pages: 2638 - 2643
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/115a00/26382643.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do Decreto-Lei n.º 124/94, de 18 de Maio
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1354 - 1358
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/07800/0135401358.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 30 dias após a recepção, por escrito e por via diplomática, da última notificação de que foram cumpridos
+    os requisitos necessários para o efeito pelos respectivos ordenamentos jurídicos in
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

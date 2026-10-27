@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3226 - 3227
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119a00/32263227.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-06-01'
+entry_into_force:
+  date: '2004-06-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 530-(1) a 530-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06301/00010002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-03-15'
+entry_into_force:
+  date: '1976-03-15'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

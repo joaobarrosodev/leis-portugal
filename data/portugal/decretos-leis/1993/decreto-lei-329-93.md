@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5378 - 5391
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/226a00/53785391.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-01-01'
+entry_into_force:
+  date: '1994-01-01'
+  rule: no dia 1 de Janeiro de 1994
+  method: clausula
+  article: art-112
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

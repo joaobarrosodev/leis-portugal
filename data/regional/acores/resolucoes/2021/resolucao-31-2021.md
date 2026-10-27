@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 245-246
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/02/05/156691349.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-06'
+entry_into_force:
+  date: '2021-02-06'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-8
+  effects_date: '2021-01-22'
+  effects_rule: desde 22 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

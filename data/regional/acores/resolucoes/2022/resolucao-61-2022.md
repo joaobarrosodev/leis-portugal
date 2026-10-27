@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 1514-1514
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/04/08/181883915.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-09'
+entry_into_force:
+  date: '2022-04-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

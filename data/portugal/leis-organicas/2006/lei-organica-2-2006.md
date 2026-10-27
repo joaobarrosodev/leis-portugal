@@ -23,6 +23,15 @@ publication:
   pages: 2776 - 2782
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/075a00/27762782.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início de vigência do diploma referido no artigo 3.º
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

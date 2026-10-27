@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5281 - 5282
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/30000/52815282.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-01-02'
+entry_into_force:
+  date: '1991-01-02'
+  rule: no dia 2 de Janeiro de 1991
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

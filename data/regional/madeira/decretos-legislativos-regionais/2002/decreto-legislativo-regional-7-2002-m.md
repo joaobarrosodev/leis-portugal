@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4545 - 4546
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/112a00/45454546.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-16'
+entry_into_force:
+  date: '2002-05-16'
+  rule: no dia seguinte ao da sua publicação e reporta os seus efeitos a 1 de Março de 2002
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

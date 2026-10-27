@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4271 - 4273
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/12600/0427104273.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-07-05'
+entry_into_force:
+  date: '2009-07-05'
+  rule: no dia 5 de Julho de 2009
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: relativamente às apostas registadas desde esse dia para o sorteio do JOKER a realizar em 12 de Julho de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

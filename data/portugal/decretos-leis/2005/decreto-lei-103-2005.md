@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3945 - 3947
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/120a00/39453947.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-25'
+entry_into_force:
+  date: '2005-06-25'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2005-05-24'
+  effects_rule: a partir de 24 de Maio de 2005
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

@@ -25,9 +25,25 @@ publication:
   supplement: null
   pages: 40 - 41
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/165000000/0004000041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-27'
+entry_into_force:
+  date: '2022-08-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:920339855:por'
+    detail: Revogada pela Portaria n.º 392/2025/2 - Diário da República n.º 106/2025, Série II de 2025-06-03
 notes: []
 language: por
 version:

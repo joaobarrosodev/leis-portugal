@@ -25,6 +25,15 @@ publication:
   pages: 295 - 295
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/021a00/02950295.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para Portugal a 29 de Dezembro de 1992
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

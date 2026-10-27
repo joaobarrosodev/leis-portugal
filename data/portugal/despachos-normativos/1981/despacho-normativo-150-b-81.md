@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1238-(2) a 1238-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12301/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-06-03'
+entry_into_force:
+  date: '1981-06-03'
+  rule: em 3 de Junho de 1981
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

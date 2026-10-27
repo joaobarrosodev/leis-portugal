@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/04/067000000/0919609203.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:161928333:por#texto'
+    detail: É revogado o [Regulamento n.º 135/2014], publicado no DR, 2.ª série, n.º 67, de 4 de abril.
 notes: []
 language: por
 version:

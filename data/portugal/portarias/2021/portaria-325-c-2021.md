@@ -24,6 +24,15 @@ publication:
   pages: 97-(24) a 97-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/25101/0002400029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

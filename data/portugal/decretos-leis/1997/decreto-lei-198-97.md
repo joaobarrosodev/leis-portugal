@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4033 - 4035
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/177a00/40334035.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-08-03'
+entry_into_force:
+  date: '1997-08-03'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: '1997-01-01'
+  effects_rule: desde 1 de Janeiro de 1997, sem prejuízo do disposto no n.º 2 do artigo 2.º, no n.º 2 do artigo 3.º e no artigo
+    4.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

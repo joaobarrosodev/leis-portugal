@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2053 - 2054
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30400/20532054.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-01-01'
+entry_into_force:
+  date: '1972-01-01'
+  rule: em 1 de Janeiro de 1972
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

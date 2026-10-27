@@ -24,6 +24,15 @@ publication:
   pages: 434 - 435
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/06200/04340435.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data do início da vigência da Portaria n.º 42-B/80, de 15 de Fevereiro
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

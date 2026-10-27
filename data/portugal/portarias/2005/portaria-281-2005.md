@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2430 - 2431
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/054b00/24302431.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-03-22'
+entry_into_force:
+  date: '2005-03-22'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 132/2003, de 5 de Fevereiro, ressalvando-se no entanto os efeitos
+    já produzidos
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

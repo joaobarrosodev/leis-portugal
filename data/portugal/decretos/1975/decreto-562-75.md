@@ -24,6 +24,15 @@ publication:
   pages: 1531 - 1532
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/22800/15311532.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação referente à sua ratificação pelas autoridades competentes de cada um dos países
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

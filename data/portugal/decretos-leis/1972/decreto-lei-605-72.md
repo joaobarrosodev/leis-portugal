@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2144-(104) a 2144-(111)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/30202/01040111.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-01-01'
+entry_into_force:
+  date: '1973-01-01'
+  rule: no dia 1 de Janeiro de 1973, podendo, todavia, ser publicadas antes dessa data, mas para produzirem efeitos a partir
+    da mesma, as listas a que se refere o artigo 24.º
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

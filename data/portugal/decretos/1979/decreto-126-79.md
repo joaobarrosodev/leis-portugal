@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2959 - 2960
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26700/29592960.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-11-20'
+entry_into_force:
+  date: '1979-11-20'
+  rule: no dia imediato ao da sua publicação e aplica-se aos processos pendentes
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

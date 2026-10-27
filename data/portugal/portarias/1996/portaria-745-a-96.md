@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4486-(2) a 4486-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/290b01/00020007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-12-16'
+entry_into_force:
+  date: '1996-12-16'
+  rule: em 16 de Dezembro de 1996
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

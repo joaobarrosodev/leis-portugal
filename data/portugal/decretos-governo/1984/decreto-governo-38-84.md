@@ -24,6 +24,16 @@ publication:
   pages: 2195 - 2201
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/16500/21952201.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua assinatura e manter-se-á em vigor até ao termo do contrato de fornecimento, mas, conforme o disposto
+    no n.º 2, só se tornará eficaz na data de produção dos efeitos
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

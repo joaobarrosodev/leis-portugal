@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 513 - 531
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/01700/0051300531.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-01'
+entry_into_force:
+  date: '2014-01-01'
+  rule: em 1 de janeiro de 2014, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

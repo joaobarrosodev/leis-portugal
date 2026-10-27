@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 148 - 149
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00700/0014800149.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-11'
+entry_into_force:
+  date: '2013-01-11'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: entre 1 de janeiro de 2013 e 31 de dezembro de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

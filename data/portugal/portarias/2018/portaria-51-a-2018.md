@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1006-(2) a 1006-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/03501/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-02-20'
+entry_into_force:
+  date: '2018-02-20'
+  rule: 'no dia seguinte ao da sua publicação e aplica-se aos pedidos de apoio apresentados no âmbito dos Despachos n.os 6420-A/2017,
+    de 21 de julho, publicado no Diário da República, 2.ª série n.º 141, de 24 '
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

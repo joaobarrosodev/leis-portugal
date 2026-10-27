@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 2429-2429
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/07/03/215097585.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-03'
+entry_into_force:
+  date: '2023-07-03'
+  rule: na data da sua publicação e
+  method: clausula
+  article: n-2
+  effects_date: '2023-03-08'
+  effects_rule: a 8 de março de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

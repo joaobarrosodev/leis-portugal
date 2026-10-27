@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 825 - 828
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/09800/08250828.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-04-28'
+entry_into_force:
+  date: '1980-04-28'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

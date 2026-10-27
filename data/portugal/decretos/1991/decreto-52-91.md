@@ -23,6 +23,16 @@ publication:
   pages: 4540 - 4601
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/199a00/45404601.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após o depósito do último dos instrumentos de ratificação ou de adesão de seis Estados no território dos
+    quais o número total dos pedidos de patentes depositadas em 1970 se elevou a 180000,
+  method: clausula
+  article: art-169
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

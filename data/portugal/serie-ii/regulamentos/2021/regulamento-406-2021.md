@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 205 - 324
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/092000000/0020500324.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-13'
+entry_into_force:
+  date: '2021-05-13'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-129
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:216305856:por'
+    detail: Revogado, a partir de 29 de julho de 2023, pelo Regulamento n.º 826/2023 - Diário da República n.º 146/2023, Série
+      II de 2023-07-28
 notes: []
 language: por
 version:

@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 3921 - 3924
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/12700/0392103924.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-07-05'
+entry_into_force:
+  date: '2013-07-05'
+  rule: no dia seguinte à sua publicação e aplica-se a programas com ações já iniciadas ou realizadas a partir de 1 de janeiro
+    de 2013
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

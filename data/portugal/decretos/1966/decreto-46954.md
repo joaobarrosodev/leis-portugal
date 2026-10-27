@@ -24,6 +24,15 @@ publication:
   pages: 522 - 524
   pdf_url: https://files.diariodarepublica.pt/1s/1966/04/08500/05220524.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com regulamento da Caixa, a publicar pelo Governo da província em diploma legislativo
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 115 - 122
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/230000000/0011500122.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-29'
+entry_into_force:
+  date: '2022-12-29'
+  rule: 30 dias após a sua publicação, revogando a Deliberação n.º 1225-A/2020, de 11 de novembro, publicada na 2.ª série
+    do Diário da República n.º 234, de 2 de dezembro
+  method: clausula
+  article: art-16-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

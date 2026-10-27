@@ -24,6 +24,16 @@ publication:
   pages: 1480 - 1481
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/12500/14801481.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente a cada produto ou grupo de produtos constantes do anexo I, no dia 1 do mês seguinte à primeira publicação
+    no Diário da República do aviso a que se refere o n.º 3.º
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

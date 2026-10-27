@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 22 - 22
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00600/00220022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-01-09'
+entry_into_force:
+  date: '1980-01-09'
+  rule: no dia seguinte ao da sua publicação, excepto quanto aos produtos que se encontrem nos armazenistas, retalhistas ou
+    equiparados, que manterão os preços de venda ao público devidamente impressos nas re
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

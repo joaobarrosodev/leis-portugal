@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10359 - 10363
   pdf_url: https://files.diariodarepublica.pt/2s/2000/06/139000000/1035910363.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-06-18'
+entry_into_force:
+  date: '2000-06-18'
+  rule: no dia imediato ao da sua publicação no Boletim da UM
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

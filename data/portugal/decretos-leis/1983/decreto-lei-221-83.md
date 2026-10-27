@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1925 - 1928
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12100/19251928.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-11-22'
+entry_into_force:
+  date: '1983-11-22'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

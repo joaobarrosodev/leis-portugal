@@ -27,6 +27,16 @@ publication:
   pages: 8298 - 8301
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas relações entre cada um dos Estados que a tiverem ratificado, no 1.º dia do 3.º mês seguinte ao depósito do segundo
+    instrumento de ratificação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

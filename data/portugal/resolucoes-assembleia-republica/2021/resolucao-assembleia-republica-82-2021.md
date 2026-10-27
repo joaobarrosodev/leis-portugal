@@ -24,6 +24,15 @@ publication:
   pages: 5 - 27
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05500/0000500027.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data da troca dos instrumentos
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

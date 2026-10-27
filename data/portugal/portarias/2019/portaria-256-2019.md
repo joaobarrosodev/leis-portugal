@@ -27,7 +27,17 @@ publication:
   supplement: null
   pages: 65 - 67
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15600/0006500067.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-15'
+entry_into_force:
+  date: '2019-09-15'
+  rule: no prazo de 30 dias após a sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

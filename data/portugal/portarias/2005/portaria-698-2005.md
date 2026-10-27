@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4875 - 4875
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/161b00/48754875.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-08-24'
+entry_into_force:
+  date: '2005-08-24'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante o mesmo período que vigorar o PIAVE
 end_of_validity_date: null
 legal_status: in_force
 notes: []

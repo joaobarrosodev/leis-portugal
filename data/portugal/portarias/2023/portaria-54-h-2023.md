@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 332-(318) a 332-(326)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04101/0031800326.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-28'
+entry_into_force:
+  date: '2023-02-28'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-24
+  effects_date: '2023-01-01'
+  effects_rule: a 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

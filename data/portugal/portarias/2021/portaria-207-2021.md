@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11 - 12
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20100/0001100012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-16'
+entry_into_force:
+  date: '2021-10-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: a partir do concurso n.º 85 do
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 65 - 65
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/005b00/00650065.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-01-01'
+entry_into_force:
+  date: '1999-01-01'
+  rule: no dia 1 de Janeiro de 1999
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

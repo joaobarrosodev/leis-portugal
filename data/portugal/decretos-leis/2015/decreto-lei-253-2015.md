@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 9904 - 9905
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/25400/0990409905.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-31'
+entry_into_force:
+  date: '2015-12-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: '2016-01-01'
+  effects_rule: a 1 de janeiro de 2016
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

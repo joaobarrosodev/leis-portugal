@@ -24,6 +24,15 @@ publication:
   pages: 8408 - 8410
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18500/0840808410.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor da Lei n.º 74/2013, de 6 de setembro, alterada pela Lei n.º 33/2014, de 16 de junho
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

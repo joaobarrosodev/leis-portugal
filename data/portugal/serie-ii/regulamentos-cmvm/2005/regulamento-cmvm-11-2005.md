@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 17171 - 17172
   pdf_url: https://files.diariodarepublica.pt/2s/2005/12/235000000/1717117172.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-12-10'
+entry_into_force:
+  date: '2005-12-10'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:212246766:por'
+    detail: Revogado, a partir de 27 de abril de 2023, pelo(a) Regulamento da CMVM n.º 1/2023 - Diário da República n.º 81/2023,
+      Série II de 2023-04-26
 notes: []
 language: por
 version:

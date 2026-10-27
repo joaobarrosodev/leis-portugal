@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6967 - 6971
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/241a00/69676971.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-11-01'
+entry_into_force:
+  date: '1999-11-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: à mesma data no que respeita à transição prevista na alínea a) do n.º 2 do artigo 5.º e a partir da data da
+    conclusão do curso de formação profissional no que respeita à transição prevista na alínea b
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

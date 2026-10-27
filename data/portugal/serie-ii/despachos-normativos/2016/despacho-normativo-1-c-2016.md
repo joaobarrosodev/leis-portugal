@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5054-(15) a 5054-(17)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/029000001/0001500017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-12'
+entry_into_force:
+  date: '2016-02-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

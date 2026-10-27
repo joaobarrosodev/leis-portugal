@@ -24,6 +24,15 @@ publication:
   pages: 30107 - 30110
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/216000000/3010730110.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

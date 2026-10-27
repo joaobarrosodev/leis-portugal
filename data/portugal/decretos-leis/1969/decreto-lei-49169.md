@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 981 - 983
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/18200/09810983.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-10-01'
+entry_into_force:
+  date: '1969-10-01'
+  rule: no dia 1 de Outubro de 1969, transitando nessa data para a Direcção-Geral das Construções Escolares as obras a cargo
+    dos organismos extintos, bem como todos os seus bens patrimoniais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

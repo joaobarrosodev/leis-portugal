@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3613 - 3613
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/151b00/36133613.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-07-01'
+entry_into_force:
+  date: '1993-07-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

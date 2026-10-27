@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2833-2836
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/07/15/138054785.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-16'
+entry_into_force:
+  date: '2020-07-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: a partir do acesso e ingresso no ensino superior no ano letivo de 2020/2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

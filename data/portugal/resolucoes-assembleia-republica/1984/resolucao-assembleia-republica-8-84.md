@@ -23,6 +23,16 @@ publication:
   pages: 733 - 736
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/05400/07330736.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do terceiro mês seguinte ao do depósito do terceiro instrumento de ratificação, de aceitação, de aprovação
+    ou de adesão
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

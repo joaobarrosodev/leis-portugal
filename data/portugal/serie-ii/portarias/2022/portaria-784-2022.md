@@ -26,7 +26,18 @@ publication:
   supplement: null
   pages: 95 - 96
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/219000000/0009500096.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-15'
+entry_into_force:
+  date: '2022-11-15'
+  rule: no dia seguinte ao da sua publicação, retroagindo os seus efeitos a 1 de janeiro de 2022, no âmbito da aquisição do
+    concurso público para a aquisição de serviços de fornecimento de energia elétrica em
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

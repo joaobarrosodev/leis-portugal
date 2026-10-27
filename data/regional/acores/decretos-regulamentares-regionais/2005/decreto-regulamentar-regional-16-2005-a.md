@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4172 - 4175
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/129b00/41724175.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-01'
+entry_into_force:
+  date: '2005-09-01'
+  rule: no dia 1 de Setembro de 2005, sem prejuízo do número seguinte
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

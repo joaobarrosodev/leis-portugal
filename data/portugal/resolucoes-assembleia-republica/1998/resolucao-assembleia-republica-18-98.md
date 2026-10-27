@@ -25,6 +25,16 @@ publication:
   pages: 1800 - 1811
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/095a00/18001811.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte àquele em que as Partes tenham notificado o cumprimento das formalidades necessárias para
+    o efeito
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 3761 - 3762
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/12000/0376103762.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da respectiva publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 1355 - 1359
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/13600/13551359.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a data em que três membros do Conselho, em conformidade com as disposições do artigo 8.º, tiverem assinado
+    o Acordo sem reserva de ratificação ou o tiverem ratificado
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

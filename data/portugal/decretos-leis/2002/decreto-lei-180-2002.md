@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5707 - 5745
   pdf_url: https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-08-09'
+entry_into_force:
+  date: '2002-08-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-99
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

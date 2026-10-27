@@ -24,6 +24,15 @@ publication:
   pages: 6122-(327) a 6122-(328)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25302/0032700328.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

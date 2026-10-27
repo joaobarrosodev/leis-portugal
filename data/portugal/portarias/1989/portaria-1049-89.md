@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5300 - 5301
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/27900/53005301.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-12-06'
+entry_into_force:
+  date: '1989-12-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

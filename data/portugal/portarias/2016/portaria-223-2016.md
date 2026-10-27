@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2769 - 2769
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15900/0276902769.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-08-20'
+entry_into_force:
+  date: '2016-08-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: entre 1 de julho de 2016 e 31 de dezembro de 2016
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

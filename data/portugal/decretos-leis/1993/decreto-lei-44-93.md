@@ -24,6 +24,16 @@ publication:
   pages: 721 - 723
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/043a00/07210723.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês seguinte ao da sua aplicação, sem prejuízo da possibilidade de fabrico, comercialização e colocação
+    em serviço dos equipamentos médicos implantáveis activos para fins de diagnóstico, t
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

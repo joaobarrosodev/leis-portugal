@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 4730 - 4738
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24000/0473004738.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-17'
+entry_into_force:
+  date: '2016-12-17'
+  rule: no dia seguinte ao da sua publicação e aplica-se às candidaturas submetidas após a sua entrada em vigor, sem prejuízo
+    do disposto no n.º 7 do artigo 14.º
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

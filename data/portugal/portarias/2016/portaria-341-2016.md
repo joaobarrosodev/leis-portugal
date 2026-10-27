@@ -23,6 +23,15 @@ publication:
   pages: 5133 - 5136
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24900/0513305136.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da respetiva publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

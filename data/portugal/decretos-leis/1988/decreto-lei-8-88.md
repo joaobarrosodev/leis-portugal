@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 121 - 122
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01200/01210122.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-05-14'
+entry_into_force:
+  date: '1988-05-14'
+  rule: 120 dias após a sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

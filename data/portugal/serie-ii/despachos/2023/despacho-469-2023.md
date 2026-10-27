@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/007000000/0018300186.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:215371754:por#n-9'
+    detail: e [Despacho n.º 469/2023], de 10 de janeiro.
 notes: []
 language: por
 version:

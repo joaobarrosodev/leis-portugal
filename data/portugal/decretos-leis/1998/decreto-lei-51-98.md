@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 952 - 960
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/059a00/09520960.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-03-16'
+entry_into_force:
+  date: '1998-03-16'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1998-01-01'
+  effects_rule: 'a partir do dia 1 de Janeiro de 1998, devendo todas as operações de transferências patrimoniais e outras
+    que não dependam de despacho ministerial ou de publicação estar concluídas no prazo de 30 dias '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

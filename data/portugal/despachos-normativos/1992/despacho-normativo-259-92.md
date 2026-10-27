@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 6056-(6) a 6056-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/301b02/00060007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-12-31'
+entry_into_force:
+  date: '1992-12-31'
+  rule: a partir da data da sua publicação, sendo aplicável aos processos de candidatura com entrada desde 2 de Dezembro de
+    1992 nas instituições de crédito que intervêm no sistema
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

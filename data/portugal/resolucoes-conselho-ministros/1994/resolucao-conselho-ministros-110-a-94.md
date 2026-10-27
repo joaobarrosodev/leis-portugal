@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6680-(2) a 6680-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/255b01/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-11-05'
+entry_into_force:
+  date: '1994-11-05'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

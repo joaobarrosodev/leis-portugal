@@ -24,6 +24,15 @@ publication:
   pages: 1731 - 1731
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/039b00/17311731.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do 2.º mês após a sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5822 - 5826
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/262a00/58225826.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-02-12'
+entry_into_force:
+  date: '1992-02-12'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2026/09/28/1174743375.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-09-29'
+entry_into_force:
+  date: '2026-09-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-2
+  effects_date: '2026-09-29'
+  effects_rule: no dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

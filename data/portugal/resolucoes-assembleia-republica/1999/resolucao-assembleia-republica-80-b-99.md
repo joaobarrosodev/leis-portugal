@@ -23,7 +23,17 @@ publication:
   supplement: 1º Suplemento
   pages: 8976-(16) a 8976-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/291a01/00160021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-12-17'
+entry_into_force:
+  date: '1999-12-17'
+  rule: no dia 17 de Dezembro de 1999
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

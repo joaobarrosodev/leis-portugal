@@ -24,6 +24,16 @@ publication:
   pages: 2122 - 2123
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/086a00/21222123.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte ao do depósito dos últimos instrumentos de ratificação, aprovação ou aceitação
+    pelos Estados para os quais a Convenção de Aplicação de 1990 tenha entrado em vig
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

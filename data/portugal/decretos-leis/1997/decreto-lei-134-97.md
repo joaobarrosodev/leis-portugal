@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2632 - 2632
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/125a00/26322632.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-06-01'
+entry_into_force:
+  date: '1997-06-01'
+  rule: no 1.º dia do mês posterior à sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2687 - 2697
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-01-01'
+entry_into_force:
+  date: '1979-01-01'
+  rule: a partir de 1 de Janeiro de 1979, até à publicação da regulamentação da nova LSM, aplicando-se a todos os requerimentos
+    de amparo apresentados após aquela data
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

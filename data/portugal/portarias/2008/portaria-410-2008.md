@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3374 - 3378
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11000/0337403378.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-06-10'
+entry_into_force:
+  date: '2008-06-10'
+  rule: no dia seguinte ao da sua publicação e aplica-se ao pedido único de 2008
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

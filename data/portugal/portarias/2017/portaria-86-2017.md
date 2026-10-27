@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1088 - 1092
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/04100/0108801092.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-03-29'
+entry_into_force:
+  date: '2017-03-29'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

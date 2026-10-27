@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 6120-(2) a 6120-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22401/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-22'
+entry_into_force:
+  date: '2017-11-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

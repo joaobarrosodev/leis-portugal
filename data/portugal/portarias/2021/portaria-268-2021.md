@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 21 - 43
   pdf_url: https://files.diariodarepublica.pt/1s/2021/11/23000/0002100043.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-11-27'
+entry_into_force:
+  date: '2021-11-27'
+  rule: no dia seguinte ao da sua publicação, com exceção do capítulo iv, que
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

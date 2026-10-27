@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1131 - 1132
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/113a00/11311132.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-05-15'
+entry_into_force:
+  date: '1996-05-15'
+  rule: com a publicação da portaria a que se refere o n.º 6 do artigo 1.º
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

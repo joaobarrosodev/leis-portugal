@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 5120 - 5125
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/221a00/51205125.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-10-23'
+entry_into_force:
+  date: '2000-10-23'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

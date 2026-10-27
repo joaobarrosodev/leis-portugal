@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3074-(5) a 3074-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/29902/00050006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-01-01'
+entry_into_force:
+  date: '1978-01-01'
+  rule: no primeiro dia do mês seguinte ao da respectiva publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

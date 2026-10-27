@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1109 - 1109
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/04200/0110901109.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-03-01'
+entry_into_force:
+  date: '2017-03-01'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2015-01-01'
+  effects_rule: desde 1 de janeiro de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

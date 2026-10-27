@@ -26,6 +26,16 @@ publication:
   pages: 1039 - 1064
   pdf_url: https://files.diariodarepublica.pt/1s/1962/08/17700/10391064.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo dia seguinte à data do depósito no Secretariado-Geral da Organização das Nações Unidas do vigésimo segundo
+    instrumento de ratificação ou adesão
+  method: clausula
+  article: art-29-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

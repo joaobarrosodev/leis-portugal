@@ -24,6 +24,16 @@ publication:
   pages: 2756 - 2760
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/08900/0275602760.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de receção da última das notificações pelas quais as Partes comunicam mutuamente por via diplomática o cumprimento
+    dos seus respetivos requisitos internos necessários para o efeito
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

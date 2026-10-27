@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3676 - 3677
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/107a00/36763677.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-06-07'
+entry_into_force:
+  date: '2006-06-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2005-01-31'
+  effects_rule: desde 31 de Janeiro de 2005 e
+  end_date: '2006-12-31'
+  end_rule: até 31 de Dezembro de 2006
 end_of_validity_date: null
 legal_status: in_force
 notes: []

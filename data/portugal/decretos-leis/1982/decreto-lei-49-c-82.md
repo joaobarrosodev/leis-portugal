@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 366-(3) a 366-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/04101/00030003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-02-18'
+entry_into_force:
+  date: '1982-02-18'
+  rule: na data da publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

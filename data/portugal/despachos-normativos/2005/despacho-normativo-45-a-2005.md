@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5898-(2) a 5898-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/189b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-10-01'
+entry_into_force:
+  date: '2005-10-01'
+  rule: no dia 1 de Outubro de 2005
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

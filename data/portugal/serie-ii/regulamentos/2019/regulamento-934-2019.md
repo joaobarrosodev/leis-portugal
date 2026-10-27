@@ -23,9 +23,27 @@ publication:
   supplement: null
   pages: 161 - 181
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/235000000/0016100181.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-12-07'
+entry_into_force:
+  date: '2019-12-07'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:203803325:por#art-20'
+    detail: O presente regulamento revoga o [Regulamento n.º 934/2019], publicado no Diário da República, 2.ª série, n.º 235,
+      de 6 de dezembro de 2019 e [Despacho n.º 1282/2022], publicado no Diário da República, 2.ª série, n.º 21, de 31 de janeiro
+      de 2022.
 notes: []
 language: por
 version:

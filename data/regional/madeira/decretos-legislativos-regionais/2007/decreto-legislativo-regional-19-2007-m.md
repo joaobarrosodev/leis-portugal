@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8467 - 8469
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21900/0846708469.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-12-01'
+entry_into_force:
+  date: '2007-12-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação e os seus efeitos retroagem a 1 de Janeiro de 2007
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

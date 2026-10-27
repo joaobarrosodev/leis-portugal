@@ -22,7 +22,17 @@ publication:
   supplement: 2º Suplemento
   pages: 89-(34) a 89-(65)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23602/0003400065.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-08'
+entry_into_force:
+  date: '2023-01-08'
+  rule: no 30.º dia seguinte ao da sua publicação
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

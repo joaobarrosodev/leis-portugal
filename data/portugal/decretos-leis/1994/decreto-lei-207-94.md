@@ -24,6 +24,15 @@ publication:
   pages: 4491 - 4495
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/181a00/44914495.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em simultâneo com o decreto regulamentar a que se refere aquele artigo
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

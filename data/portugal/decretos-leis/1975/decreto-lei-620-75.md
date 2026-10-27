@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1790 - 1790
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26200/17901790.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-01-01'
+entry_into_force:
+  date: '1976-01-01'
+  rule: a partir de 1 de Janeiro de 1976
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

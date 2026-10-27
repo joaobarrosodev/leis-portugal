@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22 - 22
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02800/0002200022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-15'
+entry_into_force:
+  date: '2021-02-15'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2020-11-24'
+  effects_rule: a dia 24 de novembro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

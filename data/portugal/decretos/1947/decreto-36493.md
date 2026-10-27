@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1947/09/20400/08450846.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:274848:por#art-11'
+    detail: É revogado o [Decreto n.º 36493], de 3 de Setembro de 1947.
 notes: []
 language: por
 version:

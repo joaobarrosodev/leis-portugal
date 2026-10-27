@@ -24,7 +24,17 @@ publication:
   supplement: 1º Suplemento
   pages: 2577 - 2577
   pdf_url: https://files.diariodarepublica.pt/1s/1967/12/30201/25772577.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1968-01-10'
+entry_into_force:
+  date: '1968-01-10'
+  rule: em 10 de Janeiro de 1968
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

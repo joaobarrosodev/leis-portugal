@@ -24,6 +24,15 @@ publication:
   pages: 1402 - 1406
   pdf_url: https://files.diariodarepublica.pt/1s/1965/10/24400/14021406.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Novembro do ano corrente
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

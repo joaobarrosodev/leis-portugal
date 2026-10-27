@@ -23,6 +23,15 @@ publication:
   pages: 1980 - 1983
   pdf_url: https://files.diariodarepublica.pt/1s/2017/04/07600/0198001983.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

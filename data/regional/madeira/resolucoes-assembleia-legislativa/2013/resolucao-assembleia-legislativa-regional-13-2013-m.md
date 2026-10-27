@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3213 - 3214
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/10600/0321303214.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-06-03'
+entry_into_force:
+  date: '2013-06-03'
+  rule: após a publicação do Orçamento de Estado posterior à sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

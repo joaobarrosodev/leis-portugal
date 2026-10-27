@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1664-(1) a 1664-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/24401/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-10-21'
+entry_into_force:
+  date: '1975-10-21'
+  rule: na data da publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

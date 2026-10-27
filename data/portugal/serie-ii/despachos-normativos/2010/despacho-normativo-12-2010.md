@@ -27,6 +27,15 @@ publication:
   pages: 28067 - 28068
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/099000000/2806728068.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2009-10-01'
+  effects_rule: a 1 de Outubro de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

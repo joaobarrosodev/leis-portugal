@@ -27,7 +27,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/08/18800/09690970.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:272033:por#n-3'
+    detail: 3.º É revogada a [Portaria n.º 17298], de 18 de Agosto de 1959.
 notes: []
 language: por
 version:

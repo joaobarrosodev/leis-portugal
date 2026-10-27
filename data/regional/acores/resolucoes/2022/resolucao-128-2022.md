@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2911-2918
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/08/05/187132742.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-08-06'
+entry_into_force:
+  date: '2022-08-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

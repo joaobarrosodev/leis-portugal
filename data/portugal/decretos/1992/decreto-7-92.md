@@ -23,6 +23,16 @@ publication:
   pages: 696 - 697
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/028a00/06960697.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna em cada um dos
+    países e será válido por um período de três anos, automaticamente prorrogável, podendo
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

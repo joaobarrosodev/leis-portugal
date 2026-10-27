@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5489 - 5491
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/172b00/54895491.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-12'
+entry_into_force:
+  date: '2005-09-12'
+  rule: no 5.º dia após a sua publicação no Diário da República
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

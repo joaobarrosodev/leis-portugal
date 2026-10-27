@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5368 - 5370
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/270b00/53685370.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-11-22'
+entry_into_force:
+  date: '1992-11-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-52-b
+  effects_date: null
+  effects_rule: quanto à transição a que se refere o n.º 1 do artigo 4.º, a partir de 1 de Outubro de 1989
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 1988 - 1994
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ':'
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes:

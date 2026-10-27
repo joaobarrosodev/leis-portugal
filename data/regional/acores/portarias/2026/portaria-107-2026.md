@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2026/10/07/1178224475.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-06'
+entry_into_force:
+  date: '2026-11-06'
+  rule: 30 dias após a sua publicação no Jornal Oficial da Região Autónoma dos Açores
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

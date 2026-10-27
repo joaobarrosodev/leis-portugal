@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4264 - 4268
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22100/42644268.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-01-01'
+entry_into_force:
+  date: '1990-01-01'
+  rule: em 1 de Janeiro de 1990
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

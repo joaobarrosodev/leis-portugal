@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 4374 - 4375
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/117b00/43744375.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-06-25'
+entry_into_force:
+  date: '2006-06-25'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: a partir do início do ano lectivo de 2003-2004, aplicando-se aos cursos ministrados pela Escola Profissional
+    de Hotelaria e Turismo da Madeira nos termos do disposto no número anterior
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

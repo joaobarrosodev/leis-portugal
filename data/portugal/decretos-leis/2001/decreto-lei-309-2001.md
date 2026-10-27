@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7918 - 7929
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/283a00/79187929.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-01-06'
+entry_into_force:
+  date: '2002-01-06'
+  rule: no 30.º dia após a sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

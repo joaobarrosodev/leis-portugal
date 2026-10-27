@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2702 - 2702
   pdf_url: https://files.diariodarepublica.pt/1s/2000/06/143b00/27022702.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-06-24'
+entry_into_force:
+  date: '2000-06-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

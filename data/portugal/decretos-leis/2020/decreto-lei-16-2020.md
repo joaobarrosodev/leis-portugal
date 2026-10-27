@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7 - 12
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07400/0000700012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-16'
+entry_into_force:
+  date: '2020-04-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: '2020-06-30'
+  end_rule: até 30 de junho de 2020
 end_of_validity_date: null
 legal_status: repealed
 notes: []

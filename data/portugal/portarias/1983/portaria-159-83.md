@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 531 - 532
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04100/05310532.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-03-01'
+entry_into_force:
+  date: '1983-03-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

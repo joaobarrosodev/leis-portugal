@@ -25,6 +25,16 @@ publication:
   pages: 4748 - 4756
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13300/0474804756.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após notificação ao Comité Misto de Readmissão, em conformidade com o n.º 2 do artigo 19.º do Acordo, 30 dias após
+    a data da receção da última notificação, por escrito e por via diplomática, na qual a
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

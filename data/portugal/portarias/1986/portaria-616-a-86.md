@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3194-(1) a 3194-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/24401/00010001.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-10-27'
+entry_into_force:
+  date: '1986-10-27'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

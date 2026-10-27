@@ -24,6 +24,16 @@ publication:
   pages: 4260-(32) a 4260-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30103/00320032.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: simultaneamente com o Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, e aplica-se
+    aos preços já fixados
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

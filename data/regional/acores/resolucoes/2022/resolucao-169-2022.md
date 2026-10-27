@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 3911-3915
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/10/07/202014091.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-07'
+entry_into_force:
+  date: '2022-10-07'
+  rule: na data da sua publicação e
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Resolução do Conselho de Governo n.º 100/2014, de 29 de maio
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 487 - 488
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/25100/0048700488.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-30'
+entry_into_force:
+  date: '2020-12-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

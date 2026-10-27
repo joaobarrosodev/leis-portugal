@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5028 - 5028
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28300/50285028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1990-12-15'
+entry_into_force:
+  date: '1990-12-15'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: '1991-03-31'
+  end_rule: até 31 de Março de 1991 e não constitui precedente a ser considerado em relação a posterior regulamentação que
+    venha a ser produzida
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

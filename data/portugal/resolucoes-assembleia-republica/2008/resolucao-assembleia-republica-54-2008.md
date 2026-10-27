@@ -26,6 +26,15 @@ publication:
   pages: 6908 - 6911
   pdf_url: https://files.diariodarepublica.pt/1s/2008/09/18600/0690806911.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à notificação pelo último Estado membro do cumprimento dessas formalidades constitucionais
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

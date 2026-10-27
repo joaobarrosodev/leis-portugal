@@ -23,7 +23,17 @@ publication:
   supplement: 3º Suplemento
   pages: 4614-(8) a 4614-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/202b03/00080010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-09-02'
+entry_into_force:
+  date: '2000-09-02'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

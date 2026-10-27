@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6148 - 6149
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16100/0614806149.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-19'
+entry_into_force:
+  date: '2015-08-19'
+  rule: após a publicação do Orçamento do Estado subsequente à sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

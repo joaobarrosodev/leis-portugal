@@ -26,6 +26,16 @@ publication:
   pages: 3450 - 3451
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/138a00/34503451.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para os dois primeiros Estados membros que o ratifiquem ou aprovem, 30 dias após o depósito do segundo instrumento
+    de ratificação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

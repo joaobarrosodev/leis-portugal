@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 7424-(311) a 7424-(313)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25204/0031100313.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-01'
+entry_into_force:
+  date: '2013-01-01'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até ao final do Plano Estratégico de Iniciativas de Promoção de Empregabilidade Jovem e Apoio às Pequenas e Médias
+    Empresas -
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

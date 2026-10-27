@@ -24,6 +24,15 @@ publication:
   pages: 6191 - 6193
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/262b00/61916193.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do 1.º concurso do Totobola do ano de 1998
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

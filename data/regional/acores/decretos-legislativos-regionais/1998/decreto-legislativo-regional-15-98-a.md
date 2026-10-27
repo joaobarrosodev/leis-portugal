@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4169 - 4171
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/191a00/41694171.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-08-21'
+entry_into_force:
+  date: '1998-08-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

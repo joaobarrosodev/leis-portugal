@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 185 - 187
   pdf_url: https://files.diariodarepublica.pt/1s/1963/02/04301/01850187.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1963-03-01'
+entry_into_force:
+  date: '1963-03-01'
+  rule: em 1 de Março de 1963
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

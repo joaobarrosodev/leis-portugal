@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1146 - 1151
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/037b00/11461151.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-02-14'
+entry_into_force:
+  date: '2002-02-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

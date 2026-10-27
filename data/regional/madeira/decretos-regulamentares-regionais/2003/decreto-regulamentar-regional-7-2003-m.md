@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1198 - 1205
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/044b00/11981205.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-02-22'
+entry_into_force:
+  date: '2003-02-22'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: '2003-01-01'
+  effects_rule: reportados a 1 de Janeiro de 2003
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

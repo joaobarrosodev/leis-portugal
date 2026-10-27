@@ -24,6 +24,16 @@ publication:
   pages: 3436 - 3439
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/149a00/34363439.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: definitivamente 60 dias após a troca de notas pelas quais cada uma das Partes contratantes comunicará à outra o cumprimento
+    das formalidades exigidas pela respectiva legislação interna
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

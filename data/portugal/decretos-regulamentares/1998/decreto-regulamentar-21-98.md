@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4626 - 4627
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/204b00/46264627.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-03-03'
+entry_into_force:
+  date: '1999-03-03'
+  rule: no prazo de 180 dias após a data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2549-2550
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/07/14/215647939.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-14'
+entry_into_force:
+  date: '2023-07-14'
+  rule: na data da sua publicação e
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Resolução do Conselho de Governo n.º 198/2022, de 7 de dezembro, publicada no
+    Jornal Oficial, I série, n.º 157, de 7 de dezembro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

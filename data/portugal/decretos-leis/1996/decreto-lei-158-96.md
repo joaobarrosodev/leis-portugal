@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2902 - 2916
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/204a00/29022916.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-09-08'
+entry_into_force:
+  date: '1996-09-08'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: na data da tomada de posse do presidente e dos demais membros do conselho directivo do IGCP, sem prejuízo
+    do disposto no n.º 4 do artigo 33.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

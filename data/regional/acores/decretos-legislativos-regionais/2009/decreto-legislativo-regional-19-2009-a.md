@@ -23,6 +23,15 @@ publication:
   pages: 8485 - 8486
   pdf_url: https://files.diariodarepublica.pt/1s/2009/11/23200/0848508486.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Orçamento da Região Autónoma dos Açores para o ano de 2009
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 468-(2) a 468-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03001/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-05-15'
+entry_into_force:
+  date: '2016-05-15'
+  rule: a 15 de maio de 2016, podendo, por razões operacionais, esta data ser adiada por despacho do membro do Governo responsável
+    pela área dos aeroportos
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

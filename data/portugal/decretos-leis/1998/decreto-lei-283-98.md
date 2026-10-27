@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4801 - 4801
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/215a00/48014801.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-10-17'
+entry_into_force:
+  date: '1998-10-17'
+  rule: no prazo de 30 dias a contar da data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

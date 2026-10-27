@@ -23,6 +23,15 @@ publication:
   pages: 11882 - 11883
   pdf_url: https://files.diariodarepublica.pt/2s/2000/07/164000000/1188211883.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia posterior ao da sua publicação no Diário da República
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

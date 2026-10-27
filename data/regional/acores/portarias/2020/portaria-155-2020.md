@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4962-4965
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2020/11/06/147900077.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-07'
+entry_into_force:
+  date: '2020-11-07'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-14
+  effects_date: '2020-01-01'
+  effects_rule: a 1 de janeiro de 2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

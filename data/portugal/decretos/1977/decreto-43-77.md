@@ -24,6 +24,16 @@ publication:
   pages: 551 - 555
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/06400/05510555.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'entre os Governos que tenham depositado até 18 de Junho de 1976 os seus instrumentos de ratificação, aceitação, aprovação,
+    conclusão ou adesão, ou feito declarações de aplicação provisória, de acordo '
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 1682 - 1693
   pdf_url: https://files.diariodarepublica.pt/1s/1966/10/23700/16821693.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no nonagésimo dia após cinco dos países mencionados no parágrafo 1 do artigo 33.º a terem assinado sem reserva de
+    ratificação ou terem depositado os seus instrumentos de ratificação ou de adesão
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

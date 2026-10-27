@@ -26,6 +26,16 @@ publication:
   pages: 4109 - 4112
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/112a00/41094112.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na mesma data da entrada em vigor das normas que visam a adaptação dos Regulamentos (CE) n.os 852/2004, do Parlamento
+    Europeu e do Conselho, de 29 de Abril, e 853/2004, do Parlamento Europeu e do Cons
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

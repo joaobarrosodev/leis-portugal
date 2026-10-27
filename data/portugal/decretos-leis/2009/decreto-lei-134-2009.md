@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3452 - 3454
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/10600/0345203454.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-29'
+entry_into_force:
+  date: '2009-11-29'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

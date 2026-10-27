@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6358 - 6359
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/216a00/63586359.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-09-16'
+entry_into_force:
+  date: '1999-09-16'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '1999-07-27'
+  effects_rule: desde 27 de Julho de 1999
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

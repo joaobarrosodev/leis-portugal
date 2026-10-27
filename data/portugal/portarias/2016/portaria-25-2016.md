@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 458 - 468
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03000/0045800468.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-13'
+entry_into_force:
+  date: '2016-02-13'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 169/2015, de 4 de junho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4150 - 4151
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/198b00/41504151.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-09-02'
+entry_into_force:
+  date: '1992-09-02'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1992-09-01'
+  effects_rule: a partir do dia 1 do mês seguinte ao da sua publicação e revoga a Portaria n.º 47/87, de 20 de Janeiro, mantendo-se,
+    contudo, os valores da tabela II (lamas oleosas e outros resíduos sólidos) enquanto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

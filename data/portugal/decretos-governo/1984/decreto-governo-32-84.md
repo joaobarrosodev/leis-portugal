@@ -24,6 +24,16 @@ publication:
   pages: 2072 - 2075
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/15800/20722075.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do terceiro mês posterior ao mês em que os 2 Estados Contratantes comunicarem mutuamente, por escrito
+    e por via diplomática, que estão preenchidos os respectivos requisitos legais para
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

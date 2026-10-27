@@ -25,6 +25,16 @@ publication:
   pages: 316 - 343
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/05000/03160343.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que a Agência receber de Portugal notificação escrita de que os requisitos de natureza constitucional e
+    legislativa para entrada em vigor estão preenchidos
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

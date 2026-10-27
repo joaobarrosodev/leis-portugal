@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2443 - 2451
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/109a00/24432451.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-06-01'
+entry_into_force:
+  date: '1999-06-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

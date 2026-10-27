@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2928 - 2943
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12900/0292802943.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-07-07'
+entry_into_force:
+  date: '2018-07-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: 'a partir do ano letivo de:'
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1401 - 1401
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14700/14011401.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-06-01'
+entry_into_force:
+  date: '1979-06-01'
+  rule: no dia 1 de Junho de 1979
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

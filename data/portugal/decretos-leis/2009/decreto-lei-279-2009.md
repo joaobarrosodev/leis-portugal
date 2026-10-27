@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7291 - 7296
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19300/0729107296.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-10-11'
+entry_into_force:
+  date: '2009-10-11'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: para cada tipologia, com a publicação da portaria que aprove os respectivos requisitos técnicos
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

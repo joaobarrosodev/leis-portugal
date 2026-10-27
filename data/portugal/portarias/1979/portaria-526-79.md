@@ -24,6 +24,15 @@ publication:
   pages: 2546-(10) a 2546-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 1 de Outubro do ano corrente
+  method: clausula
+  article: art-108
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

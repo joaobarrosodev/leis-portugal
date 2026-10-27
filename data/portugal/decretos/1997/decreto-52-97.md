@@ -24,6 +24,16 @@ publication:
   pages: 5369 - 5370
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/226a00/53695370.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da última notificação do cumprimento das formalidades exigidas para o efeito pela ordem jurídica de cada uma
+    das Partes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

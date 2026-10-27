@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4005 - 4005
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/27400/40054005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-11-27'
+entry_into_force:
+  date: '1980-11-27'
+  rule: no dia seguinte ao da sua publicação, excepto quanto aos produtos que se encontram nos armazenistas, retalhistas ou
+    equiparados, que manterão os preços de venda ao público devidamente impressos nas re
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

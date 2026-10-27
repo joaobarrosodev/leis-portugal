@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2478 - 2479
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20100/24782479.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-09-02'
+entry_into_force:
+  date: '1980-09-02'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '1980-03-03'
+  effects_rule: a partir do dia 3 de Março de 1980
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

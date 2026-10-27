@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2160-(41) a 2160-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30004/00410041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-12-31'
+entry_into_force:
+  date: '1975-12-31'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

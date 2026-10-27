@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1797 - 1798
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/28801/17971798.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1969-01-01'
+entry_into_force:
+  date: '1969-01-01'
+  rule: em 1 de Janeiro de 1969
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

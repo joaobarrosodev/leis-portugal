@@ -24,6 +24,16 @@ publication:
   pages: 609 - 625
   pdf_url: https://files.diariodarepublica.pt/1s/1966/04/09900/06090625.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'quando tiver sido assinado em nome de, pelo menos, 30 Governos cujas subscrições representem, pelo menos, 75 por
+    cento do total das subscrições enumeradas no Anexo A e quando os instrumentos a que se '
+  method: clausula
+  article: art-ix
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -26,6 +26,15 @@ publication:
   pages: 5590-(2) a 5590-(835)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta (30) dias a seguir ao depósito do último instrumento de ratificação, de aceitação ou de aprovação
+  method: clausula
+  article: art-113
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

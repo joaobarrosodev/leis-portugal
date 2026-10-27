@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1612 - 1655
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/05400/0161201655.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-23'
+entry_into_force:
+  date: '2019-04-23'
+  rule: no dia 23 de abril de 2019
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

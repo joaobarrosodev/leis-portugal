@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 342 - 344
   pdf_url: https://files.diariodarepublica.pt/1s/1972/03/06700/03420344.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-03-01'
+entry_into_force:
+  date: '1972-03-01'
+  rule: em 1 de Março de 1972, data a partir da qual se considera revogada a Portaria n.º 608/71, de 5 de Novembro
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3141 - 3141
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/17900/31413141.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-08-05'
+entry_into_force:
+  date: '1989-08-05'
+  rule: na data da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

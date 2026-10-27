@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2924-(2) a 2924-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08301/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-02'
+entry_into_force:
+  date: '2007-05-02'
+  rule: no dia 2 de Maio de 2007
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6020-(2) a 6020-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/213b01/00020004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-15'
+entry_into_force:
+  date: '2003-09-15'
+  rule: a partir do dia 15 de Setembro de 2003
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

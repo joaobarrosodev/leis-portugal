@@ -23,6 +23,15 @@ publication:
   pages: 1541 - 1542
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14700/15411542.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

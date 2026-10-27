@@ -22,7 +22,17 @@ publication:
   supplement: 2º Suplemento
   pages: 24-(2) a 24-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/06002/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-03-28'
+entry_into_force:
+  date: '2022-03-28'
+  rule: no dia 28 de março de 2022 e
+  method: clausula
+  article: art-4
+  effects_date: '2022-04-03'
+  effects_rule: até dia 3 de abril de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

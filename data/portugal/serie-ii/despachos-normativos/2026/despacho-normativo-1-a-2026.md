@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 2 - 4
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/027000001/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-02-10'
+entry_into_force:
+  date: '2026-02-10'
+  rule: no dia seguinte à data da sua publicação e cessa a sua vigência no dia 28 de fevereiro de 2026, exceto se prorrogado
+    por despacho do membro do Governo responsável pela área do turismo
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

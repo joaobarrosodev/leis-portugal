@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 4068 - 4076
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/125a00/40684076.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-15'
+entry_into_force:
+  date: '2005-09-15'
+  rule: no dia 15 de Setembro de 2005
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 3378 - 3402
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/23700/33783402.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando 5 Partes contratantes, entre elas a Comunidade Económica Europeia, o tenham aprovado ou ratificado, no 1.º
+    dia do 3.º mês a seguir à data da entrega do quinto instrumento de aprovação ou de rat
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

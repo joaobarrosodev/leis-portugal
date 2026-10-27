@@ -23,6 +23,15 @@ publication:
   pages: 5478 - 5487
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/201a00/54785487.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês subsequente à data da última dessas informações
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

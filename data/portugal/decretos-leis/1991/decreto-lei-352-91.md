@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4968 - 4975
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/217a00/49684975.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1991-11-01'
+entry_into_force:
+  date: '1991-11-01'
+  rule: no 1.º dia do 2.º mês posterior à sua publicação
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

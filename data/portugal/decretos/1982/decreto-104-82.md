@@ -24,6 +24,16 @@ publication:
   pages: 2960 - 2965
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21800/29602965.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 1 mês após a data em que 3 Estados membros do Conselho, de acordo com as disposições do artigo 14.º, o tiverem assinado
+    sem reservas de ratificação ou de aprovação ou o tiverem ratificado ou aprovado
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

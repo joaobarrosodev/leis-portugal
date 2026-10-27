@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1946/10/23200/09410942.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:199465:por#n-13'
+    detail: 13.º Fica revogada a [Portaria n.º 11518], de 12 de Outubro de 1946.
 notes: []
 language: por
 version:

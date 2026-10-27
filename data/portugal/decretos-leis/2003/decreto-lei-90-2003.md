@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2768 - 2774
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/100a00/27682774.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-05-05'
+entry_into_force:
+  date: '2003-05-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2003-04-20'
+  effects_rule: desde 20 de Abril de 2003, aplicando-se às medidas de saneamento e recuperação financeira e aos processos
+    de liquidação de empresas de seguros adoptadas e abertos a partir dessa data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

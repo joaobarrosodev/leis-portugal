@@ -24,6 +24,16 @@ publication:
   pages: 2851 - 2854
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/16500/28512854.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da recepção da última das notas diplomáticas trocadas entre as Partes, notas dando conta de que se encontram
+    cumpridas as formalidades exigidas pela ordem jurídica interna de cada uma delas pa
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

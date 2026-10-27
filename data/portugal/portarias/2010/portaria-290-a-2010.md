@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1840-(2) a 1840-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/10301/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-28'
+entry_into_force:
+  date: '2010-05-28'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: '2010-05-26'
+  effects_rule: a 26 de Maio de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

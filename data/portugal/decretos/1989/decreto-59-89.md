@@ -24,6 +24,16 @@ publication:
   pages: 5047 - 5049
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26500/50475049.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da assinatura e manter-se-á em vigor, a menos que seja denunciado por qualquer das Partes Contratantes por
+    via diplomática, mediante aviso prévio de três meses
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

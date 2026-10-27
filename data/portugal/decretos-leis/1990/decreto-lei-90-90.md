@@ -23,6 +23,16 @@ publication:
   pages: 1296 - 1304
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06300/12961304.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para cada uma das espécies de recursos referidos no artigo 1.º, simultaneamente com a legislação referida no artigo
+    51.º
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 148 - 153
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/00500/01480153.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-01-09'
+entry_into_force:
+  date: '2007-01-09'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: sem prejuízo do disposto nos números seguintes, a partir do ciclo de formação de 2006-2009, desde 4 de Abril
+    de 2006, salvo quanto aos critérios de análise e selecção previstos no artigo 7.º e discrim
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

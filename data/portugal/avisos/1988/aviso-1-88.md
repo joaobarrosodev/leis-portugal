@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 414-(2) a 414-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03001/00020003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-02-06'
+entry_into_force:
+  date: '1988-02-06'
+  rule: em 6 de Fevereiro de 1988
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2830-(2) a 2830-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/112b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-05-20'
+entry_into_force:
+  date: '1995-05-20'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1995-06-01'
+  effects_rule: a partir do dia 1 do mês seguinte à sua publicação e revoga as tabelas I e II anexas à Portaria n.º 98/94,
+    de 9 de Fevereiro
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

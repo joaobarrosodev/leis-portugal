@@ -24,6 +24,16 @@ publication:
   pages: 565 - 566
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09300/05650566.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: independentemente das regulamentações dos serviços competentes de cada um dos Ministérios interessados, nos termos
+    das respectivas leis orgânicas
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

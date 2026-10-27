@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 37-(2) a 37-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/17703/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-09-11'
+entry_into_force:
+  date: '2021-09-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

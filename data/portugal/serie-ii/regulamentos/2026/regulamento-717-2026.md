@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 249 - 261
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/110000000/0024900261.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-18'
+entry_into_force:
+  date: '2026-08-18'
+  rule: 70 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

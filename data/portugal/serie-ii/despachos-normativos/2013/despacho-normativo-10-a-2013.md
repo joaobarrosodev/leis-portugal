@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 36576-(2) a 36576-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/247000001/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-12-21'
+entry_into_force:
+  date: '2013-12-21'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: null
+  effects_date: '2013-12-18'
+  effects_rule: a partir de 18 de dezembro de 2013
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

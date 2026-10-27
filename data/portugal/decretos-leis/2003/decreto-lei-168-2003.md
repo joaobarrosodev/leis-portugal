@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4398 - 4405
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/173a00/43984405.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-07-30'
+entry_into_force:
+  date: '2003-07-30'
+  rule: no dia seguinte ao da respectiva publicação e
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante 18 meses, podendo, no entanto, ser objecto de prorrogação por mais 6 meses
 end_of_validity_date: null
 legal_status: in_force
 notes: []

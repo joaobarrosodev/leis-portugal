@@ -23,6 +23,16 @@ publication:
   pages: 2155 - 2183
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10600/21552183.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após a data em que os Governos de pelo menos dez Estados a tenham assinado sem reservas à sua aceitação ou
+    tenham depositado instrumentos de aceitação ou adesão
+  method: clausula
+  article: art-xi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

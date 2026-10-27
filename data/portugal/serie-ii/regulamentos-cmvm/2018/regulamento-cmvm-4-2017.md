@@ -23,6 +23,16 @@ publication:
   pages: 640 - 641
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/004000000/0064000641.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'na data de entrada em vigor do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio
+    de 2014, aplicando-se a todas as transações que estejam sujeitas ao dever de reporte e '
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 36159 - 36160
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/246000000/3615936160.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-12-20'
+entry_into_force:
+  date: '2013-12-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: à data da sua assinatura
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

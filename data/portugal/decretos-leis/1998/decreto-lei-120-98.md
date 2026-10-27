@@ -23,6 +23,16 @@ publication:
   pages: 2134 - 2142
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/106a00/21342142.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a data da sua publicação, não se aplicando aos processos judiciais de adopção pendentes, salvo se as respectivas
+    disposições forem mais favoráveis à constituição do vínculo
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

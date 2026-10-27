@@ -24,6 +24,16 @@ publication:
   pages: 1317 - 1333
   pdf_url: https://files.diariodarepublica.pt/1s/1968/09/21300/13171333.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após a data em que vinte e oito Governos se tenham tornado membros, conforme as disposições do n.º 2 do
+    artigo XVIII
+  method: clausula
+  article: art-xix
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

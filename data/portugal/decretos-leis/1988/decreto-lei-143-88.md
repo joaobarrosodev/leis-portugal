@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1583 - 1585
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09400/15831585.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-09-01'
+entry_into_force:
+  date: '1988-09-01'
+  rule: no primeiro dia do quinto mês seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

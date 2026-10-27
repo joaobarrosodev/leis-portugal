@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2930 - 2930
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/069b00/29302930.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-04-09'
+entry_into_force:
+  date: '2005-04-09'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: nos dias 6, 7 e 8 de Abril
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 883 - 905
   pdf_url: https://files.diariodarepublica.pt/2s/2004/01/017000000/0088300905.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-01-01'
+entry_into_force:
+  date: '2004-01-01'
+  rule: no dia 1 de Janeiro de 2004, com ressalva do disposto nos artigos seguintes
+  method: clausula
+  article: art-100
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

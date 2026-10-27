@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1898 - 1910
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15500/18981910.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-10-01'
+entry_into_force:
+  date: '1985-10-01'
+  rule: em 1 de Outubro de 1985
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

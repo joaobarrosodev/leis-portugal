@@ -25,6 +25,15 @@ publication:
   pages: 3665 - 3668
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/27800/36653668.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data das respectivas notificações
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

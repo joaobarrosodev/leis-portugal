@@ -24,6 +24,16 @@ publication:
   pages: 1326 - 1329
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/12800/13261329.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da segunda das notas pelas quais as Partes Contratantes se informarão mutuamente da sua aprovação, em conformidade
+    com as formalidades constitucionais dos dois países
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

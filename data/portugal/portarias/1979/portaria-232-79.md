@@ -24,6 +24,15 @@ publication:
   pages: 913 - 913
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11100/09130913.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

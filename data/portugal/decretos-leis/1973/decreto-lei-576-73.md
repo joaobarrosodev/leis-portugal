@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2075 - 2076
   pdf_url: https://files.diariodarepublica.pt/1s/1973/11/25600/20752076.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-12-01'
+entry_into_force:
+  date: '1973-12-01'
+  rule: a partir do dia 1 do mês seguinte ao da sua publicação no Diário do Governo
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

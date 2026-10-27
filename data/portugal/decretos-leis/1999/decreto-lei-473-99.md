@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7789 - 7796
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/260a00/77897796.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-03-01'
+entry_into_force:
+  date: '2000-03-01'
+  rule: no dia 1 de Março de 2000
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

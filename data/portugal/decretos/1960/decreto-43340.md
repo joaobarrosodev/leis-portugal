@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2555 - 2560
   pdf_url: https://files.diariodarepublica.pt/1s/1960/11/27000/25552560.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1961-01-01'
+entry_into_force:
+  date: '1961-01-01'
+  rule: em 1 de Janeiro de 1961
+  method: clausula
+  article: art-74
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

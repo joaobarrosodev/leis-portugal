@@ -24,6 +24,16 @@ publication:
   pages: 6674 - 6678
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24400/0667406678.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao termo de um período de um mês a contar da data em que dez Estados-Membros do Conselho
+    da Europa tenham manifestado o seu consentimento em ficarem vinculados ao prese
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

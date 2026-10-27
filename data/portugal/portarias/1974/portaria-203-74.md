@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 355 - 360
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/06400/03550360.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1974-06-01'
+entry_into_force:
+  date: '1974-06-01'
+  rule: a partir do dia 1 de Junho de 1974, à excepção da parte que diz respeito às taxas de utilização de parques de automóveis,
+    que entra imediatamente em vigor
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

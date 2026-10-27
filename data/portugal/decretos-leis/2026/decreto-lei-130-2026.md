@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 9 - 53
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/12300/0000900053.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-28'
+entry_into_force:
+  date: '2026-08-28'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

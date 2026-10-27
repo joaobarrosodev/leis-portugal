@@ -24,6 +24,16 @@ publication:
   pages: 350 - 354
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/020a00/03500354.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a última data na qual os Estados Contratantes se derem conhecimento recíproco por escrito, por via diplomática,
+    de que foram cumpridos os requisitos necessários previstos na sua ordem int
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

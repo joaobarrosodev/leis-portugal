@@ -23,7 +23,19 @@ publication:
   supplement: null
   pages: 27 - 31
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07900/0002700031.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-01'
+entry_into_force:
+  date: '2023-07-01'
+  rule: a partir de 1 de julho de 2023, sendo as taxas de carbono devidas relativamente a todos os voos, comerciais ou não
+    comerciais, realizados em ou após aquela data
+  method: clausula
+  article: art-3
+  effects_date: '2023-07-01'
+  effects_rule: a partir de 1 de julho de 2023, sendo as taxas de carbono devidas relativamente a todos os voos, comerciais
+    ou não comerciais, realizados em ou após aquela data
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

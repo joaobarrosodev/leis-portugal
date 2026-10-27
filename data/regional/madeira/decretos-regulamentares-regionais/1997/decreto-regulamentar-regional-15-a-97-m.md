@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3958-(2) a 3958-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/174b01/00020017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-07-31'
+entry_into_force:
+  date: '1997-07-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

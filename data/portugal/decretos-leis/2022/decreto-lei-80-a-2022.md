@@ -23,7 +23,17 @@ publication:
   supplement: 2º Suplemento
   pages: 35-(2) a 35-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22802/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-26'
+entry_into_force:
+  date: '2022-11-26'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: '2023-12-31'
+  end_rule: até 31 de dezembro de 2023, com exceção do disposto no artigo 7.º, que
 end_of_validity_date: null
 legal_status: in_force
 notes: []

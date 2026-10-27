@@ -23,6 +23,15 @@ publication:
   pages: 891 - 892
   pdf_url: https://files.diariodarepublica.pt/1s/2011/02/03700/0089100892.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a aprovação do Orçamento do Estado posterior à sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

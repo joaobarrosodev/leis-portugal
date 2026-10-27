@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2934 - 2946
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/105a00/29342946.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-06-01'
+entry_into_force:
+  date: '2003-06-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

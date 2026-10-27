@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 202 - 203
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/133000000/0020200203.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-07-15'
+entry_into_force:
+  date: '2025-07-15'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

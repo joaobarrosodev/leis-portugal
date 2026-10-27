@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6309 - 6310
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/260a00/63096310.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-11-15'
+entry_into_force:
+  date: '2000-11-15'
+  rule: no 5.º dia posterior ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 1628-(6) a 1628-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11601/00060007.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no continente no dia imediato ao da sua publicação e nas Regiões Autónomas dos Açores e da Madeira nos 30 dias após
+    a mesma data
+  method: clausula
+  article: n-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

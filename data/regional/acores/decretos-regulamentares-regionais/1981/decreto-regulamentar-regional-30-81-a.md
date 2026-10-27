@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1137 - 1138
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/11100/11371138.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-09-15'
+entry_into_force:
+  date: '1981-09-15'
+  rule: a partir de 15 de Setembro de 1981, até que, a nível nacional, seja revisto o Decreto-Lei n.º 769-A/76, de 23 de Outubro
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -29,7 +29,17 @@ publication:
   supplement: null
   pages: 1879-1888
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2024/07/17/872280440.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-07-18'
+entry_into_force:
+  date: '2024-07-18'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-5
+  effects_date: '2024-01-01'
+  effects_rule: a 01 de janeiro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

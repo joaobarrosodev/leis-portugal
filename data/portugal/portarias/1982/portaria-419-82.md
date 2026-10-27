@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1020 - 1021
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09600/10201021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-04-27'
+entry_into_force:
+  date: '1982-04-27'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-8
+  effects_date: '1982-06-30'
+  effects_rule: até 30 de Junho de 1982
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

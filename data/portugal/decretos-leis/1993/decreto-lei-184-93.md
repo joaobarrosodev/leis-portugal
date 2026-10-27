@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2755 - 2758
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/116a00/27552758.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-06-01'
+entry_into_force:
+  date: '1993-06-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação, sem prejuízo de os actuais titulares da Marca Nacional de Conformidade
+    com as Normas poderem continuar a utilizá-la, durante um período de seis meses, no
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

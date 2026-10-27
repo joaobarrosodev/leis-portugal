@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3727 - 3746
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11900/0372703746.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-06-30'
+entry_into_force:
+  date: '2008-06-30'
+  rule: sete dias após a data da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

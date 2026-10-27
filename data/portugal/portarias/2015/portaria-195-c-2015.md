@@ -24,6 +24,15 @@ publication:
   pages: 4542-(6) a 4542-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/12501/0000600011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de julho
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6372 - 6377
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/217a00/63726377.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-01-01'
+entry_into_force:
+  date: '2000-01-01'
+  rule: no dia 1 de Janeiro de 2000, salvo as normas legais de habilitação de poder regulamentar, as quais
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

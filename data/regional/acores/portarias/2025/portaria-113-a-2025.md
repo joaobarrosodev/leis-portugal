@@ -24,9 +24,25 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/10/13/940313839.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-14'
+entry_into_force:
+  date: '2025-10-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: '2025-12-31'
+  end_rule: até 31 de dezembro de 2025
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: art-4'
+    detail: até 31 de dezembro de 2025
 notes: []
 language: por
 version:

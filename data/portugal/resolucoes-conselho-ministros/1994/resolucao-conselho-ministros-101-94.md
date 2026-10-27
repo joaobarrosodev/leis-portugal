@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6200 - 6223
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/237b00/62006223.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-10-13'
+entry_into_force:
+  date: '1994-10-13'
+  rule: a partir da data da sua publicação no Diário da República, e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: até à revisão do PDM, que deverá ocorrer conforme o disposto na legislação aplicável
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

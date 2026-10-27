@@ -24,6 +24,16 @@ publication:
   pages: 6607 - 6609
   pdf_url: https://files.diariodarepublica.pt/1s/2004/11/261a00/66076609.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que as duas Partes se tiverem mutuamente comunicado pela via diplomática e completado as formalidades exigidas
+    pelas suas legislações internas
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

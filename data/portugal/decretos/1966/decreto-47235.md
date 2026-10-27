@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1635 - 1642
   pdf_url: https://files.diariodarepublica.pt/1s/1966/10/23000/16351642.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-12-02'
+entry_into_force:
+  date: '1966-12-02'
+  rule: 60 dias depois da sua publicação no Diário do Governo
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

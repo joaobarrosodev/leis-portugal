@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3218 - 3241
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/18100/0321803241.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-21'
+entry_into_force:
+  date: '2016-09-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

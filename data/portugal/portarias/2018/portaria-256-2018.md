@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4710 - 4711
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17400/0471004711.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-11'
+entry_into_force:
+  date: '2018-09-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

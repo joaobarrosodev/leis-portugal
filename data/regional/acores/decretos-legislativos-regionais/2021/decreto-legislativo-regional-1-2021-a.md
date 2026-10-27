@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6 - 6
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03900/0000600006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-26'
+entry_into_force:
+  date: '2021-02-26'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: à data de 1 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5069 - 5069
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/29500/50695069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-12-24'
+entry_into_force:
+  date: '1988-12-24'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

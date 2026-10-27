@@ -23,6 +23,15 @@ publication:
   pages: 2 - 59
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05500/0000200059.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia do mês seguinte ao da sua publicação sem prejuízo do número seguinte
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

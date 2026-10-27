@@ -24,6 +24,16 @@ publication:
   pages: 1323 - 1346
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/04000/0132301346.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data de recepção da última notificação, por via diplomática, de que foram cumpridos
+    todos os requisitos de direito interno exigíveis, para o efeito, em ambos os Estado
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: pelo período de um ano e é tacitamente renovada todos os anos por igual período
 end_of_validity_date: null
 legal_status: in_force
 notes: []

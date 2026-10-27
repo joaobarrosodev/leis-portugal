@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5817 - 5818
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15700/0581705818.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-14'
+entry_into_force:
+  date: '2015-08-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Portaria n.º 60-A/2015, de 2 de março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

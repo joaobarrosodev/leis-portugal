@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/238000000/4869248694.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:67507511:por#art-19'
+    detail: a) O [Regulamento n.º 633/2011], publicado no DR, 2.ª série n.º 238, de 14 de dezembro
 notes: []
 language: por
 version:

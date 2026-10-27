@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1956/04/08200/04170417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:282124:por#n-2'
+    detail: 2.º Fica revogada a [Portaria n.º 15833], de 23 de Abril de 1956.
 notes: []
 language: por
 version:

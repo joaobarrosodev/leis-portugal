@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1258 - 1258
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/07000/12581258.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-03-29'
+entry_into_force:
+  date: '1988-03-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1987-10-01'
+  effects_rule: desde 1 de Outubro de 1987
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

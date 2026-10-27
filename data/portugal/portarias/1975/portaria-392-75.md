@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 878 - 883
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14500/08780883.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-07-01'
+entry_into_force:
+  date: '1975-07-01'
+  rule: em 1 de Julho de 1975
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

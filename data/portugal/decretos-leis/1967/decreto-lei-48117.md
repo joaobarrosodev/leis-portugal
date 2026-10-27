@@ -24,6 +24,15 @@ publication:
   pages: 2304 - 2318
   pdf_url: https://files.diariodarepublica.pt/1s/1967/12/29000/23042318.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia primeiro do mês seguinte àquele em cujo curso tenham sido trocados os instrumentos de ratificação
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

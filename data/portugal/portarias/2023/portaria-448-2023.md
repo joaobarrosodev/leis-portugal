@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 16 - 17
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24600/0001600017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-23'
+entry_into_force:
+  date: '2023-12-23'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2024-01-01'
+  effects_rule: a partir de 1 de janeiro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

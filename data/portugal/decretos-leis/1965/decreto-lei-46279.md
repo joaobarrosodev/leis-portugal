@@ -24,6 +24,15 @@ publication:
   pages: 456 - 460
   pdf_url: https://files.diariodarepublica.pt/1s/1965/04/08400/04560460.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: dez dias após a troca dos instrumentos de ratificação, que terá lugar em Lisboa
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

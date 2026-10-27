@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/18700/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-29'
+entry_into_force:
+  date: '2020-09-29'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2020-12-01'
+  effects_rule: a 1 de dezembro de 2020, exceto no que concerne ao limite majorado previsto na alínea b) da verba 2.8 da Lista
+    II anexa ao Código do IVA, na redação introduzida pelo presente decreto-lei, o qual apena
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6098 - 6103
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17400/0609806103.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-09'
+entry_into_force:
+  date: '2009-09-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

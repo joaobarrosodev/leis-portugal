@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 10970 - 10971
   pdf_url: https://files.diariodarepublica.pt/2s/2007/04/082000000/1097010971.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-04-27'
+entry_into_force:
+  date: '2007-04-27'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

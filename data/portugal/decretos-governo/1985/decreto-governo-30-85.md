@@ -24,6 +24,15 @@ publication:
   pages: 2527 - 2542
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/18400/25272542.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'quando sete Estados tenham ratificado esses instrumentos e a eles tenham aderido, desde que:'
+  method: clausula
+  article: art-xviii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

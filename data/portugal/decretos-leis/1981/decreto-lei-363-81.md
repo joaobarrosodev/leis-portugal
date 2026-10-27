@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3414-(40) a 3414-(42)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30004/00400042.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-01-30'
+entry_into_force:
+  date: '1982-01-30'
+  rule: 30 dias após a publicação da respectiva regulamentação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

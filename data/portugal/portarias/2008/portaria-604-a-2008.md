@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4312-(2) a 4312-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13101/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-24'
+entry_into_force:
+  date: '2008-07-24'
+  rule: no prazo de 15 dias a contar da data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

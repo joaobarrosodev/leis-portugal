@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3332-3338
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/09/11/221521451.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-12'
+entry_into_force:
+  date: '2023-09-12'
+  rule: no dia seguinte ao da sua publicação com produção de efeitos a 1 de setembro de 2023
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

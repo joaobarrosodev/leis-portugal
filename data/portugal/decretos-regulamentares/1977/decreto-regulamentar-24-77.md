@@ -23,6 +23,15 @@ publication:
   pages: 665 - 669
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/07700/06650669.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: conjuntamente com a lei dos incentivos fiscais referida na alínea m) do n.º 1 do artigo 4.º
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1844 - 1846
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14300/18441846.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-12-21'
+entry_into_force:
+  date: '1982-12-21'
+  rule: 180 dias após a sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

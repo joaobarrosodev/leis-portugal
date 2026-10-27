@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 40 - 59
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/13400/0004000059.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-17'
+entry_into_force:
+  date: '2019-07-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: a partir da campanha 2020/2021, com exceção do n.º 11 do artigo 16.º, que é aplicável às campanhas de 2017/2018
+    e 2018/2019
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

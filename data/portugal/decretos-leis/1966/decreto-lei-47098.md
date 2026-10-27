@@ -24,6 +24,16 @@ publication:
   pages: 1259 - 1265
   pdf_url: https://files.diariodarepublica.pt/1s/1966/07/16300/12591265.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após a assinatura sem reserva de ratificação ou a entrega do instrumento de ratificação ou de adesão por
+    parte de cinco dos Estados indicados no parágrafo 1 do artigo 12
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

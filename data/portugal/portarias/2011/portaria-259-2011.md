@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 4022 - 4023
   pdf_url: https://files.diariodarepublica.pt/1s/2011/07/13500/0402204023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-16'
+entry_into_force:
+  date: '2011-07-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2011-07-16'
+  effects_rule: a partir de 16 de Julho de 2011
+  end_date: null
+  end_rule: pelo período de duração das actividades de prospecção, até um máximo de 60 dias, contados a partir de 16 de Julho
+    de 2011
 end_of_validity_date: null
 legal_status: in_force
 notes: []

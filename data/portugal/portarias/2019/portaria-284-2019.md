@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 52 - 63
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/16700/0005200063.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-02'
+entry_into_force:
+  date: '2020-03-02'
+  rule: seis meses após a data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

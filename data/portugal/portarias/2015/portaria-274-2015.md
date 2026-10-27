@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 7264 - 7282
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17500/0726407282.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-09-20'
+entry_into_force:
+  date: '2015-09-20'
+  rule: 12 dias após a sua publicação
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

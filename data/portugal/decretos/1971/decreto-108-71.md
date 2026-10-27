@@ -24,6 +24,16 @@ publication:
   pages: 421 - 421
   pdf_url: https://files.diariodarepublica.pt/1s/1971/03/07400/04210421.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data que vier a ser estabelecida em portaria do governador da província, que fixará também as datas em que deverão
+    realizar-se as eleições dos vogais da Câmara Municipal de Santa Cruz para servirem
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

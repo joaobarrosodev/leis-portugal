@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 86
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02800/0000200086.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-09'
+entry_into_force:
+  date: '2023-02-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-160
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Lei do Orçamento do Estado, salvo se disposto em contrário nos artigos antecedentes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

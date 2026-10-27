@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: null
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2025/05/12/917800236.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-13'
+entry_into_force:
+  date: '2025-05-13'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

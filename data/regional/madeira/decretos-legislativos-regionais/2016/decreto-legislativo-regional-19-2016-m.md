@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1348 - 1351
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/07700/0134801351.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-19'
+entry_into_force:
+  date: '2016-06-19'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

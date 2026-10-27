@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7398 - 7398
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/050000000/0739807398.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-03-13'
+entry_into_force:
+  date: '2018-03-13'
+  rule: no dia seguinte à sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2018-01-01'
+  effects_rule: a partir do dia 1 de janeiro de 2018
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

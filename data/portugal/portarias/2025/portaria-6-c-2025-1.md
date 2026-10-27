@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00301/0000600010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-07'
+entry_into_force:
+  date: '2025-01-07'
+  rule: no dia 7 de janeiro de 2025
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

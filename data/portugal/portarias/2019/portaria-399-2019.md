@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 7
   pdf_url: https://files.diariodarepublica.pt/1s/2019/12/23100/0000300007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-12-03'
+entry_into_force:
+  date: '2019-12-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: para as apostas registadas para participarem a partir do sorteio de 4 de fevereiro de 2020 inclusive
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

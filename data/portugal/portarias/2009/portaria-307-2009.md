@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1871 - 1872
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/05900/0187101872.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-31'
+entry_into_force:
+  date: '2009-03-31'
+  rule: no dia 31 de Março de 2009
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

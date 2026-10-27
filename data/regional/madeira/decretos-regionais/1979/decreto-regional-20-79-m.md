@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2388 - 2390
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21600/23882390.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1979-09-19'
+entry_into_force:
+  date: '1979-09-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes:

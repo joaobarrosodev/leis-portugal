@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 409 - 412
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/03600/04090412.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-02-13'
+entry_into_force:
+  date: '1981-02-13'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-30
+  effects_date: '1981-01-09'
+  effects_rule: a partir de 9 de Janeiro de 1981
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

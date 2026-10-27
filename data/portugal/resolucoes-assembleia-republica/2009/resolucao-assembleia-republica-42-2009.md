@@ -24,6 +24,15 @@ publication:
   pages: 3781 - 4058
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data do depósito do último instrumento de ratificação ou de aprovação
+  method: clausula
+  article: art-134
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12400/19751976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:667688:por#art-13'
+    detail: É revogado o [Decreto Regulamentar Regional n.º 23/83/A], de 30 de Maio.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:667688:por'
+    detail: "Revogado pelo DRR.23/2003/A.17.06.2003.PG-RAA, DR.IS-B [157] de 10.07.2003\0\0"
 notes: []
 language: por
 version:

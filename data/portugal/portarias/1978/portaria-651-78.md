@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2349 - 2350
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/25800/23492350.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1978-11-10'
+entry_into_force:
+  date: '1978-11-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

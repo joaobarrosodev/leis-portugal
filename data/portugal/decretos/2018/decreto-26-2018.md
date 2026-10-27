@@ -24,6 +24,16 @@ publication:
   pages: 5758 - 5777
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: doze meses após a data na qual não menos que vinte cinco Estados, cujas frotas mercantes na totalidade representem
+    no mínimo 25 por cento da arqueação bruta da frota mercante mundial, ou assinaram a C
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

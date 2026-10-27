@@ -23,6 +23,15 @@ publication:
   pages: 378 - 378
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/04000/03780378.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da posse da Comissão Instaladora
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,9 +24,29 @@ publication:
   supplement: null
   pages: 6-(25) a 6-(48)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/04101/0002500048.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-03-04'
+entry_into_force:
+  date: '2024-03-04'
+  rule: a 4 de março de 2024, data da entrada em vigor do Decreto-Lei n.º 10/2024, de 8 de janeiro
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1153698591:por#art-4'
+    detail: São revogadas as Portarias n.º [71-A/2024] e n.º [71-B/2024], de 27 de fevereiro.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1153698591:por'
+    detail: Revogada a partir de 03 de agosto de 2026, pelo(a) Portaria n.º 320/2026/1 - Diário da República n.º 147/2026,
+      Série I de 2026-07-31, nos termos do seu artigo 4.º
 notes: []
 language: por
 version:

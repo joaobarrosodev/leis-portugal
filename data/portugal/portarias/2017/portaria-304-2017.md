@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5674 - 5674
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19900/0567405674.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-10-17'
+entry_into_force:
+  date: '2017-10-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

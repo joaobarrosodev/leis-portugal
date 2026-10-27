@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6132 - 6132
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/24300/0613206132.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-12-22'
+entry_into_force:
+  date: '2014-12-22'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2014-11-19'
+  effects_rule: a partir de 19 de novembro de 2014, considerando-se ratificados todos os atos que tenham sido entretanto praticados
+    e cuja regularidade dependa da sua conformidade com o presente diploma
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

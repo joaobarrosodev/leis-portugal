@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4217 - 4218
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/12400/0421704218.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-07-01'
+entry_into_force:
+  date: '2009-07-01'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2009-06-30'
+  effects_rule: desde 30 de Junho de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

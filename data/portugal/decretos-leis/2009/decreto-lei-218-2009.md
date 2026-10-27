@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6038 - 6038
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17300/0603806038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-08'
+entry_into_force:
+  date: '2009-09-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data de entrada em vigor do Decreto-Lei n.º 74/2009, de 31 de Março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 73 - 77
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/006a00/00730077.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-01-09'
+entry_into_force:
+  date: '1999-01-09'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

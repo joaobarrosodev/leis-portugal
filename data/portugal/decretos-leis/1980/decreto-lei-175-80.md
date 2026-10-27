@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1259 - 1267
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12400/12591267.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-07-28'
+entry_into_force:
+  date: '1980-07-28'
+  rule: sessenta dias após a sua publicação
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

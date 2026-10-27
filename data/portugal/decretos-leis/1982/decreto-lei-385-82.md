@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2844 - 2897
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21500/28442897.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-10-01'
+entry_into_force:
+  date: '1982-10-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação, ressalvando-se os efeitos produzidos na vigência do Decreto-Lei
+    n.º 450/78, de 30 de Dezembro, e da Lei n.º 35/80, de 29 de Julho
+  method: clausula
+  article: art-155
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

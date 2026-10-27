@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6243 - 6243
   pdf_url: https://files.diariodarepublica.pt/1s/2008/09/17200/0624306243.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-09-15'
+entry_into_force:
+  date: '2008-09-15'
+  rule: no dia 15 de Setembro de 2008
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 9 - 10
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/12600/0000900010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-02'
+entry_into_force:
+  date: '2020-07-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: para a candidatura à matrícula e inscrição no ensino superior no ano letivo de 2020-2021, sem prejuízo do
+    disposto no n.º 5 do artigo anterior
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

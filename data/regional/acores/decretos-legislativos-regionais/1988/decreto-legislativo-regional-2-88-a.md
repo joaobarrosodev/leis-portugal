@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 407 - 411
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03000/04070411.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1988-02-05'
+entry_into_force:
+  date: '1988-02-05'
+  rule: na data da sua publicação, produzindo, porém, efeitos, quanto à nova designação, SATA Air Açores, a partir de 17 de
+    Março de 1987
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 4522 - 4531
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26100/45224531.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando as Partes Contratantes se notificarem mutuamente de que foram cumpridos os respectivos requisitos internos
+  method: clausula
+  article: art-ix
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 437 - 437
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/013b00/04370437.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-01-24'
+entry_into_force:
+  date: '2005-01-24'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2004-11-24'
+  effects_rule: a partir de 24 de Novembro de 2004
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

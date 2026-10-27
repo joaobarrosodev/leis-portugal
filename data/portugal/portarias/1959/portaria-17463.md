@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/12/28700/19451946.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:238596:por#n-7'
+    detail: 7.º Fica revogada a [Portaria n.º 17463], publicada no Diário do Governo n.º 287, 1.ª série, de 15 de Dezembro
+      de 1959.
 notes: []
 language: por
 version:

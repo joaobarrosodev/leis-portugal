@@ -22,7 +22,17 @@ publication:
   supplement: 3º Suplemento
   pages: 2810-(19) a 2810-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/22503/00190024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-10-01'
+entry_into_force:
+  date: '1986-10-01'
+  rule: no dia 1 de Outubro de 1986
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

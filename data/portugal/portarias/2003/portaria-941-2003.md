@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5870 - 5871
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/205b00/58705871.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-15'
+entry_into_force:
+  date: '2003-09-15'
+  rule: no dia 15 de Setembro de 2003
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

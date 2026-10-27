@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14 - 15
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24800/0001400015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-28'
+entry_into_force:
+  date: '2022-12-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2023-01-01'
+  effects_rule: a partir de 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

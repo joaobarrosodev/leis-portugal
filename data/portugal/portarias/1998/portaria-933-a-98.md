@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5622-(2) a 5622-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/249b01/00020002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-10-29'
+entry_into_force:
+  date: '1998-10-29'
+  rule: em 29 de Outubro de 1998
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

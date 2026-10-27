@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/12600/0000400008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-28'
+entry_into_force:
+  date: '2020-12-28'
+  rule: no prazo de 180 dias a contar da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: relativamente aos pedidos de autorização e comunicação prévia submetidos após a sua entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: 2º Suplemento
   pages: 6584-(88) a 6584-(135)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23602/0008800135.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-01'
+entry_into_force:
+  date: '2018-01-01'
+  rule: no dia 1 de janeiro de 2018
+  method: clausula
+  article: art-104
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

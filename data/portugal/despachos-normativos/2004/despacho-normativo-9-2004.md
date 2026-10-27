@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1093 - 1095
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/051b00/10931095.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-03-02'
+entry_into_force:
+  date: '2004-03-02'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 6758 - 6766
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando as Partes se tenham notificado mutuamente, por troca de notas, de que foram cumpridos os respetivos procedimentos
+    formais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

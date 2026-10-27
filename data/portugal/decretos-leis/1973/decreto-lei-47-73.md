@@ -23,6 +23,16 @@ publication:
   pages: 215 - 218
   pdf_url: https://files.diariodarepublica.pt/1s/1973/02/03600/02150218.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista
+    a que se refere o n.º 1 do artigo 20.º
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

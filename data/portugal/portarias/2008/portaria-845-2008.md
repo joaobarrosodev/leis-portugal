@@ -23,6 +23,15 @@ publication:
   pages: 5464 - 5489
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15500/0546405489.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte ao da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

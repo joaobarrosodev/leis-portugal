@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2160-(162) a 2160-(164)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30009/01620164.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1975-12-31'
+entry_into_force:
+  date: '1975-12-31'
+  rule: na data da sua publicação, produzindo, contudo, os seus efeitos a partir de 1 de Outubro de 1975
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

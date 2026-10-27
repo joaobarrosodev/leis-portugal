@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3041 - 3041
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/082b00/30413041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-05-02'
+entry_into_force:
+  date: '2006-05-02'
+  rule: no dia 2 de Maio de 2006
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

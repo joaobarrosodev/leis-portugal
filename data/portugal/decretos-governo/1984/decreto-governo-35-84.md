@@ -24,6 +24,16 @@ publication:
   pages: 2105 - 2109
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/16000/21052109.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca de notas confirmando que o mesmo foi aprovado em conformidade com os requisitos constitucionais de
+    ambos os países
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1532 - 1534
   pdf_url: https://files.diariodarepublica.pt/1s/1971/10/24000/15321534.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1972-04-09'
+entry_into_force:
+  date: '1972-04-09'
+  rule: cento e oitenta dias após a sua publicação no Diário do Governo e só será aplicável às obras postas posteriormente
+    a concurso
+  method: clausula
+  article: art-226
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

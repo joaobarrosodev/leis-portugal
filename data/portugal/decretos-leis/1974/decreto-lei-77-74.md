@@ -23,6 +23,16 @@ publication:
   pages: 301 - 301
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/05200/03010301.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos prazos fixados para a vigência das leis, se outros não se prescreverem, e poderão cominar sanções de multa até
+    5000$00, acrescida de um terço por cada reincidência, bem como a de encerramento de e
+  method: clausula
+  article: art-408
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

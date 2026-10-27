@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 2042-(2) a 2042-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/12501/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-07-01'
+entry_into_force:
+  date: '2016-07-01'
+  rule: no dia 1 de julho de 2016
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

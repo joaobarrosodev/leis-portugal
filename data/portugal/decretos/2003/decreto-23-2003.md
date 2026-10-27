@@ -24,6 +24,16 @@ publication:
   pages: 3100 - 3104
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 10.º dia após a data de recepção da última nota verbal pela qual uma das Partes Contratantes informa a outra do
+    cumprimento das formalidades exigidas pela respectiva ordem jurídica interna
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

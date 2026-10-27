@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1223 - 1223
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/034b00/12231223.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-02-18'
+entry_into_force:
+  date: '2005-02-18'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: '2006-12-31'
+  end_rule: até 31 de Dezembro de 2006
 end_of_validity_date: null
 legal_status: in_force
 notes: []

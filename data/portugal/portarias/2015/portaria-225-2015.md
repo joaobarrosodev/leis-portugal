@@ -26,7 +26,17 @@ publication:
   supplement: null
   pages: 5173 - 5176
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14700/0517305176.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-07-31'
+entry_into_force:
+  date: '2015-07-31'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: '2015-01-01'
+  effects_rule: a 1 de janeiro de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

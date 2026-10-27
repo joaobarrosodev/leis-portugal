@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7234 - 7234
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/303b00/72347234.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-03-15'
+entry_into_force:
+  date: '1994-03-15'
+  rule: em 15 de Março de 1994
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1489 - 1489
   pdf_url: https://files.diariodarepublica.pt/1s/1966/09/21400/14891489.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1966-10-01'
+entry_into_force:
+  date: '1966-10-01'
+  rule: no dia 1 de Outubro de 1966
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

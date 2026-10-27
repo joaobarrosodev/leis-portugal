@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1303 - 1303
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/04100/0130301303.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-13'
+entry_into_force:
+  date: '2008-03-13'
+  rule: no 15.º dia após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

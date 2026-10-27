@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6943 - 6947
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/290a00/69436947.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-06-14'
+entry_into_force:
+  date: '1994-06-14'
+  rule: seis meses após a data da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

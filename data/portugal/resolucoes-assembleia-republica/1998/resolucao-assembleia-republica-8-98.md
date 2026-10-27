@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1144 - 1155
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/065a00/11441155.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-03-18'
+entry_into_force:
+  date: '1998-03-18'
+  rule: no dia da sua publicação no Diário da Assembleia da República, produzindo as transições nela previstas efeitos desde
+    o dia 1 de Junho de 1996, salvaguardado o expressamente disposto nos artigos anteri
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2395 - 2402
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/086b00/23952402.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-05-11'
+entry_into_force:
+  date: '2003-05-11'
+  rule: no prazo de 30 dias a contar da data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

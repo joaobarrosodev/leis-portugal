@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 1746 - 1746
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/16200/17461746.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-10-15'
+entry_into_force:
+  date: '1981-10-15'
+  rule: noventa dias após a sua publicação, cessando funções na data da assembleia geral de escolha de novos corpos gerentes
+    os elementos em exercício de nomeação governamental
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

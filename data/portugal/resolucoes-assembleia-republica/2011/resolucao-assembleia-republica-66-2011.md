@@ -24,6 +24,15 @@ publication:
   pages: 1955 - 1969
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/06600/0195501969.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses após a data em que 28 governos se tenham tornado partes, em conformidade com o n.º 2 do artigo xviii
+  method: clausula
+  article: art-xix
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

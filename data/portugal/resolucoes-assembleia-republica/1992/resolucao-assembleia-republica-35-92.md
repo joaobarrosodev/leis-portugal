@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5838-(2) a 5838-(349)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1993-01-01'
+entry_into_force:
+  date: '1993-01-01'
+  rule: em 1 de Janeiro de 1993, sob reserva de todas as Partes Contratantes terem depositado os seus instrumentos de ratificação
+    ou aprovação antes dessa data
+  method: clausula
+  article: art-129
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

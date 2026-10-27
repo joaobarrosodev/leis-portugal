@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2160-(19) a 2160-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30002/00190020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-01-01'
+entry_into_force:
+  date: '1976-01-01'
+  rule: em 1 de Janeiro de 1976, salvo quanto aos n.os 3 a 6 e 10, que
+  method: clausula
+  article: null
+  effects_date: '1975-06-01'
+  effects_rule: a partir de 1 de Junho de 1975
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

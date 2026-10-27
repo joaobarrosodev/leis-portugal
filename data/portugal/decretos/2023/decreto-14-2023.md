@@ -25,6 +25,16 @@ publication:
   pages: 24 - 30
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13600/0002400030.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no prazo de trinta (30) dias após a receção da última notificação, por escrito e por via diplomática, declarando
+    que foram cumpridos todos os requisitos internos necessários de ambas as Partes para a '
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

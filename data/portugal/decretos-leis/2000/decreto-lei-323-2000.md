@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7375 - 7377
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/291a00/73757377.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-12-20'
+entry_into_force:
+  date: '2000-12-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

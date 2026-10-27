@@ -24,6 +24,16 @@ publication:
   pages: 3064 - 3066
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/124a00/30643066.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao da última notificação do cumprimento das formalidades exigidas para o efeito pela ordem
+    jurídica de cada uma das Partes Contratantes
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: na data em que o regulamento entrou em vigor nas relações entre Portugal e a Áustria
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

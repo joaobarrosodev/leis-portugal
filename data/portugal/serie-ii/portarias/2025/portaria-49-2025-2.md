@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 63 - 63
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/013000000/0006300063.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-21'
+entry_into_force:
+  date: '2025-01-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: '2024-10-01'
+  effects_rule: a 01 de outubro de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

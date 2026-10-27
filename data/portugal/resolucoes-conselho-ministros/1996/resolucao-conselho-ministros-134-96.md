@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2709 - 2725
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/198b00/27092725.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1996-08-27'
+entry_into_force:
+  date: '1996-08-27'
+  rule: no dia da sua publicacão no Diário da República, adquirindo plena eficácia a partir dessa data
+  method: clausula
+  article: art-64
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

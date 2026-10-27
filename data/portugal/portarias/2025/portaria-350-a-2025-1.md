@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 19
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19501/0000200019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-20'
+entry_into_force:
+  date: '2025-10-20'
+  rule: em 20 de outubro de 2025
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

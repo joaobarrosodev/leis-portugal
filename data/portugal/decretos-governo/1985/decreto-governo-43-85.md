@@ -24,6 +24,15 @@ publication:
   pages: 3578 - 3594
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês após entrega dos instrumentos de ratificação de 7 signatários
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

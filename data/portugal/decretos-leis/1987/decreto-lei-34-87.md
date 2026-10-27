@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 269 - 272
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01600/02690272.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-01-01'
+entry_into_force:
+  date: '1987-01-01'
+  rule: no dia 1 de Janeiro de 1987, devendo até esta data ser publicadas as portarias previstas no n.º 3 e na alínea a) do
+    n.º 4 do artigo 1.º
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

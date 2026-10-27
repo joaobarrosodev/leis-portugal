@@ -24,6 +24,16 @@ publication:
   pages: 3574 - 3580
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24600/35743580.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: três meses depois da data do depósito do terceiro instrumento de ratificação, aceitação ou adesão, mas unicamente
+    respeitante aos Estados que tiverem depositado os seus instrumentos respectivos de rat
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

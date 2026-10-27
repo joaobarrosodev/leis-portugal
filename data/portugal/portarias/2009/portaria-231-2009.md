@@ -23,6 +23,15 @@ publication:
   pages: 1408 - 1410
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/04200/0140801410.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do Plano de Urbanização da Zona Industrial e Logística de Sines
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

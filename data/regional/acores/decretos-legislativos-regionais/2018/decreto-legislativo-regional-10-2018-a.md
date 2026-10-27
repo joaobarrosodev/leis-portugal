@@ -23,6 +23,15 @@ publication:
   pages: 4370 - 4373
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/16500/0437004373.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 30 dias, contados da data da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4008-(18) a 4008-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21501/0001800019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-11-10'
+entry_into_force:
+  date: '2016-11-10'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: a partir da data de entrada em vigor da Portaria n.º 172/2016, de 20 de junho
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -26,6 +26,15 @@ publication:
   pages: '2409'
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2006/10/19/31359401.rtf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua
+  method: clausula
+  article: n-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

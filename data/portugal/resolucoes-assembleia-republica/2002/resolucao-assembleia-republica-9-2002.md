@@ -24,6 +24,16 @@ publication:
   pages: 1548 - 1553
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a recepção do último instrumento de notificação, de acordo com os procedimentos constitucionais de cada
+    país sobre a entrada em vigor de acordos internacionais
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 10 - 25
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-24'
+entry_into_force:
+  date: '2020-12-24'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-16
+  effects_date: '2021-01-01'
+  effects_rule: a partir do dia 1 de janeiro de 2021 se, nessa data, não tiver sido celebrado um acordo entre a União Europeia
+    e o Reino Unido, a Grã-Bretanha e a Irlanda do Norte, ou uma decisão de equivalência, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

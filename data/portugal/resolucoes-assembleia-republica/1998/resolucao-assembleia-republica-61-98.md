@@ -24,6 +24,16 @@ publication:
   pages: 6431 - 6455
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/272a00/64316455.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data em que as Partes tenham notificado o Secretário-Geral do Conselho da União Europeia
+    da conclusão dos trâmites referidos no parágrafo anterior
+  method: clausula
+  article: art-99
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

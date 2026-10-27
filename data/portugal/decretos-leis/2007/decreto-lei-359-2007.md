@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7970 - 7972
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21100/0797007972.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-11-03'
+entry_into_force:
+  date: '2007-11-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

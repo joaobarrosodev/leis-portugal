@@ -24,6 +24,16 @@ publication:
   pages: 4766 - 4775
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17700/0476604775.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias depois de oito Partes de cada região, incluindo a República Federal da Alemanha e a UE, terem depositado
+    os respetivos instrumentos de ratificação ou adesão junto do depositário
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1236 - 1236
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/08200/12361236.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1983-05-01'
+entry_into_force:
+  date: '1983-05-01'
+  rule: no dia 1 de Maio de 1983
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

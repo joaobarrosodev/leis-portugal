@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1584 - 1586
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/08600/0158401586.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-05'
+entry_into_force:
+  date: '2010-05-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

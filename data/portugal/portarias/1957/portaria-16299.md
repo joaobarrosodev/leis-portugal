@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1957/05/11700/05330534.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:277341:por#n-15'
+    detail: 15.º Fica revogada a [Portaria n.º 16299], de 21 de Maio de 1957.
 notes: []
 language: por
 version:

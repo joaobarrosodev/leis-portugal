@@ -24,6 +24,15 @@ publication:
   pages: 2407 - 2408
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/106b00/24072408.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos da lei
+  method: clausula
+  article: n-1
+  effects_date: '1993-01-01'
+  effects_rule: a partir de 1 de Janeiro de 1993 as disposições constantes dos n.os 1.º, 2.º, 3.º, 4.º, 5.º e 7.º
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 3989 - 3990
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/166b00/39893990.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

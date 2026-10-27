@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1950/01/01500/00330035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:264491:por#art-17'
+    detail: Ficam revogados o artigo 12.º do [Decreto n.º 35457], de 19 de Janeiro de 1946, o [Decreto n.º 37739], de 20 de
+      Janeiro de 1950, e o n.º 4.º do artigo 13.º do [Decreto-Lei n.º 41286], de 23 de Setembro de 1957.
 notes: []
 language: por
 version:

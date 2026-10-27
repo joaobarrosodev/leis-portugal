@@ -22,7 +22,17 @@ publication:
   supplement: 1º Suplemento
   pages: 45-(2) a 45-(99)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19201/0000200099.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-05'
+entry_into_force:
+  date: '2022-10-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

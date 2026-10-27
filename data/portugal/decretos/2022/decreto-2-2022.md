@@ -24,6 +24,16 @@ publication:
   pages: 3 - 22
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13500/0000300022.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia a contar da data de receção da última notificação, feita por escrito e por via diplomática, de que foram
+    cumpridos todos os procedimentos exigidos pelo Direito interno de cada uma das Part
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

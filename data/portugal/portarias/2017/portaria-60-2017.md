@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 681 - 681
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/02700/0068100681.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-03-20'
+entry_into_force:
+  date: '2017-03-20'
+  rule: no dia 20 de março de 2017
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

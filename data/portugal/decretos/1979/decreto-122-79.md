@@ -24,6 +24,16 @@ publication:
   pages: 2888 - 2893
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26200/28882893.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: numa data fixada por troca de notas diplomáticas referindo a sua aprovação em conformidade com a legislação nacional
+    de cada uma das Partes Contratantes
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5265 - 5275
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/233a00/52655275.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-01-01'
+entry_into_force:
+  date: '1992-01-01'
+  rule: em 1 de Janeiro de 1992
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

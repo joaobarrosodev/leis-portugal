@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2345 - 2346
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13700/23452346.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-06-22'
+entry_into_force:
+  date: '1987-06-22'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: '1987-12-31'
+  end_rule: até 31 de Dezembro de 1987
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5312 - 5336
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/188a00/53125336.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1999-09-12'
+entry_into_force:
+  date: '1999-09-12'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

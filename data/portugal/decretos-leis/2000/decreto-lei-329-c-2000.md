@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7444-(10) a 7444-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/294a01/00100015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-01-21'
+entry_into_force:
+  date: '2001-01-21'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

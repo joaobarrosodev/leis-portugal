@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4544-4545
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2021/09/20/171674424.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-09-20'
+entry_into_force:
+  date: '2021-09-20'
+  rule: no dia da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

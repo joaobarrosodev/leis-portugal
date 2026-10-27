@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 3237 - 3242
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-11-01'
+entry_into_force:
+  date: '2004-11-01'
+  rule: a 1 de Novembro de 2004, data a partir da qual se torna obrigatório o envio da informação nos termos definidos no
+    presente despacho, devendo até essa data manter-se o envio de informação nos termos ac
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

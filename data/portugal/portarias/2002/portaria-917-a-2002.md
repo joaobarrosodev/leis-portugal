@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5602-(2) a 5602-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/175b01/00020009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-08-01'
+entry_into_force:
+  date: '2002-08-01'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

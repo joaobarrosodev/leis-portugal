@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2877 - 2879
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/09800/0287702879.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-05-25'
+entry_into_force:
+  date: '2011-05-25'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2011-05-13'
+  effects_rule: a partir do dia 13 de Maio de 2011
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

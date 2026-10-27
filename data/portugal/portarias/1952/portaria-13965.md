@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1952/05/10300/05630564.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:675825:por#texto'
+    detail: Fica revogada a [Portaria n.º 13965], de 10 de Maio de 1952, alterada pelas Portarias n.os 19965, de 24 de Julho
+      de 1963, e 30/70, de 14 de Janeiro, e a [Portaria n.º 16905], de 25 de Outubro de 1958.
 notes: []
 language: por
 version:

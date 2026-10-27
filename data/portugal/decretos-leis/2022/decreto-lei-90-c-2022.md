@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 74-(4) a 74-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25104/0000400024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-31'
+entry_into_force:
+  date: '2022-12-31'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: '2023-01-01'
+  effects_rule: a 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

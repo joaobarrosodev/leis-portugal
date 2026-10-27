@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5330 - 5330
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/20300/0533005330.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-10-31'
+entry_into_force:
+  date: '2014-10-31'
+  rule: 10 dias após a respetiva publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

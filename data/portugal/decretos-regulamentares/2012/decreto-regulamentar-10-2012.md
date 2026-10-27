@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 321 - 326
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/01400/0032100326.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-02-01'
+entry_into_force:
+  date: '2012-02-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

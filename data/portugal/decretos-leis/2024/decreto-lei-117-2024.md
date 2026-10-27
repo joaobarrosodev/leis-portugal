@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 9 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25200/0000900016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-29'
+entry_into_force:
+  date: '2025-01-29'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2024-12-31'
+  effects_rule: a 31 de dezembro de 2024
+  end_date: null
+  end_rule: durante quatro anos contados a partir da data da respetiva produção de efeitos, sem prejuízo do disposto no número
+    seguinte
 end_of_validity_date: null
 legal_status: in_force
 notes: []

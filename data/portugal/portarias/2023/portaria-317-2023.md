@@ -25,6 +25,15 @@ publication:
   pages: 273 - 274
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20500/0027300274.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação e
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: à data de início das candidaturas do Plano Nacional de Apoio do Setor Apícola (PNASA) do ano de 2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

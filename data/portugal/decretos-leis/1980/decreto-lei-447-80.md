@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3136 - 3138
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23100/31363138.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1980-11-05'
+entry_into_force:
+  date: '1980-11-05'
+  rule: no prazo de trinta dias após a sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

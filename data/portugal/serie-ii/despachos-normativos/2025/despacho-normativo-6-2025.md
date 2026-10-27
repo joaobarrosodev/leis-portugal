@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 54 - 85
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/075000000/0005400085.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-04-17'
+entry_into_force:
+  date: '2025-04-17'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

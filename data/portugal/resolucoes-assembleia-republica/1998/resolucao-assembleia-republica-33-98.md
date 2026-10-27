@@ -24,6 +24,16 @@ publication:
   pages: 2764 - 2771
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/139a00/27642771.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que pelo menos três Estados o tenham assinado e enviado aos outros Estados uma notificação em como as formalidades
+    exigidas pela sua legislação nacional foram cumpridas
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 102 - 104
   pdf_url: https://files.diariodarepublica.pt/1s/1965/01/02000/01020104.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1965-04-25'
+entry_into_force:
+  date: '1965-04-25'
+  rule: 90 dias após a sua publicação
+  method: clausula
+  article: n-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

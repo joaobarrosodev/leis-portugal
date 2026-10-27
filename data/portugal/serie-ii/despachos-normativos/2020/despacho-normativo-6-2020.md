@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 143 - 145
   pdf_url: https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-06-30'
+entry_into_force:
+  date: '2020-06-30'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: '2020-01-01'
+  effects_rule: a 1 de janeiro de 2020, após entrada em vigor do regulamento da Comissão Europeia que estabelece os limites
+    máximos orçamentais aplicáveis em 2020 a determinados regimes de apoio direto previstos no R
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

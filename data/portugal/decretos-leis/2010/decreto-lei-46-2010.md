@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1617 - 1618
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/08900/0161701618.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-08'
+entry_into_force:
+  date: '2010-05-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: '2009-12-01'
+  effects_rule: desde 1 de Dezembro de 2009
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

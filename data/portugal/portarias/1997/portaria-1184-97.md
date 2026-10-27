@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6289 - 6289
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/269b00/62896289.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1997-11-25'
+entry_into_force:
+  date: '1997-11-25'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1997-04-11'
+  effects_rule: a partir de 11 de Abril de 1997
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

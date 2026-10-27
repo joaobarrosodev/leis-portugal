@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 639 - 640
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02800/0063900640.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-03-01'
+entry_into_force:
+  date: '2012-03-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação, salvo no que depender da aprovação de alterações aos estatutos da
+    UC, a implementar no prazo de 60 dias, para conformar a plena transferência da missão
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

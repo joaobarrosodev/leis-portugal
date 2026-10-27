@@ -24,6 +24,16 @@ publication:
   pages: 1307 - 1310
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/04000/0130701310.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do 2.º mês seguinte à data de recepção da última notificação, por via diplomática, de que foram cumpridos
+    todos os formalismos constitucionais e legais exigíveis, para o efeito, em ambos os
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

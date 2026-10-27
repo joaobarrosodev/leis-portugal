@@ -23,6 +23,15 @@ publication:
   pages: 2539 - 2541
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22500/25392541.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com o Decreto-Lei n.º 206/79, de 4 de Julho
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

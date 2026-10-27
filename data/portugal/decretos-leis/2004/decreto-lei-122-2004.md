@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3227 - 3229
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119a00/32273229.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-05-22'
+entry_into_force:
+  date: '2004-05-22'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: até ao 2.º dia após o encerramento do Euro 2004
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

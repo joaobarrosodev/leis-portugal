@@ -23,6 +23,15 @@ publication:
   pages: 7087 - 7088
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/267a00/70877088.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início de vigência da portaria que procede à estruturação do quadro de pessoal
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

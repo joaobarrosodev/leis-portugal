@@ -23,6 +23,15 @@ publication:
   pages: 3635 - 3636
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19800/36353636.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da abertura da campanha (1 de Setembro de 1989)
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

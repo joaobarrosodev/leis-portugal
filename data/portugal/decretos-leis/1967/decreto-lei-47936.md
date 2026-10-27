@@ -23,6 +23,15 @@ publication:
   pages: 1651 - 1652
   pdf_url: https://files.diariodarepublica.pt/1s/1967/09/21500/16511652.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um mês após a troca dos instrumentos de ratificação, a efectuar-se em Brasília, no mais breve prazo possível
+  method: clausula
+  article: art-viii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

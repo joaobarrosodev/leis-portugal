@@ -25,6 +25,16 @@ publication:
   pages: 6378 - 6407
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do segundo mês seguinte à data da sua ratificação, aceitação ou aprovação por pelo menos dois terços
+    dos Estados signatários, incluindo o Estado em cujo território se situa a sede do C
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

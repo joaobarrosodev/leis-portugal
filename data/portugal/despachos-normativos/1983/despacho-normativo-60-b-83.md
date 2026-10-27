@@ -24,6 +24,16 @@ publication:
   pages: 828-(3) a 828-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05301/00030004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no continente no dia imediato ao da sua publicação e nas Regiões Autónomas dos Açores e da Madeira 30 dias após a
+    mesma data
+  method: clausula
+  article: n-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 1540-(21) a 1540-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16102/00210026.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da troca de instrumentos de ratificação e terá a duração indeterminada, podendo ser denunciado por qualquer
+    das Partes contratantes, mediante aviso prévio de seis meses
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

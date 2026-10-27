@@ -24,6 +24,16 @@ publication:
   pages: 365 - 366
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05200/03650366.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da sua assinatura pelas Partes Contratantes e poderá ser denunciado por qualquer delas mediante aviso
+    prévio de noventa dias
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1505 - 1505
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14400/15051505.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1986-06-26'
+entry_into_force:
+  date: '1986-06-26'
+  rule: no dia da publicação do decreto do Governo que contém o Estatuto da Escola Naval
+  method: clausula
+  article: art-unico
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

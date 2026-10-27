@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3606 - 3608
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10800/0360603608.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-09'
+entry_into_force:
+  date: '2015-06-09'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1707 - 1708
   pdf_url: https://files.diariodarepublica.pt/1s/2016/05/10200/0170701708.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-26'
+entry_into_force:
+  date: '2016-06-26'
+  rule: 30 dias após a data da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

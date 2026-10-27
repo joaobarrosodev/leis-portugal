@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4 - 50
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/08900/0000400050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-10'
+entry_into_force:
+  date: '2022-05-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-89
+  effects_date: '2022-03-30'
+  effects_rule: reportados a 30 de março de 2022, considerando-se ratificados todos os atos entretanto praticados, em conformidade
+    com o presente decreto-lei
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 80 - 81
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01200/00800081.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-01-16'
+entry_into_force:
+  date: '1985-01-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

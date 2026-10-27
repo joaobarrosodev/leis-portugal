@@ -24,6 +24,16 @@ publication:
   pages: 5633 - 5640
   pdf_url: https://files.diariodarepublica.pt/1s/2002/08/177a00/56335640.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 60.º dia seguinte à data do depósito do 35.º instrumento de ratificação, aceitação, aprovação ou adesão junto da
+    depositária, desde que, pelo menos, cinco desses Estados tenham declarado, em confor
+  method: clausula
+  article: art-xiii
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

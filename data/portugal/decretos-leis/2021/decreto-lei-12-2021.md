@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 4 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02700/0000400016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-11'
+entry_into_force:
+  date: '2021-03-11'
+  rule: 30 dias após sua publicação, exceto o artigo 20.º e o n.º 2 do artigo 35.º, os quais
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

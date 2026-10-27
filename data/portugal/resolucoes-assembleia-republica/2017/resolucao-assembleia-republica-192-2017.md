@@ -24,6 +24,16 @@ publication:
   pages: 4542 - 4548
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15200/0454204548.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando nove (9) dos Estados signatários houverem efetuado o depósito do Instrumento de Ratificação nos termos do Artigo
+    anterior
+  method: clausula
+  article: art-xxvi
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

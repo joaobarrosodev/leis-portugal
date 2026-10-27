@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2545 - 2547
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09500/0254502547.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-05-17'
+entry_into_force:
+  date: '2012-05-17'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: repealed
 notes: []

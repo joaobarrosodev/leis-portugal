@@ -25,6 +25,16 @@ publication:
   pages: 5348 - 5349
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/22200/0534805349.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do ano civil seguinte ao da sua publicação, retroagindo os seus efeitos à data da entrada em vigor
+    da Lei n.º 49/2011, de 7 de setembro
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

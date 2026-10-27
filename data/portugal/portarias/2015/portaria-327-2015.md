@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8586 - 8587
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19300/0858608587.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-03'
+entry_into_force:
+  date: '2015-10-03'
+  rule: no dia seguinte ao da sua publicação e aplica-se à campanha vitivinícola de 2015-2016
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

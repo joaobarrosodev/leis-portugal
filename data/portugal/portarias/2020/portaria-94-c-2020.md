@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7-(6) a 7-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07602/0000600008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-18'
+entry_into_force:
+  date: '2020-04-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-8
+  effects_date: '2020-03-18'
+  effects_rule: a partir de 18 de março de 2020
+  end_date: null
+  end_rule: pelo período de 3 meses, com possibilidade de prorrogação caso as circunstâncias assim o determinem, em função
+    da evolução epidemiológica da COVID-19
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

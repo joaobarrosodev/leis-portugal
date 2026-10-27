@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4964-(2) a 4964-(109)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17701/0000200109.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-09-16'
+entry_into_force:
+  date: '2014-09-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

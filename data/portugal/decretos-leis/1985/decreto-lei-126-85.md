@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1110 - 1111
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09500/11101111.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1985-04-25'
+entry_into_force:
+  date: '1985-04-25'
+  rule: no dia imediato ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: '1985-01-01'
+  effects_rule: desde 1 de Janeiro de 1985
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

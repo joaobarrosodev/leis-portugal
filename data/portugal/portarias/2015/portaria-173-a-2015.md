@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3664-(6) a 3664-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11002/0000600007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-09'
+entry_into_force:
+  date: '2015-06-09'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: à data de 1 de junho de 2015
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

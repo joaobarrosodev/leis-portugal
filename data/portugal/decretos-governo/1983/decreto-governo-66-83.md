@@ -24,6 +24,16 @@ publication:
   pages: 2797 - 2798
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/17200/27972798.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data que ficar concluída a troca de notas pelas quais cada uma das Partes comunicará à outra que se encontram cumpridas
+    as formalidades constitucionais exigidas para a sua vigência na respectiva or
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

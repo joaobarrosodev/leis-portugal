@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 14 - 38
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/24100/0001400038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-12-16'
+entry_into_force:
+  date: '2021-12-16'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-10
+  effects_date: '2022-01-01'
+  effects_rule: no dia 1 de janeiro de 2022, à exceção do artigo 2.º, no que respeita à alteração do artigo 3.º do Decreto-Lei
+    n.º 42-A/2016, de 12 de agosto, que
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

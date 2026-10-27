@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1462 - 1463
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06100/0146201463.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-03-26'
+entry_into_force:
+  date: '2012-03-26'
+  rule: com a publicação do Orçamento do Estado para 2013
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

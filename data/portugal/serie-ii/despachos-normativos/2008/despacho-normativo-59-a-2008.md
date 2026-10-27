@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 47310-(2) a 47310-(12)
   pdf_url: https://files.diariodarepublica.pt/2s/2008/11/225000001/0000200012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-11-20'
+entry_into_force:
+  date: '2008-11-20'
+  rule: no dia seguinte ao da sua publicação em Diário da República podendo ser revistos ou alterados nos termos da lei
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

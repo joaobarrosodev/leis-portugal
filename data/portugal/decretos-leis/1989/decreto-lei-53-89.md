@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 749 - 753
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04400/07490753.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-08-22'
+entry_into_force:
+  date: '1989-08-22'
+  rule: seis meses após a data da sua publicação, com excepção do n.º 4 do artigo 8.º, que entra imediatamente em vigor, e
+    dos artigos 8.º, n.os 1, 2 e 3, e 9.º, cuja vigência terá início um ano após a data d
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

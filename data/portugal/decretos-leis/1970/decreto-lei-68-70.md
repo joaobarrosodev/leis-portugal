@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 239 - 240
   pdf_url: https://files.diariodarepublica.pt/1s/1970/02/04900/02390240.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1970-03-29'
+entry_into_force:
+  date: '1970-03-29'
+  rule: trinta dias após a sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

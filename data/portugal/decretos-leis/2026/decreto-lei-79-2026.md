@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6 - 16
   pdf_url: https://files.diariodarepublica.pt/1s/2026/03/05300/0000600016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-04-16'
+entry_into_force:
+  date: '2026-04-16'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

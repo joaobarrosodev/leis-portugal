@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1205 - 1210
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03900/0120501210.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-05-15'
+entry_into_force:
+  date: '2008-05-15'
+  rule: no dia 15 de Maio de 2008
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

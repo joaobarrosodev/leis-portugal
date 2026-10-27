@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 7732 - 7738
   pdf_url: https://files.diariodarepublica.pt/2s/2006/05/104000000/0773207738.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-05-31'
+entry_into_force:
+  date: '2006-05-31'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:212246766:por'
+    detail: Revogado, a partir de 27 de abril de 2023, pelo(a) Regulamento da CMVM n.º 1/2023 - Diário da República n.º 81/2023,
+      Série II de 2023-04-26
 notes: []
 language: por
 version:

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 4269 - 4272
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-07-16'
+entry_into_force:
+  date: '2005-07-16'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

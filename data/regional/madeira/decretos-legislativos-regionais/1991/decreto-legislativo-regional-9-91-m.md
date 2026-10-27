@@ -24,6 +24,15 @@ publication:
   pages: 1639 - 1643
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/076a00/16391643.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: juntamente com o decreto regulamentar regional referido no artigo 7.º
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

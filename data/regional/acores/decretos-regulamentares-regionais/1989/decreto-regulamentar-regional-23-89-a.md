@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2934-(12) a 2934-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/17003/00120013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1989-08-01'
+entry_into_force:
+  date: '1989-08-01'
+  rule: no dia 1 de Agosto de 1989 e
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: a 31 de Julho do próximo ano
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

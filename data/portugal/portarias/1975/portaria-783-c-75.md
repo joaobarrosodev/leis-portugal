@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 2152-(7) a 2152-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29902/00070008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-01-01'
+entry_into_force:
+  date: '1976-01-01'
+  rule: no dia 1 de Janeiro de 1976
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

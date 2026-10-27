@@ -23,9 +23,25 @@ publication:
   supplement: null
   pages: 450 - 451
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/01200/0045000451.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-22'
+entry_into_force:
+  date: '2017-01-22'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2017-01-18'
+  effects_rule: no dia seguinte ao da sua publicação, e
+  end_date: '2017-12-31'
+  end_rule: até 31 de dezembro de 2017
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: texto'
+    detail: até 31 de dezembro de 2017
 notes: []
 language: por
 version:

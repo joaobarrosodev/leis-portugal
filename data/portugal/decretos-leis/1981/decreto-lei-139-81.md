@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1241 - 1242
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12400/12411242.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1981-05-31'
+entry_into_force:
+  date: '1981-05-31'
+  rule: 'no dia imediato ao da sua publicação e as alterações aos artigos 14.º e 21.º do Código do Imposto de Capitais aplicam-se,
+    respectivamente, aos rendimentos sujeitos aos impostos de capitais, secção A, '
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

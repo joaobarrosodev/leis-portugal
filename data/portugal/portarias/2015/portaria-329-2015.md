@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 8590 - 8590
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19400/0859008590.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-10'
+entry_into_force:
+  date: '2015-10-10'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2016-01-01'
+  effects_rule: a partir do dia 1 de janeiro de 2016
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

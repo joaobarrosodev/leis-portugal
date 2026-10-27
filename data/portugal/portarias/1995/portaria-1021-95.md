@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5229 - 5231
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-08-21'
+entry_into_force:
+  date: '1995-08-21'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

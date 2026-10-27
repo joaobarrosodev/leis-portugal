@@ -23,6 +23,16 @@ publication:
   pages: 871 - 874
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08500/08710874.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês imediatamente subsequente à sua publicação, devendo efectuar-se a primeira classificação para
+    o efeito da atribuição do prémio de rendibilidade até ao próximo mês de Julho
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

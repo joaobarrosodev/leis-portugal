@@ -24,6 +24,16 @@ publication:
   pages: 6640 - 6652
   pdf_url: https://files.diariodarepublica.pt/1s/2008/09/17700/0664006652.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no 1.º dia do mês seguinte ao termo de um período de três meses após a data em que 10 Estados membros do Conselho
+    da Europa tenham manifestado o seu consentimento em ficarem vinculados à Convenção em '
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

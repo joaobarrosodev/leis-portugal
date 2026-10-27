@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 915 - 916
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05200/09150916.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1987-04-07'
+entry_into_force:
+  date: '1987-04-07'
+  rule: em 7 de Abril de 1987, data em que se comemora o Dia Mundial da Saúde, dedicado este ano à promoção dos programas
+    de vacinação
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

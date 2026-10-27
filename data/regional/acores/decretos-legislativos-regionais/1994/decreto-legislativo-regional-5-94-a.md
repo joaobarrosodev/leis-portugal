@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1080-(2) a 1080-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/053a01/00020004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-03-05'
+entry_into_force:
+  date: '1994-03-05'
+  rule: no dia imediato à sua publicação, reportando os seus efeitos a 1 de Setembro de 1993
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

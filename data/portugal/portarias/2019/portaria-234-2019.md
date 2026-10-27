@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 18 - 21
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/14100/0001800021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-13'
+entry_into_force:
+  date: '2019-09-13'
+  rule: no dia 13 de setembro de 2019
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1261 - 1263
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/05000/0126101263.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-01'
+entry_into_force:
+  date: '2018-04-01'
+  rule: a 1 de abril de 2018
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4227 - 4229
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/150a00/42274229.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1995-07-02'
+entry_into_force:
+  date: '1995-07-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

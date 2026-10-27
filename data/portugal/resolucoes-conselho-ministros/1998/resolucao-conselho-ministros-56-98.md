@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1903 - 1904
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/099b00/19031904.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-04-30'
+entry_into_force:
+  date: '1998-04-30'
+  rule: no dia imediato à sua publicação
+  method: clausula
+  article: n-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

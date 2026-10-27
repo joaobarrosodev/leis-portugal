@@ -23,9 +23,25 @@ publication:
   supplement: null
   pages: 37 - 38
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/00300/0003700038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-07'
+entry_into_force:
+  date: '2015-01-07'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: '2015-10-31'
+  end_rule: até 31 de outubro de 2015
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: art-7'
+    detail: até 31 de outubro de 2015
 notes: []
 language: por
 version:

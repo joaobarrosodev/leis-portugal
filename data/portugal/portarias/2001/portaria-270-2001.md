@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1750 - 1750
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/074b00/17501750.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-04-04'
+entry_into_force:
+  date: '2001-04-04'
+  rule: a partir do dia 4 de Abril de 2001
+  method: clausula
+  article: n-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

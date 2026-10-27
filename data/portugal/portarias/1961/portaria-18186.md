@@ -24,6 +24,16 @@ publication:
   pages: 3 - 8
   pdf_url: https://files.diariodarepublica.pt/1s/1961/01/00100/00030008.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas zonas em que tal é determinado por despacho, aplicando-se hoje nas regiões de Lisboa, Porto, Viana do Castelo,
+    Braga, Santarém e Évora
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

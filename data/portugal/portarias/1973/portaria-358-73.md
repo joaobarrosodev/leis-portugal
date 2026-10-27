@@ -23,6 +23,15 @@ publication:
   pages: 868 - 872
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/12000/08680872.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

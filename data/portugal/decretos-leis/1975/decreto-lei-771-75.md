@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2160-(116) a 2160-(117)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30006/01160117.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1976-01-01'
+entry_into_force:
+  date: '1976-01-01'
+  rule: 'em 1 de Janeiro de 1976 e as suas disposições são aplicáveis do modo seguinte:'
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

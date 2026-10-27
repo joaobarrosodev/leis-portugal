@@ -25,6 +25,16 @@ publication:
   pages: 1414 - 1416
   pdf_url: https://files.diariodarepublica.pt/1s/1969/10/24400/14141416.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas províncias ultramarinas de Angola e Moçambique imediatamente após a publicação nos respectivos Boletins Oficiais
+    do regulamento a que se refere o artigo 13.º do Decreto-Lei n.º 40623
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

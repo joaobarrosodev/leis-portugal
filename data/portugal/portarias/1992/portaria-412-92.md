@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2252 - 2252
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/114b00/22522252.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-05-23'
+entry_into_force:
+  date: '1992-05-23'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '1991-09-01'
+  effects_rule: a partir do dia 1 de Setembro de 1991, nos termos do n.º 1 do artigo 5.º do Decreto-Lei n.º 296/91, de 16
+    de Agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

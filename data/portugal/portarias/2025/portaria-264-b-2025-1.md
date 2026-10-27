@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2 - 5
   pdf_url: https://files.diariodarepublica.pt/1s/2025/07/13101/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-07-26'
+entry_into_force:
+  date: '2025-07-26'
+  rule: no dia 26 de julho de 2025 e aplica-se às apostas registadas para participarem nos sorteios que se realizem a partir
+    do dia 29 de agosto de 2025
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

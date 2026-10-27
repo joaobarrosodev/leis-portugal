@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8388 - 8389
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/285b00/83888389.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-12-16'
+entry_into_force:
+  date: '2003-12-16'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
+  effects_date: '2003-11-20'
+  effects_rule: desde 20 de Novembro de 2003
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

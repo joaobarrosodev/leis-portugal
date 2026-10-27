@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 968-(6) a 968-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/050b02/00060006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1994-03-01'
+entry_into_force:
+  date: '1994-03-01'
+  rule: em 1 de Março de 1994
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

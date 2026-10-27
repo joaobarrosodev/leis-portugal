@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 151 - 224
   pdf_url: https://files.diariodarepublica.pt/2s/2020/07/128000000/0015100224.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-01'
+entry_into_force:
+  date: '2020-11-01'
+  rule: no dia 1 de novembro de 2020
+  method: clausula
+  article: n-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

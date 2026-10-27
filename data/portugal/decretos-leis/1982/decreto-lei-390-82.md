@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 2924 - 2927
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21600/29242927.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-11-16'
+entry_into_force:
+  date: '1982-11-16'
+  rule: 60 dias após a sua publicação, aplicando-se apenas às obras, aos fornecimentos e às concessões objecto de deliberação
+    pelos órgãos autárquicos posterior à sua entrada em vigor
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

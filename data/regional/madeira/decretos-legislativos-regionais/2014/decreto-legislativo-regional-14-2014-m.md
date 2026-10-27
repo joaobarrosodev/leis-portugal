@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5922 - 5950
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/22600/0592205950.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-11-22'
+entry_into_force:
+  date: '2014-11-22'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: '2014-01-01'
+  effects_rule: desde 1 de janeiro de 2014, à exceção das alterações efetuadas no n.º 1 e na alínea d) do n.º 10 do artigo
+    48.º do Decreto Legislativo Regional n.º 31-A/2013/M, de 31 de dezembro cujos efeitos se prod
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

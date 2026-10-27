@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 5818 - 5906
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-14'
+entry_into_force:
+  date: '2015-08-14'
+  rule: no dia seguinte ao da sua publicação."
+  method: clausula
+  article: art-21
+  effects_date: '2015-01-01'
+  effects_rule: reportados a 1 de janeiro de 2015, sem prejuízo do disposto no n.º 6 do artigo 6.º, no artigo 21.º do regime
+    jurídico da contribuição regional sobre os sacos de plástico leves, aprovado pelo artigo 14
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

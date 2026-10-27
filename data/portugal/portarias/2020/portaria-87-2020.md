@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 31 - 31
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06800/0003100031.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-22'
+entry_into_force:
+  date: '2020-03-22'
+  rule: no dia 22 de março de 2020
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

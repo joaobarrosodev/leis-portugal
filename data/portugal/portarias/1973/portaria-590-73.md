@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1553 - 1554
   pdf_url: https://files.diariodarepublica.pt/1s/1973/08/20300/15531554.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1973-08-01'
+entry_into_force:
+  date: '1973-08-01'
+  rule: em 1 de Agosto de 1973, data a partir da qual se considera revogada a Portaria n.º 328/72, de 7 de Junho
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

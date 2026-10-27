@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 436-(2) a 436-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/012000001/0000200004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-20'
+entry_into_force:
+  date: '2021-01-20'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: n-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

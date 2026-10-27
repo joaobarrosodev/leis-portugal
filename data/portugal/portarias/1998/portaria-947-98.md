@@ -25,7 +25,18 @@ publication:
   supplement: null
   pages: 5792 - 5793
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/254b00/57925793.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1998-11-03'
+entry_into_force:
+  date: '1998-11-03'
+  rule: no dia da sua publicação, sem prejuízo da comercialização, durante o período de um ano, de margarinas e outras matérias
+    gordas que obedeçam ao disposto no Decreto-Lei n.º 59/85, de 11 de Março
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 3984 - 3985
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22600/39843985.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data em que ficar concluída a troca de notas pelas quais cada uma das Partes contratantes comunicará à outra, por
+    via diplomática, que se encontram cumpridas as formalidades constitucionais exigida
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

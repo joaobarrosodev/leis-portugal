@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 20 - 23
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13500/0002000023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-15'
+entry_into_force:
+  date: '2021-07-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: '2022-12-31'
+  end_rule: até 31 de dezembro de 2022, sem prejuízo da possibilidade de prorrogação no ano subsequente caso o beneficiário
+    mantenha as condições previstas no artigo 6.º
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: art-14'
+    detail: até 31 de dezembro de 2022, sem prejuízo da possibilidade de prorrogação no ano subsequente caso o beneficiário
+      mantenha as condições previstas no artigo 6.º
 notes: []
 language: por
 version:

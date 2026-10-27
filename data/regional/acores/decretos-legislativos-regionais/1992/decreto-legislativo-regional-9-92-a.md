@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1390 - 1392
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/067a00/13901392.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1992-03-20'
+entry_into_force:
+  date: '1992-03-20'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

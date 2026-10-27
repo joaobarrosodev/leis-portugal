@@ -24,6 +24,15 @@ publication:
   pages: 2824 - 2830
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/25700/28242830.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do terceiro mês após a publicação do presente diploma
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

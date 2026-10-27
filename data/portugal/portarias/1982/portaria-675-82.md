@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2025 - 2026
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15500/20252026.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '1982-07-09'
+entry_into_force:
+  date: '1982-07-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []
